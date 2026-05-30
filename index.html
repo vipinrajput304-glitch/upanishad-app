@@ -165,16 +165,59 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   line-height:1.5;
 }
 
+
+.sacred-row{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:14px;
+  margin-bottom:10px;
+  color:rgba(232,201,122,.72);
+  font-size:15px;
+  letter-spacing:4px;
+}
+.sacred-line{
+  width:54px;
+  height:1px;
+  background:linear-gradient(90deg,transparent,rgba(201,168,76,.55),transparent);
+}
+.mantra-chip{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  margin:14px auto 0;
+  padding:7px 13px;
+  border-radius:999px;
+  color:rgba(232,201,122,.86);
+  background:rgba(201,168,76,.075);
+  border:1px solid rgba(201,168,76,.16);
+  font-family:'Noto Sans Devanagari',serif;
+  font-size:12px;
+  letter-spacing:.6px;
+}
+.home-nav-row{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:10px;
+  margin-bottom:12px;
+}
+.home-mini{
+  min-width:44px;
+}
+
 </style>
 <link rel="manifest" href="manifest.json"><meta name="theme-color" content="#C9A84C"></head>
 <body>
 <div class="toast" id="toast"></div>
 <div class="sc on" id="home" style="padding-bottom:40px">
   <div class="hdr">
+    <div class="sacred-row"><span class="sacred-line"></span><span>॥ ॐ ॥</span><span class="sacred-line"></span></div>
     <div class="om">ॐ</div>
     <div class="ht">उपनिषद् ज्ञान कोश</div>
     <div class="hs">Upanishad Wisdom Library</div>
-    <div class="hd">Sanskrit · Hindi · English · Built-in Chanting</div>
+    <div class="hd">श्रुति · ध्यान · ज्ञान</div>
+    <div class="mantra-chip">असतो मा सद्गमय · तमसो मा ज्योतिर्गमय</div>
     <div class="hero-note">शांत अध्ययन के लिए एक सरल ग्रंथालय — मंत्र, अर्थ, शब्द-विच्छेद और चिंतन एक ही स्थान पर।</div>
   </div>
   <div class="hero-actions">
@@ -193,7 +236,7 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 </div>
 <div class="sc" id="ulist" style="padding-bottom:20px">
   <div class="lhdr">
-    <button class="bb" onclick="showHome()">← वापस</button>
+    <div class="home-nav-row"><button class="bb" onclick="showHome()">← वापस</button><button class="bb" onclick="showHome()">🏠 Home</button></div>
     <div class="lt"><div class="li" id="li"></div><div><div class="ln" id="ln"></div><div class="ls" id="ls"></div></div></div>
   </div>
   <div id="lres"></div>
@@ -203,7 +246,7 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 <div class="sc" id="mvw">
   <div class="mvh">
     <div class="mvt">
-      <button class="mb" onclick="showList()">← सूची</button>
+      <div style="display:flex;gap:8px;align-items:center"><button class="mb" onclick="showList()">← सूची</button><button class="mb home-mini" onclick="showHome()">🏠</button></div>
       <div class="mtb"><div class="mu" id="mu"></div><div class="mm" id="mm"></div></div>
       <button class="bk" id="bkb" onclick="doBk()" style="opacity:0.4">🔖</button>
     </div>
