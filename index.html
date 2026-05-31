@@ -1362,16 +1362,31 @@ function renderList(){
 function showList(){renderList();showScr('ulist');}
 function openM(idx){try{stopSp();}catch(e){} CMI=idx;CTB='meaning';CTR='advaita';renderMV();showScr('mvw');}
 
+
+function getSec(uid,mid){
+  const secs=SECTIONS[uid]||[];
+  return secs.find((s,i)=>mid>=s.r[0]&&mid<=s.r[1])||null;
+}
+function getSecIndex(uid,mid){
+  const secs=SECTIONS[uid]||[];
+  return secs.findIndex(s=>mid>=s.r[0]&&mid<=s.r[1]);
+}
+function secShortTitle(sec){
+  if(!sec)return 'सामान्य पाठ';
+  return sec.t.split('·')[0].trim();
+}
+
 function renderMV(){
   const u=CU,mt=MD[u.id]||[],m=mt[CMI];if(!m)return;
   sP(u.id,CMI);
+  const sec=getSec(u.id,m.id),secNo=getSecIndex(u.id,m.id)+1;
   document.getElementById('mu').textContent=u.name+' उपनिषद्';
-  document.getElementById('mm').textContent='मंत्र '+m.id+' of '+u.total;
+  document.getElementById('mm').textContent=(sec?('खंड '+secNo+' · '+secShortTitle(sec)+' · '):'')+'मंत्र '+m.id+' of '+u.total;
   document.getElementById('pgf').style.width=((CMI+1)/mt.length*100)+'%';
   document.getElementById('bkb').style.opacity=isBk(u.id,CMI)?'1':'0.4';
   document.getElementById('pprev').disabled=CMI===0;
   document.getElementById('pnext').disabled=CMI>=mt.length-1;
-  document.getElementById('ptl').textContent=u.name+' — मंत्र '+m.id;
+  document.getElementById('ptl').textContent=u.name+' — '+(sec?secShortTitle(sec)+' · ':'')+'मंत्र '+m.id;
   document.getElementById('ptn2').textContent=(CMI+1)+' of '+mt.length+' ('+u.total+' total)';
   const total=mt.length,show=Math.min(total,9);
   let dh='';
