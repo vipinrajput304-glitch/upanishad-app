@@ -323,7 +323,7 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
     <div class="toc-title">सभी मंत्र अनुभागवार देखें</div>
     <div class="toc-sub">अगले चरण में यहाँ अलग स्क्रीन खुलेगी, जिसमें अध्याय/खंड के अनुसार सभी मंत्र दिखेंगे।</div>
     <div class="toc-actions">
-      <button class="toc-btn" onclick="toast('All Mantras screen next step')">सभी मंत्र देखें</button>
+      <button class="toc-btn" onclick="openAllMantras()">सभी मंत्र देखें</button>
     </div>
   </div>
   <div id="lm" style="display:none"></div>
@@ -336,6 +336,18 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   <div id="sres"></div>
   <div class="lbl" style="padding-top:12px">इस खंड के मंत्र · SECTION MANTRAS</div>
   <div id="sm"></div>
+</div>
+<div class="sc" id="alist" style="padding-bottom:20px">
+  <div class="lhdr">
+    <div class="home-nav-row"><button class="bb" onclick="showList()">← उपनिषद्</button><button class="bb" onclick="showHome()">🏠 Home</button></div>
+    <div class="lt"><div class="li" id="ai"></div><div><div class="ln" id="anm"></div><div class="ls" id="ameta"></div></div></div>
+  </div>
+  <div class="toc-card">
+    <div class="toc-kicker">Full Index · संपूर्ण सूची</div>
+    <div class="toc-title">सभी मंत्र अनुभागवार</div>
+    <div class="toc-sub">पूरे उपनिषद् को खंडों के अनुसार देखें और किसी भी मंत्र पर सीधे जाएँ।</div>
+  </div>
+  <div id="am"></div>
 </div>
 <div class="sc" id="mvw">
   <div class="mvh">
@@ -1366,6 +1378,36 @@ function renderList(){
       <div class="mn ${done?'dn':''} ${cur?'cr':''}">${done?'✓':m.id}</div>
       <div style="flex:1;min-width:0"><div class="ms">मंत्र ${m.id} · ${m.sk.replace(/\n/g,' ').substring(0,46)}…</div></div>
       <div style="color:var(--tf);font-size:14px">›</div></div>`;
+  }).join('');
+}
+
+
+function openAllMantras(){
+  CS=null;
+  renderAllMantras();
+  showScr('alist');
+}
+
+function renderAllMantras(){
+  const u=CU,secs=SECTIONS[u.id]||[],mt=MD[u.id]||[];
+  if(!u)return;
+  document.getElementById('ai').textContent=u.icon;
+  document.getElementById('anm').textContent=u.name+' उपनिषद्';
+  document.getElementById('ameta').textContent=u.en+' · '+u.veda+' · '+u.total+' mantras';
+  document.getElementById('am').innerHTML=secs.map((sec,si)=>{
+    const start=sec.r[0],end=sec.r[1];
+    const items=mt.slice(start-1,end).map((m,offset)=>{
+      const idx=start-1+offset;
+      return`<div class="mi" onclick="openM(${idx})">
+        <div class="mn">${m.id}</div>
+        <div style="flex:1;min-width:0"><div class="ms">मंत्र ${m.id} · ${m.sk.replace(/\n/g,' ').substring(0,54)}…</div></div>
+        <div style="color:var(--tf);font-size:14px">›</div>
+      </div>`;
+    }).join('');
+    return`
+      <div class="lbl" style="padding-top:${si===0?'4px':'16px'}">खंड ${si+1} · ${secShortTitle(sec)}</div>
+      <div class="sec-list">${items}</div>
+    `;
   }).join('');
 }
 
