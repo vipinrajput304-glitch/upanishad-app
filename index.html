@@ -1289,7 +1289,7 @@ dp:[D("🕉️ ऐतरेय का सार","(१) आत्मा एक�
 
 const MD={isha:ISHA,mandukya:MANDUKYA,aitareya:[...AITAREYA,...AITAREYA_EXTRA,...AITAREYA_REST]};
 
-let CU=null,CS=null,CMI=0,CTR='advaita',CTB='meaning';
+let CU=null,CS=null,CMI=0,CTR='advaita',CTB='path';
 let SP=false,SS=0.55,SR=false,WI=null,CST='';
 
 const _store={};function gP(){try{return JSON.parse(localStorage.getItem('up3_p')||'{}')}catch(e){return _store['p']||{}}}
@@ -1457,7 +1457,7 @@ function backFromReading(){
 }
 
 function showList(){CS=null;renderList();showScr('ulist');}
-function openM(idx){try{stopSp();}catch(e){} CMI=idx;CTB='meaning';CTR='advaita';renderMV();showScr('mvw');}
+function openM(idx){try{stopSp();}catch(e){} CMI=idx;CTB='path';CTR='advaita';renderMV();showScr('mvw');}
 
 
 function getSec(uid,mid){
@@ -1506,6 +1506,10 @@ function renderBody(m){
   const tcol={advaita:'var(--or)',vishisht:'var(--green)',aurobindo:'var(--pu)'};
 
   document.getElementById('mvb').innerHTML=`
+<div class="tabs">
+  ${['path','meaning','words','reflection'].map(t=>`<button class="tb ${t===CTB?'on':''}" onclick="swTab('${t}')">${t==='path'?'पाठ':t==='meaning'?'अर्थ':t==='words'?'शब्द':'चिंतन'}</button>`).join('')}
+</div>
+<div class="pn ${CTB==='path'?'on':''}" id="p-path">
 <div class="sk">
   <div class="skl">मूल मंत्र · Original Sanskrit</div>
   <div class="skt">${m.sk}</div>
@@ -1529,8 +1533,6 @@ function renderBody(m){
     <button class="ab" id="rbtn" onclick="togRep(this)">🔁 Repeat: Off</button>
   </div>
 </div>
-<div class="tabs">
-  ${['meaning','words','commentary','depth'].map(t=>`<button class="tb ${t===CTB?'on':''}" onclick="swTab('${t}')">${t==='meaning'?'अर्थ':t==='words'?'शब्द':t==='commentary'?'व्याख्या':'गहराई'}</button>`).join('')}
 </div>
 <div class="pn ${CTB==='meaning'?'on':''}" id="p-meaning">
   <div class="mb2"><div class="ml" style="color:var(--green)">हिंदी अर्थ</div><div class="mhi">${m.hi}</div></div>
@@ -1544,13 +1546,13 @@ function renderBody(m){
   ${m.gr?`<div class="gn"><div class="gnl">Grammatical Note</div><div class="gnt">${m.gr}</div></div>`:''}`
   :'<p style="padding:20px;text-align:center;color:var(--tf)">Coming soon</p>'}
 </div>
-<div class="pn ${CTB==='commentary'?'on':''}" id="p-commentary">
+<div class="pn ${CTB==='reflection'?'on':''}" id="p-reflection">
+  <div class="lbl" style="padding-top:2px">व्याख्या · COMMENTARY</div>
   <div class="tt">
     ${trads.map(t=>`<button class="tbt ${tcls[t]} ${CTR===t?'on':''}" onclick="swTr('${t}')">${tnames[t]}</button>`).join('')}
   </div>
   ${trads.map(t=>{const c=m.cm[t]||{};return`<div class="cb ${CTR===t?'on':''}" id="cb-${t}" style="background:${tbg[t]};border:1px solid ${tbd[t]}"><div class="cba" style="color:${tcol[t]}">${c.a||''}</div><div class="chi">${c.h||''}</div><div class="cen">${c.en||''}</div>${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}</div>`;}).join('')}
-</div>
-<div class="pn ${CTB==='depth'?'on':''}" id="p-depth">
+  <div class="lbl" style="padding-top:12px">गहराई · DEEP REFLECTION</div>
   ${m.dp&&m.dp.length?m.dp.map((d,i)=>`<div class="di" id="di${i}"><div class="dq" onclick="tD(${i})"><div class="dqt">${d.q}</div><div class="da2">▼</div></div><div class="da"><div class="dai">${d.a}</div></div></div>`).join('')
   :'<p style="padding:20px;text-align:center;color:var(--tf)">Coming soon</p>'}
 </div>`;
@@ -1619,7 +1621,7 @@ function goM(dir){
   const curSec=getSec(CU.id,curM.id),nextSec=getSec(CU.id,nextM.id);
   const changedSection=curSec&&nextSec&&curSec!==nextSec;
 
-  CMI=nx;CTB='meaning';
+  CMI=nx;CTB='path';
   const b=document.getElementById('mvb');
   b.style.cssText='transition:opacity 0.15s,transform 0.15s;opacity:0;transform:translateX('+(dir>0?'40px':'-40px')+')';
   setTimeout(()=>{
