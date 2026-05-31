@@ -292,6 +292,18 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   margin-bottom:4px;
   line-height:1.45;
 }
+
+.sec-progress{height:4px;background:rgba(214,168,79,.10);border-radius:99px;overflow:hidden;margin-top:9px;}
+.sec-progress-fill{height:100%;background:var(--g);border-radius:99px;}
+.sec-status{font-size:12px;color:var(--td);margin-top:5px;line-height:1.45;}
+.sec-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;}
+.sec-mini-btn{border:1px solid rgba(214,168,79,.18);background:rgba(214,168,79,.07);color:var(--t);border-radius:999px;padding:7px 10px;font-size:12px;cursor:pointer;}
+.sec-mini-btn:active{transform:scale(.98);}
+.mi.read{opacity:.72;}
+.mi.read .ms{color:var(--td);}
+.mi.active-read{border-color:rgba(214,168,79,.34);background:rgba(214,168,79,.09);}
+.mn.done{background:rgba(111,143,104,.18);color:#9FC79A;border-color:rgba(111,143,104,.25);}
+
 .sec-range{
   font-size:12px;
   color:var(--td);
@@ -1305,6 +1317,7 @@ let SP=false,SS=0.55,SR=false,WI=null,CST='';
 
 const _store={};function gP(){try{return JSON.parse(localStorage.getItem('up3_p')||'{}')}catch(e){return _store['p']||{}}}
 function sP(u,i){const p=gP();p[u]=i;_store['p']=p;try{localStorage.setItem('up3_p',JSON.stringify(p))}catch(e){}}
+function sPAll(p){_store['p']=p;try{localStorage.setItem('up3_p',JSON.stringify(p))}catch(e){}}
 function gB(){try{return JSON.parse(localStorage.getItem('up3_b')||'{}')}catch(e){return _store['b']||{}}}
 function tBD(u,i){const b=gB(),k=u+'_'+i;if(b[k])delete b[k];else b[k]=true;_store['b']=b;try{localStorage.setItem('up3_b',JSON.stringify(b))}catch(e){};return!!b[k]}
 function isBk(u,i){return!!gB()[u+'_'+i]}
@@ -1366,6 +1379,49 @@ const SECTIONS={
 };
 
 function openU(uid){CU=UP.find(u=>u.id===uid);renderList();showScr('ulist');}
+
+function secProgressInfo(u,sec){
+  const prog=gP(),last=prog[u.id]??0,mt=MD[u.id]||[];
+  const startIdx=sec.r[0]-1,endIdx=sec.r[1]-1,total=endIdx-startIdx+1;
+  const read=Math.max(0,Math.min(last-startIdx,total));
+  const pct=total?Math.round(read/total*100):0;
+  const completed=read>=total;
+  const started=read>0;
+  const resumeIdx=completed?startIdx:(started?Math.min(last,endIdx):startIdx);
+  return {startIdx,endIdx,total,read,pct,completed,started,resumeIdx,last,mt};
+}
+function secActionLabel(info){
+  if(info.completed)return '✓ Completed · Re-read';
+  if(info.started)return '↻ Resume · मंत्र '+(info.resumeIdx+1);
+  return 'ॐ Start Section';
+}
+function markSecRead(si){
+  const u=CU,sec=(SECTIONS[u.id]||[])[si]; if(!u||!sec)return;
+  const prog=gP(),endIdx=sec.r[1];
+  prog[u.id]=Math.max(prog[u.id]??0,endIdx);
+  sPAll(prog);
+  toast('खंड पढ़ा हुआ चिह्नित ✓');
+  renderList();
+  if(CS===si)renderSection();
+}
+function restartSec(si){
+  const u=CU,sec=(SECTIONS[u.id]||[])[si]; if(!u||!sec)return;
+  if(!confirm('Restart this section? Progress after this point may be reset.'))return;
+  const prog=gP(),startIdx=sec.r[0]-1;
+  prog[u.id]=startIdx;
+  sPAll(prog);
+  CMI=startIdx;CTB='path';
+  toast('खंड फिर से आरंभ');
+  renderList();
+  if(CS===si)renderSection();
+  openM(startIdx);
+}
+function openSecResume(si){
+  const u=CU,sec=(SECTIONS[u.id]||[])[si]; if(!u||!sec)return;
+  const info=secProgressInfo(u,sec);
+  openM(info.resumeIdx);
+}
+
 function renderList(){
   const u=CU,prog=gP(),last=prog[u.id]??0,mt=MD[u.id]||[],secs=SECTIONS[u.id]||[];
   document.getElementById('li').textContent=u.icon;
@@ -1383,7 +1439,24 @@ function renderList(){
         <button class="toc-btn" onclick="openM(0)">ॐ Start</button>
       </div>
     </div>
-    ${secs.length?'<div class="lbl">अध्याय / खंड · SECTIONS</div><div class="sec-list">'+secs.map((s,i)=>`<div class="sec-card" onclick="openSec(${i})"><div class="sec-num">${i+1}</div><div style="flex:1"><div class="sec-name">${s.t}</div><div class="sec-range">Mantras ${s.r[0]}–${s.r[1]}</div></div><div style="color:var(--tf)">›</div></div>`).join('')+'</div>':''}
+    ${secs.length?'<div class="lbl">अध्याय / खंड · SECTIONS</div><div class="sec-list">'+secs.map((s,i)=>{
+      const info=secProgressInfo(u,s);
+      return`<div class="sec-card" onclick="openSec(${i})">
+        <div class="sec-num">${info.completed?'✓':i+1}</div>
+        <div style="flex:1">
+          <div class="sec-name">${s.t}</div>
+          <div class="sec-range">Mantras ${s.r[0]}–${s.r[1]}</div>
+          <div class="sec-status">${info.read}/${info.total} read${info.completed?' · Completed':''}</div>
+          <div class="sec-progress"><div class="sec-progress-fill" style="width:${info.pct}%"></div></div>
+          <div class="sec-actions" onclick="event.stopPropagation()">
+            <button class="sec-mini-btn" onclick="openSecResume(${i})">${secActionLabel(info)}</button>
+            ${info.started&&!info.completed?`<button class="sec-mini-btn" onclick="restartSec(${i})">Restart</button>`:''}
+            ${!info.completed?`<button class="sec-mini-btn" onclick="markSecRead(${i})">Mark read</button>`:''}
+          </div>
+        </div>
+        <div style="color:var(--tf)">›</div>
+      </div>`;
+    }).join('')+'</div>':''}
   `;
 
   document.getElementById('lm').innerHTML=mt.map((m,i)=>{
@@ -1405,15 +1478,16 @@ function openAllMantras(){
 function renderAllMantras(){
   const u=CU,secs=SECTIONS[u.id]||[],mt=MD[u.id]||[];
   if(!u)return;
+  const prog=gP(),last=prog[u.id]??0;
   document.getElementById('ai').textContent=u.icon;
   document.getElementById('anm').textContent=u.name+' उपनिषद्';
   document.getElementById('ameta').textContent=u.en+' · '+u.veda+' · '+u.total+' mantras';
   document.getElementById('am').innerHTML=secs.map((sec,si)=>{
     const start=sec.r[0],end=sec.r[1];
     const items=mt.slice(start-1,end).map((m,offset)=>{
-      const idx=start-1+offset;
-      return`<div class="mi" onclick="openM(${idx})">
-        <div class="mn">${m.id}</div>
+      const idx=start-1+offset,done=idx<last,cur=idx===last;
+      return`<div class="mi ${done?'read':''} ${cur?'active-read':''}" onclick="openM(${idx})">
+        <div class="mn ${done?'done':''} ${cur?'cr':''}">${done?'✓':m.id}</div>
         <div style="flex:1;min-width:0"><div class="ms">मंत्र ${m.id} · ${m.sk.replace(/\n/g,' ').substring(0,54)}…</div></div>
         <div style="color:var(--tf);font-size:14px">›</div>
       </div>`;
@@ -1434,7 +1508,8 @@ function openSec(i){
 function renderSection(){
   const u=CU,secs=SECTIONS[u.id]||[],sec=secs[CS],mt=MD[u.id]||[];
   if(!u||!sec)return;
-  const start=sec.r[0],end=sec.r[1];
+  const start=sec.r[0],end=sec.r[1],info=secProgressInfo(u,sec);
+  const prog=gP(),last=prog[u.id]??0;
   document.getElementById('si').textContent=u.icon;
   document.getElementById('snm').textContent=secShortTitle(sec);
   document.getElementById('smeta').textContent=u.name+' उपनिषद् · Mantras '+start+'–'+end;
@@ -1442,16 +1517,19 @@ function renderSection(){
     <div class="toc-card">
       <div class="toc-kicker">Section ${CS+1} · खंड ${CS+1}</div>
       <div class="toc-title">${sec.t}</div>
-      <div class="toc-sub">${u.en} · ${u.veda} · इस खंड में मंत्र ${start} से ${end} तक हैं।</div>
+      <div class="toc-sub">${u.en} · ${u.veda} · मंत्र ${start}–${end} · ${info.read}/${info.total} read${info.completed?' · Completed ✓':''}</div>
+      <div class="sec-progress"><div class="sec-progress-fill" style="width:${info.pct}%"></div></div>
       <div class="toc-actions">
-        <button class="toc-btn" onclick="openM(${start-1})">ॐ Start Section</button>
+        <button class="toc-btn" onclick="openSecResume(${CS})">${secActionLabel(info)}</button>
+        ${info.started?`<button class="toc-btn" onclick="restartSec(${CS})">Restart</button>`:''}
+        ${!info.completed?`<button class="toc-btn" onclick="markSecRead(${CS})">Mark read</button>`:''}
       </div>
     </div>
   `;
   document.getElementById('sm').innerHTML=mt.slice(start-1,end).map((m,offset)=>{
-    const idx=start-1+offset;
-    return`<div class="mi" onclick="openM(${idx})">
-      <div class="mn">${m.id}</div>
+    const idx=start-1+offset,done=idx<last,cur=idx===last;
+    return`<div class="mi ${done?'read':''} ${cur?'active-read':''}" onclick="openM(${idx})">
+      <div class="mn ${done?'done':''} ${cur?'cr':''}">${done?'✓':m.id}</div>
       <div style="flex:1;min-width:0"><div class="ms">मंत्र ${m.id} · ${m.sk.replace(/\n/g,' ').substring(0,54)}…</div></div>
       <div style="color:var(--tf);font-size:14px">›</div>
     </div>`;
