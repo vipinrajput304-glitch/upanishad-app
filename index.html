@@ -328,10 +328,19 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   </div>
   <div id="lm" style="display:none"></div>
 </div>
+<div class="sc" id="slist" style="padding-bottom:20px">
+  <div class="lhdr">
+    <div class="home-nav-row"><button class="bb" onclick="showList()">← उपनिषद्</button><button class="bb" onclick="showHome()">🏠 Home</button></div>
+    <div class="lt"><div class="li" id="si"></div><div><div class="ln" id="snm"></div><div class="ls" id="smeta"></div></div></div>
+  </div>
+  <div id="sres"></div>
+  <div class="lbl" style="padding-top:12px">इस खंड के मंत्र · SECTION MANTRAS</div>
+  <div id="sm"></div>
+</div>
 <div class="sc" id="mvw">
   <div class="mvh">
     <div class="mvt">
-      <div style="display:flex;gap:8px;align-items:center"><button class="mb" onclick="showList()">← सूची</button><button class="mb home-mini" onclick="showHome()">🏠</button></div>
+      <div style="display:flex;gap:8px;align-items:center"><button class="mb" onclick="backFromReading()">← सूची</button><button class="mb home-mini" onclick="showHome()">🏠</button></div>
       <div class="mtb"><div class="mu" id="mu"></div><div class="mm" id="mm"></div></div>
       <button class="bk" id="bkb" onclick="doBk()" style="opacity:0.4">🔖</button>
     </div>
@@ -1265,7 +1274,7 @@ dp:[D("🕉️ ऐतरेय का सार","(१) आत्मा एक�
 
 const MD={isha:ISHA,mandukya:MANDUKYA,aitareya:[...AITAREYA,...AITAREYA_EXTRA,...AITAREYA_REST]};
 
-let CU=null,CMI=0,CTR='advaita',CTB='meaning';
+let CU=null,CS=null,CMI=0,CTR='advaita',CTB='meaning';
 let SP=false,SS=0.55,SR=false,WI=null,CST='';
 
 const _store={};function gP(){try{return JSON.parse(localStorage.getItem('up3_p')||'{}')}catch(e){return _store['p']||{}}}
@@ -1348,7 +1357,7 @@ function renderList(){
         <button class="toc-btn" onclick="openM(0)">ॐ Start</button>
       </div>
     </div>
-    ${secs.length?'<div class="lbl">अध्याय / खंड · SECTIONS</div><div class="sec-list">'+secs.map((s,i)=>`<div class="sec-card" onclick="openM(${s.r[0]-1})"><div class="sec-num">${i+1}</div><div style="flex:1"><div class="sec-name">${s.t}</div><div class="sec-range">Mantras ${s.r[0]}–${s.r[1]}</div></div><div style="color:var(--tf)">›</div></div>`).join('')+'</div>':''}
+    ${secs.length?'<div class="lbl">अध्याय / खंड · SECTIONS</div><div class="sec-list">'+secs.map((s,i)=>`<div class="sec-card" onclick="openSec(${i})"><div class="sec-num">${i+1}</div><div style="flex:1"><div class="sec-name">${s.t}</div><div class="sec-range">Mantras ${s.r[0]}–${s.r[1]}</div></div><div style="color:var(--tf)">›</div></div>`).join('')+'</div>':''}
   `;
 
   document.getElementById('lm').innerHTML=mt.map((m,i)=>{
@@ -1359,7 +1368,50 @@ function renderList(){
       <div style="color:var(--tf);font-size:14px">›</div></div>`;
   }).join('');
 }
-function showList(){renderList();showScr('ulist');}
+
+function openSec(i){
+  CS=i;
+  renderSection();
+  showScr('slist');
+}
+
+function renderSection(){
+  const u=CU,secs=SECTIONS[u.id]||[],sec=secs[CS],mt=MD[u.id]||[];
+  if(!u||!sec)return;
+  const start=sec.r[0],end=sec.r[1];
+  document.getElementById('si').textContent=u.icon;
+  document.getElementById('snm').textContent=secShortTitle(sec);
+  document.getElementById('smeta').textContent=u.name+' उपनिषद् · Mantras '+start+'–'+end;
+  document.getElementById('sres').innerHTML=`
+    <div class="toc-card">
+      <div class="toc-kicker">Section ${CS+1} · खंड ${CS+1}</div>
+      <div class="toc-title">${sec.t}</div>
+      <div class="toc-sub">${u.en} · ${u.veda} · इस खंड में मंत्र ${start} से ${end} तक हैं।</div>
+      <div class="toc-actions">
+        <button class="toc-btn" onclick="openM(${start-1})">ॐ Start Section</button>
+      </div>
+    </div>
+  `;
+  document.getElementById('sm').innerHTML=mt.slice(start-1,end).map((m,offset)=>{
+    const idx=start-1+offset;
+    return`<div class="mi" onclick="openM(${idx})">
+      <div class="mn">${m.id}</div>
+      <div style="flex:1;min-width:0"><div class="ms">मंत्र ${m.id} · ${m.sk.replace(/\n/g,' ').substring(0,54)}…</div></div>
+      <div style="color:var(--tf);font-size:14px">›</div>
+    </div>`;
+  }).join('');
+}
+
+function backFromReading(){
+  if(CS!==null&&CS!==undefined){
+    renderSection();
+    showScr('slist');
+  }else{
+    showList();
+  }
+}
+
+function showList(){CS=null;renderList();showScr('ulist');}
 function openM(idx){try{stopSp();}catch(e){} CMI=idx;CTB='meaning';CTR='advaita';renderMV();showScr('mvw');}
 
 
