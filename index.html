@@ -87,6 +87,10 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 .whi{font-family:'Noto Sans Devanagari',serif;font-size:14px;color:var(--t);line-height:1.65;margin-bottom:3px;}
 .we{font-size:14px;font-family:'EB Garamond',serif;font-style:normal;color:var(--td);line-height:1.55;}
 
+
+.meaning-section{margin-bottom:14px;}
+.trad-card{display:block!important;margin-bottom:12px;}
+
 .wnote{background:var(--b3);border:1px solid rgba(214,168,79,.16);border-radius:16px;padding:16px 16px;margin-bottom:12px;}
 .wflow{font-family:'Noto Sans Devanagari',serif;font-size:15px;line-height:2;color:var(--t);}
 .wflow.en{font-family:'EB Garamond',serif;font-size:16px;line-height:1.9;color:var(--td);}
@@ -1516,7 +1520,7 @@ function renderBody(m){
 
   document.getElementById('mvb').innerHTML=`
 <div class="tabs">
-  ${['path','meaning','words','reflection'].map(t=>`<button class="tb ${t===CTB?'on':''}" onclick="swTab('${t}')">${t==='path'?'पाठ':t==='meaning'?'अर्थ':t==='words'?'शब्द':'चिंतन'}</button>`).join('')}
+  ${['path','meaning','reflection'].map(t=>`<button class="tb ${t===CTB?'on':''}" onclick="swTab('${t}')">${t==='path'?'पाठ':t==='meaning'?'अर्थ':'चिंतन'}</button>`).join('')}
 </div>
 <div class="pn ${CTB==='path'?'on':''}" id="p-path">
 <div class="sk">
@@ -1544,33 +1548,62 @@ function renderBody(m){
 </div>
 </div>
 <div class="pn ${CTB==='meaning'?'on':''}" id="p-meaning">
-  <div class="mb2"><div class="ml" style="color:var(--green)">हिंदी अर्थ</div><div class="mhi">${m.hi}</div></div>
-  <div class="mb2"><div class="ml" style="color:var(--g)">English Meaning</div><div class="men">${m.en}</div></div>
+  <div class="meaning-section">
+    <div class="lbl" style="padding-top:2px">हिंदी अर्थ · HINDI</div>
+    ${m.ws&&m.ws.length?`
+    <div class="wnote">
+      <div class="gnl">संस्कृत → हिंदी शब्दार्थ</div>
+      <div class="wflow">
+        ${m.ws.map((w,i)=>`<span class="wpair"><strong>${w.s}</strong><span class="dash"> — </span>${w.h}</span>${i<m.ws.length-1?'<span class="sep">॥</span>':''}`).join('')}
+      </div>
+    </div>`:''}
+    <div class="mb2">
+      <div class="ml" style="color:var(--green)">हिंदी भावार्थ</div>
+      <div class="mhi">${m.hi}</div>
+    </div>
+  </div>
+
+  <div class="meaning-section">
+    <div class="lbl" style="padding-top:6px">English Meaning</div>
+    ${m.ws&&m.ws.length?`
+    <div class="wnote">
+      <div class="gnl">Sanskrit → English word meaning</div>
+      <div class="wflow en">
+        ${m.ws.map((w,i)=>`<span class="wpair"><strong>${w.s}</strong><span class="dash"> — </span>${w.e}</span>${i<m.ws.length-1?'<span class="sep">॥</span>':''}`).join('')}
+      </div>
+    </div>`:''}
+    <div class="mb2">
+      <div class="ml" style="color:var(--g)">English full meaning</div>
+      <div class="men">${m.en}</div>
+    </div>
+  </div>
+
   ${m.mt?`<div class="me"><strong style="color:var(--gd)">छन्द · Metre:</strong> ${m.mt}</div>`:''}
-</div>
-<div class="pn ${CTB==='words'?'on':''}" id="p-words">
-  ${m.ws&&m.ws.length?`
-  <div class="wnote">
-    <div class="gnl">संस्कृत → हिंदी</div>
-    <div class="wflow">
-      ${m.ws.map((w,i)=>`<span class="wpair"><strong>${w.s}</strong><span class="dash"> — </span>${w.h}</span>${i<m.ws.length-1?'<span class="sep">॥</span>':''}`).join('')}
-    </div>
-  </div>
-  <div class="wnote">
-    <div class="gnl">Sanskrit → English</div>
-    <div class="wflow en">
-      ${m.ws.map((w,i)=>`<span class="wpair"><strong>${w.s}</strong><span class="dash"> — </span>${w.e}</span>${i<m.ws.length-1?'<span class="sep">॥</span>':''}`).join('')}
-    </div>
-  </div>
-  ${m.gr?`<div class="gn"><div class="gnl">Grammatical Note</div><div class="gnt">${m.gr}</div></div>`:''}`
-  :'<p style="padding:20px;text-align:center;color:var(--tf)">Coming soon</p>'}
+  ${m.gr?`<div class="gn"><div class="gnl">Grammatical Note</div><div class="gnt">${m.gr}</div></div>`:''}
 </div>
 <div class="pn ${CTB==='reflection'?'on':''}" id="p-reflection">
-  <div class="lbl" style="padding-top:2px">व्याख्या · COMMENTARY</div>
-  <div class="tt">
-    ${trads.map(t=>`<button class="tbt ${tcls[t]} ${CTR===t?'on':''}" onclick="swTr('${t}')">${tnames[t]}</button>`).join('')}
-  </div>
-  ${trads.map(t=>{const c=m.cm[t]||{};return`<div class="cb ${CTR===t?'on':''}" id="cb-${t}" style="background:${tbg[t]};border:1px solid ${tbd[t]}"><div class="cba" style="color:${tcol[t]}">${c.a||''}</div><div class="chi">${c.h||''}</div><div class="cen">${c.en||''}</div>${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}</div>`;}).join('')}
+  ${m.insight?`
+  <div class="gn">
+    <div class="gnl">मुख्य संकेत · Key Insight</div>
+    <div class="gnt">${m.insight}</div>
+  </div>`:''}
+
+  <div class="lbl" style="padding-top:6px">परंपरा दृष्टि · TRADITION VIEWS</div>
+  ${trads.map(t=>{
+    const c=m.cm[t]||{};
+    const label=t==='advaita'?'अद्वैत':t==='vishisht'?'विशिष्टाद्वैत':'Integral View';
+    return`<div class="cb on trad-card" style="background:${tbg[t]};border:1px solid ${tbd[t]}">
+      <div class="cba" style="color:${tcol[t]}">${c.a||''} · ${label}</div>
+      <div class="chi">${c.h||''}</div>
+      <div class="cen">${c.en||''}</div>
+      ${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}
+    </div>`;
+  }).join('')}
+
+  <div class="lbl" style="padding-top:12px">मनन प्रश्न · REFLECTION QUESTIONS</div>
+  ${m.dp&&m.dp.length?m.dp.map((d,i)=>`<div class="di" id="di${i}"><div class="dq" onclick="tD(${i})"><div class="dqt">${d.q}</div><div class="da2">▼</div></div><div class="da"><div class="dai">${d.a}</div></div></div>`).join('')
+  :'<p style="padding:20px;text-align:center;color:var(--tf)">Coming soon</p>'}
+</div>`;}).join('')}
   <div class="lbl" style="padding-top:12px">गहराई · DEEP REFLECTION</div>
   ${m.dp&&m.dp.length?m.dp.map((d,i)=>`<div class="di" id="di${i}"><div class="dq" onclick="tD(${i})"><div class="dqt">${d.q}</div><div class="da2">▼</div></div><div class="da"><div class="dai">${d.a}</div></div></div>`).join('')
   :'<p style="padding:20px;text-align:center;color:var(--tf)">Coming soon</p>'}
