@@ -1316,7 +1316,7 @@ let CU=null,CS=null,CMI=0,CTR='advaita',CTB='path';
 let SP=false,SS=0.55,SR=false,WI=null,CST='';
 
 const _store={};function gP(){try{return JSON.parse(localStorage.getItem('up3_p')||'{}')}catch(e){return _store['p']||{}}}
-function sP(u,i){const p=gP();p[u]=i;_store['p']=p;try{localStorage.setItem('up3_p',JSON.stringify(p))}catch(e){}}
+function sP(u,i){const p=gP();p[u]=Math.max(p[u]??0,i);_store['p']=p;try{localStorage.setItem('up3_p',JSON.stringify(p))}catch(e){}}
 function sPAll(p){_store['p']=p;try{localStorage.setItem('up3_p',JSON.stringify(p))}catch(e){}}
 function gB(){try{return JSON.parse(localStorage.getItem('up3_b')||'{}')}catch(e){return _store['b']||{}}}
 function tBD(u,i){const b=gB(),k=u+'_'+i;if(b[k])delete b[k];else b[k]=true;_store['b']=b;try{localStorage.setItem('up3_b',JSON.stringify(b))}catch(e){};return!!b[k]}
