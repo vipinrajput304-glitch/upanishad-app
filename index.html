@@ -397,7 +397,8 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 const UP=[
   {id:'isha',name:'ईशावास्य',en:'Isha',icon:'☀️',color:'#C9A84C',veda:'Shukla Yajurveda',desc:'Divine immanence — renunciation & action',total:18},
   {id:'mandukya',name:'माण्डूक्य',en:'Mandukya',icon:'🕉',color:'#C8956A',veda:'Atharvaveda',desc:'OM & four states of consciousness',total:12},
-  {id:'aitareya',name:'ऐतरेय',en:'Aitareya',icon:'🌱',color:'#A8D5A2',veda:'Rigveda',desc:'Creation of universe — Consciousness is Brahman',total:33}
+  {id:'aitareya',name:'ऐतरेय',en:'Aitareya',icon:'🌱',color:'#A8D5A2',veda:'Rigveda',desc:'Creation of universe — Consciousness is Brahman',total:33},
+  {id:'kena',name:'केन',en:'Kena',icon:'❓',color:'#9CC7D9',veda:'Samaveda',desc:'By whom is the mind directed? — inquiry into Brahman',total:4}
 ];
 
 // Shorthand builders
@@ -1310,7 +1311,34 @@ aurobindo:{a:"श्री अरविंद",h:"'Consciousness is Brahman' —
 dp:[D("🕉️ ऐतरेय का सार","(१) आत्मा एकमात्र था — सृष्टि से पहले। (२) सृष्टि = consciousness का matter में descent। (३) मनुष्य = सर्वश्रेष्ठ रचना। (४) <strong>प्रज्ञानं ब्रह्म</strong> = consciousness ही ब्रह्म है। (५) जो यह जाने — वह अमृत और अभय हो जाता है।"),D("🏁 'समभवत्' — हो गया","'वह उसमें हो गया' — यह merger नहीं, <strong>recognition</strong> है। वह पहले से ब्रह्म था — केवल यह जानना था। अब जान लिया। <strong>Journey ends — not by arriving but by recognizing you were always already there.</strong>"),D("🙏 'शान्तिः शान्तिः शान्तिः' — तीन बार शांति","(१) <strong>आधिभौतिक</strong> — प्रकृति और शरीर से आने वाले दुखों से शांति। (२) <strong>आधिदैविक</strong> — दैवी शक्तियों से। (३) <strong>आध्यात्मिक</strong> — अपने मन और ego से। तीनों से शांति = पूर्ण मोक्ष।")]}
 ];
 
-const MD={isha:ISHA,mandukya:MANDUKYA,aitareya:[...AITAREYA,...AITAREYA_EXTRA,...AITAREYA_REST]};
+
+const KENA=[
+{id:1,sk:`केनेषितं पतति प्रेषितं मनः
+केन प्राणः प्रथमः प्रैति युक्तः ।
+केनेषितां वाचमिमां वदन्ति
+चक्षुः श्रोत्रं क उ देवो युनक्ति ॥ १ ॥`,ro:`keneṣitaṃ patati preṣitaṃ manaḥ
+kena prāṇaḥ prathamaḥ praiti yuktaḥ |
+keneṣitāṃ vācamimāṃ vadanti
+cakṣuḥ śrotraṃ ka u devo yunakti || 1 ||`,hi:`मन किसके द्वारा प्रेरित होकर अपने विषयों की ओर जाता है? प्राण किसके आदेश से चलता है? लोग यह वाणी किसकी प्रेरणा से बोलते हैं? कौन-सा देवता आँख और कान को उनके कार्य में लगाता है?`,en:`By whom is the mind directed toward its objects? By whom does the vital force move? By whose will do people speak? What shining principle connects the eye and the ear to their functions?`,ws:[{s:'केन',h:'किसके द्वारा',e:'by whom'},{s:'इषितम्',h:'इच्छित/प्रेरित',e:'willed, impelled'},{s:'मनः',h:'मन',e:'mind'},{s:'प्राणः',h:'जीवन-शक्ति',e:'vital force'},{s:'वाचम्',h:'वाणी',e:'speech'},{s:'चक्षुः',h:'आँख',e:'eye'},{s:'श्रोत्रम्',h:'कान',e:'ear'},{s:'देवः',h:'प्रकाशमान चेतन सिद्धांत',e:'luminous principle'}],gr:'Opening interrogative verse. The repeated “kena” shifts inquiry from outer instruments to the inner source that empowers them.',mt:'Vedic verse',cm:{advaita:{a:'Advaita',h:'यह मंत्र साधक को इंद्रियों से हटाकर उनके साक्षी-चैतन्य की ओर मोड़ता है।',en:'The verse turns attention from the instruments of knowing to the consciousness that illumines them.',ins:'The question is not mechanical; it is inward.'},vishisht:{a:'Vishishtadvaita',h:'मन, प्राण और इंद्रियाँ स्वतंत्र नहीं हैं; वे परमात्मा की अधिष्ठाता शक्ति से चलती हैं।',en:'Mind, life and senses are not independent; they function under the sustaining presence of the Supreme.',ins:'Dependence reveals the Lord behind ability.'},integral:{a:'Integral View',h:'मानव-शक्ति के पीछे एक गहरी चेतना काम कर रही है। साधना उस स्रोत को पहचानना है।',en:'Behind human faculties works a deeper consciousness. Practice is to rediscover that source.',ins:'Every faculty is a doorway.'}}},
+
+{id:2,sk:`श्रोत्रस्य श्रोत्रं मनसो मनो यद्
+वाचो ह वाचं स उ प्राणस्य प्राणः ।
+चक्षुषश्चक्षुरतिमुच्य धीराः
+प्रेत्यास्माल्लोकादमृता भवन्ति ॥ २ ॥`,ro:`śrotrasya śrotraṃ manaso mano yad
+vāco ha vācaṃ sa u prāṇasya prāṇaḥ |
+cakṣuṣaś cakṣur atimucya dhīrāḥ
+pretyāsmāl lokād amṛtā bhavanti || 2 ||`,hi:`जो कान का भी कान है, मन का भी मन है, वाणी की भी वाणी है, प्राण का भी प्राण है और आँख की भी आँख है — धीर पुरुष उसे जानकर इस लोक की सीमाओं से मुक्त होकर अमृत हो जाते हैं।`,en:`That which is the ear of the ear, the mind of the mind, the speech of speech, the life of life and the eye of the eye — the wise, freeing themselves from identification with the senses, become immortal.`,ws:[{s:'श्रोत्रस्य श्रोत्रम्',h:'कान का कान',e:'ear of the ear'},{s:'मनसः मनः',h:'मन का मन',e:'mind of the mind'},{s:'वाचः वाचम्',h:'वाणी की वाणी',e:'speech of speech'},{s:'प्राणस्य प्राणः',h:'प्राण का प्राण',e:'life of life'},{s:'धीराः',h:'विवेकी/स्थिर बुद्धि वाले',e:'the wise'},{s:'अमृताः',h:'अमर/मुक्त',e:'immortal'}],gr:'Uses genitive constructions to show the inner enabler behind each faculty.',mt:'Vedic verse',cm:{advaita:{a:'Advaita',h:'आत्मा इंद्रियों का विषय नहीं, बल्कि इंद्रियों को प्रकाशित करने वाला आधार है।',en:'The Self is not an object of the senses; it is the light by which the senses operate.',ins:'The seer cannot be seen as an object.'},vishisht:{a:'Vishishtadvaita',h:'परमात्मा सभी शक्तियों का अंतर्यामी आधार है।',en:'The Supreme is the indwelling ground of all faculties.',ins:'The inner ruler is nearer than the instrument.'},integral:{a:'Integral View',h:'साधना इंद्रियों को नकारती नहीं; वह उनके पीछे की चेतना को पहचानती है।',en:'Spiritual practice does not reject the faculties; it discovers the consciousness behind them.',ins:'Go behind the tool to the source.'}}},
+
+{id:3,sk:`न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनः ।
+न विद्मो न विजानीमो यथैतदनुशिष्यात् ॥ ३ ॥`,ro:`na tatra cakṣur gacchati na vāg gacchati no manaḥ |
+na vidmo na vijānīmo yathaitad anuśiṣyāt || 3 ||`,hi:`वहाँ आँख नहीं पहुँचती, वाणी नहीं पहुँचती और मन भी नहीं पहुँचता। हम यह नहीं जानते कि उसे सामान्य ढंग से कैसे सिखाया जाए।`,en:`There the eye does not go, nor speech, nor the mind. We do not know it as an object, nor do we know how it could be taught in the ordinary way.`,ws:[{s:'न तत्र',h:'वहाँ नहीं',e:'not there'},{s:'चक्षुः',h:'आँख',e:'eye'},{s:'वाक्',h:'वाणी',e:'speech'},{s:'मनः',h:'मन',e:'mind'},{s:'न विद्मः',h:'हम नहीं जानते',e:'we do not know'},{s:'अनुशिष्यात्',h:'सिखाया जाए',e:'may be taught'}],gr:'A negative teaching: Brahman is not reached by ordinary sensory or conceptual movement.',mt:'Vedic verse',cm:{advaita:{a:'Advaita',h:'ब्रह्म वस्तु की तरह ज्ञेय नहीं है; वह जानने की सत्ता है।',en:'Brahman is not known as an object; it is the very ground of knowing.',ins:'The limit of thought points beyond thought.'},vishisht:{a:'Vishishtadvaita',h:'परम सत्य इंद्रिय और मन की पकड़ से परे है, पर उसकी अनुभूति कृपा और शास्त्र से संभव है।',en:'The Supreme is beyond the grasp of sense and mind, yet can be approached through revelation and grace.',ins:'Beyond grasp does not mean absent.'},integral:{a:'Integral View',h:'जहाँ भाषा रुकती है, वहाँ अनुभव की दिशा खुलती है।',en:'Where language stops, another mode of knowing begins.',ins:'Silence becomes method.'}}},
+
+{id:4,sk:`अन्यदेव तद्विदितादथो अविदितादधि ।
+इति शुश्रुम पूर्वेषां ये नस्तद्व्याचचक्षिरे ॥ ४ ॥`,ro:`anyad eva tad viditād atho aviditād adhi |
+iti śuśruma pūrveṣāṃ ye nas tad vyācacakṣire || 4 ||`,hi:`वह ज्ञात से भिन्न है और अज्ञात से भी परे है। ऐसा हमने उन पूर्व आचार्यों से सुना है जिन्होंने हमें उसका उपदेश दिया।`,en:`It is other than the known; it is also beyond the unknown. So we have heard from the ancient teachers who explained it to us.`,ws:[{s:'अन्यत् एव',h:'निश्चय ही भिन्न',e:'indeed other'},{s:'विदितात्',h:'ज्ञात से',e:'from the known'},{s:'अविदितात्',h:'अज्ञात से',e:'from the unknown'},{s:'अधि',h:'परे/ऊपर',e:'beyond'},{s:'शुश्रुम',h:'हमने सुना',e:'we have heard'},{s:'पूर्वेषाम्',h:'पूर्व आचार्यों से',e:'from the ancients'}],gr:'Contrasts “known” and “unknown” to prevent reducing Brahman to either concept or ignorance.',mt:'Vedic verse',cm:{advaita:{a:'Advaita',h:'ब्रह्म ज्ञात वस्तु नहीं और अज्ञान का शून्य भी नहीं; वह दोनों का आधार है।',en:'Brahman is neither an object already known nor a blank unknown; it is the basis of both knowing and not-knowing.',ins:'Neither concept nor absence.'},vishisht:{a:'Vishishtadvaita',h:'परमात्मा संसार की ज्ञात वस्तुओं से भिन्न है और हमारी अज्ञान-सीमा से भी बड़ा है।',en:'The Supreme is distinct from known worldly objects and greater than the limits of our ignorance.',ins:'Transcendence protects reverence.'},integral:{a:'Integral View',h:'सत्य को पकड़ना नहीं, उसके लिए चेतना को विस्तृत करना है।',en:'Truth is not captured; consciousness must widen for it.',ins:'The teaching opens the horizon.'}}}
+];
+
+const MD={isha:ISHA,mandukya:MANDUKYA,aitareya:[...AITAREYA,...AITAREYA_EXTRA,...AITAREYA_REST],kena:KENA};
 
 let CU=null,CS=null,CMI=0,CTR='advaita',CTB='path';
 let SP=false,SS=0.55,SR=false,WI=null,CST='';
@@ -1375,6 +1403,9 @@ const SECTIONS={
     {t:'सृष्टि-विचार · Creation',r:[1,10]},
     {t:'आत्मा का प्रवेश · Entry of Self',r:[11,20]},
     {t:'प्रज्ञानं ब्रह्म · Consciousness is Brahman',r:[21,33]}
+  ],
+  kena:[
+    {t:'प्रश्न और संकेत · Inquiry and Indication',r:[1,4]}
   ]
 };
 
