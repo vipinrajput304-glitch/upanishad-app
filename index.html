@@ -1418,6 +1418,7 @@ function restartSec(si){
 }
 function openSecResume(si){
   const u=CU,sec=(SECTIONS[u.id]||[])[si]; if(!u||!sec)return;
+  CS=si;
   const info=secProgressInfo(u,sec);
   openM(info.resumeIdx);
 }
