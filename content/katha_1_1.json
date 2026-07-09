@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "sk": "उशन् ह वै वाजश्रवसः सर्ववेदसं ददौ | तस्य ह नचिकेता नाम पुत्र आस ||",
+    "ro": "uśan · ha · vai · vājaśravasaḥ · sarvavedasaṁ · dadau | tasya · ha · naciketā · nāma · putra · āsa ||",
+    "hi": "वाजश्रवस् ने (यश की कामना से) विश्वजित् यज्ञ में अपना सम्पूर्ण धन दान कर दिया। उसका नचिकेता नाम का एक पुत्र था।",
+    "en": "Vajashravasa, desirous of reward, gave away all his possessions (in the Vishvajit sacrifice). He had a son named Nachiketa.",
+    "ws": [
+      {"s": "उशन् (uśan)", "h": "कामना करते हुए, इच्छुक", "e": "desiring — present participle of √vaś ('to wish, desire'); wanting heavenly reward"},
+      {"s": "वाजश्रवसः (vājaśravasaḥ)", "h": "वाजश्रवस् (नचिकेता के पिता)", "e": "Vajashravasa — patronymic: 'descendant of Vajashravas'; also called Gautama/Aruni in some recensions"},
+      {"s": "सर्ववेदसम् (sarvavedasam)", "h": "सम्पूर्ण सम्पत्ति", "e": "all possessions — sarva (all) + vedas (wealth, property); everything he owned"},
+      {"s": "ददौ (dadau)", "h": "दान कर दिया", "e": "gave away — perfect of √dā ('to give'); a completed, irreversible act"},
+      {"s": "नचिकेताः (naciketāḥ)", "h": "नचिकेता", "e": "Nachiketa — the boy's name; possibly from na+ciketa ('not yet known/conscious') or naci+ketas ('fire of consciousness')"}
+    ],
+    "gr": "<strong>uśan</strong> — present participle of √vaś: 'desiring,' 'wishing for.' This immediately sets the moral context: Vajashravasa's sacrifice is motivated by desire for reward, not by pure devotion. <strong>sarvavedasam dadau</strong> — 'gave away all possessions': the Vishvajit sacrifice requires giving away everything. But the next verse will reveal the gift was hollow. <strong>naciketā nāma putra āsa</strong> — 'he had a son named Nachiketa': the simple naming introduces the true hero.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.1 — The opening verse establishes the moral tension: a sacrifice performed for selfish desire (uśan) using worthless gifts. Nachiketa's name itself may encode the theme — 'the fire of inquiry' or 'that which is not yet known.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'उशन्' (कामना करते हुए) शब्द ही इस यज्ञ की सीमा बता देता है — सकाम कर्म स्वर्ग तो दे सकता है पर मोक्ष नहीं। नचिकेता की कथा निष्काम ज्ञान की यात्रा है जो सकाम कर्म के भीतर से उत्पन्न होती है।",
+        "en": "Shankara notes that 'uśan' (desiring) immediately limits the sacrifice — desire-motivated action can yield heaven but not liberation. Nachiketa's story is the journey of desireless knowledge arising from within desire-motivated ritual.",
+        "ins": "Even flawed spiritual practice can produce genuine seekers — Nachiketa's questioning is born from his father's imperfect sacrifice."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज की दृष्टि में वाजश्रवस् का यज्ञ भगवान् के प्रति समर्पण के अभाव में दोषपूर्ण है। सच्चा यज्ञ भगवान् को समर्पित होता है; स्वार्थ के लिए किया गया यज्ञ अधूरा है। नचिकेता का प्रश्न इसी अधूरेपन को पहचानता है।",
+        "en": "For Ramanuja, Vajashravasa's sacrifice is flawed because it lacks surrender to the Lord. True sacrifice is offered to the Lord; self-interested sacrifice is incomplete. Nachiketa's questioning recognises this incompleteness.",
+        "ins": "A sacrifice without surrender is merely a transaction. Nachiketa will show that the highest offering is oneself."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'उशन्' में मानव चेतना की मूल प्रवृत्ति देखते हैं — कामना। यज्ञ (sacrifice) उच्चतर चेतना की ओर जाने का साधन है, किन्तु कामना-प्रेरित यज्ञ अधूरा रहता है। नचिकेता — चेतना की अग्नि — इसी अधूरेपन से जन्म लेती है।",
+        "en": "Sri Aurobindo sees in 'uśan' the fundamental drive of human consciousness — desire. Sacrifice (yajña) is the means of ascending to higher consciousness, but desire-driven sacrifice remains incomplete. Nachiketa — the fire of consciousness — is born from this very incompleteness.",
+        "ins": "The soul's aspiration (Nachiketa) emerges from the imperfection of the ego's offerings. The quest for truth begins where complacency ends."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the Vishvajit sacrifice and why is it significant?", "a": "The <strong>Vishvajit</strong> ('all-conquering') sacrifice is a major Vedic rite in which the performer must give away all his possessions as dakṣiṇā (sacrificial fees) to the priests. It is the ultimate test of generosity — or so it appears. Vajashravasa performs it, but as the next verse will reveal, he gives away only old, barren, useless cattle. The sacrifice that demands 'everything' receives 'nothing of value.' This gap between the form and the spirit of the sacrifice is precisely what Nachiketa sees — and his seeing is the beginning of the Upanishad's teaching. The Vishvajit stands for any spiritual practice performed for show while withholding the genuine offering."},
+      {"q": "🔍 What does the name 'Nachiketa' mean?", "a": "The etymology of <strong>Nachiketa</strong> is debated. The most common readings: (1) <strong>na + ciketa</strong> — 'not yet known/understood,' suggesting the boy embodies the question that has not yet been answered; (2) <strong>naci + ketas</strong> — 'the fire of inquiry/consciousness,' connecting him to the Nachiketa fire he will later learn from Yama; (3) the Taittiriya Brahmana derives it from √ci ('to arrange' the fire-altar). All three etymologies converge: Nachiketa is the embodiment of the question that burns — the fire of consciousness that seeks what lies beyond death. His very name is his destiny."}
+    ]
+  },
+  {
+    "id": 2,
+    "sk": "तं ह कुमारं सन्तं दक्षिणासु नीयमानासु श्रद्धाविवेश | सोऽमन्यत ||",
+    "ro": "taṁ · ha · kumāraṁ · santaṁ · dakṣiṇāsu · nīyamānāsu · śraddhā · āviveśa | so · amanyata ||",
+    "hi": "जब दक्षिणा (यज्ञ-दान) की गाएँ ले जायी जा रही थीं, तब उस बालक (नचिकेता) में श्रद्धा ने प्रवेश किया। उसने सोचा —",
+    "en": "As the gifts (cows given as sacrificial fees) were being led away, faith (śraddhā) entered the boy. He reflected —",
+    "ws": [
+      {"s": "कुमारम् सन्तम् (kumāraṁ santam)", "h": "बालक होते हुए भी", "e": "though still a boy — kumāra (youth) + santam (being); emphasises his young age"},
+      {"s": "दक्षिणासु (dakṣiṇāsu)", "h": "दक्षिणा में (यज्ञ-दान)", "e": "among the sacrificial gifts — locative plural feminine; the fees given to priests"},
+      {"s": "नीयमानासु (nīyamānāsu)", "h": "ले जायी जा रही थीं", "e": "being led away — present passive participle locative pl. of √nī ('to lead')"},
+      {"s": "श्रद्धा (śraddhā)", "h": "श्रद्धा, विश्वास, सत्य-निष्ठा", "e": "faith — not blind belief but the intuitive conviction that truth must be honoured"},
+      {"s": "आविवेश (āviveśa)", "h": "प्रवेश कर गयी", "e": "entered — perfect of ā+√viś ('to enter into'); śraddhā entered him like a divine force"}
+    ],
+    "gr": "<strong>kumāraṁ santam</strong> — 'though being a boy': the concessive participle highlights that this insight came to a child, not a learned elder. <strong>śraddhā āviveśa</strong> — 'faith entered him': śraddhā is the subject, not Nachiketa — faith is portrayed as an active force that <em>comes to</em> the worthy, not something the seeker generates. <strong>amanyata</strong> — 'he reflected': middle voice of √man ('to think'); the reflection is internal, felt personally.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.2 — Śraddhā is the pivotal force of the entire Katha Upanishad. It is not mere belief but the deep conviction that truth must be lived. The boy sees worthless cows being given and is moved — not by anger but by faith in the sacred.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि श्रद्धा यहाँ सत्य के प्रति गहन निष्ठा है — कुमार ने देखा कि यज्ञ का स्वरूप दूषित है और उसे सत्य-मार्ग पर चलने की प्रेरणा मिली। 'आविवेश' — श्रद्धा बाहर से आयी, जैसे दैवी शक्ति।",
+        "en": "Shankara reads śraddhā as deep conviction toward truth. The boy saw the sacrifice was corrupted and was moved to follow the path of truth. 'Āviveśa' — faith came from outside, like a divine force.",
+        "ins": "Śraddhā is not manufactured; it descends upon the prepared soul. Nachiketa's purity made him the vessel for this descent."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज श्रद्धा को भगवान् की कृपा का प्रारम्भिक स्पर्श मानते हैं। बालक की शुद्धता ने भगवान् की कृपा को आकृष्ट किया — और श्रद्धा के रूप में वह कृपा प्रकट हुई।",
+        "en": "Ramanuja reads śraddhā as the initial touch of the Lord's grace. The boy's purity attracted the Lord's grace — and it manifested as faith.",
+        "ins": "Grace finds the pure heart first. A child's innocence can be closer to the Lord than a learned man's scholarship."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द श्रद्धा को चेतना की आन्तरिक अग्नि मानते हैं — वह शक्ति जो सत्य को पहचानती है और असत्य को अस्वीकार करती है। नचिकेता में यह अग्नि जागी और उसने अपने पिता के कपटपूर्ण यज्ञ को देखा।",
+        "en": "Sri Aurobindo reads śraddhā as the inner fire of consciousness — the power that recognises truth and rejects falsehood. This fire awakened in Nachiketa and he saw through his father's hollow sacrifice.",
+        "ins": "Śraddhā is the soul's innate capacity for truth — it awakens in moments of crisis and demands authenticity."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is śraddhā described as 'entering' the boy, rather than arising in him?", "a": "The Upanishad uses <strong>āviveśa</strong> — 'entered into' — with śraddhā as the grammatical subject and Nachiketa as the object. This is deliberately not 'Nachiketa developed faith' but '<em>faith entered Nachiketa</em>.' The construction treats śraddhā as an independent force — a divine power that descends upon the worthy. In the Vedic worldview, śraddhā is not a psychological state the individual creates but a cosmic power (often personified as a goddess in the Ṛg Veda) that comes to those whose inner instrument is pure enough to receive it. The boy's innocence made him transparent; faith entered because there was no obstruction."},
+      {"q": "🔍 What did Nachiketa see that moved him so deeply?", "a": "The next verse (mantra 3) tells us: he saw that the cows being given as dakṣiṇā were <strong>pītodakā</strong> (had drunk their last water), <strong>jagdhatṛṇā</strong> (had eaten their last grass), <strong>dugdhadohā</strong> (had given their last milk), and <strong>nirindriyāḥ</strong> (were devoid of vitality). His father was performing the ultimate sacrifice — giving away 'everything' — but actually giving away nothing of value. The boy saw the gap between the sacred form and the corrupt content. This moral clarity — seeing that a religious act can be spiritually empty — is what śraddhā produced in him."}
+    ]
+  },
+  {
+    "id": 3,
+    "sk": "पीतोदका जग्धतृणा दुग्धदोहा निरिन्द्रियाः | अनन्दा नाम ते लोकास्तान् स गच्छति ता ददत् ||",
+    "ro": "pītodakā · jagdhatṛṇā · dugdhadohā · nirindriyāḥ | ānandā · nāma · te · lokās · tān · sa · gacchati · tā · dadat ||",
+    "hi": "इन गायों ने अन्तिम बार जल पी लिया है, अन्तिम बार घास खा ली है, अन्तिम बार दूध दे दिया है — ये निर्जीव हो चुकी हैं। जो ऐसी (निर्जीव वस्तुओं को) दान करता है, वह आनन्दरहित (अन्धकारमय) लोकों को जाता है।",
+    "en": "These cows have drunk their last water, eaten their last grass, given their last milk — they are devoid of vigour. Joyless indeed are those worlds to which he goes who gives such as these.",
+    "ws": [
+      {"s": "पीतोदकाः (pītodakāḥ)", "h": "जिन्होंने अन्तिम जल पी लिया", "e": "whose water is drunk up — bahuvrīhi compound: pīta (drunk) + udaka (water)"},
+      {"s": "जग्धतृणाः (jagdhatṛṇāḥ)", "h": "जिन्होंने अन्तिम घास खा ली", "e": "whose grass is eaten — jagdha (eaten, pp. of √jakṣ) + tṛṇa (grass)"},
+      {"s": "दुग्धदोहाः (dugdhadohāḥ)", "h": "जिनका दूध निकल चुका", "e": "whose milk is milked out — dugdha (milked) + doha (milking)"},
+      {"s": "निरिन्द्रियाः (nirindriyāḥ)", "h": "शक्तिहीन, निर्जीव", "e": "devoid of vigour/senses — nis (without) + indriya (vital power); barren and spent"},
+      {"s": "अनन्दाः (ānandāḥ)", "h": "आनन्दहीन, दुःखपूर्ण", "e": "joyless — an (without) + nanda (joy); or reading as 'ānandā' = blind/dark (from √and, 'to be blind')"}
+    ],
+    "gr": "<strong>pītodakā jagdhatṛṇā dugdhadohā nirindriyāḥ</strong> — four bahuvrīhi compounds in succession, each describing an aspect of the cows' worthlessness: their water is consumed, grass eaten, milk exhausted, vitality spent. The stacking of compounds creates a devastating inventory. <strong>ānandā nāma te lokāḥ</strong> — 'joyless by name are those worlds': nāma ('by name, indeed') intensifies — those worlds are <em>called</em> joyless because that is their essential character.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.3 — The boy's moral insight: giving worthless things in a sacrifice meant to give everything is spiritual fraud. The four compounds (pītodakā, jagdhatṛṇā, dugdhadohā, nirindriyāḥ) are a devastating moral inventory — each word strips another layer of pretence from the gift.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर इसे कर्मकाण्ड की सीमा के रूप में प्रस्तुत करते हैं: जो व्यक्ति अधूरे, दोषपूर्ण कर्म से फल चाहता है, वह 'अनन्द लोक' — आनन्दरहित स्थिति — को प्राप्त होता है। सच्चा दान सर्वस्व-समर्पण है, कूड़ा देना नहीं।",
+        "en": "Shankara uses this to expose the limit of ritualism: one who seeks reward through flawed, incomplete ritual reaches 'ānanda loka' — a joyless state. True giving is total surrender, not discarding what is worthless.",
+        "ins": "Spiritual practice that withholds the genuine offering — one's ego, one's attachments — while presenting the appearance of devotion leads to joyless worlds."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि बालक की इस अन्तर्दृष्टि में भगवान् की कृपा कार्य कर रही है। भगवान् के यज्ञ में सर्वश्रेष्ठ वस्तु अर्पित होनी चाहिए — निकृष्ट दान भगवान् का अपमान है।",
+        "en": "Ramanuja says the Lord's grace is at work in the boy's insight. In the Lord's sacrifice, the best must be offered — giving the worst is an affront to the Lord.",
+        "ins": "The Lord accepts not the quantity but the quality of offering — and above all, the sincerity of the heart."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "नचिकेता की दृष्टि में अरविन्द सत्य-चेतना (truth-consciousness) का प्रथम जागरण देखते हैं। बालक वह देख रहा है जो वयस्क नहीं देख पाते — कि आडम्बर और सत्य में अन्तर है।",
+        "en": "In Nachiketa's vision, Aurobindo sees the first awakening of truth-consciousness. The boy sees what adults cannot — that appearance and truth are different.",
+        "ins": "The child's seeing is uncorrupted by convention. When truth-consciousness awakens, the first thing it perceives is the gap between what is claimed and what is real."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does the Upanishad describe the cows in such physical detail?", "a": "The four compounds — <strong>pītodakā, jagdhatṛṇā, dugdhadohā, nirindriyāḥ</strong> — form a devastating inventory of worthlessness. Each addresses a basic function: the cows can no longer drink (sustain themselves), eat (grow), give milk (nourish others), or exhibit vitality (be alive in any meaningful sense). The detail is not accidental — it forces the listener to see exactly what Vajashravasa is offering: not wealth but waste. The Upanishad is making a moral argument through biology: an offering that has already exhausted its value is not an offering at all. The physical detail becomes a spiritual metaphor — what are you truly giving in your spiritual practice? Your best, or your leftovers?"},
+      {"q": "🔍 What are the 'joyless worlds' (ānandā lokāḥ)?", "a": "The word <strong>ānandā</strong> can be read two ways: (1) an-nandā — 'without joy,' joyless; (2) from √and — 'blind, dark.' Both readings converge: the worlds earned by hollow sacrifice are dark and joyless. Shankara reads these as the realms of unfulfilled desire — where the sacrificer arrives expecting reward but finds nothing, because the sacrifice was empty. The warning is universal: any spiritual act performed without genuine offering leads to a state of spiritual bankruptcy. The 'worlds' are not just post-mortem destinations but states of consciousness — one can live in ānanda-loka right now, surrounded by the fruits of hollow effort."}
+    ]
+  },
+  {
+    "id": 4,
+    "sk": "स होवाच पितरम् | तात कस्मै मां दास्यसीति | द्वितीयं तृतीयम् | तं होवाच मृत्यवे त्वा ददामीति ||",
+    "ro": "sa · ha · uvāca · pitaram | tāta · kasmai · māṁ · dāsyasi · iti | dvitīyaṁ · tṛtīyam | taṁ · ha · uvāca · mṛtyave · tvā · dadāmi · iti ||",
+    "hi": "उसने (नचिकेता ने) अपने पिता से कहा: 'पिताजी! आप मुझे किसको देंगे?' दूसरी बार, तीसरी बार (पूछा)। पिता ने (क्रोध में) कहा: 'मृत्यु को तुझे देता हूँ!'",
+    "en": "He said to his father: 'Father, to whom will you give me?' A second time, a third time. The father replied: 'To Death I give you!'",
+    "ws": [
+      {"s": "तात (tāta)", "h": "पिताजी!", "e": "Father! — affectionate vocative; the tenderness of the address contrasts with the father's harsh reply"},
+      {"s": "कस्मै (kasmai)", "h": "किसको, किसके लिए", "e": "to whom — dative singular interrogative: 'for whose sake'"},
+      {"s": "दास्यसि (dāsyasi)", "h": "देंगे, दान करेंगे", "e": "will you give — future 2nd sg. of √dā ('to give')"},
+      {"s": "द्वितीयम् तृतीयम् (dvitīyaṁ tṛtīyam)", "h": "दूसरी बार, तीसरी बार", "e": "a second time, a third time — the threefold asking that pushes the father to the breaking point"},
+      {"s": "मृत्यवे (mṛtyave)", "h": "मृत्यु को, यम को", "e": "to Death — dative singular of mṛtyu; Vajashravasa names Death as the recipient"}
+    ],
+    "gr": "<strong>tāta kasmai māṁ dāsyasi</strong> — the boy's question is devastatingly simple: 'Father, to whom will you give <em>me</em>?' If the sacrifice requires giving everything, then the son too must be given. <strong>dvitīyaṁ tṛtīyam</strong> — the compressed narration ('a second time, a third time') shows Nachiketa's persistence and the father's growing irritation. <strong>mṛtyave tvā dadāmi</strong> — spoken in anger: the present tense 'dadāmi' (I give) makes it a performative utterance — the words enact the gift.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.4 — The verse that sets the entire Upanishad in motion. Nachiketa's question ('to whom will you give me?') is both the child's literal concern and the Upanishad's deepest question: what is the self, and to whom does it belong? The father's angry curse becomes the doorway to wisdom.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि नचिकेता का प्रश्न ('मुझे किसको दोगे?') दो स्तरों पर कार्य करता है: व्यावहारिक — यज्ञ में सब कुछ दिया जा रहा है तो पुत्र को भी देना चाहिए; और पारमार्थिक — 'मैं' (आत्मा) किसका है? पिता का क्रोधपूर्ण उत्तर 'मृत्यु को' अनजाने में सत्य बन जाता है — मृत्यु (यम) ही वह गुरु होगा जो आत्म-ज्ञान देगा।",
+        "en": "Shankara says Nachiketa's question operates on two levels: practical — if everything is being given, the son should be included; and ultimate — to whom does the 'I' (Self) belong? The father's angry 'To Death!' unwittingly becomes truth — Death (Yama) will be the guru who imparts Self-knowledge.",
+        "ins": "Sometimes the worst that can happen is what needs to happen. The curse becomes a blessing; the door to Death becomes the door to immortality."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज के मत में नचिकेता का तीन बार पूछना भगवान् की प्रेरणा है — बालक को मृत्यु के पास भेजना भगवान् की योजना है ताकि परम ज्ञान प्रकट हो। पिता का क्रोध भगवान् की लीला का उपकरण बनता है।",
+        "en": "For Ramanuja, Nachiketa's triple asking is divinely prompted — sending the boy to Death is the Lord's plan so that supreme knowledge may be revealed. The father's anger becomes an instrument of divine play.",
+        "ins": "The Lord's plans unfold through human imperfection. Anger, accident, and crisis can be the vessels of grace."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द इसे अन्तरात्मा (psychic being) के जागरण का क्षण मानते हैं। नचिकेता का प्रश्न 'मुझे किसको दोगे?' अहंकार का प्रश्न नहीं, अन्तरात्मा का प्रश्न है — 'यह जो मैं हूँ, यह किसके अधीन है? इसका सच्चा स्वामी कौन है?'",
+        "en": "Aurobindo sees this as the awakening of the psychic being. Nachiketa's 'To whom will you give me?' is not the ego's question but the soul's — 'This that I am, to whom does it belong? Who is its true master?'",
+        "ins": "The soul's question is always: 'To whom do I belong?' The answer — discovered through the encounter with Death — is: to the Immortal."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Nachiketa ask three times?", "a": "The <strong>triple asking</strong> has deep Vedic significance: three is the number of completeness (three worlds, three fires, three states of consciousness). Each asking intensifies the question: the first time is inquiry, the second is insistence, the third is spiritual demand. The father can dismiss once, ignore twice, but the third time forces a response. The triple asking also foreshadows the three boons Nachiketa will receive from Yama — three questions, three answers, three levels of knowledge. Narratively, the triple asking pushes the father past patience into anger — and the angry word ('To Death!') becomes the pivot of the entire story."},
+      {"q": "🔍 Is the father's 'To Death I give you' a curse or a blessing?", "a": "It is both — and this duality is the Upanishad's first teaching about the relationship between death and truth. <strong>On the surface</strong>, it is a curse spoken in anger — the worst thing a father can say. <strong>In the story's logic</strong>, it becomes the greatest blessing — because it sends Nachiketa to the one teacher (Yama) who can answer the ultimate question. The Upanishad is showing that the encounter with mortality — which the ego experiences as the worst possible event — is actually the doorway to immortality. Every spiritual tradition echoes this: the 'dark night of the soul,' the 'descent into the underworld,' the 'death of the old self.' Vajashravasa's curse is the mechanism by which the soul finds its teacher."}
+    ]
+  },
+  {
+    "id": 5,
+    "sk": "बहूनामेमि प्रथमो बहूनामेमि मध्यमः | किंस्विद्यमस्य कर्तव्यं यन्मयाद्य करिष्यति ||",
+    "ro": "bahūnām · emi · prathamo · bahūnām · emi · madhyamaḥ | kiṁsvid · yamasya · kartavyaṁ · yan · mayā · adya · kariṣyati ||",
+    "hi": "नचिकेता ने सोचा: 'अनेक शिष्यों में मैं प्रथम श्रेणी का हूँ, अनेकों में मध्यम श्रेणी का (कदापि अधम नहीं)। यम का कौन-सा कार्य है जो वे आज मेरे द्वारा सम्पन्न करेंगे?'",
+    "en": "Nachiketa reflected: 'Among many I go as the first; among many I go as middling (never the worst). What purpose of Yama's will he accomplish through me today?'",
+    "ws": [
+      {"s": "बहूनाम् (bahūnām)", "h": "अनेकों में, बहुतों में", "e": "among many — genitive plural: 'of many' (students/souls)"},
+      {"s": "एमि (emi)", "h": "मैं जाता हूँ", "e": "I go — present 1st sg. of √i ('to go'); 'I rank, I proceed'"},
+      {"s": "प्रथमः (prathamaḥ)", "h": "प्रथम, सबसे अच्छा", "e": "first, foremost — nominative adjective: 'as the best'"},
+      {"s": "मध्यमः (madhyamaḥ)", "h": "मध्यम, बीच का", "e": "middling, median — 'never the worst'"},
+      {"s": "किंस्वित् (kiṁsvit)", "h": "क्या भला, कौन-सा", "e": "what indeed? — interrogative particle expressing genuine wondering"},
+      {"s": "कर्तव्यम् (kartavyam)", "h": "करने योग्य कार्य", "e": "work to be done, purpose — gerundive of √kṛ; 'what must be done'"}
+    ],
+    "gr": "<strong>bahūnām emi prathamaḥ</strong> — 'among many I go first': the boy assesses his own worth — he is not an inferior student. <strong>bahūnām emi madhyamaḥ</strong> — 'among many, middling': at worst, he is in the middle — never the lowest. This is not boasting but honest self-assessment before a daunting journey. <strong>kiṁsvid yamasya kartavyam</strong> — 'what purpose of Yama?' — the question shifts from self-assessment to cosmic purpose: what will Death do with me?",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.5 — Nachiketa's inner monologue as he prepares to go to Yama. The verse reveals remarkable composure: instead of panic, the boy calmly assesses his worth and wonders what purpose Death might have for him. This is śraddhā in action — faith transmuted into courage.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर इसे विवेक (discrimination) का लक्षण बताते हैं: बालक भयभीत नहीं है, वह विचार कर रहा है। 'मैं प्रथम या मध्यम हूँ' — अर्थात् मेरा जीवन व्यर्थ नहीं है, मृत्यु मुझसे कुछ सीखा सकती है या कोई उद्देश्य पूरा कर सकती है।",
+        "en": "Shankara reads this as the sign of viveka (discrimination): the boy is not afraid but reflective. 'I am first or middling' — my life has value; Death can teach me something or accomplish some purpose through me.",
+        "ins": "The prepared soul meets death not with terror but with inquiry — 'What can this experience teach me?'"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "नचिकेता का आत्म-मूल्यांकन विनम्रता और आत्मविश्वास का संयोग है। वह अपने को सर्वश्रेष्ठ नहीं कहता, किन्तु निकृष्ट भी नहीं — यही शरणागति के योग्य जीव का लक्षण है।",
+        "en": "Nachiketa's self-assessment blends humility and confidence. He does not claim to be the best but refuses to be the worst — this is the mark of a soul worthy of surrender.",
+        "ins": "The soul approaching the Lord needs both humility (I am not the greatest) and dignity (I am not worthless). Both are needed for genuine surrender."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द इसे अन्तरात्मा की आत्म-जागरूकता मानते हैं। नचिकेता अपने स्तर को जानता है — और जानता है कि मृत्यु के साथ भेंट में कोई गहरा उद्देश्य अवश्य है। यह चेतना का वह स्तर है जो दैवी योजना को सहज रूप से अनुभव करता है।",
+        "en": "Aurobindo reads this as the psychic being's self-awareness. Nachiketa knows his level — and senses that the encounter with Death must serve a deeper purpose. This is the level of consciousness that intuitively feels the divine plan.",
+        "ins": "The soul that senses purpose in adversity is already aligned with the Transcendent's intention."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does Nachiketa's self-assessment reveal about his character?", "a": "In two brief phrases — <strong>'Among many I go first; among many I go middling'</strong> — Nachiketa reveals a character rare in spiritual literature. He is neither arrogant ('I am the best') nor falsely humble ('I am nothing'). He makes an honest, grounded assessment: sometimes he excels, sometimes he is average, but he is never the worst. This balance of self-knowledge is what the Upanishad considers the prerequisite for meeting Death. A soul consumed by pride would demand special treatment; a soul crushed by self-doubt would be paralysed. Nachiketa's balanced self-regard allows him to face Yama with the composure needed to ask — and receive — the ultimate teaching."},
+      {"q": "🔍 What does 'What purpose of Yama will he accomplish through me?' mean?", "a": "The question <strong>'kiṁsvid yamasya kartavyam'</strong> is extraordinary for a child facing death. Instead of asking 'What will happen to me?' Nachiketa asks 'What will Yama accomplish through me?' The focus shifts from self-concern to cosmic purpose. The boy intuites that even Death has a dharma — a function to fulfill — and that his own journey to Yama's house might serve that function. In the story, this intuition proves correct: Nachiketa's visit gives Yama the opportunity to teach the highest wisdom. The boy does not know this yet, but his question shows the orientation of a soul aligned with larger purposes."}
+    ]
+  },
+  {
+    "id": 6,
+    "sk": "अनुपश्य यथा पूर्वे प्रतिपश्य तथापरे | सस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः ||",
+    "ro": "anupaśya · yathā · pūrve · pratipaśya · tathā · apare | sasyam · iva · martyaḥ · pacyate · sasyam · iva · ājāyate · punaḥ ||",
+    "hi": "देखो, पूर्वजों ने कैसा किया; देखो, परवर्ती कैसा करेंगे। मनुष्य अन्न (फसल) की तरह पकता है और अन्न की तरह पुनः उत्पन्न होता है।",
+    "en": "Look back at how the ancients acted; look forward at how later ones will act. A mortal ripens like grain, and like grain is born again.",
+    "ws": [
+      {"s": "अनुपश्य (anupaśya)", "h": "पीछे देखो", "e": "look back — imperative of anu+√paś ('to look along, look back')"},
+      {"s": "प्रतिपश्य (pratipaśya)", "h": "आगे देखो", "e": "look forward — imperative of prati+√paś ('to look toward, anticipate')"},
+      {"s": "सस्यम् इव (sasyam iva)", "h": "अन्न/फसल की तरह", "e": "like grain — sasyam (grain, harvest); iva (like); the crop metaphor"},
+      {"s": "पच्यते (pacyate)", "h": "पकता है", "e": "ripens — passive of √pac ('to cook, ripen'); maturation leading to death"},
+      {"s": "आजायते पुनः (ājāyate punaḥ)", "h": "पुनः जन्म लेता है", "e": "is born again — passive of ā+√jan ('to be born'); the cycle of rebirth"}
+    ],
+    "gr": "<strong>anupaśya... pratipaśya</strong> — two imperatives creating a temporal sweep: look back (at ancestors), look forward (at descendants). The double perspective places the individual life in the flow of generations. <strong>sasyam iva pacyate</strong> — 'ripens like grain': the agricultural metaphor is profound — grain ripens, is cut, and from its seed, new grain grows. <strong>sasyam iva ājāyate punaḥ</strong> — 'like grain is born again': the cycle of birth-death-rebirth is presented not as a doctrine but as an observable fact of nature.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.6 — Nachiketa consoles himself (or his father) with the reflection on mortality: all beings die and are reborn, like the agricultural cycle. This verse introduces the theme of the entire Katha Upanishad: what lies beyond this cycle?",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह श्लोक नचिकेता का अपने पिता को (या स्वयं को) आश्वासन है: मृत्यु सार्वभौमिक है, पूर्वज भी मरे, भावी पीढ़ियाँ भी मरेंगी। किन्तु इस सांत्वना के भीतर बड़ा प्रश्न छिपा है — क्या इस चक्र से परे कुछ है?",
+        "en": "Shankara reads this as Nachiketa's consolation to his father (or himself): death is universal; ancestors died, future generations will die. But within this consolation lies the greater question — is there anything beyond this cycle?",
+        "ins": "Accepting mortality is the first step; transcending it is the journey of the Katha Upanishad."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज इस चक्र को भगवान् की सृष्टि-लीला का अंश मानते हैं। जन्म-मृत्यु-पुनर्जन्म भगवान् की व्यवस्था है — किन्तु भक्त इस चक्र से परे भगवान् के नित्य धाम को प्राप्त करता है।",
+        "en": "Ramanuja sees the cycle as part of the Lord's creative play. Birth-death-rebirth is the Lord's arrangement — but the devotee transcends this cycle to reach the Lord's eternal abode.",
+        "ins": "The grain-cycle is not the soul's destiny — it is the condition from which the Lord's grace liberates."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द इस श्लोक में विकासवाद (evolution) का बीज देखते हैं: चेतना अन्न की तरह बार-बार जन्म लेती है — प्रत्येक जन्म में कुछ और परिपक्व होती है, जब तक वह मृत्यु के चक्र से ऊपर नहीं उठ जाती।",
+        "en": "Aurobindo sees the seed of evolution in this verse: consciousness is born again and again like grain — each birth ripening it further, until it rises above the death-cycle.",
+        "ins": "Rebirth is not pointless repetition but progressive evolution. Each life adds something; the soul is gradually ripening toward a transformation that transcends the cycle entirely."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why the grain metaphor for human mortality?", "a": "The metaphor <strong>sasyam iva</strong> (like grain) works on multiple levels. Grain <em>ripens</em> (pacyate — literally 'cooks' in the sun), is <em>harvested</em> (cut down at its peak), and from its <em>seed</em> grows again. This is the most intimate image available to a Vedic audience — every family grew grain, every harvest enacted the death-and-rebirth cycle. But the metaphor contains its own transcendence: grain serves a purpose <em>beyond</em> its own cycle — it feeds and sustains others. The implication: human life too serves a purpose beyond its own birth-death cycle. What that purpose is — that is the question Nachiketa will ask Yama."},
+      {"q": "🔍 Is this verse about reincarnation?", "a": "The phrase <strong>'ājāyate punaḥ'</strong> (is born again) is one of the earliest Upanishadic references to rebirth. But the verse does not present reincarnation as a philosophical doctrine — it presents it as an <em>observation</em> from nature. Grain dies and is reborn; so too is the mortal. The Katha Upanishad will go beyond this observation to ask: <em>what</em> is reborn? Is it the same self? Is there something that does not die? Nachiketa's question to Yama in mantra 20 — 'When a man dies, does he exist or not?' — is the deepest form of this inquiry. This verse sets up the question; the answer will take the rest of the Upanishad."}
+    ]
+  },
+  {
+    "id": 7,
+    "sk": "वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान् | तस्यैतां शान्तिं कुर्वन्ति हर वैवस्वतोदकम् ||",
+    "ro": "vaiśvānaraḥ · praviśati · atithir · brāhmaṇo · gṛhān | tasyai · etāṁ · śāntiṁ · kurvanti · hara · vaivasvata · udakam ||",
+    "hi": "वैश्वानर (अग्नि) की भाँति ब्राह्मण अतिथि गृह में प्रवेश करता है। उसकी शान्ति (तृप्ति) के लिए लोग यह करते हैं — हे वैवस्वत (यमराज), जल लाइए!",
+    "en": "Like Vaishvanara (fire), a Brahmin guest enters a house. People make this offering of peace to him — Bring water, O son of Vivasvat (Yama)!",
+    "ws": [
+      {"s": "वैश्वानरः (vaiśvānaraḥ)", "h": "वैश्वानर — सर्वव्यापी अग्नि", "e": "Vaishvanara — the universal fire; epithet of Agni as the fire in all beings"},
+      {"s": "अतिथिः (atithiḥ)", "h": "अतिथि — बिना तिथि का", "e": "guest — literally 'without a fixed date (a-tithi)'; one who arrives unannounced"},
+      {"s": "शान्तिम् (śāntim)", "h": "शान्ति, तृप्ति", "e": "peace-offering, propitiation — from √śam ('to be calm'); the hospitality that appeases the guest's fire"},
+      {"s": "वैवस्वत (vaivasvata)", "h": "विवस्वान् (सूर्य) के पुत्र — यम", "e": "O son of Vivasvat — patronymic of Yama; Vivasvat = the Sun"},
+      {"s": "उदकम् (udakam)", "h": "जल", "e": "water — the first offering to an arriving guest; a Vedic protocol"}
+    ],
+    "gr": "<strong>vaiśvānaraḥ praviśati</strong> — 'like Vaishvanara he enters': the simile of fire for a guest is both honorific and cautionary — an unhonoured guest burns the host's merit like uncontained fire. <strong>atithir brāhmaṇaḥ</strong> — 'a Brahmin guest': the highest category of guest in Vedic society. <strong>hara vaivasvata udakam</strong> — a direct command within the verse: 'Bring water, O Yama!' This is spoken by Yama's attendants (or by the narrative voice) reminding Yama of his host's duty. Nachiketa waited three nights without food — Yama must now make amends.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.7 — The verse transitions from Nachiketa's reflections to his arrival at Yama's house. A Brahmin guest is like fire — fail to honour him and he consumes your merit. This verse establishes why Yama owes Nachiketa three boons.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि अतिथि-धर्म वैदिक संस्कृति का मूल है। ब्राह्मण अतिथि अग्नि-स्वरूप है — उसकी उपेक्षा सब पुण्य नष्ट करती है। यम स्वयं इस धर्म से बँधा है — मृत्यु भी अतिथि-धर्म का उल्लंघन नहीं कर सकती।",
+        "en": "Shankara says atithi-dharma (hospitality) is foundational to Vedic culture. The Brahmin guest is fire incarnate — neglecting him destroys all merit. Even Yama is bound by this dharma — Death itself cannot violate hospitality.",
+        "ins": "The universe operates on dharma. Even the Lord of Death must honour the guest who comes to his door."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज इसे भगवान् की व्यवस्था मानते हैं: अतिथि-सेवा भगवत्-सेवा है। यम ने अतिथि-धर्म का पालन किया — यह दर्शाता है कि धर्म भगवान् से ऊपर नहीं, किन्तु भगवान् धर्म के माध्यम से कार्य करते हैं।",
+        "en": "Ramanuja sees this as the Lord's arrangement: serving the guest is serving the Lord. Yama honoured his guest-duty — showing that dharma is not above the Lord but the Lord works through dharma.",
+        "ins": "Every act of hospitality is an act of worship. The guest carries the divine fire."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द अतिथि को चेतना की उस उच्चतर शक्ति के रूप में देखते हैं जो अप्रत्याशित रूप से आती है और सब कुछ बदल देती है। नचिकेता यम के घर में 'अतिथि' है — वह चेतना की अग्नि है जो मृत्यु के क्षेत्र में प्रवेश करती है।",
+        "en": "Aurobindo reads the guest as the higher power of consciousness that arrives unexpectedly and changes everything. Nachiketa is the 'guest' in Yama's house — the fire of consciousness entering the domain of Death.",
+        "ins": "When the aspiring soul enters the realm of death, death itself must respond — not with destruction but with teaching."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is a guest compared to fire (Vaishvanara)?", "a": "The comparison of a guest to <strong>Vaishvanara</strong> (universal fire) operates on two levels. <strong>Positive</strong>: a guest carries divine fire — his presence purifies and blesses the household. Offering him food and water is like offering oblations into a sacred fire. <strong>Cautionary</strong>: fire unhonoured becomes destructive. A neglected guest 'burns' the host's accumulated merit — hope (āśā), expectation (pratīkṣā), the fruit of association (saṅgata), pleasant speech (sūnṛtā), sacrificial merit (iṣṭāpūrta), sons and cattle. The next verse (mantra 8) will list exactly what is destroyed. The metaphor is thus both an invitation and a warning — hospitality is sacred because the guest embodies the sacred fire."},
+      {"q": "🔍 Why is Yama called 'Vaivasvata' (son of the Sun)?", "a": "<strong>Vaivasvata</strong> — patronymic of Yama, meaning 'descendant of Vivasvat (the Sun)' — connects Death to the solar principle. In Vedic cosmology, the Sun is the source of light, life, and truth; Yama, as the Sun's son, is not darkness but the other face of light. Death is not the opposite of life but the guardian of life's boundaries. This solar lineage also explains why Yama can teach the highest truth: he is not a demon or enemy but a cosmic functionary of the solar order — Ṛta itself. The address 'O Vaivasvata' simultaneously acknowledges Yama's authority (as lord of the dead) and his luminous lineage (as son of the Sun)."}
+    ]
+  },
+  {
+    "id": 8,
+    "sk": "आशाप्रतीक्षे संगतं सूनृतां चेष्टापूर्ते पुत्रपशूंश्च सर्वान् | एतद्वृङ्क्ते पुरुषस्याल्पमेधसो यस्यानश्नन्वसति ब्राह्मणो गृहे ||",
+    "ro": "āśā · pratīkṣe · saṅgataṁ · sūnṛtāṁ · ca · iṣṭāpūrte · putra · paśūṁś · ca · sarvān | etad · vṛṅkte · puruṣasya · alpamedhasaḥ · yasya · anaśnan · vasati · brāhmaṇo · gṛhe ||",
+    "hi": "आशा और अपेक्षा, संगति का फल, मधुर वाणी का पुण्य, इष्ट (यज्ञ) और पूर्त (लोकहित कर्म) का फल, पुत्र और पशु — यह सब नष्ट हो जाता है उस अल्पबुद्धि व्यक्ति का, जिसके घर में ब्राह्मण अतिथि बिना भोजन के रहता है।",
+    "en": "Hope and expectation, the fruit of association, pleasant speech, the merit of sacrifices and charitable works, sons and cattle — all this is destroyed for the man of small understanding in whose house a Brahmin guest stays without food.",
+    "ws": [
+      {"s": "आशा (āśā)", "h": "आशा, अभिलाषा", "e": "hope — the expectation of future good; destroyed by inhospitality"},
+      {"s": "प्रतीक्षे (pratīkṣe)", "h": "प्रतीक्षा, अपेक्षा", "e": "expectation — the anticipation of results from past actions"},
+      {"s": "इष्टापूर्ते (iṣṭāpūrte)", "h": "यज्ञ और लोकहित कर्मों का फल", "e": "merit of sacrifices (iṣṭa) and charitable works (pūrta) — the two categories of Vedic merit"},
+      {"s": "वृङ्क्ते (vṛṅkte)", "h": "नष्ट कर देता है, छीन लेता है", "e": "destroys, tears away — present middle of √vṛj or √vraśc ('to cut, uproot')"},
+      {"s": "अल्पमेधसः (alpamedhasaḥ)", "h": "अल्पबुद्धि का", "e": "of small understanding — alpa (small) + medhas (wisdom, intelligence)"}
+    ],
+    "gr": "<strong>āśā pratīkṣe saṅgataṁ sūnṛtāṁ ca iṣṭāpūrte putra-paśūṁś ca sarvān</strong> — a comprehensive inventory of everything a householder values: seven categories spanning hope, social relations, speech-merit, ritual-merit, and progeny. <strong>etad vṛṅkte</strong> — 'this is torn away': the middle voice suggests the merit self-destructs. <strong>alpamedhasaḥ</strong> — 'of small understanding': the one who neglects a guest is not evil but foolish — alpa-medhas, lacking wisdom.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.8 — The verse specifies the sevenfold destruction that befalls a host who neglects a Brahmin guest. This is not a threat but a description of spiritual consequence — inhospitality reverses the karmic current.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह श्लोक मृत्यु (यम) को नचिकेता के प्रति अपने कर्तव्य का बोध कराता है। तीन रातें बिना भोजन — यम का सब पुण्य नष्ट हो रहा है। तीन वरदान इसी क्षति की भरपाई हैं।",
+        "en": "Shankara says this verse reminds Death (Yama) of his obligation. Three nights without food — Yama's merit is being destroyed. The three boons compensate for this loss.",
+        "ins": "Even the lord of dharma is subject to dharma. No being is above the law of hospitality."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज इस श्लोक में भगवान् की व्यवस्था देखते हैं: अतिथि-सेवा का उल्लंघन सब धार्मिक संचय को नष्ट करता है। यह इसलिए कि अतिथि में भगवान् निवास करते हैं।",
+        "en": "Ramanuja sees the Lord's law here: violating guest-service destroys all religious accumulation — because the Lord dwells in the guest.",
+        "ins": "Every being is a dwelling of the Lord. Neglecting any being is neglecting the Lord Himself."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द इसे चेतना के नियम के रूप में पढ़ते हैं: जब उच्चतर शक्ति (अतिथि/चेतना की अग्नि) उपेक्षित होती है, तब निम्न स्तर का सब संचय विघटित हो जाता है। आध्यात्मिक अवसर की उपेक्षा सबसे बड़ी हानि है।",
+        "en": "Aurobindo reads this as a law of consciousness: when a higher power (the guest / fire of consciousness) is neglected, all accumulation at the lower level disintegrates. Neglecting a spiritual opportunity is the greatest loss.",
+        "ins": "When the call of the higher consciousness arrives and is ignored, the fruits of all prior effort are undone."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does the Upanishad list exactly seven things that are destroyed?", "a": "The seven items — <strong>hope, expectation, association's fruit, pleasant speech, sacrificial merit, charitable merit, sons and cattle</strong> — cover the complete field of a Vedic householder's life. They span three domains: <strong>temporal</strong> (hope, expectation), <strong>social</strong> (association, speech), and <strong>spiritual</strong> (iṣṭa-pūrta, progeny). The comprehensive listing shows that inhospitality does not cause partial damage — it causes total destruction. The neglected guest-fire burns through every category of accumulated good. This totality makes Yama's situation urgent: three nights of a hungry Brahmin guest means three-fold total destruction of merit."},
+      {"q": "🔍 How does this verse set up the three boons?", "a": "Nachiketa waited <strong>three nights</strong> without food in Yama's house. The sevenfold destruction listed here means Yama has suffered catastrophic karmic loss. The three boons are not a generous gift but a <strong>necessary restitution</strong> — one boon per night of neglect. This is significant: the boons are not Yama's choice but his obligation. He <em>must</em> offer them. The framework of obligation ensures that even when Nachiketa asks the most difficult question (the third boon — what happens after death), Yama cannot refuse. The hospitality-debt becomes the lever by which the deepest teaching is extracted from Death."}
+    ]
+  },
+  {
+    "id": 9,
+    "sk": "तिस्रो रात्रीर्यदवात्सीर्गृहे मेऽनश्नन्ब्रह्मन्नतिथिर्नमस्यः | नमस्तेऽस्तु ब्रह्मन्स्वस्ति मेऽस्तु तस्मात्प्रति त्रीन्वरान्वृणीष्व ||",
+    "ro": "tisro · rātrīr · yad · avātsīr · gṛhe · me · anaśnan · brahman · atithir · namasyaḥ | namas · te · astu · brahman · svasti · me · astu · tasmāt · prati · trīn · varān · vṛṇīṣva ||",
+    "hi": "यम बोले: 'हे ब्राह्मण! तुम तीन रातें मेरे घर में बिना भोजन के रहे — तुम नमस्य (वन्दनीय) अतिथि हो। तुम्हें नमस्कार! हे ब्राह्मण, मेरा कल्याण हो। इसलिए तीन वरदान माँगो।'",
+    "en": "Yama said: 'Three nights you stayed in my house without eating, O Brahmin, O worthy guest. Salutations to you! O Brahmin, may it be well with me. Therefore choose three boons.'",
+    "ws": [
+      {"s": "तिस्रः रात्रीः (tisraḥ rātrīḥ)", "h": "तीन रातें", "e": "three nights — accusative pl.; the duration of Nachiketa's fast at Yama's door"},
+      {"s": "अवात्सीः (avātsīḥ)", "h": "तुम रहे, तुमने निवास किया", "e": "you stayed — aorist 2nd sg. of √vas ('to dwell, stay')"},
+      {"s": "अनश्नन् (anaśnan)", "h": "बिना खाये", "e": "without eating — present participle negative of √aś ('to eat')"},
+      {"s": "नमस्यः (namasyaḥ)", "h": "नमस्कार के योग्य", "e": "worthy of reverence — gerundive of √nam ('to bow'); 'one who must be bowed to'"},
+      {"s": "वरान् वृणीष्व (varān vṛṇīṣva)", "h": "वरदान माँगो", "e": "choose boons — varān (acc. pl. of vara, 'boon') + vṛṇīṣva (imperative middle of √vṛ, 'to choose')"}
+    ],
+    "gr": "<strong>tisro rātrīḥ</strong> — three nights: each night corresponds to one boon. <strong>anaśnan brahman atithir namasyaḥ</strong> — three vocatives/descriptions packed together: 'without eating, O Brahmin, a guest worthy of reverence.' <strong>namas te astu... svasti me astu</strong> — two parallel wishes: 'salutations to you; may it be well with me.' The second wish reveals Yama's genuine concern — he fears the karmic consequences of neglecting a guest. <strong>trīn varān vṛṇīṣva</strong> — 'choose three boons': the number matches the three nights; the imperative middle voice gives Nachiketa full choice.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.9 — Yama's formal offer of three boons. Death bows to Nachiketa — a reversal of the usual power dynamic. The lord of death becomes the servant of dharma, obligated by hospitality to grant whatever the boy asks.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर बताते हैं कि 'स्वस्ति मेऽस्तु' (मेरा कल्याण हो) यम की चिन्ता दर्शाता है — तीन रातें अतिथि भूखा रहा, यम का पुण्य-संचय खतरे में है। तीन वरदान आवश्यकता हैं, उदारता नहीं।",
+        "en": "Shankara notes 'svasti me astu' (may it be well with me) reveals Yama's concern — three nights of a hungry guest endangers his accumulated merit. The three boons are necessity, not generosity.",
+        "ins": "Even Death needs the guest's forgiveness. Dharma operates at every level of existence — no being is exempt."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि यम का नचिकेता को 'ब्रह्मन्' (ब्राह्मण) कहकर सम्बोधित करना दर्शाता है कि यम इस बालक में दिव्यता को पहचानता है। भगवान् ने इस बालक को विशेष कृपा से भेजा है।",
+        "en": "Ramanuja says Yama's addressing Nachiketa as 'brahman' (O Brahmin) shows Death recognises the divinity in this boy. The Lord has sent this child with special grace.",
+        "ins": "When the Lord's chosen soul arrives, even Death recognises and bows."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द में यम चेतना की उस शक्ति का प्रतीक है जो सीमा और अन्त को नियन्त्रित करती है। जब अभीप्सा (aspiration) की अग्नि (नचिकेता) तीन रातें (तीन अवस्थाओं — जागृत, स्वप्न, सुषुप्ति — का प्रतीक) पार करके मृत्यु के समक्ष खड़ी होती है, तब मृत्यु को झुकना पड़ता है।",
+        "en": "In Aurobindo, Yama symbolises the power of consciousness that governs limit and cessation. When the fire of aspiration (Nachiketa) crosses three nights (symbolising the three states of waking, dream, and deep sleep) and stands before Death, Death must bow.",
+        "ins": "The aspiring soul that passes through all three states of ordinary consciousness and arrives at the threshold of the Beyond compels even the guardian of that threshold to teach."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why three nights and three boons?", "a": "The number three pervades the Katha Upanishad and Vedic thought generally. <strong>Three nights</strong> represent a complete temporal cycle (past, present, future; or the three states of waking, dream, and deep sleep). <strong>Three boons</strong> map a hierarchy of human aspiration: the first boon (family harmony) addresses the <em>social</em> self; the second (the Nachiketa fire) addresses the <em>ritual/cosmic</em> self; the third (what happens after death) addresses the <em>ultimate</em> self. The structure moves from the outermost concern (will my father forgive me?) to the innermost (does the self survive death?). Each boon peels away a layer of the human condition until only the final, irreducible question remains."},
+      {"q": "🔍 What does it mean that Death (Yama) bows to Nachiketa?", "a": "The reversal is precise and deliberate: the lord of death says <strong>'namas te'</strong> (salutations to you) and <strong>'svasti me astu'</strong> (may it be well with me) — Death is worried about its own welfare before the Brahmin guest. This is the Upanishad's first structural teaching: <em>death is not the ultimate power</em>. The ultimate power is dharma — the cosmic order that even Death must obey. Nachiketa, by his purity and his father's word, has entered Death's domain not as a victim but as a guest who carries the sacred fire. Death bows not to the boy personally but to the dharma he embodies. This reversal is the story's promise: by the end, Death will not merely bow but will <em>teach</em> — the secret of immortality."}
+    ]
+  },
+  {
+    "id": 10,
+    "sk": "शान्तसंकल्पः सुमना यथा स्याद्वीतमन्युर्गौतमो माभि मृत्यो | त्वत्प्रसृष्टं माभिवदेत्प्रतीत एतत्त्रयाणां प्रथमं वरं वृणे ||",
+    "ro": "śānta·saṁkalpaḥ · sumanā · yathā · syād · vīta·manyur · gautamo · mā · abhi · mṛtyo | tvat·prasṛṣṭaṁ · mā · abhivadet · pratīta · etat · trayāṇāṁ · prathamaṁ · varaṁ · vṛṇe ||",
+    "hi": "नचिकेता ने कहा: 'हे मृत्यो! मेरे पिता गौतम शान्तचित्त, प्रसन्नमना और क्रोधरहित हों। आपसे छोड़ा हुआ मुझे पहचानकर स्नेहपूर्वक बोलें। तीनों वरों में यह पहला वर मैं माँगता हूँ।'",
+    "en": "'May Gautama (my father) be calm-minded, cheerful, free from anger toward me, O Death. May he recognise me when released by you and speak to me with love. This is the first of the three boons I choose.'",
+    "ws": [
+      {"s": "शान्तसंकल्पः (śāntasaṁkalpaḥ)", "h": "शान्त मन वाला", "e": "calm-minded — śānta (peaceful) + saṁkalpa (intention, mind)"},
+      {"s": "सुमनाः (sumanāḥ)", "h": "प्रसन्नचित्त", "e": "cheerful, well-disposed — su (good) + manas (mind)"},
+      {"s": "वीतमन्युः (vītamanyuḥ)", "h": "क्रोधरहित", "e": "free from anger — vīta (gone, departed) + manyu (anger, wrath)"},
+      {"s": "गौतमः (gautamaḥ)", "h": "गौतम — नचिकेता के पिता", "e": "Gautama — the father's clan name (gotra)"},
+      {"s": "त्वत्प्रसृष्टम् (tvatprasṛṣṭam)", "h": "आपसे छोड़ा हुआ", "e": "released by you — tvat (from you) + prasṛṣṭa (sent forth, released)"},
+      {"s": "प्रतीतः (pratītaḥ)", "h": "पहचानने वाला, प्रसन्न", "e": "recognising, confident — past participle of prati+√i ('to recognise, approach with confidence')"}
+    ],
+    "gr": "<strong>śānta-saṁkalpaḥ su-manāḥ vīta-manyuḥ</strong> — three compounds describing the desired state of the father: calm intention, good mind, anger departed. <strong>mā abhi mṛtyo</strong> — 'toward me, O Death': Nachiketa addresses Death directly while asking about his father — the intimacy is striking. <strong>prathamaṁ varaṁ vṛṇe</strong> — 'I choose the first boon': the formal, deliberate language shows Nachiketa's composure.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.10 — The first boon is entirely about human relationships — Nachiketa wants his father's love restored. Before seeking cosmic or metaphysical knowledge, the boy secures the human bond. This reveals the Upanishad's understanding: spiritual aspiration does not negate human affection.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि प्रथम वरदान लौकिक है — पारिवारिक सम्बन्ध की शान्ति। यह दर्शाता है कि ज्ञान-मार्ग पारिवारिक कर्तव्य की उपेक्षा नहीं करता, बल्कि पहले उसे सुलझाता है और फिर उच्चतर ज्ञान की ओर बढ़ता है।",
+        "en": "Shankara says the first boon is worldly — family reconciliation. This shows the path of knowledge does not neglect family duty; it first resolves that and then proceeds to higher knowledge.",
+        "ins": "Settle your human obligations before seeking the ultimate. The spiritual path does not require abandoning love — it requires completing it."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज नचिकेता के प्रथम वरदान में पुत्र-धर्म और पितृ-भक्ति देखते हैं। बालक को अपने लिए कुछ नहीं चाहिए — वह पहले अपने पिता की शान्ति चाहता है। यह सच्ची भक्ति की पूर्व-शर्त है: मानवीय सम्बन्धों की पवित्रता।",
+        "en": "Ramanuja sees in the first boon filial duty and devotion to the father. The boy wants nothing for himself — he first wants his father's peace. This is the prerequisite for true devotion: the sanctity of human relationships.",
+        "ins": "One who cannot love the father one has seen cannot love the Lord one has not seen. Begin with human love."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द प्रथम वरदान को चेतना की पहली आवश्यकता मानते हैं: बाह्य जीवन में शान्ति। जब तक बाहरी सम्बन्ध अशान्त हैं, तब तक भीतरी अन्वेषण असम्भव है। नचिकेता पहले बाह्य शान्ति स्थापित करता है, फिर भीतर जाता है।",
+        "en": "Aurobindo reads the first boon as consciousness's primary need: peace in outer life. While external relationships are disturbed, inner inquiry is impossible. Nachiketa first establishes outer peace, then turns inward.",
+        "ins": "The spiritual journey requires a settled base. Resolve outer conflicts first — not as an end but as the foundation for deeper work."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Nachiketa ask about his father first, before anything cosmic?", "a": "This is one of the most humanly touching moments in all the Upanishads. Nachiketa is standing before Death itself, granted three wishes — and his first thought is: <em>let my father not be angry at me</em>. The boy does not ask for personal gain, cosmic power, or even spiritual knowledge first. He asks for <strong>reconciliation</strong>. This reveals the Upanishad's understanding of spiritual hierarchy: the foundation of all knowledge is right relationship. A seeker carrying unresolved human pain cannot receive the highest teaching — the pain would distort the reception. Nachiketa clears the emotional ground before building the spiritual edifice."},
+      {"q": "🔍 What do the three descriptors (śānta-saṁkalpa, su-manā, vīta-manyu) tell us?", "a": "Nachiketa asks for three specific states in his father: <strong>śānta-saṁkalpa</strong> (calm intention — the deep mind at rest), <strong>su-manā</strong> (good mind, cheerful — the emotional surface at peace), and <strong>vīta-manyu</strong> (anger departed — the reactive layer dissolved). These three map the layers of the mind: intention (saṁkalpa), mood (manas), and passion (manyu). Nachiketa wants healing at all three levels — not just outward civility but deep inner peace in his father. This precision shows the boy's psychological maturity: he knows that surface politeness without inner calm is hollow, just as his father's sacrifice was hollow."}
+    ]
+  }
+]
