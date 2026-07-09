@@ -1,0 +1,1030 @@
+[
+  {
+    "id": 1,
+    "sk": "अन्यच्छ्रेयोऽन्यदुतैव प्रेयस्ते उभे नानार्थे पुरुषं सिनीतः | तयोः श्रेय आददानस्य साधु भवति हीयतेऽर्थाद्य उ प्रेयो वृणीते ||",
+    "ro": "anyac · chreyaḥ · anyad · utaiva · preyaḥ · te · ubhe · nānārthe · puruṣaṁ · sinītaḥ | tayoḥ · śreya · ādadānasya · sādhu · bhavati · hīyate · arthād · ya · u · preyo · vṛṇīte ||",
+    "hi": "श्रेय (कल्याणकारी) और है, प्रेय (प्रिय लगने वाला) और है — ये दोनों भिन्न-भिन्न लक्ष्यों वाले हैं और पुरुष को बाँधते हैं। इनमें से जो श्रेय को ग्रहण करता है उसका कल्याण होता है; जो प्रेय को चुनता है वह अपने वास्तविक लक्ष्य से भ्रष्ट हो जाता है।",
+    "en": "The good (śreyas) is one thing; the pleasant (preyas) is another. Both, having different ends, bind a person. It goes well with the one who chooses the good; the one who chooses the pleasant falls from the true aim.",
+    "ws": [
+      {"s": "श्रेयः (śreyaḥ)", "h": "श्रेष्ठ, कल्याणकारी", "e": "the good, the beneficial — comparative of √śrī; that which leads to ultimate well-being"},
+      {"s": "प्रेयः (preyaḥ)", "h": "प्रिय, सुखदायक", "e": "the pleasant, the agreeable — comparative of √prī; what is immediately gratifying"},
+      {"s": "नानार्थे (nānārthe)", "h": "भिन्न-भिन्न प्रयोजन वाले", "e": "having different purposes — nānā (different) + artha (aim, purpose)"},
+      {"s": "सिनीतः (sinītaḥ)", "h": "बाँधते हैं", "e": "bind — 3rd dual present of √si ('to bind'); both paths entangle the person"},
+      {"s": "हीयते (hīyate)", "h": "गिर जाता है, भ्रष्ट होता है", "e": "falls away, is diminished — passive of √hā ('to leave, abandon'); loses the true goal"}
+    ],
+    "gr": "<strong>śreyaḥ / preyaḥ</strong> — both are comparatives (not superlatives), suggesting a choice between 'better' and 'more pleasing,' not absolute good and evil. <strong>sinītaḥ</strong> — dual number verb: both paths actively bind; neither leaves the person free until the choice is made. <strong>hīyate arthāt</strong> — 'falls from the purpose': not punished externally but self-diminished by choosing wrongly.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.1 — This is the foundational ethical teaching of the Katha Upanishad. Yama distinguishes two fundamental orientations: śreyas (the path of liberation) and preyas (the path of gratification). This maps onto the Gita's later distinction between sāttvic and rājasic temperaments.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि श्रेय विद्या (ज्ञान) का मार्ग है और प्रेय अविद्या (अज्ञान) का। श्रेय मोक्ष की ओर ले जाता है, प्रेय संसार-बन्धन को और दृढ़ करता है। नचिकेता ने श्रेय चुनकर ज्ञान का अधिकारी होने की योग्यता प्रमाणित की।",
+        "en": "Shankara identifies śreyas with vidyā (knowledge) and preyas with avidyā (ignorance). Śreyas leads to mokṣa; preyas reinforces saṁsāric bondage. Nachiketa proved his fitness for knowledge by choosing śreyas.",
+        "ins": "The capacity to distinguish between what is truly good and what merely feels good is the first qualification of a spiritual seeker."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज के अनुसार श्रेय भगवान् की ओर ले जाने वाला मार्ग है और प्रेय इन्द्रिय-विषयों में फँसाने वाला। भगवान् की कृपा से ही मनुष्य श्रेय को पहचान पाता है — नचिकेता पर यही कृपा थी।",
+        "en": "For Ramanuja, śreyas is the path leading to the Lord and preyas is entanglement in sense-objects. Only by the Lord's grace can one recognise śreyas — this grace was upon Nachiketa.",
+        "ins": "The very ability to prefer the eternal over the ephemeral is itself a sign of divine grace working within the seeker."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द श्रेय को उच्चतर चेतना की पुकार और प्रेय को निम्नतर प्रकृति के आकर्षण के रूप में देखते हैं। यह द्वन्द्व मनुष्य की आन्तरिक लड़ाई है — आत्मा का आह्वान बनाम अहंकार का खिंचाव।",
+        "en": "Sri Aurobindo sees śreyas as the call of the higher consciousness and preyas as the attraction of the lower nature. This duality is the inner battle of the human being — the soul's summons versus the ego's pull.",
+        "ins": "Evolution demands choosing the harder path repeatedly. Each choice of śreyas over preyas is a step in the soul's ascent."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How do śreyas and preyas differ from good and evil?", "a": "The <strong>śreyas/preyas</strong> distinction is subtler than a simple good/evil binary. Both are comparatives — 'more beneficial' and 'more pleasing' — not absolutes. <strong>Preyas</strong> is not evil; it is genuinely pleasant and attractive. A delicious meal, a comfortable life, even heaven — these are preyas. They are real goods, but they are <em>lesser</em> goods. <strong>Śreyas</strong> is what serves one's ultimate well-being — it may be difficult, uncomfortable, even painful in the moment. The Upanishad does not say preyas is sinful; it says one who chooses it <strong>hīyate arthāt</strong> — 'falls from the purpose.' The tragedy is not punishment but the quiet loss of one's highest possibility. This is why Yama's temptations to Nachiketa (in the previous Valli) were all genuine goods — long life, wealth, power — not vices."},
+      {"q": "🔍 Why does Yama begin his teaching here and not with metaphysics?", "a": "Yama's teaching strategy is deliberate: he begins with <strong>ethics before metaphysics</strong>. Before revealing the nature of the Atman, he establishes the prerequisite — the capacity for right choice. The Katha Upanishad is structured as a progressive revelation: first, the seeker must demonstrate fitness (Valli 1, the temptation test); then the teacher validates that fitness and establishes the framework of discernment (this verse); only then does the teaching of the Self unfold. This mirrors the traditional four qualifications (<strong>sādhana-catuṣṭaya</strong>) in Advaita: viveka (discrimination), vairāgya (dispassion), ṣaṭ-sampatti (six virtues), and mumukṣutva (desire for liberation). Nachiketa has demonstrated all four — now he is ready to receive."}
+    ]
+  },
+  {
+    "id": 2,
+    "sk": "श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ सम्परीत्य विविनक्ति धीरः | श्रेयो हि धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते ||",
+    "ro": "śreyaś · ca · preyaś · ca · manuṣyam · etas · tau · samparītya · vivinakti · dhīraḥ | śreyo · hi · dhīraḥ · abhi · preyaso · vṛṇīte · preyo · mando · yogakṣemād · vṛṇīte ||",
+    "hi": "श्रेय और प्रेय दोनों मनुष्य के पास आते हैं। धीर (विवेकशील) पुरुष उन दोनों को परख कर अलग-अलग पहचान लेता है। धीर पुरुष प्रेय की अपेक्षा श्रेय को चुनता है; मन्द (अविवेकी) पुरुष योगक्षेम (लाभ और रक्षा) के लोभ से प्रेय को चुनता है।",
+    "en": "Both the good and the pleasant approach a person. The wise one examines and distinguishes between them. The wise chooses the good over the pleasant; the dull-witted chooses the pleasant for the sake of worldly gain and security.",
+    "ws": [
+      {"s": "सम्परीत्य (samparītya)", "h": "चारों ओर से घेर कर, परख कर", "e": "having gone around, having examined — absolutive of sam+pari+√i; implies thorough examination"},
+      {"s": "विविनक्ति (vivinakti)", "h": "पृथक् करता है, भेद करता है", "e": "discriminates, separates — vi+vi+√naj; the root sense is 'to sift apart'"},
+      {"s": "धीरः (dhīraḥ)", "h": "धीर, विवेकशील, स्थिरबुद्धि", "e": "the wise, the steadfast — from √dhī ('to think, reflect'); one with firm understanding"},
+      {"s": "मन्दः (mandaḥ)", "h": "मन्द, मूढ़, अविवेकी", "e": "the dull, the slow-witted — one who lacks discernment"},
+      {"s": "योगक्षेमात् (yogakṣemāt)", "h": "योग (अप्राप्त की प्राप्ति) और क्षेम (प्राप्त की रक्षा) के कारण", "e": "for the sake of acquisition and preservation — yoga (gaining what is not had) + kṣema (keeping what is had)"}
+    ],
+    "gr": "<strong>samparītya vivinakti</strong> — 'having gone around them, separates': the wise person does not impulsively choose; they examine both options from all sides before discriminating. <strong>yogakṣemāt</strong> — a compound capturing the two basic drives of worldly life: acquiring (yoga) and preserving (kṣema). The manda chooses preyas because it serves these immediate concerns. <strong>dhīraḥ/mandaḥ</strong> — the contrast is not moral but intellectual: wisdom versus dullness of perception.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.2 — The dhīra/manda contrast introduces the epistemic dimension: the difference is not in virtue but in clarity of vision. Yogakṣema anticipates the Gita (9.22) where Krishna promises yogakṣema to the devoted — but here it is what the unwise cling to.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'विविनक्ति' (भेद करना) ही विवेक है — अनित्य से नित्य को अलग करने की बुद्धि। यही सम्पूर्ण वेदान्त-साधना का प्रथम सोपान है। मन्द पुरुष में यह विवेक-शक्ति सुप्त रहती है।",
+        "en": "Shankara identifies 'vivinakti' (discriminates) as viveka — the intellect that separates the eternal from the non-eternal. This is the first step of the entire Vedantic discipline. In the manda, this faculty of discrimination remains dormant.",
+        "ins": "Viveka is not a learned skill but an awakened faculty. The entire spiritual path begins with the simple act of seeing clearly what is real and what is passing."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज के अनुसार धीर वह है जिसे भगवान् ने विवेक-बुद्धि प्रदान की है। मन्द अपनी बुद्धि से नहीं बल्कि इन्द्रियों से संचालित होता है। भगवान् की शरणागति ही मन्द को धीर बनाने का उपाय है।",
+        "en": "For Ramanuja, the dhīra is one to whom the Lord has granted the faculty of discernment. The manda is driven not by intellect but by senses. Surrender to the Lord is the means by which the manda becomes dhīra.",
+        "ins": "Discernment is a divine gift, not merely an intellectual achievement. Seeking it through prayer and surrender is itself a form of wisdom."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'योगक्षेम' को अहंकार की मूल प्रवृत्ति मानते हैं — पाना और पकड़े रहना। धीर वह है जो इस प्रवृत्ति से ऊपर उठ कर आत्मा की पुकार सुनता है। मन्द इसी प्रवृत्ति में बँधा रहता है।",
+        "en": "Sri Aurobindo sees 'yogakṣema' as the ego's fundamental drive — to acquire and to hold. The dhīra is one who rises above this drive to hear the soul's call. The manda remains trapped in it.",
+        "ins": "The soul's evolution requires transcending the survival instinct of the ego. The wise person risks present comfort for a future that the ego cannot even imagine."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'vivinakti' reveal about the nature of wisdom?", "a": "The word <strong>vivinakti</strong> (from vi+vi+√naj, 'to sift apart') is extraordinarily precise. It is the same root from which <strong>viveka</strong> (discrimination) derives. The verb implies a physical act of <em>separating grain from chaff</em> — the wise person does not reject preyas out of ascetic disgust but carefully <em>sifts</em> the two apart. This means both śreyas and preyas may appear mixed together in life's offerings; they are not always obviously different. The dhīra's skill lies in detecting the subtle difference — recognising when apparent good is actually pleasant-dressed-as-good, and when apparent difficulty is actually the truly beneficial path. <strong>Samparītya</strong> (having gone around) adds that this examination is thorough — from all sides, not a snap judgment."},
+      {"q": "🔍 What is yogakṣema and why is it the manda's trap?", "a": "<strong>Yogakṣema</strong> is a compound of two concerns: <strong>yoga</strong> (not the spiritual practice but literally 'acquisition' — gaining what one does not have) and <strong>kṣema</strong> ('security' — preserving what one has gained). Together they capture the entire anxiety of worldly life: getting and keeping. The manda chooses preyas not because they are evil but because preyas serves these two drives. Every pleasant choice promises either gain or safety. The tragedy is that this is reasonable from the ego's perspective — but it forecloses the possibility of transformation. In the <strong>Bhagavad Gita</strong> (9.22), Krishna promises 'yogakṣemaṁ vahāmy aham' — 'I carry their yogakṣema' — to those who surrender completely. The Gita's solution is not to eliminate the need for security but to transfer it from the ego to the Divine."}
+    ]
+  },
+  {
+    "id": 3,
+    "sk": "स त्वं प्रियान् प्रियरूपांश्च कामानभिध्यायन् नचिकेतोऽत्यस्राक्षीः | नैतां सृङ्कां वित्तमयीमवाप्तो यस्यां मज्जन्ति बहवो मनुष्याः ||",
+    "ro": "sa · tvaṁ · priyān · priyarūpāṁś · ca · kāmān · abhidhyāyan · naciketo · atyasrākṣīḥ | na · etāṁ · sṛṅkāṁ · vittamayīm · avāpto · yasyāṁ · majjanti · bahavo · manuṣyāḥ ||",
+    "hi": "हे नचिकेता! तूने प्रिय वस्तुओं को और प्रिय रूपों वाली कामनाओं को भली-भाँति विचार कर त्याग दिया। तू इस धन-सम्पत्ति की उस श्रृंखला (जंजीर) में नहीं फँसा जिसमें बहुत से मनुष्य डूब जाते हैं।",
+    "en": "You, O Nachiketa, having reflected upon the desirable and the desire-worthy pleasures, have cast them aside. You have not entered this chain of wealth in which many human beings sink and drown.",
+    "ws": [
+      {"s": "प्रियान् (priyān)", "h": "प्रिय वस्तुओं को", "e": "the dear, the desirable things — accusative plural; the temptations Yama offered"},
+      {"s": "प्रियरूपान् (priyarūpān)", "h": "प्रिय रूप वाले", "e": "having pleasing forms — the attractiveness of the objects themselves"},
+      {"s": "अभिध्यायन् (abhidhyāyan)", "h": "भली-भाँति विचार करके", "e": "having contemplated, having reflected deeply — present participle of abhi+√dhyai"},
+      {"s": "अत्यस्राक्षीः (atyasrākṣīḥ)", "h": "त्याग दिया, छोड़ दिया", "e": "cast aside, let go — aorist of ati+√sṛj ('to release beyond'); a decisive, completed rejection"},
+      {"s": "सृङ्काम् (sṛṅkām)", "h": "श्रृंखला, जंजीर", "e": "chain, fetter — the image of wealth as a chain that binds"},
+      {"s": "वित्तमयीम् (vittamayīm)", "h": "धन-सम्पत्ति से बनी हुई", "e": "made of wealth — vitta (wealth) + mayī (made of, consisting of)"},
+      {"s": "मज्जन्ति (majjanti)", "h": "डूब जाते हैं", "e": "sink, drown — √majj ('to sink'); they don't just fall but go under completely"}
+    ],
+    "gr": "<strong>abhidhyāyan</strong> — 'having contemplated': Nachiketa's rejection was not impulsive but considered. He saw the pleasures clearly and still chose to let them go. <strong>atyasrākṣīḥ</strong> — aorist of ati+√sṛj: 'released beyond'; a decisive, irreversible casting aside. <strong>sṛṅkāṁ vittamayīm</strong> — 'chain made of wealth': wealth is not a reward but a fetter. The image is startling — gold becomes a chain, possessions become prison. <strong>majjanti</strong> — 'they drown': not a gentle metaphor; most people go completely under.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.3 — Yama validates Nachiketa's choice from Valli 1. The striking image of wealth as a sṛṅkā (chain/fetter) inverts the common assumption — possessions do not free, they bind. The word majjanti (drown) suggests a spiritual death more final than physical death.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'अभिध्यायन्' (विचारपूर्वक) शब्द दर्शाता है कि नचिकेता का त्याग अज्ञान से नहीं, ज्ञान से हुआ — उसने कामनाओं को जानकर छोड़ा। यही वैराग्य की सर्वोच्च कोटि है — जो देखकर भी न फँसे।",
+        "en": "Shankara notes that 'abhidhyāyan' (having contemplated) shows Nachiketa's renunciation was born of knowledge, not ignorance — he knew what he was giving up. This is the highest grade of vairāgya — seeing and still not being caught.",
+        "ins": "True renunciation is not turning away from what you don't know, but letting go of what you fully understand to be attractive yet ultimately binding."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज के अनुसार नचिकेता ने भगवान् की कृपा से सांसारिक सुखों की तुच्छता देखी। 'वित्तमयी सृङ्का' — धन की जंजीर — भगवान् से विमुख करने वाली सबसे बड़ी बाधा है।",
+        "en": "For Ramanuja, Nachiketa saw the insignificance of worldly pleasures through the Lord's grace. 'Vittamayī sṛṅkā' — the chain of wealth — is the greatest obstacle to turning toward the Lord.",
+        "ins": "Wealth is not evil in itself, but attachment to it becomes the strongest chain binding the soul from its divine source."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'सृङ्का' (जंजीर) के रूपक में भौतिक चेतना के बन्धन देखते हैं। धन केवल धातु या मुद्रा नहीं — यह एक चेतना-अवस्था है जो मनुष्य को शरीर और इन्द्रियों के स्तर पर बाँधे रखती है। नचिकेता ने इस स्तर को पार किया।",
+        "en": "Sri Aurobindo reads the 'sṛṅkā' (chain) metaphor as the bondage of material consciousness. Wealth is not just metal or currency — it is a state of consciousness that keeps the human bound to the level of body and senses. Nachiketa transcended this level.",
+        "ins": "What we own ends up owning us — not because possessions are evil but because they anchor consciousness at the material level."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama praise Nachiketa before teaching him?", "a": "Yama's praise in this verse serves a specific pedagogical function: <strong>establishing adhikāra</strong> (qualification). In the Vedantic tradition, not everyone is fit to receive the highest teaching. The teacher must verify that the student has the necessary preparation — especially viveka (discrimination) and vairāgya (dispassion). By explicitly acknowledging Nachiketa's rejection of temptations ('you cast aside the pleasant... you did not enter the chain of wealth'), Yama is formally recognising him as an <em>adhikārī</em> — a qualified student. This is not flattery; it is a necessary preliminary. Without this recognition, the subsequent teaching about the Atman would be premature. The structure mirrors the traditional guru-śiṣya relationship: the teacher tests, the student passes, the teacher acknowledges, and only then does the teaching begin."},
+      {"q": "🔍 What does the image of wealth as a 'chain' (sṛṅkā) mean?", "a": "The word <strong>sṛṅkā</strong> (chain, fetter) is deliberately provocative. In ordinary perception, wealth represents <em>freedom</em> — the ability to do what one wants, go where one pleases, live as one chooses. Yama inverts this: wealth is a <strong>chain</strong>, and those who grasp it <strong>majjanti</strong> (drown). The image works on two levels: (1) <em>Practically</em> — wealth demands maintenance, protection, increase; the wealthy person becomes servant to their possessions. (2) <em>Spiritually</em> — attachment to wealth anchors consciousness in the material plane, making it impossible to inquire into what lies beyond. The compound <strong>vittamayīm</strong> ('made of wealth') is precise — the chain is not around the wealth but <em>composed</em> of it. Each possession is a link. The more you accumulate, the heavier the chain."}
+    ]
+  },
+  {
+    "id": 4,
+    "sk": "दूरमेते विपरीते विषूची अविद्या या च विद्येति ज्ञाता | विद्याभीप्सिनं नचिकेतसं मन्ये न त्वा कामा बहवोऽलोलुपन्त ||",
+    "ro": "dūram · ete · viparīte · viṣūcī · avidyā · yā · ca · vidyā · iti · jñātā | vidyā · abhīpsinaṁ · naciketasaṁ · manye · na · tvā · kāmā · bahavo · alolupanta ||",
+    "hi": "ये दोनों — अविद्या और विद्या — एक-दूसरे से दूर, विपरीत दिशाओं में जाने वाली, और भिन्न-भिन्न हैं — ऐसा जानी जाती हैं। मैं नचिकेता को विद्या का अभिलाषी मानता हूँ — तुझे बहुत-सी कामनाओं ने विचलित नहीं किया।",
+    "en": "Widely apart and leading in opposite directions are these two — ignorance (avidyā) and what is known as knowledge (vidyā). I consider Nachiketa to be a seeker of knowledge — the many desires did not tempt you.",
+    "ws": [
+      {"s": "विपरीते (viparīte)", "h": "विपरीत, उलटी दिशा वाली", "e": "opposed, contrary — going in diametrically opposite directions"},
+      {"s": "विषूची (viṣūcī)", "h": "भिन्न-भिन्न दिशाओं में जाने वाली", "e": "diverging — from vi+√sūc; they lead to entirely different destinations"},
+      {"s": "अविद्या (avidyā)", "h": "अज्ञान", "e": "ignorance — not mere absence of knowledge but active mis-knowing; taking the unreal for real"},
+      {"s": "विद्या (vidyā)", "h": "ज्ञान, विद्या", "e": "knowledge — specifically liberating knowledge (ātma-vidyā); not mere information"},
+      {"s": "अभीप्सिनम् (abhīpsinam)", "h": "अभिलाषी, चाहने वाला", "e": "desiring, seeking — from abhi+√āp (desiderative); one who intensely seeks to attain"},
+      {"s": "अलोलुपन्त (alolupanta)", "h": "लुभा न सके, विचलित न कर सके", "e": "did not make greedy, did not tempt — negative aorist of √lup (intensive); failed to create avarice"}
+    ],
+    "gr": "<strong>dūram ete viparīte viṣūcī</strong> — three words piled to stress separation: 'far apart,' 'opposite,' 'diverging.' Avidyā and vidyā are not slightly different but utterly incompatible. <strong>alolupanta</strong> — intensive (frequentative) form of √lup: not merely 'did not attract' but 'did not make you repeatedly greedy.' The temptations were persistent; Nachiketa's resistance was firm.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.4 — Yama maps the śreyas/preyas distinction onto the vidyā/avidyā framework. This is a key link between ethical choice and epistemology — right choice requires right knowledge, and right knowledge produces right choice. The Isha Upanishad (9-11) also treats vidyā and avidyā as complementary; here they are presented as opposed.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि अविद्या-विद्या का यह भेद सम्पूर्ण वेदान्त का मूल है। अविद्या = अनात्मा को आत्मा मानना; विद्या = आत्मा को जानना। ये दो मार्ग 'विषूची' (विपरीत गामी) हैं — एक बन्धन की ओर, दूसरा मुक्ति की ओर।",
+        "en": "Shankara says the avidyā/vidyā distinction is the foundation of all Vedanta. Avidyā = mistaking the non-Self for the Self; vidyā = knowing the Self. These two paths are 'viṣūcī' (diverging) — one toward bondage, the other toward liberation.",
+        "ins": "The root of all suffering is a case of mistaken identity — taking what we are not (body, mind, ego) for what we truly are (Atman)."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज विद्या को भगवान् का ज्ञान और अविद्या को भगवान् से विमुखता मानते हैं। ये दोनों 'दूरम्' (बहुत दूर) हैं — भक्त और विषयी में आकाश-पाताल का अन्तर है।",
+        "en": "Ramanuja reads vidyā as knowledge of the Lord and avidyā as turning away from the Lord. These two are 'dūram' (far apart) — the difference between the devotee and the worldling is as vast as heaven and earth.",
+        "ins": "To know God is to be oriented toward truth; to be ignorant of God is not neutral but actively misdirected."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द अविद्या को निम्नतर प्रकृति की चेतना और विद्या को उच्चतर चेतना (सुप्रामेंटल) की ओर बढ़ना मानते हैं। ये दो चेतना-धाराएँ 'विषूची' — विपरीत दिशाओं में बहती हैं। नचिकेता ने ऊर्ध्वगामी धारा को चुना।",
+        "en": "Sri Aurobindo reads avidyā as the consciousness of the lower nature and vidyā as the movement toward higher (supramental) consciousness. These two streams of consciousness are 'viṣūcī' — flowing in opposite directions. Nachiketa chose the ascending stream.",
+        "ins": "Every moment of awareness is either ascending toward truth-consciousness or descending into the inertia of matter. There is no neutral ground."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How does vidyā differ from ordinary knowledge?", "a": "In the Upanishadic context, <strong>vidyā</strong> does not mean general learning, scholarship, or even intellectual brilliance. It means specifically <strong>ātma-vidyā</strong> — knowledge of the Self. The Mundaka Upanishad (1.1.4-5) makes the distinction explicit: <strong>aparā vidyā</strong> (lower knowledge) includes the four Vedas, grammar, astronomy, and all sciences; <strong>parā vidyā</strong> (higher knowledge) is 'that by which the Imperishable (akṣara) is known.' A person may have encyclopedic knowledge of every subject and still be in <strong>avidyā</strong> if they do not know the Self. Conversely, the simplest person who directly knows 'I am the Atman' possesses <strong>vidyā</strong>. This is why Yama calls Nachiketa — a boy, not a scholar — 'vidyābhīpsinam' (seeker of vidyā). The boy's qualification is not learning but the purity and intensity of his seeking."},
+      {"q": "🔍 What is the relationship between the śreyas/preyas and vidyā/avidyā pairs?", "a": "Yama presents two parallel pairs that map onto each other: <strong>śreyas = vidyā</strong> (the good = knowledge) and <strong>preyas = avidyā</strong> (the pleasant = ignorance). But the mapping reveals something deeper: choosing the pleasant is not merely an ethical failure but an <em>epistemological</em> one. The person who chooses preyas does so because they <em>do not see clearly</em> — they mistake the transient for the permanent, the body for the Self, pleasure for fulfilment. Conversely, the person who sees clearly (vidyā) naturally chooses śreyas — not through will-power but through vision. This means ethics and epistemology are inseparable in the Upanishadic framework. You cannot know the truth and choose wrongly, because wrong choice <em>is</em> the symptom of not-knowing. This is also why Yama's 'teaching' is not moral instruction but a revelation of reality — once Nachiketa <em>sees</em>, the right choice will follow naturally."}
+    ]
+  },
+  {
+    "id": 5,
+    "sk": "अविद्यायामन्तरे वर्तमानाः स्वयं धीराः पण्डितंमन्यमानाः | दन्द्रम्यमाणाः परियन्ति मूढा अन्धेनैव नीयमाना यथान्धाः ||",
+    "ro": "avidyāyām · antare · vartamānāḥ · svayaṁ · dhīrāḥ · paṇḍitaṁmanyamānāḥ | dandramyamāṇāḥ · pariyanti · mūḍhāḥ · andhena · eva · nīyamānā · yathā · andhāḥ ||",
+    "hi": "अविद्या के बीच में रहते हुए, अपने-आप को धीर और पण्डित मानते हुए, वे मूढ़ जन इधर-उधर भटकते हैं — जैसे अन्धे अन्धों द्वारा ले जाये जाते हैं।",
+    "en": "Dwelling in the midst of ignorance, yet fancying themselves wise and learned, the deluded go round and round, staggering, like the blind led by the blind.",
+    "ws": [
+      {"s": "अन्तरे (antare)", "h": "बीच में, भीतर", "e": "in the midst of — locative; they are inside ignorance, surrounded by it"},
+      {"s": "पण्डितंमन्यमानाः (paṇḍitaṁmanyamānāḥ)", "h": "अपने को पण्डित मानने वाले", "e": "thinking themselves learned — paṇḍita + manyamāna; self-proclaimed scholars"},
+      {"s": "दन्द्रम्यमाणाः (dandramyamāṇāḥ)", "h": "इधर-उधर भटकते हुए, लड़खड़ाते हुए", "e": "wandering, staggering — intensive/frequentative of √dram; aimless, repeated movement"},
+      {"s": "परियन्ति (pariyanti)", "h": "चक्कर लगाते हैं, भ्रमण करते हैं", "e": "go round and round — pari+√i; circular, never-arriving motion"},
+      {"s": "मूढाः (mūḍhāḥ)", "h": "मूढ़, भ्रमित", "e": "deluded — past passive participle of √muh ('to be confused'); they are not merely ignorant but actively deluded"},
+      {"s": "अन्धेन नीयमानाः यथा अन्धाः (andhena nīyamānā yathā andhāḥ)", "h": "जैसे अन्धे द्वारा ले जाये जाने वाले अन्धे", "e": "like the blind led by the blind — the famous simile; the guides are as lost as the guided"}
+    ],
+    "gr": "<strong>paṇḍitaṁmanyamānāḥ</strong> — a compound participle: 'thinking-themselves-learned.' The compound itself is the diagnosis — the delusion is not that they lack knowledge but that they believe they have it. <strong>dandramyamāṇāḥ</strong> — intensive (frequentative) of √dram: not walking but staggering, lurching, going to and fro without direction. <strong>pariyanti</strong> — 'go around': circular motion, never progressing. <strong>andhena nīyamānā yathā andhāḥ</strong> — the 'blind leading the blind' simile appears here centuries before its appearance in other traditions.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.5 — The 'blind leading the blind' is one of the most famous images in world literature. In context, Yama targets not the uneducated but the self-proclaimed scholars — those who teach what they do not understand. The Mundaka Upanishad (1.2.8) repeats this critique almost verbatim.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'पण्डितंमन्यमानाः' — अपने को विद्वान् मानने वाले — सबसे कठिन रोगी हैं। जो अज्ञानी जानता है कि वह अज्ञानी है, उसे सिखाया जा सकता है; जो अज्ञानी अपने को ज्ञानी मानता है, वह असाध्य है।",
+        "en": "Shankara says 'paṇḍitaṁmanyamānāḥ' — those who consider themselves learned — are the most difficult cases. An ignorant person who knows they are ignorant can be taught; an ignorant person who thinks they are wise is incurable.",
+        "ins": "The greatest obstacle to awakening is not ignorance but the illusion of knowledge. Intellectual pride is harder to overcome than any sensual temptation."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि बिना भगवत्-कृपा के सारा पांडित्य अन्धकार ही है। 'अन्धेन नीयमानाः अन्धाः' — जो स्वयं भगवान् को नहीं जानता, वह दूसरों को क्या सिखाएगा? केवल भगवान् ही सच्चे गुरु हैं।",
+        "en": "Ramanuja states that without the Lord's grace, all scholarship is darkness. 'The blind led by the blind' — one who does not know the Lord himself, what can he teach others? Only the Lord is the true guru.",
+        "ins": "A teacher without divine experience is like a lamp without oil — the form is there but the light is absent."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द इसमें मानसिक ज्ञान की सीमा देखते हैं — बुद्धि (mind) अविद्या के भीतर रहकर भी अपने को 'पण्डित' मान लेती है। असली ज्ञान बुद्धि से ऊपर — सुप्रामेंटल चेतना में — है।",
+        "en": "Sri Aurobindo sees here the limitation of mental knowledge — the mind (buddhi), while remaining within ignorance, can convince itself it is 'paṇḍita.' True knowledge lies above the mind — in supramental consciousness.",
+        "ins": "The mind is the greatest trickster: it can build elaborate systems of thought that are internally consistent yet entirely miss the truth. Real knowledge requires a faculty beyond mind."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Who are the 'blind leading the blind' in the Upanishadic context?", "a": "The <strong>'blind leading the blind'</strong> (andhena nīyamānā yathā andhāḥ) targets a specific class: <strong>ritual specialists and intellectual scholars</strong> who have mastered the external forms of religion without understanding their inner meaning. In the Upanishadic milieu, this critique was revolutionary. The Brahmins who performed elaborate Vedic rituals — fire sacrifices, soma ceremonies, complex liturgies — were the religious establishment. Yama is saying that even their expertise, if it lacks knowledge of the Self (ātma-vidyā), is a form of <em>blindness</em>. The Mundaka Upanishad (1.2.7-8) makes this even more explicit, calling ritualists who think heaven is the highest goal 'fools who praise each other' and condemning them to fall back from heaven when their merit is exhausted. This is the Upanishadic revolution: knowledge of the Self supersedes all ritual expertise."},
+      {"q": "🔍 What makes the 'staggering' (dandramyamāṇāḥ) image so powerful?", "a": "The verb <strong>dandramyamāṇāḥ</strong> is a frequentative/intensive form of √dram ('to run, to go'). The frequentative conveys <em>repeated, aimless, agitated motion</em> — not walking, not even wandering, but <em>staggering</em> like a drunk or a dizzy person. Combined with <strong>pariyanti</strong> ('go round and round'), the image is of people moving energetically but <em>in circles</em>, never arriving anywhere. This is the Upanishad's verdict on the worldly life: it is not stillness but frenetic, purposeless activity. The modern analogy is unmistakable — busyness without direction, productivity without purpose, careers that go in circles. The deluded are not lazy; they are hyperactive. Their very activity is the symptom of their confusion."}
+    ]
+  },
+  {
+    "id": 6,
+    "sk": "न साम्परायः प्रतिभाति बालं प्रमाद्यन्तं वित्तमोहेन मूढम् | अयं लोको नास्ति पर इति मानी पुनः पुनर्वशमापद्यते मे ||",
+    "ro": "na · sāmparāyaḥ · pratibhāti · bālaṁ · pramādyantaṁ · vittamohena · mūḍham | ayaṁ · lokaḥ · na · asti · paraḥ · iti · mānī · punaḥ · punaḥ · vaśam · āpadyate · me ||",
+    "hi": "धन के मोह से प्रमत्त और मूढ़ बने हुए बालक (अज्ञानी) को परलोक की बात सूझती ही नहीं। 'यही लोक है, परलोक कुछ नहीं' — ऐसा मानने वाला बार-बार मेरे (मृत्यु के) वश में आता है।",
+    "en": "The hereafter never reveals itself to the childish one, who is heedless, deluded by the glamour of wealth. Thinking 'This world alone exists, there is no other' — such a one falls again and again under my sway.",
+    "ws": [
+      {"s": "साम्परायः (sāmparāyaḥ)", "h": "परलोक, मृत्यु के पश्चात् का लोक", "e": "the hereafter, the world beyond — from sam+para+√i; what comes after this life"},
+      {"s": "प्रतिभाति (pratibhāti)", "h": "प्रतीत होता है, सूझता है", "e": "reveals itself, becomes apparent — prati+√bhā ('to shine forth'); the truth must shine upon the seeker"},
+      {"s": "बालम् (bālam)", "h": "बालक, अज्ञानी", "e": "the childish one — not a child by age but by spiritual immaturity"},
+      {"s": "प्रमाद्यन्तम् (pramādyantam)", "h": "प्रमत्त, असावधान", "e": "heedless, careless — from pra+√mad ('to be intoxicated'); drunk on worldly life"},
+      {"s": "वित्तमोहेन (vittamohena)", "h": "धन के मोह से", "e": "by the delusion of wealth — vitta (wealth) + moha (delusion)"},
+      {"s": "वशम् आपद्यते मे (vaśam āpadyate me)", "h": "मेरे वश में आ जाता है", "e": "falls under my power — Yama speaks as Death personified; the materialist returns to death repeatedly"}
+    ],
+    "gr": "<strong>bālam</strong> — 'childish one': not young in years but young in understanding; an adult who has never matured spiritually. <strong>pramādyantam</strong> — from pra+√mad: literally 'intoxicated'; the person is drunk on the world, heedless like one in a stupor. <strong>punaḥ punaḥ vaśam āpadyate me</strong> — 'again and again falls under MY power': Yama, the speaker, is Death himself. This is not a theological statement but a first-person testimony from Death: 'I catch such people repeatedly.' The cyclical nature of death-and-rebirth (punarjanma) is implied.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.6 — Yama speaks as Death in the first person — a unique rhetorical move. The one who denies the hereafter ('ayaṁ loko nāsti paraḥ') falls into death's power 'again and again' — a clear reference to the cycle of rebirth. The materialist's denial does not eliminate death but guarantees its repetition.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'पुनः पुनः' शब्द जन्म-मरण के चक्र (संसार) को इंगित करता है। जो आत्मा को नहीं जानता वह बार-बार मृत्यु के अधीन होता है। मृत्यु का अतिक्रमण केवल आत्मज्ञान से सम्भव है।",
+        "en": "Shankara reads 'punaḥ punaḥ' as indicating the cycle of birth and death (saṁsāra). One who does not know the Self repeatedly falls under death's power. Transcendence of death is possible only through Self-knowledge.",
+        "ins": "Death is not a one-time event but a recurring condition for the ignorant. Only the knowledge 'I am the deathless Atman' breaks the cycle."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'नास्ति परः' (कोई परलोक नहीं) — यह सबसे भयंकर अविद्या है। भगवान् ने जीवात्मा को शाश्वत बनाया है; उसे नश्वर मानना भगवान् का अपमान है।",
+        "en": "Ramanuja says 'nāsti paraḥ' (there is no beyond) is the most terrible form of ignorance. The Lord created the jīvātman as eternal; to consider it mortal is an insult to the Lord.",
+        "ins": "Materialism is not a philosophical position but a spiritual disease — it denies the very nature of the soul as the Lord created it."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'वित्तमोह' को भौतिक चेतना की सम्मोहन-शक्ति मानते हैं — पदार्थ का आकर्षण इतना प्रबल है कि चेतना उससे परे कुछ देख ही नहीं पाती। यही अविद्या का गहनतम रूप है।",
+        "en": "Sri Aurobindo reads 'vittamoha' as the hypnotic power of material consciousness — the attraction of matter is so strong that consciousness cannot see beyond it. This is the deepest form of ignorance.",
+        "ins": "Matter itself is not the problem — it is consciousness imprisoned in matter that creates the illusion that nothing else exists."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama speak in the first person ('my power')?", "a": "The phrase <strong>'vaśam āpadyate me'</strong> — 'falls under MY power' — is remarkable because the speaker is <strong>Yama, the Lord of Death himself</strong>. This is not a theologian theorising about death; this is Death speaking from direct experience: 'I personally catch such people, again and again.' The first-person testimony makes the warning visceral and irrefutable — who knows death better than Death? The rhetorical effect is devastating: the materialist who says 'there is nothing beyond' is being directly contradicted by the one being beyond all others who would know. Yama has just spent Valli 1 testing Nachiketa with worldly temptations; now he reveals why those temptations exist — they are the bait that keeps people returning to his domain. Nachiketa's refusal was not merely admirable but existentially decisive."},
+      {"q": "🔍 What does 'punaḥ punaḥ' (again and again) imply about the Upanishadic view of death?", "a": "The phrase <strong>punaḥ punaḥ</strong> ('again and again') introduces the concept of <strong>punarjanma</strong> (rebirth) — or more precisely, <strong>punarmṛtyu</strong> (re-death). Death is not a single event but a recurring fate for those who lack Self-knowledge. The Bṛhadāraṇyaka Upanishad (1.2.7, 1.5.2) develops this concept explicitly: the ignorant person is subject to 'repeated death' (punarmṛtyu). In the Vedic period, this was considered even more terrifying than a single death — one might escape death once, but to face it again and again was the ultimate horror. The Katha Upanishad's solution — knowledge of the deathless Atman — is thus not merely philosophical but addresses the deepest existential anxiety of its time. Liberation (mokṣa) is, at its most basic level, the cessation of re-death."}
+    ]
+  },
+  {
+    "id": 7,
+    "sk": "श्रवणायापि बहुभिर्यो न लभ्यः शृण्वन्तोऽपि बहवो यं न विद्युः | आश्चर्यो वक्ता कुशलोऽस्य लब्धाऽऽश्चर्यो ज्ञाता कुशलानुशिष्टः ||",
+    "ro": "śravaṇāya · api · bahubhiḥ · yaḥ · na · labhyaḥ · śṛṇvanto · api · bahavo · yaṁ · na · vidyuḥ | āścaryo · vaktā · kuśalo · asya · labdhā · āścaryo · jñātā · kuśalānuśiṣṭaḥ ||",
+    "hi": "जिसे (आत्मा को) बहुत लोगों को सुनने को भी नहीं मिलता; सुनकर भी बहुत लोग जिसे नहीं जान पाते; इसका वक्ता आश्चर्य है, इसका कुशल प्राप्तकर्ता आश्चर्य है, और कुशल गुरु द्वारा सिखाया गया ज्ञाता भी आश्चर्य है।",
+    "en": "That (Self) which many do not even get to hear about, which many — even hearing — do not understand: wonderful is the teacher of it, skilful is the one who attains it, and wonderful is the knower who is instructed by a skilful teacher.",
+    "ws": [
+      {"s": "श्रवणाय (śravaṇāya)", "h": "सुनने के लिए", "e": "even for hearing — dative of purpose; most people never even encounter the teaching"},
+      {"s": "लभ्यः (labhyaḥ)", "h": "प्राप्त होने योग्य", "e": "obtainable — gerundive of √labh; not easily available"},
+      {"s": "विद्युः (vidyuḥ)", "h": "जान सकें", "e": "would know — optative of √vid; even after hearing, understanding is not guaranteed"},
+      {"s": "आश्चर्यः (āścaryaḥ)", "h": "आश्चर्यजनक, अद्भुत", "e": "wonderful, a marvel — not 'surprising' but genuinely rare and wondrous"},
+      {"s": "कुशलः (kuśalaḥ)", "h": "कुशल, निपुण", "e": "skilful, adept — not merely knowledgeable but practically accomplished"},
+      {"s": "कुशलानुशिष्टः (kuśalānuśiṣṭaḥ)", "h": "कुशल गुरु द्वारा उपदिष्ट", "e": "instructed by a skilled teacher — kuśala (skilled) + anuśiṣṭa (taught); the right teacher is essential"}
+    ],
+    "gr": "<strong>śravaṇāya api na labhyaḥ</strong> — 'not even available for hearing': the rarity is layered — first, most never encounter the teaching; of those who hear, most don't understand; of those who understand intellectually, few truly know. <strong>āścaryaḥ</strong> — repeated twice to frame both teacher and knower as 'marvels.' <strong>kuśalānuśiṣṭaḥ</strong> — 'taught by a skilled one': the compound insists that even a qualified student needs the right guru.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.7 — This verse is echoed almost verbatim in the Bhagavad Gita (2.29). It establishes the extreme rarity of Self-knowledge — rare to hear, rarer to understand, rarest to realise. The three stages (hearing, understanding, realising) correspond to the Vedantic method of śravaṇa, manana, nididhyāsana.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर इसमें आत्मज्ञान की दुर्लभता के तीन स्तर देखते हैं: (1) श्रवण — सुनने का अवसर, (2) मनन — सुनकर समझना, (3) निदिध्यासन — समझकर साक्षात्कार करना। प्रत्येक स्तर पर साधक कम होते जाते हैं।",
+        "en": "Shankara sees three levels of rarity: (1) śravaṇa — the opportunity to hear, (2) manana — understanding after hearing, (3) nididhyāsana — realisation after understanding. At each level, seekers become fewer.",
+        "ins": "Self-knowledge is like a filter with increasingly fine mesh — many approach, few pass through each stage, and the rarest is direct realisation."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'आश्चर्यः वक्ता' — सच्चा गुरु स्वयं एक चमत्कार है क्योंकि वह भगवान् की कृपा का माध्यम है। भगवान् स्वयं गुरु के रूप में प्रकट होते हैं।",
+        "en": "Ramanuja says 'āścaryaḥ vaktā' — the true teacher is himself a miracle because he is the medium of the Lord's grace. The Lord manifests as the guru.",
+        "ins": "The guru is not just a human instructor but the Lord's compassion taking visible form. Finding such a teacher is itself the fruit of past merit."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि आत्मा का ज्ञान इसलिए दुर्लभ है क्योंकि यह मानसिक (mental) ज्ञान नहीं है — यह चेतना का रूपान्तरण है। सुनना बुद्धि से होता है, जानना अस्तित्व की गहराई से।",
+        "en": "Sri Aurobindo says Self-knowledge is rare because it is not mental knowledge — it is a transformation of consciousness. Hearing happens through the intellect; knowing happens from the depth of being.",
+        "ins": "You cannot 'learn' the Self as you learn history or science. Knowing the Self means becoming the Self — a shift in being, not an acquisition of information."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How does this verse appear in the Bhagavad Gita?", "a": "This verse is echoed almost word-for-word in the <strong>Bhagavad Gita 2.29</strong>: '<em>āścaryavat paśyati kaścid enam, āścaryavad vadati tathaiva cānyaḥ, āścaryavac cainam anyaḥ śṛṇoti, śrutvāpy enaṁ veda na caiva kaścit</em>' — 'One sees it as a wonder; another speaks of it as a wonder; another hears of it as a wonder; and even after hearing, none knows it.' Krishna is drawing directly on Yama's teaching. The Gita context (Arjuna's grief over killing his kinsmen) is different, but the teaching is the same: the Atman is so subtle that ordinary cognition cannot grasp it. Both texts use the same cascade: even hearing about it is rare → understanding is rarer → direct knowing is rarest of all."},
+      {"q": "🔍 What do the three stages (hearing, understanding, knowing) correspond to in Vedantic practice?", "a": "The three stages map precisely onto the <strong>triple method of Vedantic knowledge</strong>: <strong>Śravaṇa</strong> (hearing) — receiving the teaching from a qualified guru. Most people never even encounter a genuine teacher. <strong>Manana</strong> (reflection) — reasoning about what was heard, resolving doubts, integrating the teaching intellectually. Many hear but do not reflect deeply enough. <strong>Nididhyāsana</strong> (contemplation/meditation) — sustained, absorbed meditation on the truth until it becomes direct experience, not just intellectual understanding. This is the rarest stage. The verse's structure mirrors this exactly: 'many do not get to hear' (śravaṇa is rare), 'hearing, many do not understand' (manana fails), and the 'knower instructed by a skilled teacher' (nididhyāsana succeeds only with proper guidance). The method remains the standard Advaitic practice to this day."}
+    ]
+  },
+  {
+    "id": 8,
+    "sk": "न नरेणावरेण प्रोक्त एष सुविज्ञेयो बहुधा चिन्त्यमानः | अनन्यप्रोक्ते गतिरत्र नास्ति अणीयान् ह्यतर्क्यमणुप्रमाणात् ||",
+    "ro": "na · nareṇa · avareṇa · prokta · eṣa · suvijñeyo · bahudhā · cintyamānaḥ | ananyaprokте · gatiḥ · atra · na · asti · aṇīyān · hi · atarkyam · aṇupramāṇāt ||",
+    "hi": "यह (आत्मा) किसी हीन (अयोग्य) मनुष्य द्वारा कहा जाने पर सुगमता से नहीं जाना जा सकता, और बहुत प्रकार से चिन्तन करने पर भी नहीं। जब तक कोई अन्य (श्रेष्ठ गुरु) न बताये, तब तक इसमें कोई गति नहीं — क्योंकि यह अणु से भी सूक्ष्म है, तर्क से अगम्य है।",
+    "en": "This Self, when taught by an inferior person, cannot be easily understood, even when reflected upon in many ways. Unless taught by one who is one with it (ananya), there is no way to it — for it is subtler than the subtle, beyond the reach of reasoning.",
+    "ws": [
+      {"s": "अवरेण (avareṇa)", "h": "हीन, अयोग्य", "e": "inferior, unqualified — one who has not realised the Self"},
+      {"s": "सुविज्ञेयः (suvijñeyaḥ)", "h": "सहज रूप से जानने योग्य", "e": "easily knowable — su+vijñeya; even with many approaches, it is not 'easily known' from a wrong teacher"},
+      {"s": "बहुधा चिन्त्यमानः (bahudhā cintyamānaḥ)", "h": "बहुत प्रकार से चिन्तन किया गया", "e": "reflected upon in many ways — bahudhā (variously) + cintyamāna (being thought about)"},
+      {"s": "अनन्यप्रोक्ते (ananyaprokte)", "h": "अनन्य (एकात्म) द्वारा कहे जाने पर", "e": "when taught by one who is non-different — an+anya+prokta; a teacher who IS the Self, not merely knows about it"},
+      {"s": "अणीयान् (aṇīyān)", "h": "अणु से भी सूक्ष्म", "e": "subtler than the subtle — comparative of aṇu; finer than the finest atom"},
+      {"s": "अतर्क्यम् (atarkyam)", "h": "तर्क से अगम्य", "e": "beyond reasoning — a+tarkya; logic cannot reach it"}
+    ],
+    "gr": "<strong>avareṇa nareṇa</strong> — 'by an inferior man': not socially inferior but spiritually unqualified — one who has not realised the Self. <strong>ananyaprokte</strong> — this is the key compound: an+anya = 'not-other,' i.e., one who is non-different from the Self. Shankara reads this as a teacher who has directly realised Brahman. <strong>aṇīyān aṇupramāṇāt</strong> — 'subtler than the atomic measure': the Self is finer than the finest conceivable particle. <strong>atarkyam</strong> — 'beyond reasoning': tarka (logic) cannot reach it because the Self is the very ground from which tarka operates.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.8 — This verse establishes two critical principles: (1) the guru must be a realised soul (ananya), not merely learned; (2) the Self cannot be reached by logic alone (atarkyam). This verse is frequently cited in debates about the role of reasoning vs. revelation in Vedanta.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'अनन्यप्रोक्ते' का अर्थ है — जब ब्रह्मवित् (ब्रह्म को जानने वाला) गुरु बताये, तभी गति (मार्ग) है। 'अतर्क्यम्' — शुष्क तर्क से आत्मा नहीं जानी जा सकती; शास्त्र-प्रमाण और गुरु-कृपा आवश्यक है।",
+        "en": "Shankara reads 'ananyaprokte' as: only when a Brahma-vid (knower of Brahman) teaches, is there a path. 'Atarkyam' — the Self cannot be known by dry reasoning alone; scriptural authority and guru's grace are necessary.",
+        "ins": "Reasoning alone spins in circles because the mind cannot objectify its own source. The guru who IS the truth can point to what logic cannot reach."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज 'अनन्य' में भगवत्-प्राप्त गुरु को देखते हैं — जो भगवान् से अभिन्न है। ऐसा गुरु भगवान् का ही प्रतिनिधि है। 'अतर्क्यम्' — भगवान् तर्क से परे हैं; केवल शरणागति से ही ज्ञात होते हैं।",
+        "en": "Ramanuja sees 'ananya' as a God-realised guru — one who is non-different from the Lord. Such a guru is the Lord's own representative. 'Atarkyam' — the Lord is beyond logic; He is known only through surrender.",
+        "ins": "The Self is not an object to be figured out but a reality to be surrendered to. The guru's role is to make this surrender possible."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'अतर्क्यम्' को बुद्धि की सीमा के रूप में पढ़ते हैं — तर्क (reason) मन (mind) का उपकरण है, और आत्मा मन से परे है। आत्मा को जानने के लिए मन को अतिक्रमण करना होगा — यही योग है।",
+        "en": "Sri Aurobindo reads 'atarkyam' as the limit of reason — tarka (logic) is an instrument of the mind, and the Self is beyond the mind. To know the Self, one must transcend the mind — this is the purpose of yoga.",
+        "ins": "The mind is a magnificent instrument but it cannot know its own creator. To see the sun, you must use the sun's own light — to know the Self, you must become the Self."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'ananya' (non-different) mean for the guru-student relationship?", "a": "The term <strong>ananya</strong> (an+anya = 'not-other') applied to the guru has profound implications. It means the qualified teacher is <strong>not different from the Self being taught</strong>. This is not a metaphor — in Advaita Vedanta, it means the guru has directly realised 'I am Brahman' and therefore speaks not about the Self but <em>as</em> the Self. The teaching is not information transfer but a transmission of being. This is why the Upanishads insist that books alone cannot liberate — the living presence of a realised teacher is essential because the teacher's very being demonstrates what words can only point to. The Chāndogya Upanishad (6.14.2) uses the analogy of a blindfolded person who needs someone to remove the blindfold and point the way — the text can describe the direction, but only the guru can remove the blindfold."},
+      {"q": "🔍 Why is the Self 'beyond reasoning' (atarkyam)?", "a": "The Self is <strong>atarkyam</strong> (beyond reasoning) not because it is irrational but because reasoning operates <em>within</em> the field of the known while the Self is the <em>knower itself</em>. Consider: every act of reasoning requires a thinker who thinks, an observer who observes the thoughts. Reasoning can analyse everything that appears <em>before</em> consciousness, but it cannot turn around and grasp the consciousness in which it appears — just as the eye cannot see itself, or fire cannot burn itself. This is not a failure of logic but a structural impossibility. The Self is the <strong>ultimate subject</strong> that can never become an object of thought. This is why the Upanishads use a different method: <strong>neti neti</strong> ('not this, not this') — stripping away everything that is NOT the Self until only the Self remains, not as a conclusion but as the residual awareness that was present all along."}
+    ]
+  },
+  {
+    "id": 9,
+    "sk": "नैषा तर्केण मतिरापनेया प्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ | यां त्वमापः सत्यधृतिर्बतासि त्वादृङ्नो भूयान्नचिकेतः प्रष्टा ||",
+    "ro": "na · eṣā · tarkeṇa · matiḥ · āpaneyā · proktā · anyena · eva · sujñānāya · preṣṭha | yāṁ · tvam · āpaḥ · satyadhṛtiḥ · bata · asi · tvādṛṅ · naḥ · bhūyāt · naciketaḥ · praṣṭā ||",
+    "hi": "हे प्रिय! यह बुद्धि (आत्मज्ञान) तर्क से प्राप्त नहीं हो सकती; (किन्तु) किसी अन्य (सद्गुरु) द्वारा कही जाने पर यह सुगमता से जानी जा सकती है। तूने इसे प्राप्त कर लिया — तू सत्य में स्थिर है। हे नचिकेता! तेरे जैसा प्रश्नकर्ता हमें सदा मिले!",
+    "en": "This understanding cannot be reached by reasoning alone. When taught by another (a true teacher), it is easily known, O dearest one. You have attained it — you are truly steadfast in truth. May we always find a questioner like you, O Nachiketa!",
+    "ws": [
+      {"s": "तर्केण (tarkeṇa)", "h": "तर्क से", "e": "by reasoning — instrumental of tarka; logic alone is insufficient"},
+      {"s": "मतिः (matiḥ)", "h": "बुद्धि, ज्ञान", "e": "understanding, insight — not information but transformative insight"},
+      {"s": "आपनेया (āpaneyā)", "h": "प्राप्त करने योग्य", "e": "attainable — gerundive of ā+√āp ('to reach')"},
+      {"s": "प्रेष्ठ (preṣṭha)", "h": "अत्यन्त प्रिय", "e": "dearest — superlative of priya; Yama's deep affection for his student"},
+      {"s": "सत्यधृतिः (satyadhṛtiḥ)", "h": "सत्य में स्थिर, सत्य-धारी", "e": "steadfast in truth — satya (truth) + dhṛti (firmness); one whose resolve is rooted in truth"},
+      {"s": "प्रष्टा (praṣṭā)", "h": "प्रश्न पूछने वाला", "e": "questioner — from √pracch ('to ask'); one who asks the right questions"}
+    ],
+    "gr": "<strong>tarkeṇa na āpaneyā</strong> — 'cannot be attained by reasoning': continues the theme of atarkyam from verse 8. <strong>proktā anyena eva</strong> — 'when taught by another': the word 'anyena' here means a teacher who is 'other' than the student — i.e., a qualified guru (contrasting with the student's own reasoning). <strong>preṣṭha</strong> — superlative of priya: 'dearest one'; Yama's emotional regard for Nachiketa is palpable. <strong>satyadhṛtiḥ</strong> — 'truth-steadfast': the compound sums up Nachiketa's character in one word. <strong>tvādṛṅ naḥ bhūyāt praṣṭā</strong> — 'may we find a questioner like you': Yama, the greatest of teachers, praises his student — the ideal guru-śiṣya relationship is mutual.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.9 — Yama's affectionate exclamation 'preṣṭha' (dearest) and his wish for more students like Nachiketa reveals the emotional depth of the guru-student bond. The verse also restates the epistemological principle: reason alone fails; a qualified teacher is essential.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'तर्केण न आपनेया' — तर्क अनिश्चित है, एक तार्किक की बात दूसरा तार्किक काट देता है। आत्मज्ञान केवल शास्त्र और सद्गुरु के उपदेश से सम्भव है। नचिकेता 'सत्यधृतिः' है — सत्य में उसकी धृति (दृढ़ता) ने उसे योग्य बनाया।",
+        "en": "Shankara says 'tarkeṇa na āpaneyā' — reasoning is inconclusive; one logician's argument is refuted by another. Self-knowledge is possible only through scripture and a true teacher's instruction. Nachiketa is 'satyadhṛtiḥ' — his firmness in truth made him worthy.",
+        "ins": "Philosophy without revelation runs in circles. The guru and the scripture together provide the compass that reasoning alone cannot."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज 'प्रेष्ठ' शब्द में गुरु-शिष्य के प्रेम-सम्बन्ध को देखते हैं। भगवान् भी अपने भक्त को 'प्रिय' कहते हैं (गीता 18.65)। यम नचिकेता से वैसा ही स्नेह रखते हैं — यह दैवी प्रेम है।",
+        "en": "Ramanuja sees in 'preṣṭha' the love-bond between guru and disciple. The Lord also calls His devotee 'priya' (Gita 18.65). Yama feels the same affection for Nachiketa — this is divine love.",
+        "ins": "The guru-student relationship is not merely academic but deeply personal — it mirrors the Lord's love for the devoted soul."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'त्वादृङ् नो भूयात् प्रष्टा' में आदर्श साधक की दुर्लभता देखते हैं। सही प्रश्न पूछना सही उत्तर पाने से भी कठिन है — नचिकेता का प्रश्न ('मृत्यु के बाद क्या है?') ही उसकी सर्वोच्च योग्यता है।",
+        "en": "Sri Aurobindo sees in 'tvādṛṅ naḥ bhūyāt praṣṭā' the rarity of the ideal seeker. Asking the right question is harder than finding the right answer — Nachiketa's question ('What is beyond death?') is itself his supreme qualification.",
+        "ins": "The quality of the question determines the quality of the answer. Nachiketa's question was total — he was willing to die for it — and so the answer he received was total."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama call Nachiketa 'preṣṭha' (dearest)?", "a": "Yama's use of <strong>preṣṭha</strong> (superlative of priya — 'the most dear') is profoundly significant. This is <strong>Death himself</strong> — the most feared being in existence — expressing deep affection for a student. The word reveals that the guru-śiṣya relationship, when authentic, transcends even the boundary between life and death. Yama has tested Nachiketa with his most powerful temptations and the boy has passed every test. This creates a bond of mutual respect: the student proved worthy by refusing everything; the teacher honours that worthiness with the highest term of endearment. In the broader Hindu tradition, the guru-student bond is considered greater than the parent-child bond because it concerns the birth of the soul, not merely the body. Yama, who has no biological children (he is Death), finds in Nachiketa a spiritual son."},
+      {"q": "🔍 What does 'satyadhṛtiḥ' (steadfast in truth) reveal about Nachiketa's character?", "a": "<strong>Satyadhṛtiḥ</strong> is a compound of <strong>satya</strong> (truth) and <strong>dhṛti</strong> (firmness, resolve, steadfastness). It is the single word that captures Nachiketa's entire character arc. In Valli 1, we saw Nachiketa's dhṛti in action — he waited three nights at Death's door without food; he rejected wealth, longevity, beautiful women, and kingdoms. But this firmness was not mere stubbornness — it was rooted in <strong>satya</strong>, in truth. He refused the pleasant because he could see it was not the true. This combination — firmness that is truth-rooted, not ego-driven — is what makes Nachiketa the ideal student. The Gita will later define dhṛti in three grades (18.33-35): sāttvic dhṛti holds fast to yoga and truth; rājasic dhṛti holds fast to duty and pleasure; tāmasic dhṛti clings to sleep and fear. Nachiketa's is purely sāttvic — he holds fast to nothing except truth itself."}
+    ]
+  },
+  {
+    "id": 10,
+    "sk": "जानाम्यहं शेवधिरित्यनित्यं न ह्यध्रुवैः प्राप्यते हि ध्रुवं तत् | ततो मया नाचिकेतश्चितोऽग्निरनित्यैर्द्रव्यैः प्रतिपादितवानस्मि नित्यम् ||",
+    "ro": "jānāmi · ahaṁ · śevadhiḥ · iti · anityaṁ · na · hi · adhruvaiḥ · prāpyate · hi · dhruvaṁ · tat | tato · mayā · nāciketaḥ · citaḥ · agniḥ · anityaiḥ · dravyaiḥ · pratipāditavān · asmi · nityam ||",
+    "hi": "मैं (यम) जानता हूँ कि शेवधि (सांसारिक निधि) अनित्य है। अनित्य वस्तुओं से उस नित्य (शाश्वत तत्त्व) की प्राप्ति नहीं होती। फिर भी मैंने अनित्य द्रव्यों से नाचिकेत अग्नि का चयन किया — और उन अनित्य द्रव्यों से मैंने नित्य को प्राप्त किया है।",
+    "en": "I know that the treasure (of worldly things) is transient. The Eternal cannot be attained by the non-eternal. Yet I have built the Nachiketa fire with transient materials — and through those transient means I have attained the Eternal.",
+    "ws": [
+      {"s": "शेवधिः (śevadhiḥ)", "h": "निधि, खजाना", "e": "treasure, store of wealth — the accumulated possessions of worldly life"},
+      {"s": "अनित्यम् (anityam)", "h": "अनित्य, नाशवान्", "e": "impermanent, transient — an+nitya; all worldly goods are temporary"},
+      {"s": "अध्रुवैः (adhruvaiḥ)", "h": "अस्थिर वस्तुओं से", "e": "by the non-eternal, by unstable things — a+dhruva (not firm)"},
+      {"s": "ध्रुवम् (dhruvam)", "h": "स्थिर, शाश्वत, नित्य", "e": "the eternal, the stable — dhruva means 'fixed, permanent'"},
+      {"s": "चितः (citaḥ)", "h": "चयन किया गया, रचा गया", "e": "built, arranged — past participle of √ci ('to pile up, build'); the fire-altar is constructed"},
+      {"s": "प्रतिपादितवान् अस्मि (pratipāditavān asmi)", "h": "मैंने प्राप्त किया है", "e": "I have attained — perfect active periphrastic; Yama confirms his own realisation"}
+    ],
+    "gr": "<strong>śevadhiḥ iti anityam</strong> — 'the treasure is impermanent': Yama knows from direct experience that all worldly possessions are fleeting. <strong>na adhruvaiḥ prāpyate dhruvam</strong> — 'the permanent is not attained by the impermanent': this states the fundamental impossibility — yet the next line paradoxically claims Yama did exactly that. <strong>anityaiḥ dravyaiḥ nityam pratipāditavān</strong> — 'by impermanent materials I attained the permanent': the paradox is resolved by understanding that the fire-ritual, though using material things, serves as a vehicle for transcendence.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.10 — This verse presents a crucial paradox: the eternal cannot be reached through the non-eternal, yet Yama built the Nachiketa fire with non-eternal materials and attained the eternal. The resolution: the fire-ritual is a bridge between worlds — material in form but spiritual in function.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यम स्वयं इस विरोधाभास को स्वीकार करते हैं — अनित्य से नित्य नहीं मिलता, फिर भी कर्म (अग्नि-चयन) एक सोपान के रूप में काम करता है। किन्तु अन्ततः केवल ज्ञान ही मुक्ति देता है — कर्म केवल चित्त-शुद्धि करता है।",
+        "en": "Shankara notes that Yama himself acknowledges the paradox — the non-eternal cannot yield the eternal, yet ritual action (fire-building) serves as a step. But ultimately, only knowledge liberates — action merely purifies the mind.",
+        "ins": "Ritual is the ladder, not the destination. It purifies the mind enough to receive knowledge, but it is knowledge alone that liberates."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् की कृपा से अनित्य साधन भी नित्य फल दे सकते हैं। नाचिकेत अग्नि भगवान् की पूजा का साधन है — भगवान् की कृपा ही अनित्य को नित्य से जोड़ती है।",
+        "en": "Ramanuja says that through the Lord's grace, even impermanent means can yield eternal results. The Nachiketa fire is a means of worshipping the Lord — and it is the Lord's grace that bridges the transient and the eternal.",
+        "ins": "Human effort is transient; divine grace transforms it into something eternal. The devotee's offering, however small, becomes infinite through the Lord's acceptance."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द इस विरोधाभास में भौतिक और आध्यात्मिक का सम्बन्ध देखते हैं — पदार्थ (matter) अपने-आप में अनित्य है, किन्तु जब चेतना उसे रूपान्तरित करती है तो वह शाश्वत की अभिव्यक्ति बन जाता है।",
+        "en": "Sri Aurobindo sees in this paradox the relationship between matter and spirit — matter is impermanent in itself, but when consciousness transforms it, matter becomes an expression of the eternal.",
+        "ins": "The material world is not opposed to the spiritual — it is the unfinished expression of spirit. Through conscious action, the transient becomes the vehicle of the permanent."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the paradox of attaining the eternal through the non-eternal?", "a": "This verse presents one of the deepest paradoxes in Indian philosophy. The principle is clear: <strong>na adhruvaiḥ prāpyate dhruvam</strong> — 'the permanent cannot be attained by the impermanent.' Bricks, wood, ghee, mantras spoken in time — all are non-eternal. How can they yield an eternal result? Shankara's resolution: the fire-ritual does not <em>produce</em> the eternal (Brahman is not a product) but <em>purifies the mind</em> so it can <em>recognise</em> what was always there. The fire is a mirror-polisher, not a mirror-maker. Ramanuja's resolution: the Lord's grace transforms the offering — the devotee's impermanent act is accepted by the permanent Lord, who grants eternal results. Aurobindo's resolution: matter and spirit are not truly separate — conscious action in matter is spirit expressing itself through matter. All three agree: the bridge is real, but the mechanism differs — purification, grace, or transformation."},
+      {"q": "🔍 What is the Nachiketa fire (nāciketāgni) and why does Yama mention it here?", "a": "The <strong>Nachiketa fire</strong> (nāciketāgni) was taught by Yama in Valli 1 (mantras 14-16) as the second boon. It is a specific arrangement of the fire-altar — the Taittirīya Brāhmaṇa describes it in detail. Yama mentions it here because it creates a contrast within his own experience: he knows perfectly well that worldly treasures are impermanent, yet he himself built a fire-altar from impermanent materials and attained something permanent through it. He is being intellectually honest — he states the principle ('the eternal cannot come from the non-eternal') and then admits his own apparent violation of it. This honesty makes the teaching more powerful: even the Lord of Death navigates this paradox. The resolution is that the fire-ritual works not by <em>producing</em> the eternal but by <em>orienting</em> the practitioner toward it — it is a practice of attention, surrender, and purification that makes the mind fit to receive what was always present."}
+    ]
+  },
+  {
+    "id": 11,
+    "sk": "कामस्याप्तिं जगतः प्रतिष्ठां क्रतोरनन्त्यमभयस्य पारम् | स्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धृत्या धीरो नचिकेतोऽत्यस्राक्षीः ||",
+    "ro": "kāmasya · āptiṁ · jagataḥ · pratiṣṭhāṁ · kratoḥ · ānantyam · abhayasya · pāram | stomam · mahad · urugāyaṁ · pratiṣṭhāṁ · dṛṣṭvā · dhṛtyā · dhīro · naciketo · atyasrākṣīḥ ||",
+    "hi": "कामनाओं की तृप्ति को, जगत् की प्रतिष्ठा (आधार) को, अनन्त कर्मफल को, निर्भयता के पार (शान्ति) को, महान् स्तोम (स्तुति) को, विस्तृत (उरुगाय) कीर्ति को — इन सबको देखकर भी, हे धीर नचिकेता, तूने धैर्यपूर्वक इन सबको त्याग दिया।",
+    "en": "The fulfilment of desires, the foundation of the world, the endlessness of ritual merit, the far shore of fearlessness, the great praise, the wide renown — seeing all these, you, O wise Nachiketa, with firmness cast them aside.",
+    "ws": [
+      {"s": "कामस्य आप्तिम् (kāmasya āptim)", "h": "कामनाओं की पूर्ति", "e": "the fulfilment of desires — everything one could wish for"},
+      {"s": "जगतः प्रतिष्ठाम् (jagataḥ pratiṣṭhām)", "h": "जगत् का आधार, सांसारिक प्रतिष्ठा", "e": "the foundation of the world — worldly eminence and establishment"},
+      {"s": "क्रतोः आनन्त्यम् (kratoḥ ānantyam)", "h": "कर्मफल की अनन्तता", "e": "endlessness of ritual merit — infinite results of sacrifice"},
+      {"s": "अभयस्य पारम् (abhayasya pāram)", "h": "निर्भयता का पार", "e": "the far shore of fearlessness — the ultimate refuge of safety"},
+      {"s": "स्तोमम् महत् (stomam mahat)", "h": "महान् स्तुति", "e": "great praise — universal acclaim and glory"},
+      {"s": "उरुगायम् (urugāyam)", "h": "विस्तृत कीर्ति वाला, दूर तक गाया जाने वाला", "e": "widely sung, far-famed — uru (wide) + gāya (singing)"},
+      {"s": "धृत्या (dhṛtyā)", "h": "धैर्य से", "e": "with firmness, with resolve — instrumental of dhṛti"}
+    ],
+    "gr": "<strong>kāmasya āptim ... urugāyam pratiṣṭhām</strong> — this is a catalogue of everything the world values: desire-fulfilment, worldly eminence, infinite merit, fearlessness, praise, and fame. <strong>dṛṣṭvā dhṛtyā atyasrākṣīḥ</strong> — 'having seen, with firmness, cast aside': the same decisive verb (atyasrākṣīḥ) from verse 3. Nachiketa did not reject blindly — he saw (dṛṣṭvā) all the offerings clearly and then released them with deliberate firmness (dhṛtyā).",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.11 — Yama recapitulates the temptation scene from Valli 1 in condensed form. This verse serves as a bridge — Yama is summing up why Nachiketa is qualified, before turning to the actual metaphysical teaching in the next verse.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यम यहाँ नचिकेता के वैराग्य की महिमा गा रहे हैं — जो व्यक्ति इन सब को देखकर भी त्याग सके, केवल वही आत्मज्ञान का अधिकारी है। यह वैराग्य सर्वोत्कृष्ट है।",
+        "en": "Shankara says Yama is celebrating Nachiketa's vairāgya — only one who can see all these and still let go is fit for Self-knowledge. This is the highest form of dispassion.",
+        "ins": "Dispassion is not deprivation but clarity — seeing the full magnificence of the world and still choosing what lies beyond it."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि नचिकेता ने जो कुछ त्यागा वह सब भगवान् की विभूतियाँ थीं — किन्तु विभूति से बड़ा विभूतिमान् (भगवान् स्वयं) है। नचिकेता ने भगवान् को चुना, उनकी विभूतियों को नहीं।",
+        "en": "Ramanuja says everything Nachiketa rejected was a manifestation of the Lord's glory — but the Lord Himself is greater than all His glories. Nachiketa chose the Lord, not His manifestations.",
+        "ins": "The world's splendour is a reflection of the divine — but the wise seek the source of the reflection, not the reflection itself."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'दृष्ट्वा' (देखकर) शब्द पर बल देते हैं — नचिकेता ने सब कुछ देखा, अनुभव किया, और फिर उसके पार जाने का संकल्प किया। यह अज्ञान से नहीं, चेतना की उच्चतर दृष्टि से किया गया त्याग है।",
+        "en": "Sri Aurobindo emphasises 'dṛṣṭvā' (having seen) — Nachiketa saw everything, experienced it, and then resolved to go beyond. This is renunciation born not of ignorance but of the higher vision of consciousness.",
+        "ins": "The truest renunciation comes after the fullest seeing. One must know what one is giving up — otherwise it is merely lack of opportunity, not genuine transcendence."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama list so many temptations in a single verse?", "a": "The catalogue of temptations — desire-fulfilment, world-eminence, infinite merit, fearlessness, praise, fame — is deliberately overwhelming. Yama is making the point that Nachiketa did not merely reject one or two temptations but <em>the entire spectrum</em> of what the world can offer. Each item represents a different dimension of worldly value: <strong>kāmasya āpti</strong> (pleasure), <strong>jagataḥ pratiṣṭhā</strong> (status), <strong>kratoḥ ānantyam</strong> (religious merit), <strong>abhayasya pāram</strong> (security), <strong>stomam mahat</strong> (recognition), <strong>urugāyam</strong> (fame). Together they cover every motivational category: hedonistic, social, religious, existential, and reputational. Nachiketa refused them <em>all</em>. The comprehensiveness of the list proves the comprehensiveness of his vairāgya — there is no angle of temptation left untried."},
+      {"q": "🔍 What does 'dhṛtyā' (with firmness) add to the picture?", "a": "<strong>Dhṛtyā</strong> (instrumental of dhṛti) means 'with firmness, with steadfast resolve.' It is paired with <strong>dṛṣṭvā</strong> (having seen) to create a two-stage portrait: first sight, then resolve. Nachiketa did not flinch, panic, or hurry — he <em>saw</em> everything offered, <em>understood</em> its value, and then <em>with deliberate firmness</em> released it. This is not the renunciation of the overwhelmed or the indifferent but the renunciation of the clear-eyed. The Gita (18.33) defines sāttvic dhṛti as 'that by which one holds firm the activities of the mind, prāṇa, and senses through unwavering yoga.' Nachiketa embodies this: his dhṛti is not suppression of desire but the stable, unwavering commitment to truth that makes desire irrelevant. The word also contains a quiet contrast with the 'manda' of verse 2 — the manda lacks dhṛti and so collapses into preyas at the first pressure."}
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "तं दुर्दर्शं गूढमनुप्रविष्टं गुहाहितं गह्वरेष्ठं पुराणम् | अध्यात्मयोगाधिगमेन देवं मत्वा धीरो हर्षशोकौ जहाति ||",
+    "ro": "taṁ · durdarśaṁ · gūḍham · anupraviṣṭaṁ · guhāhitaṁ · gahvareṣṭhaṁ · purāṇam | adhyātmayoga · adhigamena · devaṁ · matvā · dhīro · harṣaśokau · jahāti ||",
+    "hi": "उस दुर्दर्श (कठिनाई से दिखने वाले), गूढ़ (छिपे हुए), गुहा में स्थित, गह्वर (गहराई) में बसे हुए, पुरातन देव (आत्मा) को — अध्यात्म-योग के माध्यम से जानकर — धीर पुरुष हर्ष और शोक दोनों को त्याग देता है।",
+    "en": "That (Self) — hard to see, deeply hidden, entered into the cave (of the heart), dwelling in the abyss, the ancient one — having known this God through the yoga of the Self (adhyātma-yoga), the wise one leaves behind both joy and sorrow.",
+    "ws": [
+      {"s": "दुर्दर्शम् (durdarśam)", "h": "कठिनाई से दिखने वाला", "e": "hard to see — dur+darśa; not invisible but requiring extraordinary vision"},
+      {"s": "गूढम् (gūḍham)", "h": "छिपा हुआ, गुप्त", "e": "hidden, concealed — past participle of √guh ('to hide')"},
+      {"s": "अनुप्रविष्टम् (anupraviṣṭam)", "h": "भीतर प्रवेश किया हुआ", "e": "entered into — anu+pra+√viś; the Self has entered into everything"},
+      {"s": "गुहाहितम् (guhāhitam)", "h": "गुहा (हृदय) में स्थित", "e": "placed in the cave — guhā (cave = the heart) + āhita (placed); the heart-cave is the Self's seat"},
+      {"s": "गह्वरेष्ठम् (gahvareṣṭham)", "h": "गहराई में बसा हुआ", "e": "dwelling in the depth — gahvara (abyss, depth) + stha (standing)"},
+      {"s": "पुराणम् (purāṇam)", "h": "पुरातन, अनादि", "e": "ancient, primeval — existing from before time began"},
+      {"s": "अध्यात्मयोगाधिगमेन (adhyātmayogādhigamena)", "h": "अध्यात्म-योग के द्वारा जानकर", "e": "by the attainment of adhyātma-yoga — the yoga directed toward the inner Self"},
+      {"s": "हर्षशोकौ (harṣaśokau)", "h": "हर्ष और शोक", "e": "joy and sorrow — the two poles of emotional experience; both transcended"}
+    ],
+    "gr": "<strong>durdarśam gūḍham anupraviṣṭam guhāhitam gahvareṣṭham purāṇam</strong> — six adjectives piled one upon another, each deepening the description of the Self's hiddenness. <strong>guhāhitam</strong> — 'placed in the cave': the guhā is the heart (hṛdaya), the innermost chamber of being. <strong>adhyātmayoga</strong> — 'yoga directed at the Self': adhyātma (relating to the Self) + yoga (discipline, union). <strong>harṣaśokau jahāti</strong> — 'abandons joy and sorrow': the wise one goes beyond the duality of pleasure and pain.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.12 — This verse marks the transition from Yama's validation of Nachiketa to the actual metaphysical teaching. The six adjectives of the Self (durdarśa, gūḍha, anupraviṣṭa, guhāhita, gahvareṣṭha, purāṇa) form one of the richest descriptions of the Atman in the Upanishads. The phrase 'guhāhita' (dwelling in the heart-cave) becomes central to the Katha's teaching.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'गुहाहितम्' — आत्मा बुद्धि की गुहा (गुफा) में छिपा है। वह बाहर नहीं, भीतर है; इन्द्रियों से नहीं, अध्यात्म-योग से जाना जाता है। 'हर्षशोकौ जहाति' — आत्मज्ञानी द्वन्द्वों से परे होता है।",
+        "en": "Shankara reads 'guhāhitam' — the Self is hidden in the cave of the intellect (buddhi). It is within, not outside; known not through the senses but through adhyātma-yoga. 'Harṣaśokau jahāti' — the knower of the Self transcends all dualities.",
+        "ins": "The Self is the closest thing to us — closer than our own thoughts — yet it is the last thing we find because we always look outward."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज 'देवम्' शब्द पर बल देते हैं — आत्मा केवल एक तत्त्व नहीं, यह 'देव' (दिव्य) है — भगवान् का अंश है। 'गुहाहितम्' — भगवान् प्रत्येक हृदय में अन्तर्यामी रूप में विराजमान हैं।",
+        "en": "Ramanuja emphasises 'devam' — the Self is not merely a principle but 'deva' (divine) — a portion of the Lord. 'Guhāhitam' — the Lord dwells within every heart as the inner controller (antaryāmī).",
+        "ins": "The divine is not far away in some distant heaven but closer than your own heartbeat — dwelling in the very cave of your heart."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'अध्यात्मयोग' को आन्तरिक रूपान्तरण की प्रक्रिया मानते हैं — बाहरी साधना नहीं बल्कि चेतना की अन्तर्मुखी यात्रा। 'पुराणम्' — आत्मा समय से परे है, अनादि है; जो 'गह्वरेष्ठ' (गहराई में बसा) है वही सारी सृष्टि का मूल है।",
+        "en": "Sri Aurobindo reads 'adhyātmayoga' as the process of inner transformation — not external practice but the inward journey of consciousness. 'Purāṇam' — the Self is beyond time, beginningless; that which 'dwells in the depth' (gahvareṣṭha) is the source of all creation.",
+        "ins": "The Self is both the most ancient and the most intimate reality — it was before time began and it is here, now, in the silent cave of the heart."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the 'cave of the heart' (guhā)?", "a": "The <strong>guhā</strong> (cave) is one of the most important metaphors in the Upanishads. It refers to the <strong>hṛdaya</strong> (heart) — not the physical organ but the innermost chamber of consciousness, the subtle space within which the Self is 'placed' (āhita). The Chāndogya Upanishad (8.1.1) describes it: 'As vast as this outer space is the space within the heart. Within it are contained both heaven and earth, both fire and wind, both sun and moon.' The heart-cave is simultaneously the most intimate and the most vast — smaller than the smallest, larger than the largest (Katha 1.2.20). Meditation traditions across Hinduism direct attention to this inner space — the <strong>hṛdayākāśa</strong> (space of the heart) — as the seat of the Self. The metaphor of a cave adds the dimension of hiddenness: the Self is not displayed openly but must be sought in the depths, like a treasure in a cave."},
+      {"q": "🔍 What is adhyātma-yoga?", "a": "<strong>Adhyātma-yoga</strong> is a compound of <strong>adhyātma</strong> (relating to the Self, the inner) and <strong>yoga</strong> (discipline, practice, union). It means the discipline directed <em>inward toward the Self</em>, as distinct from external ritual, social ethics, or devotional worship. In the Katha Upanishad's context, it encompasses the entire method of Self-knowledge: withdrawal of the senses from their objects, concentration of the mind, and direct contemplation of the Self in the heart-cave. Shankara interprets it as the threefold practice of śravaṇa-manana-nididhyāsana. The Gita (chapters 6 and 13) develops the concept further. What distinguishes adhyātma-yoga from other paths is its direction: it does not seek anything outside — no heaven, no deity, no merit — but turns consciousness back upon itself until the knower recognises that it IS the known. The 'adhigamena' (by attainment) specifies that this is not theory but realisation."}
+    ]
+  },
+  {
+    "id": 13,
+    "sk": "एतच्छ्रुत्वा सम्परिगृह्य मर्त्यः प्रवृह्य धर्म्यमणुमेतमाप्य | स मोदते मोदनीयं हि लब्ध्वा विवृतं सद्म नचिकेतसं मन्ये ||",
+    "ro": "etac · chrutvā · samparigṛhya · martyaḥ · pravṛhya · dharmyam · aṇum · etam · āpya | sa · modate · modanīyaṁ · hi · labdhvā · vivṛtaṁ · sadma · naciketasaṁ · manye ||",
+    "hi": "इस (आत्मतत्त्व) को सुनकर, भली-भाँति ग्रहण करके, मर्त्य (मनुष्य) इस सूक्ष्म धर्म्य तत्त्व को पृथक् करके और प्राप्त करके, आनन्दित होता है — क्योंकि उसने आनन्द के योग्य तत्त्व को पा लिया है। मैं समझता हूँ कि नचिकेता के लिए (ज्ञान का) द्वार खुला है।",
+    "en": "Having heard this, having fully grasped it, the mortal draws out this subtle essence of dharma and attains it — he rejoices, for he has obtained what is truly worthy of rejoicing. I consider the abode (of Brahman) to be open for Nachiketa.",
+    "ws": [
+      {"s": "सम्परिगृह्य (samparigṛhya)", "h": "भली-भाँति ग्रहण करके", "e": "having fully grasped — sam+pari+√grah; thorough comprehension, not superficial hearing"},
+      {"s": "प्रवृह्य (pravṛhya)", "h": "पृथक् करके, निकाल कर", "e": "having drawn out, extracted — pra+√vṛh; like extracting the essence from a plant"},
+      {"s": "धर्म्यम् अणुम् (dharmyam aṇum)", "h": "धर्म का सूक्ष्म तत्त्व", "e": "the subtle essence of dharma — the finest, most essential truth"},
+      {"s": "मोदते (modate)", "h": "आनन्दित होता है", "e": "rejoices — √mud; the joy of realisation, not sensory pleasure"},
+      {"s": "मोदनीयम् (modanīyam)", "h": "आनन्द के योग्य", "e": "worthy of rejoicing — gerundive of √mud; truly deserving of joy"},
+      {"s": "विवृतम् सद्म (vivṛtam sadma)", "h": "खुला हुआ निवास (ब्रह्म का)", "e": "the opened abode — vivṛta (opened) + sadma (dwelling); the gates of Brahman are open"}
+    ],
+    "gr": "<strong>pravṛhya dharmyam aṇum</strong> — 'having drawn out the subtle dharma': the image is of extracting the finest essence, like drawing out a fibre from a stalk (or the famous muñja-grass image from 2.3.17). <strong>modate modanīyaṁ labdhvā</strong> — 'rejoices having obtained what is worth rejoicing': a beautiful figure of repetition (polyptoton) — the joy and its object are both expressed through the same root. <strong>vivṛtaṁ sadma</strong> — 'the opened abode': Brahman's door is open for the qualified seeker.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.13 — The image of 'drawing out the subtle essence' (pravṛhya dharmyam aṇum) anticipates the famous muñja-grass simile in 2.3.17. 'Vivṛtam sadma' — Yama declares the door to Brahman open for Nachiketa, formally beginning the esoteric teaching.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'प्रवृह्य' (पृथक् करके) का अर्थ है आत्मा को अनात्मा से अलग करना — जैसे ईख से रस निकाला जाता है। 'मोदते' — यह आनन्द सांसारिक सुख नहीं, ब्रह्मानन्द है।",
+        "en": "Shankara reads 'pravṛhya' (drawing out) as separating the Self from the non-Self — like extracting juice from sugarcane. 'Modate' — this joy is not worldly happiness but the bliss of Brahman.",
+        "ins": "Self-realisation is like extracting the innermost essence — what remains when every layer of not-Self is peeled away is pure bliss."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज 'विवृतम् सद्म' — खुला हुआ निवास — में भगवान् के परमधाम का द्वार देखते हैं। भगवान् का धाम सदा है, किन्तु अधिकारी भक्त के लिए ही उसका द्वार खुलता है।",
+        "en": "Ramanuja reads 'vivṛtam sadma' — the opened abode — as the gate to the Lord's supreme dwelling (paramadhāma). The Lord's abode always exists, but its gate opens only for the qualified devotee.",
+        "ins": "The gate to the divine is not locked from the outside — it opens from within, when the seeker's heart is ready."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'मोदते' में आत्म-साक्षात्कार के आनन्द को देखते हैं — यह बाहर से नहीं आता, यह आत्मा का स्वभाव ही आनन्द है। 'विवृतम् सद्म' — चेतना का नया क्षेत्र खुल गया है।",
+        "en": "Sri Aurobindo sees in 'modate' the bliss of Self-realisation — it does not come from outside; bliss IS the nature of the Self. 'Vivṛtam sadma' — a new field of consciousness has opened up.",
+        "ins": "Joy is not the reward of finding the Self — joy is what the Self IS. The seeker does not gain happiness; they discover they were happiness all along."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'drawing out the subtle dharma' mean practically?", "a": "The phrase <strong>pravṛhya dharmyam aṇum</strong> ('having drawn out the subtle essence of dharma') uses the verb <strong>pravṛhya</strong> (from pra+√vṛh, 'to pull out, extract'). The image is of carefully extracting something extremely fine from within something coarse — like drawing a silk thread from a cocoon, or extracting the pith from a reed. <em>Practically</em>, this describes the process of discrimination (viveka): separating the eternal Self from the layers of non-Self that surround it (body, mind, ego, sensations, thoughts). The Self is already there, fully present — it does not need to be created or imported. It needs to be <em>extracted</em> from the mass of identification with what is not-Self. This is why the Upanishadic method is sometimes called 'neti neti' ('not this, not this') — each negation strips away a layer, until only the unconditioned Self remains. The extraction is not violent but precise — like a surgeon's scalpel, not a warrior's sword."},
+      {"q": "🔍 What is the 'opened abode' (vivṛtam sadma)?", "a": "Yama declares <strong>vivṛtaṁ sadma naciketasaṁ manye</strong> — 'I consider the abode to be open for Nachiketa.' The <strong>sadma</strong> (abode, dwelling) refers to <strong>Brahman</strong> — the ultimate reality, the 'home' of the Self. The word <strong>vivṛtam</strong> (opened) implies that this abode was previously closed — not because Brahman was ever inaccessible in principle, but because the seeker was not ready. Now that Nachiketa has passed every test — ethical (rejecting temptations), intellectual (distinguishing śreyas from preyas), and existential (choosing death-knowledge over life-pleasures) — the door is open. This is a formal declaration of initiation: Yama is saying, in effect, 'You are ready. What I am about to teach you is not locked away — it is open to you.' The metaphor resonates across traditions: the 'narrow gate' of the Gospels, the 'gateless gate' of Zen — the barrier was never in the teaching but in the seeker's readiness."}
+    ]
+  },
+  {
+    "id": 14,
+    "sk": "अन्यत्र धर्मादन्यत्राधर्मादन्यत्रास्मात्कृताकृतात् | अन्यत्र भूताच्च भव्याच्च यत्तत्पश्यसि तद्वद ||",
+    "ro": "anyatra · dharmād · anyatra · adharmād · anyatra · asmāt · kṛtākṛtāt | anyatra · bhūtāc · ca · bhavyāc · ca · yat · tat · paśyasi · tad · vada ||",
+    "hi": "नचिकेता ने कहा — जो धर्म से भिन्न है, अधर्म से भिन्न है, इस कार्य-कारण (कृत-अकृत) से भिन्न है, भूत (अतीत) और भव्य (भविष्य) दोनों से भिन्न है — जो उस (तत्त्व) को आप देखते हैं, वह बताइये।",
+    "en": "Nachiketa said: That which is beyond dharma and adharma, beyond cause and effect, beyond past and future — that which you see, tell me that.",
+    "ws": [
+      {"s": "अन्यत्र (anyatra)", "h": "अन्यत्र, से भिन्न, से परे", "e": "beyond, other than — repeated four times for emphasis; the Self is beyond every category"},
+      {"s": "धर्मात् (dharmāt)", "h": "धर्म से", "e": "beyond dharma — even righteous action cannot define the Self"},
+      {"s": "अधर्मात् (adharmāt)", "h": "अधर्म से", "e": "beyond adharma — nor is it defined by its opposite"},
+      {"s": "कृताकृतात् (kṛtākṛtāt)", "h": "किये हुए और न किये हुए से, कार्य-कारण से", "e": "beyond the done and undone — kṛta (done) + akṛta (undone); beyond the entire domain of action"},
+      {"s": "भूतात् (bhūtāt)", "h": "अतीत से, भूत से", "e": "beyond the past — bhūta (what has been)"},
+      {"s": "भव्यात् (bhavyāt)", "h": "भविष्य से", "e": "beyond the future — bhavya (what is to be)"}
+    ],
+    "gr": "<strong>anyatra</strong> — repeated four times: 'beyond dharma, beyond adharma, beyond cause-and-effect, beyond past-and-future.' Each repetition strips away another category of thought. <strong>kṛtākṛtāt</strong> — 'beyond the done and the undone': this transcends the entire domain of karma and action. <strong>bhūtāc ca bhavyāc ca</strong> — 'beyond past and future': the Self is beyond time itself. <strong>yat tat paśyasi tad vada</strong> — 'that which you see, tell me that': Nachiketa asks not for theory but for Yama's direct vision.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.14 — Nachiketa's question is perfectly formulated: he asks for that which transcends all dualities — dharma/adharma, cause/effect, past/future. This is the quintessential Upanishadic question: what is the unconditioned reality beyond all categories?",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि नचिकेता का प्रश्न ही उसकी योग्यता है — उसने सीधे ब्रह्म को माँगा: धर्म-अधर्म से परे, कार्य-कारण से परे, काल से परे। यही निर्गुण ब्रह्म की परिभाषा है।",
+        "en": "Shankara says Nachiketa's question itself demonstrates his fitness — he asked directly for Brahman: beyond dharma-adharma, beyond cause-effect, beyond time. This is the very definition of Nirguṇa Brahman.",
+        "ins": "The right question already contains the answer. By asking for that which is beyond all categories, Nachiketa shows he already intuits the unconditioned."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'अन्यत्र धर्मात्' का अर्थ है कि भगवान् धर्म-अधर्म से परे हैं — वे सम्पूर्ण नैतिक व्यवस्था के स्रोत हैं, उसके अधीन नहीं। भगवान् काल से भी परे हैं — काल उनकी सृष्टि है।",
+        "en": "Ramanuja says 'anyatra dharmāt' means the Lord is beyond dharma-adharma — He is the source of the entire moral order, not subject to it. The Lord is also beyond time — time is His creation.",
+        "ins": "God is not bound by the rules He creates. Dharma governs creation; the Creator transcends dharma."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द इसमें चेतना के सर्वोच्च स्तर की खोज देखते हैं — जो सभी द्वन्द्वों (dharma/adharma), सभी प्रक्रियाओं (kṛta/akṛta), और काल (bhūta/bhavya) से परे है। यही सच्चिदानन्द (sat-cit-ānanda) है।",
+        "en": "Sri Aurobindo sees here the search for the highest level of consciousness — beyond all dualities (dharma/adharma), all processes (kṛta/akṛta), and time itself (bhūta/bhavya). This is Saccidānanda (existence-consciousness-bliss).",
+        "ins": "The ultimate reality is not a bigger version of what we know — it transcends every category of knowing. The mind must let go of all its frameworks to approach it."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Nachiketa ask for something 'beyond dharma'?", "a": "Nachiketa's request for that which is <strong>anyatra dharmāt</strong> (beyond dharma) is startling because dharma is the highest principle in the Vedic worldview — it is the cosmic law, the moral order, the foundation of civilisation. To ask for something <em>beyond</em> dharma is to ask for the <strong>unconditioned absolute</strong> — that which cannot be captured by any human category, even the most exalted. This is not a rejection of dharma but a recognition of its limitation: dharma governs the phenomenal world, but the Self is not a phenomenon. Dharma tells you what to do; the Self is the one who does. Dharma is a rule; the Self is the reality that makes rules possible. By framing his question this way, Nachiketa demonstrates that he is not seeking ethical guidance or religious instruction but the <em>ground of being itself</em>."},
+      {"q": "🔍 What does 'beyond past and future' (anyatra bhūtāc ca bhavyāc ca) mean for the Self?", "a": "To be <strong>beyond past and future</strong> means to be <strong>beyond time</strong>. This is one of the most radical Upanishadic claims: the Self is not in time. It is not something that was born in the past and will die in the future; it is not a process that unfolds through time; it is not even an eternal being that endures <em>through</em> time. It is <strong>beyond</strong> time — it is the timeless ground in which time appears. The Māṇḍūkya Upanishad (verse 7) makes this explicit in its description of Turīya (the fourth state): it is 'not past, not future, not present.' The Self is the eternal Now — not a moment in the flow of time but the awareness <em>in which</em> time flows. Past and future are categories of the mind; the Self is the witness of the mind. This is why Self-knowledge is not a memory (of the past) or a hope (for the future) but a direct recognition in the present."}
+    ]
+  },
+  {
+    "id": 15,
+    "sk": "सर्वे वेदा यत्पदमामनन्ति तपांसि सर्वाणि च यद्वदन्ति | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं सङ्ग्रहेण ब्रवीम्योमित्येतत् ||",
+    "ro": "sarve · vedā · yat · padam · āmananti · tapāṁsi · sarvāṇi · ca · yad · vadanti | yad · icchanto · brahmacaryaṁ · caranti · tat · te · padaṁ · saṅgraheṇa · bravīmi · om · iti · etat ||",
+    "hi": "सब वेद जिस पद (लक्ष्य) को कहते हैं, सब तपस्याएँ जिसकी बात करती हैं, जिसे चाहते हुए लोग ब्रह्मचर्य का पालन करते हैं — उस पद को मैं तुझे संक्षेप में बताता हूँ — वह ॐ है।",
+    "en": "That goal which all the Vedas declare, which all austerities proclaim, and desiring which people practise brahmacharya — that goal I tell you briefly: it is OM.",
+    "ws": [
+      {"s": "पदम् (padam)", "h": "पद, लक्ष्य, स्थान", "e": "goal, destination, state — literally 'step' or 'place'; the ultimate destination of all seeking"},
+      {"s": "आमनन्ति (āmananti)", "h": "कहते हैं, उपदेश करते हैं", "e": "declare, transmit — ā+√man; the Vedas unanimously point to this"},
+      {"s": "तपांसि (tapāṁsi)", "h": "तपस्याएँ", "e": "austerities, penances — all forms of tapas (spiritual heat/discipline)"},
+      {"s": "ब्रह्मचर्यम् (brahmacaryam)", "h": "ब्रह्मचर्य (ब्रह्म में आचरण)", "e": "celibacy / the life of a student devoted to Brahman — brahma (Brahman) + carya (conduct)"},
+      {"s": "सङ्ग्रहेण (saṅgraheṇa)", "h": "संक्षेप में", "e": "in brief, in summary — sam+graha; condensing the entire teaching into one syllable"},
+      {"s": "ॐ (om)", "h": "ओंकार, प्रणव", "e": "OM — the sacred syllable; the sonic symbol of Brahman"}
+    ],
+    "gr": "<strong>sarve vedā yat padam āmananti</strong> — 'all the Vedas declare this goal': the unanimity is stressed — not one Veda but all of them converge on this single point. <strong>saṅgraheṇa bravīmi</strong> — 'I tell you in brief': Yama distils the entire Vedic corpus into one syllable. <strong>om iti etat</strong> — 'it is OM': the answer is breathtaking in its simplicity — after verses of complex description, the destination is a single sound.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.15 — This is one of the most celebrated verses in the Upanishads, directly quoted in the Bhagavad Gita (8.13). OM is presented as the sonic embodiment of Brahman — the single syllable that contains the entire Veda. The Mandukya Upanishad is entirely devoted to unpacking this syllable.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि ॐ ब्रह्म का प्रतीक (symbol) और ब्रह्म स्वयं — दोनों है। जैसे राजा का नाम राजा को इंगित करता है, वैसे ही ॐ ब्रह्म को। ॐ का उच्चारण चित्त को ब्रह्म की ओर मोड़ता है।",
+        "en": "Shankara says OM is both the symbol of Brahman and Brahman itself — just as a king's name points to the king, OM points to Brahman. The utterance of OM turns the mind toward Brahman.",
+        "ins": "OM is not an arbitrary label but the natural sonic expression of ultimate reality — the sound that consciousness makes when it recognises itself."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज ॐ को भगवान् के नाम के रूप में देखते हैं — यह भगवान् का सर्वप्रथम और सर्वोच्च नाम है। ॐ का जप भगवान् की पूजा है, भगवान् के ध्यान का सर्वोत्तम साधन है।",
+        "en": "Ramanuja sees OM as the Lord's name — it is the first and highest name of the Lord. Chanting OM is worship of the Lord and the supreme means of meditating on Him.",
+        "ins": "OM is not a philosophical concept but a living name — the name by which the Lord calls Himself, and by which the devotee can call the Lord."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द ॐ को चेतना के सम्पूर्ण स्पेक्ट्रम का ध्वनि-प्रतिनिधित्व मानते हैं — अ (जाग्रत), उ (स्वप्न), म (सुषुप्ति), और मौन (तुरीय)। ॐ चेतना का मानचित्र है।",
+        "en": "Sri Aurobindo reads OM as the sonic representation of the entire spectrum of consciousness — A (waking), U (dream), M (deep sleep), and the silence (Turīya). OM is the map of consciousness.",
+        "ins": "OM is not merely a mantra to be chanted but a key to the architecture of consciousness — each sound opens a different chamber of awareness."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama answer Nachiketa's vast question with a single syllable?", "a": "Nachiketa asked for the reality beyond all categories — beyond dharma, time, causation. The answer is not a philosophical treatise but a <em>single sound</em>: <strong>OM</strong>. This is deliberately paradoxical and profoundly meaningful. The Upanishadic teaching holds that ultimate reality cannot be captured by discursive thought — no amount of words, arguments, or descriptions can encompass the infinite. But a <strong>symbol</strong> can point beyond itself. OM is that symbol: it is the shortest possible utterance (a single syllable) that points to the vastest possible reality (Brahman). <strong>Saṅgraheṇa</strong> ('in brief') is the key word — Yama is not simplifying the truth but condensing it to its essence. The Māṇḍūkya Upanishad's entire twelve verses are an unpacking of this one syllable. The brevity of the answer honours the vastness of the truth: any longer answer would be more words about what words cannot reach."},
+      {"q": "🔍 How does this verse connect to the Bhagavad Gita?", "a": "This verse is one of the most directly quoted Upanishadic passages in the <strong>Bhagavad Gita</strong>. In Gita 8.13, Krishna says: '<em>om ity ekākṣaraṁ brahma vyāharan mām anusmaran / yaḥ prayāti tyajan dehaṁ sa yāti paramāṁ gatim</em>' — 'Uttering OM, the one-syllable Brahman, and remembering Me, whoever departs leaving the body, attains the supreme goal.' Krishna is directly echoing Yama's teaching to Nachiketa. The Gita also echoes the verse's structure: 'sarve vedā yat padam āmananti' finds its parallel in Gita 15.15: 'vedaiś ca sarvair aham eva vedyaḥ' — 'By all the Vedas, I alone am to be known.' The Katha verse established the principle; the Gita personalises it — the impersonal OM and the personal Lord (Krishna) converge as two faces of the same ultimate reality."}
+    ]
+  },
+  {
+    "id": 16,
+    "sk": "एतद्ध्येवाक्षरं ब्रह्म एतद्ध्येवाक्षरं परम् | एतद्ध्येवाक्षरं ज्ञात्वा यो यदिच्छति तस्य तत् ||",
+    "ro": "etad · hi · eva · akṣaraṁ · brahma · etad · hi · eva · akṣaraṁ · param | etad · hi · eva · akṣaraṁ · jñātvā · yo · yad · icchati · tasya · tat ||",
+    "hi": "यह (ॐ) ही वह अक्षर (अविनाशी) ब्रह्म है; यही वह परम अक्षर है। इस अक्षर को जानकर जो जो चाहता है, उसे वही मिलता है।",
+    "en": "This syllable (OM) is indeed Brahman. This syllable is indeed the Supreme. Having known this syllable, whatever one desires, that is theirs.",
+    "ws": [
+      {"s": "अक्षरम् (akṣaram)", "h": "अक्षर, अविनाशी, अव्यय", "e": "the imperishable, the syllable — a+kṣara (that which does not perish); also means 'syllable,' creating a double meaning"},
+      {"s": "ब्रह्म (brahma)", "h": "ब्रह्म, परम सत्ता", "e": "Brahman — the ultimate reality"},
+      {"s": "परम् (param)", "h": "परम, सर्वोच्च", "e": "the supreme, the highest — nothing beyond this"},
+      {"s": "ज्ञात्वा (jñātvā)", "h": "जानकर", "e": "having known — absolutive of √jñā; not heard or believed, but directly known"},
+      {"s": "इच्छति (icchati)", "h": "चाहता है, इच्छा करता है", "e": "desires — √iṣ; whatever the knower wishes comes to them"}
+    ],
+    "gr": "<strong>akṣaram</strong> — a brilliantly ambiguous word: it means both 'syllable' (referring to OM) and 'imperishable' (a+kṣara = that which does not decay). The verse exploits this double meaning: the syllable OM IS the imperishable Brahman. <strong>etad hi eva</strong> — 'this indeed is': the triple emphasis (etad + hi + eva) leaves no room for doubt. <strong>yo yad icchati tasya tat</strong> — 'whatever one desires, that is theirs': the paradox — the person who has transcended desire through knowledge receives everything.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.16 — The word akṣara carries a double meaning (syllable + imperishable) that is central to the Upanishadic theology of OM. The closing promise ('whatever one desires, that is theirs') echoes the Chāndogya Upanishad's 'satyakāma' (one whose desires are true).",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'यो यदिच्छति तस्य तत्' — यह विरोधाभासी नहीं: जो ब्रह्म को जानता है, उसकी इच्छा ब्रह्म की इच्छा बन जाती है — इसलिए वह सदा पूर्ण होती है। वस्तुतः आत्मज्ञानी को कोई इच्छा शेष नहीं रहती।",
+        "en": "Shankara says 'yo yad icchati tasya tat' is not contradictory: one who knows Brahman has their will aligned with Brahman's will — so it is always fulfilled. In reality, the knower of the Self has no remaining desires.",
+        "ins": "When your will merges with the cosmic will, there is no gap between wanting and having — not because you get everything, but because you want only what is."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि ॐ में ब्रह्म = भगवान् विष्णु। 'यो यदिच्छति तस्य तत्' — भगवान् अपने भक्त की सब इच्छाएँ पूर्ण करते हैं, किन्तु सच्चा भक्त केवल भगवान् को ही चाहता है।",
+        "en": "Ramanuja identifies Brahman in OM with Lord Vishnu. 'Yo yad icchati tasya tat' — the Lord fulfils all desires of His devotee, but the true devotee desires only the Lord.",
+        "ins": "The ultimate gift is not getting what you want but wanting what the Lord gives — and what He gives is Himself."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि ॐ को 'जानना' बौद्धिक ज्ञान नहीं है — यह चेतना का उस स्तर तक उठना है जहाँ इच्छा और सत्ता एक हो जाते हैं। ऐसे ज्ञानी की इच्छा सृजन-शक्ति बन जाती है।",
+        "en": "Sri Aurobindo says 'knowing' OM is not intellectual knowledge — it is the elevation of consciousness to the level where will and being become one. The knower's desire becomes creative power.",
+        "ins": "At the highest level, there is no difference between willing and being. The seer's thought is itself a creative act because it operates from the plane of truth."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the double meaning of 'akṣara'?", "a": "The word <strong>akṣara</strong> carries two meanings that the verse deliberately merges: (1) <strong>syllable</strong> — a unit of sound, specifically referring to the syllable OM; (2) <strong>imperishable</strong> — a+kṣara, that which does not decay or perish, i.e., the eternal reality. By using this one word, the Upanishad asserts that the <em>sound</em> OM and the <em>reality</em> Brahman are not merely connected but identical. The syllable IS the imperishable. This is not metaphor — in the Vedic understanding, sound (śabda) is the primary medium of creation. The universe was created through sound (Vāk), and OM is the primordial sound from which all other sounds (and therefore all things) emerged. To know the syllable fully — not just to pronounce it but to understand it in its depth — is to know the imperishable reality from which everything comes."},
+      {"q": "🔍 How can the knower of Brahman 'get whatever they desire'?", "a": "The promise <strong>'yo yad icchati tasya tat'</strong> (whatever one desires, that is theirs) seems to contradict the entire teaching about transcending desire. The resolution lies in understanding what happens to desire in the knower. The <strong>Chāndogya Upanishad</strong> (8.1.5-6) explains: the knower of Brahman is called <strong>satyakāma</strong> (one whose desires are true) and <strong>satyasaṅkalpa</strong> (one whose intentions are real). This does not mean the sage desires worldly things and gets them — it means the sage's consciousness has risen to the level where <em>desire and reality are identical</em>. At the level of Brahman, there is no gap between willing and being — thought is creative, intention is manifestation. But practically, the sage who has realised Brahman desires nothing because they already <em>are</em> everything. The 'desire fulfilment' is a description of the ontological state, not a magical power: when you are the whole, what would you desire that you are not?"}
+    ]
+  },
+  {
+    "id": 17,
+    "sk": "एतदालम्बनं श्रेष्ठमेतदालम्बनं परम् | एतदालम्बनं ज्ञात्वा ब्रह्मलोके महीयते ||",
+    "ro": "etad · ālambanam · śreṣṭham · etad · ālambanam · param | etad · ālambanam · jñātvā · brahmaloke · mahīyate ||",
+    "hi": "यह (ॐ) सर्वश्रेष्ठ आलम्बन (सहारा) है; यही परम आलम्बन है। इस आलम्बन को जानकर (साधक) ब्रह्मलोक में महिमान्वित होता है।",
+    "en": "This (OM) is the supreme support; this is the highest support. Knowing this support, one is glorified in the world of Brahman.",
+    "ws": [
+      {"s": "आलम्बनम् (ālambanam)", "h": "आलम्बन, सहारा, अवलम्ब", "e": "support, prop, basis — ā+√lamb ('to hang from'); that which one holds onto for stability"},
+      {"s": "श्रेष्ठम् (śreṣṭham)", "h": "सर्वश्रेष्ठ", "e": "the best, the finest — superlative; no better support exists"},
+      {"s": "परम् (param)", "h": "परम, सर्वोच्च", "e": "the highest — there is nothing beyond this"},
+      {"s": "ब्रह्मलोके (brahmaloke)", "h": "ब्रह्मलोक में", "e": "in the world of Brahman — the highest realm of existence"},
+      {"s": "महीयते (mahīyate)", "h": "महिमान्वित होता है, पूजित होता है", "e": "is glorified, is honoured — passive of √mah ('to be great'); becomes great in the ultimate sense"}
+    ],
+    "gr": "<strong>ālambanam</strong> — 'support': the metaphor is of a drowning person holding onto a rope, or a climber grasping a ledge. OM is that handhold for the soul traversing the ocean of saṁsāra. <strong>śreṣṭham ... param</strong> — 'best ... highest': superlatives heaped on superlatives. <strong>brahmaloke mahīyate</strong> — 'is glorified in Brahman's world': not merely enters but is honoured, celebrated.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.17 — OM as 'ālambana' (support) introduces the meditative function of the syllable — it is the anchor for the mind in contemplation. Brahmaloka here may mean either the world of the creator-god Brahmā or the state of Brahman-realisation.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'ब्रह्मलोक' यहाँ ब्रह्म-साक्षात्कार की अवस्था है, कोई भौगोलिक लोक नहीं। ॐ का ध्यान चित्त को ब्रह्म में स्थिर करता है — यही आलम्बन है।",
+        "en": "Shankara says 'brahmaloka' here is the state of Brahman-realisation, not a geographical world. OM-meditation stabilises the mind in Brahman — this is the support.",
+        "ins": "The support is not external but internal — OM is the bridge between the restless mind and the still Brahman."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज 'ब्रह्मलोक' को भगवान् के परमधाम (वैकुण्ठ) मानते हैं। ॐ के आश्रय से भक्त भगवान् के धाम में प्रतिष्ठित होता है — यह मुक्ति का चरम है।",
+        "en": "Ramanuja reads 'brahmaloka' as the Lord's supreme abode (Vaikuṇṭha). Through the support of OM, the devotee is established in the Lord's eternal abode — this is the culmination of liberation.",
+        "ins": "OM is the devotee's passport to the eternal kingdom — the sound that carries the soul home."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'आलम्बन' को चेतना का स्थिरीकरण-बिन्दु मानते हैं — ध्यान में मन को ॐ पर टिकाने से चेतना उच्चतर स्तरों तक पहुँचती है। 'ब्रह्मलोक' = सत्-चित्-आनन्द की चेतना।",
+        "en": "Sri Aurobindo reads 'ālambana' as the stabilisation-point of consciousness — by anchoring the mind on OM in meditation, consciousness ascends to higher planes. 'Brahmaloka' = the consciousness of Sat-Cit-Ānanda.",
+        "ins": "OM is not a destination but a vehicle — the sound that lifts consciousness from the mental plane to the supramental."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is OM called a 'support' (ālambana)?", "a": "The word <strong>ālambana</strong> (from ā+√lamb, 'to hang from, to lean upon') is a meditation term. In yogic practice, the mind needs an object to rest upon — without support, it scatters. OM serves as the supreme <strong>ālambana</strong> because it is simultaneously a sound (accessible to the senses) and Brahman itself (the ultimate reality). The meditator can begin by focusing on the audible sound 'OM' and gradually move through subtler and subtler levels until they arrive at the silence that lies beneath the sound — which is Brahman. OM is thus a <strong>bridge</strong>: it has one foot in the phenomenal world (as a sound) and one foot in the absolute (as Brahman). No other object of meditation has this dual nature, which is why it is called 'śreṣṭham' (the best) and 'param' (the highest) among all supports."},
+      {"q": "🔍 Does 'brahmaloka' mean a heavenly world or the state of liberation?", "a": "The term <strong>brahmaloka</strong> is deliberately ambiguous and the three commentators read it differently. For <strong>Shankara</strong>, brahmaloka is not a place but a <strong>state of consciousness</strong> — the direct realisation of Brahman. There is nowhere to 'go' because Brahman is already everywhere; 'brahmaloka' simply means living in the awareness of Brahman. For <strong>Ramanuja</strong>, brahmaloka is a real, eternal realm — <strong>Vaikuṇṭha</strong>, the Lord's supreme abode — which the liberated soul enters after death, never to return. It is the permanent dwelling of the Lord and His devotees. For <strong>Aurobindo</strong>, brahmaloka is a <strong>plane of consciousness</strong> — the supramental plane of Sat-Cit-Ānanda — which can be accessed even while living in the body through the transformation of consciousness. Each reading is consistent with its tradition: non-dual (no separate world), devotional (an eternal divine realm), or integral (a consciousness-plane accessible through evolution)."}
+    ]
+  },
+  {
+    "id": 18,
+    "sk": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् | अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||",
+    "ro": "na · jāyate · mriyate · vā · vipaścit · na · ayaṁ · kutaścit · na · babhūva · kaścit | ajaḥ · nityaḥ · śāśvato · ayaṁ · purāṇo · na · hanyate · hanyamāne · śarīre ||",
+    "hi": "यह विपश्चित् (चेतन आत्मा) न जन्मता है, न मरता है। यह किसी से उत्पन्न नहीं हुआ, और इससे कोई उत्पन्न नहीं हुआ। यह अज (अजन्मा), नित्य, शाश्वत, पुरातन है — शरीर के नष्ट होने पर भी यह नष्ट नहीं होता।",
+    "en": "The intelligent Self is not born, nor does it die. It did not come from anything, nor did anything come from it. Unborn, eternal, everlasting, ancient — it is not slain when the body is slain.",
+    "ws": [
+      {"s": "विपश्चित् (vipaścit)", "h": "विवेकशील, चेतन, ज्ञानस्वरूप", "e": "the intelligent one, the wise — vi+paścit; the Self that is consciousness itself"},
+      {"s": "कुतश्चित् (kutaścit)", "h": "किसी से", "e": "from anywhere — the Self has no origin, no source"},
+      {"s": "बभूव (babhūva)", "h": "हुआ, उत्पन्न हुआ", "e": "became, came into being — perfect of √bhū; denied: it never 'became'"},
+      {"s": "अजः (ajaḥ)", "h": "अजन्मा", "e": "unborn — a+ja; never born, without origin"},
+      {"s": "नित्यः (nityaḥ)", "h": "नित्य, सनातन", "e": "eternal — always existing, without beginning or end"},
+      {"s": "शाश्वतः (śāśvataḥ)", "h": "शाश्वत, चिरस्थायी", "e": "everlasting — perpetually enduring"},
+      {"s": "न हन्यते हन्यमाने शरीरे (na hanyate hanyamāne śarīre)", "h": "शरीर मारे जाने पर भी नहीं मारा जाता", "e": "is not slain when the body is slain — the Self survives the body's destruction"}
+    ],
+    "gr": "<strong>na jāyate mriyate vā</strong> — 'neither born nor dies': two fundamental life-events negated. <strong>na ayaṁ kutaścit na babhūva kaścit</strong> — 'not from anything, nor anything from it': the Self is not an effect (it has no cause) and not a cause (nothing emerges from it in the causal sense). <strong>ajaḥ nityaḥ śāśvataḥ purāṇaḥ</strong> — four adjectives: unborn, eternal, everlasting, ancient. <strong>na hanyate hanyamāne śarīre</strong> — the climactic statement: the body's death leaves the Self untouched.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.18 — This verse is quoted almost verbatim in the Bhagavad Gita (2.20). It is one of the most direct declarations of the Self's immortality in all of Indian scripture. The five negations systematically deny birth, death, origin, production, and destruction.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह श्लोक आत्मा के पाँच विकारों (जन्म, अस्तित्व, वृद्धि, क्षय, मृत्यु) का निषेध करता है। जो अजन्मा है वह किसी के अधीन नहीं — वह स्वतन्त्र, अद्वितीय, निर्विकार ब्रह्म है।",
+        "en": "Shankara says this verse negates the five modifications (vikāra) of the Self: birth, existence, growth, decay, death. What is unborn is subject to nothing — it is the independent, unique, changeless Brahman.",
+        "ins": "If the Self were born, it could die. If it could die, liberation would be temporary. The Upanishad insists: you were never born — therefore you can never die."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि जीवात्मा शाश्वत है — यह भगवान् का अंश है और भगवान् के समान अविनाशी है। 'न हन्यते हन्यमाने शरीरे' — शरीर नश्वर है पर आत्मा शाश्वत — इसलिए शरीर की मृत्यु आत्मा की मृत्यु नहीं।",
+        "en": "Ramanuja says the jīvātman is eternal — it is a part of the Lord and imperishable like the Lord. 'Na hanyate hanyamāne śarīre' — the body is perishable but the soul is eternal — therefore the body's death is not the soul's death.",
+        "ins": "Death is a costume change, not an extinction. The soul sheds the body as one sheds worn-out clothes — the wearer remains."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'विपश्चित्' शब्द महत्त्वपूर्ण है — आत्मा मात्र 'सत्ता' नहीं, यह 'चेतन सत्ता' है — ज्ञान इसका स्वभाव है। शरीर की मृत्यु चेतना की एक अभिव्यक्ति का अन्त है, चेतना का नहीं।",
+        "en": "Sri Aurobindo notes that 'vipaścit' is significant — the Self is not mere 'existence' but 'conscious existence' — knowledge is its nature. The body's death is the end of one expression of consciousness, not of consciousness itself.",
+        "ins": "Consciousness does not depend on the body; the body depends on consciousness. When the instrument breaks, the player remains."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How does this verse appear in the Bhagavad Gita?", "a": "This verse is reproduced almost word-for-word in <strong>Bhagavad Gita 2.20</strong>: '<em>na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ / ajo nityaḥ śāśvato'yaṁ purāṇo na hanyate hanyamāne śarīre</em>.' The Gita adds '<strong>kadācin</strong>' (at any time) and '<strong>bhūtvā bhavitā vā na bhūyaḥ</strong>' (having been, it will not cease to be), making the temporal denial even more explicit. Krishna is speaking to Arjuna who grieves over killing his kinsmen in battle — and the message is identical to Yama's: the Self cannot be killed, so grief over physical death is based on a misunderstanding. The direct borrowing shows that the Gita sees itself as continuous with the Upanishadic tradition, not as a separate teaching. The Katha is the source; the Gita is its most famous application."},
+      {"q": "🔍 What is the philosophical significance of 'na ayaṁ kutaścit' (not from anything)?", "a": "The phrase <strong>'na ayaṁ kutaścit'</strong> ('this did not come from anywhere') makes a radical ontological claim: the Self has <strong>no origin</strong>. It is not a product, not an effect, not an emanation, not a creation. It did not evolve from matter, it was not breathed into the body by a creator-god, it did not emerge from anything else. This distinguishes the Upanishadic view from both creationism (God created souls) and materialism (consciousness emerged from matter). The Self simply IS — beginningless, uncaused, self-existent. The companion phrase '<strong>na babhūva kaścit</strong>' ('nothing came from it') adds that the Self is also not a cause of anything else — it does not produce, create, or generate. This seems contradictory to the Upanishadic teaching that 'from this Self, space arose' (Taittirīya 2.1) — but Shankara resolves this by saying the Self appears to create through māyā while remaining unchanged itself, like a rope that appears to be a snake."}
+    ]
+  },
+  {
+    "id": 19,
+    "sk": "हन्ता चेन्मन्यते हन्तुं हतश्चेन्मन्यते हतम् | उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||",
+    "ro": "hantā · cet · manyate · hantuṁ · hataś · cet · manyate · hatam | ubhau · tau · na · vijānīto · na · ayaṁ · hanti · na · hanyate ||",
+    "hi": "यदि कोई मारने वाला (हन्ता) सोचता है कि 'मैं मारता हूँ' और मारा जाने वाला (हत) सोचता है कि 'मैं मारा गया' — तो वे दोनों नहीं जानते। यह (आत्मा) न मारता है, न मारा जाता है।",
+    "en": "If the slayer thinks 'I slay' and the slain thinks 'I am slain,' both do not know. This (Self) neither slays nor is slain.",
+    "ws": [
+      {"s": "हन्ता (hantā)", "h": "मारने वाला", "e": "the slayer — agent noun from √han ('to kill')"},
+      {"s": "हन्तुम् (hantum)", "h": "मारने के लिए", "e": "to slay — infinitive of √han"},
+      {"s": "हतः (hataḥ)", "h": "मारा हुआ", "e": "the slain — past participle of √han"},
+      {"s": "विजानीतः (vijānītaḥ)", "h": "जानते हैं (दोनों)", "e": "understand — vi+√jñā; dual number: neither of the two knows"},
+      {"s": "न हन्ति (na hanti)", "h": "नहीं मारता", "e": "does not slay — the Self is not an agent of action"},
+      {"s": "न हन्यते (na hanyate)", "h": "नहीं मारा जाता", "e": "is not slain — the Self is not an object of action"}
+    ],
+    "gr": "<strong>hantā cet manyate hantum</strong> — 'if the killer thinks he kills': the verb manyate (thinks, believes) is crucial — it implies the belief is false. <strong>ubhau tau na vijānītaḥ</strong> — 'both of them do not know': dual number verb; both parties are equally ignorant. <strong>na ayaṁ hanti na hanyate</strong> — 'this neither kills nor is killed': the Self is beyond agency and patiency — it neither does nor has done to it.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.19 — This verse appears verbatim in the Bhagavad Gita (2.19) and is originally from the Rig Veda. It establishes that the Self transcends the categories of agent (kartā) and object (karma) — it is the actionless witness.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि आत्मा न कर्ता (doer) है न भोक्ता (experiencer)। 'मैं मारता हूँ' या 'मैं मारा गया' — ये दोनों अहंकार के भ्रम हैं। आत्मा अक्रिय (actionless) साक्षी है।",
+        "en": "Shankara says the Self is neither the doer (kartā) nor the experiencer (bhoktā). 'I kill' or 'I am killed' — both are delusions of the ego (ahaṁkāra). The Self is the actionless witness.",
+        "ins": "All sense of agency — 'I do this, I suffer that' — belongs to the ego, not to the Self. The Self is the unchanging witness of all action."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि जीवात्मा स्वभाव से अक्रिय है — कर्तृत्व प्रकृति (शरीर-मन) का है। 'हन्ता' और 'हत' दोनों शरीर के विषय में कहे जाते हैं, आत्मा के नहीं।",
+        "en": "Ramanuja says the jīvātman is by nature actionless — agency belongs to prakṛti (body-mind). 'Slayer' and 'slain' apply to the body, not to the soul.",
+        "ins": "The soul acts through the body as a driver acts through a vehicle — the vehicle can be damaged, but the driver within remains."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'मन्यते' (सोचता है) शब्द महत्त्वपूर्ण है — मारना-मरना मन के स्तर पर है; आत्मा के स्तर पर न कोई कर्ता है, न कर्म। चेतना का यह साक्षी-भाव ही मुक्ति है।",
+        "en": "Sri Aurobindo notes 'manyate' (thinks) is crucial — killing and being killed occur at the mental level; at the level of the Self, there is no doer, no deed. This witness-consciousness is liberation itself.",
+        "ins": "The identification with action — 'I am the doer' — is the knot that ties consciousness to the body. Untie it, and you are free."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the practical implication of 'the Self neither kills nor is killed'?", "a": "This teaching does NOT mean that killing is morally neutral — it means that the <strong>true Self</strong> (Atman) is not the agent of any action. All action belongs to the <strong>body-mind complex</strong> (the vehicle of prakṛti), not to the Self that witnesses through it. The practical implications: (1) <strong>Ethically</strong> — karma still operates at the level of the body-mind; one still bears consequences for action. The teaching liberates one from existential horror, not from moral responsibility. (2) <strong>Psychologically</strong> — the fear of death is based on the false identification of Self with body. When one knows 'I am not the body,' the fear of death dissolves. (3) <strong>In the Gita's context</strong> — Krishna uses this verse to tell Arjuna that his grief is misplaced: the warriors he will 'kill' cannot be killed in their essence. The bodies fall; the Selves are untouched. This is not a licence to kill but a correction of Arjuna's metaphysical confusion."},
+      {"q": "🔍 How does this verse connect to the concept of the witness (sākṣī)?", "a": "The verse establishes the Self as the <strong>sākṣī</strong> (witness) — pure consciousness that observes without participating. The key insight: agency ('I kill') and patiency ('I am killed') are both forms of identification with action. The Self is <strong>beyond both</strong>. It is not the hand that strikes, not the body that falls, not the mind that decides, not the emotion that grieves. It is the awareness in which all of this appears. The <strong>Sāṅkhya</strong> philosophy formalises this: <strong>puruṣa</strong> (consciousness) is eternally distinct from <strong>prakṛti</strong> (nature/matter), which alone acts. The Gita (3.27-28) states: 'All actions are performed by the guṇas of prakṛti; the Self, deluded by ahaṁkāra, thinks: I am the doer.' When the Self recognises its own witness-nature, the false sense of agency drops — and with it, the entire edifice of karma, fear, and suffering built on that false sense."}
+    ]
+  },
+  {
+    "id": 20,
+    "sk": "अणोरणीयान्महतो महीयानात्माऽस्य जन्तोर्निहितो गुहायाम् | तमक्रतुः पश्यति वीतशोको धातुप्रसादान्महिमानमात्मनः ||",
+    "ro": "aṇoḥ · aṇīyān · mahato · mahīyān · ātmā · asya · jantoḥ · nihito · guhāyām | tam · akratuḥ · paśyati · vītaśoko · dhātuprasādāt · mahimānam · ātmanaḥ ||",
+    "hi": "अणु से भी सूक्ष्म, महान् से भी महान् — यह आत्मा इस जीव के हृदय-गुहा में छिपा है। जो निष्काम (अक्रतु) और शोकरहित (वीतशोक) है, वह अन्तःकरण की प्रसन्नता (धातुप्रसाद) से आत्मा की महिमा को देखता है।",
+    "en": "Subtler than the subtle, greater than the great — the Self is hidden in the heart-cave of this living being. One who is free from desire and free from sorrow sees the majesty of the Self through the serenity of the inner faculties.",
+    "ws": [
+      {"s": "अणोः अणीयान् (aṇoḥ aṇīyān)", "h": "अणु से भी सूक्ष्म", "e": "subtler than the subtle — comparative: smaller than the smallest conceivable thing"},
+      {"s": "महतः महीयान् (mahato mahīyān)", "h": "महान् से भी महान्", "e": "greater than the great — comparative: larger than the largest"},
+      {"s": "निहितः (nihitaḥ)", "h": "छिपा हुआ, रखा हुआ", "e": "placed, hidden — ni+√dhā ('to place'); the Self is deposited in the heart-cave"},
+      {"s": "गुहायाम् (guhāyām)", "h": "गुहा (हृदय) में", "e": "in the cave — the heart as the secret chamber of the Self"},
+      {"s": "अक्रतुः (akratuḥ)", "h": "निष्काम, इच्छारहित", "e": "without desire, without volition — a+kratu; one whose desires have been stilled"},
+      {"s": "वीतशोकः (vītaśokaḥ)", "h": "शोकरहित", "e": "free from sorrow — vīta (gone) + śoka (grief); grief has departed"},
+      {"s": "धातुप्रसादात् (dhātuprasādāt)", "h": "अन्तःकरण (धातु) की प्रसन्नता से", "e": "through the serenity of the inner faculties — dhātu (constituent elements, faculties) + prasāda (clarity, grace, serenity)"}
+    ],
+    "gr": "<strong>aṇoḥ aṇīyān mahato mahīyān</strong> — the most famous paradox of the Upanishads: the Self is simultaneously the smallest and the largest. It is not a 'size' but pervades all scales. <strong>dhātuprasādāt</strong> — 'by the grace/serenity of the dhātus': Shankara reads dhātu as the mind and senses; when they are clear and tranquil, the Self becomes visible. <strong>akratuḥ vītaśokaḥ</strong> — two preconditions: absence of desire and absence of grief.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.20 — This is one of the most celebrated verses in all Upanishadic literature. The paradox 'subtler than the subtle, greater than the great' appears in multiple Upanishads (Śvetāśvatara 3.20, Muṇḍaka 3.1.7). 'Dhātuprasāda' is a key concept — the Self is seen not through effort but through the natural clarity of a purified mind.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'अणोः अणीयान्' — आत्मा इसलिए सूक्ष्मतम है क्योंकि वह निराकार, निर्गुण है; 'महतो महीयान्' — सर्वव्यापी होने से सबसे बड़ा है। 'धातुप्रसाद' = अन्तःकरण की शुद्धि — जब मन स्वच्छ दर्पण बनता है, तभी आत्मा का प्रतिबिम्ब दिखता है।",
+        "en": "Shankara says 'aṇoḥ aṇīyān' — the Self is the subtlest because it is formless and attributeless; 'mahato mahīyān' — the greatest because it is all-pervading. 'Dhātuprasāda' = purity of the inner organ — when the mind becomes a clear mirror, the Self's reflection appears.",
+        "ins": "The Self is already here — the only obstacle is the turbidity of the mind. Purify the mind, and the Self shines by its own light."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् अणु में भी अणु रूप से (अन्तर्यामी) और ब्रह्माण्ड में भी विराट रूप से विद्यमान हैं। 'धातुप्रसाद' = भगवान् की कृपा — जब भगवान् प्रसन्न होते हैं तभी आत्म-दर्शन होता है।",
+        "en": "Ramanuja says the Lord is present as the subtle inner controller (antaryāmī) even within the atom, and as the cosmic form (Virāṭ) in the entire universe. 'Dhātuprasāda' = the Lord's grace — only when the Lord is pleased does Self-vision occur.",
+        "ins": "The Lord is simultaneously within the smallest atom and beyond the largest cosmos — His presence has no limits, and realising Him requires His grace, not merely human effort."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'अणोः अणीयान् महतो महीयान्' में चेतना की अनन्त पैमाने देखते हैं — आत्मा एक साथ सूक्ष्मतम और विराटतम है क्योंकि चेतना आकार से बँधी नहीं। 'धातुप्रसाद' — चेतना की आन्तरिक शान्ति ही दर्शन का द्वार है।",
+        "en": "Sri Aurobindo sees in 'aṇoḥ aṇīyān mahato mahīyān' the infinite scalability of consciousness — the Self is simultaneously the subtlest and the vastest because consciousness is not bound by size. 'Dhātuprasāda' — the inner peace of consciousness is the doorway to vision.",
+        "ins": "Consciousness is not a thing with a size — it is the dimensionless ground of all dimensions. It can focus to a point finer than an atom or expand to contain universes."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How can the Self be both 'subtler than the subtle' and 'greater than the great'?", "a": "The paradox <strong>aṇoḥ aṇīyān mahato mahīyān</strong> is not a contradiction but a statement about the nature of consciousness. Physical objects have a determinate size — an atom is small, a galaxy is large, and neither can be both. But the Self is not a physical object; it is <strong>consciousness</strong>, and consciousness has no inherent size. It can focus to a point so fine that it is within the smallest particle (this is the Self as <strong>antaryāmī</strong>, the inner controller), and it can expand to encompass everything that exists (this is the Self as <strong>Brahman</strong>, the cosmic totality). The paradox expresses the fact that the Self <em>transcends the category of size altogether</em>. It is not 'very small' or 'very large' but <strong>beyond the dimension of magnitude</strong>. Any attempt to locate it at a particular scale fails because it is present at every scale simultaneously. This is experientially verifiable in deep meditation: consciousness can contract to a pinpoint or expand without limit."},
+      {"q": "🔍 What is 'dhātuprasāda' and how does it enable seeing the Self?", "a": "<strong>Dhātuprasāda</strong> is a compound of <strong>dhātu</strong> (the constituent elements — here meaning the mind, intellect, and senses) and <strong>prasāda</strong> (clarity, serenity, grace). The word <strong>prasāda</strong> carries a double meaning: (1) <em>clarity</em> — like clear water through which one can see the bottom; (2) <em>grace</em> — a gift, something bestowed rather than earned. The teaching is: the Self is not seen through effort, strain, or intellectual gymnastics. It is seen when the <strong>inner instruments become naturally serene</strong> — clear, still, settled. This is why the verse pairs two preconditions: <strong>akratuḥ</strong> (freedom from desire) and <strong>vītaśokaḥ</strong> (freedom from sorrow). Desire agitates the mind; sorrow clouds it. When both are absent, the mind settles into its natural clarity — and in that clarity, the Self is simply <em>seen</em>, the way one sees the moon in a still pond. The seeing requires no special technique — only the removal of what obstructs it."}
+    ]
+  },
+  {
+    "id": 21,
+    "sk": "आसीनो दूरं व्रजति शयानो याति सर्वतः | कस्तं मदामदं देवं मदन्यो ज्ञातुमर्हति ||",
+    "ro": "āsīno · dūraṁ · vrajati · śayāno · yāti · sarvataḥ | kas · taṁ · madāmadam · devaṁ · mad · anyo · jñātum · arhati ||",
+    "hi": "बैठा हुआ दूर तक जाता है; लेटा हुआ सब ओर पहुँचता है। उस आनन्दमय और आनन्दरहित (मदामद) देव (आत्मा) को मुझ (यम) से भिन्न कौन जान सकता है?",
+    "en": "Sitting, it travels far; lying down, it goes everywhere. Who other than me (Yama) is fit to know that God who is both joy and the absence of joy?",
+    "ws": [
+      {"s": "आसीनः (āsīnaḥ)", "h": "बैठा हुआ", "e": "sitting, stationary — present participle of √ās; the Self is motionless"},
+      {"s": "दूरम् व्रजति (dūraṁ vrajati)", "h": "दूर तक जाता है", "e": "travels far — though stationary, it reaches everywhere"},
+      {"s": "शयानः (śayānaḥ)", "h": "लेटा हुआ, सोया हुआ", "e": "lying down — present participle of √śī; at perfect rest"},
+      {"s": "याति सर्वतः (yāti sarvataḥ)", "h": "सब ओर जाता है", "e": "goes everywhere — pervades all directions while perfectly still"},
+      {"s": "मदामदम् (madāmadam)", "h": "आनन्दमय और आनन्दरहित, हर्ष और विषाद से परे", "e": "joy and non-joy — mada (intoxication, joy) + amada (non-joy); beyond the duality of elation and depression"},
+      {"s": "देवम् (devam)", "h": "देव, दिव्य, प्रकाशमान", "e": "the shining one, the divine — the Self as luminous consciousness"}
+    ],
+    "gr": "<strong>āsīno dūraṁ vrajati śayāno yāti sarvataḥ</strong> — two paradoxes: 'sitting, travels far' and 'lying, goes everywhere.' The Self is motionless yet omnipresent — it does not move because it is already everywhere. <strong>madāmadam</strong> — 'joy-and-non-joy': a bahuvrihi compound; the Self both IS joy and transcends joy. <strong>mad anyaḥ</strong> — 'other than me': Yama, as the Lord of Death, claims unique qualification to know the Self.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.21 — The paradox of motion-in-stillness echoes the Isha Upanishad (4-5). 'Madāmadam' is a subtle compound — the Self is the source of joy but is itself beyond the joy-sorrow duality. Yama's claim 'who other than me can know this' is either exclusive (only Death knows the deathless) or rhetorical.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'आसीनो दूरं व्रजति' — आत्मा गतिरहित है किन्तु सर्वव्यापी है, इसलिए 'दूर तक जाना' कहा गया। जैसे आकाश सब ओर है पर हिलता नहीं — वैसे ही आत्मा।",
+        "en": "Shankara says 'āsīno dūraṁ vrajati' — the Self is motionless yet all-pervading, so it is said to 'travel far.' Just as space is everywhere but does not move — so too the Self.",
+        "ins": "Movement implies going from here to there. The Self is already 'there' — it does not move because there is no place where it is not."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् अपने परमधाम में विराजमान होते हुए भी अन्तर्यामी रूप से सर्वत्र व्याप्त हैं। 'मदामदम्' — भगवान् आनन्द-स्वरूप हैं पर सांसारिक सुख-दुःख से परे हैं।",
+        "en": "Ramanuja says the Lord, while seated in His supreme abode, pervades everywhere as the inner controller. 'Madāmadam' — the Lord is bliss itself but beyond worldly pleasure and pain.",
+        "ins": "The Lord does not need to travel to be present — His presence is not limited by location. He is both 'here' in the heart and 'there' in His eternal abode."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'आसीनो दूरं व्रजति' में चेतना की प्रकृति देखते हैं — शरीर स्थिर है पर चेतना दूर तक पहुँचती है (जैसे ध्यान में)। आत्मा स्थान से बँधी नहीं — वह स्थान का मूल है।",
+        "en": "Sri Aurobindo sees in 'āsīno dūraṁ vrajati' the nature of consciousness — the body is stationary but consciousness reaches far (as in meditation). The Self is not bound by space — it is the source of space.",
+        "ins": "Consciousness is non-local by nature — it does not need to physically travel to be present at a distance. In deep meditation, this becomes direct experience."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How can something be motionless yet travel everywhere?", "a": "The paradox <strong>'sitting, it travels far; lying, it goes everywhere'</strong> describes the nature of <strong>consciousness</strong> versus <strong>matter</strong>. A physical body must move through space to be in a different place — but consciousness is not physical. The Self does not 'travel' by leaving one place and arriving at another; it is <strong>simultaneously present everywhere</strong>. The Isha Upanishad (4-5) states the same truth: 'It moves; It does not move. It is far; It is near.' The resolution: at the level of the body, there is movement and location. At the level of the Self, there is neither — because the Self is the <em>space</em> in which movement occurs. A container does not move when its contents move. The Self is the ultimate container — the space of consciousness in which all objects, including the body, appear and move. It 'sits' because it is still; it 'travels far' because nothing is outside it."},
+      {"q": "🔍 What does 'madāmadam' (joy-and-non-joy) mean?", "a": "<strong>Madāmadam</strong> is a bahuvrihi compound: <strong>mada</strong> (joy, intoxication, rapture) + <strong>amada</strong> (non-joy, sobriety). The Self is described as <em>both</em>: it IS joy (the Taittirīya Upanishad declares 'ānando brahmeti — Brahman is bliss') and it TRANSCENDS joy (it is not subject to the fluctuation between elation and depression). How can something be joy and non-joy simultaneously? Because the Self is not the experiential emotion of happiness (which comes and goes) but the <strong>ground of all experience</strong>. It is the bliss that underlies both happiness and unhappiness — the peace that remains unchanged whether the surface is joyful or sorrowful. The closest analogy is the ocean: the surface may be stormy or calm, but the deep water is always still. The Self is that deep stillness — it is not 'happy' in the way a person is happy after good news, but it is the foundational peace from which all experience arises."}
+    ]
+  },
+  {
+    "id": 22,
+    "sk": "अशरीरं शरीरेष्वनवस्थेष्ववस्थितम् | महान्तं विभुमात्मानं मत्वा धीरो न शोचति ||",
+    "ro": "aśarīraṁ · śarīreṣu · anavastheṣu · avasthitam | mahāntaṁ · vibhum · ātmānaṁ · matvā · dhīro · na · śocati ||",
+    "hi": "शरीरों में (रहते हुए भी) शरीररहित, अस्थिर (नाशवान्) शरीरों में स्थित (अचल), उस महान्, सर्वव्यापी आत्मा को जानकर धीर (विवेकी) पुरुष शोक नहीं करता।",
+    "en": "Bodiless among bodies, stable among the unstable — having known the Self as great and all-pervading, the wise one does not grieve.",
+    "ws": [
+      {"s": "अशरीरम् (aśarīram)", "h": "शरीररहित", "e": "bodiless — a+śarīra; without a body; the Self has no physical form"},
+      {"s": "शरीरेषु (śarīreṣu)", "h": "शरीरों में", "e": "among bodies — locative plural; the Self resides in all bodies yet has no body of its own"},
+      {"s": "अनवस्थेषु (anavastheṣu)", "h": "अस्थिर, नश्वर", "e": "in the unstable, impermanent — an+avastha; the bodies are constantly changing"},
+      {"s": "अवस्थितम् (avasthitam)", "h": "स्थिर, स्थित", "e": "firmly established — ava+√sthā; perfectly steady amid the flux"},
+      {"s": "महान्तम् (mahāntam)", "h": "महान्", "e": "great — not in size but in significance and scope"},
+      {"s": "विभुम् (vibhum)", "h": "सर्वव्यापी", "e": "all-pervading — vi+√bhū; present everywhere simultaneously"},
+      {"s": "न शोचति (na śocati)", "h": "शोक नहीं करता", "e": "does not grieve — √śuc; sorrow is eliminated by knowledge"}
+    ],
+    "gr": "<strong>aśarīraṁ śarīreṣu</strong> — 'bodiless among bodies': the paradox is compressed into two words — the Self lives in bodies but IS NOT a body. <strong>anavastheṣu avasthitam</strong> — 'stable among the unstable': another paradox — the bodies change, decay, and die; the Self within them is unchanging. <strong>na śocati</strong> — 'does not grieve': the practical fruit of Self-knowledge — freedom from sorrow.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.22 — The paradoxes (bodiless/in-bodies, stable/among-the-unstable) concisely express the relationship between the unchanging Self and the changing body. The conclusion 'does not grieve' connects metaphysical knowledge to psychological liberation. This echoes the Gita's 'na śocati na kāṅkṣati' (18.54).",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'अशरीरं शरीरेषु' — आत्मा शरीर में है पर शरीर का नहीं, जैसे आकाश घड़े में है पर घड़े का नहीं। शोक अज्ञान का फल है; ज्ञान से शोक का नाश होता है।",
+        "en": "Shankara says 'aśarīraṁ śarīreṣu' — the Self is in the body but not of the body, as space is in the pot but not of the pot. Grief is the fruit of ignorance; knowledge destroys grief.",
+        "ins": "Grief comes from identifying with what changes. Know yourself as the unchanging, and grief has no ground to stand on."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् सब शरीरों में अन्तर्यामी के रूप में हैं पर शरीर की सीमाओं से अछूते हैं। जो इसे जानता है वह शोक करने का कारण नहीं पाता — क्योंकि जो वस्तुतः मरता ही नहीं, उसके लिए शोक क्यों?",
+        "en": "Ramanuja says the Lord is in all bodies as the inner controller but untouched by bodily limitations. One who knows this finds no cause for grief — for why grieve for that which never truly dies?",
+        "ins": "When you know that the soul is untouched by what happens to the body, grief loses its foundation — not by suppression but by understanding."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'अनवस्थेषु अवस्थितम्' में विकास (evolution) का सिद्धान्त देखते हैं — शरीर बदलते हैं (विकसित होते हैं), पर उनके भीतर की चेतना स्थिर और शाश्वत है। 'न शोचति' — मृत्यु का भय विकास का ब्रेक है; ज्ञान उसे हटा देता है।",
+        "en": "Sri Aurobindo reads 'anavastheṣu avasthitam' as reflecting evolution — bodies change (evolve), but the consciousness within them is stable and eternal. 'Na śocati' — the fear of death is evolution's brake; knowledge releases it.",
+        "ins": "The body is a temporary instrument of consciousness — when the instrument is worn out, consciousness takes a new one. There is nothing to grieve in changing instruments."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How does knowing the Self eliminate grief?", "a": "The verse's conclusion — <strong>na śocati</strong> (does not grieve) — is not a moral injunction ('you should not grieve') but a <strong>natural consequence</strong> of knowledge ('you WILL NOT grieve'). Grief arises from perceived loss: 'I have lost someone/something precious.' But if the Self is unborn, undying, bodiless, all-pervading, and eternal (as the preceding verses establish), then what has been 'lost'? The body changes — but you are not the body. The mind suffers — but you are not the mind. Someone dies — but the Self does not die. Grief is the product of a <strong>misidentification</strong>: taking the temporary for the permanent, the body for the Self. When this misidentification is corrected through knowledge, grief dissolves — not because one becomes callous or indifferent, but because the metaphysical basis of grief (the belief that something real has been destroyed) is seen to be false. The wise person may still feel the natural sorrow of parting, but the existential horror of death — 'they are gone forever, and I too will be gone' — evaporates."},
+      {"q": "🔍 What does 'bodiless among bodies' (aśarīraṁ śarīreṣu) mean?", "a": "The phrase <strong>aśarīraṁ śarīreṣu</strong> is a compressed statement of the Self's relationship to embodiment. The Self <em>inhabits</em> bodies but does not <em>possess</em> one — it is <strong>bodiless</strong> (aśarīra) by nature, even while being present <strong>in</strong> bodies (śarīreṣu). Shankara's analogy: <strong>space is in a pot but is not the pot's space</strong>. When the pot breaks, the space inside does not break — it was never the pot's property; it was simply present where the pot happened to be. Similarly, when a body dies, the Self within it is untouched — it was never the body's Self; it was simply present in the body. The further paradox <strong>anavastheṣu avasthitam</strong> (stable among the unstable) deepens this: the bodies are <strong>constantly changing</strong> — growing, aging, decaying — while the Self within them is perfectly still and constant. It is the one unchanging reality in a universe of change."}
+    ]
+  },
+  {
+    "id": 23,
+    "sk": "नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन | यमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम् ||",
+    "ro": "na · ayam · ātmā · pravacanena · labhyo · na · medhayā · na · bahunā · śrutena | yam · eva · eṣa · vṛṇute · tena · labhyas · tasya · eṣa · ātmā · vivṛṇute · tanūṁ · svām ||",
+    "hi": "यह आत्मा न प्रवचन से प्राप्त होता है, न मेधा (बुद्धि) से, न बहुत श्रवण से। जिसे यह (आत्मा) स्वयं चुनता है, उसी को यह प्राप्त होता है — उसके लिए यह आत्मा अपना स्वरूप प्रकट करता है।",
+    "en": "This Self cannot be attained by instruction, nor by intellect, nor by much learning. It is gained only by the one whom it chooses — to such a one the Self reveals its own form.",
+    "ws": [
+      {"s": "प्रवचनेन (pravacanena)", "h": "प्रवचन से, उपदेश से", "e": "by instruction, by discourse — even the best teaching cannot by itself produce realisation"},
+      {"s": "मेधया (medhayā)", "h": "मेधा (बुद्धि) से", "e": "by intelligence, by intellectual power — even the sharpest mind cannot grasp the Self as an object"},
+      {"s": "श्रुतेन (śrutena)", "h": "श्रवण (सुनने) से, शास्त्र-ज्ञान से", "e": "by much hearing/learning — bahunā śrutena: even extensive study of scriptures is insufficient"},
+      {"s": "वृणुते (vṛṇute)", "h": "चुनता है, वरण करता है", "e": "chooses, selects — √vṛ (middle voice); the Self chooses the seeker"},
+      {"s": "विवृणुते (vivṛṇute)", "h": "प्रकट करता है, खोलता है", "e": "reveals, uncovers — vi+√vṛ; the Self unveils its own form"},
+      {"s": "तनूम् स्वाम् (tanūṁ svām)", "h": "अपना शरीर (स्वरूप)", "e": "its own form — tanū (body, form) + svā (own); the Self shows itself as it really is"}
+    ],
+    "gr": "<strong>na pravacanena, na medhayā, na bahunā śrutena</strong> — three negations: not by teaching, not by intellect, not by learning. These deny all conventional means of knowledge. <strong>yam eva eṣa vṛṇute</strong> — 'whom this (Self) chooses': the passive seeker is chosen by the active Self. The verb vṛṇute is middle voice, suggesting the Self acts for its own purpose. <strong>vivṛṇute tanūṁ svām</strong> — 'reveals its own form': the Self does not merely become known but actively <em>unveils</em> itself to the chosen one.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.23 — One of the most quoted and debated verses in Vedantic philosophy. The claim that the Self 'chooses' whom it reveals itself to raises the question of grace vs. effort. This verse appears also in the Mundaka Upanishad (3.2.3) almost identically.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'वृणुते' (चुनता है) का अर्थ है — जो साधक तीव्र मुमुक्षा (मोक्ष की प्रबल इच्छा) से आत्मा को चाहता है, आत्मा उसे चुनती है। यह पारस्परिक है — साधक आत्मा को चुनता है, आत्मा साधक को चुनती है।",
+        "en": "Shankara reads 'vṛṇute' (chooses) as: the Self chooses the seeker who yearns for it with intense mumukṣā (desire for liberation). It is reciprocal — the seeker chooses the Self, and the Self chooses the seeker.",
+        "ins": "Self-realisation is not a one-sided effort — it is a meeting. The seeker reaches toward the Self, and the Self reaches toward the seeker. Neither alone is sufficient."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज के लिए यह श्लोक ईश्वर-कृपा (divine grace) का सर्वोच्च प्रमाण है। भगवान् 'वृणुते' — वे स्वयं चुनते हैं किसे मुक्ति मिलेगी। शरणागति (surrender) ही वह माध्यम है जिससे भगवान् का चुनाव प्राप्त किया जाता है।",
+        "en": "For Ramanuja, this verse is the supreme proof of divine grace (īśvara-kṛpā). The Lord 'vṛṇute' — He Himself chooses whom He will liberate. Śaraṇāgati (surrender) is the means by which the Lord's choice is obtained.",
+        "ins": "Liberation is ultimately a gift, not an achievement. The devotee's role is to surrender completely — the Lord's role is to choose and reveal."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'वृणुते' — आत्मा का 'चुनना' — का अर्थ है कि चेतना का उच्चतर स्तर (Higher Self) निम्नतर स्तर (surface self) को तब स्वीकार करता है जब वह तैयार होता है। यह कृपा नहीं, चेतना की प्राकृतिक प्रक्रिया है।",
+        "en": "Sri Aurobindo says 'vṛṇute' — the Self's 'choosing' — means the higher consciousness (Higher Self) accepts the lower self (surface self) when it is ready. This is not arbitrary grace but the natural process of consciousness.",
+        "ins": "The Self does not randomly choose favourites — it reveals itself to consciousness that has prepared itself to receive the revelation. Readiness IS the grace."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Does the Self really 'choose' some people and reject others?", "a": "The phrase <strong>'yam eva eṣa vṛṇute tena labhyaḥ'</strong> ('it is gained only by the one whom it chooses') has generated centuries of debate. Does it mean the Self is arbitrary, favouring some and ignoring others? The three traditions offer different readings. <strong>Shankara</strong> resolves the apparent arbitrariness: the Self 'chooses' the one who has made themselves ready through viveka, vairāgya, and intense mumukṣā. The choosing is mutual — the seeker's intense longing <em>is</em> the Self's response. <strong>Ramanuja</strong> takes the choosing literally: it is the Lord's grace, freely given — but the Lord is not arbitrary; He responds to the devotee's surrender (prapatti). <strong>Aurobindo</strong> reads it as a natural process: the higher consciousness descends when the lower consciousness is ready to receive it, like water flowing to the lowest point. All three agree on one thing: <em>it cannot be forced by intellectual effort alone</em>. The three negations (no instruction, no intellect, no learning) make this clear — the standard means of knowledge are necessary but not sufficient. Something more is needed: call it grace, readiness, or the ripeness of the soul."},
+      {"q": "🔍 What does 'vivṛṇute tanūṁ svām' (reveals its own form) mean?", "a": "The phrase <strong>vivṛṇute tanūṁ svām</strong> is extraordinary: the Self <em>reveals its own body/form</em> (tanū = body, form; svām = its own). This means Self-knowledge is not constructed by the mind but <strong>shown by the Self itself</strong>. The verb <strong>vivṛṇute</strong> (from vi+√vṛ, 'to uncover') means 'unveils' — like removing a cloth from a sculpture. The sculpture was always there; the unveiling does not create it but makes it visible. This has profound implications for the epistemology of Self-knowledge: (1) The Self is not an <em>object</em> of knowledge that the mind grasps — it is a <em>subject</em> that reveals itself. (2) The revelation is of the Self's <em>own form</em> (svām tanūm) — not a description, concept, or image, but the Self as it actually is. (3) The process is active on the Self's side — the Self is not passive data waiting to be processed; it is a living reality that <em>shows itself</em> when conditions are right. This is why all the great Upanishadic teachers say that Self-knowledge is fundamentally different from all other knowledge — it is not acquisition but revelation."}
+    ]
+  },
+  {
+    "id": 24,
+    "sk": "नाविरतो दुश्चरितान्नाशान्तो नासमाहितः | नाशान्तमानसो वाऽपि प्रज्ञानेनैनमाप्नुयात् ||",
+    "ro": "na · avirataḥ · duścaritāt · na · aśānto · na · asamāhitaḥ | na · aśāntamānaso · vā · api · prajñānena · enam · āpnuyāt ||",
+    "hi": "जो दुराचार से विरत नहीं हुआ, जो शान्त नहीं है, जो समाहित (एकाग्र) नहीं है, जिसका मन शान्त नहीं है — वह प्रज्ञान (ज्ञान) से भी इस (आत्मा) को नहीं पा सकता।",
+    "en": "One who has not turned away from bad conduct, who is not tranquil, who is not concentrated, whose mind is not at peace — such a one cannot attain this (Self) even through knowledge.",
+    "ws": [
+      {"s": "अविरतः (avirataḥ)", "h": "विरत न हुआ, न रुका हुआ", "e": "not ceased, not turned away — a+virata; one who has not stopped wrongdoing"},
+      {"s": "दुश्चरितात् (duścaritāt)", "h": "दुराचार से", "e": "from bad conduct — duś+carita; unethical behaviour"},
+      {"s": "अशान्तः (aśāntaḥ)", "h": "अशान्त", "e": "not tranquil — the senses are not subdued"},
+      {"s": "असमाहितः (asamāhitaḥ)", "h": "असमाहित, एकाग्र नहीं", "e": "not concentrated — a+samāhita; the mind is scattered"},
+      {"s": "अशान्तमानसः (aśāntamānasaḥ)", "h": "जिसका मन अशान्त है", "e": "whose mind is not at peace — aśānta (unpeaceful) + mānasa (mind)"},
+      {"s": "प्रज्ञानेन (prajñānena)", "h": "प्रज्ञान (ज्ञान) से", "e": "by knowledge, by wisdom — even knowledge is insufficient without the proper inner state"}
+    ],
+    "gr": "<strong>na avirataḥ duścaritāt</strong> — four negations specify what disqualifies: (1) not turned from bad conduct, (2) not tranquil, (3) not concentrated, (4) mind not at peace. Each targets a different level: ethics, senses, intellect, mind. <strong>prajñānena enam āpnuyāt</strong> — 'could attain this through knowledge': even knowledge (prajñāna) is powerless when the four prerequisites are absent.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.24 — This verse establishes the ethical and psychological prerequisites for Self-knowledge. It balances verse 23 (the Self chooses) with concrete requirements: right conduct, sensory calm, mental concentration, inner peace. Knowledge without these prerequisites is barren.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह श्लोक साधन-चतुष्टय (चार योग्यताएँ) को संक्षेप में बताता है: शम (इन्द्रिय-निग्रह), दम (मन-निग्रह), उपरति (विषय-त्याग), समाधान (चित्त-एकाग्रता)। बिना इनके शास्त्र-ज्ञान भी मुक्ति नहीं दे सकता।",
+        "en": "Shankara says this verse summarises the sādhana-catuṣṭaya (four qualifications): śama (sense-control), dama (mind-control), uparati (withdrawal), samādhāna (concentration). Without these, even scriptural knowledge cannot liberate.",
+        "ins": "Knowledge is the lamp, but the prerequisites are the steady hand that holds it. Without ethical discipline and mental calm, even the brightest lamp flickers and fails to illuminate."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् उसी को चुनते हैं जो आचरण में शुद्ध है, मन में शान्त है, और हृदय में एकाग्र है। ये गुण शरणागति के अंग हैं — भगवान् की कृपा इन्हीं को मिलती है।",
+        "en": "Ramanuja says the Lord chooses one who is pure in conduct, peaceful in mind, and concentrated in heart. These qualities are aspects of surrender — the Lord's grace comes to those who possess them.",
+        "ins": "Grace is not random — it flows to prepared hearts. The preparation is ethical living, inner tranquillity, and focused devotion."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द इसमें साधना के व्यावहारिक पक्ष को देखते हैं — आध्यात्मिक ज्ञान बौद्धिक जानकारी नहीं, चेतना का रूपान्तरण है। रूपान्तरण के लिए अन्तःकरण की शुद्धि, शान्ति, और एकाग्रता अनिवार्य है।",
+        "en": "Sri Aurobindo sees the practical side of sādhana — spiritual knowledge is not intellectual information but transformation of consciousness. For transformation, purification, peace, and concentration of the inner being are indispensable.",
+        "ins": "You cannot pour clarity into a turbulent vessel. The mind must be stilled, the conduct purified, the attention gathered — only then can the truth of the Self be received."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What are the four prerequisites for Self-knowledge according to this verse?", "a": "The verse specifies four disqualifications, which imply four <em>prerequisites</em>: (1) <strong>Virati from duścarita</strong> — cessation of bad conduct. The seeker must live ethically; otherwise the mind is too disturbed by guilt, fear, and their consequences to settle into contemplation. (2) <strong>Śānti</strong> — tranquillity of the senses. The senses must be withdrawn from their habitual pursuit of objects — not suppressed violently but naturally quieted. (3) <strong>Samādhāna</strong> — concentration, one-pointedness. The intellect must be able to hold a single thought or inquiry steadily without scattering. (4) <strong>Śāntamānasa</strong> — peace of mind. The deepest layer: the mind itself must be at peace, free from anxiety, desire, and agitation. These four form a progression from the coarsest (external behaviour) to the subtlest (internal peace). They correspond roughly to the sādhana-catuṣṭaya of classical Vedanta and to the first four limbs of Patañjali's yoga (yama, niyama, āsana, prāṇāyāma — ethics, discipline, stability, breath-control)."},
+      {"q": "🔍 Why can knowledge (prajñāna) alone not lead to realisation?", "a": "The verse makes a startling claim: <strong>even knowledge (prajñāna) is insufficient</strong> without ethical and psychological preparation. This seems to contradict the Advaitic principle that 'knowledge alone liberates' (jñānād eva kaivalyam). The resolution: <strong>prajñāna</strong> here means theoretical, intellectual knowledge — understanding the teaching conceptually. The Upanishad is saying that <em>understanding</em> is not the same as <em>realising</em>. A person may read every Upanishad, master every argument, and still not attain Self-knowledge — because Self-knowledge is not a thought but a <strong>state of being</strong>. The prerequisites (ethics, calm, concentration, inner peace) do not <em>produce</em> knowledge; they remove the <em>obstacles</em> to it. The Self is already present and self-luminous (svayam-prakāśa) — what hides it is the turbulence of the unethical, agitated, scattered mind. Clear the turbulence, and the Self shines of its own accord. The prerequisites are not additional requirements but the removal of obstructions — like clearing clouds from the sun."}
+    ]
+  },
+  {
+    "id": 25,
+    "sk": "यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः | मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ||",
+    "ro": "yasya · brahma · ca · kṣatraṁ · ca · ubhe · bhavataḥ · odanaḥ | mṛtyuḥ · yasya · upasecanaṁ · ka · itthā · veda · yatra · saḥ ||",
+    "hi": "जिसके लिए ब्राह्मण और क्षत्रिय दोनों भात (भोजन) के समान हैं, और मृत्यु जिसकी चटनी (उपसेचन) है — भला कौन जानता है कि वह (आत्मा) कहाँ है?",
+    "en": "For whom the Brahmin and the warrior are both like food, and Death itself is a condiment — who then truly knows where that (Self) is?",
+    "ws": [
+      {"s": "ब्रह्म (brahma)", "h": "ब्राह्मण वर्ण, ब्राह्मण शक्ति", "e": "the Brahmin class, priestly power — represents spiritual authority"},
+      {"s": "क्षत्रम् (kṣatram)", "h": "क्षत्रिय वर्ण, राज-शक्ति", "e": "the warrior class, temporal power — represents political authority"},
+      {"s": "ओदनः (odanaḥ)", "h": "भात, अन्न", "e": "boiled rice, food — the Brahmin and Kshatriya are mere food for this power"},
+      {"s": "उपसेचनम् (upasecanam)", "h": "चटनी, व्यंजन, अनुपान", "e": "condiment, sauce — something taken alongside the main food; Death is 'side-dish'"},
+      {"s": "मृत्युः (mṛtyuḥ)", "h": "मृत्यु", "e": "Death — even Death is consumed by this power"},
+      {"s": "इत्था (itthā)", "h": "इस प्रकार, वास्तव में", "e": "thus, truly — in this manner, as things really are"}
+    ],
+    "gr": "<strong>brahma ca kṣatraṁ ca ubhe odanaḥ</strong> — 'Brahmin and warrior both are food': the two most powerful classes of Vedic society are mere nourishment for the Self/Brahman. <strong>mṛtyuḥ upasecanam</strong> — 'Death is a condiment': the most terrifying force in existence is reduced to a side-dish. <strong>ka itthā veda yatra saḥ</strong> — 'who truly knows where it is?': a rhetorical question expressing the Self's unfathomable transcendence.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.2.25 — The closing verse of Valli 2 ends with the most awe-inspiring image in the Katha: Death itself is a condiment for the Self. This is spoken by Yama — Death himself — who admits that even he is 'consumed' by the reality he is teaching about. The verse also appears in the Taittiriya Upanishad (2.8) and Brihadaranyaka Upanishad (5.2.2).",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'ब्रह्म' और 'क्षत्र' सम्पूर्ण सृष्टि का प्रतीक हैं — आध्यात्मिक शक्ति और सांसारिक शक्ति दोनों ब्रह्म द्वारा 'खायी' जाती हैं, अर्थात् ब्रह्म में विलीन होती हैं। मृत्यु स्वयं ब्रह्म में विलीन है — मृत्यु भी मरती है।",
+        "en": "Shankara reads 'brahma' and 'kṣatra' as symbols of the entire creation — spiritual and worldly power are both 'consumed' by Brahman, i.e., dissolved into Brahman. Death itself dissolves into Brahman — even Death dies.",
+        "ins": "The ultimate reality devours everything — including death. When you know the Self, death loses its power because even Death is food for what you truly are."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् ही वह शक्ति हैं जिसके लिए सम्पूर्ण सृष्टि और मृत्यु भी भोजन-मात्र हैं। 'क इत्था वेद' — भगवान् की महिमा अगम्य है; केवल भक्ति से ही कुछ जाना जा सकता है।",
+        "en": "Ramanuja says the Lord is the power for whom the entire creation and even Death are mere food. 'Ka itthā veda' — the Lord's glory is unfathomable; only through devotion can something be known.",
+        "ins": "The Lord's power makes even Death a trifle. When you take refuge in such a Lord, what remains to fear?"
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द इसमें चेतना की सर्वोच्च शक्ति देखते हैं — जो शक्ति ब्राह्मण और क्षत्रिय को 'खा' सकती है और मृत्यु को चटनी बना सकती है, वह भौतिक, प्राणिक, और मानसिक सभी स्तरों से परे है।",
+        "en": "Sri Aurobindo sees the supreme power of consciousness — the power that can 'consume' both spiritual and temporal authority and make Death a condiment transcends the physical, vital, and mental planes.",
+        "ins": "The ultimate consciousness is not afraid of death — it eats death for breakfast. This is not poetic exaggeration but a description of the supramental reality."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does it mean that Death is a 'condiment' (upasecana)?", "a": "The image of <strong>Death as upasecana</strong> (condiment, sauce, side-dish) is one of the most powerful in all Upanishadic literature. Consider the context: <strong>Yama, the Lord of Death, is speaking</strong>. He is telling Nachiketa about a reality so vast that even <em>he himself</em> — Death — is reduced to a condiment, a mere accompaniment to the main course. The main 'food' (odana) is the two most powerful forces in Vedic society: <strong>brahma</strong> (spiritual power) and <strong>kṣatra</strong> (temporal power). Together they represent everything that exists — religion and politics, temple and throne, priest and king. For the Self/Brahman, ALL of this is merely food — consumed, digested, absorbed. And Death? Death is not even the main dish — it is the <strong>side sauce</strong>. The implications are staggering: the most feared force in existence is trivial compared to the reality being described. When you know the Self, you do not merely 'overcome' death — you discover that death was always a minor detail in the larger scheme."},
+      {"q": "🔍 Why does Valli 2 end with a question ('who knows where it is?')?", "a": "The closing question <strong>'ka itthā veda yatra saḥ'</strong> ('who truly knows where it is?') is deliberately open-ended. After an entire valli of teaching about the Self — its nature, its attributes, the means to know it — Yama ends with <em>a confession of the Self's ultimate unknowability</em>. This is not a contradiction but a statement of humility before the infinite. The Self has been described as 'subtler than the subtle, greater than the great,' 'bodiless among bodies,' 'neither born nor dying' — but these are all descriptions from the outside. The question 'who truly knows where it is?' points to the fact that the Self cannot be <em>located</em> (yatra = where) because it is not in space, and it cannot be fully <em>known</em> by an external knower because it IS the knower. The verse creates a productive tension: Yama has taught everything he can teach in words, and now the student must go beyond words to direct experience. The question is not despair but an invitation — it is the finger pointing at the moon, after which the student must look for themselves."}
+    ]
+  }
+]
