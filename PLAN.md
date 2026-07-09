@@ -19,7 +19,7 @@ Commit and push the new JSON file when done.
 | # | Upanishad | Total Mantras | Structure | Status |
 |---|---|---|---|---|
 | 1 | Isha | 18 | 1 section | ✅ In app (complete) |
-| 2 | Kena | ~35 | 4 Parts | ⚠️ Parts 2–4 pending (1–4 in app) |
+| 2 | Kena | ~35 | 4 Parts | ✅ All JSON done (1–4 in app, 5–35 in content/) |
 | 3 | Katha | ~119 | 6 Vallis | ❌ Not started |
 | 4 | Prashna | ~67 | 6 Questions | ❌ Not started |
 | 5 | Mundaka | ~64 | 6 Khandas | ❌ Not started |
@@ -36,15 +36,15 @@ Commit and push the new JSON file when done.
 ### Kena (ids 1–35, app already has 1–4)
 | File | Mantras | Content | Status |
 |---|---|---|---|
-| `content/kena_p1b.json` | 5–8 | Verse section Part 1 remainder (paradox of knowing, immortality) | ⏳ NEXT |
-| `content/kena_p2.json` | 9–16 | Prose Part 2 — Brahman's victory; Yaksha tests Agni & Vayu | ❌ PENDING |
-| `content/kena_p3.json` | 17–28 | Prose Part 3 — Indra approaches; Uma Haimavati teaches | ❌ PENDING |
-| `content/kena_p4.json` | 29–35 | Prose Part 4 — conclusion, lightning metaphor, teaching | ❌ PENDING |
+| `content/kena_p1b.json` | 5–8 | Verse section Part 1 remainder (paradox of knowing, immortality) | ✅ DONE |
+| `content/kena_p2.json` | 9–16 | Prose Part 2 — Brahman's victory; Yaksha tests Agni & Vayu | ✅ DONE |
+| `content/kena_p3.json` | 17–28 | Prose Part 3 — Indra approaches; Uma Haimavati teaches | ✅ DONE |
+| `content/kena_p4.json` | 29–35 | Prose Part 4 — conclusion, lightning metaphor, teaching | ✅ DONE |
 
 ### Katha (ids 1–119)
 | File | Mantras | Content | Status |
 |---|---|---|---|
-| `content/katha_1_1.json` | 1–29 | Adhyaya 1 Valli 1 — Nachiketa's three boons | ❌ PENDING |
+| `content/katha_1_1.json` | 1–29 | Adhyaya 1 Valli 1 — Nachiketa's three boons | ⏳ NEXT |
 | `content/katha_1_2.json` | 1–25 | Adhyaya 1 Valli 2 — What is beyond the senses | ❌ PENDING |
 | `content/katha_1_3.json` | 1–17 | Adhyaya 1 Valli 3 — Chariot metaphor, self-knowledge | ❌ PENDING |
 | `content/katha_2_1.json` | 1–15 | Adhyaya 2 Valli 1 — The city of eleven gates | ❌ PENDING |
