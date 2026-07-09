@@ -400,5 +400,763 @@
       {"q": "🔍 Why does Nachiketa ask about his father first, before anything cosmic?", "a": "This is one of the most humanly touching moments in all the Upanishads. Nachiketa is standing before Death itself, granted three wishes — and his first thought is: <em>let my father not be angry at me</em>. The boy does not ask for personal gain, cosmic power, or even spiritual knowledge first. He asks for <strong>reconciliation</strong>. This reveals the Upanishad's understanding of spiritual hierarchy: the foundation of all knowledge is right relationship. A seeker carrying unresolved human pain cannot receive the highest teaching — the pain would distort the reception. Nachiketa clears the emotional ground before building the spiritual edifice."},
       {"q": "🔍 What do the three descriptors (śānta-saṁkalpa, su-manā, vīta-manyu) tell us?", "a": "Nachiketa asks for three specific states in his father: <strong>śānta-saṁkalpa</strong> (calm intention — the deep mind at rest), <strong>su-manā</strong> (good mind, cheerful — the emotional surface at peace), and <strong>vīta-manyu</strong> (anger departed — the reactive layer dissolved). These three map the layers of the mind: intention (saṁkalpa), mood (manas), and passion (manyu). Nachiketa wants healing at all three levels — not just outward civility but deep inner peace in his father. This precision shows the boy's psychological maturity: he knows that surface politeness without inner calm is hollow, just as his father's sacrifice was hollow."}
     ]
+  },
+  {
+    "id": 11,
+    "sk": "यथा पुरस्ताद्भविता प्रतीत औद्दालकिरारुणिर्मत्प्रसृष्टः | सुखं रात्रीः शयिता वीतमन्युः त्वां ददृशिवान्मृत्युमुखात्प्रमुक्तम् ||",
+    "ro": "yathā · purastād · bhavitā · pratīta · auddālakir · āruṇir · mat·prasṛṣṭaḥ | sukhaṁ · rātrīḥ · śayitā · vīta·manyuḥ · tvāṁ · dadṛśivān · mṛtyu·mukhāt · pramuktam ||",
+    "hi": "यम बोले: 'जैसा पहले था, वैसा ही तेरा पिता औद्दालकि आरुणि मेरी अनुमति से प्रसन्न होगा। वह क्रोधरहित होकर रात्रियों में सुखपूर्वक सोयेगा — तुझे मृत्यु के मुख से मुक्त हुआ देखकर।'",
+    "en": "Yama said: 'As before, your father Auddalaki Aruni, released by me, will be at peace. He will sleep happily through the nights, free from anger, having seen you freed from the jaws of Death.'",
+    "ws": [
+      {"s": "पुरस्तात् (purastāt)", "h": "पहले जैसा", "e": "as before — adverb: the father will return to his prior affectionate state"},
+      {"s": "औद्दालकिः आरुणिः (auddālakiḥ āruṇiḥ)", "h": "उद्दालक आरुणि के पुत्र", "e": "son of Uddalaka Aruni — the father's full patronymic lineage"},
+      {"s": "मत्प्रसृष्टः (matprasṛṣṭaḥ)", "h": "मेरे द्वारा अनुमत/छोड़ा हुआ", "e": "released by me — mat (from me) + prasṛṣṭa (sent forth, permitted)"},
+      {"s": "ददृशिवान् (dadṛśivān)", "h": "देखकर", "e": "having seen — perfect active participle of √dṛś ('to see'); the father will have the experience of seeing"},
+      {"s": "मृत्युमुखात् प्रमुक्तम् (mṛtyumukhāt pramuktam)", "h": "मृत्यु के मुख से छूटा हुआ", "e": "freed from the mouth of Death — a vivid image: Nachiketa was 'in Death's jaws' and is now released"}
+    ],
+    "gr": "<strong>auddālakir āruṇiḥ</strong> — double patronymic: 'Auddalaki' (descendant of Uddalaka) and 'Aruni' (descendant of Aruna). This formal naming grants the father dignity even in his error. <strong>mṛtyumukhāt pramuktam</strong> — 'freed from Death's mouth': the most vivid phrase — Nachiketa was literally inside Death's domain, and Yama releases him. <strong>sukhaṁ rātrīḥ śayitā</strong> — 'will sleep happily through the nights': the specific mention of restful sleep shows Yama understands that the father's guilt has been destroying his rest.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.11 — Yama grants the first boon generously. The father will be restored to his original loving state — anger dissolved, guilt removed, sleep restored. The phrase 'freed from the mouth of Death' is both literal and symbolic.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि प्रथम वरदान शीघ्रता से दिया गया — यम को इसमें कोई कठिनाई नहीं। लौकिक समस्याओं का समाधान मृत्यु के लिए सरल है। कठिनाई तीसरे वरदान में आयेगी — जहाँ नचिकेता मृत्यु से परे का प्रश्न पूछेगा।",
+        "en": "Shankara notes the first boon is granted swiftly — Yama finds no difficulty. Worldly problems are easy for Death. The difficulty will come with the third boon — where Nachiketa will ask what lies beyond death.",
+        "ins": "Death can solve worldly problems effortlessly. It is the question about death itself that Death struggles to answer."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "यम की उदारता भगवान् की कृपा का प्रतिबिम्ब है। भगवान् सबसे पहले भक्त के लौकिक दुःख दूर करते हैं — फिर उसे उच्चतर ज्ञान की ओर ले जाते हैं।",
+        "en": "Yama's generosity reflects the Lord's grace. The Lord first removes the devotee's worldly suffering — then leads to higher knowledge.",
+        "ins": "Grace operates in stages: first healing, then teaching, then liberation."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द कहते हैं कि बाह्य सम्बन्धों की शान्ति आन्तरिक अन्वेषण की पूर्वशर्त है। यम इसे तुरन्त प्रदान करता है क्योंकि यह चेतना के निम्न स्तर का कार्य है — सच्ची चुनौती आगे है।",
+        "en": "Aurobindo says peace in outer relationships is the precondition for inner exploration. Yama grants it instantly because this operates at a lower level of consciousness — the real challenge lies ahead.",
+        "ins": "The outer life must be settled before the inner journey can truly begin."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'freed from the mouth of Death' (mṛtyumukhāt pramuktam) mean?", "a": "The phrase <strong>mṛtyu-mukhāt pramuktam</strong> — 'released from Death's mouth' — is extraordinarily vivid. It imagines Death as a creature that has swallowed Nachiketa, and now disgorges him. This is not mere metaphor — in the story, Nachiketa has literally been 'given to Death' by his father and has spent three days in Yama's domain. The release is physical and spiritual: the boy returns from death's realm to the living world. But the phrase also foreshadows the Upanishad's ultimate teaching: the Self was never truly 'in Death's mouth' — the Self is immortal. The release from Death's jaws is not an escape but a recognition that Death never truly held the Self at all."},
+      {"q": "🔍 Why is restful sleep (sukhaṁ rātrīḥ śayitā) specifically mentioned?", "a": "Yama promises that the father will <strong>'sleep happily through the nights'</strong> — a strikingly specific detail. This implies the father has been unable to sleep since sending his son to Death. Guilt, anger, and grief have destroyed his rest. In Vedic and Upanishadic psychology, sleep is the barometer of inner peace — one who cannot sleep is at war with himself. Yama's promise addresses the deepest consequence of the father's curse: not just anger but the self-torment that follows rash words. The restored sleep symbolises complete inner reconciliation — not just civility toward the returning son but genuine peace with what happened."}
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "स्वर्गे लोके न भयं किंचनास्ति न तत्र त्वं न जरया बिभेति | उभे तीर्त्वाशनायापिपासे शोकातिगो मोदते स्वर्गलोके ||",
+    "ro": "svarge · loke · na · bhayaṁ · kiñcanāsti · na · tatra · tvaṁ · na · jarayā · bibheti | ubhe · tīrtvā · aśanāyā · pipāse · śokātigo · modate · svarga·loke ||",
+    "hi": "नचिकेता बोला: 'स्वर्गलोक में किसी भी प्रकार का भय नहीं है। वहाँ न आप (मृत्यु) हैं, न वृद्धावस्था का डर। भूख और प्यास दोनों से परे, शोक से अतीत होकर, स्वर्गलोक में आनन्दित होता है।'",
+    "en": "'In the heavenly world there is no fear whatsoever. You (Death) are not there; no one fears old age. Having crossed beyond both hunger and thirst, beyond sorrow, one rejoices in the heavenly world.'",
+    "ws": [
+      {"s": "न भयम् किञ्चन (na bhayaṁ kiñcana)", "h": "किसी प्रकार का भी भय नहीं", "e": "no fear whatsoever — emphatic negation: kiñcana (of any kind at all)"},
+      {"s": "न तत्र त्वम् (na tatra tvam)", "h": "वहाँ आप नहीं हैं", "e": "'You are not there' — Nachiketa addresses Death directly: in heaven, Death is absent"},
+      {"s": "जरया बिभेति (jarayā bibheti)", "h": "वृद्धावस्था से भयभीत होता है", "e": "fears old age — jarā (old age) + bibheti (fears, 3rd sg. of √bhī)"},
+      {"s": "अशनाया पिपासे (aśanāyā pipāse)", "h": "भूख और प्यास", "e": "hunger and thirst — the two primal bodily drives, absent in heaven"},
+      {"s": "शोकातिगः (śokātigaḥ)", "h": "शोक से परे", "e": "beyond sorrow — śoka (grief) + atiga (one who has gone beyond)"}
+    ],
+    "gr": "<strong>na tatra tvam</strong> — 'You are not there': Nachiketa tells Death to its face that heaven is defined by Death's absence. The boldness is remarkable for a child. <strong>ubhe tīrtvā aśanāyā pipāse</strong> — 'having crossed beyond both hunger and thirst': the dual 'ubhe' refers to the pair; tīrtvā (absolutive of √tṝ, 'to cross') uses the river-crossing metaphor. <strong>modate svarga-loke</strong> — 'rejoices in the heavenly world': modate (enjoys, delights) is middle voice — the enjoyment is self-directed, inward.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.12 — The second boon begins. Nachiketa describes heaven as the absence of death, old age, hunger, thirst, and sorrow — and asks for the fire-knowledge that leads there. This boon is 'higher' than the first (cosmic rather than personal) but still within the realm of desire.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि स्वर्ग — जहाँ मृत्यु नहीं, जरा नहीं, शोक नहीं — फिर भी अनित्य है। स्वर्ग-सुख समाप्त होता है और जीव पुनः लौटता है। नचिकेता का दूसरा वरदान इसी अनित्य सुख के लिए है — सच्चा ज्ञान तीसरे वरदान में आयेगा।",
+        "en": "Shankara says heaven — where there is no death, no old age, no sorrow — is still impermanent. Heavenly joy ends and the soul returns. Nachiketa's second boon is for this impermanent joy — true knowledge will come with the third boon.",
+        "ins": "Heaven is the highest reward of desire, but it is still within the realm of the finite. Liberation (mokṣa) is beyond even heaven."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि स्वर्ग भगवान् के निकट होने का एक स्तर है — शोक, भय और मृत्यु से परे। किन्तु परमपद (वैकुण्ठ) स्वर्ग से भी ऊँचा है — वहाँ पुनरावृत्ति नहीं।",
+        "en": "Ramanuja says heaven is one level of proximity to the Lord — beyond sorrow, fear, and death. But Paramapada (Vaikuṇṭha) is higher than heaven — there is no return from there.",
+        "ins": "Heaven is a station, not the destination. The soul's true home is the Lord's eternal abode."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द स्वर्ग को चेतना की एक उच्चतर अवस्था मानते हैं — जहाँ भौतिक सीमाएँ (भूख, प्यास, जरा, मृत्यु) अनुपस्थित हैं। किन्तु यह अभी भी मानसिक स्वर्ग है — अतिमानसिक सत्य नहीं। नचिकेता का तीसरा वरदान उससे आगे जायेगा।",
+        "en": "Aurobindo reads heaven as a higher state of consciousness where physical limitations (hunger, thirst, old age, death) are absent. But this is still a mental heaven — not the supramental truth. Nachiketa's third boon will go beyond.",
+        "ins": "The heavenly consciousness is luminous but still bounded. The supramental truth includes and transforms the heavenly rather than merely escaping the earthly."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Nachiketa tell Death 'You are not there' (na tatra tvam)?", "a": "This is one of the boldest statements in the Upanishads: a child tells Death to its face that heaven is defined by Death's absence. The phrase <strong>na tatra tvam</strong> functions at multiple levels: (1) <em>literal</em> — in heaven, mortality does not exist; (2) <em>rhetorical</em> — by defining heaven as Death's absence, Nachiketa implicitly asks: 'If you know the way to a realm where you yourself cannot go, teach me that way'; (3) <em>foreshadowing</em> — the third boon will ask about something even beyond heaven: the Self that transcends both death and the absence of death."},
+      {"q": "🔍 How does the second boon differ from the first and third?", "a": "The three boons map a hierarchy: <strong>First</strong> (personal/social) — restore my father's love; <strong>Second</strong> (cosmic/ritual) — teach me the fire that leads to heaven; <strong>Third</strong> (ultimate/metaphysical) — what happens after death? The second boon occupies the middle position — it is about cosmic knowledge (the Nachiketa fire ritual) but still within the framework of desire (wanting heaven). It is 'higher' than family reconciliation but 'lower' than Self-knowledge. This structural progression mirrors the Vedic hierarchy: kāmya-karma (desire-driven ritual) → upāsanā (meditation/worship) → jñāna (knowledge). Nachiketa climbs the ladder from the bottom, showing the Upanishad's acknowledgment that most seekers begin with desire and only gradually arrive at the desireless question."}
+    ]
+  },
+  {
+    "id": 13,
+    "sk": "स त्वमग्निं स्वर्ग्यमध्येषि मृत्यो प्रब्रूहि त्वं श्रद्दधानाय मह्यम् | स्वर्गलोका अमृतत्वं भजन्त एतद्द्वितीयेन वृणे वरेण ||",
+    "ro": "sa · tvam · agniṁ · svargyam · adhyeṣi · mṛtyo · prabrūhi · tvaṁ · śraddadhānāya · mahyam | svarga·lokā · amṛtatvaṁ · bhajanta · etad · dvitīyena · vṛṇe · vareṇa ||",
+    "hi": "'आप उस अग्नि को जानते हैं जो स्वर्ग की ओर ले जाती है, हे मृत्यो! श्रद्धावान् मुझे उसे बताइए। स्वर्गवासी अमृतत्व को प्राप्त होते हैं — यही मैं दूसरे वरदान में माँगता हूँ।'",
+    "en": "'You know the fire that leads to heaven, O Death. Teach it to me who am full of faith. The inhabitants of heaven enjoy immortality. This I choose as my second boon.'",
+    "ws": [
+      {"s": "अध्येषि (adhyeṣi)", "h": "आप जानते हैं", "e": "you know — 2nd sg. present of adhi+√i ('to study, know thoroughly')"},
+      {"s": "श्रद्दधानाय (śraddadhānāya)", "h": "श्रद्धावान् को, विश्वासी को", "e": "to the faithful one — dative present participle of śrad+√dhā ('to place faith'); 'to me who has faith'"},
+      {"s": "अमृतत्वम् (amṛtatvam)", "h": "अमरत्व, अमृत-भाव", "e": "immortality — amṛta (deathless) + -tva (state of); the condition of being beyond death"},
+      {"s": "भजन्ते (bhajante)", "h": "प्राप्त होते हैं, भोगते हैं", "e": "they partake of, enjoy — present middle of √bhaj ('to share, enjoy')"},
+      {"s": "द्वितीयेन वरेण (dvitīyena vareṇa)", "h": "दूसरे वरदान से", "e": "as the second boon — instrumental: 'by means of the second boon'"}
+    ],
+    "gr": "<strong>sa tvam agniṁ svargyam adhyeṣi</strong> — 'You yourself know the heavenly fire': the emphasis on 'tvam' (you) acknowledges Yama's unique authority — as the son of the Sun and lord of the departed, he knows the path to heaven. <strong>śraddadhānāya mahyam</strong> — 'to me who has faith': Nachiketa's self-description echoes mantra 2 where śraddhā entered him. He presents himself as a qualified student. <strong>dvitīyena vṛṇe vareṇa</strong> — the formal language of boon-selection.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.13 — Nachiketa formally requests the second boon: knowledge of the Nachiketa fire. He appeals both to Yama's knowledge (you know this fire) and to his own qualification (I am faithful). The verse introduces the theme of amṛtatva (immortality) that will dominate the rest of the Upanishad.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर बताते हैं कि 'अमृतत्वम्' यहाँ सापेक्ष अमरत्व है — स्वर्ग की दीर्घ आयु, जो अन्ततः समाप्त होती है। तृतीय वरदान में पूछा जाने वाला 'अमृतत्व' पूर्ण और शाश्वत होगा।",
+        "en": "Shankara clarifies that 'amṛtatva' here is relative immortality — the long life of heaven, which eventually ends. The 'immortality' asked about in the third boon will be absolute and eternal.",
+        "ins": "There are degrees of immortality. Heaven's deathlessness is long duration; the Self's deathlessness is beyond time entirely."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज श्रद्धा पर बल देते हैं — 'श्रद्दधानाय' — नचिकेता कहता है 'मुझमें श्रद्धा है।' भगवान् श्रद्धावान् को ही ज्ञान देते हैं; शुष्क बुद्धिवाद ज्ञान का पात्र नहीं।",
+        "en": "Ramanuja emphasises faith — 'śraddadhānāya' — Nachiketa declares 'I have faith.' The Lord gives knowledge only to the faithful; dry intellectualism is not a vessel for knowledge.",
+        "ins": "Faith is not the absence of reason but the presence of trust. Only the trusting heart can receive the deepest teachings."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द अग्नि को रूपान्तरण की शक्ति मानते हैं। 'स्वर्ग्य अग्नि' वह शक्ति है जो भौतिक चेतना को उच्चतर स्तर पर ले जाती है। नचिकेता इस रूपान्तरण-शक्ति का ज्ञान माँग रहा है।",
+        "en": "Aurobindo reads the fire as the power of transformation. The 'heavenly fire' is the power that lifts physical consciousness to a higher level. Nachiketa is asking for knowledge of this transformative power.",
+        "ins": "The Nachiketa fire is the aspiration that transforms the mortal into the immortal — not by destroying the mortal but by lifting it."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the 'heavenly fire' (agni svargya) that Nachiketa asks about?", "a": "The <strong>Nachiketa fire</strong> (Nāciketāgni) is a specific fire-ritual (agni-vidyā) that Yama teaches. In the Vedic context, it involves building a fire-altar with specific bricks in specific numbers — a ritual technology for ascending to the heavenly world. But the Upanishad transforms this ritual into a symbol: the 'fire' is the inner aspiration that burns away mortality and lifts consciousness toward the immortal. The Taittiriya Brahmana describes a three-fold fire (tri-Nāciketa) that must be built three times — the repetition signifying thoroughness. Yama will teach both the outer ritual and its inner meaning."},
+      {"q": "🔍 Why does Nachiketa emphasise his faith (śraddadhānāya)?", "a": "In the Vedic teaching tradition, the student must declare their qualification. Nachiketa's <strong>'śraddadhānāya mahyam'</strong> (to me who has faith) is not boasting but a formal self-certification. The teacher has the right to withhold teaching from an unqualified student. By declaring his faith, Nachiketa removes Yama's excuse for refusal. This will become critical for the third boon: when Yama tries to refuse, Nachiketa can appeal to his demonstrated qualification — 'I am faithful and worthy; you cannot withhold the teaching.' The declaration of faith in the second boon becomes the leverage for extracting the third."}
+    ]
+  },
+  {
+    "id": 14,
+    "sk": "प्र ते ब्रवीमि तदु मे निबोध स्वर्ग्यमग्निं नचिकेतः प्रजानन् | अनन्तलोकाप्तिमथो प्रतिष्ठां विद्धि त्वमेतं निहितं गुहायाम् ||",
+    "ro": "pra · te · bravīmi · tad · u · me · nibodha · svargyam · agniṁ · naciketaḥ · prajānan | ananta·loka·āptim · atho · pratiṣṭhāṁ · viddhi · tvam · etaṁ · nihitaṁ · guhāyām ||",
+    "hi": "यम बोले: 'मैं तुम्हें बताता हूँ, ध्यान से सुनो, हे नचिकेता! मैं स्वर्गीय अग्नि को भलीभाँति जानता हूँ। जान लो — यह अग्नि अनन्त लोकों की प्राप्ति और सबका आधार है — यह गुहा (हृदय) में छिपी है।'",
+    "en": "Yama said: 'I will tell you — listen well, O Nachiketa. I know the heavenly fire. Know that this fire, which is the attainment of infinite worlds and their foundation, is hidden in the cave (of the heart).'",
+    "ws": [
+      {"s": "निबोध (nibodha)", "h": "ध्यान से सुनो", "e": "listen, understand — imperative of ni+√budh ('to awaken to, comprehend')"},
+      {"s": "प्रजानन् (prajānan)", "h": "भलीभाँति जानता हुआ", "e": "knowing well — present participle of pra+√jñā; Yama affirms his own knowledge"},
+      {"s": "अनन्तलोकाप्तिम् (anantalokāptim)", "h": "अनन्त लोकों की प्राप्ति", "e": "the attainment of infinite worlds — ananta (infinite) + loka (world) + āpti (attainment)"},
+      {"s": "प्रतिष्ठाम् (pratiṣṭhām)", "h": "आधार, नींव", "e": "foundation, support — the fire is the ground on which everything rests"},
+      {"s": "निहितम् गुहायाम् (nihitaṁ guhāyām)", "h": "गुहा (हृदय) में छिपा हुआ", "e": "hidden in the cave — nihita (placed, deposited) + guhā (cave, secret place; the heart)"}
+    ],
+    "gr": "<strong>pra te bravīmi</strong> — 'I declare to you': pra- intensifies — this is a formal declaration, not casual speech. <strong>nihitaṁ guhāyām</strong> — 'hidden in the cave': guhā is the most significant word — it refers simultaneously to the heart-cave, the secret place of consciousness, and the ritual fire-pit. This phrase will recur throughout the Katha Upanishad as a leitmotif: the ultimate reality is always 'hidden in the cave.'",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.14 — Yama begins teaching the Nachiketa fire. The key phrase 'nihitaṁ guhāyām' (hidden in the cave) introduces the Katha Upanishad's central metaphor — the Self/Brahman hidden in the cave of the heart. What begins as a ritual instruction becomes a pointer to the innermost reality.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर 'गुहायाम्' को बुद्धि की गुहा (intellect-cave) मानते हैं — आत्मा बुद्धि में, हृदय में, चेतना के गहनतम स्थान में छिपी है। अग्नि-विद्या बाह्य अनुष्ठान और आन्तरिक ध्यान दोनों है।",
+        "en": "Shankara reads 'guhāyām' as the cave of the intellect — the Self is hidden in the buddhi, in the heart, in the deepest place of consciousness. The fire-knowledge is both outer ritual and inner meditation.",
+        "ins": "The cave is not a physical location but the innermost recess of awareness. Brahman is 'hidden' only because we look outward."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज 'गुहा' को हृदय-कमल मानते हैं — जहाँ भगवान् अन्तर्यामी रूप में विराजमान हैं। अग्नि-विद्या भगवान् तक पहुँचने का साधन है।",
+        "en": "Ramanuja reads 'guhā' as the heart-lotus where the Lord resides as the inner controller (antaryāmi). The fire-knowledge is the means of reaching the Lord.",
+        "ins": "The Lord dwells in every heart. The fire of devotion reveals what is already present."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द 'गुहा' को चेतना की गहनतम गुफा — अन्तरात्मा (psychic being) का निवास — मानते हैं। अग्नि वह अभीप्सा है जो इस गहराई से उठती है और चेतना को रूपान्तरित करती है।",
+        "en": "Aurobindo reads 'guhā' as the deepest cave of consciousness — the dwelling of the psychic being. The fire is the aspiration that rises from this depth and transforms consciousness.",
+        "ins": "The secret fire of aspiration burns in the heart's cave. It is always there — the practice is to find and tend it."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'hidden in the cave' (nihitaṁ guhāyām) mean?", "a": "This phrase — <strong>nihitaṁ guhāyām</strong> — is the Katha Upanishad's signature expression. It appears here for the first time and will recur throughout. <strong>Guhā</strong> means 'cave, secret place' — in the Upanishadic context, the 'cave of the heart' (hṛdaya-guhā). The fire/Self/Brahman is 'hidden' (nihita — placed, deposited) there — not because it is far away but because it is too close to see. We search outward for what is deposited in the innermost recess of our own being. The metaphor works on three levels: (1) the ritual fire-pit is a physical 'cave'; (2) the heart is the cave where the Self resides; (3) consciousness itself is the cave — the deepest layer of awareness where the Absolute rests, unnoticed by the surface mind."},
+      {"q": "🔍 Why does Yama call the fire both 'attainment of infinite worlds' and 'foundation'?", "a": "The two terms — <strong>anantalokāpti</strong> (attainment of infinite worlds) and <strong>pratiṣṭhā</strong> (foundation) — point upward and downward simultaneously. The fire leads <em>up</em> to infinite worlds (the heavenly realms of cosmic experience) and is simultaneously the <em>ground</em> on which everything rests. This dual nature foreshadows the Katha's teaching about the Self: the Self is both the transcendent goal (what you seek to reach) and the immanent foundation (what you already stand on). The fire-knowledge is the first hint of this paradox — you are seeking what is already the ground of your being."}
+    ]
+  },
+  {
+    "id": 15,
+    "sk": "लोकादिमग्निं तमुवाच तस्मै या इष्टका यावतीर्वा यथा वा | स चापि तत्प्रत्यवदद्यथोक्तं अथास्य मृत्युः पुनरेवाह तुष्टः ||",
+    "ro": "lokādim · agniṁ · tam · uvāca · tasmai · yā · iṣṭakā · yāvatīr · vā · yathā · vā | sa · ca · api · tat · pratyavadad · yathoktaṁ · atha · asya · mṛtyuḥ · punar · eva · āha · tuṣṭaḥ ||",
+    "hi": "यम ने उसे लोकों के आदि (मूल) अग्नि का ज्ञान दिया — कौन-सी ईंटें, कितनी, और कैसे रखी जाएँ। नचिकेता ने वह सब ठीक वैसे ही दोहरा दिया जैसा कहा गया था। तब मृत्यु ने प्रसन्न होकर पुनः कहा —",
+    "en": "Yama taught him the fire — the origin of the worlds — what bricks, how many, and how arranged. Nachiketa repeated it exactly as told. Then Death, pleased, spoke again —",
+    "ws": [
+      {"s": "लोकादिम् (lokādim)", "h": "लोकों का आदि, मूल", "e": "origin of the worlds — loka (world) + ādi (beginning); the fire from which worlds arise"},
+      {"s": "इष्टका (iṣṭakā)", "h": "ईंटें (यज्ञ-वेदी की)", "e": "bricks — the specific bricks used to construct the fire-altar"},
+      {"s": "प्रत्यवदत् (pratyavadat)", "h": "दोहराया, पुनः कहा", "e": "repeated back — imperfect of prati+ava+√vad ('to say back, recite in response')"},
+      {"s": "यथोक्तम् (yathoktam)", "h": "जैसा कहा गया था", "e": "as stated — yathā (as) + ukta (spoken); exactly as taught, without error"},
+      {"s": "तुष्टः (tuṣṭaḥ)", "h": "प्रसन्न, सन्तुष्ट", "e": "pleased, satisfied — past participle of √tuṣ ('to be pleased')"}
+    ],
+    "gr": "<strong>lokādim agnim</strong> — 'the fire that is the origin of worlds': this identifies the Nachiketa fire not merely as a ritual technique but as a cosmological principle — the creative fire from which existence emanates. <strong>yā iṣṭakā yāvatīr vā yathā vā</strong> — 'what bricks, how many, how arranged': the ritual details are compressed into a single phrase — the Upanishad is not interested in the technical specifications but in what they represent. <strong>pratyavadad yathoktam</strong> — 'repeated exactly as told': Nachiketa's perfect recall demonstrates his extraordinary qualification as a student.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.15 — The fire-teaching is summarised in a single verse — the Upanishad deliberately compresses the ritual detail to focus on its spiritual significance. Nachiketa's perfect recitation (pratyavadad yathoktam) demonstrates the ideal student's capacity: faithful, attentive, capable of exact reproduction.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि अग्नि-विद्या का विस्तार यहाँ जानबूझकर संक्षिप्त किया गया है — उपनिषद् का उद्देश्य अनुष्ठान-विधि नहीं, आत्मज्ञान है। नचिकेता का 'यथोक्तम्' कहना आदर्श शिष्य का लक्षण है — जो सुना, वैसा ही ग्रहण किया।",
+        "en": "Shankara notes the fire-teaching is deliberately compressed here — the Upanishad's purpose is not ritual instruction but Self-knowledge. Nachiketa's 'yathoktam' (exactly as told) marks the ideal student — faithful reception without distortion.",
+        "ins": "The best student receives the teaching as it is — without adding, subtracting, or reinterpreting. This fidelity is what pleases the teacher."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज नचिकेता की बुद्धि-तीक्ष्णता और श्रद्धा की प्रशंसा करते हैं। गुरु-वचन को यथावत् ग्रहण करना भक्ति का एक रूप है — यह दर्शाता है कि शिष्य ने अपना अहंकार त्यागकर गुरु-वचन को प्राथमिकता दी।",
+        "en": "Ramanuja praises Nachiketa's intellectual sharpness and faith. Receiving the teacher's word exactly is a form of devotion — it shows the student has set aside ego to prioritise the teacher's word.",
+        "ins": "Perfect receptivity to the guru's teaching is itself an act of surrender."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द कहते हैं कि नचिकेता का यथावत् दोहराना मन की उस शुद्धता का प्रमाण है जो उसे तीसरे वरदान के योग्य बनाएगी। जो मन गुरु-वचन को विकृत नहीं करता, वही आत्म-ज्ञान ग्रहण कर सकता है।",
+        "en": "Aurobindo says Nachiketa's exact repetition proves the mental purity that will qualify him for the third boon. A mind that does not distort the teacher's word is the mind capable of receiving Self-knowledge.",
+        "ins": "Clarity of reception precedes depth of understanding. The transparent mind receives the higher light undistorted."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does the Upanishad compress the entire fire-teaching into one verse?", "a": "The Nachiketa fire-ritual, described in detail in the Taittiriya Brahmana, involves elaborate altar construction with specific bricks, numbers, and arrangements. The Katha Upanishad compresses all of this into a single phrase: <strong>'what bricks, how many, how arranged'</strong> (yā iṣṭakā yāvatīr vā yathā vā). This compression is deliberate: the Upanishad is not a ritual manual but a wisdom text. The fire-ritual is acknowledged and honoured — but the Upanishad's focus is elsewhere. By compressing the second boon into minimal space, the text creates maximum room for the third boon (the question of death and immortality), which is the real teaching. The compression is itself a teaching: ritual knowledge, however valuable, is preparatory — not ultimate."},
+      {"q": "🔍 Why is Yama pleased (tuṣṭaḥ) by Nachiketa's recitation?", "a": "Yama's pleasure goes beyond pedagogical satisfaction. A teacher who gives complex knowledge is naturally pleased when the student demonstrates perfect comprehension. But <strong>tuṣṭaḥ</strong> carries a deeper resonance: Yama is pleased because Nachiketa has proven himself a worthy recipient. This worthiness will become the ground on which Nachiketa stands when requesting the third boon. When Yama tries to deflect the third question, Nachiketa can silently point to this moment: 'You yourself declared me worthy. You were pleased with my reception. Now teach me the rest.' The teacher's pleasure becomes the student's leverage."}
+    ]
+  },
+  {
+    "id": 16,
+    "sk": "तमब्रवीत्प्रीयमाणो महात्मा वरं तवेहाद्य ददामि भूयः | तवैव नाम्ना भवितायमग्निः सृङ्कां चेमामनेकरूपां गृहाण ||",
+    "ro": "tam · abravīt · prīyamāṇo · mahātmā · varaṁ · tava · iha · adya · dadāmi · bhūyaḥ | tava · eva · nāmnā · bhavitā · ayam · agniḥ · sṛṅkāṁ · ca · imām · aneka·rūpāṁ · gṛhāṇa ||",
+    "hi": "वह महात्मा (यम) प्रसन्न होकर बोला: 'आज मैं तुम्हें एक और वरदान देता हूँ। यह अग्नि तुम्हारे ही नाम से जानी जाएगी। और यह बहुरूपी सृंखला (अनेक रूपों वाली माला) भी ग्रहण करो।'",
+    "en": "The great soul (Yama), being pleased, said to him: 'I give you yet another boon today. This fire shall bear your very name. Accept also this many-formed garland.'",
+    "ws": [
+      {"s": "प्रीयमाणः (prīyamāṇaḥ)", "h": "प्रसन्न होकर", "e": "being pleased — present middle participle of √prī ('to delight'); Yama's delight continues from the previous verse"},
+      {"s": "महात्मा (mahātmā)", "h": "महात्मा, महान् आत्मा", "e": "great soul — mahā (great) + ātman (self/soul); an epithet of genuine respect for Yama"},
+      {"s": "भूयः (bhūyaḥ)", "h": "और, अतिरिक्त", "e": "additionally, moreover — an extra, unsolicited boon beyond the three"},
+      {"s": "नाम्ना (nāmnā)", "h": "नाम से", "e": "by name — instrumental: the fire will be called 'Nachiketa'"},
+      {"s": "सृङ्काम् (sṛṅkām)", "h": "माला, श्रृंखला", "e": "garland, chain — a many-formed ornamental chain; symbolising the interconnected chain of existence"},
+      {"s": "अनेकरूपाम् (anekarūpām)", "h": "अनेक रूपों वाली", "e": "many-formed — aneka (many) + rūpa (form); the diversity of manifestation"}
+    ],
+    "gr": "<strong>prīyamāṇo mahātmā</strong> — 'the great soul, being pleased': Yama is called mahātmā — the Upanishad does not demonise Death but honours it as a great being. <strong>varaṁ tava iha adya dadāmi bhūyaḥ</strong> — 'I give you yet another boon today': this is beyond the three promised — a bonus born of genuine pleasure. <strong>tava eva nāmnā bhavitā ayam agniḥ</strong> — 'this fire shall bear your name': the Nachiketa fire becomes an institution. <strong>sṛṅkāṁ anekarūpām</strong> — the 'many-formed garland/chain' is variously interpreted: an ornament, a symbol of cosmic diversity, or the chain of karmic consequence.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.16 — Yama, delighted beyond obligation, adds a bonus: the fire will be named after Nachiketa, and he receives a symbolic garland. Death's generosity here contrasts with the difficulty of the third boon — Yama gives freely when the question is within his domain.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यम का 'महात्मा' कहा जाना दर्शाता है कि मृत्यु एक दिव्य शक्ति है, शत्रु नहीं। अतिरिक्त वरदान और अग्नि का नामकरण नचिकेता की योग्यता की मुहर है।",
+        "en": "Shankara notes that calling Yama 'mahātmā' shows Death is a divine power, not an enemy. The bonus boon and naming of the fire seal Nachiketa's qualification.",
+        "ins": "Death is a teacher, not a destroyer. When approached with faith and courage, even Death gives more than asked."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि यम का प्रसन्न होकर अतिरिक्त देना भगवान् की कृपा का प्रतिबिम्ब है — भगवान् हमेशा अपेक्षा से अधिक देते हैं। अग्नि का नामकरण दर्शाता है कि सच्चे शिष्य का नाम शाश्वत हो जाता है।",
+        "en": "Ramanuja says Yama's pleased giving reflects the Lord's grace — the Lord always gives more than expected. Naming the fire shows that a true student's name becomes eternal.",
+        "ins": "The Lord's generosity exceeds all asking. A sincere offering receives an overflowing return."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द 'अनेकरूपा सृंखला' को अस्तित्व की विविधता की श्रृंखला मानते हैं — ब्रह्म से भौतिक जगत् तक विस्तृत। नचिकेता को यह माला मिलती है — अर्थात् वह विश्व-प्रक्रिया को जानता है।",
+        "en": "Aurobindo reads the 'many-formed garland' as the chain of existence's diversity — from Brahman to the physical world. Nachiketa receives this garland — meaning he comprehends the world-process.",
+        "ins": "Understanding the diversity of manifestation is preparation for understanding the unity behind it."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama give a bonus boon beyond the three promised?", "a": "Yama's additional gift reveals a crucial aspect of the teacher-student relationship in the Upanishadic tradition. A truly pleased teacher does not merely fulfill an obligation — <strong>genuine delight in the student's capacity overflows into additional teaching</strong>. The three boons were a debt (for three nights' neglect). The bonus is pure grace — Yama gives because he is genuinely moved by Nachiketa's quality. This sets up a powerful contrast: for the second boon (fire-knowledge), Yama gives freely and abundantly. For the third boon (death's secret), he will resist desperately. The abundance here makes the reluctance there all the more dramatic."},
+      {"q": "🔍 What does it mean for the fire to 'bear Nachiketa's name'?", "a": "The naming of the fire — <strong>Nāciketāgni</strong> — is an act of immortalisation within the ritual tradition. The boy who was 'given to Death' now has his name preserved for all time in one of the most important fire-rituals. The irony is exact: the father tried to sacrifice his son; instead, the son becomes the name of the sacrifice itself. Death, which should have ended Nachiketa's story, instead begins his eternal legacy. This is the Upanishad's first demonstration of its central teaching: the encounter with death, properly met, leads not to annihilation but to immortality."}
+    ]
+  },
+  {
+    "id": 17,
+    "sk": "त्रिणाचिकेतस्त्रिभिरेत्य सन्धिं त्रिकर्मकृत्तरति जन्ममृत्यू | ब्रह्मजज्ञं देवमीड्यं विदित्वा निचाय्येमां शान्तिमत्यन्तमेति ||",
+    "ro": "tri·ṇāciketaḥ · tribhir · etya · sandhiṁ · tri·karma·kṛt · tarati · janma·mṛtyū | brahma·jajñaṁ · devam · īḍyaṁ · viditvā · nicāyya · imāṁ · śāntim · atyantam · eti ||",
+    "hi": "त्रिणाचिकेत (तीन बार अग्नि-चयन करने वाला), तीन सन्धियों (बन्धनों) को प्राप्त कर, तीन कर्म करके, जन्म और मृत्यु से तर जाता है। ब्रह्म से उत्पन्न, स्तुत्य देव को जानकर और उसका ध्यान करके, शाश्वत शान्ति को प्राप्त होता है।",
+    "en": "The three-fold Nachiketa, having achieved the three connections and performing the three-fold work, crosses beyond birth and death. Knowing the adorable god born from Brahman, and realising this, one attains eternal peace.",
+    "ws": [
+      {"s": "त्रिणाचिकेतः (triṇāciketaḥ)", "h": "तीन बार नचिकेत-अग्नि चयन करने वाला", "e": "the three-fold Nachiketa — one who has built the Nachiketa fire three times"},
+      {"s": "सन्धिम् (sandhim)", "h": "सन्धि, बन्धन, जोड़", "e": "connection, junction — the three connections: with mother, father, and teacher (or the three Vedas)"},
+      {"s": "त्रिकर्मकृत् (trikarmakṛt)", "h": "तीन कर्म करने वाला", "e": "performer of three-fold work — sacrifice, study, and charity (or the three daily rituals)"},
+      {"s": "तरति जन्ममृत्यू (tarati janmamṛtyū)", "h": "जन्म-मृत्यु से तर जाता है", "e": "crosses beyond birth and death — tarati (crosses, 3rd sg. of √tṝ)"},
+      {"s": "ब्रह्मजज्ञम् (brahmajajñam)", "h": "ब्रह्म से उत्पन्न", "e": "born from Brahman — brahma + jajña (perfect participle of √jan, 'born')"},
+      {"s": "शान्तिम् अत्यन्तम् (śāntim atyantam)", "h": "परम शान्ति को, शाश्वत शान्ति", "e": "peace utterly, eternal peace — atyanta (absolute, ultimate)"}
+    ],
+    "gr": "<strong>tri-ṇāciketaḥ</strong> — the triple building of the Nachiketa fire: three-fold signifies completeness and mastery. <strong>tribhir etya sandhim</strong> — the 'three connections' are variously interpreted: the three relationships (mother, father, teacher), the three Vedas (Ṛg, Yajur, Sāma), or the three states (waking, dream, sleep). <strong>tarati janma-mṛtyū</strong> — 'crosses birth and death': the dual form (janma-mṛtyū) treats birth-and-death as a single compound reality to be transcended. <strong>śāntim atyantam eti</strong> — 'attains absolute peace': atyanta (beyond end) suggests a peace that has no terminus.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.17 — The verse describes the fruit of the three-fold Nachiketa fire: transcendence of the birth-death cycle and attainment of eternal peace. This is the highest promise of the ritual path — yet the third boon will ask about something even beyond this.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह श्लोक उपासना (meditation) का फल बताता है — जन्म-मृत्यु चक्र से मुक्ति। किन्तु यह क्रम-मुक्ति है (gradual liberation) — सीधी मुक्ति (immediate liberation) केवल आत्मज्ञान (तीसरे वरदान का विषय) से होती है।",
+        "en": "Shankara says this verse describes the fruit of upāsanā (meditation) — freedom from the birth-death cycle. But this is gradual liberation (krama-mukti) — immediate liberation comes only through Self-knowledge (the subject of the third boon).",
+        "ins": "Ritual and meditation can free from the cycle gradually. Direct knowledge of the Self frees immediately."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'ब्रह्मजज्ञम् देवम्' भगवान् विष्णु हैं — ब्रह्म से प्रकट, सबके पूज्य। त्रिणाचिकेत अग्नि-विद्या भगवान् की उपासना का साधन है।",
+        "en": "Ramanuja identifies 'brahmajajñam devam' as Lord Vishnu — manifest from Brahman, worthy of all worship. The three-fold fire-knowledge is a means of worshipping the Lord.",
+        "ins": "All ritual, properly understood, is worship of the Lord. The fire is the medium; the Lord is the destination."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द तीन सन्धियों को तीन चेतना-स्तरों — भौतिक, प्राणिक और मानसिक — से जोड़ते हैं। तीनों को जोड़कर जो अग्नि प्रज्वलित होती है, वह जन्म-मृत्यु के चक्र को पार कराती है।",
+        "en": "Aurobindo connects the three connections to three levels of consciousness — physical, vital, and mental. The fire that unites all three carries one beyond the birth-death cycle.",
+        "ins": "True transformation integrates all levels of being. Partial awakening is not enough — the fire must burn at every level."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What are the 'three connections' (tribhir etya sandhim)?", "a": "The <strong>three connections</strong> are interpreted differently by different authorities: (1) <strong>Three relationships</strong>: mother (mātṛ), father (pitṛ), and teacher (ācārya) — the three human sources of life, lineage, and knowledge. (2) <strong>Three Vedas</strong>: Ṛg, Yajur, and Sāma — the three branches of sacred knowledge. (3) <strong>Three states</strong>: waking, dream, and deep sleep — the three modes of ordinary consciousness. All three readings converge: the seeker who has integrated all three relationships, all three knowledges, and all three states of consciousness achieves the complete fire — and this completeness is what carries one beyond birth and death."},
+      {"q": "🔍 How does this verse transition from the second to the third boon?", "a": "This verse represents the <em>highest promise of the ritual path</em>: the three-fold Nachiketa fire, properly performed, leads to crossing beyond birth-death and attaining eternal peace. It is the culmination of the second boon. But notice what comes next (mantra 19): Yama says 'Choose your third boon.' The structure implies that even this magnificent promise — crossing beyond birth and death — is not the final word. Nachiketa will ask something that goes beyond even this: not 'how to reach heaven' or 'how to cross the cycle' but 'does the self exist after death?' The third boon transcends the second as knowledge transcends ritual — and this transition is the Katha Upanishad's central movement."}
+    ]
+  },
+  {
+    "id": 18,
+    "sk": "त्रिणाचिकेतस्त्रयमेतद्विदित्वा य एवं विद्वांश्चिनुते नाचिकेतम् | स मृत्युपाशान्पुरतः प्रणोद्य शोकातिगो मोदते स्वर्गलोके ||",
+    "ro": "tri·ṇāciketaḥ · trayam · etad · viditvā · ya · evaṁ · vidvāṁś · cinute · nāciketam | sa · mṛtyu·pāśān · purataḥ · praṇodya · śoka·atigo · modate · svarga·loke ||",
+    "hi": "त्रिणाचिकेत जो इन तीनों को जानकर, इस प्रकार विद्वान् होकर नाचिकेत अग्नि का चयन करता है — वह मृत्यु के पाशों को अपने सामने से दूर फेंककर, शोक से परे, स्वर्गलोक में आनन्दित होता है।",
+    "en": "The three-fold Nachiketa, knowing these three, who thus knowing builds the Nachiketa fire — he, casting Death's nooses before him, beyond sorrow, rejoices in the heavenly world.",
+    "ws": [
+      {"s": "त्रयम् एतत् (trayam etat)", "h": "इन तीनों को", "e": "these three — referring to the three-fold knowledge of the fire"},
+      {"s": "चिनुते (cinute)", "h": "चयन करता है, चिता सजाता है", "e": "builds, arranges — present middle of √ci ('to arrange, build the fire-altar')"},
+      {"s": "मृत्युपाशान् (mṛtyupāśān)", "h": "मृत्यु के फन्दे/बन्धन", "e": "Death's nooses — mṛtyu (death) + pāśa (noose, snare); the bonds of mortality"},
+      {"s": "पुरतः प्रणोद्य (purataḥ praṇodya)", "h": "अपने सामने से दूर फेंककर", "e": "pushing away before oneself — purataḥ (in front) + praṇodya (absolutive of pra+√nud, 'to push away')"},
+      {"s": "शोकातिगः (śokātigaḥ)", "h": "शोक से परे", "e": "beyond sorrow — śoka (grief) + atiga (one who has gone beyond)"}
+    ],
+    "gr": "<strong>ya evaṁ vidvāṁś cinute nāciketam</strong> — 'who, thus knowing, builds the Nachiketa fire': the emphasis on 'evaṁ vidvān' (knowing thus) shows that mere physical construction without understanding is insufficient. <strong>mṛtyu-pāśān purataḥ praṇodya</strong> — 'pushing Death's nooses away before him': the image is of a warrior casting off snares — active, forceful liberation. <strong>modate svarga-loke</strong> — 'rejoices in the heavenly world': same phrase as mantra 12, creating a frame — the second boon begins and ends with heavenly rejoicing.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.18 — The closing verse of the fire-teaching section. The image of 'casting Death's nooses' is powerful — the knower does not flee death but actively pushes its bonds aside. This verse concludes the second boon's teaching.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'मृत्युपाश' अविद्या, कामना और कर्म हैं — इन तीन बन्धनों को ज्ञानपूर्वक अग्नि-विद्या दूर करती है। किन्तु स्वर्ग अभी भी सशर्त मुक्ति है — शाश्वत मुक्ति आगे है।",
+        "en": "Shankara identifies 'Death's nooses' as avidyā, desire, and karma — three bonds that the fire-knowledge dispels. But heaven is still conditional liberation — eternal liberation lies ahead.",
+        "ins": "Breaking Death's bonds through knowledge of the fire is real — but it leads to heaven, not to the Absolute. The Absolute requires the third boon's teaching."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज 'मृत्युपाश' को कर्म-बन्धन मानते हैं जो भगवद्-ज्ञान और उपासना से कटता है। स्वर्ग-प्राप्ति भक्ति-मार्ग का एक सोपान है — अन्तिम लक्ष्य परमपद है।",
+        "en": "Ramanuja reads 'Death's nooses' as karmic bonds cut by the Lord's knowledge and worship. Reaching heaven is one step on the path of devotion — the ultimate goal is Paramapada.",
+        "ins": "Each level of liberation opens the door to a deeper one. Heaven is the doorway, not the dwelling."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द कहते हैं कि 'पाशान् प्रणोद्य' (बन्धन दूर फेंकना) चेतना की सक्रिय मुक्ति है — निष्क्रिय स्वीकृति नहीं। साधक मृत्यु से नहीं भागता, बल्कि उसके बन्धनों को सक्रिय रूप से काटता है।",
+        "en": "Aurobindo says 'pāśān praṇodya' (pushing away the bonds) is active liberation of consciousness — not passive acceptance. The seeker does not flee death but actively cuts its bonds.",
+        "ins": "Liberation is not escape but conquest. The spiritual warrior actively pushes away the bonds of mortality."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What are 'Death's nooses' (mṛtyu-pāśa)?", "a": "The image of <strong>Death's nooses</strong> (mṛtyu-pāśa) comes from Vedic mythology where Yama is depicted with a noose (pāśa) that he throws to capture the dying. In the Upanishadic context, these nooses are: <strong>avidyā</strong> (ignorance of one's true nature), <strong>kāma</strong> (desire that binds to rebirth), and <strong>karma</strong> (accumulated actions that compel future birth). The three-fold fire cuts these three nooses — each fold of the fire addresses one bond. The image of 'pushing them away before oneself' (purataḥ praṇodya) suggests the bonds don't disappear — they are still visible, but they no longer bind. The knower can see death's mechanisms without being caught by them."},
+      {"q": "🔍 Why does the verse say 'rejoices in heaven' rather than 'attains liberation'?", "a": "The careful reader notices that the second boon's culmination is <strong>svarga-loka</strong> (heavenly world), not mokṣa (liberation). This is deliberate. The Nachiketa fire is a <em>ritual</em> achievement — it earns the highest possible reward within the ritual framework: heaven. But heaven, as Shankara repeatedly notes, is not the Absolute — it is the highest conditional state, still within saṁsāra. The third boon will ask about what lies beyond even heaven: the Self that neither comes nor goes. By ending the second boon at 'heaven,' the Upanishad creates the space for the third boon to transcend it completely."}
+    ]
+  },
+  {
+    "id": 19,
+    "sk": "एष तेऽग्निर्नचिकेतः स्वर्ग्यो यमवृणीथा द्वितीयेन वरेण | एतमग्निं तवैव प्रवक्ष्यन्ति जनासः | तृतीयं वरं नचिकेतो वृणीष्व ||",
+    "ro": "eṣa · te · agnir · naciketaḥ · svargyo · yam · avṛṇīthā · dvitīyena · vareṇa | etam · agniṁ · tava · eva · pravakṣyanti · janāsaḥ | tṛtīyaṁ · varaṁ · naciketo · vṛṇīṣva ||",
+    "hi": "यम बोले: 'हे नचिकेता! यह तेरी स्वर्गीय अग्नि है जिसे तूने दूसरे वरदान में माँगा। लोग इस अग्नि को तेरे ही नाम से पुकारेंगे। अब तीसरा वरदान माँग, हे नचिकेता!'",
+    "en": "'This is your fire, O Nachiketa, the heavenly one, which you chose as your second boon. People will call this fire by your name alone. Choose now your third boon, O Nachiketa.'",
+    "ws": [
+      {"s": "एषः ते अग्निः (eṣaḥ te agniḥ)", "h": "यह तेरी अग्नि है", "e": "this is your fire — the fire is now formally Nachiketa's; the teaching is complete"},
+      {"s": "अवृणीथाः (avṛṇīthāḥ)", "h": "तूने माँगा", "e": "you chose — imperfect middle 2nd sg. of √vṛ ('to choose'); past tense: the choosing is done"},
+      {"s": "प्रवक्ष्यन्ति (pravakṣyanti)", "h": "कहेंगे, बोलेंगे", "e": "will proclaim — future 3rd pl. of pra+√vac ('to speak forth, declare')"},
+      {"s": "जनासः (janāsaḥ)", "h": "लोग", "e": "people — nominative plural of jana; all people, for all time"},
+      {"s": "तृतीयम् वरम् वृणीष्व (tṛtīyaṁ varaṁ vṛṇīṣva)", "h": "तीसरा वरदान माँगो", "e": "choose the third boon — the invitation that opens the Upanishad's deepest teaching"}
+    ],
+    "gr": "<strong>eṣa te agniḥ</strong> — 'this is your fire': the demonstrative 'eṣa' (this, right here) makes the gift tangible and present. <strong>tava eva pravakṣyanti janāsaḥ</strong> — 'people will call it by your name alone': eva (alone, only) emphasises the exclusivity — this fire belongs to Nachiketa forever. <strong>tṛtīyaṁ varaṁ vṛṇīṣva</strong> — the pivot of the entire Upanishad: 'Choose your third boon.' Everything before this was preparation; everything after is the teaching.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.19 — The hinge verse: Yama closes the second boon and opens the third. The instruction 'Choose your third boon' is the gateway to the Katha Upanishad's deepest teaching — the question of the Self's existence after death.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यम ने दूसरा वरदान सहजता से दिया — क्योंकि अग्नि-विद्या उसके अधिकार-क्षेत्र में है। तीसरे वरदान पर यम की प्रतिक्रिया बिलकुल भिन्न होगी — क्योंकि वह प्रश्न यम के अपने अस्तित्व को चुनौती देता है।",
+        "en": "Shankara says Yama gave the second boon easily — fire-knowledge is within his domain. His reaction to the third boon will be entirely different — because that question challenges Death's own existence.",
+        "ins": "Death can teach about fire and heaven readily. But the question 'Does the Self survive death?' asks Death whether Death itself is ultimately real."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज इस संक्रमण में भगवान् की योजना देखते हैं — दो वरदानों ने नचिकेता को तीसरे के लिए तैयार किया। पहले ने मानवीय बन्धन सुलझाया; दूसरे ने कर्मकाण्ड पूर्ण किया; तीसरा ज्ञान का शिखर होगा।",
+        "en": "Ramanuja sees the Lord's plan in this transition — two boons prepared Nachiketa for the third. The first resolved human bonds; the second completed ritual knowledge; the third will be the summit of wisdom.",
+        "ins": "Grace prepares the soul in stages: first settling the outer life, then completing ritual duty, then opening the door to ultimate knowledge."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द 'तृतीयं वरं वृणीष्व' को चेतना के विकास में निर्णायक क्षण मानते हैं। पहला वरदान भौतिक-सामाजिक था; दूसरा प्राणिक-अनुष्ठानिक; तीसरा मानसिक-आध्यात्मिक — प्रत्येक चेतना के उच्चतर स्तर का द्वार खोलता है।",
+        "en": "Aurobindo reads 'choose the third boon' as the decisive moment in the evolution of consciousness. The first boon was physical-social; the second vital-ritual; the third will be mental-spiritual — each opens the door to a higher level of consciousness.",
+        "ins": "The soul's journey through the three boons mirrors consciousness's ascent through the three worlds: earth, mid-space, and heaven — and then beyond."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is 'Choose your third boon' the pivot of the entire Upanishad?", "a": "Everything in the Katha Upanishad converges on this moment. The first two boons were preparation: the first (father's reconciliation) settled the human base; the second (fire-knowledge) completed the ritual superstructure. Now comes the question that the entire narrative exists to ask. When Yama says <strong>'tṛtīyaṁ varaṁ vṛṇīṣva'</strong>, he opens a door that he himself will try to close — because the third question (does the Self survive death?) is the one question Death cannot easily answer. Everything before this verse is setup; everything after is the teaching itself. The three-boon structure is a carefully engineered funnel: broad at the top (family concerns), narrower in the middle (cosmic ritual), and focused to a point at the bottom (the ultimate question of existence)."}
+    ]
+  },
+  {
+    "id": 20,
+    "sk": "येयं प्रेते विचिकित्सा मनुष्ये अस्तीत्येके नायमस्तीति चैके | एतद्विद्यामनुशिष्टस्त्वयाहमेतद्वराणां तृतीयं वरं वृणे ||",
+    "ro": "yeyaṁ · prete · vicikitsā · manuṣye · asti · iti · eke · na · ayam · asti · iti · ca · eke | etad · vidyām · anuśiṣṭaḥ · tvayā · aham · etad · varāṇāṁ · tṛtīyaṁ · varaṁ · vṛṇe ||",
+    "hi": "'मनुष्य के मरने पर जो यह संशय है — कुछ कहते हैं कि वह (आत्मा) है, कुछ कहते हैं कि नहीं है — इसे मैं आपसे सीखकर जानना चाहता हूँ। वरदानों में यह तीसरा वरदान मैं माँगता हूँ।'",
+    "en": "'There is this doubt about what happens when a man dies — some say he exists, others say he does not. I would know this, taught by you. Of the boons, this is the third boon I choose.'",
+    "ws": [
+      {"s": "प्रेते (prete)", "h": "मरने पर, देह छोड़ने पर", "e": "when departed, when dead — locative absolute of preta ('one who has gone forth, the departed')"},
+      {"s": "विचिकित्सा (vicikitsā)", "h": "संशय, संदेह", "e": "doubt, questioning — from vi+√kit ('to question repeatedly'); intensive form implying deep, persistent doubt"},
+      {"s": "अस्ति इति एके (asti iti eke)", "h": "'है' — ऐसा कुछ कहते हैं", "e": "'He exists,' say some — eke (some people); the affirmative position"},
+      {"s": "न अयम् अस्ति इति (na ayam asti iti)", "h": "'नहीं है' — ऐसा कुछ कहते हैं", "e": "'He does not exist,' say others — the negative position"},
+      {"s": "अनुशिष्टः (anuśiṣṭaḥ)", "h": "सिखाया हुआ, शिष्य बना हुआ", "e": "instructed, taught — past participle of anu+√śās ('to teach, instruct'); 'being your student'"}
+    ],
+    "gr": "<strong>yeyaṁ prete vicikitsā manuṣye</strong> — 'this doubt that exists when a man has died': the question is framed not about death in general but about a specific human being who has departed — 'this man, who was here, who has died — does he still exist?' <strong>asti iti eke na ayam asti iti ca eke</strong> — the two positions are stated with perfect symmetry: 'He is, say some; he is not, say others.' Neither position is favoured — the Upanishad presents genuine open inquiry. <strong>etad vidyām anuśiṣṭaḥ tvayā</strong> — 'I would know this, taught by you': Nachiketa positions himself as Yama's student, requesting formal instruction.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.20 — The most important verse of the Katha Upanishad: Nachiketa's third question. 'When a man dies — does he exist or not?' This is the fundamental question of all philosophy, all religion, all human inquiry into meaning. The rest of the Upanishad is Yama's answer.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि नचिकेता का प्रश्न मृत्यु के बाद जीवात्मा के अस्तित्व के बारे में नहीं — वह तो स्वतः-सिद्ध है। प्रश्न यह है: मृत्यु के बाद जो 'शेष' रहता है, वह क्या है? क्या वह सशरीर है, निराकार है, चैतन्य है, शून्य है? यही 'विचिकित्सा' (गहन संदेह) है।",
+        "en": "Shankara says Nachiketa's question is not about whether a soul survives death — that is self-evident. The question is: what is it that 'remains'? Is it embodied, formless, conscious, void? This is the 'vicikitsā' (deep doubt).",
+        "ins": "The question is not 'Is there life after death?' but 'What is the nature of that which does not die?' — a far subtler inquiry."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि प्रश्न आत्मा के स्वतन्त्र अस्तित्व के बारे में है — क्या जीव शरीर से अलग है? क्या वह भगवान् से भिन्न है? और मृत्यु के बाद उसकी गति क्या है? ये प्रश्न भक्ति-मार्ग के मूलाधार हैं।",
+        "en": "Ramanuja says the question is about the soul's independent existence — is the jīva separate from the body? Is it different from the Lord? What is its destination after death? These questions are foundational to the path of devotion.",
+        "ins": "Without knowing the soul's nature, devotion has no ground. The third boon asks for that ground."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द कहते हैं कि नचिकेता का प्रश्न मानव चेतना का केन्द्रीय प्रश्न है — क्या चेतना शरीर की उपज है (और मृत्यु में नष्ट होती है) या शरीर से स्वतन्त्र (और मृत्यु में बची रहती है)? यह प्रश्न भौतिकवाद और आध्यात्मिकता के बीच की विभाजन-रेखा है।",
+        "en": "Aurobindo says Nachiketa's question is the central question of human consciousness: is consciousness a product of the body (and destroyed in death) or independent of it (and surviving death)? This question is the dividing line between materialism and spirituality.",
+        "ins": "The answer to this question determines everything — ethics, meaning, purpose, and the entire direction of civilisation."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is this question so difficult that even Death hesitates to answer?", "a": "The question <strong>'When a man dies, does he exist or not?'</strong> is not a simple yes-or-no question — it is the most dangerous question in existence. If Death answers 'Yes, the Self survives death,' then Death has declared its own power limited — there is something Death cannot reach. If Death answers 'No,' it denies the foundation of all Vedic dharma. The question puts Death in an impossible position: to answer truthfully is to undermine its own authority. This is why Yama will try every possible deflection (temptation, distraction, intimidation) before finally answering. The question is not merely 'difficult to understand' — it is existentially threatening to the one being asked."},
+      {"q": "🔍 What does 'vicikitsā' (doubt) mean in this context?", "a": "The word <strong>vicikitsā</strong> — from the intensive (frequentative) form of vi+√kit ('to question, to be aware') — means not casual doubt but <em>persistent, deep, unresolved questioning</em>. The intensive form implies: 'questioned again and again, examined repeatedly, still unresolved.' This is humanity's oldest and deepest uncertainty — does consciousness survive the body's destruction? Every civilisation, every philosophy, every individual who has lost someone faces this vicikitsā. The Upanishad's genius is to make this universal doubt the subject of a formal teaching — to bring it out of the realm of anxiety and into the realm of knowledge. Nachiketa does not merely wonder; he <em>demands</em> to know."}
+    ]
+  },
+  {
+    "id": 21,
+    "sk": "देवैरत्रापि विचिकित्सितं पुरा न हि सुविज्ञेयमणुरेष धर्मः | अन्यं वरं नचिकेतो वृणीष्व मा मोपरोत्सीरति मा सृजैनम् ||",
+    "ro": "devair · atrā · api · vicikitsitaṁ · purā · na · hi · suvijñeyam · aṇur · eṣa · dharmaḥ | anyaṁ · varaṁ · naciketo · vṛṇīṣva · mā · mā · uparotsīḥ · ati · mā · sṛja · enam ||",
+    "hi": "यम बोले: 'इस विषय में पहले देवताओं को भी संशय हुआ था। यह सूक्ष्म धर्म (सत्य) सहज में जानने योग्य नहीं है। हे नचिकेता, कोई और वरदान माँग लो। मुझ पर दबाव मत डालो। इस प्रश्न को छोड़ दो।'",
+    "en": "'Even the gods had doubt about this in former times. This truth is subtle, not easy to know. Choose another boon, O Nachiketa. Do not press me. Release me from this.'",
+    "ws": [
+      {"s": "देवैः (devaiḥ)", "h": "देवताओं ने", "e": "by the gods — instrumental plural; even divine beings doubted this"},
+      {"s": "विचिकित्सितम् (vicikitsitam)", "h": "संदेह किया गया", "e": "was doubted — past passive participle of vi+√kit (intensive); 'was questioned'"},
+      {"s": "अणुः (aṇuḥ)", "h": "सूक्ष्म, अत्यन्त सूक्ष्म", "e": "subtle, atomic — the truth is infinitely fine, beyond gross perception"},
+      {"s": "धर्मः (dharmaḥ)", "h": "धर्म, सत्य, तत्त्व", "e": "truth, law, nature — here meaning the fundamental nature of the Self after death"},
+      {"s": "मा उपरोत्सीः (mā uparotsīḥ)", "h": "मुझ पर दबाव मत डालो", "e": "do not press me — prohibitive aorist of upa+√rudh ('to obstruct, press, compel')"},
+      {"s": "अति मा सृज (ati mā sṛja)", "h": "इसे छोड़ दो, मुझे इससे मुक्त करो", "e": "release me from this — ati (beyond) + mā (me) + sṛja (imperative of √sṛj, 'to release')"}
+    ],
+    "gr": "<strong>devair atrā api vicikitsitam</strong> — 'even by the gods this was doubted': the argument from authority — if gods couldn't resolve this, how can a boy? <strong>aṇur eṣa dharmaḥ</strong> — 'this dharma is subtle': aṇu (atomic, infinitely small) — the truth is not gross enough to be grasped by ordinary means. <strong>mā mā uparotsīḥ</strong> — the doubled 'mā' (don't...me) shows genuine distress — Yama is not playing a game; he genuinely does not want to answer. <strong>ati mā sṛja enam</strong> — 'release me from this': Yama asks to be released — the lord of death asks a boy for freedom.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.21 — The beginning of Yama's resistance. Death tries to deflect the third question by invoking divine precedent (even gods doubted this), declaring its subtlety (aṇu), and directly asking to be released from the obligation. The temptation scene (mantras 22-25) follows.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यम का प्रतिरोध अनुपयुक्त शिष्यों को छानने के लिए है। सच्चा गुरु कठिन ज्ञान तुरन्त नहीं देता — वह शिष्य की दृढ़ता परखता है। 'अणुः एष धर्मः' — यह सत्य इतना सूक्ष्म है कि केवल सर्वथा योग्य शिष्य ही ग्रहण कर सकता है।",
+        "en": "Shankara says Yama's resistance is to filter out unworthy students. A true guru does not give difficult knowledge immediately — he tests the student's resolve. 'Aṇu eṣa dharmaḥ' — this truth is so subtle that only a completely qualified student can receive it.",
+        "ins": "The guru's resistance is not refusal but testing. The teaching that costs nothing is worth nothing."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि यम की हिचकिचाहट दर्शाती है कि आत्म-ज्ञान भगवान् का सबसे गोपनीय रहस्य है — वह सहजता से नहीं दिया जाता। शिष्य की तीव्र जिज्ञासा ही इसे प्राप्त करने का एकमात्र उपाय है।",
+        "en": "Ramanuja says Yama's hesitation shows that Self-knowledge is the Lord's most guarded secret — it is not given lightly. Only the student's intense desire can obtain it.",
+        "ins": "The Lord's deepest teaching requires the deepest asking. Casual interest receives casual answers."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द यम के प्रतिरोध को चेतना के विकास में एक प्राकृतिक बाधा मानते हैं — मृत्यु (सीमा, अन्त) का सिद्धान्त उस ज्ञान का विरोध करता है जो मृत्यु को अप्रासंगिक बना देगा। यम की असुविधा सत्य है — यह ज्ञान मृत्यु के अस्तित्व को ही खतरे में डालता है।",
+        "en": "Aurobindo reads Yama's resistance as a natural barrier in the evolution of consciousness — the principle of Death (limit, ending) opposes the knowledge that would make death irrelevant. Yama's discomfort is real — this knowledge threatens Death's very existence.",
+        "ins": "Every advance in consciousness faces resistance from the power it is about to transcend. Death resists the teaching of immortality because immortality makes death meaningless."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama say 'Even the gods doubted this'?", "a": "Yama's appeal to divine precedent — <strong>'devair atrā api vicikitsitam purā'</strong> — is both a genuine statement and a deflection. It is genuine because the question of post-mortem existence <em>is</em> subtle beyond the reach of the sense-bound mind, even at the divine level. It is a deflection because Yama knows the answer and is trying to avoid giving it. The argument has the form: 'This is too difficult even for gods — surely you, a human boy, should not attempt it.' But Nachiketa will turn this argument against Yama: 'If even gods cannot know it, and you are the one teacher who can teach it, then this is precisely the boon I must ask of you and no other.'"},
+      {"q": "🔍 What does it mean that Death asks a boy for release?", "a": "The phrase <strong>'ati mā sṛja enam'</strong> — 'release me from this' — is astonishing. <em>Death asks to be released</em>. The lord who binds all beings with his noose (mṛtyu-pāśa) is asking a boy to let him go. The power dynamic has completely reversed: in mantra 9, Yama offered boons from a position of obligation; now he is in a position of vulnerability. The question about the Self's survival after death is the one thing Death cannot comfortably address — because the answer (which Yama knows) is that the Self <em>does</em> survive, which means Death's power is not ultimate. To teach this truth is for Death to declare its own limitation. Yama's request for release is the cry of a power confronted by a truth greater than itself."}
+    ]
+  },
+  {
+    "id": 22,
+    "sk": "देवैरत्रापि विचिकित्सितं किल त्वं च मृत्यो यन्न सुज्ञेयमात्थ | वक्ता चास्य त्वादृगन्यो न लभ्यो नान्यो वरस्तुल्य एतस्य कश्चित् ||",
+    "ro": "devair · atrā · api · vicikitsitaṁ · kila · tvaṁ · ca · mṛtyo · yat · na · sujñeyam · āttha | vaktā · ca · asya · tvādṛk · anyo · na · labhyo · na · anyo · varas · tulya · etasya · kaścit ||",
+    "hi": "नचिकेता बोला: 'आप स्वयं कहते हैं कि देवताओं को भी संशय हुआ और यह सहज-ज्ञेय नहीं है, हे मृत्यो! आपके समान कोई अन्य वक्ता इसका नहीं मिलेगा। इसके तुल्य कोई अन्य वर नहीं है।'",
+    "en": "'You yourself say that even the gods doubted this, and that it is not easily known, O Death. No other teacher of this subject like you can be found. No other boon equals this.'",
+    "ws": [
+      {"s": "किल (kila)", "h": "निश्चय ही, जैसा कि (आप ने कहा)", "e": "indeed, as you say — particle referencing Yama's own words back to him"},
+      {"s": "आत्थ (āttha)", "h": "आप कहते हैं", "e": "you say — 2nd sg. perfect of √ah ('to say')"},
+      {"s": "वक्ता (vaktā)", "h": "वक्ता, कहने वाला", "e": "speaker, teacher — agent noun of √vac; one who can teach this subject"},
+      {"s": "त्वादृक् (tvādṛk)", "h": "आपके समान", "e": "like you — tvā + dṛk (appearance); 'of your kind, your equal'"},
+      {"s": "तुल्यः (tulyaḥ)", "h": "बराबर, समान", "e": "equal — no boon matches this one in value"}
+    ],
+    "gr": "<strong>devair atrā api vicikitsitaṁ kila</strong> — Nachiketa throws Yama's own argument back: 'You yourself said (kila) the gods doubted this.' <strong>tvādṛk anyo na labhyaḥ</strong> — 'no other like you is available': this is the decisive argument — if the question is so subtle that only the greatest teacher can answer it, and Yama is that teacher, then Nachiketa must ask Yama. The difficulty of the question becomes the reason to ask, not the reason to withdraw. <strong>na anyo varas tulyaḥ etasya</strong> — 'no other boon equals this': Nachiketa declares that this question is worth more than anything else Yama could offer.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.22 — Nachiketa's masterly counter-argument. He uses Yama's own deflection as leverage: if the question is so difficult that even gods couldn't answer it, then only you (Death) can teach it — and no substitute boon will do. The student's logic traps the teacher.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि नचिकेता का तर्क गुरु-परीक्षा उत्तीर्ण करता है। गुरु ने कहा 'कठिन है' — शिष्य ने कहा 'इसलिए मुझे आपसे ही सीखना है।' यह विवेक और वैराग्य का प्रमाण है — आत्मज्ञान के दो पूर्व-शर्त।",
+        "en": "Shankara says Nachiketa's argument passes the guru's test. The guru said 'It is difficult' — the student replied 'That is exactly why I must learn from you.' This demonstrates viveka (discrimination) and vairāgya (dispassion) — the two prerequisites for Self-knowledge.",
+        "ins": "The qualified student does not retreat before difficulty — he advances toward it. This advance is itself the proof of qualification."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज नचिकेता की दृढ़ता को भक्ति की पराकाष्ठा मानते हैं — 'कोई अन्य वर इसके तुल्य नहीं' — यह दर्शाता है कि भगवद्-ज्ञान से बढ़कर कोई सम्पत्ति नहीं।",
+        "en": "Ramanuja reads Nachiketa's firmness as the pinnacle of devotion — 'No other boon equals this' — showing that no wealth surpasses knowledge of the Lord.",
+        "ins": "The devotee who refuses all substitutes has passed the final test. God gives Himself only to one who will accept nothing less."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द नचिकेता के तर्क में अन्तरात्मा की अडिग निश्चयशीलता देखते हैं। मन बहकाया जा सकता है, किन्तु आत्मा की खोज विचलित नहीं होती — यही 'श्रद्धा' की पूर्ण अभिव्यक्ति है।",
+        "en": "Aurobindo sees in Nachiketa's argument the unshakeable determination of the psychic being. The mind can be distracted, but the soul's quest cannot be deflected — this is the full expression of śraddhā.",
+        "ins": "When the soul has identified its question, nothing — not even Death's resistance — can divert it. This single-pointedness is the hallmark of the true seeker."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How does Nachiketa turn Yama's argument against him?", "a": "This is one of the most intellectually brilliant moments in the Upanishads. Yama argued: <em>this is too subtle — even gods doubted it — choose something else</em>. Nachiketa responds: <em>you just proved my case</em>. His logic: (1) You say even gods couldn't resolve this — therefore no ordinary teacher can help. (2) You, Death itself, are the only qualified teacher — because you alone know what happens after death. (3) Therefore, I <em>must</em> ask you — there is no alternative. (4) And since there is no alternative, no substitute boon will do. Yama's deflection — meant to discourage — becomes Nachiketa's strongest argument for insisting. The subtlety of the question proves the indispensability of the teacher. The student uses the guru's own words as a bridge rather than a barrier."}
+    ]
+  },
+  {
+    "id": 23,
+    "sk": "शतायुषः पुत्रपौत्रान्वृणीष्व बहून्पशून्हस्तिहिरण्यमश्वान् | भूमेर्महदायतनं वृणीष्व स्वयं च जीव शरदो यावदिच्छसि ||",
+    "ro": "śatāyuṣaḥ · putra·pautrān · vṛṇīṣva · bahūn · paśūn · hasti·hiraṇyam · aśvān | bhūmer · mahad · āyatanaṁ · vṛṇīṣva · svayaṁ · ca · jīva · śarado · yāvad · icchasi ||",
+    "hi": "यम बोले: 'सौ वर्ष जीने वाले पुत्र-पौत्र माँग ले, बहुत-से पशु, हाथी, सोना, घोड़े माँग ले। पृथ्वी पर विशाल राज्य माँग ले। और तू स्वयं जितने वर्ष चाहे जी ले।'",
+    "en": "'Choose sons and grandsons who live a hundred years; many cattle, elephants, gold, and horses. Choose a great domain of earth. And live yourself as many autumns as you wish.'",
+    "ws": [
+      {"s": "शतायुषः (śatāyuṣaḥ)", "h": "सौ वर्ष की आयु वाले", "e": "living a hundred years — śata (hundred) + āyus (life); the maximum Vedic lifespan"},
+      {"s": "पुत्रपौत्रान् (putrapautrān)", "h": "पुत्र और पौत्र", "e": "sons and grandsons — the most coveted blessing: lineage and legacy"},
+      {"s": "हस्तिहिरण्यम् (hastihiraṇyam)", "h": "हाथी और सोना", "e": "elephants and gold — symbols of royal wealth and power"},
+      {"s": "आयतनम् (āyatanam)", "h": "निवास, क्षेत्र, राज्य", "e": "domain, dwelling, estate — a great territory to rule"},
+      {"s": "शरदः (śaradaḥ)", "h": "शरद् ऋतुएँ (वर्ष)", "e": "autumns (= years) — the Vedic way of counting years; 'as many years as you wish'"}
+    ],
+    "gr": "<strong>śatāyuṣaḥ putrapautrān</strong> — the first temptation: long-lived descendants — lineage is the Vedic form of immortality. <strong>bahūn paśūn hasti-hiraṇyam aśvān</strong> — material wealth of every kind. <strong>bhūmer mahad āyatanam</strong> — 'a great domain of earth': political power, sovereignty. <strong>svayaṁ ca jīva śarado yāvad icchasi</strong> — 'and live yourself as long as you wish': the ultimate temporal boon — unlimited lifespan. Yama offers everything that can be desired within the mortal framework.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.23 — Yama's temptation begins in earnest. He offers the complete catalogue of worldly goods: descendants, wealth, power, and unlimited life. This is Death offering immortality's counterfeit — endless duration instead of timeless being.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यम का प्रलोभन शिष्य की वैराग्य-परीक्षा है। जो साधक धन, यश, सन्तति और दीर्घायु को अस्वीकार कर सकता है — वही आत्मज्ञान का अधिकारी है। प्रलोभन जितना बड़ा, अस्वीकृति का मूल्य उतना अधिक।",
+        "en": "Shankara says Yama's temptation is a test of the student's dispassion. Only the seeker who can refuse wealth, fame, progeny, and long life is qualified for Self-knowledge. The greater the temptation, the greater the value of refusal.",
+        "ins": "The most powerful temptations are not sinful pleasures but the legitimate goods of life — family, wealth, power, longevity. Renouncing these for truth is the hardest test."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि यम का प्रस्ताव भगवान् के सिवाय सब कुछ है — और नचिकेता सब अस्वीकार करेगा क्योंकि भगवद्-ज्ञान के सामने सब तुच्छ है।",
+        "en": "Ramanuja says Yama's offer is everything except the Lord — and Nachiketa will refuse it all because everything is trivial compared to knowledge of the Lord.",
+        "ins": "The soul that has tasted even a glimpse of the Divine cannot be satisfied by the whole world."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द इस प्रलोभन को प्रकृति (Nature) के प्रतिरोध के रूप में देखते हैं — चेतना जब ऊर्ध्वगामी होती है, तब प्रकृति अपने सर्वोत्तम आकर्षणों से उसे रोकने का प्रयास करती है।",
+        "en": "Aurobindo reads the temptation as Nature's resistance — when consciousness moves upward, Nature tries to hold it back with her finest attractions.",
+        "ins": "The greatest obstacle to the Transcendent is not evil but the good — the legitimate, beautiful, desirable goods that bind precisely because they are genuinely attractive."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama tempt with 'legitimate goods' rather than sinful pleasures?", "a": "The Upanishad's temptation scene is profoundly different from the typical 'temptation by evil.' Yama does not offer Nachiketa power over others, vengeance, or forbidden knowledge. He offers the <strong>best possible life</strong>: long-lived children, material prosperity, political power, and unlimited personal lifespan. These are not sins — they are the highest legitimate aspirations of the Vedic householder. The Upanishad's insight is that the deepest attachment is not to evil but to good. A seeker can easily renounce what is obviously harmful. The true test is renouncing what is genuinely good — family, wealth, a long and comfortable life — for something that cannot be seen or measured. Nachiketa's greatness is not that he rejects evil but that he rejects the best that the finite world can offer."}
+    ]
+  },
+  {
+    "id": 24,
+    "sk": "एतत्तुल्यं यदि मन्यसे वरं वृणीष्व वित्तं चिरजीविकां च | महाभूमौ नचिकेतस्त्वमेधि कामानां त्वा कामभाजं करोमि ||",
+    "ro": "etat · tulyaṁ · yadi · manyase · varaṁ · vṛṇīṣva · vittaṁ · cirajīvikāṁ · ca | mahā·bhūmau · naciketaḥ · tvam · edhi · kāmānāṁ · tvā · kāma·bhājaṁ · karomi ||",
+    "hi": "'यदि तू इसके बराबर कोई और वर समझे तो माँग ले — धन और दीर्घायु। हे नचिकेता, विशाल पृथ्वी पर राज कर! मैं तुझे सब कामनाओं का भोक्ता बना देता हूँ।'",
+    "en": "'If you think any boon equal to this, choose it — wealth and long life. Thrive on the great earth, O Nachiketa! I will make you the enjoyer of all desires.'",
+    "ws": [
+      {"s": "तुल्यम् (tulyam)", "h": "बराबर, समान", "e": "equal, equivalent — Yama offers a substitute of 'equal' value"},
+      {"s": "वित्तम् (vittam)", "h": "धन, सम्पत्ति", "e": "wealth — from √vid ('to find, obtain')"},
+      {"s": "चिरजीविकाम् (cirajīvikām)", "h": "दीर्घायु, लम्बी जीवन-अवधि", "e": "long life — cira (long) + jīvikā (living, livelihood)"},
+      {"s": "एधि (edhi)", "h": "बढ़ो, समृद्ध होओ", "e": "thrive! — imperative 2nd sg. of √edh ('to prosper, grow')"},
+      {"s": "कामभाजम् (kāmabhājam)", "h": "कामनाओं का भोक्ता", "e": "enjoyer/sharer of desires — kāma (desire) + bhāj (one who shares/enjoys)"}
+    ],
+    "gr": "<strong>etat tulyaṁ yadi manyase</strong> — 'if you consider any boon equal': Yama still tries to redirect — offering equivalence rather than direct refusal. <strong>kāmānāṁ tvā kāma-bhājaṁ karomi</strong> — 'I will make you the enjoyer of desires': the ultimate worldly offer — not just specific desires but the capacity to enjoy <em>all</em> desires. This is the structural maximum of what the finite world can offer.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.24 — Yama escalates the temptation: not just specific goods but the universal capacity to enjoy. 'I will make you the enjoyer of all desires' is the most comprehensive possible worldly offer — the blank cheque of mortality.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'कामभाजम्' — समस्त कामनाओं का भोक्ता — संसार का सर्वोच्च प्रस्ताव है। इससे अधिक लौकिक जगत् दे ही नहीं सकता। नचिकेता का अस्वीकार इसलिए सर्वोच्च वैराग्य है।",
+        "en": "Shankara says 'kāmabhājam' — enjoyer of all desires — is the world's highest offer. The temporal world cannot give more. Nachiketa's refusal is therefore the supreme dispassion.",
+        "ins": "When you can refuse everything the world offers — not from inability to enjoy but from knowing something greater — that is true vairāgya."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि सभी कामनाओं का भोग भी भगवद्-ज्ञान के एक अंश के बराबर नहीं। भगवान् का प्रेम सब भोगों से परे है।",
+        "en": "Ramanuja says even enjoyment of all desires does not equal a fraction of knowledge of the Lord. The Lord's love surpasses all pleasures.",
+        "ins": "All the world's pleasures combined are a drop; the Lord's love is the ocean."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द कहते हैं कि 'समस्त कामनाओं का भोक्ता' बनने का प्रस्ताव अहंकार का चरम विस्तार है — सब कुछ भोगना किन्तु सत्य को न जानना। यही माया का सर्वोच्च रूप है।",
+        "en": "Aurobindo says the offer to become 'enjoyer of all desires' is the ego's ultimate expansion — to enjoy everything yet know nothing of the truth. This is the supreme form of māyā.",
+        "ins": "The ego's dream of total enjoyment is the last and most seductive illusion. Beyond it lies the Self — which is beyond both enjoyment and its absence."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the difference between 'unlimited lifespan' and 'immortality'?", "a": "Yama offers <strong>'śarado yāvad icchasi'</strong> (as many years as you wish) and <strong>'cirajīvikām'</strong> (long life). This is <em>unlimited duration</em> — living as long as you want within time. But this is not <em>immortality</em> (amṛtatva) in the Upanishadic sense. Immortality means existing beyond time altogether — not living for a very long time but being the eternal principle that is never born and never dies. Yama's offer is the counterfeit of what Nachiketa seeks: <strong>endless quantity of time</strong> versus <strong>timeless quality of being</strong>. This distinction is the Katha Upanishad's sharpest insight: even an infinite lifespan would not answer Nachiketa's question, because the question is not 'How long can I live?' but 'What am I beyond the body that lives and dies?'"}
+    ]
+  },
+  {
+    "id": 25,
+    "sk": "ये ये कामा दुर्लभा मर्त्यलोके सर्वान्कामांश्छन्दतः प्रार्थयस्व | इमा रामाः सरथाः सतूर्या न हीदृशा लम्भनीया मनुष्यैः | आभिर्मत्प्रत्ताभिः परिचारयस्व नचिकेतो मरणं मानुप्राक्षीः ||",
+    "ro": "ye ye · kāmā · durlabhā · martya·loke · sarvān · kāmāṁś · chandataḥ · prārthayasva | imā · rāmāḥ · sa·rathāḥ · sa·tūryā · na · hīdṛśā · lambhanīyā · manuṣyaiḥ | ābhir · mat·prattābhiḥ · paricārayasva · naciketo · maraṇaṁ · mā · anuprākṣīḥ ||",
+    "hi": "'जो-जो कामनाएँ मृत्युलोक में दुर्लभ हैं, सब इच्छानुसार माँग ले। ये रमणियाँ — रथों और वाद्यों सहित — ऐसी मनुष्यों को प्राप्त नहीं होतीं। मेरे द्वारा दी हुई इनसे सेवा करा। हे नचिकेता, मरण के विषय में मत पूछ!'",
+    "en": "'Whatever desires are hard to obtain in the mortal world — ask for all desires at your pleasure. These fair maidens with their chariots and musical instruments — such are not to be won by mortals. Be served by these whom I give you. O Nachiketa, do not ask about death!'",
+    "ws": [
+      {"s": "दुर्लभाः (durlabhāḥ)", "h": "दुर्लभ, कठिनाई से प्राप्य", "e": "hard to obtain — dur (difficult) + labh (to get); the rarest pleasures"},
+      {"s": "छन्दतः (chandataḥ)", "h": "इच्छानुसार, मनचाहे", "e": "at pleasure, as you wish — from √chand ('to please'); complete freedom of choice"},
+      {"s": "रामाः (rāmāḥ)", "h": "सुन्दर स्त्रियाँ, रमणियाँ", "e": "beautiful women — from √ram ('to delight'); celestial maidens"},
+      {"s": "सरथाः (sarathāḥ)", "h": "रथों सहित", "e": "with chariots — sa (with) + ratha (chariot)"},
+      {"s": "सतूर्याः (satūryāḥ)", "h": "वाद्य-यन्त्रों सहित", "e": "with musical instruments — sa (with) + tūrya (musical instrument)"},
+      {"s": "मा अनुप्राक्षीः (mā anuprākṣīḥ)", "h": "मत पूछ", "e": "do not ask — prohibitive aorist of anu+pra+√akṣ or √prach ('to ask'); 'stop inquiring about this'"}
+    ],
+    "gr": "<strong>ye ye kāmā durlabhā martya-loke</strong> — 'whatever desires are hard to obtain in the mortal world': the doubling 'ye ye' (whatever, whatever) emphasises universality — anything at all. <strong>imā rāmāḥ sa-rathāḥ sa-tūryāḥ</strong> — the most vivid temptation: beautiful women with chariots and music — celestial pleasures ordinarily inaccessible to humans. <strong>na hīdṛśā lambhanīyā manuṣyaiḥ</strong> — 'such are not to be won by mortals': the exclusivity argument — what I offer is beyond mortal reach. <strong>maraṇaṁ mā anuprākṣīḥ</strong> — 'do not ask about death': Yama's final, desperate plea.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.25 — The climax of Yama's temptation: celestial maidens, unlimited pleasure, and a direct command not to ask about death. This is the temptation's most sensual moment — and Nachiketa's refusal (mantras 26-29) will be correspondingly magnificent.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'मरणं मा अनुप्राक्षीः' (मृत्यु के बारे में मत पूछ) यम का अन्तिम प्रयास है। शंकर इस पूरे प्रलोभन-दृश्य को शिष्य-परीक्षा मानते हैं — केवल वह शिष्य जो सब कुछ अस्वीकार करे, आत्मज्ञान का अधिकारी है।",
+        "en": "Shankara reads 'maraṇaṁ mā anuprākṣīḥ' (don't ask about death) as Yama's final attempt. Shankara treats the entire temptation as a student-test — only the student who refuses everything is qualified for Self-knowledge.",
+        "ins": "The ultimate examination is not intellectual but existential: can you refuse the world's best offer for an invisible truth?"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि स्वर्गीय रमणियाँ और भोग भगवान् के बिना शून्य हैं। नचिकेता यह जानता है — इसलिए वह अस्वीकार करेगा।",
+        "en": "Ramanuja says celestial maidens and pleasures are empty without the Lord. Nachiketa knows this — therefore he will refuse.",
+        "ins": "No pleasure, however exalted, can substitute for the Lord's presence."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द इस प्रलोभन को काम (desire) की अन्तिम चुनौती मानते हैं — चेतना के उत्थान के मार्ग में काम-शक्ति अपने सर्वोत्तम रूप में बाधा बनती है। इसे पार करना ही सच्ची विजय है।",
+        "en": "Aurobindo reads this as desire's final challenge — on the path of consciousness's ascent, the desire-force presents its finest form as an obstacle. Crossing this is the true victory.",
+        "ins": "The last barrier is not aversion but attraction. The soul must pass through desire's most beautiful manifestation to reach the Eternal."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Yama end with 'Do not ask about death' (maraṇaṁ mā anuprākṣīḥ)?", "a": "This is the most revealing moment of the temptation. After offering everything — descendants, wealth, power, pleasure, unlimited life, celestial maidens — Yama adds a direct prohibition: <strong>'Do not ask about death.'</strong> The shift from enticement to command shows Yama's desperation. He has exhausted every positive inducement and now resorts to a bare directive. The word <strong>anuprākṣīḥ</strong> (from anu+pra+√prach, 'to inquire persistently') suggests that Nachiketa has been pressing this question throughout the temptation, undeterred. The boy's silence during the offers was not hesitation but the steady pressure of a question that refuses to be diverted. Yama's command reveals that the offers have failed — and the next verses will show Nachiketa's magnificent refusal."}
+    ]
+  },
+  {
+    "id": 26,
+    "sk": "श्वोभावा मर्त्यस्य यदन्तकैतत्सर्वेन्द्रियाणां जरयन्ति तेजः | अपि सर्वं जीवितमल्पमेव तवैव वाहास्तव नृत्यगीते ||",
+    "ro": "śvo·bhāvā · martyasya · yad · antaka · etat · sarva·indriyāṇāṁ · jarayanti · tejaḥ | api · sarvaṁ · jīvitam · alpam · eva · tava · eva · vāhāḥ · tava · nṛtya·gīte ||",
+    "hi": "नचिकेता बोला: 'हे अन्तक (मृत्यो)! ये सब भोग कल तक ही रहने वाले हैं। ये सब इन्द्रियों का तेज क्षीण कर देते हैं। सम्पूर्ण जीवन भी अल्प ही है। आपके ही रहें आपके वाहन, आपके ही रहें नृत्य और गीत।'",
+    "en": "'These things last only till tomorrow, O Ender (Death). They wear out the vigour of all the senses. Even a whole life is but short. Keep your chariots, keep your dance and song.'",
+    "ws": [
+      {"s": "श्वोभावाः (śvobhāvāḥ)", "h": "कल तक रहने वाले, क्षणभंगुर", "e": "lasting only till tomorrow — śvas (tomorrow) + bhāva (existence); ephemeral"},
+      {"s": "अन्तक (antaka)", "h": "अन्त करने वाला — मृत्यु", "e": "O Ender — vocative of antaka; a name for Death meaning 'the one who ends'"},
+      {"s": "जरयन्ति (jarayanti)", "h": "क्षीण करते हैं, जीर्ण करते हैं", "e": "they wear out — causative of √jṝ ('to age, decay'); the pleasures themselves cause decay"},
+      {"s": "तेजः (tejaḥ)", "h": "तेज, शक्ति, ओज", "e": "vigour, radiance — the vital energy of the senses; depleted by indulgence"},
+      {"s": "अल्पम् एव (alpam eva)", "h": "अत्यल्प ही", "e": "very little, mere trifle — eva intensifies: even a full life is just a trifle"}
+    ],
+    "gr": "<strong>śvo-bhāvāḥ</strong> — 'things of tomorrow': a single compound that dismisses all temporal goods — they exist only until tomorrow, i.e., they are already passing even as you enjoy them. <strong>sarvendriyāṇāṁ jarayanti tejaḥ</strong> — the pleasures actively destroy the senses' capacity: indulgence leads to exhaustion. <strong>api sarvaṁ jīvitam alpam eva</strong> — 'even a whole life is but short': this is a boy — possibly no more than twelve years old — declaring that an entire human life is trivial. <strong>tava eva vāhāḥ tava nṛtya-gīte</strong> — 'Keep your chariots, keep your dance and song': the dismissal is contemptuous and absolute.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.26 — Nachiketa's magnificent refusal begins. In a single verse he dismisses all of Yama's offers with three arguments: (1) they are ephemeral (śvo-bhāvā); (2) they destroy the senses; (3) even a whole life is short. Then the devastating punchline: 'Keep your chariots; keep your dance and song.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'श्वोभावा' (कल तक रहने वाले) एक शब्द में सांसारिक सुखों का सम्पूर्ण खण्डन है। जो कल समाप्त हो जाये, उसके लिए शाश्वत सत्य को छोड़ना मूर्खता है। नचिकेता का वैराग्य यहाँ पूर्ण है।",
+        "en": "Shankara says 'śvo-bhāvā' (things of tomorrow) is a one-word refutation of all worldly pleasures. To abandon eternal truth for what ends tomorrow is folly. Nachiketa's dispassion is here complete.",
+        "ins": "One word — 'tomorrow' — destroys the allure of every temporal pleasure. What lasts until tomorrow is already gone."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि नचिकेता की अस्वीकृति भगवद्-प्रेम की शक्ति से आती है — जो भगवान् को चाहता है, वह संसार को स्वतः अल्प जानता है।",
+        "en": "Ramanuja says Nachiketa's refusal comes from the power of love for the Lord — one who desires the Lord naturally knows the world as trivial.",
+        "ins": "The soul that has glimpsed the Eternal finds all temporal goods — however splendid — naturally trivial."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द 'श्वोभावा' में अनित्यता (impermanence) का सर्वोच्च बोध देखते हैं। जब चेतना शाश्वत की ओर मुड़ती है, तब सब क्षणिक वस्तुएँ अपने आप गिर जाती हैं — त्याग करना नहीं पड़ता, वे अर्थहीन हो जाती हैं।",
+        "en": "Aurobindo sees in 'śvo-bhāvā' the supreme insight into impermanence. When consciousness turns toward the Eternal, all transient things fall away naturally — one does not need to renounce them; they become meaningless.",
+        "ins": "True renunciation is not painful rejection but natural irrelevance — the Eternal makes the temporal simply uninteresting."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Nachiketa say pleasures 'wear out the senses' (jarayanti tejaḥ)?", "a": "This is a remarkably sophisticated observation for a boy. Nachiketa does not say pleasures are evil — he says they are <strong>self-consuming</strong>. The word <strong>jarayanti</strong> (causative of √jṝ, 'to age') means the pleasures actively cause the senses to decay. The more you indulge, the less capacity you have to enjoy. This is not moral condemnation but psychological observation: pleasure has diminishing returns. The first taste delights; the hundredth taste barely registers. The senses that were meant to be instruments of perception become dulled by overuse. Nachiketa's argument is not ascetic ('pleasure is bad') but realistic ('pleasure destroys its own instrument')."},
+      {"q": "🔍 What does 'Keep your chariots, keep your dance and song' reveal?", "a": "The final line — <strong>'tava eva vāhāḥ tava nṛtya-gīte'</strong> (yours be the chariots, yours the dance and song) — is Nachiketa's rhetorical masterstroke. He does not merely decline Yama's offer; he <em>returns</em> it. The phrasing 'tava eva' (yours only, yours alone) implies: 'These things belong to your world, O Death — the world of temporality, of endings, of things that last until tomorrow. I want no part of your world. I want what is beyond your world.' By returning the gifts to Death, Nachiketa symbolically declares that the entire domain of the finite — however beautiful — belongs to Death and is therefore inherently impermanent. He seeks the one thing that does not belong to Death: the deathless Self."}
+    ]
+  },
+  {
+    "id": 27,
+    "sk": "न वित्तेन तर्पणीयो मनुष्यो लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा | जीविष्यामो यावदीशिष्यसि त्वं वरस्तु मे वरणीय एव सः ||",
+    "ro": "na · vittena · tarpaṇīyo · manuṣyo · lapsyāmahe · vittam · adrākṣma · cet · tvā | jīviṣyāmo · yāvad · īśiṣyasi · tvaṁ · varas · tu · me · varaṇīya · eva · saḥ ||",
+    "hi": "'मनुष्य धन से सन्तुष्ट होने वाला नहीं। यदि हम आपको देख चुके हैं तो धन तो मिल ही जायेगा। हम तब तक जीएँगे जब तक आप (मृत्यु) शासन करें। परन्तु मेरा चुना हुआ वरदान वही (तीसरा) है।'",
+    "en": "'Man is not to be satisfied by wealth. We shall obtain wealth if we have seen you. We shall live only as long as you rule. The boon I choose is verily that alone.'",
+    "ws": [
+      {"s": "न तर्पणीयः (na tarpaṇīyaḥ)", "h": "सन्तुष्ट नहीं किया जा सकता", "e": "cannot be satisfied — gerundive negative of √tṛp ('to be satisfied'); it is impossible to satisfy man with wealth"},
+      {"s": "लप्स्यामहे (lapsyāmahe)", "h": "हम प्राप्त कर लेंगे", "e": "we shall obtain — future 1st pl. of √labh; wealth will come naturally"},
+      {"s": "अद्राक्ष्म (adrākṣma)", "h": "हमने देखा, दर्शन किया", "e": "we have seen — aorist 1st pl. of √dṛś; 'having beheld you (Death)'"},
+      {"s": "ईशिष्यसि (īśiṣyasi)", "h": "शासन करोगे", "e": "you will rule — future 2nd sg. of √īś ('to rule, command')"},
+      {"s": "वरणीयः (varaṇīyaḥ)", "h": "चुनने योग्य", "e": "worthy of choosing — gerundive of √vṛ ('to choose'); 'the only one worth choosing'"}
+    ],
+    "gr": "<strong>na vittena tarpaṇīyo manuṣyaḥ</strong> — 'man cannot be satisfied by wealth': a universal anthropological statement — the nature of desire is that it can never be fulfilled by its objects. <strong>lapsyāmahe vittam adrākṣma cet tvā</strong> — 'we shall get wealth having seen you': a sardonic aside — having met Death face-to-face, worldly wealth seems easy to obtain. <strong>jīviṣyāmo yāvad īśiṣyasi tvam</strong> — 'we shall live as long as you rule': since Death rules time, our lifespan is entirely in Death's hands — so offering long life is giving what is already Death's to give or take. <strong>varas tu me varaṇīya eva saḥ</strong> — the emphatic conclusion: 'that boon alone is worth choosing.'",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.27 — Nachiketa's refusal deepens: wealth cannot satisfy (a universal truth), lifespan is Death's to control (so offering it is circular), and the only boon worth choosing is the original question. The verse 'na vittena tarpaṇīyo manuṣyaḥ' is one of the most quoted lines in all Upanishadic literature.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर 'न वित्तेन तर्पणीयो मनुष्यः' को मानव-स्वभाव का सार्वभौमिक सत्य मानते हैं। कामना की प्रकृति ही ऐसी है कि जितना मिले, उतनी और बढ़ती है। इसलिए कामना-पूर्ति से कभी तृप्ति नहीं होती — केवल ज्ञान से होती है।",
+        "en": "Shankara reads 'na vittena tarpaṇīyo manuṣyaḥ' as a universal truth of human nature. Desire by its nature grows with fulfillment — more only produces more craving. Satisfaction comes only through knowledge, never through objects.",
+        "ins": "The nature of desire is to increase with feeding. Only the knowledge of the desireless Self can end the cycle of craving."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि मनुष्य की अतृप्ति भगवान् के प्रति उसकी स्वाभाविक अभिलाषा का प्रमाण है — संसार की कोई भी वस्तु इस अभिलाषा को पूर्ण नहीं कर सकती, केवल भगवान् कर सकते हैं।",
+        "en": "Ramanuja says man's insatiability is proof of his natural longing for the Lord — no worldly object can fulfill this longing; only the Lord can.",
+        "ins": "Every unsatisfied desire is a misidentified desire for God."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द कहते हैं कि मानव चेतना सीमित वस्तुओं से कभी सन्तुष्ट नहीं हो सकती क्योंकि चेतना स्वभावतः असीम है — वह असीम को ही खोज रही है, सीमित रूपों में।",
+        "en": "Aurobindo says human consciousness can never be satisfied by finite objects because consciousness is inherently infinite — it is seeking the Infinite, disguised in finite forms.",
+        "ins": "The soul's hunger is for the Infinite. Every finite satisfaction only sharpens that hunger."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is 'Man cannot be satisfied by wealth' (na vittena tarpaṇīyo manuṣyaḥ) so famous?", "a": "This sentence is one of the most quoted in Indian philosophy because it captures a <strong>universal empirical truth</strong> in seven words. It is not a moral injunction ('you should not want wealth') but an observation about human nature ('wealth cannot satisfy you'). The gerundive <strong>tarpaṇīyaḥ</strong> (capable of being satisfied) makes it definitive — it is not that man <em>should not</em> be satisfied by wealth, but that he <em>cannot</em> be. The structure of desire is self-expanding: each fulfillment creates new desires. This is observable in every life, every society, every era. The Upanishad's insight predates and includes the Buddhist observation of dukkha, the Stoic concept of preferred indifferents, and the modern psychological understanding of hedonic adaptation — all captured in one verse, spoken by a boy to Death itself."}
+    ]
+  },
+  {
+    "id": 28,
+    "sk": "अजीर्यतामृतानामुपेत्य जीर्यन्मर्त्यः क्वधःस्थः प्रजानन् | अभिध्यायन्वर्णरतिप्रमोदानतिदीर्घे जीविते को रमेत ||",
+    "ro": "ajīryatām · amṛtānām · upetya · jīryan · martyaḥ · kva · adhaḥ·sthaḥ · prajānan | abhidhyāyan · varṇa·rati·pramodān · atidīrghe · jīvite · ko · rameta ||",
+    "hi": "'अजर-अमर (देवताओं) के निकट पहुँचकर, स्वयं जीर्ण होता हुआ, नीचे रहता हुआ मर्त्य प्राणी — रूप-रति-आमोद पर विचार करते हुए — अत्यन्त दीर्घ जीवन में भी कौन आनन्दित होगा?'",
+    "en": "'Having approached the undecaying immortals, what decaying mortal here below, knowing (his condition), reflecting on the pleasures of beauty and love — who would delight in an over-long life?'",
+    "ws": [
+      {"s": "अजीर्यताम् अमृतानाम् (ajīryatām amṛtānām)", "h": "न जीर्ण होने वाले, अमर (देवताओं) के", "e": "of the undecaying immortals — genitive pl.; those who neither age nor die"},
+      {"s": "उपेत्य (upetya)", "h": "निकट पहुँचकर", "e": "having approached — absolutive of upa+√i ('to go near')"},
+      {"s": "जीर्यन् (jīryan)", "h": "जीर्ण होता हुआ, बूढ़ा होता हुआ", "e": "decaying — present participle of √jṝ ('to age'); even while approaching the immortals, the mortal is aging"},
+      {"s": "अधःस्थः (adhaḥsthaḥ)", "h": "नीचे स्थित", "e": "dwelling below — adhaḥ (below) + stha (standing); mortals dwell in the lower realm"},
+      {"s": "वर्णरतिप्रमोदान् (varṇaratipramodān)", "h": "रूप, रति और आमोद के", "e": "beauty, love-play, and delight — three categories of sensory pleasure"},
+      {"s": "अतिदीर्घे (atidīrghe)", "h": "अत्यन्त लम्बे", "e": "over-long — ati (excessively) + dīrgha (long); even unlimited lifespan"}
+    ],
+    "gr": "<strong>ajīryatām amṛtānām upetya</strong> — 'having approached the undecaying immortals': Nachiketa has been in Yama's presence — he has already 'approached' the realm of the immortal. From this vantage point, mortal pleasures look trivial. <strong>jīryan martyaḥ kva adhaḥ-sthaḥ</strong> — 'what decaying mortal, dwelling below': the three conditions (decaying, mortal, below) stack to create a devastating portrait of the human condition. <strong>ko rameta</strong> — 'who would delight?': a rhetorical question expecting the answer 'no one.'",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.28 — Nachiketa's most philosophical argument: having glimpsed immortality, how can a decaying mortal find satisfaction in endless but declining life? The verse turns the temptation inside out — the very fact of having met Death reveals the emptiness of Death's offers.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह श्लोक विवेक का पूर्ण प्रकाश है: जो क्षणभंगुर है उसे शाश्वत के प्रकाश में देखना — यही ज्ञान का प्रारम्भ है। नचिकेता ने अमृत (यम) के समक्ष खड़े होकर अपनी नश्वरता को देखा — और उसी क्षण निर्णय हो गया।",
+        "en": "Shankara says this verse is the full light of discrimination: seeing the transient in the light of the eternal — this is the beginning of knowledge. Standing before the immortal (Yama), Nachiketa saw his own mortality — and the decision was made.",
+        "ins": "True discrimination arises when you see the finite from the standpoint of the Infinite. From there, no finite offer can tempt."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'अजीर्यताम् अमृतानाम् उपेत्य' — अमर देवताओं के पास जाकर — यह अनुभव भगवान् के दर्शन का पूर्व-स्वाद है। एक बार भगवान् की झलक पाने के बाद, संसार का कोई भी सुख आकृष्ट नहीं कर सकता।",
+        "en": "Ramanuja says 'having approached the immortals' is a foretaste of the Lord's vision. Once you have glimpsed the Lord, no worldly pleasure can attract.",
+        "ins": "One moment of the Lord's darśana makes a lifetime of worldly pleasure seem like a shadow on the wall."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द कहते हैं कि नचिकेता का दृष्टिकोण अब ऊर्ध्व से है — उसने अमरत्व का स्तर देखा है और नीचे लौटकर क्षणभंगुर सुखों में रमण करना असम्भव है। यह चेतना का अपरिवर्तनीय रूपान्तरण है।",
+        "en": "Aurobindo says Nachiketa's perspective is now from above — he has seen the level of immortality and returning to revel in transient pleasures is impossible. This is an irreversible transformation of consciousness.",
+        "ins": "Once consciousness has risen to a higher level, it cannot genuinely return to the lower. The view from the summit makes the valley's pleasures uninteresting."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What makes this argument Nachiketa's most devastating?", "a": "Nachiketa's final argument before his concluding demand is a masterpiece of existential reasoning. He says: <strong>I have already approached the immortals (you, Yama, and your realm). From that vantage point, I can see what I am — a decaying mortal dwelling below. Knowing this, how could I possibly enjoy an over-long life?</strong> The argument works because it uses Yama's own gift against him. By sending Nachiketa to the realm of death, Yama inadvertently gave the boy the one experience that makes all worldly temptation powerless: <em>the direct perception of mortality</em>. Once you have truly seen that you are dying — not as an abstract idea but as a lived fact — no amount of beauty, love, or delight can make you forget. The encounter with Death, which Yama intended as an obligation, has become Nachiketa's liberation from desire."}
+    ]
+  },
+  {
+    "id": 29,
+    "sk": "यस्मिन्निदं विचिकित्सन्ति मृत्यो यत्साम्पराये महति ब्रूहि नस्तत् | योऽयं वरो गूढमनुप्रविष्टो नान्यं तस्मान्नचिकेता वृणीते ||",
+    "ro": "yasmin · idaṁ · vicikitsanti · mṛtyo · yat · sāmparāye · mahati · brūhi · nas · tat | yo · ayaṁ · varo · gūḍham · anupraviṣṭo · na · anyaṁ · tasmāt · naciketā · vṛṇīte ||",
+    "hi": "'हे मृत्यो! जिस महान् साम्पराय (परलोक) के विषय में यह संदेह है — वह हमें बताइए। जो यह वरदान गहनतम रहस्य में प्रविष्ट है — उसके सिवाय नचिकेता कुछ और नहीं माँगता।'",
+    "en": "'That about which they doubt, O Death — what lies in the great hereafter — tell us that. This boon that has entered into the deepest mystery — no other than this does Nachiketa choose.'",
+    "ws": [
+      {"s": "विचिकित्सन्ति (vicikitsanti)", "h": "संदेह करते हैं", "e": "they doubt — present 3rd pl. of intensive √kit; persistent, universal doubt"},
+      {"s": "साम्पराये महति (sāmparāye mahati)", "h": "महान् परलोक में", "e": "in the great hereafter — sāmparāya (the next world, the beyond) + mahati (great)"},
+      {"s": "ब्रूहि नः (brūhi naḥ)", "h": "हमें बताइए", "e": "tell us — imperative of √brū + naḥ (to us); the plural 'us' includes all seekers"},
+      {"s": "गूढम् अनुप्रविष्टः (gūḍham anupraviṣṭaḥ)", "h": "गहन रहस्य में प्रवेश किया हुआ", "e": "entered into the hidden/secret — gūḍha (hidden) + anupraviṣṭa (penetrated, gone deep into)"},
+      {"s": "न अन्यम् (na anyam)", "h": "कोई और नहीं", "e": "no other — emphatic refusal of all alternatives"}
+    ],
+    "gr": "<strong>yasmin idaṁ vicikitsanti</strong> — 'that about which they doubt': the universal doubt, shared by gods and mortals alike. <strong>sāmparāye mahati</strong> — 'in the great hereafter': sāmparāya (from sam+parā+√i, 'that which lies beyond') + mahati (great) — the 'great beyond' is not a place but a question about the nature of existence itself. <strong>gūḍham anupraviṣṭaḥ</strong> — 'entered into the hidden': this boon has gone deep into mystery — it is not a surface question but one that penetrates to the core of reality. <strong>na anyaṁ tasmāt naciketā vṛṇīte</strong> — the closing statement: Nachiketa, speaking of himself in the third person for emphasis, declares with finality that he chooses nothing else.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_1.1.29 — The closing verse of Valli 1. Nachiketa's final, irrevocable demand: tell me what lies in the great hereafter. The speaking in third person ('Nachiketa chooses no other') gives the demand the force of an absolute declaration. Valli 2 will begin with Yama's response — the teaching of the Self.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि नचिकेता का 'गूढमनुप्रविष्ट' कहना दर्शाता है कि यह प्रश्न सतही नहीं — यह अस्तित्व के गहनतम रहस्य में प्रवेश करता है। 'ब्रूहि नः' में 'नः' (हमें) बहुवचन है — नचिकेता समस्त मानवता की ओर से पूछ रहा है। यहाँ शिष्य-परीक्षा पूर्ण हो चुकी है; अब गुरु को उत्तर देना ही होगा।",
+        "en": "Shankara says 'gūḍham anupraviṣṭa' (entered into the hidden) shows this question is not superficial — it penetrates existence's deepest mystery. The plural 'naḥ' (us) means Nachiketa asks on behalf of all humanity. The student's testing is now complete; the teacher must answer.",
+        "ins": "When the student has proven themselves absolutely — by refusing every substitute and insisting with total conviction — the teacher can no longer withhold. The teaching must flow."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'साम्पराये महति' — 'महान् परलोक' — भगवान् का नित्य धाम है। नचिकेता का प्रश्न वस्तुतः यह है: भगवान् तक कैसे पहुँचें और क्या वहाँ से लौटना होता है? यही भक्ति-मार्ग का सर्वोच्च प्रश्न है।",
+        "en": "Ramanuja says 'sāmparāye mahati' — 'the great beyond' — is the Lord's eternal realm. Nachiketa's question is really: how does one reach the Lord, and is there return? This is the supreme question of the devotion-path.",
+        "ins": "The ultimate question of every devotee: will I reach the Lord, and having reached, will I ever be separated again?"
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अरविन्द 'गूढमनुप्रविष्ट' में चेतना की गहनतम गुहा — अन्तरात्मा के रहस्य — की ओर संकेत देखते हैं। नचिकेता का प्रश्न सीधा मृत्यु के पार क्या है, यह नहीं — बल्कि 'चेतना का वह स्तर क्या है जो मृत्यु को पार करता है?'",
+        "en": "Aurobindo sees in 'gūḍham anupraviṣṭa' a pointer to consciousness's deepest cave — the psychic being's mystery. Nachiketa's question is not simply 'what is beyond death' but 'what level of consciousness transcends death?'",
+        "ins": "The question that enters the deepest mystery is not about a place after death but about the dimension of being that death cannot touch."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does Nachiketa speak of himself in the third person ('Nachiketa chooses no other')?", "a": "The shift to <strong>third person</strong> — 'naciketā vṛṇīte' (Nachiketa chooses) instead of 'vṛṇe' (I choose) — is a rhetorical escalation. By naming himself, Nachiketa transforms his personal request into a <em>historical declaration</em>. He is no longer a boy asking a favour; he is a figure making a statement for the record. The third person gives the demand the quality of an oath, a public vow, an irrevocable commitment. It also creates distance between the speaker and the act — as if to say: 'This is not merely my whim; this is what Nachiketa — the one who bears this name, this destiny — is determined to do.' The declaration closes Valli 1 with absolute finality. There is no going back. Yama must now teach."},
+      {"q": "🔍 How does Valli 1 set up the rest of the Katha Upanishad?", "a": "Valli 1 is a masterfully constructed prologue that establishes every element the Upanishad needs: <strong>(1) The seeker's qualification</strong> — Nachiketa has been tested by circumstances (his father's curse), by endurance (three nights without food), by intellectual capacity (perfect recall of the fire-teaching), and by dispassion (refusal of all worldly temptation). <strong>(2) The teacher's authority</strong> — Yama is the only possible teacher for this question, as Nachiketa proved. <strong>(3) The question's urgency</strong> — it is the universal human doubt (vicikitsā), asked on behalf of all beings (brūhi naḥ). <strong>(4) The impossibility of evasion</strong> — Yama has tried every deflection and failed. The stage is perfectly set. Valli 2 will begin with Yama's capitulation and the commencement of the greatest teaching in the Upanishads: the nature of the Self that is beyond death."}
+    ]
   }
 ]
