@@ -46,8 +46,8 @@ Commit and push the new JSON file when done.
 |---|---|---|---|
 | `content/katha_1_1.json` | 1–29 | Adhyaya 1 Valli 1 — Nachiketa's three boons | ✅ DONE |
 | `content/katha_1_2.json` | 1–25 | Adhyaya 1 Valli 2 — What is beyond the senses | ✅ DONE |
-| `content/katha_1_3.json` | 1–17 | Adhyaya 1 Valli 3 — Chariot metaphor, self-knowledge | ⏳ NEXT |
-| `content/katha_2_1.json` | 1–15 | Adhyaya 2 Valli 1 — The city of eleven gates | ❌ PENDING |
+| `content/katha_1_3.json` | 1–17 | Adhyaya 1 Valli 3 — Chariot metaphor, self-knowledge | ✅ DONE |
+| `content/katha_2_1.json` | 1–15 | Adhyaya 2 Valli 1 — The city of eleven gates | ⏳ NEXT |
 | `content/katha_2_2.json` | 1–15 | Adhyaya 2 Valli 2 — The Cosmic Person | ❌ PENDING |
 | `content/katha_2_3.json` | 1–17 | Adhyaya 2 Valli 3 — The Yoga of the Self | ❌ PENDING |
 
