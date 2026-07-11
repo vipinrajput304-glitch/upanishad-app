@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "sk": "ऋतं पिबन्तौ सुकृतस्य लोके गुहां प्रविष्टौ परमे परार्धे | छायातपौ ब्रह्मविदो वदन्ति पञ्चाग्नयो ये च त्रिणाचिकेताः ||",
+    "ro": "ṛtaṁ · pibantau · sukṛtasya · loke · guhāṁ · praviṣṭau · parame · parārdhe | chāyā-ātapau · brahma-vidaḥ · vadanti · pañca-agnayaḥ · ye · ca · tri-nāciketāḥ ||",
+    "hi": "सुकृत (पुण्य-कर्म) के लोक में, परम परार्ध (सर्वोच्च स्थान) में, गुहा (हृदय-गुफा) में प्रविष्ट हुए, ऋत (सत्य / कर्म-फल) का पान करने वाले दो (जीवात्मा और परमात्मा) को ब्रह्मवित् (ब्रह्मज्ञानी) छाया और आतप (छाया और धूप) कहते हैं — वे जो पञ्चाग्नि विद्या को जानते हैं और जो तीन बार नाचिकेत अग्नि का चयन कर चुके हैं।",
+    "en": "The two — who drink the fruit (ṛta) of their actions in the world of good deeds, who have entered the cave (of the heart) in the highest supreme abode — the knowers of Brahman call them shadow and sunlight; so too do those who have performed the five-fire sacrifice and those who have thrice kindled the Nachiketa fire.",
+    "ws": [
+      {"s": "ऋतम् (ṛtam)", "h": "ऋत — सत्य / कर्मफल", "e": "ṛta — cosmic truth / the fruit of actions; here: the results of karma 'drunk' (experienced) by the two"},
+      {"s": "पिबन्तौ (pibantau)", "h": "पीने वाले दो", "e": "the two who drink — dual nominative present participle of √pā (to drink); refers to jīvātman and Paramātman"},
+      {"s": "गुहाम् प्रविष्टौ (guhāṁ praviṣṭau)", "h": "गुहा (हृदय-गुफा) में प्रवेश किए हुए दो", "e": "the two who have entered the cave — the cave of the heart (hṛdaya-guha), the innermost seat of consciousness"},
+      {"s": "परमे परार्धे (parame parārdhe)", "h": "सर्वोच्च परार्ध (स्थान) में", "e": "in the highest supreme abode — parama (highest) + parārdha (supreme half / highest plane); the subtlest seat of reality"},
+      {"s": "छायातपौ (chāyā-ātapau)", "h": "छाया और धूप", "e": "shadow and sunlight — a dual compound; the individual self (shadow, reflected consciousness) and the supreme Self (sunlight, the source)"},
+      {"s": "पञ्चाग्नयः (pañca-agnayaḥ)", "h": "पंचाग्नि विद्या जानने वाले", "e": "those who know the five-fire doctrine — the pañcāgni-vidyā taught in the Chāndogya (5.3-10) and Bṛhadāraṇyaka (6.2)"},
+      {"s": "त्रिणाचिकेताः (tri-nāciketāḥ)", "h": "तीन बार नाचिकेत अग्नि चयन करने वाले", "e": "those who have thrice performed the Nachiketa fire — referring to the three-fold fire-altar described earlier (1.1.16-18)"}
+    ],
+    "gr": "<strong>ṛtaṁ pibantau</strong> — 'the two who drink ṛta': the dual number is crucial — two entities share the cave of the heart, one experiencing (jīva) and one witnessing (Paramātman). The 'drinking' metaphor means they partake of (experience) the fruit of actions. <strong>chāyā-ātapau</strong> — 'shadow and sunlight': the jīva is the shadow (a reflection of the Real) and the supreme Self is the sunlight (the luminous source). This is the same 'two birds on one tree' image from Muṇḍaka 3.1.1 and Rig Veda 1.164.20, restated metaphorically. <strong>parame parārdhe</strong> — 'in the highest supreme': indicates this is not about an external location but the innermost depth of being — the 'highest half' of reality, i.e., the subtlest ground of awareness.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.1 — This verse is closely parallel to Rig Veda 1.164.20 and Muṇḍaka 3.1.1 — the 'two birds on one tree' (dvā suparṇā sayujā sakhāyā). The Katha version changes the metaphor from birds to shadow-and-sunlight, but the structural message is identical: the jīva and Paramātman share the same locus (the heart-cave) but are fundamentally different — one 'drinks' (experiences karma-phala) while the other watches. The mention of pañcāgni-vidyā and tri-nāciketāḥ anchors this verse in the ritual tradition — even ritualists, if they attain true knowledge, see this distinction.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — दो 'पीने वाले' जीवात्मा और परमात्मा हैं। जीव कर्मफल भोगता है (छाया — प्रतिबिम्ब), परमात्मा साक्षी है (आतप — स्वयंप्रकाश)। 'गुहा' बुद्धि-गुहा है — दोनों बुद्धि के अंतरतम में 'बैठे' हैं। अविद्या के कारण जीव भोक्ता बनता है; ज्ञान से जीव-परमात्मा भेद मिटता है।",
+        "en": "Shankara says the two 'drinkers' are the jīvātman and Paramātman. The jīva experiences the fruits of karma (shadow — reflected consciousness); the Paramātman is the witness (sunlight — self-luminous). The 'cave' is the cave of the intellect (buddhi). Due to avidyā, the jīva becomes an experiencer; knowledge dissolves the apparent difference between jīva and Paramātman.",
+        "ins": "Two figures sit in your innermost chamber: one drinks from the cup of experience, the other watches. When you discover that the drinker is only a shadow cast by the watcher — the cup, the drinker, and the watching are all one light."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — दोनों हृदय-गुहा में हैं: जीव कर्मफल भोगता है, भगवान् अन्तर्यामी के रूप में स्थित हैं। 'छाया' — जीव भगवान् पर आश्रित है (जैसे छाया शरीर पर); 'आतप' — भगवान् स्वतंत्र प्रकाश हैं। दोनों नित्य भिन्न हैं, पर जीव सदा भगवान् के आश्रित है।",
+        "en": "Ramanuja says both dwell in the heart-cave: the jīva experiences karma-phala, and the Lord is present as the inner controller (antaryāmin). 'Shadow' — the jīva depends on the Lord as a shadow depends on a body; 'sunlight' — the Lord is independently luminous. The two are eternally distinct, but the jīva is always dependent on the Lord.",
+        "ins": "You are a shadow — not nothing, but not independent. Your substance comes from the sunlight of the Lord. Walk in His light, and you see your shadow clearly; turn away, and you lose yourself in darkness."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — ये दो चेतना के दो ध्रुव हैं: बाह्य (surface) जीव जो कर्म-भोग करता है, और आन्तरिक (psychic) सत्ता जो साक्षी है। 'गुहा' — अंतरतम चैत्य पुरुष (psychic being) का निवास है। दोनों एक ही चेतना के दो पहलू हैं — एक प्रकट (shadow), दूसरा अप्रकट स्रोत (sunlight)।",
+        "en": "Sri Aurobindo sees the two as two poles of consciousness: the outer (surface) being that experiences karma, and the inner (psychic) being that witnesses. The 'cave' is the dwelling of the inmost psychic being. Both are aspects of one consciousness — one is the manifest surface (shadow), the other the unmanifest source (sunlight).",
+        "ins": "In every human being there is a surface self that acts and suffers, and a deep self that watches and knows. The spiritual journey is the surface turning inward to discover the sun that was casting its shadow all along."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Who are the 'two' in the heart-cave?", "a": "The <strong>two</strong> (pibantau — dual) are the <strong>jīvātman</strong> (individual self) and the <strong>Paramātman</strong> (supreme Self). This is a reformulation of the famous '<strong>two birds on one tree</strong>' image from the Rig Veda (1.164.20) and Muṇḍaka Upanishad (3.1.1): '<em>dvā suparṇā sayujā sakhāyā samānaṁ vṛkṣaṁ pariṣasvajāte / tayor anyaḥ pippalaṁ svādv atty anaśnann anyo abhicākaśīti</em>' — 'Two birds, beautiful of wing, close companions, cling to one common tree: of the two, one eats the sweet berry; the other looks on without eating.' Here the Katha replaces the bird-and-berry image with <strong>shadow-and-sunlight</strong> (chāyā-ātapau). The jīva is the <em>shadow</em> — a derivative, dependent consciousness that 'drinks' (experiences) karma-phala. The Paramātman is the <em>sunlight</em> — the self-luminous source that is always present but never affected. <strong>The cave (guhā)</strong> is the heart — the innermost recess of consciousness where both are 'seated.' This teaching implies that <strong>liberation is not a journey to some other place</strong> — it is the discovery that the sun has always been present in the cave where you already are."},
+      {"q": "🔍 What is the pañcāgni-vidyā (five-fire doctrine)?", "a": "The <strong>pañcāgni-vidyā</strong> is an elaborate teaching found in the <strong>Chāndogya Upanishad (5.3-10)</strong> and <strong>Bṛhadāraṇyaka Upanishad (6.2)</strong>. It describes <strong>five cosmic fires</strong> through which the soul passes in the cycle of rebirth: (1) <strong>Heaven</strong> (dyuloka) — the gods offer śraddhā (faith) and from it comes soma (the moon); (2) <strong>Parjanya</strong> (rain-cloud) — soma is offered and rain is produced; (3) <strong>Earth</strong> (pṛthivī) — rain is offered and food is produced; (4) <strong>Man</strong> (puruṣa) — food is offered and seed (retas) is produced; (5) <strong>Woman</strong> (yoṣā) — seed is offered and the embryo is produced. This five-stage cycle maps the soul's journey from death, through the celestial realm, back through rain, food, conception, and birth. Those who <em>know</em> this doctrine — and combine knowledge with meditation — go by the <strong>devayāna</strong> (path of the gods) and do not return. Those who only perform rituals without knowledge go by the <strong>pitṛyāna</strong> (path of the fathers) and continue to cycle through rebirth. The Katha's mention of pañcāgni-vidyā here validates that even advanced ritualists can attain the supreme knowledge — provided they supplement their ritual with <strong>ātma-jñāna</strong>."}
+    ]
+  },
+  {
+    "id": 2,
+    "sk": "यं सेतुमीजानानामक्षरं ब्रह्म यत्परम् | अभयं तितीर्षतां पारं नाचिकेतं शकेमहि ||",
+    "ro": "yaṁ · setum · ījānānām · akṣaraṁ · brahma · yat · param | abhayaṁ · titīrṣatāṁ · pāraṁ · nāciketaṁ · śakemahi ||",
+    "hi": "जो यज्ञ करने वालों (ईजानानां) का सेतु (पुल) है, जो अक्षर (अविनाशी) परम ब्रह्म है, जो भय से पार जाना चाहने वालों का अभय (भय-रहित) तट है — उस नाचिकेत (अग्नि) को हम प्राप्त कर सकें।",
+    "en": "May we be able to kindle the Nachiketa fire — which is the bridge for those who sacrifice, the imperishable supreme Brahman, the fearless farther shore for those who wish to cross over (the ocean of saṁsāra).",
+    "ws": [
+      {"s": "सेतुम् (setum)", "h": "सेतु, पुल", "e": "bridge — from √si (to bind); the Nachiketa fire / Brahman-knowledge serves as a bridge from mortality to immortality"},
+      {"s": "ईजानानाम् (ījānānām)", "h": "यज्ञ करने वालों का", "e": "of those who sacrifice — genitive plural of the perfect participle of √yaj (to sacrifice)"},
+      {"s": "अक्षरम् (akṣaram)", "h": "अविनाशी", "e": "imperishable — a + kṣara (that which does not decay); Brahman as the indestructible ground of reality"},
+      {"s": "तितीर्षताम् (titīrṣatām)", "h": "पार जाने की इच्छा रखने वालों का", "e": "of those desiring to cross — genitive plural of the desiderative participle of √tṝ (to cross); those who desire liberation"},
+      {"s": "पारम् (pāram)", "h": "पार, दूसरा तट", "e": "the farther shore — the other bank of the ocean of saṁsāra; liberation"},
+      {"s": "नाचिकेतम् (nāciketam)", "h": "नाचिकेत अग्नि", "e": "the Nachiketa fire — the fire-altar taught by Yama as the second boon (1.1.14-18); here serving as a symbol for salvific knowledge"}
+    ],
+    "gr": "<strong>setum ījānānām</strong> — 'the bridge of those who sacrifice': the Nachiketa fire is not merely a ritual — it is a <em>setu</em> (bridge) that carries the ritualist from the finite to the infinite. <strong>akṣaraṁ brahma yat param</strong> — 'the imperishable supreme Brahman': the fire is identified with Brahman itself. <strong>abhayaṁ titīrṣatāṁ pāram</strong> — 'the fearless shore for those who wish to cross': the river-crossing metaphor (saṁsāra = ocean; mokṣa = far shore) is central to Indian soteriology. <strong>śakemahi</strong> — optative first person plural of √śak (to be able): 'may we be able' — a prayer-form expressing aspiration.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.2 — The 'bridge' (setu) metaphor recurs in the Chāndogya (8.4.1): 'atha ya ātmā sa setur vidhṛtiḥ' — 'the Self is the bridge, the support.' Also in the Muṇḍaka (2.2.5): 'om ity evam dhyāyatha ātmānam, svasti vaḥ pārāya tamasaḥ parastāt' — 'Meditate on the Self as OM; may you cross safely beyond the darkness.' The verse is transitional — it marks the shift from the Cosmic Person teaching (Valli 2) back to the practical path, preparing for the yoga instructions that follow.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'सेतु' ब्रह्म-ज्ञान है जो संसार-सागर के पार ले जाता है। नाचिकेत अग्नि (कर्मकाण्ड) ज्ञान का सहायक है, पर अंततः अक्षर ब्रह्म ही 'पार' है। 'अभयम्' — ब्रह्म-प्राप्ति में कोई भय नहीं रहता; भय द्वैत से उत्पन्न होता है (तैत्तिरीय 2.7)।",
+        "en": "Shankara says the 'bridge' is Brahman-knowledge, which carries one across the ocean of saṁsāra. The Nachiketa fire (ritual) supports knowledge, but ultimately the imperishable Brahman alone is the 'farther shore.' 'Abhaya' — in attaining Brahman there is no fear; fear arises from duality (Taittirīya 2.7).",
+        "ins": "Knowledge is not an end — it is a bridge. You do not live on a bridge; you cross it. Once you reach the far shore of Brahman, even the bridge (the teaching, the method) is left behind."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — नाचिकेत अग्नि भगवान् की उपासना का साधन है; यह भक्त को भगवान् तक पहुँचाने वाला 'सेतु' है। 'अक्षर ब्रह्म' — भगवान् का नित्य, अविनाशी स्वरूप; 'पार' — वैकुण्ठ (भगवान् का परमधाम)।",
+        "en": "Ramanuja says the Nachiketa fire is a means of worshipping the Lord; it is the 'bridge' that carries the devotee to the Lord. 'Akṣara Brahman' — the Lord's eternal, imperishable nature; 'the far shore' — Vaikuṇṭha (the Lord's supreme abode).",
+        "ins": "Every act of worship is a plank in the bridge. Fire-ritual, prayer, meditation — each adds strength. The bridge does not create the shore; the shore was always there. Worship makes you able to cross."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'सेतु' — यह अग्नि रूपांतरण (transformation) का साधन है: निम्न प्रकृति से उच्च चेतना तक का पुल। 'अक्षर ब्रह्म' — चेतना का अविनाशी आधार (immutable foundation)। 'अभयम्' — भय तब मिटता है जब चेतना अपने दिव्य स्रोत को पहचान लेती है।",
+        "en": "Sri Aurobindo sees the 'bridge' as the instrument of transformation — from lower nature to higher consciousness. 'Akṣara Brahman' — the immutable foundation of consciousness. 'Abhaya' — fear ceases when consciousness recognises its divine source.",
+        "ins": "The fire of aspiration is a bridge between what you are and what you are meant to become. You do not destroy the lower nature — you carry it across, transformed, into the light of the higher."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the 'bridge' (setu) metaphor?", "a": "The <strong>setu</strong> (bridge) is one of the Upanishads' most practical metaphors. In a land criss-crossed by rivers, the bridge is the most concrete image of <em>passage from one state to another</em>. Here the Nachiketa fire — and by extension Brahman-knowledge — is the bridge from <strong>mortality to immortality</strong>, from <strong>saṁsāra to mokṣa</strong>. The Chāndogya Upanishad (8.4.1) makes the metaphor even more explicit: '<em>atha ya ātmā sa setur vidhṛtiḥ</em>' — 'the Self is the bridge, the support (that keeps worlds from collapsing into each other).' The image implies that <strong>the bridge already exists</strong> — it does not need to be built. The Self is already the connection between the finite and the infinite. What is needed is <strong>crossing</strong> — which requires knowledge, aspiration, and courage (hence <em>abhaya</em> — fearlessness). The word <em>setu</em> also carries the meaning 'dam' or 'embankment' (from √si, to bind) — suggesting that Brahman both <em>connects</em> worlds and <em>holds them apart</em>, maintaining cosmic order."},
+      {"q": "🔍 Why is this verse a prayer rather than a teaching?", "a": "After the exalted metaphysical exposition of Valli 2 (the Cosmic Person, the definition of yoga, jīvanmukti), this verse shifts to a <strong>prayer mode</strong> — '<em>śakemahi</em>' (may we be able). This is significant. The Upanishad moves from <strong>description</strong> (what Brahman is) to <strong>aspiration</strong> (may we attain it). The optative mood signals humility: even after hearing the highest teaching, the seeker acknowledges that <strong>hearing is not attaining</strong>. One must still <em>cross</em> — and crossing requires grace, effort, and readiness. The mention of the <strong>Nachiketa fire</strong> here also creates a structural frame: the fire was taught as the <strong>second boon</strong> (1.1.14-18) at the beginning of the Upanishad. Now, near the end, it returns — transformed from a ritual act into a <strong>symbol of salvific knowledge</strong>. The Upanishad has come full circle: what began as a boy's question about death ends as a prayer for the capacity to cross beyond death."}
+    ]
+  },
+  {
+    "id": 3,
+    "sk": "आत्मानं रथिनं विद्धि शरीरं रथमेव तु | बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ||",
+    "ro": "ātmānaṁ · rathinaṁ · viddhi · śarīraṁ · ratham · eva · tu | buddhiṁ · tu · sārathiṁ · viddhi · manaḥ · pragraham · eva · ca ||",
+    "hi": "आत्मा को रथी (रथ का स्वामी) जानो, शरीर को रथ जानो; बुद्धि को सारथि (रथ-चालक) जानो और मन को लगाम जानो।",
+    "en": "Know the Self as the lord of the chariot and the body as the chariot itself. Know the intellect (buddhi) as the charioteer and the mind as the reins.",
+    "ws": [
+      {"s": "रथिनम् (rathinam)", "h": "रथी — रथ का स्वामी", "e": "the lord of the chariot — ratha (chariot) + -in (possessor); the Self who owns and rides the chariot but does not drive it"},
+      {"s": "रथम् (ratham)", "h": "रथ", "e": "the chariot — the body as a vehicle; it carries the Self through the journey of life"},
+      {"s": "सारथिम् (sārathim)", "h": "सारथि — रथ-चालक", "e": "the charioteer — buddhi (intellect/discernment) which steers the chariot; the faculty that makes decisions"},
+      {"s": "प्रग्रहम् (pragraham)", "h": "लगाम", "e": "the reins — manas (mind) which controls the horses (senses); pra + √grah (to hold forth)"}
+    ],
+    "gr": "<strong>ātmānaṁ rathinaṁ viddhi</strong> — 'know the Self as the chariot-lord': the imperative <em>viddhi</em> (know! — from √vid) demands active recognition, not passive acceptance. The Self is the <em>owner</em> — present in the chariot but not driving, not pulling. <strong>buddhiṁ sārathiṁ viddhi</strong> — 'know the intellect as the charioteer': the buddhi (discriminative intelligence) has the responsibility of steering. If the charioteer is skilled, the journey is safe; if not, destruction follows. <strong>manaḥ pragraham</strong> — 'the mind is the reins': the mind (manas) is the instrument of control — it connects the charioteer (buddhi) to the horses (senses). Loose reins = undisciplined senses. This verse repeats verbatim from Katha 1.3.3 — forming a deliberate structural echo.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.3 — This verse is an exact repetition of Katha 1.3.3. The chariot metaphor appears here at the beginning of the final Valli to recapitulate the essential teaching of disciplined self-knowledge before the Upanishad's conclusion. Plato's chariot allegory in the Phaedrus (247b-249d) offers a remarkable Greek parallel — a charioteer (reason) controlling two horses (noble and ignoble impulses). Whether there is historical contact or convergent insight remains debated.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — यह रथ-रूपक यहाँ दोहराया गया है ताकि उपनिषद् के अंत में साधक पुनः स्मरण करे: आत्मा अकर्ता है, शरीर केवल वाहन है, बुद्धि निर्णायक है। ज्ञान का सार — आत्मा कभी रथ-चालक (कर्ता) नहीं है, सदा रथी (साक्षी) है।",
+        "en": "Shankara says this chariot metaphor is repeated here so that at the end of the Upanishad the seeker remembers: the Self is non-agent, the body is merely a vehicle, the intellect is the decision-maker. The essence of knowledge — the Self is never the charioteer (doer), always the chariot-lord (witness).",
+        "ins": "You are not the driver — you are the passenger who has forgotten he hired the driver. The chariot bounces, the horses stumble, the roads are rough — but none of it touches you. Remember who you are, and the ride becomes effortless."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — जीवात्मा रथी (भोक्ता) है, पर भगवान् रथ के अदृश्य स्वामी हैं (जैसे कृष्ण अर्जुन के रथ के सारथि बने)। बुद्धि सारथि है — पर बुद्धि भी भगवान् से प्रेरित है। जीव का कर्तव्य: बुद्धि को भगवान् की ओर मोड़ना।",
+        "en": "Ramanuja says the jīva is the chariot-lord (experiencer), but the Lord is the invisible owner of the chariot (as Kṛṣṇa became Arjuna's charioteer). Buddhi is the charioteer — but buddhi too is inspired by the Lord. The jīva's duty: direct the intellect toward the Lord.",
+        "ins": "Your chariot has an unseen co-pilot. The Lord is with you on the ride — not controlling your reins, but available the moment you turn to ask for directions."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — रथ-रूपक मनोवैज्ञानिक विज्ञान है: शरीर = स्थूल यंत्र, इंद्रियाँ = ऊर्जा के अश्व, मन = नियंत्रण-सूत्र, बुद्धि = विवेकी चालक, आत्मा = चेतन अधिपति। योग = इन सबको संगठित करके चेतन सत्ता के आदेश में लाना।",
+        "en": "Sri Aurobindo reads the chariot metaphor as a psychological science: body = gross instrument, senses = horses of energy, mind = control-cord, buddhi = discriminating driver, Self = conscious master. Yoga = organising all these under the command of the conscious being.",
+        "ins": "Yoga is not suppression but organisation. You do not kill the horses — you train them. You do not break the reins — you tighten them. You do not abandon the chariot — you direct it. The destination is the Self's choice, not the horses'."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does the chariot metaphor repeat here?", "a": "This verse is an <strong>exact repetition of Katha 1.3.3</strong>. Its reappearance at the start of the <strong>final Valli</strong> is a deliberate <strong>structural device</strong>. The Upanishad has traversed a vast arc — from Nachiketa's three boons (1.1), through the choice between preyas and śreyas (1.2), the chariot metaphor and hierarchy of being (1.3), the city of eleven gates (2.1), and the Cosmic Person and yoga definition (2.2). Now, at the conclusion, it <strong>returns to the foundational image</strong>: the chariot of the self. This creates a <strong>ring composition</strong> (a literary structure where the ending echoes the beginning). The message: after all the cosmic metaphysics, <strong>the practical path remains the same</strong> — know who you are (the rider, not the horse), discipline your faculties, and steer toward the highest. The repetition also serves a <strong>pedagogical function</strong>: in an oral tradition, key verses were repeated to ensure retention. A student who remembered nothing else from the Katha would remember the chariot."},
+      {"q": "🔍 How does the chariot model map to yoga psychology?", "a": "The chariot provides a <strong>complete model of the human psyche</strong> that anticipates later yoga psychology by centuries. <strong>Ātman (Self)</strong> = the owner/rider — pure awareness, uninvolved in action. <strong>Śarīra (body)</strong> = the chariot — the physical instrument, subject to wear. <strong>Buddhi (intellect)</strong> = the charioteer — the faculty of discernment that decides direction. <strong>Manas (mind)</strong> = the reins — the processing faculty that transmits commands from buddhi to the senses and relays sense-data back. <strong>Indriyāṇi (senses)</strong> = the horses — powerful, fast, essential for movement, but dangerous without control. <strong>Viṣayāḥ (sense-objects)</strong> = the roads — the external world through which the chariot travels. <strong>The hierarchy</strong>: Ātman → Buddhi → Manas → Indriyāṇi → Viṣayāḥ. <strong>The failure mode</strong>: when the reins (mind) are slack, the horses (senses) bolt, and the charioteer (intellect) cannot steer — the rider (Self) is carried wherever the horses choose. <strong>The success mode</strong>: firm reins, skilled charioteer, trained horses — the Self reaches its destination (mokṣa)."}
+    ]
+  },
+  {
+    "id": 4,
+    "sk": "इन्द्रियाणि हयानाहुर्विषयांस्तेषु गोचरान् | आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ||",
+    "ro": "indriyāṇi · hayān · āhuḥ · viṣayān · teṣu · gocarān | ātma-indriya-mano-yuktaṁ · bhoktā · iti · āhuḥ · manīṣiṇaḥ ||",
+    "hi": "इन्द्रियों को अश्व (घोड़े) कहते हैं और विषयों (इन्द्रिय-गोचर पदार्थों) को उनके मार्ग (चरागाह) कहते हैं। आत्मा को इन्द्रियों और मन से युक्त (जुड़ा) होने पर — मनीषी (ज्ञानी) लोग भोक्ता कहते हैं।",
+    "en": "The senses, they say, are the horses; the sense-objects are the roads (pastures) for those horses. The Self, when associated with the body, senses, and mind, the wise call the enjoyer (bhoktā).",
+    "ws": [
+      {"s": "हयान् (hayān)", "h": "अश्वों (घोड़ों) को", "e": "horses — accusative plural of haya; the senses are likened to horses that pull the chariot forward"},
+      {"s": "गोचरान् (gocarān)", "h": "गोचर — चरागाह / विषय-क्षेत्र", "e": "pastures / range — go (cow/sense) + cara (wandering ground); the domain in which senses graze, i.e., sense-objects"},
+      {"s": "भोक्ता (bhoktā)", "h": "भोक्ता — भोग करने वाला", "e": "the enjoyer / experiencer — from √bhuj (to enjoy); the Self in its embodied condition apparently 'enjoys' sense-experience"},
+      {"s": "मनीषिणः (manīṣiṇaḥ)", "h": "मनीषी — ज्ञानी / विवेकी", "e": "the wise — those possessed of manīṣā (deep reflective understanding); the seers who know the true arrangement of the self's faculties"}
+    ],
+    "gr": "<strong>indriyāṇi hayān āhuḥ</strong> — 'the senses are called horses': continuing the chariot metaphor — the five sense-faculties are the motive force that pulls the chariot through the world of experience. <strong>viṣayān teṣu gocarān</strong> — 'the sense-objects are their pastures': the horses 'graze' on sounds, textures, forms, tastes, and smells — the external world is their feeding ground. <strong>ātma-indriya-mano-yuktam</strong> — 'associated with body, senses, and mind': a compound specifying the conditions under which the Self appears to be an 'enjoyer.' The Self <em>per se</em> is not a bhoktā; it becomes one only when <em>yukta</em> (yoked) to the psycho-physical apparatus. This verse also repeats from Katha 1.3.4.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.4 — This verse repeats Katha 1.3.4 verbatim, continuing the structural echo. The term 'bhoktā' (enjoyer) is philosophically critical — Advaita holds that the Self is never truly a bhoktā (enjoyment is a superimposition by avidyā), while Viśiṣṭādvaita accepts the Self as a real experiencer but under the Lord's governance. The term 'gocara' literally means 'cow-pasture' — the senses 'graze' on objects just as cows graze on grass, a vivid agrarian image.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'भोक्ता' आत्मा का यथार्थ स्वरूप नहीं, अपितु उपाधि-सम्बन्ध से प्रतीत होने वाला आरोपित भाव है। जब इन्द्रिय-मन-बुद्धि से योग (संयोग) होता है, तब आत्मा भोक्ता 'दिखता' है — जैसे जल में सूर्य हिलता दिखता है।",
+        "en": "Shankara says 'bhoktā' is not the Self's true nature but an apparent attribute superimposed by association with upādhis (limiting adjuncts). When yoked to senses, mind, and intellect, the Self 'appears' to be an enjoyer — as the sun appears to tremble in moving water.",
+        "ins": "The sun doesn't dance — the water does. You don't suffer — the mind does. But as long as you identify with the water, you will think you are dancing."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — जीवात्मा सचमुच भोक्ता है — भोग उसका वास्तविक अनुभव है, आरोपित नहीं। पर यह भोग भगवान् के अधीन है; जीव स्वतंत्र भोक्ता नहीं। इन्द्रियाँ भगवान् द्वारा दी गई हैं — वे जीव की सेवा में, भगवान् की अनुमति से कार्य करती हैं।",
+        "en": "Ramanuja says the jīva is truly an enjoyer — experience is real, not superimposed. But this enjoyment is under the Lord's governance; the jīva is not an independent enjoyer. The senses are granted by the Lord — they function in the jīva's service, with the Lord's permission.",
+        "ins": "Your senses are gifts, not curses. Sound, sight, taste — each is a window the Lord opened for you. The question is not whether to look, but what you look for."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'भोक्ता' चेतना का वह पहलू है जो प्रकृति के माध्यम से अनुभव करता है। इन्द्रियाँ चेतना के उपकरण हैं — 'घोड़े' — जो बाह्य जगत् से सम्पर्क करते हैं। विकासवादी दृष्टि से, इन्द्रिय-अनुभव चेतना के विकास का एक चरण है, बाधा नहीं।",
+        "en": "Sri Aurobindo reads 'bhoktā' as the aspect of consciousness that experiences through nature. The senses are instruments of consciousness — 'horses' — that make contact with the external world. From an evolutionary perspective, sense-experience is a stage in the evolution of consciousness, not an obstacle.",
+        "ins": "The horses are not the problem — the problem is a charioteer who has fallen asleep. With an awakened intelligence, the horses carry you through the world gathering the nectar of experience."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does it mean to call the Self a 'bhoktā' (enjoyer)?", "a": "The term <strong>bhoktā</strong> (from √bhuj, 'to enjoy/experience') is one of the most debated words in Indian philosophy. The verse qualifies it carefully: the Self is called bhoktā <em>only when</em> it is '<strong>yukta</strong>' (yoked/associated) with the body, senses, and mind. This qualification is crucial. <strong>Advaita Vedānta</strong> reads it as: the Self is <em>never really</em> an enjoyer — it only <em>appears</em> to be one when 'reflected' in the psycho-physical apparatus. Just as a clear crystal appears red when placed near a red flower, the Self appears to experience pleasure and pain when associated with the mind-body complex. Remove the association, and the Self stands as pure, actionless awareness. <strong>Viśiṣṭādvaita</strong> reads it differently: the Self <em>genuinely</em> experiences — bhoga (enjoyment) is real, not illusory. But the jīva's enjoyment is governed by the Lord; it is not autonomous. The jīva is a <em>dependent experiencer</em>, not an independent one. <strong>The Sāṅkhya reading</strong> (which the chariot metaphor partly reflects) separates puruṣa (pure witness) from prakṛti (doer): the puruṣa never really acts or enjoys; it only appears to when the guṇas of prakṛti move before it like a dancer before a spectator."},
+      {"q": "🔍 What is the significance of 'gocara' (pasture) as a metaphor for sense-objects?", "a": "The word <strong>gocara</strong> literally means 'cow-pasture' (go + cara — 'the ground where cows wander'). Applied to sense-objects, it creates a vivid <strong>agrarian image</strong>: the senses (horses) 'graze' on objects just as cattle graze on grass. The implication is revealing: <strong>grazing is natural</strong> — the senses are <em>designed</em> to feed on their objects. Sight feeds on form, hearing feeds on sound, taste feeds on flavour. The problem is not feeding but <strong>uncontrolled feeding</strong> — horses that bolt toward every attractive pasture without the charioteer's permission. An unfenced cow can destroy a farmer's crop; an undisciplined sense can destroy a seeker's equanimity. The metaphor also implies that <strong>sense-objects are not evil</strong> — they are simply the natural 'food' of the senses. Renunciation in the Upanishadic sense is not starvation (denying the senses all input) but <strong>directed grazing</strong> (choosing which pastures the horses visit). This is a subtler and more psychologically realistic teaching than simple asceticism."}
+    ]
+  },
+  {
+    "id": 5,
+    "sk": "यस्त्वविज्ञानवान्भवत्ययुक्तेन मनसा सदा | तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ||",
+    "ro": "yaḥ · tu · avijñānavān · bhavati · ayuktena · manasā · sadā | tasya · indriyāṇi · avaśyāni · duṣṭa-aśvāḥ · iva · sāratheḥ ||",
+    "hi": "जो अविज्ञानवान् (विवेक-शून्य) है, जिसका मन सदा अयुक्त (अनियंत्रित) है — उसकी इन्द्रियाँ वश में नहीं रहतीं, जैसे दुष्ट (बिगड़ैल) घोड़े सारथि (रथ-चालक) के वश में नहीं होते।",
+    "en": "But he who is devoid of understanding (avijñānavān), whose mind is always unyoked (undisciplined) — his senses are uncontrollable, like the vicious horses of a charioteer.",
+    "ws": [
+      {"s": "अविज्ञानवान् (avijñānavān)", "h": "विज्ञान-रहित / विवेक-शून्य", "e": "devoid of understanding — a (not) + vijñāna (discriminative knowledge) + -vat (possessing); one who lacks discernment"},
+      {"s": "अयुक्तेन (ayuktena)", "h": "अनियंत्रित / बिना जुड़े", "e": "unyoked / undisciplined — a (not) + yukta (yoked); a mind not properly connected to buddhi's guidance"},
+      {"s": "अवश्यानि (avaśyāni)", "h": "वश में न आने वाली", "e": "uncontrollable — a (not) + vaśya (controllable, from √vaś); senses beyond the operator's control"},
+      {"s": "दुष्टाश्वाः (duṣṭa-aśvāḥ)", "h": "दुष्ट / बिगड़ैल घोड़े", "e": "vicious horses — duṣṭa (spoiled/wild) + aśva (horse); untrained horses that endanger the whole chariot"}
+    ],
+    "gr": "<strong>avijñānavān</strong> — 'without vijñāna': vijñāna here is practical discriminative wisdom (not theoretical knowledge). One may be learned but still lack the living discernment that guides moment-to-moment choices. <strong>ayuktena manasā sadā</strong> — 'with an always unyoked mind': the emphasis is on <em>sadā</em> (always) — occasional distraction is human, but a mind <em>permanently</em> unyoked is a structural failure. <strong>duṣṭa-aśvāḥ iva sāratheḥ</strong> — 'like bad horses of a charioteer': the simile is precise — it is not that the charioteer (buddhi) is absent, but that the horses (senses) are too wild for a weak or unskilled driver to manage. This verse repeats from Katha 1.3.5.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.5 — Repetition of Katha 1.3.5. The pair of verses (this one and the next) form a contrast: the undisciplined vs. the disciplined person. The imagery of 'wild horses' would have been vivid for the Vedic audience, who used horse-drawn chariots in warfare and knew the lethal consequences of losing control of one's team.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'अविज्ञानवान्' — जिसके पास आत्म-अनात्म-विवेक नहीं, उसकी बुद्धि (सारथि) शिथिल है, इसलिए इन्द्रिय-अश्व विषयों की ओर भागते हैं। यह संसार-बन्धन का मूल कारण है।",
+        "en": "Shankara says 'avijñānavān' — one without ātma-anātma-viveka (discrimination between Self and non-Self) has a slack buddhi (charioteer), so the sense-horses bolt toward objects. This is the root cause of bondage.",
+        "ins": "A sleeping charioteer doesn't mean the horses stop — it means they go wherever they want. Every addiction, every compulsion is a horse that bolted while you weren't paying attention."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'अविज्ञानवान्' — जो भगवान् की कृपा नहीं खोजता, उसकी बुद्धि भगवान् की ओर मुड़ती नहीं; फलस्वरूप मन और इन्द्रियाँ विषयों में भटकती हैं। भगवान् की शरण ही सच्चा 'योग' (युक्त होना) है।",
+        "en": "Ramanuja says 'avijñānavān' — one who does not seek the Lord's grace has an intellect that does not turn toward the Lord; consequently the mind and senses wander among objects. Surrender to the Lord is the true 'yoking' (yoga).",
+        "ins": "You can tighten the reins all you want, but if you don't know the destination, you're just making the horses tired. Turn toward the Lord — the horses will follow."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'अविज्ञानवान्' — जिसमें चेतन विवेक (conscious discrimination) जागा नहीं है, वह प्रकृति की यांत्रिक क्रियाओं का दास है। इन्द्रियाँ 'दुष्ट' नहीं — वे केवल अप्रशिक्षित (untrained) हैं; चेतन इच्छा-शक्ति (conscious will) से वे सहयोगी बन सकती हैं।",
+        "en": "Sri Aurobindo says 'avijñānavān' — one in whom conscious discrimination has not awakened is a slave to the mechanical workings of nature. The senses are not 'evil' — they are merely untrained; with conscious will, they can become allies.",
+        "ins": "A wild horse is not a bad horse — it is an untrained horse. The task is not to shoot the horse but to earn its trust and teach it to run where you want."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is 'avijñāna' and why is it dangerous?", "a": "<strong>Avijñāna</strong> (a + vijñāna) means the absence of discriminative understanding. This is not mere ignorance of facts but the <strong>failure of living discernment</strong> — the inability to distinguish in real time what is Self and what is not-Self, what leads to freedom and what leads to bondage. A person may have read every Upanishad and still be <em>avijñānavān</em> if their understanding has not become <strong>operative</strong> in daily life. The danger is structural: without vijñāna, the <strong>buddhi</strong> (charioteer) is effectively asleep. And when the charioteer sleeps, the <strong>manas</strong> (reins) goes slack. Slack reins mean the <strong>indriyāṇi</strong> (horses) are free to follow every attractive sense-object. The result is a chariot careening out of control — the embodied self dragged through experience after experience without direction or purpose. This is the Upanishad's model of <strong>saṁsāra</strong>: not a punishment imposed from outside, but the natural consequence of a structural failure within the psyche."},
+      {"q": "🔍 How does the chariot fail? A psychological reading", "a": "The chariot model identifies <strong>three failure points</strong> in the human psyche: (1) <strong>Buddhi failure</strong> — the charioteer is unskilled (avijñāna). The intellect does not discriminate; it cannot tell the road to liberation from the road to bondage. (2) <strong>Manas failure</strong> — the reins are slack (ayukta manas). The mind does not maintain steady control; it oscillates, distracted by every passing stimulus. (3) <strong>Indriya failure</strong> — the horses are vicious (duṣṭa-aśva). The senses are untrained; they pull in whichever direction offers the most immediate gratification. The critical insight is that these failures are <strong>cascading</strong>: buddhi failure <em>causes</em> manas failure, which <em>causes</em> indriya failure. You cannot fix the horses without first fixing the reins; you cannot fix the reins without first awakening the charioteer. This is why the Upanishad's path begins with <strong>jñāna</strong> (knowledge/discrimination), not with sensory austerity. Starving the horses without training the charioteer simply creates exhausted, resentful horses — they will bolt at the first opportunity."}
+    ]
+  },
+  {
+    "id": 6,
+    "sk": "यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा | तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ||",
+    "ro": "yaḥ · tu · vijñānavān · bhavati · yuktena · manasā · sadā | tasya · indriyāṇi · vaśyāni · sat-aśvāḥ · iva · sāratheḥ ||",
+    "hi": "परन्तु जो विज्ञानवान् (विवेकी) है, जिसका मन सदा युक्त (नियंत्रित) है — उसकी इन्द्रियाँ वश में रहती हैं, जैसे अच्छे (सुप्रशिक्षित) घोड़े सारथि के वश में होते हैं।",
+    "en": "But he who possesses understanding (vijñānavān), whose mind is always yoked (disciplined) — his senses are controllable, like the good horses of a charioteer.",
+    "ws": [
+      {"s": "विज्ञानवान् (vijñānavān)", "h": "विज्ञान-सम्पन्न / विवेकी", "e": "possessing understanding — vi + jñāna (discriminative knowledge) + -vat; one who has living discernment"},
+      {"s": "युक्तेन (yuktena)", "h": "युक्त / नियंत्रित", "e": "yoked / disciplined — from √yuj (to yoke); a mind properly connected to buddhi's guidance"},
+      {"s": "वश्यानि (vaśyāni)", "h": "वश में रहने वाली", "e": "controllable — from √vaś (to control); senses that respond to the charioteer's command"},
+      {"s": "सदश्वाः (sat-aśvāḥ)", "h": "अच्छे / सुप्रशिक्षित घोड़े", "e": "good horses — sat (good/well-trained) + aśva (horse); horses that obey the charioteer's reins"}
+    ],
+    "gr": "<strong>vijñānavān</strong> — the positive counterpart of the previous verse's <em>avijñānavān</em>. The contrast is total: same chariot, same horses, same road — but with a <em>skilled</em> driver and <em>firm</em> reins, the outcome is completely different. <strong>sat-aśvāḥ</strong> — 'good horses': the word 'sat' means not merely 'obedient' but 'well-bred, well-trained' — the senses of a vijñānavān are not suppressed but <em>educated</em>. They respond to the lightest touch of the rein. <strong>The pair (mantras 5-6)</strong> establishes the Upanishad's central practical teaching: the difference between bondage and liberation is not in the equipment (everyone has the same chariot) but in the <em>skill of the driver</em>. This verse also repeats from Katha 1.3.6.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.6 — Repetition of Katha 1.3.6. Together with mantra 5, this forms a contrasting pair that is the practical core of the Katha's teaching. The Bhagavad Gītā (2.61, 2.64) develops this same theme: 'tāni sarvāṇi saṁyamya yukta āsīta mat-paraḥ / vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā' — 'restraining them all, let him sit, yukta, devoted to Me; for his whose senses are under control, his wisdom is firmly established.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'विज्ञानवान्' — जिसने आत्म-अनात्म-विवेक किया है, उसकी बुद्धि सजग है, मन नियंत्रित है, इन्द्रियाँ शिक्षित हैं। ऐसा व्यक्ति विषयों के बीच रहते हुए भी उनसे बँधता नहीं।",
+        "en": "Shankara says 'vijñānavān' — one who has performed ātma-anātma-viveka has an alert buddhi, a controlled mind, and trained senses. Such a person remains among sense-objects without being bound by them.",
+        "ins": "The sage walks through the marketplace just as everyone else does — but his horses are trained. He sees the same sights, hears the same sounds, but nothing drags him. That is the fruit of vijñāna."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'विज्ञानवान्' वह है जो भगवान् को अपनी बुद्धि का केन्द्र बनाता है; तब मन भगवान् में युक्त होता है और इन्द्रियाँ भगवान् की सेवा में लगती हैं — 'सदश्व' बन जाती हैं।",
+        "en": "Ramanuja says 'vijñānavān' is one who makes the Lord the centre of intellect; then the mind is yoked in the Lord and the senses engage in the Lord's service — they become 'good horses.'",
+        "ins": "When the Lord is your destination, every sense becomes a servant of the journey. Eyes see His beauty, ears hear His name, hands serve His creation. The horses are the same — the destination has changed."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'विज्ञानवान्' — जिसमें चेतन विवेक जागा है, उसकी इन्द्रियाँ 'सदश्व' बनती हैं — शत्रु नहीं, सहयोगी। चेतना का विकास इन्द्रियों को नष्ट नहीं करता, उन्हें रूपांतरित करता है।",
+        "en": "Sri Aurobindo says 'vijñānavān' — one in whom conscious discrimination has awakened transforms the senses into 'good horses' — not enemies but allies. The evolution of consciousness does not destroy the senses; it transforms them.",
+        "ins": "The trained horse runs faster and more beautifully than the wild one. Discipline does not diminish the senses — it perfects them. The artist sees more than the casual observer, not less."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the difference between vijñāna and jñāna?", "a": "The Upanishad deliberately uses <strong>vijñāna</strong> (not jñāna) here. <strong>Jñāna</strong> is knowledge — intellectual understanding, learning from texts and teachers. <strong>Vijñāna</strong> is <em>discriminative</em> knowledge — the special prefix <strong>vi-</strong> means 'distinction/discrimination.' It is the ability to <em>distinguish</em> in real time: this is Self, that is not-Self; this leads to freedom, that leads to bondage. The difference is like knowing that fire burns (jñāna) versus pulling your hand away instantly when you touch a stove (vijñāna). A vijñānavān is not necessarily more learned than an avijñānavān — he is more <strong>awake</strong>. His knowledge is <em>operative</em>, not merely stored. In the chariot metaphor, jñāna would be a charioteer who has read the manual; vijñāna would be a charioteer who can actually <em>drive</em>. The Bhagavad Gītā (7.2) uses the same distinction: '<em>jñānaṁ te 'haṁ sa-vijñānam idaṁ vakṣyāmy aśeṣataḥ</em>' — 'I shall teach you jñāna together with vijñāna, completely.'"},
+      {"q": "🔍 Is the Upanishad saying the senses are inherently good or bad?", "a": "Neither. The Upanishad's position is remarkably <strong>psychologically sophisticated</strong>: the senses are <em>neutral instruments</em> — neither good nor bad in themselves. <strong>The same horse</strong> can be 'duṣṭa' (vicious) under a poor charioteer or 'sat' (good) under a skilled one. The horse itself hasn't changed — the <strong>quality of control</strong> has changed. This means: (1) <strong>Renunciation of the senses is not the answer</strong> — you cannot travel without horses. Trying to advance spiritually without sense-faculties would be like trying to ride a chariot without horses. (2) <strong>Indulgence is not the answer either</strong> — letting the horses run free guarantees a crash. (3) <strong>Training is the answer</strong> — the middle way: discipline the senses through buddhi's guidance, keep the mind steady, and the same senses that once caused bondage become instruments of liberation. This position anticipates the Bhagavad Gītā's <em>yukta</em> (balanced engagement) and distinguishes the Upanishadic path from extreme asceticism."}
+    ]
+  },
+  {
+    "id": 7,
+    "sk": "यस्त्वविज्ञानवान्भवत्यमनस्कः सदाऽशुचिः | न स तत्पदमाप्नोति संसारं चाधिगच्छति ||",
+    "ro": "yaḥ · tu · avijñānavān · bhavati · amanaskaḥ · sadā · aśuciḥ | na · saḥ · tat · padam · āpnoti · saṁsāraṁ · ca · adhigacchati ||",
+    "hi": "जो अविज्ञानवान् (विवेकहीन) है, अमनस्क (मन को वश में न रखने वाला) है, सदा अशुचि (अशुद्ध) है — वह उस (परम) पद को प्राप्त नहीं करता और संसार (जन्म-मरण चक्र) में गिरता है।",
+    "en": "He who is devoid of understanding, who is mindless (amanaska) and always impure — he does not attain That supreme abode; he falls into the cycle of birth and death (saṁsāra).",
+    "ws": [
+      {"s": "अमनस्कः (amanaskaḥ)", "h": "मन को वश में न रखने वाला", "e": "mindless / without mental discipline — a + manas + -ka; not 'lacking a mind' but lacking mastery over it"},
+      {"s": "अशुचिः (aśuciḥ)", "h": "अशुद्ध", "e": "impure — a + śuci; impurity of both external conduct and internal disposition"},
+      {"s": "तत् पदम् (tat padam)", "h": "वह (परम) पद / स्थान", "e": "That supreme state — the state of Brahman-realisation; the 'highest step' of Viṣṇu (cf. Rig Veda 1.22.20)"},
+      {"s": "संसारम् (saṁsāram)", "h": "संसार — जन्म-मरण का चक्र", "e": "the cycle of transmigration — saṁ + √sṛ (to flow together); the round of births and deaths"}
+    ],
+    "gr": "<strong>amanaskaḥ</strong> — 'without manas': not 'mindless' in the sense of unconscious, but 'without mastery of the mind' — the mind is unregulated, driven by impulse rather than directed by buddhi. <strong>sadā aśuciḥ</strong> — 'always impure': persistent impurity of intention and conduct — not occasional lapses but a habitual state. <strong>na saḥ tat padam āpnoti</strong> — 'he does not attain That state': the consequence is stark — without discipline, liberation is impossible. <strong>saṁsāraṁ ca adhigacchati</strong> — 'and he falls into saṁsāra': the alternative to mokṣa is continued cycling. There is no neutral option. This verse repeats from Katha 1.3.7.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.7 — Repetition of Katha 1.3.7. The word 'padam' (state/abode/step) is significant — it echoes the Rig Vedic 'paramaṁ padam' (the highest step of Viṣṇu, 1.22.20), connecting the Upanishadic goal to the older Vedic tradition. The threefold qualification — avijñāna, amanaska, aśuci — represents intellectual, mental, and ethical failure respectively. All three must be remedied for liberation.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — तीन बाधाएँ: अविवेक (बुद्धि-स्तर), अनियंत्रित मन (मन-स्तर), अशुद्धि (आचार-स्तर)। तीनों को पार किए बिना 'तत् पद' — निर्गुण ब्रह्म का अनुभव — असम्भव है। श्रवण-मनन-निदिध्यासन इन तीनों को दूर करते हैं।",
+        "en": "Shankara says three obstacles: lack of discrimination (buddhi level), uncontrolled mind (manas level), impurity (conduct level). Without overcoming all three, 'tat padam' — the experience of nirguṇa Brahman — is impossible. Śravaṇa-manana-nididhyāsana remedy these three.",
+        "ins": "Three locks bar the door: ignorance, distraction, impurity. Knowledge turns the first key, meditation the second, right conduct the third. Miss any one, and the door stays shut."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'तत् पदम्' — भगवान् का परमधाम (वैकुण्ठ)। जो भगवान् के प्रति श्रद्धा नहीं रखता (अविज्ञान), भक्ति नहीं करता (अमनस्क), और शुद्ध आचरण नहीं रखता (अशुचि) — वह भगवान् तक नहीं पहुँचता।",
+        "en": "Ramanuja says 'tat padam' — the Lord's supreme abode (Vaikuṇṭha). One who lacks faith in the Lord (avijñāna), does not practise devotion (amanaska), and does not maintain pure conduct (aśuci) — such a one does not reach the Lord.",
+        "ins": "The Lord's door is open, but three conditions keep you on the threshold: not knowing Him, not thinking of Him, not living for Him. Address all three, and the door is already passed."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'तत् पदम्' — चेतना की सर्वोच्च अवस्था (supramental realisation)। अविज्ञान = बौद्धिक अंधता; अमनस्क = मानसिक अराजकता; अशुचि = प्राणिक (vital) अशुद्धि। तीनों चेतना के विकास में बाधक हैं।",
+        "en": "Sri Aurobindo reads 'tat padam' as the highest state of consciousness (supramental realisation). Avijñāna = intellectual blindness; amanaska = mental anarchy; aśuci = vital impurity. All three obstruct the evolution of consciousness.",
+        "ins": "You cannot evolve with a dark intellect, a chaotic mind, and an impure life-force. All three instruments must be prepared — cleared, stilled, and purified — before the higher light can descend and transform."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What are the three obstacles to liberation?", "a": "This verse identifies <strong>three distinct obstacles</strong>, each operating at a different level of the psyche: (1) <strong>Avijñāna</strong> (lack of discriminative knowledge) — at the <strong>buddhi level</strong>. The intellect cannot tell Real from unreal, Self from non-Self. This is the <em>root</em> obstacle. (2) <strong>Amanaska</strong> (lack of mental mastery) — at the <strong>manas level</strong>. Even if the intellect knows the truth, the mind is too restless to hold that truth steadily. Knowledge without concentration is like water in a sieve. (3) <strong>Aśuci</strong> (impurity) — at the <strong>ethical/conduct level</strong>. Even if knowledge and concentration are present, habitual impurity of intention, speech, and action creates a fundamental incompatibility with the pure state of Brahman. These three map to the classical <strong>sādhana-traya</strong> (triple practice): <strong>śravaṇa</strong> (hearing/learning) addresses avijñāna; <strong>manana</strong> (reflection/meditation) addresses amanaska; <strong>nididhyāsana</strong> (sustained contemplative absorption) together with <strong>śuddhi</strong> (purification) addresses aśuci. The verse's message is that <strong>all three must be resolved</strong> — excellence in one cannot compensate for failure in another."},
+      {"q": "🔍 What is 'tat padam' — That supreme state?", "a": "The expression <strong>tat padam</strong> ('That state/step') has deep Vedic resonance. In the <strong>Rig Veda (1.22.20)</strong>: '<em>tad viṣṇoḥ paramaṁ padaṁ sadā paśyanti sūrayaḥ</em>' — 'The wise always behold that highest step of Viṣṇu.' <strong>Padam</strong> means both 'step' (as in a footstep, a stage) and 'abode/state' (as in a place one arrives at). The ambiguity is deliberate: liberation is both a <strong>destination</strong> (you arrive at it) and a <strong>step</strong> (you stand in it; it is your ground). In Advaita, 'tat padam' is <strong>nirguṇa Brahman</strong> — the unconditioned, attributeless Absolute. In Viśiṣṭādvaita, it is <strong>Vaikuṇṭha</strong> — the Lord's eternal abode where the liberated jīva dwells in loving service. In Sri Aurobindo's reading, it is the <strong>supramental consciousness</strong> — the next stage in the evolution of consciousness, which integrates and transforms rather than negating the manifest world. In all readings, 'tat padam' is presented as the <em>natural</em> home of the Self — not something alien or distant, but the state the Self has always been, obscured by the three obstacles listed in this verse."}
+    ]
+  },
+  {
+    "id": 8,
+    "sk": "यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः | स तु तत्पदमाप्नोति यस्माद्भूयो न जायते ||",
+    "ro": "yaḥ · tu · vijñānavān · bhavati · samanaskaḥ · sadā · śuciḥ | saḥ · tu · tat · padam · āpnoti · yasmāt · bhūyaḥ · na · jāyate ||",
+    "hi": "परन्तु जो विज्ञानवान् (विवेकी) है, समनस्क (मन को वश में रखने वाला) है, सदा शुचि (शुद्ध) है — वह उस (परम) पद को प्राप्त कर लेता है, जहाँ से वह पुनः जन्म नहीं लेता।",
+    "en": "But he who possesses understanding, who is mindful (samanaska) and always pure — he attains That supreme abode, from which he is not born again.",
+    "ws": [
+      {"s": "समनस्कः (samanaskaḥ)", "h": "सम-मनस्क / मन को वश में रखने वाला", "e": "mindful / with a collected mind — sa + manas + -ka; one whose mind is unified, gathered, under mastery"},
+      {"s": "शुचिः (śuciḥ)", "h": "शुद्ध, पवित्र", "e": "pure — from √śuc (to be clean/bright); purity of intention, conduct, and inner disposition"},
+      {"s": "यस्मात् भूयः न जायते (yasmāt bhūyaḥ na jāyate)", "h": "जहाँ से पुनः जन्म नहीं होता", "e": "from which one is not born again — the definitive mark of liberation: the end of the rebirth cycle"}
+    ],
+    "gr": "<strong>samanaskaḥ</strong> — the positive counterpart of <em>amanaskaḥ</em>: a mind that is 'sa-manas' (possessing mastery, collected, gathered into unity). <strong>sadā śuciḥ</strong> — 'always pure': not ritually but constitutionally — purity has become the natural state, not an effort. <strong>yasmāt bhūyaḥ na jāyate</strong> — 'from which one is not born again': this is the Upanishadic definition of irreversible liberation — once attained, one never returns to the cycle. The phrase appears verbatim in Bhagavad Gītā 8.16 and 15.6. This verse repeats from Katha 1.3.8.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.8 — Repetition of Katha 1.3.8. The phrase 'yasmāt bhūyaḥ na jāyate' is one of the most significant in the Upanishadic canon — it defines mokṣa as irreversible. The Bhagavad Gītā (8.16) echoes: 'ā-brahma-bhuvanāl lokāḥ punar-āvartino 'rjuna / mām upetya tu kaunteya punar-janma na vidyate' — 'from Brahmā's world downward, all worlds are subject to return; but having reached Me, there is no rebirth.' The Upanishad's position is clear: liberation is permanent.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'तत् पदम्' — ब्रह्म-साक्षात्कार; 'भूयो न जायते' — ज्ञान एक बार उत्पन्न होने पर अविद्या का नाश सदा के लिए हो जाता है। ज्ञान अपरिवर्तनीय (irreversible) है — जैसे जली हुई रस्सी पुनः साँप नहीं दिखती।",
+        "en": "Shankara says 'tat padam' — Brahman-realisation; 'bhūyo na jāyate' — once knowledge arises, avidyā is destroyed forever. Knowledge is irreversible — like a burnt rope that can never again appear as a snake.",
+        "ins": "Once you see the rope, you can never unsee it. The snake is gone — not hiding, not waiting to return. That is why knowledge is called mokṣa: it is not a state you maintain but a seeing you cannot undo."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'तत् पदम्' — वैकुण्ठ; 'भूयो न जायते' — भगवान् के धाम में पहुँचकर जीव कभी संसार में नहीं लौटता। यह भगवान् की कृपा की अमोघता (infallibility) है।",
+        "en": "Ramanuja says 'tat padam' — Vaikuṇṭha; 'bhūyo na jāyate' — having reached the Lord's abode, the jīva never returns to saṁsāra. This is the infallibility of the Lord's grace.",
+        "ins": "The Lord does not take you home only to send you back. His grace is final. Once you arrive, you are home forever."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'भूयो न जायते' — चेतना का ऐसा रूपांतरण (transformation) जो अपरिवर्तनीय है — जैसे कार्बन हीरे में बदलकर पुनः कार्बन नहीं बनता। 'तत् पदम्' — सुप्रामेंटल चेतना में स्थायी प्रतिष्ठा।",
+        "en": "Sri Aurobindo says 'bhūyo na jāyate' — a transformation of consciousness that is irreversible — like carbon becoming diamond, which does not revert to carbon. 'Tat padam' — permanent establishment in supramental consciousness.",
+        "ins": "Evolution does not go backward. Once the eye has opened, it does not close again. The caterpillar that becomes a butterfly does not re-enter the cocoon."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Is liberation truly irreversible?", "a": "The phrase <strong>'yasmāt bhūyaḥ na jāyate'</strong> ('from which one is not born again') is the Upanishad's definitive statement on the <strong>irreversibility of mokṣa</strong>. All three major Vedāntic schools agree on this, though for different reasons. <strong>Advaita</strong>: liberation is irreversible because it is <em>not an event</em> — it is the recognition of what was always true. You cannot 'unrecognise' the Self any more than you can 'unsee' that the rope was never a snake. Avidyā, once destroyed, cannot return — there is no cause for its return, since it had no ultimate reality in the first place. <strong>Viśiṣṭādvaita</strong>: liberation is irreversible because it is <em>the Lord's grace</em> — and the Lord does not withdraw His grace. The jīva that has reached Vaikuṇṭha is held there by the Lord's will, which is infallible. <strong>Sāṅkhya-Yoga</strong>: kaivalya (isolation of puruṣa from prakṛti) is irreversible because once the discrimination (viveka-khyāti) is complete, the guṇas have no reason to manifest for that puruṣa again. The <strong>Bhagavad Gītā (15.6)</strong> echoes this: '<em>na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ / yad gatvā na nivartante tad dhāma paramaṁ mama</em>' — 'That supreme abode of Mine, which neither sun nor moon nor fire illumines — having gone there, they do not return.'"},
+      {"q": "🔍 What is the complete path from bondage to liberation?", "a": "Reading mantras 5-8 together, the Katha lays out a <strong>complete practical path</strong>: <strong>Step 1: Vijñāna (discriminative understanding)</strong> — awaken the charioteer. Cultivate the ability to distinguish Self from non-Self, real from unreal, śreyas from preyas. This is the intellectual foundation. Without it, nothing else works. <strong>Step 2: Samanaska (mental mastery)</strong> — tighten the reins. Bring the mind under steady control through concentration, meditation, and the yoga described in 2.2.10-11. A mind that wanders cannot hold the truth that vijñāna has revealed. <strong>Step 3: Śuci (purity)</strong> — train the horses. Purify intention, conduct, and character. This is not mere ritual cleanliness but a fundamental alignment of one's life with the truth one has understood. <strong>Result: Tat padam</strong> — the Self reaches its natural state, from which there is no return to the cycle of birth and death. The path is <em>hierarchical</em>: vijñāna is foundational (without it, the other two are blind); samanaska builds on vijñāna (without mental mastery, knowledge is unstable); śuci completes the transformation (without purity, knowledge and concentration are compromised). All three together = mokṣa."}
+    ]
+  },
+  {
+    "id": 9,
+    "sk": "विज्ञानसारथिर्यस्तु मनःप्रग्रहवान्नरः | सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ||",
+    "ro": "vijñāna-sārathiḥ · yaḥ · tu · manaḥ-pragrahavān · naraḥ | saḥ · adhvanaḥ · pāram · āpnoti · tat · viṣṇoḥ · paramaṁ · padam ||",
+    "hi": "जिस मनुष्य (नर) की बुद्धि विज्ञान-सम्पन्न सारथि है और जो मन रूपी लगाम को दृढ़ पकड़े हुए है — वह (संसार-) अध्वन् (मार्ग) के पार पहुँच जाता है — जो विष्णु का परम पद है।",
+    "en": "The man whose charioteer is endowed with understanding (vijñāna), who holds firmly the reins of the mind — he reaches the end of the road, the supreme abode of Viṣṇu (the All-Pervading).",
+    "ws": [
+      {"s": "विज्ञानसारथिः (vijñāna-sārathiḥ)", "h": "विज्ञान-सम्पन्न सारथि वाला", "e": "one whose charioteer is endowed with vijñāna — the buddhi functioning with full discriminative capacity"},
+      {"s": "मनःप्रग्रहवान् (manaḥ-pragrahavān)", "h": "मन रूपी लगाम को दृढ़ पकड़ने वाला", "e": "possessing firm reins of mind — one who maintains steady control of the mind-faculty"},
+      {"s": "अध्वनः पारम् (adhvanaḥ pāram)", "h": "मार्ग (यात्रा) का पार / अंत", "e": "the end (far shore) of the road — adhvan (road/journey) + pāra (far side); the journey of saṁsāra has a terminus"},
+      {"s": "विष्णोः परमं पदम् (viṣṇoḥ paramaṁ padam)", "h": "विष्णु का सर्वोच्च पद", "e": "the supreme step/abode of Viṣṇu — a direct Rig Vedic citation (1.22.20); Viṣṇu = the All-Pervading (from √viś, to pervade)"}
+    ],
+    "gr": "<strong>vijñāna-sārathiḥ</strong> — 'whose charioteer is vijñāna': the compound is a bahuvrīhi — 'one whose sārathi is vijñāna.' The charioteer (buddhi) is qualified as possessing vijñāna — making the compound recursive: intellect informed by discriminative wisdom. <strong>adhvanaḥ pāram</strong> — 'the far side of the road': the life-journey (adhvan) has a definite end. Saṁsāra is not infinite — it can be traversed. <strong>tad viṣṇoḥ paramaṁ padam</strong> — this directly quotes <strong>Rig Veda 1.22.20</strong>: 'tad viṣṇoḥ paramaṁ padaṁ sadā paśyanti sūrayaḥ' — 'the wise always behold that highest step of Viṣṇu.' Viṣṇu here is not sectarian but etymological: from √viś (to pervade) — the All-Pervading, i.e., Brahman. This verse repeats from Katha 1.3.9.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.9 — Repetition of Katha 1.3.9. The citation of 'viṣṇoḥ paramaṁ padam' from the Rig Veda (1.22.20) is the climax of the chariot teaching. It anchors the Upanishadic doctrine in the oldest Vedic authority. The Rig Vedic verse in full: 'tad viṣṇoḥ paramaṁ padaṁ sadā paśyanti sūrayaḥ / divīva cakṣur ātatam' — 'The wise always behold that supreme step of Viṣṇu, spread like an eye in the sky.' The word 'Viṣṇu' in the Rig Veda refers to the cosmic principle of pervasion — later personified as the deity Viṣṇu. In the Katha's context, it means the All-Pervading Brahman.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'विष्णोः परमं पदम्' — सर्वव्यापी ब्रह्म का परम स्वरूप, जो निर्गुण, निराकार है। 'अध्वनः पारम्' — संसार-यात्रा का अंत; आत्मज्ञान से संसार-मार्ग पूरा हो जाता है।",
+        "en": "Shankara says 'viṣṇoḥ paramaṁ padam' — the supreme nature of the all-pervading Brahman, which is nirguṇa and formless. 'Adhvanaḥ pāram' — the end of the saṁsāra journey; through Self-knowledge, the road of transmigration is completed.",
+        "ins": "Every road has an end. The road of birth and death is long, but it is not infinite. The chariot of a wise driver reaches the destination — and the destination is everywhere, because Viṣṇu pervades all."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'विष्णोः परमं पदम्' — भगवान् विष्णु का परमधाम (वैकुण्ठ), जो नित्य, दिव्य और अप्राकृत है। यह ऋग्वेद (1.22.20) का प्रत्यक्ष उद्धरण है — प्राचीनतम वैदिक प्रमाण कि मोक्ष भगवान् विष्णु का धाम है।",
+        "en": "Ramanuja says 'viṣṇoḥ paramaṁ padam' — the supreme abode of Lord Viṣṇu (Vaikuṇṭha), which is eternal, divine, and beyond material nature. This is a direct citation of Rig Veda 1.22.20 — the oldest Vedic authority that mokṣa is the Lord's abode.",
+        "ins": "The oldest hymns of the Veda already knew: the final destination is the Lord's own dwelling. Everything the Upanishad has taught — the chariot, the discipline, the discrimination — leads to this: coming home to Viṣṇu."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'विष्णोः परमं पदम्' — सर्वव्यापक चेतना (all-pervading consciousness) की सर्वोच्च अवस्था। विष्णु = व्यापक (from √viś); उसका 'परम पद' = चेतना का वह स्तर जहाँ सब कुछ एक में समाहित है।",
+        "en": "Sri Aurobindo reads 'viṣṇoḥ paramaṁ padam' as the highest state of all-pervading consciousness. Viṣṇu = the Pervader (from √viś); His 'supreme step' = that level of consciousness where everything is contained in oneness.",
+        "ins": "The supreme state is not emptiness — it is fullness. It is the step where consciousness has expanded to include everything. Viṣṇu means 'the One who pervades' — and His supreme step is where you pervade all things."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is 'Viṣṇoḥ paramaṁ padam' — the supreme step of Viṣṇu?", "a": "This phrase is one of the oldest in Indian religious literature, appearing in the <strong>Rig Veda (1.22.20)</strong>: '<em>tad viṣṇoḥ paramaṁ padaṁ sadā paśyanti sūrayaḥ / divīva cakṣur ātatam</em>' — 'The wise always behold that supreme step of Viṣṇu, spread out like an eye in the sky.' In the <strong>Rig Vedic context</strong>, Viṣṇu is the deity who takes three cosmic strides (trivikrama) — the third stride reaches the <em>highest heaven</em>, invisible to mortals but always visible to the wise. The 'supreme step' (paramaṁ padam) is this <strong>third stride</strong> — the transcendent dimension beyond the physical and the intermediate. In the <strong>Katha Upanishad's usage</strong>, Viṣṇu is understood etymologically: from <strong>√viś</strong> (to pervade) — 'the All-Pervading.' His 'supreme step' is therefore <strong>Brahman</strong> — the all-pervading reality in its highest, most transcendent aspect. <strong>For Vaiṣṇava traditions</strong> (especially Viśiṣṭādvaita), this verse is a cornerstone: it identifies the <em>goal of the Upanishads</em> with <em>Viṣṇu's abode</em>, establishing a scriptural basis for the claim that Viṣṇu/Nārāyaṇa is the supreme deity. <strong>For Advaita</strong>, 'Viṣṇu' here simply means 'the All-Pervading' and refers to nirguṇa Brahman, not to a personal deity."},
+      {"q": "🔍 Why does the Katha repeat mantras 1.3.3-9 here?", "a": "The repetition of the entire <strong>chariot passage</strong> (mantras 3-9 of this Valli repeat mantras 3-9 of Valli 1.3) serves multiple purposes: (1) <strong>Ring composition</strong>: the Upanishad began its philosophical teaching with the chariot metaphor in 1.3 and now returns to it in the final Valli (2.3). This creates a <strong>frame</strong> — the teaching is enclosed within the chariot image, signalling that everything between (the hierarchy of being, the city of eleven gates, the cosmic Person, the definition of yoga, jīvanmukti) is <em>contained</em> within the chariot's practical framework. (2) <strong>Oral retention</strong>: in a tradition of memorised oral recitation, repetition is the primary tool of emphasis. The chariot verses are the mantras the student is meant to <strong>never forget</strong> — the practical core of the teaching. (3) <strong>Closure</strong>: the repetition announces that the teaching is <strong>approaching its end</strong>. The Upanishad has circled back to where it began; what remains (mantras 10-17) is the final ascent to the conclusion. (4) <strong>Pedagogical completeness</strong>: after the abstract metaphysics of 2.1 and 2.2, the student needs <strong>grounding</strong>. The chariot brings them back to the body, the senses, the mind — the instruments through which liberation is actually achieved."}
+    ]
+  },
+  {
+    "id": 10,
+    "sk": "इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः | मनसस्तु परा बुद्धिर्बुद्धेरात्मा महान्परः ||",
+    "ro": "indriyebhyaḥ · parāḥ · hi · arthāḥ · arthebhyaḥ · ca · paraṁ · manaḥ | manasaḥ · tu · parā · buddhiḥ · buddheḥ · ātmā · mahān · paraḥ ||",
+    "hi": "इन्द्रियों से परे (श्रेष्ठ) विषय (अर्थ) हैं; विषयों से परे मन है; मन से परे बुद्धि है; बुद्धि से परे महान् आत्मा है।",
+    "en": "Beyond the senses are the objects (artha); beyond the objects is the mind; beyond the mind is the intellect (buddhi); beyond the intellect is the Great Self (mahān ātmā).",
+    "ws": [
+      {"s": "अर्थाः (arthāḥ)", "h": "विषय / अर्थ", "e": "objects — the sense-objects are 'beyond' the senses because they are subtler (the object is the informational content; the sense is the instrument that receives it)"},
+      {"s": "महान् आत्मा (mahān ātmā)", "h": "महान् आत्मा / महत्-तत्त्व", "e": "the Great Self — mahat (the cosmic intellect of Sāṅkhya) or the universal Self; the first manifestation of consciousness from the unmanifest"}
+    ],
+    "gr": "<strong>indriyebhyaḥ parāḥ arthāḥ</strong> — 'the objects are beyond the senses': the hierarchy ascends from gross to subtle. The senses are instruments; the objects are the informational content those instruments process — subtler and therefore 'higher.' <strong>manasaḥ parā buddhiḥ</strong> — 'beyond the mind is buddhi': the mind processes; the buddhi <em>decides</em>. Decision is a higher function than processing. <strong>buddheḥ ātmā mahān paraḥ</strong> — 'beyond buddhi is the Great Self': the mahān ātmā corresponds to the Sāṅkhya <em>mahat</em> — the first cosmic principle that emerges from the unmanifest. This verse partially repeats Katha 1.3.10.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.10 — This partially repeats Katha 1.3.10, continuing the ontological hierarchy. The hierarchy here — indriya → artha → manas → buddhi → mahān ātmā — corresponds to the Sāṅkhya-derived tattva scheme. This is the ascending path: from the grossest (senses) to progressively subtler levels of reality. The next verse completes the hierarchy up to Puruṣa.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — यह सत्ता का अधिक्रम (hierarchy) है: स्थूल से सूक्ष्म की ओर। प्रत्येक उच्चतर तत्त्व निम्नतर का कारण और नियंत्रक है। 'महान् आत्मा' — महत्-तत्त्व (सांख्य का first principle); अभी यह अंतिम नहीं — आगे अव्यक्त और पुरुष हैं।",
+        "en": "Shankara says this is the hierarchy of being from gross to subtle. Each higher principle is the cause and controller of the lower. 'Mahān ātmā' — the mahat-tattva (Sāṅkhya's first principle); this is not yet the final reality — beyond it are the avyakta and Puruṣa.",
+        "ins": "Reality is layered like an onion. Each layer is subtler and more powerful than the one beneath it. Peel through senses, objects, mind, intellect, cosmic intelligence — and you are still not at the core."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — यह अधिक्रम भगवान् तक पहुँचने का मार्ग दिखाता है: इन्द्रिय → विषय → मन → बुद्धि → महान् आत्मा (जीवात्मा / महत्-तत्त्व); आगे अव्यक्त (प्रकृति) और फिर सर्वोच्च — भगवान्।",
+        "en": "Ramanuja says this hierarchy shows the path to the Lord: senses → objects → mind → buddhi → mahān ātmā; beyond that is avyakta (prakṛti) and finally the Supreme — the Lord.",
+        "ins": "Each step inward brings you closer. Through your senses, past your thoughts, deeper than your intellect — the Lord waits in the innermost chamber."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — यह चेतना के स्तरों का मानचित्र है: भौतिक (physical) → प्राणिक (vital) → मानसिक (mental) → बौद्धिक (higher mental) → अतिमानस (supramental)। प्रत्येक उच्चतर स्तर निम्न को शासित करता है।",
+        "en": "Sri Aurobindo reads this as a map of the planes of consciousness: physical → vital → mental → higher mental → supramental. Each higher plane governs the one below.",
+        "ins": "Consciousness is not flat — it has altitude. The senses operate at ground level; the mind is a floor above; the intellect higher still. But these are not the top floors — there are levels the ordinary mind cannot see from where it stands."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the ontological hierarchy?", "a": "The Katha Upanishad presents a <strong>hierarchy of being</strong> that ascends from the grossest to the subtlest levels of reality. The complete sequence (from mantras 10-11) is: <strong>Indriyāṇi (senses)</strong> → <strong>Arthāḥ (sense-objects)</strong> → <strong>Manas (mind)</strong> → <strong>Buddhi (intellect)</strong> → <strong>Mahān Ātmā (Great Self / Mahat)</strong> → <strong>Avyakta (Unmanifest)</strong> → <strong>Puruṣa (Person)</strong>. The principle governing this hierarchy is: <strong>each higher level is subtler, more pervasive, and more powerful than the one below</strong>. The senses are instruments; the objects are the content; the mind organises; the intellect decides; the Great Self is the cosmic principle of intelligence; the Unmanifest is the potentiality from which all manifests; and Puruṣa is the ultimate conscious principle. This scheme shows strong parallels with <strong>Sāṅkhya philosophy</strong> (particularly the tattva hierarchy of Īśvarakṛṣṇa's Sāṅkhya-kārikā), though the Katha's version culminates in Puruṣa as a single, non-dual principle rather than Sāṅkhya's plurality of puruṣas."},
+      {"q": "🔍 Why are objects 'beyond' the senses?", "a": "This seems counterintuitive — aren't objects <em>outside</em> us while senses are <em>part</em> of us? The Upanishad's logic is different. 'Beyond' (para) here means <strong>subtler, more fundamental, and causally prior</strong>. The <strong>sense-organs</strong> (eye, ear, tongue, etc.) are <em>instruments</em> — they are designed to receive. The <strong>objects</strong> (form, sound, taste, etc.) are the <em>content</em> — the information that the instruments process. Content is subtler than its instrument. A camera (instrument) records an image (content) — but the image is the <em>reason</em> for the camera; the camera exists <em>for</em> the image, not the other way around. In the same way, the senses exist <em>for</em> their objects; objects are the purpose, senses the servant. Moreover, in the Vedāntic-Sāṅkhya framework, <strong>subtle causes are more powerful than their gross effects</strong>. The mind (which processes objects) is subtler than the objects; buddhi (which decides about mental content) is subtler than mind. Each step inward is a step toward greater causal power — and therefore a step toward liberation, which is achieved at the <em>subtlest</em> level, beyond all manifestation."}
+    ]
+  },
+  {
+    "id": 11,
+    "sk": "महतः परमव्यक्तमव्यक्तात्पुरुषः परः | पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः ||",
+    "ro": "mahataḥ · param · avyaktam · avyaktāt · puruṣaḥ · paraḥ | puruṣāt · na · paraṁ · kiñcit · sā · kāṣṭhā · sā · parā · gatiḥ ||",
+    "hi": "महत् (महान् आत्मा) से परे अव्यक्त (अप्रकट प्रकृति) है; अव्यक्त से परे पुरुष है। पुरुष से परे कुछ भी नहीं है — वही काष्ठा (अंतिम सीमा) है, वही परा गति (सर्वोच्च लक्ष्य) है।",
+    "en": "Beyond the Great (mahat) is the Unmanifest (avyakta); beyond the Unmanifest is the Puruṣa (Person). Beyond the Puruṣa there is nothing — that is the ultimate limit (kāṣṭhā), that is the supreme goal (parā gati).",
+    "ws": [
+      {"s": "अव्यक्तम् (avyaktam)", "h": "अव्यक्त — अप्रकट / मूल-प्रकृति", "e": "the Unmanifest — the undifferentiated potentiality from which the manifest universe emerges; corresponds to Sāṅkhya's mūla-prakṛti"},
+      {"s": "पुरुषः (puruṣaḥ)", "h": "पुरुष — परम चेतन तत्त्व", "e": "the Person — the ultimate conscious principle; the Self in its absolute, unconditioned nature; from puri-śaya ('dwelling in the city/body')"},
+      {"s": "काष्ठा (kāṣṭhā)", "h": "अंतिम सीमा / चरम बिन्दु", "e": "the ultimate limit — literally 'the post at the end of a race-track'; there is nothing beyond; the finish line of reality"},
+      {"s": "परा गतिः (parā gatiḥ)", "h": "सर्वोच्च गति / लक्ष्य", "e": "the supreme goal — parā (highest) + gati (destination/movement); the final destination of all spiritual seeking"}
+    ],
+    "gr": "<strong>avyaktam</strong> — 'the Unmanifest': the seed-state of the universe, containing all potentiality but no actuality. It is beyond the mahat (cosmic intelligence) because it is the source from which even cosmic intelligence arises. <strong>puruṣāt na paraṁ kiñcit</strong> — 'beyond Puruṣa there is nothing whatsoever': the hierarchy <em>terminates</em>. Puruṣa is not a step but a <em>ceiling</em> — the absolute beyond which inquiry cannot go. <strong>kāṣṭhā</strong> — literally 'the post' at the end of a racecourse — the finish line. <strong>parā gatiḥ</strong> — 'the supreme goal': all movement, all evolution, all seeking — ends here. This verse repeats from Katha 1.3.11.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.11 — Repetition of Katha 1.3.11. This verse is the summit of the Katha's ontological hierarchy: Puruṣa is the terminus. The declaration 'na paraṁ kiñcit' (nothing beyond) is definitive — it forecloses any infinite regress. The Bhagavad Gītā (8.20-21) uses similar language: 'paras tasmāt tu bhāvo 'nyo 'vyakto 'vyaktāt sanātanaḥ' — 'But beyond this Unmanifest there is another Unmanifest, eternal.' The Gītā's 'other Unmanifest' corresponds to the Katha's 'Puruṣa.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'पुरुष' = निर्गुण ब्रह्म — सत्ता का चरम बिन्दु, जिसके परे कुछ नहीं। 'काष्ठा' — जैसे दौड़ का अंतिम खम्भा — इससे आगे कोई मार्ग नहीं। 'परा गति' — यही परम प्राप्ति है; अन्य सब गतियाँ (स्वर्ग आदि) सापेक्ष हैं।",
+        "en": "Shankara says 'Puruṣa' = nirguṇa Brahman — the ultimate point of reality, beyond which there is nothing. 'Kāṣṭhā' — like the final post of a race — no road goes further. 'Parā gati' — this is the supreme attainment; all other destinations (heaven etc.) are relative.",
+        "ins": "You can stop searching. The search ends here. There is no 'beyond beyond' — Puruṣa is the last word. Every path that seems to go further is actually circling back to this same point."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'पुरुष' = भगवान् नारायण — सर्वोच्च, जिसके परे कुछ नहीं। अव्यक्त उनकी शक्ति (प्रकृति) है; महत् उनकी सृष्टि का प्रथम प्रकटन। 'काष्ठा' — भगवान् ही अंतिम आश्रय हैं।",
+        "en": "Ramanuja says 'Puruṣa' = Lord Nārāyaṇa — the Supreme, beyond whom there is nothing. Avyakta is His power (prakṛti); mahat is the first manifestation of His creation. 'Kāṣṭhā' — the Lord is the final refuge.",
+        "ins": "The Lord is not one step among many — He is the last step. After Him, there is no further journey. All roads end at His feet."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'पुरुष' — चेतना का परम स्रोत; 'अव्यक्त' — चेतना की अप्रकट शक्ति। पुरुष 'काष्ठा' (अंतिम सीमा) है — चेतना इससे आगे नहीं जाती क्योंकि यही चेतना का मूल स्वरूप है।",
+        "en": "Sri Aurobindo says 'Puruṣa' — the supreme source of consciousness; 'avyakta' — the unmanifest power of consciousness. Puruṣa is the 'kāṣṭhā' (ultimate limit) — consciousness does not go beyond this because this IS the essential nature of consciousness.",
+        "ins": "At the summit, you discover you are not climbing anymore — you ARE the mountain. The seeker and the sought are one. That is the supreme goal: not arrival at something else, but recognition of what you always were."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'kāṣṭhā' (the post, the limit) mean?", "a": "<strong>Kāṣṭhā</strong> literally means a <strong>post</strong> — specifically, the post at the end of a racecourse or the marker at the boundary of a field. By calling Puruṣa the 'kāṣṭhā,' the Upanishad makes a radical claim: <strong>reality has a ceiling</strong>. There is no infinite regress of 'beyond the beyond.' Puruṣa is the <em>terminus</em> — the point where all hierarchy, all ascent, all seeking <strong>stops</strong>. This is philosophically significant because it addresses the potential objection: 'If there is always something beyond, how can there be a final truth?' The Katha answers: there is NOT always something beyond. The series — senses → objects → mind → buddhi → mahat → avyakta — could in principle continue indefinitely. But it <em>doesn't</em>. It ends at Puruṣa, and 'na paraṁ kiñcit' — 'there is nothing whatsoever beyond.' The image of the <strong>racetrack post</strong> also implies: the spiritual journey is like a race with a <strong>finish line</strong>. You are not running forever. There is an end, and it can be reached. This is one of the Upanishad's most encouraging declarations."},
+      {"q": "🔍 How does this hierarchy relate to Sāṅkhya philosophy?", "a": "The Katha's hierarchy — <strong>indriya → artha → manas → buddhi → mahān ātmā → avyakta → puruṣa</strong> — closely parallels the <strong>Sāṅkhya tattva scheme</strong> codified later by Īśvarakṛṣṇa in the Sāṅkhya-kārikā. In classical Sāṅkhya: <strong>Prakṛti</strong> (the Unmanifest, avyakta) is the ultimate material principle; from it evolves <strong>Mahat</strong> (cosmic intelligence), then <strong>Ahaṅkāra</strong> (ego), then <strong>Manas</strong> (mind), then the <strong>Indriyas</strong> (senses) and <strong>Tanmātras</strong> (subtle elements). <strong>Puruṣa</strong> stands entirely apart as pure consciousness, never evolving, never changing. The Katha's version is simpler (it omits ahaṅkāra and the tanmātras) but structurally identical. The crucial <strong>difference</strong>: classical Sāṅkhya posits <em>many</em> puruṣas (each individual soul is a separate puruṣa), while the Katha's Puruṣa is <em>one</em> — the singular, universal, non-dual conscious principle beyond all manifestation. This is where the Upanishadic vision diverges from later Sāṅkhya and aligns with Vedānta: the ultimate reality is <strong>one Puruṣa</strong>, not many."}
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "एष सर्वेषु भूतेषु गूढोऽऽत्मा न प्रकाशते | दृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ||",
+    "ro": "eṣaḥ · sarveṣu · bhūteṣu · gūḍhaḥ · ātmā · na · prakāśate | dṛśyate · tu · agryayā · buddhyā · sūkṣmayā · sūkṣma-darśibhiḥ ||",
+    "hi": "यह आत्मा सभी प्राणियों (भूतों) में गूढ (छिपा हुआ) है — प्रकाशित (स्पष्ट) नहीं होता। परन्तु अग्र्य (तीक्ष्ण, सूक्ष्मतम) बुद्धि वाले सूक्ष्मदर्शी (सूक्ष्म दृष्टि वाले) लोग इसे देख लेते हैं।",
+    "en": "This Self, hidden in all beings, does not shine forth (is not evident). But it is seen by the seers of the subtle, through their sharp and subtle intellect (buddhi).",
+    "ws": [
+      {"s": "गूढः (gūḍhaḥ)", "h": "गूढ — छिपा हुआ", "e": "hidden — from √guh (to conceal); the Self is not absent but concealed — like fire in wood or oil in sesame seeds"},
+      {"s": "न प्रकाशते (na prakāśate)", "h": "प्रकाशित नहीं होता", "e": "does not shine forth — na + pra + √kāś (to be visible); the Self does not reveal itself to casual perception"},
+      {"s": "अग्र्यया (agryayā)", "h": "अग्र्य — तीक्ष्ण, सर्वोत्तम", "e": "sharp / foremost — from agrya (chief, topmost); the most refined, penetrating quality of intellect"},
+      {"s": "सूक्ष्मदर्शिभिः (sūkṣma-darśibhiḥ)", "h": "सूक्ष्मदर्शी — सूक्ष्म दृष्टि वालों द्वारा", "e": "by the seers of the subtle — sūkṣma (subtle) + darśin (seer); those whose perception has been refined to apprehend subtleties beyond ordinary cognition"}
+    ],
+    "gr": "<strong>sarveṣu bhūteṣu gūḍhaḥ</strong> — 'hidden in all beings': the Self is not somewhere else — it is <em>here</em>, in every creature, in every atom. But it is <em>concealed</em> — not by distance but by subtlety. <strong>na prakāśate</strong> — 'does not shine forth': the Self is self-luminous (svayaṁ-prakāśa) but does not <em>reveal</em> itself to gross perception. The paradox: the Self illuminates everything but is not seen by anything. <strong>agryayā buddhyā sūkṣmayā</strong> — 'through sharp, subtle buddhi': the instrument of Self-realisation is not the senses (too gross) or the mind (too restless) but a buddhi that has been refined to its <em>sharpest</em>, <em>subtlest</em> edge. This verse repeats from Katha 1.3.12.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.12 — Repetition of Katha 1.3.12. This verse establishes the 'epistemology of liberation': the Self is known not by perception, not by inference, but by a refined buddhi. The Muṇḍaka (3.1.8) parallels: 'nāyam ātmā pravacanena labhyo na medhayā na bahunā śrutena / yam evaiṣa vṛṇute tena labhyaḥ' — 'This Self is not gained by speech, nor by intellect, nor by much learning; it is gained by the one whom it chooses.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — आत्मा 'गूढ' क्यों? — क्योंकि वह सूक्ष्मतम है; स्थूल इन्द्रियाँ सूक्ष्म को नहीं पकड़ सकतीं। 'अग्र्य बुद्धि' — श्रवण-मनन-निदिध्यासन से शोधित (refined) बुद्धि ही आत्मा को 'देख' सकती है।",
+        "en": "Shankara says the Self is 'hidden' because it is the subtlest reality; gross senses cannot apprehend the subtle. 'Sharp buddhi' — only a buddhi refined through śravaṇa-manana-nididhyāsana can 'see' the Self.",
+        "ins": "The Self is not far away — it is the closest thing there is. It is hidden not by distance but by subtlety. You need sharper eyes, not a longer journey."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् सभी प्राणियों में अन्तर्यामी के रूप में 'गूढ' हैं। 'सूक्ष्मदर्शी' — भक्ति से शुद्ध बुद्धि वाले, जिन्हें भगवान् अपना दर्शन देते हैं।",
+        "en": "Ramanuja says the Lord is 'hidden' in all beings as the inner controller (antaryāmin). 'Seers of the subtle' — those whose buddhi is purified by devotion, to whom the Lord grants His vision.",
+        "ins": "The Lord hides in plain sight — inside every creature, including you. He is not testing your cleverness; He is waiting for your devotion. When the heart is pure, the eyes open."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — आत्मा 'गूढ' है क्योंकि सामान्य चेतना बाह्य-मुखी (outward-turned) है; अन्तर्मुखी (inward-turned) चेतना ही आत्मा को देखती है। 'सूक्ष्म बुद्धि' = अंतर्ज्ञान (intuition) — बुद्धि का वह स्तर जो तर्क से परे है।",
+        "en": "Sri Aurobindo says the Self is 'hidden' because ordinary consciousness is outward-turned; only inward-turned consciousness sees the Self. 'Subtle buddhi' = intuition — the level of buddhi that is beyond reasoning.",
+        "ins": "You do not see the Self because you are looking outward. Turn the searchlight around — point it at the one who is holding it. That is the subtle seeing the verse describes."
+      }
+    },
+    "dp": [
+      {"q": "🔍 If the Self is self-luminous, why is it 'hidden'?", "a": "This is one of the most profound paradoxes in the Upanishads. The Self is <strong>svayaṁ-prakāśa</strong> (self-luminous) — it illuminates everything, including the mind, senses, and body. It is the <em>light</em> by which all other things are known. And yet it is <strong>gūḍha</strong> (hidden) — it does not 'shine forth' (na prakāśate) to ordinary perception. How can the source of all light be invisible? The answer lies in the <strong>nature of self-luminosity</strong>. The Self is like the <strong>eye that cannot see itself</strong>. The eye illuminates the world but cannot observe its own illuminating. Similarly, the Self makes all knowledge possible but cannot itself become an <em>object</em> of knowledge in the ordinary sense. It is hidden not by darkness but by its own <strong>excessive nearness</strong> — it is too close, too intimate, too fundamental to be objectified. Shankara uses the analogy of <strong>light</strong>: you see everything by light, but you never see the light itself as a separate 'thing' — you see <em>by</em> it, never <em>it</em>. The 'sharp, subtle buddhi' required to 'see' the Self is therefore not a grosser perception but a <em>reversal</em> of perception — the awareness turning to witness itself."},
+      {"q": "🔍 What kind of buddhi can 'see' the Self?", "a": "The verse specifies two qualities of the buddhi that can perceive the Self: it must be <strong>agryā</strong> (sharp, foremost, penetrating) and <strong>sūkṣmā</strong> (subtle, refined). These are not the same quality. <strong>Agryā</strong> means <em>sharpness</em> — the ability to cut through confusion, to discriminate decisively between what is Self and what is not-Self. This is cultivated through <strong>viveka</strong> (discrimination) and <strong>manana</strong> (sustained reflection). A sharp buddhi can identify false identifications: 'I am not the body; I am not the mind; I am not my thoughts.' <strong>Sūkṣmā</strong> means <em>subtlety</em> — the ability to perceive what is finer than the finest sense-object. The mind is subtler than the senses; the buddhi is subtler than the mind; but even the buddhi must be refined beyond its ordinary capacity. This is cultivated through <strong>nididhyāsana</strong> (deep contemplative absorption) — sustained, one-pointed meditation that thins the buddhi to a point where it can apprehend what is subtler than itself. The <strong>sūkṣma-darśin</strong> ('seer of the subtle') is therefore not someone with supernatural powers but someone whose <em>ordinary faculties have been refined to an extraordinary degree</em>."}
+    ]
+  },
+  {
+    "id": 13,
+    "sk": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि | ज्ञानमात्मनि महति नियच्छेत्तद्यच्छेच्छान्त आत्मनि ||",
+    "ro": "yacchet · vāk · manasī · prājñaḥ · tat · yacchet · jñāne · ātmani | jñānam · ātmani · mahati · niyacchet · tat · yacchet · śānte · ātmani ||",
+    "hi": "प्राज्ञ (बुद्धिमान्) वाक् (वाणी) को मन में समेटे; मन को ज्ञान-आत्मा (बुद्धि) में समेटे; ज्ञान (बुद्धि) को महान् आत्मा (महत्-तत्त्व) में नियंत्रित करे; और उसे (महान् आत्मा को) शान्त आत्मा (परम शान्त ब्रह्म) में स्थापित करे।",
+    "en": "The wise one (prājña) should merge speech into the mind; the mind should be merged into the knowing self (buddhi); buddhi should be merged into the Great Self (mahat); and that should be merged into the peaceful Self (śānta ātman — the supreme Brahman).",
+    "ws": [
+      {"s": "यच्छेत् (yacchet)", "h": "नियंत्रित करे, समेटे", "e": "should restrain / merge — optative of √yam (to control/hold back); the progressive withdrawal of faculties into their source"},
+      {"s": "वाक् (vāk)", "h": "वाणी", "e": "speech — the outermost faculty; the first to be withdrawn in the inward journey"},
+      {"s": "प्राज्ञः (prājñaḥ)", "h": "प्राज्ञ — बुद्धिमान्, विवेकी", "e": "the wise one — pra + jña (endowed with heightened knowledge); one who has the capacity and intention for inner withdrawal"},
+      {"s": "ज्ञाने आत्मनि (jñāne ātmani)", "h": "ज्ञान-आत्मा (बुद्धि) में", "e": "in the knowing self — jñāna-ātman = buddhi; the intellect as the self-aware principle"},
+      {"s": "महति (mahati)", "h": "महान् (आत्मा) में", "e": "in the Great — the mahān ātmā (cosmic intelligence/mahat); the next level of withdrawal beyond individual buddhi"},
+      {"s": "शान्ते आत्मनि (śānte ātmani)", "h": "शान्त आत्मा / परम शान्त ब्रह्म में", "e": "in the peaceful Self — the supreme Brahman characterised by absolute peace (śānti); the final terminus of all withdrawal"}
+    ],
+    "gr": "<strong>yacchet vāk manasī</strong> — 'let him merge speech into mind': the first step of pratyāhāra (withdrawal). Speech is the most outward-directed faculty; withdrawing it inward is the beginning of the contemplative process. <strong>tat yacchet jñāne ātmani</strong> — 'let him merge that into the knowing self': the mind is resolved into buddhi — thought into discrimination. <strong>jñānam ātmani mahati niyacchet</strong> — 'let him merge knowledge into the Great Self': individual buddhi is dissolved into the cosmic intelligence (mahat). <strong>tat yacchet śānte ātmani</strong> — 'let him merge that into the peaceful Self': the culmination — even cosmic intelligence is resolved into the absolute peace of Brahman. This verse closely parallels Katha 1.3.13.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.13 — This verse parallels Katha 1.3.13. It describes a process of progressive withdrawal (laya — dissolution / pratyāhāra — withdrawal) that is one of the earliest descriptions of yogic meditation technique in the Upanishads. The sequence — vāk → manas → buddhi → mahat → śānta ātman — reverses the order of manifestation: creation projects outward from Brahman; meditation withdraws inward to Brahman. The technique is echoed in the Māṇḍūkya Upanishad's analysis of consciousness states: waking → dreaming → deep sleep → turīya.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — यह ध्यान-विधि है: वाक् → मन → बुद्धि → महत् → शान्त आत्मा (निर्गुण ब्रह्म)। प्रत्येक चरण में बाह्य को आन्तरिक में विलीन (dissolve) करना — यही 'योग' है। 'शान्त आत्मा' — परम शान्ति, जहाँ सब विक्षेप (disturbances) शमित हो जाते हैं।",
+        "en": "Shankara says this is a meditation technique: speech → mind → buddhi → mahat → śānta ātman (nirguṇa Brahman). At each stage, the outer is dissolved into the inner — this is 'yoga.' 'Śānta ātman' — supreme peace, where all disturbances are stilled.",
+        "ins": "Meditation is reverse creation. The universe unfolds outward from Brahman; you fold it back. First silence the tongue, then still the mind, then quiet the intellect, then dissolve even cosmic intelligence — and what remains is the peace that was there before anything began."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — यह उपासना का क्रम है: बाह्य इन्द्रियों से मन की ओर, मन से बुद्धि की ओर, बुद्धि से जीवात्मा की ओर, और अंततः भगवान् (शान्त आत्मा) में समर्पण। भगवान् 'शान्त' हैं — वे परम शान्ति के स्रोत हैं।",
+        "en": "Ramanuja says this is the sequence of worship: from outer senses to mind, from mind to buddhi, from buddhi to the jīva, and finally surrender to the Lord (śānta ātman). The Lord is 'śānta' — He is the source of supreme peace.",
+        "ins": "Withdraw step by step — tongue, then thought, then reasoning, then the very sense of 'I' — until all that remains is the Lord's peace. You do not create this peace; you uncover it."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — यह चेतना के अंतर्गमन (ingression) का मार्ग है: surface activity → mental → intellectual → overmental → supramental peace। 'शान्त आत्मा' — चेतना का वह स्तर जहाँ सब गति शान्त है — पर यह शून्य नहीं, पूर्णता है।",
+        "en": "Sri Aurobindo reads this as the path of ingression of consciousness: surface activity → mental → intellectual → overmental → supramental peace. 'Śānta ātman' — that level of consciousness where all movement is stilled — but this is not void; it is plenitude.",
+        "ins": "Silence is not emptiness — it is fullness too vast for sound. Peace is not inaction — it is action too complete for disturbance. When you reach the śānta ātman, you find not nothing, but everything, at rest."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the meditation technique described here?", "a": "This verse describes one of the <strong>earliest systematic meditation techniques</strong> in Indian literature: <strong>progressive withdrawal</strong> (pratyāhāra) of consciousness from the outermost to the innermost. The stages are: (1) <strong>Withdraw speech into the mind</strong>: stop talking — not just physically but mentally. Cease the inner monologue. Speech is the most outward-directed faculty; silencing it is the first step inward. (2) <strong>Withdraw the mind into buddhi</strong>: stop the random flow of thoughts. Let the mind settle into its discriminative capacity (buddhi). Don't suppress thoughts; resolve them — each thought is resolved into the awareness that was watching it. (3) <strong>Withdraw buddhi into the mahān ātmā</strong>: even discrimination ceases. Individual intelligence dissolves into the cosmic intelligence (mahat). The sense of 'I am deciding, I am discerning' fades. (4) <strong>Withdraw the mahān ātmā into the śānta ātman</strong>: even cosmic intelligence is resolved into the absolute peace of Brahman — the 'peaceful Self.' Here there is no subject, no object, no act of knowing — only <strong>being</strong> itself, at rest. This technique is the <em>reverse of creation</em>: the universe manifests outward from Brahman; meditation withdraws inward to Brahman. It is the yogic application of the ontological hierarchy taught in mantras 10-11."},
+      {"q": "🔍 What is the 'śānta ātman' (peaceful Self)?", "a": "The <strong>śānta ātman</strong> is the <em>final term</em> of the withdrawal sequence — the Self characterised by absolute <strong>peace</strong> (śānti). It is not a different Self from the ātman discussed throughout the Upanishad; it is the same Self, now qualified by the adjective <em>śānta</em> to describe how it is experienced when all faculties have been withdrawn. <strong>Why 'peaceful'?</strong> Because at this level there is no disturbance. Speech, mind, buddhi, and even cosmic intelligence (mahat) all involve <em>movement</em> — activity, oscillation, vibration. When all movement is resolved, what remains is <strong>undisturbed being</strong> — which is experienced as infinite peace. The Māṇḍūkya Upanishad (verse 7) describes the same state as '<em>śāntaṁ śivam advaitam</em>' — 'peaceful, auspicious, non-dual.' The <strong>Taittirīya Upanishad (2.7)</strong> declares: '<em>yadā hy evaiṣa etasmin adṛśye anātmye anirukte anilayane abhayaṁ pratiṣṭhāṁ vindate, atha so 'bhayaṁ gato bhavati</em>' — 'When one finds rest in that which is invisible, formless, undefined, and without support — then one has reached fearlessness.' The śānta ātman is this resting-place: <strong>not emptiness, but fullness at rest</strong>."}
+    ]
+  },
+  {
+    "id": 14,
+    "sk": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत | क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ||",
+    "ro": "uttiṣṭhata · jāgrata · prāpya · varān · nibodhata | kṣurasya · dhārā · niśitā · duratyayā · durgaṁ · pathaḥ · tat · kavayaḥ · vadanti ||",
+    "hi": "उत्तिष्ठत! (उठो!) जाग्रत! (जागो!) श्रेष्ठ आचार्यों (वरान्) को प्राप्त करके (उनके पास जाकर) निबोधत (ज्ञान प्राप्त करो)! क्षुर (उस्तरे) की धार तीक्ष्ण (निशिता) और दुरत्यया (पार करने में अत्यन्त कठिन) है — कवि (ज्ञानी) कहते हैं कि वह मार्ग दुर्गम (कठिन) है।",
+    "en": "Arise! Awake! Having obtained excellent teachers, understand! The edge of a razor is sharp and difficult to cross — the wise say the path (to Self-knowledge) is hard to tread.",
+    "ws": [
+      {"s": "उत्तिष्ठत (uttiṣṭhata)", "h": "उठो!", "e": "arise! — imperative plural of ut + √sthā (to stand up); a rallying cry to spiritual aspiration"},
+      {"s": "जाग्रत (jāgrata)", "h": "जागो!", "e": "awake! — imperative plural of √jāgṛ (to be awake); not physical waking but awakening from the sleep of ignorance"},
+      {"s": "प्राप्य वरान् (prāpya varān)", "h": "श्रेष्ठ (गुरुओं/वरदानों) को प्राप्त करके", "e": "having obtained the excellent ones — prāpya (having reached, gerund of √āp) + varān (the excellent, accusative plural of vara); 'the excellent' = teachers / boons; approaching worthy teachers is the means"},
+      {"s": "निबोधत (nibodhata)", "h": "जानो / बोध प्राप्त करो", "e": "understand! know! — imperative plural of ni + √budh (to become aware); receive the teaching with full attention"},
+      {"s": "क्षुरस्य धारा (kṣurasya dhārā)", "h": "उस्तरे की धार", "e": "the edge of a razor — kṣura (razor) + dhārā (edge); the razor's edge as a metaphor for the spiritual path: narrow, sharp, demanding precision"},
+      {"s": "दुरत्यया (duratyayā)", "h": "पार करने में अत्यन्त कठिन", "e": "difficult to cross / hard to traverse — dur (difficult) + atyayā (crossing over); the path is not merely long but treacherous"},
+      {"s": "दुर्गम् (durgam)", "h": "दुर्गम — कठिन मार्ग", "e": "hard to tread — dur (difficult) + gam (going); the path is impassable without guidance and vigilance"}
+    ],
+    "gr": "<strong>uttiṣṭhata jāgrata</strong> — 'arise! awake!': the most famous exhortation in the Upanishads. Three imperatives in rapid succession create urgency: get up, wake up, learn. The plural form suggests this is addressed not to Nachiketa alone but to <em>all seekers</em>. <strong>prāpya varān</strong> — 'having obtained the excellent': most commentators read <em>varān</em> as 'excellent teachers' (ācāryas), emphasising the necessity of a guru. <strong>kṣurasya dhārā niśitā duratyayā</strong> — 'the razor's edge is sharp and hard to cross': the most celebrated simile in the Upanishad. The path to Self-knowledge is not a broad highway but a razor's edge — requiring <em>precision, balance, and vigilance</em>. One misstep and you are cut. This verse appears earlier as Katha 1.3.14.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.14 — Repetition of Katha 1.3.14. This is the most quoted verse of the Katha Upanishad and one of the most quoted verses in all Indian scripture. Swami Vivekananda used 'uttiṣṭhata jāgrata' as his rallying cry. Somerset Maugham titled his 1944 novel 'The Razor's Edge' after this verse. The Muṇḍaka (3.2.4) echoes: 'nāyam ātmā balahīnena labhyaḥ' — 'this Self is not attained by the weak.' The triple imperative — arise, awake, know — encapsulates the Upanishadic path in three words.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'उत्तिष्ठत' — अज्ञान-निद्रा से जागो; 'वरान् प्राप्य' — योग्य आचार्य खोजो; 'निबोधत' — आत्मज्ञान प्राप्त करो। 'क्षुरधारा' — यह मार्ग इतना सूक्ष्म है कि थोड़ी-सी असावधानी से साधक गिर सकता है।",
+        "en": "Shankara says — 'Arise' — wake from the sleep of ignorance; 'having obtained the excellent' — find worthy teachers; 'understand' — attain Self-knowledge. 'The razor's edge' — this path is so subtle that the slightest carelessness can cause the seeker to fall.",
+        "ins": "Three commands. Get up — you have been sleeping. Open your eyes — you have been dreaming. Find a teacher — you cannot walk this path alone. And walk carefully — the path is sharp as a razor."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'उत्तिष्ठत' — भगवान् की ओर उठो; 'जाग्रत' — संसार-निद्रा से जागो; 'वरान् प्राप्य' — सद्गुरु की शरण जाओ जो भगवान् का मार्ग दिखाए। 'क्षुरधारा' — भक्ति-मार्ग भी सूक्ष्म है — अहंकार, स्वार्थ, प्रमाद से भक्ति भ्रष्ट हो सकती है।",
+        "en": "Ramanuja says — 'Arise' — rise toward the Lord; 'Awake' — from the sleep of worldly attachment; 'Having obtained the excellent' — take refuge in a sadguru who shows the Lord's path. 'The razor's edge' — the path of devotion is also subtle — ego, selfishness, and complacency can corrupt devotion.",
+        "ins": "Even love has a razor's edge. Devotion can become possession; service can become pride; surrender can become laziness. Walk the path with open eyes and an open heart."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'उत्तिष्ठत जाग्रत' — यह आध्यात्मिक जागृति का आह्वान है; मनुष्य अभी सो रहा है — चेतन विकास (conscious evolution) के लिए जागना आवश्यक है। 'क्षुरधारा' — यह मार्ग कठिन है क्योंकि निम्न प्रकृति (lower nature) प्रतिरोध करती है; प्रत्येक कदम पर पुरानी आदतें वापस खींचती हैं।",
+        "en": "Sri Aurobindo reads 'uttiṣṭhata jāgrata' as the call to spiritual awakening — humanity is still sleeping; conscious evolution requires waking up. 'The razor's edge' — the path is difficult because the lower nature resists; at every step, old habits pull one back.",
+        "ins": "The call is not gentle — it is urgent. Arise, awake — because you are asleep and you do not know it. The razor's edge is not a punishment — it is the nature of truth: precise, unforgiving of vagueness, demanding the best you have."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'uttiṣṭhata jāgrata' — 'Arise! Awake!' mean?", "a": "This is the <strong>most famous exhortation in the Upanishads</strong> — three imperative verbs fired in rapid succession like a trumpet call. <strong>Uttiṣṭhata</strong> (arise!) — from ut + √sthā (to stand up). This is not about physical standing but <em>spiritual rising</em> — the opposite of complacency, lethargy, and acceptance of the status quo. <strong>Jāgrata</strong> (awake!) — from √jāgṛ (to be awake). This is not about opening physical eyes but <em>waking from the sleep of ignorance</em> — the Upanishadic equivalent of Socrates' 'the unexamined life is not worth living.' <strong>Nibodhata</strong> (understand!) — from ni + √budh (to become aware). This is the cognitive moment — not just alertness but <em>comprehension</em>. The verse was adopted by <strong>Swami Vivekananda</strong> as the motto of the Ramakrishna Mission and became a rallying cry for the Indian spiritual renaissance. It appears on the emblem of <strong>many Indian educational institutions</strong>. The three commands form a complete arc: <em>will</em> (arise — decide to act), <em>awareness</em> (awake — open your eyes), <em>understanding</em> (know — receive the teaching). Without will, awareness is passive; without awareness, understanding is impossible; without understanding, will is blind."},
+      {"q": "🔍 What does the 'razor's edge' metaphor mean?", "a": "The <strong>razor's edge</strong> (kṣurasya dhārā) is one of the most powerful images in world spiritual literature. It communicates several things simultaneously: (1) <strong>Narrowness</strong>: the path is not a broad highway with room for wandering — it is as narrow as a blade's edge. There is no room for half-measures, vagueness, or 'approximate' understanding. You either walk on the edge or you fall off. (2) <strong>Sharpness</strong>: the path <em>cuts</em>. Walking it means being willing to have your illusions sliced away — attachments, false identities, comfortable beliefs. Truth is not comfortable; it is sharp. (3) <strong>Danger</strong>: the slightest deviation is punished. Not by an angry God, but by the nature of the path itself. A moment of carelessness (pramāda), and you are cut — you fall back into saṁsāra. (4) <strong>Precision</strong>: the path demands exactness of understanding, not vague good intentions. Approximate knowledge of the Self is not knowledge at all. (5) <strong>Difficulty without impossibility</strong>: the verse says the path is <em>difficult</em> (duratyayā), not <em>impossible</em>. A razor's edge can be walked — it just requires extreme care, balance, and attention. The prerequisite: 'prāpya varān' — find excellent teachers. You cannot walk this edge alone. <strong>Somerset Maugham</strong> titled his celebrated 1944 novel <em>The Razor's Edge</em> after this verse, exploring the spiritual quest of a disillusioned World War I veteran."}
+    ]
+  },
+  {
+    "id": 15,
+    "sk": "अशब्दमस्पर्शमरूपमव्ययं तथाऽरसं नित्यमगन्धवच्च यत् | अनाद्यनन्तं महतः परं ध्रुवं निचाय्य तन्मृत्युमुखात्प्रमुच्यते ||",
+    "ro": "aśabdam · asparśam · arūpam · avyayaṁ · tathā · arasaṁ · nityam · agandhavat · ca · yat | anādi · anantaṁ · mahataḥ · paraṁ · dhruvaṁ · nicāyya · tat · mṛtyu-mukhāt · pramucyate ||",
+    "hi": "जो अशब्द (शब्द-रहित), अस्पर्श (स्पर्श-रहित), अरूप (रूप-रहित), अव्यय (अविनाशी), अरस (रस-रहित), नित्य (शाश्वत), अगन्ध (गन्ध-रहित), अनादि (आदि-रहित), अनन्त (अन्त-रहित), महत् से परे, और ध्रुव (अचल) है — उसे निश्चयपूर्वक जानकर (निचाय्य) मनुष्य मृत्यु के मुख से मुक्त हो जाता है।",
+    "en": "That which is without sound, without touch, without form, imperishable, without taste, eternal, without smell, without beginning, without end, beyond the Great (mahat), and ever-constant — by discerning That, one is freed from the jaws of death.",
+    "ws": [
+      {"s": "अशब्दम् (aśabdam)", "h": "शब्द-रहित", "e": "without sound — beyond the reach of the ear; Brahman cannot be heard"},
+      {"s": "अस्पर्शम् (asparśam)", "h": "स्पर्श-रहित", "e": "without touch — beyond the reach of skin; Brahman cannot be felt"},
+      {"s": "अरूपम् (arūpam)", "h": "रूप-रहित", "e": "without form — beyond the reach of the eye; Brahman cannot be seen"},
+      {"s": "अव्ययम् (avyayam)", "h": "अविनाशी", "e": "imperishable — a + vyaya (decay); Brahman does not diminish or deteriorate"},
+      {"s": "अरसम् (arasam)", "h": "रस-रहित", "e": "without taste — beyond the reach of the tongue; Brahman cannot be tasted"},
+      {"s": "अगन्धवत् (agandhavat)", "h": "गन्ध-रहित", "e": "without smell — beyond the reach of the nose; Brahman cannot be smelled"},
+      {"s": "अनादि (anādi)", "h": "आदि-रहित, अनादि", "e": "without beginning — Brahman has no origin, no starting point in time"},
+      {"s": "अनन्तम् (anantam)", "h": "अनन्त, अन्त-रहित", "e": "without end — Brahman has no terminus, no expiry"},
+      {"s": "ध्रुवम् (dhruvam)", "h": "ध्रुव — अचल, स्थिर", "e": "ever-constant / immovable — from √dhṛ (to hold firmly); Brahman is the unchanging pole of all existence"},
+      {"s": "निचाय्य (nicāyya)", "h": "निश्चयपूर्वक जानकर", "e": "having discerned / having ascertained — gerund of ni + √ci (to ascertain); not mere belief but conclusive knowledge"},
+      {"s": "मृत्युमुखात् (mṛtyu-mukhāt)", "h": "मृत्यु के मुख से", "e": "from the jaws of death — mṛtyu (death) + mukha (mouth/jaws); death as a devouring beast whose grip can be escaped"}
+    ],
+    "gr": "<strong>aśabdam asparśam arūpam ... arasaṁ ... agandhavat</strong> — a systematic negation of all five sense-qualities: sound (śabda), touch (sparśa), form (rūpa), taste (rasa), smell (gandha). Brahman is <em>beyond all sensory apprehension</em>. This is the via negativa — defining by what something is <em>not</em>, since what it IS exceeds all categories. <strong>anādi anantam</strong> — 'without beginning, without end': Brahman is beyond time — not 'everlasting' (which implies existence in time) but <em>timeless</em>. <strong>dhruvaṁ</strong> — 'ever-constant': the one fixed point in a universe of change — like the pole star (dhruva-tārā) around which all else revolves. <strong>nicāyya</strong> — 'having discerned': the liberating knowledge is not vague aspiration but <em>definitive ascertainment</em>. <strong>mṛtyu-mukhāt pramucyate</strong> — 'is freed from the jaws of death': the image of death as a beast with open jaws, about to swallow — and the knower is pulled free. This verse closely parallels Katha 1.3.15.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.15 — This verse parallels Katha 1.3.15 and serves as the penultimate teaching of the Upanishad. The via negativa (neti neti — 'not this, not that') is the characteristic method of the Bṛhadāraṇyaka Upanishad (2.3.6, 3.9.26, 4.2.4, 4.4.22, 4.5.15) but appears here in condensed form. The five negations (a-śabda, a-sparśa, a-rūpa, a-rasa, a-gandha) correspond exactly to the five tanmātras (subtle elements) of Sāṅkhya — the Upanishad systematically places Brahman beyond all of them. The Muṇḍaka (1.1.6) offers a parallel description: 'yat tad adreśyam agrāhyam agotram avarṇam acakṣuḥ-śrotraṁ tad apāṇi-pādam / nityaṁ vibhuṁ sarva-gataṁ su-sūkṣmam.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — ब्रह्म को पाँचों इन्द्रियों से नहीं जाना जा सकता — इसलिए पंच-विषयों (शब्द, स्पर्श, रूप, रस, गन्ध) का निषेध। यह 'नेति नेति' (यह नहीं, यह नहीं) पद्धति है — ब्रह्म क्या है यह कहा नहीं जा सकता, पर क्या नहीं है यह बताकर उसकी ओर इंगित किया जा सकता है। 'निचाय्य' — निश्चयात्मक ज्ञान से, सन्देह-रहित बोध से।",
+        "en": "Shankara says Brahman cannot be known through any of the five senses — hence the negation of the five sense-qualities (sound, touch, form, taste, smell). This is the 'neti neti' method — one cannot say what Brahman IS, but by saying what it is NOT, one can point toward it. 'Nicāyya' — through definitive knowledge, doubt-free realisation.",
+        "ins": "Strip away everything you can perceive: sound, touch, sight, taste, smell. What remains? Not nothing — but That which was doing the perceiving all along. The neti neti method does not leave you with emptiness; it leaves you with yourself."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् अप्राकृत (beyond material nature) हैं — प्राकृतिक गुणों (शब्द, स्पर्श आदि) से परे; पर वे 'अरूप' होते हुए भी दिव्य रूप रखते हैं। 'अनादि-अनन्त' — भगवान् नित्य हैं; 'ध्रुव' — वे अचल आश्रय हैं।",
+        "en": "Ramanuja says the Lord is beyond material nature (aprākṛta) — beyond material qualities (sound, touch, etc.); but though 'formless' in the material sense, He possesses a divine form. 'Anādi-ananta' — the Lord is eternal; 'dhruva' — He is the immovable refuge.",
+        "ins": "The Lord is not nothing — He is beyond everything material. He has no earthly form, yet He has a divine form. He has no beginning, yet He is the origin of all. To know Him is not to lose the world but to gain what the world could never give."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — ये निषेध (negations) बताते हैं कि परम सत्ता इन्द्रिय-गोचर (sense-perceptible) नहीं है — पर वह 'शून्य' नहीं; वह इन्द्रियों के 'पार' (transcendent) है, जिसमें इन्द्रिय-विषयों की असीमित सम्भावनाएँ निहित हैं। 'ध्रुव' — शाश्वत स्थिरता — चेतना का अचल आधार।",
+        "en": "Sri Aurobindo says these negations indicate that the supreme reality is not sense-perceptible — but it is not 'void'; it is transcendent, containing within itself the infinite potentiality of all sense-qualities. 'Dhruva' — eternal stability — the immovable foundation of consciousness.",
+        "ins": "Beyond sound does not mean silence — it means the source of all sounds. Beyond form does not mean emptiness — it means the womb of all forms. The Supreme is not less than the world — it is infinitely more."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the 'via negativa' (neti neti) approach?", "a": "The <strong>via negativa</strong> (the 'negative way') is the characteristic Upanishadic method for describing Brahman. Since Brahman is <em>beyond all categories of human thought and perception</em>, it cannot be positively defined — any definition would limit it. Instead, the Upanishad describes Brahman by <strong>systematically negating everything it is not</strong>: not sound, not touch, not form, not taste, not smell; not perishable, not temporal, not finite. The Bṛhadāraṇyaka Upanishad's famous formulation is '<strong>neti neti</strong>' — 'not this, not that' (2.3.6): 'There is no other description of Brahman than <em>neti neti</em> — it is not this, not that.' This verse in the Katha applies the method specifically to the <strong>five tanmātras</strong> (subtle sense-elements): śabda (sound), sparśa (touch), rūpa (form), rasa (taste), gandha (smell). By negating all five, the verse places Brahman <strong>entirely beyond the domain of sensory knowledge</strong>. This does not mean Brahman is 'nothing' — it means Brahman is <em>not any thing</em>. The negation is not a denial of existence but a denial of limitation. Every positive attribute limits ('Brahman is blue' excludes non-blue; 'Brahman is large' implies size). Only negation can point to the unlimited."},
+      {"q": "🔍 What does it mean to be freed from 'the jaws of death'?", "a": "The image of <strong>mṛtyu-mukha</strong> ('the mouth/jaws of death') personifies death as a <strong>devouring beast</strong> — a predator with its jaws open, about to swallow its prey. This is not metaphorical extravagance; it is the Upanishad's literal position on the human condition: <strong>death is consuming you right now</strong>. Every moment, death is digesting your body, your relationships, your achievements. The entire Katha Upanishad takes place in <strong>Yama's house</strong> — the house of Death — and the central question has always been: can Nachiketa escape? This verse gives the answer: <strong>yes</strong> — but only through 'nicāyya' (definitive discernment) of Brahman. The 'jaws of death' can be pried open by knowledge. What makes this dramatic is the word 'pramucyate' — <em>is freed</em>. Not 'escapes' (as if by effort), not 'is rescued' (as if by another), but 'is freed' — the passive voice suggests that knowledge itself does the liberating. The knower does not fight death; knowledge dissolves death's grip. This is the Katha's final answer to Nachiketa's original question: 'What happens after death?' Answer: <strong>for the knower, death has no grip</strong>. There is nothing to happen 'after death' because death has no reality for one who has discerned the eternal, formless, imperishable Self."}
+    ]
+  },
+  {
+    "id": 16,
+    "sk": "नाचिकेतमुपाख्यानं मृत्युप्रोक्तं सनातनम् | उक्त्वा श्रुत्वा च मेधावी ब्रह्मलोके महीयते ||",
+    "ro": "nāciketam · upākhyānaṁ · mṛtyu-proktaṁ · sanātanam | uktvā · śrutvā · ca · medhāvī · brahma-loke · mahīyate ||",
+    "hi": "नाचिकेत उपाख्यान (कथा) — जो मृत्यु (यम) द्वारा कही गई, सनातन (शाश्वत) है — इसे कहकर या सुनकर मेधावी (बुद्धिमान्) व्यक्ति ब्रह्मलोक में महिमा (गौरव) प्राप्त करता है।",
+    "en": "Having told or having heard this eternal Nachiketa tale, spoken by Mṛtyu (Death himself), the wise one is glorified in the world of Brahman.",
+    "ws": [
+      {"s": "उपाख्यानम् (upākhyānam)", "h": "उपाख्यान — कथा / आख्यान", "e": "narrative / tale — upa + ākhyāna (telling); the story of Nachiketa as a vehicle for the teaching"},
+      {"s": "मृत्युप्रोक्तम् (mṛtyu-proktam)", "h": "मृत्यु (यम) द्वारा कहा गया", "e": "spoken by Death — mṛtyu (Death/Yama) + prokta (spoken); the authority of the teaching: it comes from Death himself, who alone knows death's secrets"},
+      {"s": "सनातनम् (sanātanam)", "h": "सनातन, शाश्वत", "e": "eternal — this teaching is not time-bound; it is as valid now as when first spoken"},
+      {"s": "मेधावी (medhāvī)", "h": "मेधावी — बुद्धिमान्, प्रतिभाशाली", "e": "the wise / the intelligent — from medhā (intelligence/retentive power); one who has the capacity to receive and retain the teaching"},
+      {"s": "ब्रह्मलोके महीयते (brahma-loke mahīyate)", "h": "ब्रह्मलोक में महिमा / गौरव प्राप्त करता है", "e": "is glorified in the world of Brahman — brahma-loka (the world/state of Brahman) + mahīyate (is magnified/glorified)"}
+    ],
+    "gr": "<strong>nāciketam upākhyānam</strong> — 'the Nachiketa narrative': the entire Upanishad is now called a 'story' (upākhyāna) — a narrative vehicle for the highest truth. <strong>mṛtyu-proktam</strong> — 'spoken by Death': this is the Upanishad's claim to unique authority — its teacher is not an ordinary sage but <em>Death himself</em>. Who knows death better than Death? <strong>sanātanam</strong> — 'eternal': the teaching transcends the historical moment; it is valid for all times. <strong>uktvā śrutvā ca</strong> — 'having told OR having heard': both the teacher and the student receive the merit. Teaching is not a one-way transfer but a mutual elevation. <strong>brahma-loke mahīyate</strong> — 'is glorified in Brahma-loka': this can mean either 'the world of Brahmā' (a celestial destination) or 'the state of Brahman' (liberation itself). Most Vedāntic commentators read it as the latter.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.16 — This is the phala-śruti (fruit-statement) of the Katha Upanishad — a traditional closing formula that declares the merit of hearing/reciting the text. Such phala-śrutis are standard in Upanishadic literature (cf. Muṇḍaka 3.2.11, Praśna 6.7). 'Brahma-loka' here is ambiguous: it could mean the world of the creator-god Brahmā (a temporary destination, however exalted) or the state of Brahman (permanent liberation). Shankara reads it as the latter; Ramanuja reads it as the Lord's eternal abode.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'ब्रह्मलोक' = ब्रह्म-प्राप्ति (ब्रह्म का साक्षात्कार), न कि ब्रह्मा का लोक (जो अनित्य है)। यह फल-श्रुति है — इस उपनिषद् को पढ़ने-सुनने का फल मोक्ष है। 'मेधावी' — जो श्रवण-मनन-निदिध्यासन से ज्ञान प्राप्त करता है।",
+        "en": "Shankara says 'brahma-loka' = Brahman-realisation (the state of Brahman), not the world of Brahmā (which is impermanent). This is the phala-śruti — the fruit of studying this Upanishad is mokṣa. 'Medhāvī' — one who attains knowledge through śravaṇa-manana-nididhyāsana.",
+        "ins": "The story of Nachiketa is not just a story — it is a map. The one who reads it with understanding, and the one who teaches it with devotion, both arrive at the same destination: the state of Brahman."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'ब्रह्मलोक' = भगवान् का परमधाम। नाचिकेत-कथा का फल: इसे सुनकर या सुनाकर भक्त भगवान् के धाम में गौरव प्राप्त करता है। 'मेधावी' = भक्तिमान् बुद्धिमान्।",
+        "en": "Ramanuja says 'brahma-loka' = the Lord's supreme abode. The fruit of the Nachiketa tale: by hearing or telling it, the devotee attains glory in the Lord's abode. 'Medhāvī' = the devotee endowed with intelligence.",
+        "ins": "This story is sacred not because it is old, but because it is true. Tell it, hear it, live it — and the Lord will honour you in His own home."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'ब्रह्मलोक में महीयते' — यह केवल मरणोत्तर फल नहीं; इस जीवन में ही ब्रह्म-चेतना में प्रतिष्ठित होना 'ब्रह्मलोक में महिमा' है। कथा का सत्य कालातीत (timeless) है — 'सनातनम्'।",
+        "en": "Sri Aurobindo says 'glorified in brahma-loka' is not merely a post-mortem reward; to be established in Brahman-consciousness in this very life IS 'glory in brahma-loka.' The truth of the tale is timeless — 'sanātanam.'",
+        "ins": "The reward is not after death — it is now. Understanding the Nachiketa tale is itself the glory. The teaching transforms the listener in the act of listening."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is a 'phala-śruti' and why does the Upanishad end with one?", "a": "A <strong>phala-śruti</strong> (fruit-statement) is a traditional closing formula in Vedic and Upanishadic literature that declares the <strong>merit gained by studying, reciting, or hearing the text</strong>. Almost every Upanishad ends with one. Examples: Muṇḍaka (3.2.11): 'etad dhy evākṣaraṁ brahma … ya evaṁ vidvān etad akṣaraṁ paṭhati' — 'one who, knowing thus, recites this Imperishable...' Praśna (6.7-8): 'iti ṣaḍbhir āśvāsaiḥ … yo ha vai tat paramaṁ brahma veda brahmaiva bhavati' — 'one who knows that supreme Brahman becomes Brahman itself.' The phala-śruti serves multiple functions: (1) <strong>Closure</strong>: it signals that the teaching is complete. (2) <strong>Motivation</strong>: it encourages study and recitation by promising spiritual merit. (3) <strong>Oral preservation</strong>: by attaching 'merit' to recitation, the phala-śruti ensures the text will be remembered, recited, and transmitted across generations — a survival mechanism for oral literature. (4) <strong>Democratisation</strong>: 'uktvā śrutvā ca' — both telling and hearing earn merit. The student who hears is as meritorious as the teacher who speaks. Knowledge flows both ways."},
+      {"q": "🔍 Why is the teaching called 'sanātana' (eternal)?", "a": "The word <strong>sanātana</strong> (eternal, primordial) applied to the Nachiketa teaching makes a remarkable claim: <strong>this truth is not historical</strong>. It was not discovered at a point in time; it does not belong to an era; it does not become obsolete. The dialogue between Nachiketa and Yama is presented as a particular event, but the <em>truth</em> communicated through it is <strong>beyond time</strong>. This is the Vedic understanding of <em>śruti</em> (revelation): the truths of the Upanishads are not inventions of human intellect but <strong>eternal verities</strong> 'heard' (śruta) by the ṛṣis (seers) in states of deep meditation. They exist independently of any teacher or student; the teacher merely makes them audible. The claim of 'sanātanam' also serves a <strong>protective function</strong>: by declaring the teaching eternal, the text immunises itself against historical relativism. A critic might say: 'This was relevant in Vedic times but not now.' The Upanishad's preemptive response: the teaching is sanātana — it was true before the Vedas, it is true now, it will be true when all books are dust. The question of death and the answer of the Self are as urgent today as they were when Nachiketa first asked."}
+    ]
+  },
+  {
+    "id": 17,
+    "sk": "य इमं परमं गुह्यं श्रावयेद्ब्रह्मसंसदि | प्रयतः श्राद्धकाले वा तदानन्त्याय कल्पते | तदानन्त्याय कल्पते ||",
+    "ro": "yaḥ · imaṁ · paramaṁ · guhyaṁ · śrāvayet · brahma-saṁsadi | prayataḥ · śrāddha-kāle · vā · tat · ānantyāya · kalpate · tat · ānantyāya · kalpate ||",
+    "hi": "जो इस परम गुह्य (अत्यन्त गोपनीय ज्ञान) को ब्रह्मसंसद (ब्रह्मज्ञानियों की सभा) में सुनाए, अथवा प्रयत (शुद्ध-चित्त) होकर श्राद्धकाल (पितृ-श्राद्ध के समय) में सुनाए — वह अनन्त (अनन्तता) के योग्य हो जाता है। वह अनन्तता के योग्य हो जाता है।",
+    "en": "He who recites this supreme secret in an assembly of Brahmavids (knowers of Brahman), or with a purified mind at the time of the śrāddha ceremony — that (act) is fit for infinitude. That is fit for infinitude.",
+    "ws": [
+      {"s": "परमं गुह्यम् (paramaṁ guhyam)", "h": "परम गोपनीय / अत्यन्त रहस्यपूर्ण", "e": "the supreme secret — parama (highest) + guhya (secret, from √guh, to conceal); the teaching is not merely difficult — it is sacred and secret, meant for those prepared to receive it"},
+      {"s": "ब्रह्मसंसदि (brahma-saṁsadi)", "h": "ब्रह्मज्ञानियों की सभा में", "e": "in an assembly of Brahmavids — brahma (Brahman/sacred knowledge) + saṁsad (assembly/gathering); the teaching should be shared in a worthy context, not cast about carelessly"},
+      {"s": "प्रयतः (prayataḥ)", "h": "प्रयत / शुद्ध-चित्त / संयमी", "e": "purified / self-restrained — pra + √yat (to strive/exert); one who has prepared himself through discipline and ritual purity"},
+      {"s": "श्राद्धकाले (śrāddha-kāle)", "h": "श्राद्ध-काल में — पितृ-तर्पण के समय", "e": "at the time of śrāddha — the ancestral rite honouring the departed; reciting sacred knowledge at this time is considered supremely meritorious"},
+      {"s": "आनन्त्याय कल्पते (ānantyāya kalpate)", "h": "अनन्तता के योग्य हो जाता है", "e": "is fit for / leads to infinitude — ānantya (infinity/endlessness) + kalpate (is fit for, is suited to); the merit is not finite but infinite"},
+      {"s": "तदानन्त्याय कल्पते (tat ānantyāya kalpate)", "h": "वह अनन्तता के योग्य हो जाता है (पुनरावृत्ति)", "e": "that is fit for infinitude (repeated) — the repetition is a traditional closing device emphasising finality and significance"}
+    ],
+    "gr": "<strong>paramaṁ guhyam</strong> — 'the supreme secret': the word <em>guhya</em> (secret) does not mean the teaching should be hidden; it means it is <em>so profound</em> that only prepared minds can receive it. Its 'secrecy' is intrinsic — not social but ontological. <strong>brahma-saṁsadi</strong> — 'in an assembly of Brahmavids': the teaching should be shared in a worthy setting — among those who are qualified and prepared. <strong>śrāddha-kāle</strong> — 'at the time of śrāddha': the ancestral rite is an appropriate context because the Katha's central theme is death and what lies beyond it. <strong>ānantyāya kalpate</strong> — 'is fit for infinitude': the merit of sharing this knowledge is not finite but <em>infinite</em>. The word 'ānantya' (infinitude) is the most expansive term possible — it transcends even 'immortality.' <strong>The repetition</strong> — 'tat ānantyāya kalpate' — is the Upanishad's final seal. In oral tradition, a repeated closing phrase signals: <em>the text is complete; this is the end</em>.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.3.17 — This is the final verse of the Katha Upanishad — its concluding phala-śruti. The double repetition of 'ānantyāya kalpate' is a standard Vedic closing device (cf. the Chāndogya's repeated closings). The mention of 'śrāddha-kāle' connects the teaching back to its narrative origin: Nachiketa's story began with his father performing a sacrificial rite and Nachiketa being 'given' to Death. The Upanishad thus ends where it began — with ritual, death, and the quest for what lies beyond both. The word 'ānantya' (infinitude) is deliberately chosen over 'amṛta' (immortality): infinitude is more than deathlessness — it is boundlessness in every dimension.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'आनन्त्य' = अनन्त ब्रह्म-स्वरूप; यह ज्ञान साझा करना मोक्ष-प्राप्ति का साधन है। 'ब्रह्मसंसद' — योग्य श्रोताओं में कहना; 'गुह्यम्' — अयोग्य को नहीं सुनाना, क्योंकि वे न समझेंगे, न लाभ पाएँगे। पुनरावृत्ति — उपनिषद् यहाँ समाप्त होती है।",
+        "en": "Shankara says 'ānantya' = the infinite nature of Brahman; sharing this knowledge is a means to mokṣa. 'Brahma-saṁsad' — recite among qualified listeners; 'guhyam' — do not tell the unqualified, as they will neither understand nor benefit. The repetition signals: the Upanishad ends here.",
+        "ins": "The last word of the Katha is 'infinitude' — and it is spoken twice. Not immortality (which is merely deathlessness), but infinitude (which is boundlessness in every direction). That is the promise: not just to live forever, but to BE infinite."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'आनन्त्य' = भगवान् के धाम में अनन्त सेवा और आनन्द। इस ज्ञान को सत्पात्रों (योग्य श्रोताओं) में बाँटना स्वयं एक भक्ति-कर्म है। 'श्राद्धकाले' — पितरों के निमित्त भी यह ज्ञान श्रेष्ठ दान है।",
+        "en": "Ramanuja says 'ānantya' = infinite service and bliss in the Lord's abode. Sharing this knowledge among the worthy (satpātra) is itself an act of devotion. 'Śrāddha-kāle' — even for the sake of the ancestors, this knowledge is the highest gift.",
+        "ins": "The greatest gift you can give your ancestors is not food or water — it is truth. Share this teaching at the ancestral rite, and you give them something that lasts forever."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'आनन्त्य' — चेतना की अनन्तता; मृत्यु-भय से परे जाना और अनन्त चैतन्य में प्रतिष्ठित होना। 'परम गुह्य' — यह ज्ञान 'गुह्य' (secret) इसलिए है क्योंकि यह बाहरी मन (surface mind) को उपलब्ध नहीं — केवल गहन अन्तर्दृष्टि (deep insight) से ही प्राप्य है।",
+        "en": "Sri Aurobindo says 'ānantya' — infinitude of consciousness; going beyond the fear of death and being established in infinite awareness. 'Paramaṁ guhyam' — this knowledge is 'secret' not socially but ontologically — it is not accessible to the surface mind; it can only be received through deep insight.",
+        "ins": "The teaching ends, but the truth does not. 'Infinitude' — the last word, spoken twice — is not a conclusion but an opening. The story of Nachiketa closes; the reality it points to stretches on, without end."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the significance of ending with 'ānantyāya kalpate' — repeated twice?", "a": "The <strong>double repetition</strong> of 'ānantyāya kalpate' ('that is fit for infinitude') serves multiple functions: (1) <strong>Oral closure</strong>: in a tradition of memorised oral recitation, a repeated closing phrase is the equivalent of 'THE END' in a written text. It tells the reciter and the listener: <em>the text is complete; do not add more</em>. (2) <strong>Emphasis</strong>: the most important thing is said last and said twice. The Upanishad could have ended with 'mokṣa' (liberation) or 'amṛta' (immortality) — but it chose <strong>'ānantya' (infinitude)</strong>. This is the highest term: not just deathlessness (which is merely the absence of something) but <strong>boundlessness</strong> (which is the presence of everything). (3) <strong>Symmetry</strong>: the Upanishad began with a finite, specific act — Nachiketa's father performing a sacrifice — and ends with the <strong>infinite</strong>. From the finite to the infinite: that is the arc of the entire teaching. (4) <strong>Promise</strong>: the repetition is a <em>vow</em> — not a conditional but a certainty. 'That IS fit for infinitude. That IS fit for infinitude.' The Upanishad does not say 'might be' or 'could be' — it says 'is.' The promise is as strong as language can make it."},
+      {"q": "🔍 Why is the teaching called 'the supreme secret' (paramaṁ guhyam)?", "a": "The Katha's final verse calls its own teaching '<strong>paramaṁ guhyam</strong>' — the supreme secret. This 'secrecy' operates on three levels: (1) <strong>Ontological secrecy</strong>: the Self is <em>gūḍha</em> (hidden, mantra 12) — concealed within all beings. It is a 'secret' not because someone is hiding it but because <em>its own nature is to be beyond surface perception</em>. You cannot find it with your eyes, ears, or ordinary mind. It is hidden by its own subtlety, as fire is hidden in wood. (2) <strong>Pedagogical secrecy</strong>: the teaching requires <em>adhikāra</em> (qualification) in the student. Sharing it in a 'brahma-saṁsad' (assembly of the wise) ensures it reaches prepared minds. This is not elitism but realism: a teaching about the razor's edge cannot be safely given to someone who has never seen a blade. The Bhagavad Gītā (18.67) echoes this: '<em>idaṁ te nātapaskāya nābhaktāya kadācana</em>' — 'This should never be told to one without austerity or devotion.' (3) <strong>Experiential secrecy</strong>: even after hearing the teaching, the <em>realisation</em> remains 'secret' until it is personally experienced. You can describe water to someone who has never tasted it, but the taste itself remains a secret until they drink. The Upanishad has spoken everything — but until you <strong>become</strong> Nachiketa, until you <strong>face</strong> Death, until you <strong>choose</strong> the Self over the pleasant — the 'supreme secret' remains sealed."}
+    ]
+  }
+]
