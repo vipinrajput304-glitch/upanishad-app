@@ -1,0 +1,615 @@
+[
+  {
+    "id": 1,
+    "sk": "ऊर्ध्वमूलोऽवाक्शाख एषोऽश्वत्थः सनातनः | तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते | तस्मिंल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन | एतद्वै तत् ||",
+    "ro": "ūrdhva-mūlaḥ · avāk-śākhaḥ · eṣaḥ · aśvatthaḥ · sanātanaḥ | tat · eva · śukraṁ · tat · brahma · tat · eva · amṛtam · ucyate | tasmin · lokāḥ · śritāḥ · sarve · tat · u · na · atyeti · kaścana | etat · vai · tat ||",
+    "hi": "यह सनातन अश्वत्थ (पीपल/संसार-वृक्ष) ऊर्ध्वमूल (जिसकी जड़ें ऊपर हैं) और अवाक्शाख (जिसकी शाखाएँ नीचे हैं) है। वही शुक्र (शुद्ध प्रकाश) है, वही ब्रह्म है, वही अमृत कहा जाता है। सभी लोक उसी में आश्रित हैं; उसे कोई भी अतिक्रमण नहीं कर सकता। यही वह (ब्रह्म) है।",
+    "en": "This eternal ashvattha (sacred fig tree) has its roots above and its branches below. That alone is the Pure (Light), That is Brahman, That alone is called the Immortal. All worlds rest in That; none can go beyond That. This, verily, is That.",
+    "ws": [
+      {"s": "ऊर्ध्वमूलः (ūrdhva-mūlaḥ)", "h": "जिसकी जड़ें ऊपर हैं", "e": "with roots above — ūrdhva (upward) + mūla (root); the cosmic tree's roots are in Brahman (the transcendent source)"},
+      {"s": "अवाक्शाखः (avāk-śākhaḥ)", "h": "जिसकी शाखाएँ नीचे हैं", "e": "with branches below — avāk (downward) + śākhā (branch); creation spreads downward from the divine source"},
+      {"s": "अश्वत्थः (aśvatthaḥ)", "h": "अश्वत्थ — पीपल का वृक्ष / संसार-वृक्ष", "e": "the sacred fig tree — aśvattha: literally 'that which will not remain till tomorrow' (a + śvas + tha); a symbol of impermanent phenomenal existence"},
+      {"s": "सनातनः (sanātanaḥ)", "h": "सनातन, शाश्वत", "e": "eternal — the tree as a cosmic process is beginningless; the cycle of creation has no starting point"},
+      {"s": "शुक्रम् (śukram)", "h": "शुद्ध, शुक्ल, प्रकाशमान", "e": "the Pure / the radiant — the Self's essential nature as luminous purity"},
+      {"s": "न अत्येति कश्चन (na atyeti kaścana)", "h": "कोई भी अतिक्रमण नहीं करता", "e": "none goes beyond — Brahman is the unsurpassable limit of reality"}
+    ],
+    "gr": "<strong>ūrdhva-mūlaḥ avāk-śākhaḥ</strong> — 'roots above, branches below': the inverted tree is one of the most powerful images in Indian philosophy. The root (mūla) is Brahman, the transcendent source; the branches (śākhā) are the manifest world — spreading downward into multiplicity. <strong>aśvatthaḥ</strong> — etymologically 'that which will not remain till tomorrow' (a + śvas + tha): the phenomenal world is in constant flux, never the same from one moment to the next, yet the process itself is <em>sanātana</em> (eternal). <strong>The second half</strong> repeats verbatim from 2.1.8 — confirming that the root of the cosmic tree IS the same Brahman described earlier.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.1 — The inverted cosmic tree (ūrdhva-mūla aśvattha) is one of the most celebrated images in Indian philosophy. The Bhagavad Gītā (15.1-4) elaborates this image extensively: 'ūrdhva-mūlam adhaḥ-śākham aśvatthaṁ prāhur avyayam' — Kṛṣṇa describes this tree and says one must cut it down with the 'axe of non-attachment.' The Rig Veda (1.24.7) also speaks of the cosmic tree with roots above. The paradox — the tree is both 'sanātana' (eternal) and 'aśvattha' (impermanent) — captures the nature of saṁsāra: the process is beginningless, but its contents are ever-changing.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह उल्टा वृक्ष संसार का प्रतीक है — जिसकी जड़ (मूल-कारण) ब्रह्म है, और शाखाएँ नाम-रूप-जगत् हैं। 'सनातन' — यह संसार-चक्र अनादि है; पर यह माया-निर्मित है, सत्य नहीं। ज्ञान की कुल्हाड़ी से इसे काटना ही मोक्ष है।",
+        "en": "Shankara says this inverted tree symbolises saṁsāra — whose root (primary cause) is Brahman, and whose branches are the world of name and form. 'Sanātana' — this cycle is beginningless; but it is māyā-created, not ultimately real. Cutting it with the axe of knowledge is liberation.",
+        "ins": "The world is a tree growing upside down — its source is above (in the transcendent), its spread is below (in manifestation). To find the root, look upward to the source; to be free, cut the attachment to the branches."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि अश्वत्थ-वृक्ष भगवान् की सृष्टि है — भगवान् ही इसकी जड़ (मूल) हैं। शाखाएँ — जीव, जगत्, कर्म — सब भगवान् से ही उत्पन्न होते हैं। वृक्ष अनित्य है पर भगवान् (मूल) नित्य हैं।",
+        "en": "Ramanuja says the aśvattha tree is the Lord's creation — the Lord is its root. Branches — souls, world, karma — all originate from the Lord. The tree is impermanent but the Lord (the root) is eternal.",
+        "ins": "The world is the Lord's tree — rooted in His being, sustained by His will. The branches change with every season; the root remains forever."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि उल्टा वृक्ष चेतना के अवरोहण (descent of consciousness) का प्रतीक है — चेतना ऊपर से (सुप्रामेंटल से) नीचे (भौतिक में) उतरती है। 'ऊर्ध्वमूल' — मूल-स्रोत दिव्य (supramental) है; 'अवाक्शाख' — प्रकट सृष्टि उसका अधोमुखी विस्तार है।",
+        "en": "Sri Aurobindo sees the inverted tree as symbolising the descent of consciousness — consciousness descends from above (the supramental) into below (the physical). 'Ūrdhva-mūla' — the source is divine; 'avāk-śākhā' — manifest creation is its downward extension.",
+        "ins": "Reality is not built from the bottom up (matter producing consciousness) — it flows from the top down (consciousness manifesting as matter). The tree of existence has its roots in the sky of Spirit."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the 'inverted tree' (ūrdhva-mūla aśvattha)?", "a": "The <strong>inverted cosmic tree</strong> — with roots above and branches below — is one of the most enduring images in Indian thought. Its symbolism operates on multiple levels. <strong>Cosmological</strong>: the root is <strong>Brahman</strong> (the transcendent source), and the branches are the <strong>manifest world</strong> — creation 'grows downward' from the divine into the material. This is the opposite of our normal perception (that the physical world is the foundation and spirituality is the superstructure). <strong>Metaphysical</strong>: the word <strong>aśvattha</strong> etymologically means 'that which will not remain till tomorrow' (a + śvas + tha) — the phenomenal world is in constant flux. Yet it is called <strong>sanātana</strong> (eternal) — the process of change is itself unchanging. Seasons come and go, but 'seasonality' itself is permanent. <strong>Yogic</strong>: the tree can be read as the human body — the roots are the <em>sahasrāra</em> (crown centre), and the branches descend through the cakras to the base. Meditation 'returns' awareness to the root. The <strong>Bhagavad Gītā (15.1-4)</strong> elaborates this image extensively and adds: 'cut this tree with the strong axe of non-attachment' (<em>asaṅga-śastreṇa dṛḍhena chittvā</em>)."},
+      {"q": "🔍 How does the Bhagavad Gītā develop this image?", "a": "The <strong>Bhagavad Gītā Chapter 15</strong> opens with an extended meditation on this very tree. Kṛṣṇa says: '<em>ūrdhva-mūlam adhaḥ-śākham aśvatthaṁ prāhur avyayam, chandāṁsi yasya parṇāni yas taṁ veda sa veda-vit</em>' (15.1) — 'They speak of an imperishable aśvattha with roots above and branches below, whose leaves are the Vedic hymns; one who knows it knows the Veda.' He then describes how its branches extend below, nourished by the three <strong>guṇas</strong> (sattva, rajas, tamas), with sense-objects as buds. Its roots spread below too — as the bonds of karma in the human world (15.2). Kṛṣṇa's addition to the Katha's image is the <strong>prescription</strong>: '<em>asaṅga-śastreṇa dṛḍhena chittvā</em>' (15.3) — 'Cut it with the strong axe of non-attachment.' This means: don't merely <em>understand</em> the tree — <em>cut yourself free</em> from it. Knowledge alone is not enough; one must also practise <strong>vairāgya</strong> (dispassion) and surrender to the Lord (15.4): '<em>tam eva cādyaṁ puruṣaṁ prapadye</em>' — 'I take refuge in that primordial Person.'"}
+    ]
+  },
+  {
+    "id": 2,
+    "sk": "यदिदं किञ्च जगत्सर्वं प्राण एजति निःसृतम् | महद्भयं वज्रमुद्यतं य एतद्विदुरमृतास्ते भवन्ति ||",
+    "ro": "yat · idaṁ · kiñca · jagat · sarvaṁ · prāṇaḥ · ejati · niḥsṛtam | mahat · bhayaṁ · vajram · udyataṁ · ye · etat · viduḥ · amṛtāḥ · te · bhavanti ||",
+    "hi": "जो कुछ भी यह सम्पूर्ण जगत् है — सब प्राण (ब्रह्म) से निःसृत (निकला हुआ) है और प्राण में ही कम्पायमान (गतिशील) है। (यह ब्रह्म) महान् भय है, उद्यत (उठा हुआ) वज्र के समान। जो इसे जानते हैं, वे अमृत (अमर) हो जाते हैं।",
+    "en": "Whatever there is — this whole universe — trembles (vibrates) having come forth from Prāṇa (Brahman). It is a great terror, like an upraised thunderbolt. Those who know This become immortal.",
+    "ws": [
+      {"s": "प्राणः (prāṇaḥ)", "h": "प्राण — ब्रह्म", "e": "Prāṇa — here meaning Brahman (the supreme life-principle), not mere breath; the source from which everything emerges"},
+      {"s": "एजति (ejati)", "h": "कम्पित होता है, गतिशील है", "e": "trembles / vibrates — from √ej (to tremble); the universe is in constant vibration/motion under Brahman's power"},
+      {"s": "निःसृतम् (niḥsṛtam)", "h": "निकला हुआ, उत्पन्न", "e": "having come forth — niḥ + √sṛ (to flow out); the universe has issued from Brahman"},
+      {"s": "महद्भयम् (mahad-bhayam)", "h": "महान् भय", "e": "great terror — mahat (great) + bhaya (fear); Brahman inspires cosmic awe and dread"},
+      {"s": "वज्रम् उद्यतम् (vajram udyatam)", "h": "उठा हुआ वज्र (thunderbolt)", "e": "an upraised thunderbolt — vajra (Indra's weapon, the thunderbolt) + udyata (raised up); Brahman's law is like a weapon held over creation, enforcing cosmic order"},
+      {"s": "अमृताः ते भवन्ति (amṛtāḥ te bhavanti)", "h": "वे अमर हो जाते हैं", "e": "they become immortal — those who know Brahman transcend death"}
+    ],
+    "gr": "<strong>prāṇaḥ ejati niḥsṛtam</strong> — 'having come forth from Prāṇa, it trembles': the universe vibrates with life because it has emerged from the supreme Life-principle. Everything that moves is moving because of Brahman's power. <strong>mahad-bhayaṁ vajram udyatam</strong> — 'a great fear, like an upraised thunderbolt': this startling image presents Brahman not as gentle and benign but as <em>terrifyingly powerful</em> — its cosmic law is enforced with the absolute authority of a thunderbolt held ready to strike. <strong>ye etat viduḥ amṛtāḥ te bhavanti</strong> — 'those who know This become immortal': the standard Upanishadic formula — knowledge of Brahman = liberation from death.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.2 — The 'upraised thunderbolt' image is expanded in the next verse (mantra 3), which details how this cosmic fear keeps the sun, wind, fire, death, and Indra all obedient. The Taittirīya Upanishad (2.8) has a parallel: 'bhīṣāsmād vātaḥ pavate, bhīṣodeti sūryaḥ' — 'From fear of Him the wind blows, from fear of Him the sun rises.' The Mundaka (3.2.9) echoes: 'ye etat viduḥ amṛtāḥ te bhavanti.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'महद्भयम्' — ब्रह्म की शक्ति इतनी अपरिमित है कि सृष्टि का प्रत्येक तत्त्व (सूर्य, वायु, अग्नि, मृत्यु) उसके भय से अपना-अपना कार्य करता है। यह भय अज्ञानियों के लिए है; ज्ञानी के लिए ब्रह्म भय नहीं, आनन्द है।",
+        "en": "Shankara says 'mahad-bhayam' — Brahman's power is so immense that every element of creation (sun, wind, fire, death) performs its function out of fear of Him. This fear is for the ignorant; for the knower, Brahman is not fear but bliss.",
+        "ins": "The same Brahman that terrifies the cosmos as an enforcer of law, comforts the knower as infinite bliss. Power and love are two faces of the same reality."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् 'वज्र' के समान हैं — उनकी आज्ञा अटल (unbreakable) है। सूर्य, वायु, अग्नि — ये सब भगवान् की आज्ञा से ही कार्य करते हैं। भगवान् की सत्ता ही जगत् का नियामक सिद्धान्त (governing principle) है।",
+        "en": "Ramanuja says the Lord is like a 'vajra' — His command is unbreakable. Sun, wind, fire — all function by the Lord's command. The Lord's sovereignty is the governing principle of the universe.",
+        "ins": "The universe runs like clockwork not because of blind physical laws, but because of the Lord's sovereign will — which no force in creation can disobey."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द 'एजति' (vibrates) में ब्रह्म की शक्ति (Shakti) का स्पन्दन (vibration) देखते हैं — सम्पूर्ण सृष्टि इस शक्ति-स्पन्दन का प्रकट रूप है। 'महद्भयम्' — यह भय अहंकार का भय है दिव्य (Divine) के सामने; चेतना का वह विस्मय जो अनन्त को देखकर होता है।",
+        "en": "Sri Aurobindo sees in 'ejati' (vibrates) the vibration of Brahman's Shakti — the entire creation is a manifestation of this power-vibration. 'Mahad-bhayam' — this is the ego's awe before the Divine; the wonder of consciousness beholding the Infinite.",
+        "ins": "The universe is not still — it vibrates with the energy of consciousness. That vibration, which science calls energy and the Vedas call Shakti, is the pulse of Brahman in manifestation."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is Brahman described as a 'great terror' (mahad-bhayam)?", "a": "The image of Brahman as <strong>mahad-bhayam</strong> (a great terror) and <strong>vajram udyatam</strong> (an upraised thunderbolt) is deliberately shocking. The Upanishads usually describe Brahman as <em>ānanda</em> (bliss), <em>śānti</em> (peace), and <em>amṛta</em> (immortality). So why terror? The answer is about <strong>cosmic authority</strong>. Brahman is the <em>lawgiver</em> of the universe — and like any sovereign whose law must be obeyed, Brahman inspires <strong>awe and dread</strong> in those who might transgress. The next verse (mantra 3) makes this explicit: from fear of Brahman, the fire burns; from fear, the sun shines; from fear, Indra, Vāyu, and Death run to their appointed tasks. Without this cosmic 'fear,' the universe would collapse into chaos — the sun might not rise, the wind might not blow, death might not come at the appointed time. This is not personal fear but <strong>cosmic governance</strong> — the absolute reliability of natural law is guaranteed by Brahman's power. For the <strong>knower of Brahman</strong>, however, this same power is experienced not as terror but as <strong>security</strong> — the knower is aligned with the law, not opposing it."},
+      {"q": "🔍 What does 'ejati' (trembles/vibrates) tell us about the nature of the universe?", "a": "The word <strong>ejati</strong> (from √ej, 'to tremble, to vibrate') contains a remarkable insight: the entire universe is in a state of <strong>constant vibration</strong>. Nothing is static — everything trembles with the energy that proceeds from Brahman. Modern physics confirms this at every scale: atoms vibrate, molecules oscillate, electromagnetic fields fluctuate, cosmic bodies orbit. The Upanishad's claim is that this universal vibration is not random but <strong>derived from a single source</strong> — Brahman (here called Prāṇa, the supreme Life-principle). The universe has 'niḥsṛtam' (come forth, flowed out) from Brahman, and it continues to 'ejati' (vibrate) within Brahman's field of power. This is a vision of the universe as <strong>alive</strong> — not dead matter set in motion, but living energy pulsing with the life of the Absolute. The <strong>Isha Upanishad (1)</strong> opens with a similar vision: '<em>īśāvāsyam idaṁ sarvaṁ yat kiñca jagatyāṁ jagat</em>' — 'All this — whatever moves in this moving world — is pervaded by the Lord.'"}
+    ]
+  },
+  {
+    "id": 3,
+    "sk": "भयादस्याग्निस्तपति भयात्तपति सूर्यः | भयादिन्द्रश्च वायुश्च मृत्युर्धावति पञ्चमः ||",
+    "ro": "bhayāt · asya · agniḥ · tapati · bhayāt · tapati · sūryaḥ | bhayāt · indraḥ · ca · vāyuḥ · ca · mṛtyuḥ · dhāvati · pañcamaḥ ||",
+    "hi": "इसके (ब्रह्म के) भय से अग्नि तपती (जलती) है; इसके भय से सूर्य तपता है; इसके भय से इन्द्र और वायु — और मृत्यु पाँचवीं (शक्ति) के रूप में — दौड़ती (अपना कार्य करती) है।",
+    "en": "From fear of Him, fire burns; from fear of Him, the sun shines; from fear of Him, Indra and Vāyu — and Death, the fifth — run (to their appointed tasks).",
+    "ws": [
+      {"s": "भयात् अस्य (bhayāt asya)", "h": "इसके (ब्रह्म के) भय से", "e": "from fear of Him — ablative: because of the awe/dread of Brahman; every cosmic force obeys Brahman's law"},
+      {"s": "अग्निः तपति (agniḥ tapati)", "h": "अग्नि जलती/तपती है", "e": "fire burns — agni performs its function (burning/heating) because of Brahman's command"},
+      {"s": "सूर्यः तपति (sūryaḥ tapati)", "h": "सूर्य तपता (चमकता) है", "e": "the sun shines/heats — the sun rises and sets with unfailing regularity because of Brahman's sovereignty"},
+      {"s": "इन्द्रः (indraḥ)", "h": "इन्द्र — देवराज", "e": "Indra — king of the gods; lord of rain and thunder"},
+      {"s": "वायुः (vāyuḥ)", "h": "वायु — पवन देवता", "e": "Vāyu — the wind-god; the cosmic breath"},
+      {"s": "मृत्युः पञ्चमः (mṛtyuḥ pañcamaḥ)", "h": "मृत्यु — पाँचवीं (शक्ति)", "e": "Death, the fifth — Mṛtyu/Yama; listed as the fifth cosmic agent after fire, sun, Indra, and wind; even Death is Brahman's servant"}
+    ],
+    "gr": "<strong>bhayāt asya</strong> — 'from fear of Him': the ablative case indicates causation — Brahman's sovereignty is the <em>reason</em> these forces function. <strong>Five cosmic agents</strong>: Agni (fire), Sūrya (sun), Indra (rain/thunder-king), Vāyu (wind), Mṛtyu (death) — these represent the fundamental forces that maintain the cosmos. <strong>mṛtyuḥ dhāvati pañcamaḥ</strong> — 'Death runs, the fifth': even Death — the most dreaded force — is Brahman's obedient servant. Yama, who is teaching Nachiketa, is himself subordinate to Brahman. <strong>dhāvati</strong> — 'runs': Death does not walk — it runs, suggesting urgency and obedience.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.3 — This verse is closely paralleled by Taittirīya Upanishad (2.8.1): 'bhīṣāsmād vātaḥ pavate, bhīṣodeti sūryaḥ, bhīṣāsmād agniś cendrś ca, mṛtyur dhāvati pañcamaḥ' — nearly identical. The Brihadaranyaka (3.8.9) also states that sun and moon, heaven and earth, are held in their positions by Brahman's command. The verse has special dramatic irony: Yama (Death himself) is the teacher, and he is admitting that even he runs in obedience to a higher power.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह मन्त्र ब्रह्म की सर्वनियामकता (absolute governance) सिद्ध करता है। प्रकृति के नियम — अग्नि का जलना, सूर्य का उदय — ये 'अन्धे नियम' (blind laws) नहीं, ब्रह्म की सत्ता के प्रतिबिम्ब हैं। मृत्यु भी ब्रह्म की आज्ञा में है।",
+        "en": "Shankara says this verse proves Brahman's absolute governance. The laws of nature — fire burning, the sun rising — are not 'blind laws' but reflections of Brahman's sovereignty. Even death is under Brahman's command.",
+        "ins": "The regularity of nature is not accidental — it is the discipline of the cosmos under Brahman's law. The sun does not 'choose' to rise; it obeys. Death does not 'choose' to come; it is sent."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि अग्नि, सूर्य, इन्द्र, वायु, मृत्यु — ये पाँचों भगवान् के सेवक हैं। उनकी आज्ञा से ही ये अपना कार्य करते हैं। भगवान् की सर्वोच्चता (supremacy) यहाँ स्पष्ट है — कोई भी शक्ति भगवान् से स्वतन्त्र नहीं।",
+        "en": "Ramanuja says fire, sun, Indra, wind, death — these five are the Lord's servants. They perform their functions only by His command. The Lord's supremacy is evident — no power is independent of Him.",
+        "ins": "The five great forces of the cosmos — heat, light, sovereignty, breath, and death — are all the Lord's employees. They report to Him, not the other way around."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'भय' यहाँ 'cosmic obedience' (ब्रह्माण्डीय अनुशासन) का प्रतीक है — प्रत्येक शक्ति चेतना के उस केन्द्रीय नियम (central law) का पालन करती है जो सृष्टि को संगठित रखता है। मृत्यु भी उस नियम के भीतर है।",
+        "en": "Sri Aurobindo says 'fear' here symbolises cosmic obedience — every force obeys the central law of consciousness that holds creation together. Even death operates within that law.",
+        "ins": "The universe is not chaos held together by accident — it is a perfectly governed system where every force, from the subtlest breeze to death itself, follows a single intelligent will."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does even Death 'run' in fear of Brahman?", "a": "The inclusion of <strong>Mṛtyu (Death) as the fifth</strong> cosmic agent who 'runs' (dhāvati) from Brahman is one of the most powerful statements in the Upanishads. Consider the dramatic context: <strong>Yama (Death himself) is the teacher</strong>. He is the one speaking this verse. So Death is essentially saying: <em>'Even I run in obedience to a power greater than myself.'</em> This has several implications: (1) <strong>Death is not the ultimate power</strong> — there is something beyond death, namely Brahman. This directly answers Nachiketa's original question (1.1.20): 'What happens after death?' The answer is: Death itself is subordinate to a higher reality. (2) <strong>Death is orderly, not arbitrary</strong> — it comes at its appointed time, not randomly, because it operates under Brahman's command. (3) <strong>Death can be transcended</strong> — since Death is merely Brahman's servant, one who knows Brahman stands above Death's jurisdiction. The verse thus serves as Yama's admission of his own subordination and his gift to Nachiketa of the key to transcending mortality."},
+      {"q": "🔍 How does this verse relate to the Taittirīya Upanishad?", "a": "The <strong>Taittirīya Upanishad (2.8.1)</strong> contains a nearly identical verse: '<em>bhīṣāsmād vātaḥ pavate, bhīṣodeti sūryaḥ, bhīṣāsmād agniś cendrś ca, mṛtyur dhāvati pañcamaḥ</em>' — 'From fear of Him the wind blows, from fear the sun rises, from fear fire and Indra, and Death the fifth runs.' The two versions differ only in minor word-order. The Taittirīya context is the <strong>Brahmanandavalli</strong> (the chapter on the bliss of Brahman), where this verse appears as part of a description of <strong>Brahman's absolute sovereignty</strong> before the famous passage on the ascending scales of bliss (ānanda). The Brihadaranyaka (3.8.9) makes the same point differently: '<em>etasya vā akṣarasya praśāsane gārgi sūryā-candramasau vidhṛtau tiṣṭhataḥ</em>' — 'Under the command of this Imperishable, O Gārgī, sun and moon are held in their places.' All three Upanishads agree: <strong>the regularity of nature is not self-caused but is maintained by Brahman's sovereign will</strong>."}
+    ]
+  },
+  {
+    "id": 4,
+    "sk": "इह चेदशकद्बोद्धुं प्राक्शरीरस्य विस्रसः | ततः सर्गेषु लोकेषु शरीरत्वाय कल्पते ||",
+    "ro": "iha · cet · aśakat · boddhum · prāk · śarīrasya · visrasaḥ | tataḥ · sargeṣu · lokeṣu · śarīratvāya · kalpate ||",
+    "hi": "यदि यहाँ (इस जीवन में) शरीर के विस्रंस (विघटन/मृत्यु) से पहले (आत्मा को) जानने में समर्थ हो गया — तो (मुक्ति); अन्यथा, सृष्टि के विभिन्न लोकों में पुनः शरीर प्राप्ति के लिए (पुनर्जन्म के लिए) योग्य हो जाता है।",
+    "en": "If one is able to know (the Self) here (in this life), before the falling apart of the body — then (one is liberated); otherwise, one becomes fit for embodiment again in the created worlds.",
+    "ws": [
+      {"s": "इह (iha)", "h": "यहाँ — इस जीवन में", "e": "here — in this present life; the urgency: NOW is the time"},
+      {"s": "चेत् (cet)", "h": "यदि", "e": "if — a conditional particle; the verse is an if-then statement"},
+      {"s": "अशकत् (aśakat)", "h": "समर्थ हो गया", "e": "was able — past tense of √śak (to be capable); if one succeeded in knowing"},
+      {"s": "बोद्धुम् (boddhum)", "h": "जानने/बोध करने में", "e": "to know / to realise — infinitive of √budh (to awaken, to know); spiritual awakening, not intellectual knowledge"},
+      {"s": "प्राक् शरीरस्य विस्रसः (prāk śarīrasya visrasaḥ)", "h": "शरीर के विघटन से पहले", "e": "before the falling apart of the body — prāk (before) + visrasa (disintegration/collapse); before death"},
+      {"s": "सर्गेषु लोकेषु (sargeṣu lokeṣu)", "h": "सृष्टि के लोकों में", "e": "in the created worlds — sarga (creation/cycle of creation) + loka (world); the various realms of rebirth"},
+      {"s": "शरीरत्वाय कल्पते (śarīratvāya kalpate)", "h": "शरीरधारण के लिए योग्य हो जाता है", "e": "becomes fit for embodiment — kalpate: is fitted for, is destined for; śarīratva: the state of having a body"}
+    ],
+    "gr": "<strong>iha cet aśakat boddhum</strong> — 'if one was able to know here': the emphasis is on <em>iha</em> (here, in this life) and <em>prāk</em> (before death). There is an urgency — liberation must be achieved BEFORE the body dies. <strong>prāk śarīrasya visrasaḥ</strong> — 'before the disintegration of the body': the same word <em>visrasa</em> (from vi + √sraṁs) was used in 2.1.4 for the body's dissolution. <strong>tataḥ sargeṣu lokeṣu śarīratvāya kalpate</strong> — 'then in the created worlds one is fitted for embodiment': if knowledge is NOT achieved before death, the soul enters the cycle of rebirth — taking body after body in world after world.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.4 — This verse introduces a note of urgency: the time for Self-knowledge is NOW, before death. Compare Bhagavad Gītā (8.6): 'yaṁ yaṁ vāpi smaran bhāvaṁ tyajaty ante kalevaram, taṁ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ' — 'Whatever state of being one remembers at the time of leaving the body, that alone one attains.' The Katha's message is simpler but starker: know the Self before death, or be reborn.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'इह' — इसी मनुष्य-जन्म में आत्मज्ञान आवश्यक है, क्योंकि मनुष्य-शरीर ही वह वाहन है जिसमें ज्ञान सम्भव है। मृत्यु के बाद — यदि ज्ञान नहीं हुआ — तो पुनः शरीर-यात्रा (saṁsāra) जारी रहती है।",
+        "en": "Shankara says 'iha' — Self-knowledge must happen in this very human birth, because the human body is the vehicle in which knowledge is possible. After death — if knowledge was not attained — the journey through bodies (saṁsāra) continues.",
+        "ins": "This human life is the opportunity — not guaranteed to come again. The urgency is not fear but love: you have the chance NOW to know what you truly are. Don't waste it."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि इस जीवन में भगवत्-ज्ञान और भक्ति प्राप्त करनी चाहिए — मृत्यु से पहले। जो ऐसा नहीं कर पाता, वह पुनर्जन्म लेता है। मनुष्य-जन्म ही मोक्ष का द्वार है।",
+        "en": "Ramanuja says one must attain knowledge of the Lord and devotion in this life — before death. One who fails to do so is reborn. Human birth alone is the doorway to mokṣa.",
+        "ins": "Human birth is the rarest gift — the one birth from which liberation is possible. Do not squander it on pursuits that will be meaningless at death."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'बोद्धुम्' (to know) — यह बौद्धिक ज्ञान नहीं, बल्कि चेतना का रूपान्तरण (transformation of consciousness) है। यदि इस जीवन में रूपान्तरण नहीं हुआ, तो आत्मा को पुनः शरीर लेना होता है — यह दण्ड नहीं, अवसर है।",
+        "en": "Sri Aurobindo says 'boddhum' (to know) is not intellectual knowledge but a transformation of consciousness. If this transformation does not happen in this life, the soul must take another body — this is not punishment but opportunity.",
+        "ins": "Each life is an attempt at awakening. If you don't awaken this time, you get another chance — but why wait? The door is open now."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is 'before the body falls apart' (prāk visrasaḥ) emphasised?", "a": "The emphasis on <strong>'before death'</strong> (prāk śarīrasya visrasaḥ) carries a profound urgency. The Upanishad is saying: <strong>the window for Self-realisation is this life, this body, NOW</strong>. Once the body disintegrates, the opportunity is lost — not forever (since rebirth continues), but for this cycle. Why is the human body so crucial? Because it is the <em>only</em> form in which the full range of spiritual practice is possible. In animal births, the mind is too limited. In divine births (as a celestial being), there is too much pleasure and no motivation. Only in the human form does one have the <strong>combination of suffering (to motivate the search), intelligence (to understand the teaching), and freedom (to choose the path)</strong>. The Viveka-chūḍāmaṇi (attributed to Shankara) lists the three rarest things: '(1) human birth, (2) desire for liberation, (3) the company of a great teacher.' Nachiketa has all three — and Yama is reminding him (and us): don't let this opportunity pass."},
+      {"q": "🔍 What happens if one fails to know the Self before death?", "a": "The verse states the consequence clearly: <strong>'sargeṣu lokeṣu śarīratvāya kalpate'</strong> — one becomes fit for <em>embodiment again in the created worlds</em>. This means <strong>rebirth</strong> — the soul, carrying its accumulated karma and impressions (saṁskāras), enters a new body in one of the many 'lokas' (worlds/realms). These could be higher (celestial) or lower (animal, plant) depending on one's karma (as stated in 2.1.7: yathā-karma yathā-śrutam). Importantly, this is <strong>not eternal damnation</strong> — it is another opportunity, another classroom, another chapter in the soul's education. But it is a <em>delay</em>. Every rebirth means another round of suffering, another cycle of forgetting and re-learning. The urgency is: <strong>why go through another round when the door to freedom is open right now?</strong> The human body, a competent teacher (like Yama), and the willingness to listen — these three are rarely aligned. When they are, the wise seize the opportunity."}
+    ]
+  },
+  {
+    "id": 5,
+    "sk": "यथाऽऽदर्शे तथाऽऽत्मनि यथा स्वप्ने तथा पितृलोके | यथाऽप्सु परीव दद्ृशे तथा गन्धर्वलोके छायातपयोरिव ब्रह्मलोके ||",
+    "ro": "yathā · ādarśe · tathā · ātmani · yathā · svapne · tathā · pitṛ-loke | yathā · apsu · parīva · dadṛśe · tathā · gandharva-loke · chāyā-atapayoḥ · iva · brahma-loke ||",
+    "hi": "जैसे दर्पण में (आत्मा दिखता है), वैसे ही (शुद्ध) आत्मा में (स्पष्ट दिखता है); जैसे स्वप्न में (अस्पष्ट), वैसे पितृलोक में; जैसे जल में प्रतिबिम्ब (लहरों से विकृत), वैसे गन्धर्वलोक में; (पर) ब्रह्मलोक में — छाया और धूप के समान (स्पष्ट अन्तर के साथ)।",
+    "en": "As in a mirror, so in one's own Self (clearly); as in a dream, so in the world of the ancestors (dimly); as a reflection in water (distorted), so in the world of the Gandharvas; as in shadow and light (with clear distinction), so in the world of Brahmā.",
+    "ws": [
+      {"s": "आदर्शे (ādarśe)", "h": "दर्पण/शीशे में", "e": "in a mirror — ādarśa: a clear, polished surface that reflects perfectly; the clearest vision of Self"},
+      {"s": "आत्मनि (ātmani)", "h": "आत्मा में", "e": "in one's own Self — the Self, when purified through meditation, reflects reality perfectly like a clean mirror"},
+      {"s": "स्वप्ने (svapne)", "h": "स्वप्न/सपने में", "e": "in a dream — dream-images are real in the moment but vague and unstable; partial vision"},
+      {"s": "पितृलोके (pitṛ-loke)", "h": "पितृलोक में", "e": "in the world of the ancestors — the realm where departed forefathers dwell; vision there is dreamlike"},
+      {"s": "अप्सु परीव (apsu parīva)", "h": "जल में प्रतिबिम्ब जैसा", "e": "as if seen in water — apa (water) + parīva (as if appearing); a wavering, distorted reflection"},
+      {"s": "गन्धर्वलोके (gandharva-loke)", "h": "गन्धर्वलोक में", "e": "in the world of the Gandharvas — the celestial realm of divine musicians; vision there is beautiful but unstable"},
+      {"s": "छायातपयोः (chāyā-atapayoḥ)", "h": "छाया और धूप के", "e": "of shadow and light — chāyā (shadow) + ātapa (sunlight); clear contrast, distinct perception"},
+      {"s": "ब्रह्मलोके (brahma-loke)", "h": "ब्रह्मलोक में", "e": "in the world of Brahmā — the highest created realm; vision there is nearly perfect, like seeing shadow and light clearly distinguished"}
+    ],
+    "gr": "<strong>Four levels of perception</strong> are described in ascending clarity: (1) <strong>gandharva-loka</strong> — like a reflection in water: wavering, beautiful but distorted; (2) <strong>pitṛ-loka</strong> — like a dream: vague, shifting, insubstantial; (3) <strong>brahma-loka</strong> — like shadow and light: clear distinction, nearly perfect; (4) <strong>ātman</strong> — like a mirror: perfect, undistorted reflection. <strong>ādarśe tathā ātmani</strong> — 'as in a mirror, so in the Self': the purified Self gives the clearest possible vision of reality — even clearer than Brahmaloka.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.5 — This verse presents a hierarchy of clarity of Self-perception across different realms. The four comparisons (mirror, dream, water, shadow-light) represent ascending or descending degrees of clarity. Some commentators read the order as ascending (from water to mirror); others as simply listing different levels. The key teaching is that the clearest perception of the Self is available in one's own purified consciousness (ātmani), not in any external realm — even Brahmaloka.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि आत्मा को सबसे स्पष्ट रूप से अपने ही भीतर (ātmani) देखा जा सकता है — शुद्ध बुद्धि में, जैसे स्वच्छ दर्पण में प्रतिबिम्ब। बाहरी लोकों में — पितृलोक, गन्धर्वलोक, ब्रह्मलोक — वहाँ भी दर्शन होता है, पर अपूर्ण।",
+        "en": "Shankara says the Self is seen most clearly within oneself (ātmani) — in the purified intellect, like a reflection in a clean mirror. In external realms — pitṛloka, gandharvaloka, brahmaloka — there is vision, but imperfect.",
+        "ins": "You don't need to go to heaven to see God — you need to polish the mirror of your own mind. A clean mirror shows reality perfectly; a dirty one shows only distortions."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि विभिन्न लोकों में भगवद्-दर्शन की स्पष्टता भिन्न-भिन्न है। गन्धर्वलोक में — जल-प्रतिबिम्ब जैसा; ब्रह्मलोक में — छाया-धूप जैसा स्पष्ट; पर मोक्ष में — दर्पण जैसा पूर्ण। भक्ति ही वह साधन है जो दर्पण को स्वच्छ करता है।",
+        "en": "Ramanuja says the clarity of the Lord's vision differs across realms. In gandharvaloka — like a water-reflection; in brahmaloka — clear like shadow and light; but in mokṣa — like a perfect mirror. Bhakti is the means that polishes the mirror.",
+        "ins": "Even in heaven, the vision of God is imperfect — like a reflection in rippling water. Only through complete devotion does the mirror become perfectly still and clear."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि ये चार स्तर चेतना के विभिन्न planes (स्तर) हैं — भौतिक, प्राणिक (vital), मानसिक (mental), और सुप्रामेंटल (supramental)। प्रत्येक स्तर पर आत्मा का अनुभव अधिक स्पष्ट होता जाता है।",
+        "en": "Sri Aurobindo says these four levels represent different planes of consciousness — physical, vital, mental, and supramental. At each ascending level, the experience of the Self becomes progressively clearer.",
+        "ins": "Consciousness is a spectrum of clarity. At the lowest level, reality is seen through a fog. At the highest, it is seen as it is — undistorted, luminous, self-evident."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What are the four levels of perception described here?", "a": "The verse describes <strong>four levels of clarity</strong> with which the Self can be perceived, using four analogies: (1) <strong>Apsu parīva (as in water)</strong> — in the <strong>Gandharva-loka</strong> (realm of celestial musicians). Water reflects but with <em>distortion</em> — ripples, waves, and movement make the image shimmer and shift. This represents a beautiful but <em>unstable</em> perception of the Self. (2) <strong>Svapne (as in a dream)</strong> — in the <strong>Pitṛ-loka</strong> (realm of ancestors). Dreams feel real in the moment but are <em>vague</em>, shifting, and insubstantial upon waking. This represents a dim, intermittent perception. (3) <strong>Chāyā-atapayoḥ iva (as shadow and light)</strong> — in <strong>Brahma-loka</strong> (the highest created realm). Shadow and sunlight are clearly <em>distinguishable</em> — this represents a near-perfect perception with clear discrimination between Self and non-Self. (4) <strong>Ādarśe (as in a mirror)</strong> — in one's <strong>own Self (ātmani)</strong>. A clean mirror gives a <em>perfect, undistorted</em> reflection. This is the clearest possible vision. The teaching: <strong>the clearest vision of the Self is available not in any heavenly realm but within your own purified consciousness</strong>."},
+      {"q": "🔍 Why is the mirror-image the highest, not Brahmaloka?", "a": "This is a remarkable teaching: the Upanishad places <strong>direct Self-knowledge (ātmani, 'in one's own Self')</strong> above even <strong>Brahmaloka</strong> (the highest realm of creation). Why? Because Brahmaloka, however exalted, is still a <em>created</em> realm — it is part of saṁsāra, subject to eventual dissolution. Even Brahmā (the creator-god who dwells there) eventually dies when the cosmic cycle ends. Knowledge gained in Brahmaloka is 'like shadow and light' — clear but still <em>relational</em>; it perceives the Self in contrast to something else. But when the Self is seen <strong>in the Self</strong> (ātmani) — 'as in a mirror' — there is no relational contrast, no externality, no gap. The knower, the known, and the knowledge are one. This is <strong>aparokṣa-anubhūti</strong> — direct, unmediated experience, not perception 'of' something but identity 'as' something. The mirror does not 'see' the face — it <em>becomes</em> the face. In Self-knowledge, the knower <em>becomes</em> the known. This is why the Upanishad values inner realisation above all external attainments — even celestial ones."}
+    ]
+  },
+  {
+    "id": 6,
+    "sk": "इन्द्रियाणां पृथग्भावमुदयास्तमयौ च यत् | पृथगुत्पद्यमानानां मत्वा धीरो न शोचति ||",
+    "ro": "indriyāṇāṁ · pṛthag-bhāvam · udaya-astamayau · ca · yat | pṛthak · utpadyamānānāṁ · matvā · dhīraḥ · na · śocati ||",
+    "hi": "इन्द्रियों के पृथक् भाव (अलग-अलग स्वभाव), उनके उदय (उत्पत्ति) और अस्तमय (लय) — और यह कि वे पृथक्-पृथक् उत्पन्न होती हैं (आत्मा से स्वतन्त्र रूप से) — इसे जानकर (मत्वा) धीर (बुद्धिमान) शोक नहीं करता।",
+    "en": "Knowing the separate nature of the senses, their rising and setting, and that they arise independently (of the Self) — the wise one grieves not.",
+    "ws": [
+      {"s": "इन्द्रियाणाम् (indriyāṇām)", "h": "इन्द्रियों का/की", "e": "of the senses — the five sense-faculties (sight, hearing, touch, taste, smell) plus the mind"},
+      {"s": "पृथग्भावम् (pṛthag-bhāvam)", "h": "पृथक् (अलग) स्वभाव", "e": "separate nature — pṛthak (separate, distinct) + bhāva (nature, being); each sense has its own domain, distinct from the Self"},
+      {"s": "उदयास्तमयौ (udaya-astamayau)", "h": "उदय और अस्त — उत्पत्ति और लय", "e": "rising and setting — udaya (arising) + astamaya (setting/dissolution); the senses appear at birth and disappear at death"},
+      {"s": "पृथक् उत्पद्यमानानाम् (pṛthak utpadyamānānām)", "h": "पृथक्-पृथक् उत्पन्न होने वालों का", "e": "of those that arise separately — the senses arise from their respective causes, not from the Self itself"},
+      {"s": "मत्वा (matvā)", "h": "जानकर, समझकर", "e": "having understood — absolutive of √man (to think, to know); having gained this understanding"},
+      {"s": "धीरः न शोचति (dhīraḥ na śocati)", "h": "धीर (बुद्धिमान) शोक नहीं करता", "e": "the wise one does not grieve — the refrain from 2.1.1; knowledge of the senses' impermanence removes grief"}
+    ],
+    "gr": "<strong>indriyāṇāṁ pṛthag-bhāvam</strong> — 'the separate nature of the senses': each sense is distinct from the Self — sight belongs to the eyes, not to the Self. <strong>udaya-astamayau</strong> — 'rising and setting': the senses are born (at birth) and die (at death) — like the sun rising and setting. They are time-bound; the Self is not. <strong>pṛthak utpadyamānānām</strong> — 'of those arising separately': the senses arise from prakṛti (nature), not from the Self (ātman). <strong>matvā dhīraḥ na śocati</strong> — 'having understood, the wise one does not grieve': grief comes from identifying with the senses; understanding their separateness removes it.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.6 — This verse returns to the practical teaching: discrimination (viveka) between the Self and the senses. Compare Katha 1.3.3-4 (the chariot metaphor): the senses are the horses, the Self is the rider. The rider is not destroyed when the horses age or die. The phrase 'na śocati' echoes 2.1.1 (the city of eleven gates), forming a structural link between the openings of the two Vallis.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि इन्द्रियाँ प्रकृति से उत्पन्न होती हैं, आत्मा से नहीं। उनका उदय और अस्त होना — यह प्रकृति का धर्म है, आत्मा का नहीं। जो यह जानता है, वह शरीर और इन्द्रियों के विनाश पर शोक नहीं करता।",
+        "en": "Shankara says the senses arise from prakṛti, not from the Self. Their rising and setting is the nature of prakṛti, not the Self. One who knows this does not grieve at the destruction of body and senses.",
+        "ins": "Your eyes may grow dim, your ears may fail — but the one who sees through the eyes and hears through the ears remains untouched. Grief comes from confusing the instrument with the user."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि इन्द्रियाँ भगवान् द्वारा प्रकृति से निर्मित साधन (instruments) हैं — आत्मा इनका उपभोक्ता (user) है, निर्माता (creator) नहीं। जो यह विवेक (discrimination) रखता है, वह शोक से मुक्त है।",
+        "en": "Ramanuja says the senses are instruments fashioned by the Lord from prakṛti — the soul is their user, not their creator. One who maintains this discrimination is free from grief.",
+        "ins": "The senses are tools given to you by the Lord — use them wisely, but don't identify with them. When a tool breaks, the craftsman gets a new one; he does not break with it."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि इन्द्रियाँ चेतना के बाह्य यन्त्र (external instruments) हैं — वे उत्पन्न होती हैं और लय होती हैं, पर चेतना स्वयं अनुत्पन्न (unoriginated) है। इन्द्रियों के 'उदय-अस्तमय' का अर्थ है — ये किसी भी जीवन-काल से बँधी हैं; आत्मा नहीं।",
+        "en": "Sri Aurobindo says the senses are external instruments of consciousness — they arise and dissolve, but consciousness itself is unoriginated. The 'rising and setting' of senses means they are bound to a lifespan; the Self is not.",
+        "ins": "The senses are windows that open at birth and close at death. But the light that streams through the windows — consciousness — existed before the windows were built and continues after they crumble."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'rising and setting' (udaya-astamaya) of the senses mean?", "a": "The compound <strong>udaya-astamayau</strong> (rising and setting) borrows the image of the <strong>sun</strong> — the senses, like the sun, 'rise' at birth and 'set' at death. This solar metaphor carries several implications: (1) <strong>The senses are time-bound</strong> — they have a beginning (when the embryo develops sense-organs) and an end (when the body dies). The Self has neither beginning nor end. (2) <strong>The senses are cyclical</strong> — just as the sun rises again each day, the senses arise again in each new birth. The soul goes through birth after birth, each time acquiring new sense-organs and losing them again at death. (3) <strong>The senses are not the Self's property</strong> — they 'arise separately' (pṛthak utpadyamānānām), from their own causes (the elements, prakṛti), not from the Self. The Self does not create them; it merely uses them. This understanding — that <strong>the senses are temporary, external instruments, not part of the eternal Self</strong> — is the basis for <em>vairāgya</em> (dispassion) and the end of grief. You don't grieve when your glasses break, because you know you are not your glasses."},
+      {"q": "🔍 How does this verse connect to the chariot metaphor (Katha 1.3)?", "a": "This verse is a philosophical restatement of the <strong>chariot metaphor</strong> from Katha 1.3.3-4. In the chariot metaphor: <strong>Self = rider</strong> (ātman), <strong>body = chariot</strong> (ratham), <strong>intellect = charioteer</strong> (sārathi), <strong>mind = reins</strong> (manas), <strong>senses = horses</strong> (indriyāṇi), <strong>objects = roads</strong> (viṣaya). The present verse (2.2.6) teaches the same lesson in abstract terms: the senses (horses) have their own 'pṛthag-bhāva' (separate nature) — they arise and set independently of the Self (rider). The rider is not born when the horses are born, and does not die when the horses die. Understanding this distinction is what makes one a <strong>dhīra</strong> (the wise one who does not grieve). The chariot metaphor makes this <em>vivid</em>; this verse makes it <em>precise</em>. Together they hammer home the central Katha teaching: <strong>you are not your body, not your senses, not your mind</strong> — you are the witness behind them all."}
+    ]
+  },
+  {
+    "id": 7,
+    "sk": "इन्द्रियेभ्यः परं मनो मनसः सत्त्वमुत्तमम् | सत्त्वादधि महानात्मा महतोऽव्यक्तमुत्तमम् ||",
+    "ro": "indriyebhyaḥ · paraṁ · manaḥ · manasaḥ · sattvam · uttamam | sattvāt · adhi · mahān · ātmā · mahataḥ · avyaktam · uttamam ||",
+    "hi": "इन्द्रियों से परे (श्रेष्ठ) मन है; मन से श्रेष्ठ सत्त्व (बुद्धि) है; सत्त्व (बुद्धि) से ऊपर महान् आत्मा (महत्/cosmic intelligence) है; महत् से श्रेष्ठ अव्यक्त (unmanifest प्रकृति) है।",
+    "en": "Beyond the senses is the mind; beyond the mind is the sattva (buddhi/intellect); beyond the buddhi is the great Self (mahān ātmā); beyond the great Self is the Unmanifest (avyakta).",
+    "ws": [
+      {"s": "इन्द्रियेभ्यः परम् (indriyebhyaḥ param)", "h": "इन्द्रियों से परे", "e": "beyond the senses — the mind is subtler and higher than the sense-organs"},
+      {"s": "मनः (manaḥ)", "h": "मन", "e": "mind — manas: the inner organ that coordinates sensory data and generates thoughts"},
+      {"s": "सत्त्वम् उत्तमम् (sattvam uttamam)", "h": "सत्त्व (बुद्धि) — सर्वश्रेष्ठ", "e": "sattva — the highest; here sattva = buddhi (the discriminative intellect); the faculty of judgement and discernment"},
+      {"s": "महान् आत्मा (mahān ātmā)", "h": "महान् आत्मा — महत् तत्त्व", "e": "the great Self — mahān ātmā: the cosmic intelligence (mahat-tattva in Sāṅkhya); the first evolute from prakṛti"},
+      {"s": "अव्यक्तम् (avyaktam)", "h": "अव्यक्त — अप्रकट प्रकृति", "e": "the Unmanifest — avyakta: undifferentiated prakṛti; the seed-state of the material universe before creation"}
+    ],
+    "gr": "<strong>This verse recapitulates the hierarchy from 1.3.10-11</strong>, using slightly different terminology. The ascending order: indriya (senses) → manas (mind) → sattva/buddhi (intellect) → mahān ātmā (cosmic intelligence/mahat) → avyakta (unmanifest prakṛti). <strong>sattvam</strong> here = <strong>buddhi</strong> (the determinative faculty), not the guṇa sattva. <strong>mahān ātmā</strong> corresponds to the <strong>mahat</strong> of Sāṅkhya philosophy — the first cosmic principle to emerge from prakṛti. <strong>avyaktam</strong> — the undifferentiated root-nature (mūla-prakṛti).",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.7 — This verse reprises the ontological hierarchy from 1.3.10-11, which listed: objects < senses < mind < buddhi < mahān ātmā < avyakta < puruṣa. Here the hierarchy is restated with 'sattva' replacing 'buddhi.' The next verse (mantra 8) will complete the hierarchy by placing Puruṣa above the avyakta. This Sāṅkhya-like structure provides the map for meditation: one ascends by turning attention from the gross to the subtle.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि यह श्रेणी (hierarchy) ध्यान का मार्ग-चित्र है — स्थूल से सूक्ष्म की ओर, इन्द्रियों से अव्यक्त तक। प्रत्येक चरण पर साधक अधिक सूक्ष्म तत्त्व में चेतना को स्थिर करता है।",
+        "en": "Shankara says this hierarchy is a roadmap for meditation — from gross to subtle, from senses to the unmanifest. At each step, the seeker stabilises awareness in a subtler principle.",
+        "ins": "Meditation is a journey inward — from the noise of the senses to the silence of the mind, from the silence of the mind to the stillness of the intellect, from the intellect to the unmanifest ground of being."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि यह श्रेणी दर्शाती है कि भगवान् सबसे परे और सबके ऊपर हैं। इन्द्रियाँ, मन, बुद्धि, महत्, अव्यक्त — ये सब भगवान् के शरीर (body) का अंश हैं; भगवान् (पुरुष) इन सबसे ऊपर हैं।",
+        "en": "Ramanuja says this hierarchy shows the Lord is beyond and above all. Senses, mind, buddhi, mahat, avyakta — all are parts of the Lord's body; the Lord (Puruṣa) stands above them all.",
+        "ins": "Every layer of reality — matter, energy, mind, intellect, the unmanifest — is the Lord's body. He is the soul of every soul, the Self behind every self."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द इस श्रेणी को चेतना के विकास-क्रम (evolutionary ladder of consciousness) के रूप में देखते हैं — भौतिक (physical) → प्राणिक (vital) → मानसिक (mental) → अधिमानसिक (supramental) → अव्यक्त (unmanifest)।",
+        "en": "Sri Aurobindo reads this hierarchy as an evolutionary ladder of consciousness — physical → vital → mental → supramental → unmanifest.",
+        "ins": "The hierarchy of being is also the ladder of evolution. Consciousness is evolving upward through matter, life, mind, and beyond — toward its own infinite source."
+      }
+    },
+    "dp": [
+      {"q": "🔍 How does this hierarchy compare to the one in Katha 1.3?", "a": "This verse <strong>recapitulates and reinforces</strong> the ontological hierarchy first presented in <strong>Katha 1.3.10-11</strong>. The comparison: <table><tr><th>1.3.10-11</th><th>2.2.7-8</th></tr><tr><td>artha (objects)</td><td>(not listed)</td></tr><tr><td>indriya (senses)</td><td>indriya (senses)</td></tr><tr><td>manas (mind)</td><td>manas (mind)</td></tr><tr><td>buddhi (intellect)</td><td>sattva (= buddhi)</td></tr><tr><td>mahān ātmā</td><td>mahān ātmā</td></tr><tr><td>avyakta</td><td>avyakta</td></tr><tr><td>puruṣa</td><td>puruṣa (in mantra 8)</td></tr></table> The main difference is terminological: <strong>'sattva'</strong> replaces <strong>'buddhi'</strong>. In this context, sattva does not mean the guṇa (quality of goodness) but is a synonym for <strong>buddhi</strong> (the intellect, the faculty of determination and discrimination). The repetition is deliberate pedagogy: Yama has now stated this hierarchy <em>twice</em>, in two different Vallis, to ensure the teaching is firmly established."},
+      {"q": "🔍 What is 'avyakta' (the Unmanifest)?", "a": "The <strong>avyakta</strong> (a + vyakta = 'not manifest') is the <strong>undifferentiated root-matter</strong> from which the entire material universe evolves. In Sāṅkhya philosophy, this is called <strong>mūla-prakṛti</strong> (root-nature) — the primal, unmanifest state of matter/energy before it differentiates into the elements, senses, mind, and the manifest world. Think of it as the <strong>cosmic seed-state</strong>: all the potential of the universe compressed into an undifferentiated point, like all the information of a tree compressed into a single seed. The avyakta has no form, no qualities, no distinctions — it is pure potentiality. When it begins to manifest, the first evolute is <strong>mahat</strong> (cosmic intelligence), then <strong>ahaṅkāra</strong> (ego-principle), then the senses, elements, and so on. The Katha places the <strong>Puruṣa</strong> (the conscious Self) <em>above</em> even the avyakta — meaning consciousness is not a product of matter (even subtle matter) but its <em>source</em>."}
+    ]
+  },
+  {
+    "id": 8,
+    "sk": "अव्यक्तात्तु परः पुरुषो व्यापकोऽलिङ्ग एव च | यं ज्ञात्वा मुच्यते जन्तुरमृतत्वं च गच्छति ||",
+    "ro": "avyaktāt · tu · paraḥ · puruṣaḥ · vyāpakaḥ · aliṅgaḥ · eva · ca | yaṁ · jñātvā · mucyate · jantuḥ · amṛtatvaṁ · ca · gacchati ||",
+    "hi": "अव्यक्त से भी परे पुरुष (परमात्मा) है — जो व्यापक (सर्वव्यापी) और अलिंग (लिंग-चिह्न-रहित, निराकार) है। जिसे जानकर प्राणी (जीव) मुक्त होता है और अमृतत्व (अमरत्व) को प्राप्त होता है।",
+    "en": "But beyond the Unmanifest is the Puruṣa — all-pervading and without any mark (attributeless). Knowing whom, a being is liberated and attains immortality.",
+    "ws": [
+      {"s": "अव्यक्तात् परः (avyaktāt paraḥ)", "h": "अव्यक्त से भी परे", "e": "beyond the Unmanifest — the Puruṣa transcends even the undifferentiated root-matter"},
+      {"s": "पुरुषः (puruṣaḥ)", "h": "पुरुष — परमात्मा", "e": "the Puruṣa — the supreme Person/Self; the conscious principle beyond all matter"},
+      {"s": "व्यापकः (vyāpakaḥ)", "h": "सर्वव्यापी", "e": "all-pervading — from vi + √āp (to pervade); the Puruṣa fills everything"},
+      {"s": "अलिंगः (aliṅgaḥ)", "h": "लिंग-रहित, चिह्न-रहित", "e": "without any mark — a (not) + liṅga (mark, sign, characteristic); the Puruṣa has no identifiable attributes, no form, no distinguishing feature"},
+      {"s": "मुच्यते (mucyate)", "h": "मुक्त होता है", "e": "is released — passive of √muc; liberation happens upon knowing the Puruṣa"},
+      {"s": "अमृतत्वम् (amṛtatvam)", "h": "अमृतत्व — अमरता", "e": "immortality — amṛta + tva (the state of being deathless); the ultimate goal"}
+    ],
+    "gr": "<strong>avyaktāt tu paraḥ puruṣaḥ</strong> — 'beyond the Unmanifest is the Puruṣa': this completes the hierarchy. Puruṣa is the apex — nothing is beyond it (as stated in 1.3.11: 'puruṣān na paraṁ kiñcit'). <strong>vyāpakaḥ</strong> — 'all-pervading': the Puruṣa is not located in one place — it pervades everything. <strong>aliṅgaḥ</strong> — 'without mark': the Puruṣa has no distinguishing characteristics by which it can be identified. It is pure consciousness without form, colour, sound, or any attribute. <strong>yaṁ jñātvā mucyate jantuḥ</strong> — 'knowing whom, a being is freed': the classic Upanishadic formula — knowledge = liberation.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.8 — This verse completes the ontological hierarchy begun in mantra 7 by placing Puruṣa at the apex. It mirrors 1.3.11 almost exactly: 'puruṣān na paraṁ kiñcit — sā kāṣṭhā sā parā gatiḥ.' The term 'aliṅga' (markless) is significant — it means the Puruṣa cannot be known by inference (since inference requires observable marks/signs). It can only be known through direct revelation (śruti) and immediate experience (anubhava).",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'अलिंग' — पुरुष में कोई लिंग (mark) नहीं जिससे वह अनुमान-योग्य हो। वह इन्द्रियों, मन, और बुद्धि — सबसे परे है। उसे केवल श्रुति (Veda) और आत्मानुभव (direct experience) से ही जाना जा सकता है।",
+        "en": "Shankara says 'aliṅga' — the Puruṣa has no mark by which it can be inferred. It is beyond senses, mind, and intellect. It can be known only through śruti (scripture) and direct experience (ātmānubhava).",
+        "ins": "You cannot find the Self by looking for it — because there is nothing to look for. It has no shape, no colour, no sound. You find it by ceasing to look outside and turning awareness upon itself."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् (पुरुष) सर्वव्यापक और निराकार होते हुए भी सगुण (with attributes) हैं — उनके दिव्य गुण (ज्ञान, बल, ऐश्वर्य, वीर्य, शक्ति, तेज) हैं। 'अलिंग' का अर्थ प्राकृतिक लिंगों (material marks) का अभाव है, दिव्य गुणों का नहीं।",
+        "en": "Ramanuja says the Lord (Puruṣa) is all-pervading and formless yet possesses divine attributes (jñāna, bala, aiśvarya, vīrya, śakti, tejas). 'Aliṅga' means absence of material marks, not absence of divine qualities.",
+        "ins": "The Lord is without worldly form but full of divine qualities. He is not 'nothing' — He is everything that matter is not: infinite knowledge, infinite power, infinite compassion."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि पुरुष सभी प्रकट अस्तित्व (manifest existence) के पीछे की चेतना है — 'अलिंग' क्योंकि यह किसी भी रूप, नाम, या गुण से परिभाषित नहीं होता। यह शुद्ध चित् (pure consciousness) है — सबका आधार, स्वयं आधार-रहित।",
+        "en": "Sri Aurobindo says the Puruṣa is the consciousness behind all manifest existence — 'aliṅga' because it is defined by no form, name, or quality. It is pure cit (consciousness) — the ground of all, itself groundless.",
+        "ins": "At the summit of the hierarchy of being stands pure consciousness — without form, without attribute, without limit. It is not a thing among things but the ground on which all things stand."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'aliṅga' (without mark) mean for knowing the Self?", "a": "The term <strong>aliṅga</strong> (a + liṅga = 'markless') has profound epistemological implications. In Indian logic, we know things by their <strong>liṅga</strong> (marks, signs, characteristics) — smoke is the liṅga of fire, horns are the liṅga of a cow. We <em>infer</em> the existence of something from its observable marks. But the Puruṣa has <strong>no liṅga</strong> — no observable mark, no form, no colour, no sound, no attribute by which it can be inferred. This means the Puruṣa <strong>cannot be known by any of the ordinary means of knowledge</strong>: not by perception (it has no form to see), not by inference (it has no marks to infer from), not by analogy (nothing is like it). Then <em>how</em> can it be known? The Upanishads answer: through <strong>śruti</strong> (revelation — the Vedic teaching that points to it) and <strong>anubhava</strong> (direct experience — the Self knows itself by turning awareness upon itself). The Self is <em>svayaṁ-prakāśa</em> (self-luminous): it does not need an external light to reveal it. It reveals itself to itself, the moment the seeker stops looking for it <em>as an object</em> and recognises it <em>as the subject</em>."},
+      {"q": "🔍 Why is Puruṣa placed above the Unmanifest (avyakta)?", "a": "The placement of <strong>Puruṣa above avyakta</strong> is the Upanishad's decisive statement against <strong>materialism</strong> — the view that matter (prakṛti) is the ultimate reality and consciousness is its by-product. In the Sāṅkhya system, <strong>Prakṛti</strong> (= avyakta, the unmanifest root-matter) is the source of all material creation: from it arise mahat (cosmic intelligence), ahaṅkāra (ego), the senses, the elements, and the body. But the Katha says: <em>even Prakṛti is not the ultimate</em>. Beyond it — 'paraḥ' (higher, beyond) — stands the <strong>Puruṣa</strong>, pure consciousness. This means: <strong>consciousness is not a product of matter; matter is a product (or instrument) of consciousness</strong>. The Puruṣa is 'vyāpaka' (all-pervading) — it pervades matter, not the other way around. It is 'aliṅga' (markless) — it has no material characteristics, because it is not material. The liberating insight: <strong>you are not a body that produces consciousness; you are consciousness that wears a body</strong>. Knowing this — 'yaṁ jñātvā mucyate jantuḥ' — the being is freed from the illusion that it is matter."}
+    ]
+  },
+  {
+    "id": 9,
+    "sk": "न सन्दृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम् | हृदा मनीषा मनसाऽभिक्लृप्तो य एतद्विदुरमृतास्ते भवन्ति ||",
+    "ro": "na · sandṛśe · tiṣṭhati · rūpam · asya · na · cakṣuṣā · paśyati · kaścana · enam | hṛdā · manīṣā · manasā · abhiklṛptaḥ · ye · etat · viduḥ · amṛtāḥ · te · bhavanti ||",
+    "hi": "इसका (पुरुष/ब्रह्म का) रूप दृष्टि-क्षेत्र में नहीं ठहरता (दिखता नहीं); किसी के चक्षु (आँख) से कोई भी इसे नहीं देखता। हृदय से, बुद्धि (मनीषा) से, मन से — (जब ये शुद्ध हों तब) यह ज्ञात होता है (अभिक्लृप्त)। जो इसे जानते हैं, वे अमृत (अमर) हो जाते हैं।",
+    "en": "His form does not stand within the field of vision; no one sees Him with the eye. He is apprehended by the heart, by the mind, by the (purified) intellect. Those who know This become immortal.",
+    "ws": [
+      {"s": "सन्दृशे (sandṛśe)", "h": "दृष्टि-क्षेत्र में", "e": "in the field of vision — sam + dṛś (seeing); the visual field; what eyes can perceive"},
+      {"s": "रूपम् (rūpam)", "h": "रूप, आकृति", "e": "form — the Self has no visible form; it cannot be seen as an object"},
+      {"s": "चक्षुषा (cakṣuṣā)", "h": "आँख से", "e": "with the eye — instrumental case; physical sight cannot apprehend the Self"},
+      {"s": "हृदा (hṛdā)", "h": "हृदय से", "e": "by the heart — hṛd: the spiritual heart; the seat of deepest intuition"},
+      {"s": "मनीषा (manīṣā)", "h": "बुद्धि, प्रज्ञा", "e": "by the intellect — manīṣā: the refined, contemplative faculty of understanding"},
+      {"s": "अभिक्लृप्तः (abhiklṛptaḥ)", "h": "ज्ञात/प्रतिष्ठित/अनुभव किया गया", "e": "apprehended / conceived — abhi + √klṛp (to be fit, to be conceived); the Self is 'realised' through inner faculties, not perceived through outer ones"},
+      {"s": "अमृताः ते भवन्ति (amṛtāḥ te bhavanti)", "h": "वे अमर हो जाते हैं", "e": "they become immortal — the standard Upanishadic promise: knowledge of the Self = transcendence of death"}
+    ],
+    "gr": "<strong>na sandṛśe tiṣṭhati rūpam asya</strong> — 'His form does not stand in the field of vision': the Self has no visible form — not because it is invisible (like air) but because it is <em>the very capacity of seeing</em>. The eye cannot see itself. <strong>hṛdā manīṣā manasā abhiklṛptaḥ</strong> — three instruments of inner perception: hṛd (heart/intuition), manīṣā (reflective intellect), manas (mind). These must be purified and concentrated before the Self can be apprehended. <strong>abhiklṛptaḥ</strong> — 'conceived/apprehended': the Self is not perceived like an external object but <em>realised</em> as one's own being.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.9 — This verse echoes the Kena Upanishad's central paradox: 'the eye does not go there, nor speech, nor the mind' (Kena 1.3). Yet the Self CAN be known — through the heart, the purified intellect, and the concentrated mind. The Mundaka (3.2.9) uses the same closing formula: 'ye etat viduḥ amṛtāḥ te bhavanti.' The word 'abhiklṛpta' is unusual and significant — it suggests the Self is not 'discovered' but 'realised' or 'conceived' within.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि आत्मा को आँखों से नहीं देखा जा सकता क्योंकि वह रूप-रहित (formless) है। वह तो शुद्ध बुद्धि (hṛdā manīṣā) से ही ज्ञात होता है — जब मन एकाग्र होकर अन्तर्मुख होता है।",
+        "en": "Shankara says the Self cannot be seen with the eyes because it is formless. It is known only through the purified intellect (hṛdā manīṣā) — when the mind becomes concentrated and turns inward.",
+        "ins": "You will never see the Self — because you ARE the Self. The eye cannot see itself, but it does not follow that the eye does not exist. Turn the gaze inward, and the Self reveals itself."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् भौतिक चक्षुओं से नहीं, पर दिव्य नेत्रों (divine vision) से और भक्ति-शुद्ध हृदय से दर्शनीय हैं। गीता (11.8) में कृष्ण कहते हैं: 'दिव्यं ददामि ते चक्षुः' — 'मैं तुम्हें दिव्य दृष्टि देता हूँ।'",
+        "en": "Ramanuja says the Lord is not visible to physical eyes but is seen through divine vision and the heart purified by devotion. In the Gītā (11.8), Kṛṣṇa says: 'divyaṁ dadāmi te cakṣuḥ' — 'I give you divine sight.'",
+        "ins": "Ordinary eyes see forms; divine eyes see the Lord behind all forms. Devotion is the lens that transforms ordinary sight into divine vision."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'हृदा मनीषा मनसा' — ये तीन आन्तरिक ज्ञान-साधन हैं: हृदय (psychic being), बुद्धि (higher mind), मन (thinking mind)। जब तीनों एकाग्र और शुद्ध हों — तभी आत्मा 'अभिक्लृप्त' (realised) होता है।",
+        "en": "Sri Aurobindo says 'hṛdā manīṣā manasā' — these are three inner instruments of knowledge: heart (psychic being), intellect (higher mind), mind (thinking mind). When all three are concentrated and purified — only then is the Self 'realised' (abhiklṛpta).",
+        "ins": "The Self is known not by one faculty alone but by the convergence of heart, mind, and intellect — when all three point in the same direction, the truth stands revealed."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why can't the eye see the Self?", "a": "The verse says <strong>'na cakṣuṣā paśyati kaścana enam'</strong> — 'no one sees Him with the eye.' This is not because the Self is hidden or distant — it is because the Self is <strong>the very power of seeing</strong>. Consider: your eye sees objects, but can it see <em>itself</em>? Your eye is the instrument of seeing — it cannot become its own object. Similarly, the Self is the <strong>instrument of all knowing</strong> — the awareness by which everything is known. It cannot become an object of its own awareness, just as a sword cannot cut itself or a fire cannot burn itself. The Brihadaranyaka (2.4.14) expresses this brilliantly: '<em>vijñātāram are kena vijānīyāt?</em>' — 'By what means, O Maitreyī, would one know the Knower?' The Knower cannot be known <em>as an object</em>. But it CAN be known <em>as the subject</em> — by turning awareness upon itself. This is what 'hṛdā manīṣā manasā abhiklṛptaḥ' describes: the Self is apprehended not by looking outward but by <strong>recognising the one who looks</strong>."},
+      {"q": "🔍 What role do heart, intellect, and mind play in Self-knowledge?", "a": "The verse lists three inner faculties: <strong>hṛd</strong> (heart), <strong>manīṣā</strong> (intellect/wisdom), and <strong>manas</strong> (mind). Each plays a distinct role in Self-realisation. <strong>Hṛd (heart)</strong> — not the physical organ but the <strong>spiritual heart</strong>, the deepest centre of being. In Vedāntic practice, the heart is the seat of <em>intuitive certainty</em> — it 'knows' the Self directly, without reasoning. This is the <em>psychic being</em> in Sri Aurobindo's terminology. <strong>Manīṣā (intellect/wisdom)</strong> — the refined, contemplative faculty that <em>discriminates</em> between the real and the unreal (viveka). Unlike ordinary reasoning, manīṣā is <em>truth-oriented</em> — it cuts through illusion to see what is. <strong>Manas (mind)</strong> — the thinking, organising faculty. When purified and concentrated (through meditation and discipline), the mind becomes a <em>lens</em> that focuses awareness on the Self. All three must work together: the <strong>mind</strong> concentrates, the <strong>intellect</strong> discriminates, and the <strong>heart</strong> recognises. A common error is to rely on only one — intellectual understanding without heart-recognition leads to dry philosophy; heart-devotion without intellectual discrimination leads to sentimentality; mental focus without either leads to mere concentration exercises."}
+    ]
+  },
+  {
+    "id": 10,
+    "sk": "यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह | बुद्धिश्च न विचेष्टते तामाहुः परमां गतिम् ||",
+    "ro": "yadā · pañca · avatiṣṭhante · jñānāni · manasā · saha | buddhiḥ · ca · na · viceṣṭate · tām · āhuḥ · paramāṁ · gatim ||",
+    "hi": "जब पाँच ज्ञानेन्द्रियाँ मन के साथ स्थिर (शान्त) हो जाती हैं, और बुद्धि भी विचेष्टा (गतिविधि) नहीं करती — उसे (ज्ञानी) परम गति (the highest state) कहते हैं।",
+    "en": "When the five senses of knowledge come to rest together with the mind, and the intellect does not stir — that, they say, is the highest state (paramā gati).",
+    "ws": [
+      {"s": "पञ्च ज्ञानानि (pañca jñānāni)", "h": "पाँच ज्ञानेन्द्रियाँ", "e": "the five senses of knowledge — sight, hearing, touch, taste, smell; the five jñāna-indriyas"},
+      {"s": "अवतिष्ठन्ते (avatiṣṭhante)", "h": "स्थिर/शान्त हो जाती हैं", "e": "come to rest / become still — ava + √sthā (to stand still); the senses cease their outward activity"},
+      {"s": "मनसा सह (manasā saha)", "h": "मन के साथ", "e": "together with the mind — the mind (manas) also becomes still, not just the senses"},
+      {"s": "बुद्धिः न विचेष्टते (buddhiḥ na viceṣṭate)", "h": "बुद्धि भी विचेष्टा नहीं करती", "e": "the intellect does not stir — vi + √ceṣṭ (to move, to exert); even the discriminative faculty becomes still"},
+      {"s": "परमाम् गतिम् (paramāṁ gatim)", "h": "परम गति — सर्वोच्च अवस्था", "e": "the highest state — paramā (supreme) + gati (goal/state/destination); the ultimate spiritual attainment"}
+    ],
+    "gr": "<strong>pañca jñānāni avatiṣṭhante manasā saha</strong> — 'the five senses come to rest with the mind': this describes the complete withdrawal of all outward-facing faculties. <strong>buddhiḥ ca na viceṣṭate</strong> — 'and the intellect does not stir': even buddhi, the highest of the inner faculties, becomes quiescent. This is beyond ordinary meditation — it is the complete cessation of all mental activity. <strong>tām āhuḥ paramāṁ gatim</strong> — 'they call that the highest state': this state of total inner stillness is the goal of yoga. This verse is the Katha Upanishad's definition of yoga, continued in the next verse.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.10 — This verse and the next (mantra 11) together constitute the Katha Upanishad's famous definition of yoga — one of the earliest in Indian literature. The complete cessation of sensory, mental, and intellectual activity is described as 'paramā gati' (the highest state). Compare Yoga Sūtra 1.2: 'yogaś citta-vṛtti-nirodhaḥ' — 'Yoga is the cessation of the modifications of the mind.' The Katha predates Patañjali and provides the philosophical foundation for this definition.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि जब सभी इन्द्रियाँ, मन, और बुद्धि — ये सब शान्त हो जाते हैं — तब जो अवस्था शेष रहती है, वह आत्म-साक्षात्कार (Self-realisation) है। यह 'परम गति' — अन्तिम लक्ष्य — मोक्ष है।",
+        "en": "Shankara says when all senses, mind, and intellect become still — what remains is Self-realisation. This 'paramā gati' — the ultimate goal — is mokṣa.",
+        "ins": "When the mind is perfectly still, the Self shines by its own light — as the moon's reflection appears clearly when the water is still."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'परमा गति' — यह भगवान् के परम धाम (supreme abode) की प्राप्ति है। इन्द्रियों और मन को शान्त करके — भक्ति और ध्यान के माध्यम से — भगवद्-दर्शन होता है।",
+        "en": "Ramanuja says 'paramā gati' is the attainment of the Lord's supreme abode. By stilling the senses and mind — through devotion and meditation — one attains the vision of the Lord.",
+        "ins": "The highest state is not emptiness — it is fullness. When the noise of the senses stops, what remains is the Lord's presence, which was always there but drowned out by the clamour."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि इन्द्रियों और मन की 'निश्चलता' (stillness) सुप्राचेतन (supramental) अनुभव का द्वार है। यह शून्य (void) नहीं, बल्कि चेतना का वह स्तर है जो मन से परे है — शान्त पर अत्यन्त जाग्रत।",
+        "en": "Sri Aurobindo says the 'stillness' of senses and mind is the gateway to supramental experience. This is not void but a level of consciousness beyond mind — still yet intensely awake.",
+        "ins": "True silence is not the absence of sound — it is the presence of something beyond sound. When the mind stops chattering, a deeper intelligence begins to speak."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Is this verse the Katha Upanishad's definition of yoga?", "a": "Yes — this verse and the next (mantra 11) together constitute one of the <strong>earliest definitions of yoga</strong> in Indian literature. The Katha's definition: <strong>when the five senses, the mind, and the intellect all come to rest — that is the highest state</strong>. This anticipates <strong>Patañjali's Yoga Sūtra (1.2)</strong> by centuries: '<em>yogaś citta-vṛtti-nirodhaḥ</em>' — 'Yoga is the cessation of the fluctuations of the mind.' But the Katha goes further than Patañjali in two ways: (1) It explicitly includes the <strong>buddhi</strong> (intellect) in the cessation — not just the manas (mind) but even the higher discriminative faculty must become still. (2) It identifies this state as <strong>'paramā gati'</strong> (the highest goal) — equating the yogic state directly with liberation/mokṣa, not just a means to it. The six limbs of yoga (ṣaḍaṅga-yoga) are not detailed here — the Katha is interested in the <em>goal</em>, not the <em>technique</em>. Technique comes later, in texts like the Yoga Sūtras and the Haṭha Yoga Pradīpikā."},
+      {"q": "🔍 What remains when mind and intellect become completely still?", "a": "When all outward-facing faculties — senses, mind, intellect — become <em>completely</em> still, what remains is <strong>pure consciousness (ātman/cit)</strong> — the Self in its natural state, undisturbed by any mental modification. This is not unconsciousness (as in deep sleep), because in deep sleep the Self is veiled by <em>tamas</em> (darkness/inertia). In the state described here, the Self is <strong>fully awake</strong> — intensely aware — but aware of <em>nothing in particular</em>, because the instruments that create 'particulars' (senses, mind, intellect) have been withdrawn. The Mandukya Upanishad calls this the <strong>turīya</strong> (the 'fourth' state) — beyond waking, dreaming, and deep sleep: '<em>nāntaḥ-prajñam, na bahiḥ-prajñam, na ubhayataḥ-prajñam, na prajñāna-ghanam, na prajñam, na aprajñam</em>' — 'not inward-knowing, not outward-knowing, not both, not a mass of knowing, not knowing, not not-knowing.' It is pure <em>Being-Consciousness-Bliss</em> (sat-cit-ānanda) — the Self as it is before any content arises in awareness."}
+    ]
+  },
+  {
+    "id": 11,
+    "sk": "तां योगमिति मन्यन्ते स्थिरामिन्द्रियधारणाम् | अप्रमत्तस्तदा भवति योगो हि प्रभवाप्ययौ ||",
+    "ro": "tāṁ · yogam · iti · manyante · sthirām · indriya-dhāraṇām | apramattaḥ · tadā · bhavati · yogaḥ · hi · prabhava-apyayau ||",
+    "hi": "उस स्थिर इन्द्रिय-धारणा (इन्द्रियों को दृढ़ता से धारण/नियन्त्रित करना) को 'योग' मानते हैं। तब (उस अवस्था में) वह अप्रमत्त (सावधान, असावधानी-रहित) हो जाता है। योग ही प्रभव (उत्पत्ति) और अप्यय (लय) — (अर्थात् योग उत्पन्न भी होता है और लय भी होता है — सावधानी आवश्यक है।)",
+    "en": "That firm holding of the senses — they consider it to be 'yoga.' Then one becomes vigilant (apramatta). For yoga is subject to arising and passing away (it can be gained and lost).",
+    "ws": [
+      {"s": "योगम् (yogam)", "h": "योग", "e": "yoga — from √yuj (to yoke, to unite); the discipline of stilling the senses and uniting with the Self"},
+      {"s": "स्थिराम् इन्द्रियधारणाम् (sthirām indriya-dhāraṇām)", "h": "इन्द्रियों की स्थिर धारणा (firm holding)", "e": "the firm holding/control of the senses — sthira (steady, unwavering) + indriya (senses) + dhāraṇā (holding, concentration)"},
+      {"s": "अप्रमत्तः (apramattaḥ)", "h": "अप्रमत्त — सावधान, चौकन्ना", "e": "vigilant / not negligent — a (not) + pramatta (heedless, careless); one must remain constantly watchful"},
+      {"s": "प्रभवाप्ययौ (prabhava-apyayau)", "h": "उत्पत्ति और लय", "e": "arising and passing away — prabhava (origin/arising) + apyaya (dissolution/passing); yoga can be attained and lost; vigilance is needed to maintain it"}
+    ],
+    "gr": "<strong>sthirām indriya-dhāraṇām</strong> — 'the firm holding of the senses': yoga is defined as the <em>steady</em> (sthira) control (dhāraṇā) of the senses. Not momentary suppression but sustained, unwavering mastery. <strong>yogam iti manyante</strong> — 'they consider this to be yoga': this is the Katha's explicit definition of yoga — the earliest known in the Upanishadic tradition. <strong>apramattaḥ tadā bhavati</strong> — 'then one becomes vigilant': the yogin must be constantly alert, not complacent. <strong>yogaḥ hi prabhava-apyayau</strong> — 'yoga is subject to arising and passing away': a crucial warning — yoga is not a permanent acquisition; without constant practice, it can be lost.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.11 — This is the Katha Upanishad's explicit definition of yoga: 'sthirām indriya-dhāraṇām' — the firm holding of the senses. This is one of the earliest definitions of yoga in Indian literature. The warning that yoga is 'prabhava-apyayau' (subject to arising and falling) is remarkable — it introduces the concept of spiritual practice as an ongoing discipline, not a one-time attainment. The Yoga Sūtra (1.12-14) echoes this: 'abhyāsa-vairāgyābhyāṁ tan-nirodhaḥ... sa tu dīrgha-kāla-nairantarya-satkāra-āsevitaḥ dṛḍha-bhūmiḥ' — 'Cessation is achieved by practice and dispassion... and that practice becomes firmly grounded when pursued for a long time, without interruption, and with devotion.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'योग' — इन्द्रियों की स्थिर धारणा — यह साधन है, साध्य नहीं। साध्य आत्मज्ञान है। 'प्रभवाप्ययौ' — योग की अवस्था अस्थिर है; प्रमाद (negligence) से नष्ट हो सकती है। इसीलिए 'अप्रमत्त' (सदा सजग) रहना अनिवार्य है।",
+        "en": "Shankara says 'yoga' — the firm control of the senses — is the means, not the end. The end is Self-knowledge. 'Prabhava-apyayau' — the yogic state is unstable; it can be destroyed by negligence. Therefore one must remain 'apramatta' (ever-vigilant).",
+        "ins": "Yoga is not something you achieve once and keep forever — it is a state you must maintain through constant vigilance. Like a flame in the wind, it flickers and can go out if you stop protecting it."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि योग (इन्द्रिय-नियन्त्रण) भक्ति का अंग है — भगवान् पर मन लगाने के लिए इन्द्रियों को वश में करना आवश्यक है। 'अप्रमत्त' — भक्त सदा भगवान् के स्मरण में रहे; प्रमाद (forgetfulness) सबसे बड़ा शत्रु है।",
+        "en": "Ramanuja says yoga (sense-control) is part of bhakti — controlling the senses is necessary for fixing the mind on the Lord. 'Apramatta' — the devotee must always remain in remembrance of the Lord; forgetfulness (pramāda) is the greatest enemy.",
+        "ins": "The greatest threat to the spiritual seeker is not temptation — it is forgetfulness. You don't fall because you choose evil; you fall because you forget God."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'प्रभवाप्ययौ' — योग उत्पन्न होता है और लय भी होता है — यह इसलिए क्योंकि योग मन के स्तर पर है, और मन चंचल है। जब चेतना मन से ऊपर (supramental) जाती है — तब योग स्थिर (permanent) होता है।",
+        "en": "Sri Aurobindo says 'prabhava-apyayau' — yoga arises and passes — because yoga at the mental level is unstable, as the mind is restless. When consciousness rises above the mind (to the supramental), yoga becomes permanent.",
+        "ins": "Mental concentration is inherently unstable — the mind is designed to move. True yoga is established when consciousness shifts to a level above the mind, where stillness is natural, not forced."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the Katha's definition of yoga?", "a": "The Katha Upanishad defines yoga as <strong>'sthirām indriya-dhāraṇām'</strong> — <strong>the firm holding (dhāraṇā) of the senses (indriya)</strong> in a steady (sthira) state. This is one of the <strong>earliest explicit definitions of yoga</strong> in Indian literature, predating Patañjali's Yoga Sūtras by several centuries. Key features of this definition: (1) <strong>Emphasis on firmness (sthira)</strong> — not a momentary withdrawal but a <em>sustained</em>, steady control. The word sthira implies unwavering stability. (2) <strong>Focus on the senses (indriya)</strong> — the primary task is to bring the outward-facing senses under control, preventing them from dragging the mind toward external objects. (3) <strong>Combined with mantra 10</strong> — yoga includes the stilling of mind (manas) and intellect (buddhi) as well, not just the senses. (4) <strong>Warning of impermanence</strong> — yoga is 'prabhava-apyayau' (subject to arising and passing); one must be 'apramatta' (vigilant) to maintain it."},
+      {"q": "🔍 Why does the Upanishad warn that yoga can be 'lost' (prabhava-apyayau)?", "a": "The phrase <strong>'yogaḥ hi prabhava-apyayau'</strong> — 'yoga is subject to arising and dissolution' — is a remarkably honest and practical warning. Most spiritual texts present attainment as a permanent state. The Katha acknowledges that <strong>the yogic state is inherently unstable</strong> — it can be gained and lost. Why? Because yoga, as defined here, involves the <strong>control of the senses and mind</strong> — and these are naturally outward-moving (the Katha 1.3.11 said: 'the senses are the horses'). Maintaining control requires constant effort, just as keeping horses still requires constant pressure on the reins. The moment the driver relaxes, the horses bolt. This is why the verse insists on <strong>apramattaḥ</strong> (vigilance, non-negligence). <strong>Pramāda</strong> (negligence, heedlessness) is considered one of the greatest obstacles in spiritual life — the Yogavasiṣṭha calls it 'the greatest darkness' and the Bhagavad Gītā (6.26) instructs: '<em>yato yato niścalati manaś cañcalam asthiram, tatas tato niyamyaitad ātmany eva vaśaṁ nayet</em>' — 'Wherever the restless mind wanders, from there bring it back and fix it on the Self.' The honest acknowledgement that yoga can be lost makes the Katha's teaching <em>more</em> trustworthy, not less."}
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "नैव वाचा न मनसा प्राप्तुं शक्यो न चक्षुषा | अस्तीति ब्रुवतोऽन्यत्र कथं तदुपलभ्यते ||",
+    "ro": "na · eva · vācā · na · manasā · prāptuṁ · śakyaḥ · na · cakṣuṣā | asti · iti · bruvataḥ · anyatra · kathaṁ · tat · upalabhyate ||",
+    "hi": "वह (ब्रह्म/आत्मा) न वाणी से, न मन से, न चक्षु (नेत्र) से प्राप्त (जाना) किया जा सकता है। 'है' — ऐसा कहने वाले (अर्थात् ब्रह्म का अस्तित्व स्वीकार करने वाले) के अतिरिक्त अन्य कोई उसे कैसे जान सकता है?",
+    "en": "He cannot be reached by speech, nor by the mind, nor by the eye. How can He be apprehended except by one who affirms 'He IS' (asti)?",
+    "ws": [
+      {"s": "वाचा (vācā)", "h": "वाणी/वाक् से", "e": "by speech — words cannot reach or express Brahman; the Taittirīya says 'yato vāco nivartante'"},
+      {"s": "मनसा (manasā)", "h": "मन से", "e": "by the mind — mental concepts and thoughts cannot grasp Brahman"},
+      {"s": "चक्षुषा (cakṣuṣā)", "h": "नेत्र/आँख से", "e": "by the eye — physical vision cannot see Brahman (repeating the theme of mantra 9)"},
+      {"s": "अस्ति इति (asti iti)", "h": "'है' ऐसा (कहने वाले)", "e": "'It IS' — asti: the affirmation of existence; the first step is to affirm that Brahman exists"},
+      {"s": "ब्रुवतः (bruvataḥ)", "h": "कहने वाले के (लिए)", "e": "of one who says / one who affirms — bruvataḥ: genitive of the present participle of √brū (to say)"},
+      {"s": "उपलभ्यते (upalabhyate)", "h": "जाना/प्राप्त किया जाता है", "e": "is apprehended — upa + √labh (to obtain, to perceive); how can one reach what cannot be spoken, thought, or seen?"}
+    ],
+    "gr": "<strong>na vācā na manasā na cakṣuṣā</strong> — triple negation: speech, mind, and sight — the three primary means of knowing — all fail before Brahman. <strong>asti iti bruvataḥ anyatra</strong> — 'except by one who says \"It IS\"': the only starting point for knowing Brahman is the <em>affirmation of its existence</em>. This is not blind faith but the necessary precondition — you must first accept that there IS something beyond the senses before you can find it. <strong>kathaṁ tat upalabhyate</strong> — 'how can it be apprehended otherwise?': a rhetorical question — there is no other way.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.12 — This verse deepens the epistemological challenge: if the Self cannot be reached by speech, mind, or sight, HOW can it be known? The answer is 'asti iti' — by first affirming 'It IS.' This connects to the next verse which distinguishes between knowing Brahman as 'asti' (It exists) and knowing its 'tattva' (true nature). The Kena Upanishad (1.3-4) expresses the same limitation: 'na tatra cakṣur gacchati...' The Taittirīya (2.4) echoes: 'yato vāco nivartante.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'अस्ति इति' — पहला चरण है ब्रह्म के अस्तित्व को स्वीकारना। यह अन्धविश्वास नहीं, श्रुति-प्रमाण (scriptural authority) और अनुभव (experience) पर आधारित है। जो 'नास्ति' (it does not exist) कहता है — वह कभी नहीं जान सकता।",
+        "en": "Shankara says 'asti iti' — the first step is to accept Brahman's existence. This is not blind faith but based on śruti-pramāṇa (scriptural authority) and anubhava (experience). One who says 'nāsti' (it does not exist) can never know.",
+        "ins": "You cannot find what you refuse to believe exists. Faith (śraddhā) is not the end — it is the necessary beginning. First believe it IS; then the search can begin."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि भगवान् वाणी, मन, और नेत्र से परे हैं — पर 'अस्ति इति' (भगवान् हैं) कहने वाले भक्त को भगवान् स्वयं प्रकट होते हैं। भगवान् को जानने का माध्यम भक्ति और शरणागति है।",
+        "en": "Ramanuja says the Lord is beyond speech, mind, and sight — but to the devotee who affirms 'asti iti' (the Lord IS), the Lord reveals Himself. The means to know the Lord is devotion and surrender.",
+        "ins": "God cannot be grasped by human faculties — He can only be received through grace, which flows to those who open their hearts with the simple affirmation: 'He IS.'"
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'अस्ति इति' — यह अस्तित्व की मूलभूत प्रतीति (fundamental intuition of existence) है। यह तार्किक निष्कर्ष नहीं, बल्कि चेतना की अपनी स्वाभाविक अनुभूति है कि 'मैं हूँ' (I am) — और जो 'है', वही ब्रह्म है।",
+        "en": "Sri Aurobindo says 'asti iti' is the fundamental intuition of existence — not a logical conclusion but consciousness's own natural sense of 'I AM.' What 'IS' — that itself is Brahman.",
+        "ins": "Before any thought, before any perception, there is a bare awareness of BEING — 'I am.' That sense of existence is your first and most direct contact with Brahman."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'asti iti' (He IS) mean as a starting point?", "a": "The phrase <strong>'asti iti'</strong> (He IS / It exists) represents the <strong>minimum necessary affirmation</strong> for spiritual knowledge to begin. The verse says: speech, mind, and sight all fail to reach Brahman. So how can Brahman be known at all? Answer: <strong>only by one who first affirms 'asti' (It exists)</strong>. This is not a demand for blind faith but a recognition of a subtle truth: <strong>you cannot find what you deny exists</strong>. A scientist who denies the existence of subatomic particles will never design experiments to detect them. Similarly, a person who denies the existence of a reality beyond the senses will never engage in the <em>inner</em> search required to find it. <strong>'Asti iti'</strong> is the opening of the door — it is <em>śraddhā</em> (trust/faith) in its purest form: the willingness to accept that <em>there might be something beyond what I currently know</em>. This is not the end of the journey — the next verse (mantra 13) says one must go from knowing 'it IS' to knowing 'what it truly IS' (tattva). But without this first step, the journey cannot begin."},
+      {"q": "🔍 How do Advaita and Vishishtadvaita differ on this verse?", "a": "This verse illustrates a key difference between the two schools. For <strong>Advaita (Shankara)</strong>: Brahman is 'asti iti' — you begin with the <em>affirmation of existence</em>, then proceed through śravaṇa (hearing), manana (reflection), and nididhyāsana (contemplation) to direct experience. The emphasis is on <strong>jñāna</strong> (knowledge) as the means — the seeker uses scripture and reasoning to strip away all that is 'not-Self' until only the Self remains. For <strong>Vishishtadvaita (Ramanuja)</strong>: 'asti iti' is the devotee's <em>affirmation of the Lord's existence</em> — an act of <strong>śraddhā</strong> (faith) and bhakti. The Lord, pleased by this affirmation, then <em>reveals Himself</em> to the devotee through grace. The emphasis is on <strong>bhakti</strong> (devotion) as the means — the seeker cannot 'find' the Lord by their own effort; the Lord must <em>choose</em> to be found. Both schools agree that ordinary means (speech, mind, sight) cannot reach Brahman. They differ on what <em>can</em>: Shankara says <strong>knowledge</strong>; Ramanuja says <strong>grace received through devotion</strong>."}
+    ]
+  },
+  {
+    "id": 13,
+    "sk": "अस्तीत्येवोपलब्धव्यस्तत्त्वभावेन चोभयोः | अस्तीत्येवोपलब्धस्य तत्त्वभावः प्रसीदति ||",
+    "ro": "asti · iti · eva · upalabdhavyaḥ · tattva-bhāvena · ca · ubhayoḥ | asti · iti · eva · upalabdhasya · tattva-bhāvaḥ · prasīdati ||",
+    "hi": "'है' — ऐसे ही (ब्रह्म को) ग्रहण (upalabdhavya) करना चाहिए; और दोनों (अस्ति = अस्तित्व, तथा तत्त्वभाव = यथार्थ स्वरूप) में से (पहले 'है' ऐसे)। जिसने 'है' ऐसे ग्रहण (upalabdha) कर लिया — उसे तत्त्वभाव (यथार्थ स्वरूप) प्रसन्न होकर (स्वयं) प्रकट हो जाता है।",
+    "en": "He must first be apprehended as 'He IS' (asti), and then in His true nature (tattva-bhāva) — in both ways. To one who has apprehended 'He IS,' His true nature reveals itself (prasīdati — becomes clear/gracious).",
+    "ws": [
+      {"s": "अस्ति इति एव (asti iti eva)", "h": "'है' ऐसे ही", "e": "'He IS' — the first step: affirming Brahman's existence; the necessary precondition"},
+      {"s": "उपलब्धव्यः (upalabdhavyaḥ)", "h": "ग्रहण/अनुभव करने योग्य", "e": "to be apprehended — gerundive of upa + √labh; it must be grasped, it ought to be known"},
+      {"s": "तत्त्वभावेन (tattva-bhāvena)", "h": "तत्त्व-भाव (यथार्थ स्वरूप) से", "e": "in its true nature — tattva (thatness, reality) + bhāva (nature); the essential nature of Brahman"},
+      {"s": "उभयोः (ubhayoḥ)", "h": "दोनों में", "e": "of both — both the existence (asti) and the true nature (tattva); two stages of knowledge"},
+      {"s": "प्रसीदति (prasīdati)", "h": "प्रसन्न/स्पष्ट हो जाता है", "e": "becomes clear / reveals itself graciously — pra + √sad (to become clear, to be pleased); the tattva 'prasīdati' — it graciously reveals itself, it settles into clarity"}
+    ],
+    "gr": "<strong>Two stages of knowledge</strong>: (1) <strong>'asti iti'</strong> — knowing that Brahman EXISTS (the affirmation of being); (2) <strong>'tattva-bhāvena'</strong> — knowing Brahman's TRUE NATURE (what it actually is). <strong>ubhayoḥ</strong> — 'of both': both stages are necessary; the first enables the second. <strong>prasīdati</strong> — this word is rich: it means both 'becomes clear' (like water settling and becoming transparent) AND 'becomes gracious/pleased' (like a deity bestowing grace). The tattva of Brahman does not need to be 'found' by effort alone — once the seeker affirms 'asti,' the truth <em>reveals itself</em>.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.13 — This verse describes the two stages of Brahman-knowledge: (1) 'asti' — affirming that Brahman exists, and (2) 'tattva-bhāva' — knowing what Brahman truly is. The word 'prasīdati' is crucial — it suggests that ultimate knowledge is not purely the result of effort but involves a gracious self-revelation of the truth. This connects to the Katha's own teaching in 1.2.23: 'nāyam ātmā pravacanena labhyaḥ... yam evaiṣa vṛṇute tena labhyaḥ' — 'This Self is not gained by teaching... it is gained by the one whom the Self chooses.'",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि पहले 'अस्ति' (ब्रह्म है) — यह स्वीकार करना चाहिए; फिर 'तत्त्वभाव' (ब्रह्म क्या है) — यह जानना चाहिए। 'प्रसीदति' — जब साधक 'है' स्वीकार कर लेता है, तो ब्रह्म का तत्त्व स्वतः स्पष्ट (self-evident) हो जाता है — जैसे स्थिर जल में चन्द्रमा का प्रतिबिम्ब स्पष्ट दिखता है।",
+        "en": "Shankara says first 'asti' (Brahman IS) must be accepted; then 'tattva-bhāva' (what Brahman IS) becomes known. 'Prasīdati' — when the seeker accepts 'IS,' Brahman's true nature becomes self-evident — like the moon's reflection becoming clear in still water.",
+        "ins": "Knowledge of Brahman unfolds in two steps: first, accept that there IS a reality beyond what you see. Then, that reality will show you what it is. The door opens from the inside — but you must first knock."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि 'प्रसीदति' — भगवान् 'प्रसन्न' होते हैं (अनुग्रह करते हैं) उस भक्त पर जो 'अस्ति' कहता है। तत्त्वभाव — भगवान् का यथार्थ स्वरूप — भगवान् की कृपा (grace) से ही प्रकट होता है, साधक के प्रयास मात्र से नहीं।",
+        "en": "Ramanuja says 'prasīdati' — the Lord 'becomes pleased' (bestows grace) on the devotee who says 'asti.' Tattva-bhāva — the Lord's true nature — is revealed through the Lord's grace, not the seeker's effort alone.",
+        "ins": "The ultimate truth is not conquered by effort — it is received as a gift. But the gift comes only to those who have prepared themselves through faith and devotion."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'प्रसीदति' — सत्य स्वयं 'प्रसन्न' (settled/clear) हो जाता है; यह ज्ञान आक्रामक (aggressive) खोज से नहीं, बल्कि ग्रहणशीलता (receptivity) से आता है। पहले 'यह है' — फिर 'यह क्या है' — दो चरणों में चेतना खुलती है।",
+        "en": "Sri Aurobindo says 'prasīdati' — the truth itself 'settles' (becomes clear); this knowledge comes not through aggressive seeking but through receptivity. First 'it IS' — then 'what it IS' — consciousness opens in two stages.",
+        "ins": "The truth does not yield to intellectual assault — it opens to receptive silence. First accept its existence; then wait, and it will show you its face."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What are the two stages of knowing Brahman?", "a": "This verse describes a <strong>two-stage epistemology</strong> for knowing Brahman: <strong>Stage 1: 'Asti iti' — 'It IS'</strong>. This is the affirmation of Brahman's <em>existence</em>. Before one can know <em>what</em> Brahman is, one must first accept <em>that</em> it is. This is the stage of <strong>śraddhā</strong> (trust/faith) — not blind belief, but the willingness to entertain the possibility of a reality beyond the senses. <strong>Stage 2: 'Tattva-bhāvena' — 'In its true nature'</strong>. Once the existence of Brahman is affirmed, one must then know its <em>tattva</em> (essential nature, 'thatness'). This is the stage of <strong>direct realisation</strong> — not just knowing 'it exists' but knowing <em>what it is</em>. The beautiful word <strong>'prasīdati'</strong> (becomes clear / becomes gracious) indicates that this second stage is not purely effortful — once the seeker has established Stage 1, the truth <em>reveals itself</em>. It 'settles' into clarity, like muddy water becoming transparent when left undisturbed. Or, in the devotional reading, the truth 'becomes pleased' and graciously reveals itself, like a deity appearing before a sincere devotee."},
+      {"q": "🔍 What does 'prasīdati' mean — clarity or grace?", "a": "The word <strong>prasīdati</strong> (from pra + √sad) is one of the most beautiful and multi-layered words in this Upanishad. It has two primary meanings that <em>converge</em> here: (1) <strong>'Becomes clear / settles'</strong> — like water that has been disturbed: when left alone, the mud settles to the bottom and the water becomes transparent. The tattva (true nature) of Brahman 'prasīdati' — it settles into clarity in the seeker's consciousness. The seeker's job is not to 'create' clarity but to <em>stop disturbing the water</em>. (2) <strong>'Becomes pleased / becomes gracious'</strong> — like a deity who, pleased by the worshipper's sincerity, bestows a boon. The tattva of Brahman 'prasīdati' — it becomes gracious toward the seeker and reveals itself. This is the dimension of <strong>grace (kṛpā)</strong> — the ultimate truth cannot be <em>seized</em> by effort; it must be <em>given</em>. Shankara emphasises meaning (1) — knowledge settles naturally when the mind is still. Ramanuja emphasises meaning (2) — the Lord reveals Himself to the devoted seeker. Both readings are valid and complementary: <strong>stillness invites grace, and grace produces clarity</strong>."}
+    ]
+  },
+  {
+    "id": 14,
+    "sk": "यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः | अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ||",
+    "ro": "yadā · sarve · pramucyante · kāmāḥ · ye · asya · hṛdi · śritāḥ | atha · martyaḥ · amṛtaḥ · bhavati · atra · brahma · samaśnute ||",
+    "hi": "जब इसके (साधक के) हृदय में स्थित सभी कामनाएँ (desires) छूट जाती हैं (प्रमुच्यन्ते) — तब मर्त्य (नश्वर) अमृत (अमर) हो जाता है; यहीं (इसी शरीर में) ब्रह्म को प्राप्त करता है।",
+    "en": "When all the desires lodged in the heart are released — then the mortal becomes immortal; here itself (in this very body) one attains Brahman.",
+    "ws": [
+      {"s": "प्रमुच्यन्ते (pramucyante)", "h": "छूट जाती हैं, मुक्त हो जाती हैं", "e": "are released / fall away — passive of pra + √muc (to set free); the desires are not suppressed but naturally released"},
+      {"s": "कामाः (kāmāḥ)", "h": "कामनाएँ, इच्छाएँ", "e": "desires — kāma: all desires, attachments, and cravings that bind the soul to saṁsāra"},
+      {"s": "हृदि श्रिताः (hṛdi śritāḥ)", "h": "हृदय में स्थित/बसी हुई", "e": "lodged in the heart — śrita (taking refuge, clinging); desires that have taken deep root in the heart"},
+      {"s": "मर्त्यः अमृतः भवति (martyaḥ amṛtaḥ bhavati)", "h": "नश्वर अमर हो जाता है", "e": "the mortal becomes immortal — the transformation: from mortal to deathless, in this very life"},
+      {"s": "अत्र (atra)", "h": "यहीं — इसी शरीर/जीवन में", "e": "here — atra: right here, in this very life, in this very body; liberation is not postponed to after death"},
+      {"s": "ब्रह्म समश्नुते (brahma samaśnute)", "h": "ब्रह्म को प्राप्त करता है", "e": "attains Brahman — sam + √aś (to reach, to attain); complete union with Brahman"}
+    ],
+    "gr": "<strong>yadā sarve pramucyante kāmāḥ ye asya hṛdi śritāḥ</strong> — 'when all desires lodged in the heart are released': the condition for liberation is the complete release of all desires. Note: <em>pramucyante</em> (passive voice) — the desires 'are released,' they 'fall away' — this is not violent suppression but natural letting-go. <strong>atha martyaḥ amṛtaḥ bhavati</strong> — 'then the mortal becomes immortal': the most radical transformation — from mortal to deathless. <strong>atra brahma samaśnute</strong> — 'HERE one attains Brahman': <em>atra</em> is emphatic — liberation is not elsewhere, not after death, not in another world — it is HERE, in this very body, in this very life.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.14 — This verse appears almost identically in the Brihadaranyaka Upanishad (4.4.7): 'yadā sarve pramucyante kāmā ye'sya hṛdi śritāḥ, atha martyaḥ amṛto bhavaty atra brahma samaśnute.' The Mundaka (2.2.8) echoes: 'bhidyate hṛdaya-granthiḥ, chidyante sarva-saṁśayāḥ, kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare.' The emphasis on 'atra' (here) is crucial — jīvanmukti (liberation while alive) is affirmed.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि 'सर्वे कामाः प्रमुच्यन्ते' — जब अविद्या (ignorance) नष्ट होती है, तो कामनाएँ स्वतः छूट जाती हैं — क्योंकि कामनाएँ अविद्या का उत्पाद (product) हैं। 'अत्र' — यहीं, इसी जीवन में — जीवन्मुक्ति (liberation while alive) सम्भव है।",
+        "en": "Shankara says 'sarve kāmāḥ pramucyante' — when avidyā (ignorance) is destroyed, desires naturally fall away — because desires are the product of ignorance. 'Atra' — right here, in this very life — jīvanmukti (liberation while alive) is possible.",
+        "ins": "Desires are not the disease — they are the symptom. The disease is ignorance of your true nature. When you know who you are, desires drop like ripe fruit — no force needed."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि कामनाओं का त्याग भक्ति के माध्यम से होता है — जब भगवान् के प्रति प्रेम (divine love) हृदय में भर जाता है, तो सांसारिक इच्छाएँ स्वतः विलुप्त हो जाती हैं। 'अत्र' — इसी जीवन में भगवत्-प्राप्ति सम्भव है।",
+        "en": "Ramanuja says desires are released through bhakti — when love for the Lord fills the heart, worldly desires naturally dissolve. 'Atra' — attaining the Lord in this very life is possible.",
+        "ins": "You cannot empty the heart of desire by force — but you can fill it with something greater. When divine love floods in, petty desires flow out on their own."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'कामनाओं का प्रमोचन' (release of desires) — यह चेतना का रूपान्तरण है; इच्छाएँ चेतना के निम्न स्तर (vital/lower mind) की गतिविधि हैं। जब चेतना ऊर्ध्व (upward) जाती है — इच्छाएँ स्वतः गिर जाती हैं। 'अत्र' — इसी शरीर में, इसी जीवन में — यह transformation सम्भव है।",
+        "en": "Sri Aurobindo says 'release of desires' is a transformation of consciousness — desires are activities of the lower consciousness (vital/lower mind). When consciousness ascends, desires naturally fall away. 'Atra' — in this very body, this very life — this transformation is possible.",
+        "ins": "Liberation is not an event after death — it is a transformation of consciousness that can happen here and now, in this body, in this breath."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'release of desires' (kāmāḥ pramucyante) actually mean?", "a": "The phrase <strong>'sarve pramucyante kāmāḥ'</strong> (all desires are released) is often misunderstood as meaning <strong>suppression</strong> of desire. But the verb is <em>pramucyante</em> — passive voice: the desires '<strong>are released</strong>' — they <em>fall away naturally</em>, not by force. This is a crucial distinction. <strong>Suppressed desire</strong> is like a compressed spring — it contains energy that will eventually explode. <strong>Released desire</strong> is like a rope you let go of — it simply drops. The mechanism is <em>knowledge</em>: when you know yourself as the infinite, eternal Self, what is there left to desire? Desire arises from a sense of <em>lack</em> — 'I need something to complete me.' But if you ARE the infinite, nothing is lacking. Desires 'hṛdi śritāḥ' (lodged in the heart) — they have taken deep root, embedded in the deepest layers of personality. These are not surface wishes but <strong>core attachments</strong> — to identity, to security, to love, to existence itself. When Self-knowledge penetrates to this depth, even these core attachments are released — not through effort but through the sheer <em>incompatibility</em> of desire with the experience of infinity."},
+      {"q": "🔍 What does 'atra' (here) mean — is liberation possible in this life?", "a": "The word <strong>'atra'</strong> (here) is one of the most important words in this verse. It affirms <strong>jīvanmukti</strong> — <strong>liberation while alive, in this very body, in this very life</strong>. This is a radical claim. Many religious traditions postpone salvation to after death — a heavenly realm, a final judgement, a future age. The Upanishad says: <strong>no, it happens HERE</strong>. Not in Brahmaloka, not after death, not in a future birth — <em>atra</em>, right here, right now. The Brihadaranyaka (4.4.7) uses the identical phrase, confirming this is a core Upanishadic doctrine. The practical implication is profound: <strong>liberation is not a post-mortem event but a living experience</strong>. A jīvanmukta (one liberated while alive) walks, talks, eats, and breathes like any other person — but internally, all desires have been released, and Brahman is directly known. The body continues (due to prārabdha karma — karma already in motion) but the person is free <em>while still embodied</em>. This makes the Upanishadic path the most urgent and immediate of all spiritual paths: <strong>why wait for death when freedom is available now?</strong>"}
+    ]
+  },
+  {
+    "id": 15,
+    "sk": "यदा सर्वे प्रभिद्यन्ते हृदयस्येह ग्रन्थयः | अथ मर्त्योऽमृतो भवत्येतावद्ध्यनुशासनम् ||",
+    "ro": "yadā · sarve · prabhidyante · hṛdayasya · iha · granthayaḥ | atha · martyaḥ · amṛtaḥ · bhavati · etāvat · hi · anuśāsanam ||",
+    "hi": "जब यहाँ (इस जीवन में) हृदय की सभी ग्रन्थियाँ (गाँठें/बन्धन) टूट जाती हैं — तब मर्त्य (नश्वर) अमृत (अमर) हो जाता है। इतना ही अनुशासन (शिक्षा/उपदेश) है।",
+    "en": "When all the knots of the heart are severed here (in this life) — then the mortal becomes immortal. This much alone is the teaching (anuśāsana).",
+    "ws": [
+      {"s": "प्रभिद्यन्ते (prabhidyante)", "h": "टूट जाती हैं, भेद दिये जाते हैं", "e": "are severed / are split apart — passive of pra + √bhid (to split, to break); the knots are cut through"},
+      {"s": "हृदयस्य ग्रन्थयः (hṛdayasya granthayaḥ)", "h": "हृदय की ग्रन्थियाँ (गाँठें)", "e": "knots of the heart — granthi (knot, tangle); the internal entanglements of desire, doubt, and ignorance that bind the Self"},
+      {"s": "इह (iha)", "h": "यहाँ — इसी जीवन में", "e": "here — in this very life; repeating the emphasis on atra from mantra 14"},
+      {"s": "एतावत् (etāvat)", "h": "इतना ही, यही", "e": "this much — etāvat: just this, nothing more; the entire teaching is summarised in this one verse"},
+      {"s": "अनुशासनम् (anuśāsanam)", "h": "अनुशासन — शिक्षा/उपदेश", "e": "the teaching / the instruction — anu + √śās (to teach, to instruct); the complete summary of Yama's entire instruction"}
+    ],
+    "gr": "<strong>hṛdayasya granthayaḥ</strong> — 'the knots of the heart': in Vedāntic physiology, the heart is bound by three 'knots' (granthis): (1) avidyā (ignorance), (2) kāma (desire), and (3) karma (accumulated action). These are called the <em>hṛdaya-granthi</em> (heart-knots) — they bind the Self to the cycle of birth and death. <strong>prabhidyante</strong> — 'are severed': passive voice again — the knots are 'cut through,' implying that knowledge (not effort alone) is the cutting instrument. <strong>etāvat hi anuśāsanam</strong> — 'this much alone is the teaching': Yama's final summary — the entire Upanishad condensed into one sentence: <em>sever the knots of the heart, and the mortal becomes immortal</em>.",
+    "mt": "REVIEW_NEEDED: katha_upanishad_2.2.15 — This is the concluding verse of Yama's core teaching (before the narrative epilogue in mantras 16-17 of the traditional numbering, if any). The Mundaka Upanishad (2.2.8) has a very close parallel: 'bhidyate hṛdaya-granthiḥ, chidyante sarva-saṁśayāḥ, kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare' — 'The knot of the heart is cut, all doubts are severed, all karmas are destroyed — when THAT is seen.' The phrase 'etāvad hi anuśāsanam' — 'this much is the teaching' — signals the end of the instruction and the summary of the entire Katha Upanishad.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं कि हृदय-ग्रन्थि तीन हैं — अविद्या (ignorance), काम (desire), कर्म (action)। ज्ञान से अविद्या कटती है; अविद्या कटने से काम कटता है; काम कटने से कर्म कटता है। 'एतावत् अनुशासनम्' — यही सम्पूर्ण वेदान्त-शिक्षा का सार है।",
+        "en": "Shankara says the heart-knots are three — avidyā (ignorance), kāma (desire), karma (action). Knowledge cuts avidyā; cutting avidyā cuts kāma; cutting kāma cuts karma. 'Etāvat anuśāsanam' — this is the essence of the entire Vedāntic teaching.",
+        "ins": "The chain of bondage has three links: ignorance breeds desire, desire breeds action, action breeds rebirth. Cut the first link (ignorance), and the entire chain falls apart."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं कि हृदय-ग्रन्थियाँ भक्ति और ज्ञान दोनों से कटती हैं। 'एतावत् अनुशासनम्' — सम्पूर्ण उपदेश यही है: भगवान् को जानो, भगवान् से प्रेम करो, और मुक्त हो जाओ।",
+        "en": "Ramanuja says the heart-knots are severed by both bhakti and jñāna. 'Etāvat anuśāsanam' — the complete teaching is this: know the Lord, love the Lord, and be free.",
+        "ins": "All the complexity of spiritual life reduces to one thing: untie the knots that bind your heart. Love and knowledge together are the fingers that loosen them."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं कि 'हृदय-ग्रन्थि' — ये चेतना के वे बिन्दु हैं जहाँ अहंकार (ego) ने चेतना को 'गाँठ' बाँध दी है — मैं-पन, मेरा-पन, भय, आसक्ति। जब ये गाँठें खुलती हैं — चेतना मुक्त होकर अपने मूल विस्तार (infinite expanse) में लौटती है।",
+        "en": "Sri Aurobindo says the 'heart-knots' are the points where ego has 'knotted' consciousness — I-ness, mine-ness, fear, attachment. When these knots open, consciousness returns to its original infinite expanse.",
+        "ins": "Liberation is not gaining something new — it is untying what was always knotted. The Self was always free; it was only the knots of ego, desire, and ignorance that created the illusion of bondage."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What are the 'knots of the heart' (hṛdaya-granthi)?", "a": "The <strong>hṛdaya-granthayaḥ</strong> (knots of the heart) are one of the most important concepts in Vedāntic psychology. They represent the <strong>deep internal entanglements</strong> that bind the Self to the cycle of saṁsāra. Traditionally, three knots are identified: (1) <strong>Avidyā-granthi</strong> (the knot of ignorance) — the fundamental misidentification of the Self with the body-mind complex. 'I am this body, this name, this personality.' (2) <strong>Kāma-granthi</strong> (the knot of desire) — born from ignorance: because I think I am this limited body, I feel lack, and from lack arises craving. 'I need, I want, I must have.' (3) <strong>Karma-granthi</strong> (the knot of action) — born from desire: driven by craving, I act, and action generates consequences (karma) that bind me to future births. 'I do, I achieve, I earn.' These three knots form a <strong>causal chain</strong>: ignorance → desire → action → rebirth. The Mundaka Upanishad (2.2.8) describes their severance: '<em>bhidyate hṛdaya-granthiḥ, chidyante sarva-saṁśayāḥ, kṣīyante cāsya karmāṇi</em>' — 'The knot of the heart is cut, all doubts are destroyed, all karmas are exhausted.' The cutting instrument is <strong>knowledge of the Self</strong> — when you know you are not the body, the entire chain from ignorance to rebirth collapses."},
+      {"q": "🔍 Why does Yama say 'this much alone is the teaching' (etāvat anuśāsanam)?", "a": "The phrase <strong>'etāvat hi anuśāsanam'</strong> (this much alone is the teaching) is Yama's <strong>grand summary</strong> — the entire Katha Upanishad, with all its metaphors (chariot, razor's edge, inverted tree, city of eleven gates), hierarchies (senses → mind → buddhi → mahat → avyakta → puruṣa), and negations (not by speech, not by mind, not by sight) — <strong>reduces to this one statement</strong>: <em>sever the knots of the heart, and the mortal becomes immortal</em>. This is not reductionism — it is the recognition that all the elaborate teachings are <strong>means</strong> to a single <strong>end</strong>. The chariot metaphor teaches you to control the senses; the hierarchy teaches you to look beyond the senses; the 'asti iti' teaching gives you the starting point; the yoga definition gives you the method. But the <em>result</em> is always the same: <strong>the knots of the heart are cut, and you are free</strong>. By saying 'etāvat' (this much, nothing more), Yama prevents the student from getting lost in the complexity of the teaching and forgetting the simplicity of the goal. The most profound truths are always simple — not because they are shallow, but because they are complete."}
+    ]
+  }
+]
