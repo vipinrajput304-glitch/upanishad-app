@@ -23,7 +23,7 @@ Commit and push the new JSON file when done.
 | 1 | Isha | Shukla Yajurveda | 18 | 1 section | ✅ In app (complete) |
 | 2 | Kena | Samaveda | 34 | 4 Khandas | ✅ All JSON done |
 | 3 | Katha | Krishna Yajurveda | 119 | 2 Adhyayas × 3 Vallis | ✅ All JSON done |
-| 4 | Prashna | Atharvaveda | 67 | 6 Questions | 🔧 In progress (1/6 done) |
+| 4 | Prashna | Atharvaveda | 67 | 6 Questions | 🔧 In progress (2/6 done) |
 | 5 | Mundaka | Atharvaveda | 64 | 3 Mundakas × 2 Khandas | ❌ Not started |
 | 6 | Mandukya | Atharvaveda | 12 | 1 section | ✅ In app (complete) |
 | 7 | Taittiriya | Krishna Yajurveda | 52 | 3 Vallis | ❌ Not started |
@@ -66,8 +66,8 @@ Commit and push the new JSON file when done.
 | File | Mantras | Content | Status |
 |---|---|---|---|
 | `content/prashna_q1.json` | 1–16 | Question 1 — Who sustains the world? | ✅ DONE |
-| `content/prashna_q2.json` | 1–13 | Question 2 — How many gods support a creature? | ⏳ NEXT |
-| `content/prashna_q3.json` | 1–12 | Question 3 — Whence is Prana born? | ❌ PENDING |
+| `content/prashna_q2.json` | 1–13 | Question 2 — How many gods support a creature? | ✅ DONE |
+| `content/prashna_q3.json` | 1–12 | Question 3 — Whence is Prana born? | ⏳ NEXT |
 | `content/prashna_q4.json` | 1–11 | Question 4 — What sleeps and what is awake? | ❌ PENDING |
 | `content/prashna_q5.json` | 1–7 | Question 5 — OM meditation | ❌ PENDING |
 | `content/prashna_q6.json` | 1–8 | Question 6 — The sixteen-part Person | ❌ PENDING |
