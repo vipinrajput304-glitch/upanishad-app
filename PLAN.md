@@ -54,8 +54,8 @@ Commit and push the new JSON file when done.
 ### Prashna (ids 1–67)
 | File | Mantras | Content | Status |
 |---|---|---|---|
-| `content/prashna_q1.json` | 1–16 | Question 1 — Who sustains the world? | ⏳ NEXT |
-| `content/prashna_q2.json` | 1–13 | Question 2 — How many gods in man? | ❌ PENDING |
+| `content/prashna_q1.json` | 1–16 | Question 1 — Who sustains the world? | ✅ DONE |
+| `content/prashna_q2.json` | 1–13 | Question 2 — How many gods in man? | ⏳ NEXT |
 | `content/prashna_q3.json` | 1–12 | Question 3 — Whence is Prana born? | ❌ PENDING |
 | `content/prashna_q4.json` | 1–11 | Question 4 — What sleeps and what is awake? | ❌ PENDING |
 | `content/prashna_q5.json` | 1–7 | Question 5 — OM meditation | ❌ PENDING |
