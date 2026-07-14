@@ -24,7 +24,7 @@ Commit and push the new JSON file when done.
 | 2 | Kena | Samaveda | 34 | 4 Khandas | ✅ All JSON done |
 | 3 | Katha | Krishna Yajurveda | 119 | 2 Adhyayas × 3 Vallis | ✅ All JSON done |
 | 4 | Prashna | Atharvaveda | 67 | 6 Questions | ✅ All JSON done |
-| 5 | Mundaka | Atharvaveda | 64 | 3 Mundakas × 2 Khandas | ⏳ In progress |
+| 5 | Mundaka | Atharvaveda | 64 | 3 Mundakas × 2 Khandas | ✅ All JSON done |
 | 6 | Mandukya | Atharvaveda | 12 | 1 section | ✅ In app (complete) |
 | 7 | Taittiriya | Krishna Yajurveda | 52 | 3 Vallis | ❌ Not started |
 | 8 | Aitareya | Rigveda | 33 | 3 Adhyayas | ✅ In app (complete) |
@@ -80,12 +80,12 @@ Commit and push the new JSON file when done.
 | `content/mundaka_2_1.json` | 1–10 | Mundaka 2 Khanda 1 — The cosmic Person | ✅ DONE |
 | `content/mundaka_2_2.json` | 1–11 | Mundaka 2 Khanda 2 — The knower of Brahman | ✅ DONE |
 | `content/mundaka_3_1.json` | 1–10 | Mundaka 3 Khanda 1 — Two birds on one tree | ✅ DONE |
-| `content/mundaka_3_2.json` | 1–11 | Mundaka 3 Khanda 2 — Satyameva Jayate | ⏳ NEXT |
+| `content/mundaka_3_2.json` | 1–11 | Mundaka 3 Khanda 2 — Satyameva Jayate | ✅ DONE |
 
 ### Taittiriya (ids 1–52)
 | File | Mantras | Content | Status |
 |---|---|---|---|
-| `content/taittiriya_1a.json` | 1–6 | Shikshavalli Part 1 — invocation, phonetics, saṁhitā meditation | ❌ PENDING |
+| `content/taittiriya_1a.json` | 1–6 | Shikshavalli Part 1 — invocation, phonetics, saṁhitā meditation | ⏳ NEXT |
 | `content/taittiriya_1b.json` | 7–12 | Shikshavalli Part 2 — vyāhṛtis, meditation on OM, convocation address | ❌ PENDING |
 | `content/taittiriya_2a.json` | 1–5 | Brahmanandavalli Part 1 — five sheaths (anna to vijñāna) | ❌ PENDING |
 | `content/taittiriya_2b.json` | 6–9 | Brahmanandavalli Part 2 — ānandamaya, Brahman as bliss, fear | ❌ PENDING |
