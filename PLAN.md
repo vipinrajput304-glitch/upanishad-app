@@ -26,10 +26,10 @@ Commit and push the new JSON file when done.
 | 4 | Prashna | Atharvaveda | 67 | 6 Questions | ✅ All JSON done |
 | 5 | Mundaka | Atharvaveda | 64 | 3 Mundakas × 2 Khandas | ✅ All JSON done |
 | 6 | Mandukya | Atharvaveda | 12 | 1 section | ✅ In app (complete) |
-| 7 | Taittiriya | Krishna Yajurveda | 52 | 3 Vallis | ❌ Not started |
+| 7 | Taittiriya | Krishna Yajurveda | 52 | 3 Vallis | ✅ All JSON done |
 | 8 | Aitareya | Rigveda | 33 | 3 Adhyayas | ✅ In app (complete) |
 
-**Phase 1 total: ~399 mantras | In app: 63 | JSON done: 153 | Remaining: ~183**
+**Phase 1 total: ~399 mantras | In app: 63 | JSON done: 205 | Remaining: ~131**
 
 ### Phase 2 — The two giants (after Phase 1 is merged into app)
 
@@ -89,7 +89,7 @@ Commit and push the new JSON file when done.
 | `content/taittiriya_1b.json` | 7–12 | Shikshavalli Part 2 — vyāhṛtis, meditation on OM, convocation address | ✅ DONE |
 | `content/taittiriya_2a.json` | 1–5 | Brahmanandavalli Part 1 — five sheaths (anna to vijñāna) | ✅ DONE |
 | `content/taittiriya_2b.json` | 6–9 | Brahmanandavalli Part 2 — ānandamaya, Brahman as bliss, fear | ✅ DONE |
-| `content/taittiriya_3.json` | 1–10 | Bhriguvalli — Bhrigu's inquiry, food is Brahman | ⏳ NEXT |
+| `content/taittiriya_3.json` | 1–10 | Bhriguvalli — Bhrigu's inquiry, food is Brahman | ✅ DONE |
 
 ---
 
