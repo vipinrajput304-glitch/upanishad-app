@@ -77,8 +77,8 @@ Commit and push the new JSON file when done.
 |---|---|---|---|
 | `content/mundaka_1_1.json` | 1–9 | Mundaka 1 Khanda 1 — Two kinds of knowledge | ✅ DONE |
 | `content/mundaka_1_2.json` | 1–13 | Mundaka 1 Khanda 2 — Raft of sacrifice | ✅ DONE |
-| `content/mundaka_2_1.json` | 1–10 | Mundaka 2 Khanda 1 — The cosmic Person | ⏳ NEXT |
-| `content/mundaka_2_2.json` | 1–11 | Mundaka 2 Khanda 2 — The knower of Brahman | ❌ PENDING |
+| `content/mundaka_2_1.json` | 1–10 | Mundaka 2 Khanda 1 — The cosmic Person | ✅ DONE |
+| `content/mundaka_2_2.json` | 1–11 | Mundaka 2 Khanda 2 — The knower of Brahman | ⏳ NEXT |
 | `content/mundaka_3_1.json` | 1–10 | Mundaka 3 Khanda 1 — Two birds on one tree | ❌ PENDING |
 | `content/mundaka_3_2.json` | 1–11 | Mundaka 3 Khanda 2 — Satyameva Jayate | ❌ PENDING |
 
