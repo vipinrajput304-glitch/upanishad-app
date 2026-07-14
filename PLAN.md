@@ -87,8 +87,8 @@ Commit and push the new JSON file when done.
 |---|---|---|---|
 | `content/taittiriya_1a.json` | 1–6 | Shikshavalli Part 1 — invocation, phonetics, saṁhitā meditation | ✅ DONE |
 | `content/taittiriya_1b.json` | 7–12 | Shikshavalli Part 2 — vyāhṛtis, meditation on OM, convocation address | ✅ DONE |
-| `content/taittiriya_2a.json` | 1–5 | Brahmanandavalli Part 1 — five sheaths (anna to vijñāna) | ⏳ NEXT |
-| `content/taittiriya_2b.json` | 6–9 | Brahmanandavalli Part 2 — ānandamaya, Brahman as bliss, fear | ❌ PENDING |
+| `content/taittiriya_2a.json` | 1–5 | Brahmanandavalli Part 1 — five sheaths (anna to vijñāna) | ✅ DONE |
+| `content/taittiriya_2b.json` | 6–9 | Brahmanandavalli Part 2 — ānandamaya, Brahman as bliss, fear | ⏳ NEXT |
 | `content/taittiriya_3.json` | 1–10 | Bhriguvalli — Bhrigu's inquiry, food is Brahman | ❌ PENDING |
 
 ---
