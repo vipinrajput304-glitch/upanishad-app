@@ -24,7 +24,7 @@ Commit and push the new JSON file when done.
 | 2 | Kena | Samaveda | 34 | 4 Khandas | ✅ All JSON done |
 | 3 | Katha | Krishna Yajurveda | 119 | 2 Adhyayas × 3 Vallis | ✅ All JSON done |
 | 4 | Prashna | Atharvaveda | 67 | 6 Questions | ✅ All JSON done |
-| 5 | Mundaka | Atharvaveda | 64 | 3 Mundakas × 2 Khandas | ❌ Not started |
+| 5 | Mundaka | Atharvaveda | 64 | 3 Mundakas × 2 Khandas | ⏳ In progress |
 | 6 | Mandukya | Atharvaveda | 12 | 1 section | ✅ In app (complete) |
 | 7 | Taittiriya | Krishna Yajurveda | 52 | 3 Vallis | ❌ Not started |
 | 8 | Aitareya | Rigveda | 33 | 3 Adhyayas | ✅ In app (complete) |
@@ -79,8 +79,8 @@ Commit and push the new JSON file when done.
 | `content/mundaka_1_2.json` | 1–13 | Mundaka 1 Khanda 2 — Raft of sacrifice | ✅ DONE |
 | `content/mundaka_2_1.json` | 1–10 | Mundaka 2 Khanda 1 — The cosmic Person | ✅ DONE |
 | `content/mundaka_2_2.json` | 1–11 | Mundaka 2 Khanda 2 — The knower of Brahman | ✅ DONE |
-| `content/mundaka_3_1.json` | 1–10 | Mundaka 3 Khanda 1 — Two birds on one tree | ⏳ NEXT |
-| `content/mundaka_3_2.json` | 1–11 | Mundaka 3 Khanda 2 — Satyameva Jayate | ❌ PENDING |
+| `content/mundaka_3_1.json` | 1–10 | Mundaka 3 Khanda 1 — Two birds on one tree | ✅ DONE |
+| `content/mundaka_3_2.json` | 1–11 | Mundaka 3 Khanda 2 — Satyameva Jayate | ⏳ NEXT |
 
 ### Taittiriya (ids 1–52)
 | File | Mantras | Content | Status |
