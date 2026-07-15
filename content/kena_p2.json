@@ -1,0 +1,317 @@
+[
+  {
+    "id": 9,
+    "sk": "ब्रह्मणो वा एतद्युद्धे जयम् आयन् | तस्यै ब्रह्मणो जये देवा अमहीयन्त | त ऐक्षन्त | अस्माकमेवायं विजयोऽस्माकमेवायं महिमेति |",
+    "ro": "brahmaṇo · vā · etad · yuddhe · jayam · āyan | tasyai · brahmaṇo · jaye · devā · amahīyanta | ta · aikṣanta | asmākam · eva · ayaṁ · vijayo · asmākam · eva · ayaṁ · mahimā · iti |",
+    "hi": "ब्रह्म के लिए ही यह युद्ध में जय प्राप्त हुई थी। उस ब्रह्म की विजय में देवता अभिमान से भर गये। वे सोचने लगे — 'यह विजय हमारी है, यह महिमा हमारी ही है।'",
+    "en": "For Brahman indeed won this victory in battle. The gods became puffed up with pride in Brahman's victory. They thought: 'This victory is ours alone; this glory is ours alone.'",
+    "ws": [
+      {"s": "ब्रह्मणः (brahmaṇaḥ)", "h": "ब्रह्म के लिए / ब्रह्म की", "e": "of/for Brahman — genitive singular neuter"},
+      {"s": "युद्धे (yuddhe)", "h": "युद्ध में", "e": "in battle — locative singular neuter (< √yudh, to fight)"},
+      {"s": "जयम् आयन् (jayam āyan)", "h": "जय प्राप्त हुई", "e": "won victory — imperfect 3rd pl. of √i ('to attain')"},
+      {"s": "अमहीयन्त (amahīyanta)", "h": "अभिमान से फूल उठे", "e": "became puffed up — imperfect passive of √mah ('to magnify, be great')"},
+      {"s": "ऐक्षन्त (aikṣanta)", "h": "सोचने लगे", "e": "they thought/perceived — imperfect middle of √īkṣ ('to see, think')"},
+      {"s": "महिमा (mahimā)", "h": "महानता, गौरव", "e": "greatness, glory — nominative singular masculine (< √mah)"}
+    ],
+    "gr": "<strong>brahmaṇo vā</strong> — 'for Brahman indeed': vā is an affirmative particle here, not a disjunction ('or'). <strong>tasyai brahmaṇo jaye</strong> — 'in that victory of Brahman': tasyai is locative feminine agreeing with jaye (locative of jaya, victory). <strong>amahīyanta</strong> — imperfect passive of √mah: the gods 'caused themselves to be magnified,' i.e., became inflated. <strong>aikṣanta</strong> — imperfect of √īkṣ in middle: 'they beheld within themselves,' i.e., thought.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_2.1 — Opens the prose narrative. The battle won by Brahman's power becomes the occasion for the gods' pride — the central spiritual obstacle this section teaches against.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "देवता यहाँ ज्ञानेन्द्रियों और कर्मेन्द्रियों का प्रतीक हैं। जब ब्रह्म उनके माध्यम से कार्य करता है, तब वे स्वयं को कर्ता समझने लगते हैं — यह अविद्या का मूल रूप है जो 'मैं करता हूँ' के भ्रम को जन्म देती है।",
+        "en": "The gods represent the faculties of perception and action. When Brahman acts through them, they mistake themselves for the agent — this is the root form of avidyā, the illusion 'I am the doer.'",
+        "ins": "Every 'I did this' is the gods' pride replayed in daily life. True knowledge dissolves the claim of agency."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "देवता वास्तविक जीव हैं जो परमेश्वर के साधन बनकर युद्ध में विजयी हुए। उनका अभिमान समर्पण (प्रपत्ति) के अभाव का प्रमाण है — 'सब कुछ भगवान् का है' इस बोध का अभाव ही पतन का मूल कारण है।",
+        "en": "The gods are real individual souls who served as instruments of the Lord in battle. Their pride reveals the absence of total surrender (prapatti); failing to attribute all deeds to the Lord is the root of their error.",
+        "ins": "Pride in spiritual victory is as much a deviation as pride in worldly success. All power belongs to the Lord."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "यह युद्ध प्रकाश और अन्धकार की शाश्वत शक्तियों का संग्राम है। देवताओं का अभिमान उस मनोवैज्ञानिक प्रवृत्ति को दर्शाता है जो आध्यात्मिक उपलब्धियों को अहंकार की थाती मान लेती है — और इसी से वह द्वार बन्द हो जाता है जिससे प्रकाश आया था।",
+        "en": "The battle is the eternal struggle between Light and Darkness. The gods' pride maps the soul's tendency to appropriate spiritual victories to the ego — the very move that closes the door through which the Light came.",
+        "ins": "Every true advance in consciousness is followed by the ego's attempt to claim it. Dissolution of this appropriation is part of the supramental transformation."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does the Upanishad begin this section with a battle myth?", "a": "The deva-asura conflict is not mere mythology but a map of the inner life. The <strong>asuras</strong> (powers of obscuration) represent tamas and the ego's resistance to Light. When the luminous faculties of consciousness — speech, breath, mind — win, the victory is real. But so is the danger that follows: the ego claims the victory as its own. Spiritual inflation is subtler and more dangerous than obvious failure, because it wears the face of achievement."},
+      {"q": "🔍 What is the significance of mahimā (glory) here?", "a": "<strong>Mahimā</strong> means both 'greatness' and 'inflation.' The gods claim it: 'asmākam eva ayaṁ mahimā' — 'ours alone is this greatness.' The paradox is exact: the very victory that belongs to Brahman becomes the occasion for the faculties to forget Brahman. Glory hoarded in the ego becomes the seed of the next fall. The word will echo later — Uma Haimavati, whose very name carries the purity of Himalayan snow, will reveal what true mahimā means."}
+    ]
+  },
+  {
+    "id": 10,
+    "sk": "तद्ध तेषां विजज्ञौ | तेभ्यो ह प्रादुर्बभूव | तन्न व्यजानत | किमिदं यक्षमिति |",
+    "ro": "tad · dha · teṣāṁ · vijajñau | tebhyo · ha · prādurbabhūva | tan · na · vyajānata | kim · idaṁ · yakṣam · iti |",
+    "hi": "ब्रह्म ने उनका यह (अहंकार) जान लिया। वह उनके सम्मुख प्रकट हुआ। देवता उसे पहचान न सके — 'यह यक्ष (रहस्यमय दिव्य सत्ता) कौन है?'",
+    "en": "Brahman perceived this in them. It appeared before them. They did not recognise it. 'What is this spirit (yakṣa)?'",
+    "ws": [
+      {"s": "विजज्ञौ (vijajñau)", "h": "भलीभाँति जान लिया", "e": "perceived clearly — perfect 3rd sg. of vi+√jñā ('to discern fully')"},
+      {"s": "प्रादुर्बभूव (prādurbabhūva)", "h": "प्रकट हुआ", "e": "appeared, became manifest — perfect of prādus+√bhū ('to come into view')"},
+      {"s": "न व्यजानत (na vyajānata)", "h": "पहचाना नहीं", "e": "did not recognise — imperfect negative of vi+√jñā ('to recognise, distinguish')"},
+      {"s": "यक्ष (yakṣa)", "h": "रहस्यमय अपूर्व सत्ता", "e": "mysterious wonderful being — from √yakṣ (to be wondrous) or √yaj (to worship)"}
+    ],
+    "gr": "<strong>tad dha</strong> — 'tad' refers back to the gods' pride; 'ha' is a narrative emphatic particle. <strong>vijajñau</strong> — perfect singular of vi+√jñā: vi- ('thoroughly') intensifies — Brahman 'fully discerned' the gods' state. <strong>prādurbabhūva</strong> — prādus (into the open) + babhūva (became): a standard Upanishadic compound for divine manifestation. <strong>kim idaṁ yakṣam</strong> — a nominal sentence: 'What is this [being]?' — the gods' question to each other.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_2.2 — Brahman's appearance as Yaksha is the pivot of the narrative. Non-recognition by the gods enacts the teaching of Part 1: the faculty that sees cannot see what enables it to see.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "ब्रह्म का 'जानना' कोई घटनाकाल नहीं — साक्षी-चैतन्य सदा जागृत है। 'प्रकट होना' देवताओं के दृष्टिकोण से कहा गया है। देवगण उसे इसलिए नहीं पहचान सके क्योंकि चक्षु जिससे देखता है उसे चक्षु देख नहीं सकता।",
+        "en": "Brahman's 'perceiving' is not an event — the Witness-Consciousness is ever awake. 'Appeared' is said from the gods' perspective. They could not recognise Brahman because the eye cannot see that by which the eye sees.",
+        "ins": "Brahman is not a new arrival; it is always present. Non-recognition is the structure of ignorance, not an accident of inattention."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज के मत में भगवान् ने ज्ञानपूर्वक एक दिव्य रूप (विभव) धारण किया — यक्ष के रूप में प्रकट होना करुणापूर्ण अनुग्रह है। देवताओं की अज्ञानता उनकी जीव-सीमाओं को दर्शाती है; भगवान् उनकी शिक्षा के लिए रहस्यमय रूप में आये।",
+        "en": "Ramanuja sees this as the Lord deliberately taking a divine form (vibhava) out of compassionate grace. The gods' non-recognition reflects their limitations as bound souls; the Lord comes in mysterious form precisely to teach them.",
+        "ins": "The Lord appears before those who need instruction, meeting them at the very edge of what they can grasp."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "यक्ष वह 'अज्ञात' है जो सभी ज्ञात वस्तुओं के पीछे खड़ा है। मन, प्राण और वाक् — ये सभी अपनी-अपनी सीमाओं में जीते हैं और उस असीम को नहीं पहचान सकते जो उनका मूल है।",
+        "en": "The Yaksha is the Unknown that stands behind all known things. Mind, life, and speech each live within their own limits and cannot recognise the Infinite that is their source.",
+        "ins": "The Transcendent always appears at the threshold of consciousness as a question we cannot answer with our current faculties."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does 'yakṣa' mean — and why is Brahman called that?", "a": "The word <strong>yakṣa</strong> carries several resonances. In the Atharva Veda it means 'the wondrous one' — yakṣaṁ bhuvanasya madhye, 'the wonderful in the centre of the universe.' In later Puranic usage yakṣas are nature-spirits or guardians of treasures. The Upanishad deliberately chooses this term for Brahman: it is the supremely mysterious, beyond all classification, appearing before the gods as an utterly unfamiliar Presence. The choice signals that Brahman cannot be captured by any pre-existing category — not a deva, not an asura, but the Wondrous Itself."},
+      {"q": "🔍 How can the gods not recognise Brahman standing right before them?", "a": "This is the Upanishad's sharpest paradox, which develops the teaching of Part 1 (mantras 1–4). Each god is a specialised faculty: <strong>Agni</strong> is the power of speech and burning transformation; <strong>Vayu</strong> is the power of breath and motion; <strong>Indra</strong> is the power of mind and lightning-cognition. Each perceives only through its own instrument. Brahman is the <em>ground</em> of these instruments — not an object within their range. The gods' non-recognition is not inattention; it is the structural limit of faculty-knowledge trying to know its own source."}
+    ]
+  },
+  {
+    "id": 11,
+    "sk": "तेऽग्निमब्रुवन् | जातवेद एतद्विजानीहि | किमेतद्यक्षमिति | तथेति |",
+    "ro": "te · agnim · abruvan | jātaveda · etad · vijānīhi | kim · etad · yakṣam · iti | tathā · iti |",
+    "hi": "उन्होंने अग्नि से कहा: 'हे जातवेद! यह पता लगाओ कि यह यक्ष कौन है।' अग्नि ने कहा: 'ठीक है।'",
+    "en": "They said to Agni: 'O Jātaveda, find out what this spirit (yakṣa) is.' He replied: 'So be it.'",
+    "ws": [
+      {"s": "अब्रुवन् (abruvan)", "h": "कहा, बोले", "e": "they said — imperfect 3rd pl. of √brū ('to speak')"},
+      {"s": "जातवेद (jātaveda)", "h": "जातवेद — अग्नि का नाम", "e": "O Jātaveda — vocative; epithet of Agni: 'knower of all that is born'"},
+      {"s": "विजानीहि (vijānīhi)", "h": "जानो, पता लगाओ", "e": "find out! — imperative 2nd sg. of vi+√jñā ('to discern thoroughly')"},
+      {"s": "तथा इति (tathā iti)", "h": "ठीक है, ऐसा ही होगा", "e": "'So be it' — tathā (so, thus) + iti (quotation marker); the Vedic formula of assent"}
+    ],
+    "gr": "<strong>jātaveda</strong> — vocative of jātavedas, Agni's most celebrated Vedic epithet: 'knowing (vedas) all that is born (jāta).' As fire, Agni is present at every birth, sacrifice, and death — the universal witness of temporal existence. <strong>vijānīhi</strong> — vi + jānīhi: the prefix vi- ('thoroughly, completely') intensifies the imperative: 'find out fully, investigate completely.' <strong>tathā iti</strong> — the formulaic Vedic response of assent.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_2.3 — Agni is the foremost of the gods, first responder in sacrifice and cosmic affairs. His failure will be the most dramatic possible refutation: even comprehensive worldly knowledge cannot know Brahman.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर के अनुसार अग्नि वाक्-शक्ति का प्रतीक है — जो समस्त जगत् को नाम-रूप में जानती और जलाती है। फिर भी वाणी ब्रह्म को स्पर्श नहीं कर सकती, क्योंकि ब्रह्म ही वाणी का वाणी है (प्रथम खण्ड, मन्त्र १)।",
+        "en": "Shankara reads Agni as vāk (speech) — the power that names and knows the entire world. Yet speech cannot reach Brahman, since Brahman is 'the speech of speech' (Part 1, mantra 1).",
+        "ins": "Language is the subtlest human tool, yet even it is a finite faculty that cannot capture the source that enables it."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "अग्नि एक जीव है जो देवताओं में प्रमुख है। उसका 'तथेति' कहना सेवा-भावना दर्शाता है। किन्तु भगवान् को जानने के लिए शक्ति नहीं, समर्पण चाहिए।",
+        "en": "Agni is a real jīva, foremost among the gods. His 'so be it' shows willingness to serve. But recognising the Lord requires not power but surrender.",
+        "ins": "Good intentions and great capability are not enough; only surrender opens the door to the Lord's self-revelation."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अग्नि तपस् और रूपान्तरण की शक्ति है — मूर्त को अमूर्त में परिवर्तित करने वाली ऊर्जा। परन्तु यह शक्ति भी, अपनी सीमाओं में बँधी, उस असीम को नहीं जान सकती जो इसका स्रोत है।",
+        "en": "Agni is the power of tapas and transformation — energy that converts the material into the immaterial. Yet even this power, bounded within its domain, cannot know the Infinite that is its source.",
+        "ins": "The fire of aspiration carries us far, but final recognition requires a shift beyond all effort — a grace or opening of consciousness."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why is Agni (Fire) sent first?", "a": "Agni is the foremost of the gods in multiple senses: he is the <strong>mukha</strong> (mouth) of the gods, the carrier of all sacrificial offerings, present at every cosmic and human threshold — birth, marriage, death, seasonal rites. The epithet <strong>jātavedas</strong> ('knower of all born') claims the most comprehensive worldly knowledge possible. If any faculty could recognise Brahman, Agni should. His failure is therefore the most dramatic refutation: even the all-knowing fire cannot know the Unborn."},
+      {"q": "🔍 What does the formula 'tathā iti' (so be it) reveal?", "a": "The assent formula <strong>tathā iti</strong> is used at every major moment of Vedic agreement — when a student accepts a teaching, when a god takes up a commission. It is significant that Agni accepts without hesitation. He feels entirely capable of the task. This confidence — 'of course I can find out' — is the narrative setup for the test's failure. The ease of the assent contrasts with the completeness of the defeat. Agni does not know that he is walking into a lesson about the limits of faculty-knowledge."}
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "तदभ्यद्रवत् | तमभ्यवदत् | कोऽसीति | अग्निर्वा अहमस्मि | जातवेदा वा अहमस्मीति |",
+    "ro": "tad · abhyadravat | tam · abhyavadat | ko · asi · iti | agnir · vā · aham · asmi | jātavedā · vā · aham · asmi · iti |",
+    "hi": "अग्नि उस (यक्ष) की ओर दौड़ा। यक्ष ने उससे पूछा: 'तुम कौन हो?' अग्नि ने कहा: 'मैं अग्नि हूँ, मैं जातवेद हूँ।'",
+    "en": "He (Agni) rushed toward it (the Yaksha). It addressed him: 'Who are you?' He replied: 'I am Agni, I am Jātaveda.'",
+    "ws": [
+      {"s": "अभ्यद्रवत् (abhyadravat)", "h": "दौड़ा, तेज़ी से गया", "e": "rushed toward — imperfect of abhi+√dru ('to run toward')"},
+      {"s": "अभ्यवदत् (abhyavadat)", "h": "उससे बोला", "e": "addressed him — imperfect of abhi+ava+√vad ('to speak to')"},
+      {"s": "कः असि (kaḥ asi)", "h": "तुम कौन हो", "e": "'Who are you?' — kaḥ (who, nominative interrogative) + asi (you are, 2nd sg. of √as-)"},
+      {"s": "अग्निः (agniḥ)", "h": "अग्नि", "e": "Agni — nominative singular; god of fire, sacrifice, and speech"},
+      {"s": "जातवेदाः (jātavedāḥ)", "h": "जातवेद — अग्नि का वैदिक नाम", "e": "Jātaveda — 'knower of all born'; nominative singular, second epithet"}
+    ],
+    "gr": "<strong>abhyadravat</strong> — abhi ('toward') + dru ('to run'): the imperfect records confident, urgent motion. <strong>abhyavadat</strong> — the Yaksha speaks first: abhi+ava+vad, 'to address from before.' <strong>ko'sīti</strong> — sandhi of kaḥ + asi + iti: the Yaksha's single question. <strong>agnir vā aham asmi</strong> — 'vā' is emphatic here ('indeed, certainly'), not disjunctive. The double identification — Agni, then Jātaveda — underlines Agni's confidence in his identity.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_2.4 — The Yaksha's first question 'Who are you?' inverts the expected encounter. Agni was sent to identify the Yaksha; instead the Yaksha asks Agni to identify himself — the classic Upanishadic turn from outer inquiry to self-inquiry.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "यक्ष का प्रश्न 'तुम कौन हो?' ब्रह्मविद्या का केन्द्रीय प्रश्न है। अग्नि उत्तर देता है — 'मैं अग्नि हूँ, जातवेद हूँ।' शंकर बताते हैं कि यह उत्तर उपाधि (आरोपित पहचान) पर आधारित है, आत्म-ज्ञान पर नहीं।",
+        "en": "The Yaksha's 'Who are you?' is Brahmavidyā's central question. Agni answers with his cosmic names — but Shankara shows this is identity based on upādhi (superimposed designation), not ātma-jñāna.",
+        "ins": "'I am Agni, I am Jātaveda' — both are roles, not the reality. Any answer that names a function reveals its own incompleteness."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "अग्नि की पहचान वास्तविक है — वह सच में अग्नि देव है। लेकिन 'कोऽसि' प्रश्न यह पूछ रहा है: क्या अग्नि परमेश्वर को पहचान सकता है? और इसके लिए नाम-कर्म पर्याप्त नहीं।",
+        "en": "Agni's identity is real — he genuinely is Agni Deva. But the question 'Who are you?' is asking: can Agni recognise the Lord? For that, naming one's own functions is not enough.",
+        "ins": "Knowing who you are as a creature does not automatically reveal who the Creator is."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अग्नि का 'मैं अग्नि हूँ' पूर्णतः सत्य है — परन्तु एक स्तर पर। प्रश्न उससे गहरे स्तर का है: जो तुम्हें अग्नि बनाता है, जो तुम्हें जलाने की शक्ति देता है — वह कौन है?",
+        "en": "Agni's 'I am Agni' is entirely true — at one level. The question operates at a deeper level: Who is it that makes you Agni? Who gives you the power to burn?",
+        "ins": "All functional identities are true within their level but incomplete from the perspective of the Source that enables all functions."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does the Yaksha ask 'Who are you?' instead of revealing itself?", "a": "Agni has been sent to discover the Yaksha's identity — yet the Yaksha immediately turns the question around: 'First, who are <em>you</em>?' This is the classic Upanishadic move of converting outer inquiry into inner inquiry. The gods want to know what the mysterious Being is; Brahman asks them first to know themselves. The implication is that self-knowledge and Brahman-knowledge are not separate quests — they arrive together or not at all."},
+      {"q": "🔍 What does Agni's double self-naming reveal?", "a": "Agni introduces himself with two names: the common <strong>agni</strong> (fire) and the prestigious epithet <strong>jātavedas</strong> ('knower of all born'). By naming himself twice, Agni implicitly claims maximum authority — 'I am not just any fire; I am the all-knowing fire.' The doubling reveals pride bordering on certainty. The story is about to show that this comprehensive knowledge of the created world is precisely what fails: knowing everything that is born does not include knowing the Unborn."}
+    ]
+  },
+  {
+    "id": 13,
+    "sk": "तस्मिंस्त्वयि किं वीर्यमिति | इदं सर्वं दहेयं यदिदं पृथिव्यामिति |",
+    "ro": "tasmin · tvayī · kiṁ · vīryam · iti | idaṁ · sarvam · daheyaṁ · yad · idaṁ · pṛthivyām · iti |",
+    "hi": "यक्ष ने पूछा: 'तुममें क्या शक्ति है?' अग्नि ने उत्तर दिया: 'मैं इस पृथ्वी पर जो कुछ भी है उसे जला सकता हूँ।'",
+    "en": "'What power is in you?' asked the Yaksha. 'I can burn all this that exists on earth,' replied Agni.",
+    "ws": [
+      {"s": "वीर्यम् (vīryam)", "h": "शक्ति, बल, पराक्रम", "e": "power, heroic capacity — neuter nominative; from √vīr ('to be strong')"},
+      {"s": "दहेयम् (daheyam)", "h": "जला सकता हूँ", "e": "I could burn — potential (liṅ) 1st sg. of √dah ('to burn, consume')"},
+      {"s": "सर्वम् (sarvam)", "h": "सब कुछ", "e": "all, everything — accusative singular neuter; with idaṁ = 'all this'"},
+      {"s": "पृथिव्याम् (pṛthivyām)", "h": "पृथ्वी पर", "e": "on earth — locative singular feminine (< pṛthivī, 'the broad one')"}
+    ],
+    "gr": "<strong>tasmin tvayī kim vīryam</strong> — 'in you, in that [power] of yours, what capacity?' The locative 'tasmin tvayī' asks about inherent potential. <strong>daheyam</strong> — potential mood (optative/liṅ): 'I could burn' — a claim of capability, not past action. <strong>yad idaṁ pṛthivyām</strong> — 'whatever this is on earth': yad (relative pronoun) + idaṁ (this) + pṛthivyām (locative) — a sweeping universal claim.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_2.5 — The power-exchange (vīrya-praśna) sets up the grass test. Agni's claim — 'I can burn everything on earth' — is the ego's natural response to challenge: maximum assertion of capability.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "वीर्य का प्रश्न महत्त्वपूर्ण है। शंकर दिखाते हैं कि सभी शक्तियाँ सापेक्ष हैं — किसी क्षेत्र में, किसी सीमा तक। अग्नि पृथ्वी की समस्त वस्तुओं को जला सकता है — परन्तु ब्रह्म का तृण वह नहीं जला सकता।",
+        "en": "Shankara shows that all power (vīrya) is relative — operating in some domain, up to some limit. Agni can burn every object on earth — but cannot burn Brahman's blade of grass.",
+        "ins": "All finite power is conditional. The Infinite is the one condition on which all conditions depend — and cannot itself be consumed."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "अग्नि की शक्ति वास्तविक और ईश्वरप्रदत्त है — 'मैं जला सकता हूँ' असत्य नहीं। किन्तु वह यह नहीं समझ रहा कि यह शक्ति भगवान् की देन है और भगवान् की इच्छा के बिना एक तृण भी नहीं जल सकता।",
+        "en": "Agni's power is real and Lord-given — 'I can burn' is not false. But he does not grasp that this power is the Lord's gift; without the Lord's will, not even a blade of grass burns.",
+        "ins": "The creature's power is real but derivative. Forgetting this is the very pride the Yaksha has come to cure."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अग्नि का दावा अपने स्तर पर सत्य है — वह पार्थिव स्तर की समस्त वस्तुओं को जला सकता है। परन्तु तृण ब्रह्म की शक्ति से संरक्षित है — और वहाँ प्राकृतिक शक्तियाँ काम नहीं करतीं।",
+        "en": "Agni's claim is true in its own domain. But the blade of grass is charged with Brahman's power — and at that level the natural forces are inoperative.",
+        "ins": "The higher Power does not overcome the lower through force but through a different order of reality altogether."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What is the function of the power-test (vīrya-praśna)?", "a": "By asking 'kim vīryam' ('what power is in you?'), the Yaksha sets up a demonstration rather than a debate. <strong>Vīrya</strong> (heroic power, capacity) is the domain in which the gods feel most confident. Fire can burn everything; wind can move everything. These are not empty boasts — in their domains these powers are real and total. The test reveals: even the most comprehensive power within a domain cannot cross into the domain of Brahman. The power-question is a pedagogical trap: confidence in one's capacity is precisely what gets dismantled."},
+      {"q": "🔍 Why 'on earth' (pṛthivyām)? What does this limit quietly signal?", "a": "Agni says he can burn 'all this that is on earth (pṛthivyām).' The locative <strong>pṛthivyām</strong> quietly marks the boundary of his claim — he is not claiming to burn the subtle realms, space, or consciousness itself. His power is total within one domain. The Yaksha's blade of grass will be placed within Agni's own domain — on earth — yet Agni cannot touch it. This shows that even within Agni's own territory, Brahman's presence can neutralise the highest natural powers. The limit was always there; the test makes it visible."}
+    ]
+  },
+  {
+    "id": 14,
+    "sk": "तस्मै तृणं निदधौ | एतद्दहेति | तदुपप्रेयाय सर्वेण जवेन | तन्न शशाक दग्धुम् | स तत एव निववृते | नैतदशकं विज्ञातुं यदेतद्यक्षमिति |",
+    "ro": "tasmai · tṛṇaṁ · nidadhau | etad · daha · iti | tad · upaprejāya · sarveṇa · javena | tan · na · śaśāka · dagdhum | sa · tata · eva · nivavṛte | na · etad · aśakaṁ · vijñātuṁ · yad · etad · yakṣam · iti |",
+    "hi": "यक्ष ने उसके सामने एक तृण (घास की पत्ती) रखी और बोला: 'इसे जलाओ।' अग्नि पूरी गति से उसकी ओर लपका, परन्तु उसे जला न सका। वह वहीं से लौट आया — 'मैं यह नहीं जान सका कि यह यक्ष कौन है।'",
+    "en": "The Yaksha placed a blade of grass before him, saying: 'Burn this.' He rushed at it with full speed. He was unable to burn it. He returned from that very spot: 'I could not find out what this spirit (yakṣa) is.'",
+    "ws": [
+      {"s": "तृणम् (tṛṇam)", "h": "तृण, घास का तिनका", "e": "blade of grass — neuter accusative; the simplest, most trivial object"},
+      {"s": "निदधौ (nidadhau)", "h": "रखा, स्थापित किया", "e": "placed — perfect 3rd sg. of ni+√dhā ('to lay down, place')"},
+      {"s": "सर्वेण जवेन (sarveṇa javena)", "h": "पूरी गति से", "e": "with full speed — instrumental of sarva (all) + java (swiftness, velocity)"},
+      {"s": "न शशाक (na śaśāka)", "h": "नहीं कर सका", "e": "was unable — negative perfect of √śak ('to be able, to have power')"},
+      {"s": "दग्धुम् (dagdhum)", "h": "जलाने को", "e": "to burn — infinitive of √dah"},
+      {"s": "निववृते (nivavṛte)", "h": "लौट आया", "e": "returned — perfect of ni+√vṛt ('to turn back')"}
+    ],
+    "gr": "<strong>tṛṇaṁ nidadhau</strong> — 'placed a blade of grass': tṛṇa is the most insignificant object possible, chosen deliberately. <strong>etad daha iti</strong> — bare imperative: 'Burn this!' <strong>sarveṇa javena</strong> — instrumental of manner showing maximum effort. <strong>na śaśāka dagdhum</strong> — perfect of √śak with infinitive: 'was not able to burn.' <strong>tata eva nivavṛte</strong> — 'from that very spot returned': eva (emphatic) shows Agni turned back immediately, without proceeding further.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_2.6 — The grass-test is among the most memorable moments in all of Vedanta: the mightiest cosmic power — fire itself — cannot burn a single blade of grass when Brahman withholds its enabling presence.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "जब ब्रह्म की शक्ति हट जाती है, तब अग्नि एक तृण भी नहीं जला सकती। यही अद्वैत का केन्द्रीय सिद्धान्त है: ब्रह्म समस्त शक्तियों का आधार है — वे शक्तियाँ स्वायत्त नहीं, ब्रह्म पर निर्भर हैं।",
+        "en": "When Brahman's power is withdrawn, even fire cannot burn a blade of grass. This is Advaita's central principle: Brahman alone is the ground of all powers — the powers have no independent existence.",
+        "ins": "Your abilities are real — but borrowed. The moment the Source withdraws its enabling presence, all capability ceases."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "भगवान् की इच्छा के बिना अग्नि एक तिनके को नहीं जला सकता — यह परमेश्वर की सर्वोच्च नियामकशक्ति (नियामकत्व) का प्रमाण है। यह घटना अग्नि को यह बोध देने के लिए है कि वह परमेश्वर के अधीन है।",
+        "en": "Without the Lord's will, Agni cannot burn a straw — demonstrating the Lord's supreme regulatory power (niyāmakatva). The event is designed to bring Agni to recognition that he is subject to the Lord.",
+        "ins": "The Lord governs not by overriding the creature's freedom but by being the enabling condition within which alone any freedom operates."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "तृण ब्रह्म की शक्ति से आच्छादित है — और सर्वेण जवेन अग्नि भी उसे स्पर्श नहीं कर सका। ब्रह्म भौतिक शक्तियों को उनके अपने स्तर पर ही रोक सकता है — किसी बाहरी बल की आवश्यकता नहीं।",
+        "en": "The grass is covered by Brahman's power — and even Agni at full speed cannot touch it. Brahman can arrest physical powers at their own level — no higher counter-force is needed.",
+        "ins": "The Transcendent need not overcome the natural order; it simply withholds the enabling presence that makes the natural order function."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why a blade of grass — the most trivial object?", "a": "The choice of <strong>tṛṇa</strong> (a single blade of grass) is exact: it is the least significant, most expendable, most easily consumed object imaginable. Fire devours forests, cities, continents — surely one piece of grass is nothing. The Upanishad chooses it precisely because of its triviality. If Brahman can make its enabling presence unavailable to Agni even for a blade of grass, then every fire in every moment depends on Brahman. The trivial object reveals the absolute dependence of all natural powers on their Ground."},
+      {"q": "🔍 What does 'with full speed' (sarveṇa javena) add to the story?", "a": "<strong>Sarveṇa javena</strong> — 'with all speed, maximum velocity' — shows that Agni's failure is not due to insufficient effort. He tried with complete power, nothing held back. This rules out the excuse 'I didn't try hard enough.' The grass-test failure is not a shortfall of application but a fundamental failure of capacity. The story closes the escape route: no amount of effort changes the result when Brahman's enabling presence is withheld."}
+    ]
+  },
+  {
+    "id": 15,
+    "sk": "अथ वायुमब्रुवन् | वायवेतद्विजानीहि | किमेतद्यक्षमिति | तथेति | तदभ्यद्रवत् | तमभ्यवदत् | कोऽसीति | वायुर्वा अहमस्मि | मातरिश्वा वा अहमस्मीति |",
+    "ro": "atha · vāyum · abruvan | vāyo · etad · vijānīhi | kim · etad · yakṣam · iti | tathā · iti | tad · abhyadravat | tam · abhyavadat | ko · asi · iti | vāyur · vā · aham · asmi | mātariśvā · vā · aham · asmi · iti |",
+    "hi": "तब उन्होंने वायु से कहा: 'हे वायु! यह पता लगाओ कि यह यक्ष कौन है।' वायु ने कहा: 'ठीक है।' वह उस ओर दौड़ा। यक्ष ने पूछा: 'तुम कौन हो?' वायु ने कहा: 'मैं वायु हूँ, मैं मातरिश्वा हूँ।'",
+    "en": "Then they said to Vayu: 'O Vayu, find out what this spirit (yakṣa) is.' 'So be it.' He (Vayu) rushed toward it. It addressed him: 'Who are you?' He replied: 'I am Vayu, I am Mātariśvan.'",
+    "ws": [
+      {"s": "अथ (atha)", "h": "तत्पश्चात्, इसके बाद", "e": "then, thereupon — transitional particle marking the shift to the second test"},
+      {"s": "वायु (vāyu)", "h": "वायु, पवन, प्राण-शक्ति", "e": "Vayu — god of wind, breath, and cosmic life-force (< √vā, to blow)"},
+      {"s": "मातरिश्वा (mātariśvā)", "h": "मातरिश्वन् — वायु का वैदिक नाम", "e": "Mātariśvan — Vedic epithet of Vayu: 'he who swelled or grew in the cosmic mother (atmosphere)'"}
+    ],
+    "gr": "<strong>atha</strong> — marks the narrative transition from Agni's failure to Vayu's attempt. <strong>vāyo</strong> — vocative of vāyu: 'O Vayu!' <strong>mātariśvā</strong> — voc./nom. of mātariśvan, a Vedic epithet of Vayu meaning 'the breath that fills the cosmic atmosphere (mātari = in the mother).' Like Agni's 'Jātaveda,' this is Vayu's grandest title. <strong>vā aham asmi</strong> — emphatic 'I am indeed': the same pattern as Agni's double self-identification.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_2.7–2.8 — The repetition is deliberate: a second cosmic power is tested using the identical pattern. Repetition confirms the teaching is structural, not incidental to Agni alone.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "वायु प्राण-शक्ति का प्रतीक है — समस्त जीवन का आधार। यदि वाक् (अग्नि) विफल रही, तो क्या प्राण सफल होगा? शंकर दिखाते हैं कि जीवन-शक्ति भी आत्मा का उपकरण मात्र है — स्वायत्त नहीं।",
+        "en": "Vayu symbolises prāṇa (life-force) — the very basis of all living existence. If speech (Agni) failed, will life-force succeed? Shankara shows that even prāṇa is merely an instrument of the Self, not independent.",
+        "ins": "Breath sustains all life but is itself sustained by something deeper — Brahman is 'the breath of the breath' as Part 1 declared."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "मातरिश्वन् — ब्रह्माण्ड के गर्भ में विकसित, सर्वव्यापी प्राण — यह नाम वायु की विशालता को दर्शाता है। फिर भी वह भगवान् को नहीं पहचान सका, क्योंकि व्यापकता और ज्ञान एक नहीं हैं।",
+        "en": "Mātariśvan — who grew in the cosmic womb, the all-pervading breath — this name shows Vayu's vastness. Yet he could not recognise the Lord, because pervasiveness is not the same as knowledge.",
+        "ins": "Being everywhere does not mean understanding everything. The Lord's self-revelation requires surrender, not the breadth of distribution."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "वायु प्राण है — वह शक्ति जो ब्रह्माण्ड में सर्वत्र व्याप्त है। किन्तु वह भी ब्रह्म को उसी तरह नहीं जान सकती जैसे लहर जल को नहीं जानती — दोनों एक हैं, पर लहर इसे जानती नहीं।",
+        "en": "Vayu is prāṇa — the force pervading the universe and carrying all energies. Yet even it cannot know Brahman, just as a wave cannot know water — they are one, but the wave does not know this.",
+        "ins": "Cosmic energy can carry the Transcendent but cannot know it from within its own perspective. Knowing requires a shift from energy to consciousness."
+      }
+    },
+    "dp": [
+      {"q": "🔍 Why does the story repeat the same pattern for Vayu?", "a": "Repetition in the Upanishads is never accidental — it is a <strong>teaching through structure</strong>. The Agni-test might be dismissed as a unique anomaly. The Vayu-test eliminates this escape. Where fire burns and transforms, wind carries and moves; together Agni and Vayu cover the two poles of physical-vital existence: transformation and transmission. If both fail, the result is structural, not incidental. The repetition makes the pattern unmistakable: no faculty-power, however comprehensive, can know Brahman by its own capacity."},
+      {"q": "🔍 What does Mātariśvan mean — and why is Vayu called this?", "a": "<strong>Mātariśvan</strong> is a mysterious Vedic epithet. The most common interpretation is 'he who swells or grows in the mother (mātari)' — the cosmic atmosphere being the universal mother. This makes Vayu the cosmic breath, the prāṇa that fills and animates the entire universe. His identity-claim is even broader than Agni's: 'I am the life of the universe.' The straw-test will show that even this universal pervasiveness cannot move Brahman's object — breadth of reach is not the same as the freedom of the Unconditioned."}
+    ]
+  },
+  {
+    "id": 16,
+    "sk": "तस्मिंस्त्वयि किं वीर्यमिति | इदं सर्वमाददीय यदिदं पृथिव्यामिति | तस्मै तृणं निदधौ | एतदाददस्वेति | तदुपप्रेयाय सर्वेण जवेन | तन्नाशकमादातुम् | स तत एव निववृते | नैतदशकं विज्ञातुं यदेतद्यक्षमिति |",
+    "ro": "tasmin · tvayī · kiṁ · vīryam · iti | idaṁ · sarvam · ādadīya · yad · idaṁ · pṛthivyām · iti | tasmai · tṛṇaṁ · nidadhau | etad · ādadasva · iti | tad · upaprejāya · sarveṇa · javena | tan · nāśakam · ādātum | sa · tata · eva · nivavṛte | na · etad · aśakaṁ · vijñātuṁ · yad · etad · yakṣam · iti |",
+    "hi": "यक्ष ने पूछा: 'तुममें क्या शक्ति है?' वायु ने कहा: 'मैं इस पृथ्वी पर जो कुछ भी है उसे उड़ा सकता हूँ।' यक्ष ने एक तृण रखा और बोला: 'इसे उड़ाओ।' वायु पूरी गति से उसकी ओर गया परन्तु उसे हिला न सका। वह वहीं से लौट आया — 'मैं यह नहीं जान सका कि यह यक्ष कौन है।'",
+    "en": "'What power is in you?' 'I can carry away all this that exists on earth.' The Yaksha placed a blade of grass before him: 'Carry this away.' He rushed at it with full speed. He was unable to move it. He returned from that very spot: 'I could not find out what this spirit (yakṣa) is.'",
+    "ws": [
+      {"s": "आददीय (ādadīya)", "h": "उठा सकता हूँ, ले जा सकता हूँ", "e": "I could carry away — potential (liṅ) 1st sg. of ā+√dā ('to take up, carry away')"},
+      {"s": "आददस्व (ādadasva)", "h": "इसे उठाओ", "e": "carry this away! — imperative 2nd sg. middle of ā+√dā"},
+      {"s": "नाशकम् आदातुम् (nāśakam ādātum)", "h": "उड़ा / हिला नहीं सका", "e": "was unable to carry — na + aśakam (neg. aorist of √śak) + ādātum (infinitive of ā+√dā)"}
+    ],
+    "gr": "<strong>ādadīya</strong> — potential mood (liṅ) of ā+√dā: mirrors Agni's 'daheyam' exactly — the same grammatical form, a parallel claim of capability. <strong>ādadasva</strong> — imperative middle 2nd sg.: 'pick it up for yourself!' Contrasts with Agni's 'daha' (active imperative): the grammar subtly varies while the test is identical. <strong>nāśakam ādātum</strong> — same defeat formula as Agni's 'na śaśāka dagdhum': unable to carry, just as Agni was unable to burn.",
+    "mt": "REVIEW_NEEDED: kena_upanishad_3.1 (begins Third Khanda) — Vayu's failure mirrors Agni's precisely. The double failure of fire and wind establishes beyond doubt that Brahman's enabling presence is the ground of all natural power. The next movement: Indra approaches the Yaksha — and it vanishes.",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "वायु का विफल होना सिद्ध करता है कि समस्त प्राणिक शक्ति ब्रह्म के आधार पर निर्भर है। 'नैतदशकं विज्ञातुम्' — 'मैं यह नहीं जान सका' — यह स्वीकारोक्ति ही प्रथम चरण है: अज्ञान की स्वीकृति, जो सच्चे विचार का प्रारम्भ है।",
+        "en": "Vayu's failure proves that all life-force also depends on Brahman as its ground. 'I could not find out' — this confession is itself the first step: acknowledging ignorance, which is the beginning of true inquiry.",
+        "ins": "Pride cannot learn; only the faculty that recognises its limit can be taught."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "वायु के लौटकर 'मैं नहीं जान सका' कहने में भगवान् का पाठ है — यह समर्पण की प्रथम झलक है। जो जानता है कि 'मैं नहीं जानता', वह ज्ञान की दिशा में मुड़ता है।",
+        "en": "In Vayu's return and confession — 'I could not find out' — lies the Lord's lesson: the first glimpse of surrender. One who knows 'I do not know' has turned toward knowledge.",
+        "ins": "Failure before the Lord, honestly acknowledged, is closer to truth than the gods' original pride in victory."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "अग्नि और वायु दोनों की विफलता — जलाने और उठाने की शक्तियाँ — दर्शाती है कि ब्रह्म भौतिक और प्राणिक स्तरों से परे है। अगला चरण है मन (इन्द्र) का — और वह भी सीधे नहीं पहुँच सका; उमा हैमवती — कृपा स्वयं — मार्ग दिखायेगी।",
+        "en": "The failure of both Agni and Vayu — the powers of burning and carrying — shows that Brahman transcends both the physical and vital levels. The next step is mind (Indra) — and even mind cannot reach directly; Uma Haimavati — grace itself — will point the way.",
+        "ins": "Transformation requires moving beyond both vital-physical and purely mental modes. Only grace — not effort — can open the final door."
+      }
+    },
+    "dp": [
+      {"q": "🔍 What does the double failure (Agni + Vayu) establish as a principle?", "a": "The two tests are complementary: <strong>Agni</strong> represents the power of transformation — burning, converting matter to energy, consuming what is offered. <strong>Vayu</strong> represents the power of transmission — carrying, moving, distributing energy through space. Together they cover the two fundamental modes of physical and vital power. When both fail to act on a single blade of grass, the Upanishad makes an absolute statement: <em>no natural power, however comprehensive, is self-sufficient</em>. Every natural power borrows its capacity from Brahman — the moment Brahman's enabling presence is absent, the power is inoperative."},
+      {"q": "🔍 Why does the Yaksha vanish when Indra approaches (in the next section)?", "a": "As Indra — the mind, the fastest and subtlest faculty — approaches, <strong>the Yaksha vanishes</strong>. This is the Upanishad's most precise teaching about mind and Brahman: the mind can draw near to Brahman, even feel its presence — but the moment the mind arrives <em>as the mind</em> (with its 'I am the knower' structure intact), Brahman is no longer there as an object. Brahman is never an object of the mind; it is the Subject that makes the mind possible. What remains after the Yaksha vanishes is a threshold — in that very space, a woman appears: <strong>Uma Haimavati</strong>, whose arrival means Brahman teaches through grace rather than through the faculties' own investigation."}
+    ]
+  }
+]
