@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "categories": [
+    {"id": "upanishad", "name": "उपनिषद्", "en": "Upanishads"}
+  ],
+  "texts": [
+    {
+      "id": "isha",
+      "category": "upanishad",
+      "name": "ईशावास्य",
+      "en": "Isha",
+      "icon": "☀️",
+      "color": "#C9A84C",
+      "veda": "Shukla Yajurveda",
+      "desc": "Divine immanence — renunciation & action",
+      "total": 18,
+      "files": ["isha.json"]
+    },
+    {
+      "id": "kena",
+      "category": "upanishad",
+      "name": "केन",
+      "en": "Kena",
+      "icon": "❓",
+      "color": "#9CC7D9",
+      "veda": "Samaveda",
+      "desc": "By whom is the mind directed? — inquiry into Brahman",
+      "total": 35,
+      "files": ["kena.json"]
+    },
+    {
+      "id": "katha",
+      "category": "upanishad",
+      "name": "कठ",
+      "en": "Katha",
+      "icon": "🔥",
+      "color": "#E8734A",
+      "veda": "Krishna Yajurveda",
+      "desc": "Nachiketa & Death — the secret of immortality",
+      "total": 118,
+      "files": ["katha_1_1.json", "katha_1_2.json", "katha_1_3.json", "katha_2_1.json", "katha_2_2.json", "katha_2_3.json"]
+    },
+    {
+      "id": "prashna",
+      "category": "upanishad",
+      "name": "प्रश्न",
+      "en": "Prashna",
+      "icon": "🙏",
+      "color": "#D4A574",
+      "veda": "Atharvaveda",
+      "desc": "Six questions on creation, Prana, mind & Purusha",
+      "total": 67,
+      "files": ["prashna_q1.json", "prashna_q2.json", "prashna_q3.json", "prashna_q4.json", "prashna_q5.json", "prashna_q6.json"]
+    },
+    {
+      "id": "mundaka",
+      "category": "upanishad",
+      "name": "मुण्डक",
+      "en": "Mundaka",
+      "icon": "🪒",
+      "color": "#B8860B",
+      "veda": "Atharvaveda",
+      "desc": "Two birds on one tree — Satyameva Jayate",
+      "total": 64,
+      "files": ["mundaka_1_1.json", "mundaka_1_2.json", "mundaka_2_1.json", "mundaka_2_2.json", "mundaka_3_1.json", "mundaka_3_2.json"]
+    },
+    {
+      "id": "mandukya",
+      "category": "upanishad",
+      "name": "माण्डूक्य",
+      "en": "Mandukya",
+      "icon": "🕉",
+      "color": "#C8956A",
+      "veda": "Atharvaveda",
+      "desc": "OM & four states of consciousness",
+      "total": 12,
+      "files": ["mandukya.json"]
+    },
+    {
+      "id": "taittiriya",
+      "category": "upanishad",
+      "name": "तैत्तिरीय",
+      "en": "Taittiriya",
+      "icon": "📿",
+      "color": "#8B7D6B",
+      "veda": "Krishna Yajurveda",
+      "desc": "Five sheaths — from food to bliss",
+      "total": 31,
+      "files": ["taittiriya_1a.json", "taittiriya_1b.json", "taittiriya_2a.json", "taittiriya_2b.json", "taittiriya_3.json"]
+    },
+    {
+      "id": "aitareya",
+      "category": "upanishad",
+      "name": "ऐतरेय",
+      "en": "Aitareya",
+      "icon": "🌱",
+      "color": "#A8D5A2",
+      "veda": "Rigveda",
+      "desc": "Creation of universe — Consciousness is Brahman",
+      "total": 33,
+      "files": ["aitareya.json"]
+    }
+  ]
+}
