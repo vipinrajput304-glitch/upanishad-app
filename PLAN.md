@@ -118,12 +118,12 @@ Every step is independently safe to stop at.
 - Validate all extracted JSONs match the content schema
 - Token cost: Medium | Risk: Zero (app unchanged)
 
-### Step 2 — Build catalog.json
+### Step 2 — Build catalog.json ✅ DONE
 - Master index of all texts: id, name, category, file list, mantra counts
 - Future-proofed with category field (upanishad / gita / etc.)
 - Token cost: Low | Risk: Zero (new file only)
 
-### Step 3a — New app shell: strip data, add loader
+### Step 3a — New app shell: strip data, add loader ✅ DONE
 - Create `index_v2.html` as copy of index.html
 - Remove all inline data arrays (ISHA, MANDUKYA, AITAREYA, KENA)
 - Add dynamic loader: fetch catalog.json on startup, load JSON on demand
