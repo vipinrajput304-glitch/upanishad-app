@@ -52,7 +52,7 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 .pg{height:2px;background:rgba(255,255,255,0.06);border-radius:1px;}
 .pgf{height:2px;background:linear-gradient(90deg,var(--gd),var(--g));border-radius:1px;transition:width 0.4s;}
 .mvb{padding:18px 14px 150px;max-width:720px;margin:0 auto;}
-.sk{background:var(--b4);border:1px solid rgba(214,168,79,.22);border-radius:18px;padding:26px 20px;margin-bottom:16px;position:relative;overflow:hidden;box-shadow:none;}
+.sk{background:var(--b4);border:1px solid rgba(214,168,79,.22);border-radius:18px;padding:28px 20px;margin-bottom:16px;position:relative;overflow:hidden;box-shadow:0 2px 20px rgba(0,0,0,.2);}
 .sk::before{content:'॥';position:absolute;top:8px;left:0;right:0;height:auto;background:none;color:rgba(214,168,79,.38);font-size:13px;text-align:center;letter-spacing:8px;}
 .skl{font-size:9px;letter-spacing:3px;color:var(--tf);text-transform:uppercase;margin-bottom:12px;}
 .skt{font-family:'Noto Sans Devanagari',serif;font-size:20px;color:var(--gl);line-height:2.35;text-align:center;white-space:pre-line;letter-spacing:.2px;}
@@ -72,12 +72,12 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 .ahl{background:rgba(201,168,76,0.12);border:1px solid rgba(201,168,76,0.25);border-radius:10px;padding:10px 14px;margin-bottom:12px;display:none;font-family:'Noto Sans Devanagari',serif;font-size:15px;color:var(--gl);text-align:center;line-height:1.8;}
 .ahl.on{display:block;}
 .tabs{display:flex;gap:5px;margin-bottom:14px;background:var(--b3);border:1px solid var(--br);border-radius:14px;padding:4px;}
-.tb{flex:1;padding:8px 4px;border:none;border-radius:10px;font-family:'Noto Sans Devanagari',serif;font-size:12px;cursor:pointer;background:none;color:var(--tf);transition:all 0.2s;}
-.tb.on{background:rgba(214,168,79,.12);color:var(--gl);outline:1px solid rgba(214,168,79,.28);}
+.tb{flex:1;padding:9px 4px;border:none;border-radius:10px;font-family:'Noto Sans Devanagari',serif;font-size:13px;cursor:pointer;background:none;color:var(--tf);transition:all 0.2s;font-weight:400;}
+.tb.on{background:rgba(214,168,79,.14);color:var(--gl);outline:1px solid rgba(214,168,79,.28);font-weight:500;}
 .pn{display:none;animation:fu 0.3s ease both;}.pn.on{display:block;}
 @keyframes fu{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:translateY(0);}}
-.mb2{background:var(--b3);border:1px solid var(--bs);border-radius:16px;padding:16px 14px;margin-bottom:12px;}
-.ml{font-size:9px;letter-spacing:3px;text-transform:uppercase;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid rgba(255,255,255,0.05);}
+.mb2{background:var(--b3);border:1px solid var(--bs);border-radius:16px;padding:18px 16px;margin-bottom:12px;}
+.ml{font-size:11px;letter-spacing:1px;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid rgba(255,255,255,0.05);font-weight:500;}
 .mhi{font-family:'Noto Sans Devanagari',serif;font-size:16px;line-height:2.15;color:var(--t);font-weight:300;}
 .men{font-family:'EB Garamond',serif;font-style:italic;font-size:17px;line-height:1.9;color:var(--td);}
 .me{padding:12px 14px;background:var(--b3);border:1px solid var(--bs);border-radius:12px;margin-top:4px;font-size:12px;color:var(--tf);font-family:'EB Garamond',serif;font-style:italic;line-height:1.7;}
@@ -89,7 +89,13 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 
 .meaning-section{margin-bottom:14px;}
 .trad-card{display:block!important;margin-bottom:12px;}
-.wnote{background:var(--b3);border:1px solid rgba(214,168,79,.16);border-radius:16px;padding:16px 16px;margin-bottom:12px;}
+.wnote{background:var(--b3);border:1px solid rgba(214,168,79,.16);border-radius:16px;padding:14px;margin-bottom:12px;}
+.wgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;}
+.wcard{background:rgba(214,168,79,.04);border:1px solid rgba(214,168,79,.12);border-radius:12px;padding:10px 12px;transition:border-color .2s;}
+.wcard:active{border-color:rgba(214,168,79,.3);}
+.wcard-sk{font-family:'Noto Sans Devanagari',serif;font-size:16px;color:var(--gl);font-weight:500;margin-bottom:4px;line-height:1.4;}
+.wcard-hi{font-family:'Noto Sans Devanagari',serif;font-size:13px;color:var(--t);line-height:1.5;margin-bottom:2px;}
+.wcard-en{font-family:'EB Garamond',serif;font-size:13px;color:var(--td);line-height:1.45;}
 .wflow{font-family:'Noto Sans Devanagari',serif;font-size:15px;line-height:2;color:var(--t);}
 .wflow.en{font-family:'EB Garamond',serif;font-size:16px;line-height:1.9;color:var(--td);}
 .wpair{display:inline;}
@@ -97,27 +103,34 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 .dash{color:var(--tf);}
 .sep{color:rgba(214,168,79,.42);padding:0 7px;}
 
-.gn{padding:14px;background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.15);border-radius:14px;margin-top:4px;}
+.gn{padding:14px;background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.15);border-radius:14px;margin-top:4px;position:relative;}
 .gnl{font-size:9px;letter-spacing:2px;color:var(--tf);text-transform:uppercase;margin-bottom:8px;}
 .gnt{font-size:13px;color:var(--td);font-family:'EB Garamond',serif;font-style:italic;line-height:1.8;}
 .gnt strong{color:var(--g);font-style:normal;}
+.gn-wrap{max-height:120px;overflow:hidden;transition:max-height .4s ease;}
+.gn-wrap.expanded{max-height:2000px;}
+.gn-fade{position:absolute;bottom:36px;left:0;right:0;height:40px;background:linear-gradient(transparent,rgba(201,168,76,0.06));pointer-events:none;transition:opacity .3s;}
+.gn-wrap.expanded+.gn-fade{opacity:0;}
+.gn-toggle{display:block;width:100%;border:none;background:none;color:var(--g);font-size:12px;cursor:pointer;padding:6px 0 0;font-family:'Crimson Pro',serif;letter-spacing:.5px;}
 .tt{display:flex;gap:6px;margin-bottom:14px;}
 .tbt{flex:1;padding:8px 4px;border-radius:20px;font-size:10px;cursor:pointer;font-family:'Noto Sans Devanagari',serif;transition:all 0.2s;text-align:center;line-height:1.4;}
 .ta{background:rgba(200,149,106,0.1);color:#C8956A;border:1px solid rgba(200,149,106,0.25);}.ta.on{background:rgba(200,149,106,0.25);border-color:#C8956A;}
 .tv{background:rgba(82,183,136,0.1);color:#52B788;border:1px solid rgba(82,183,136,0.25);}.tv.on{background:rgba(82,183,136,0.25);border-color:#52B788;}
 .tu{background:rgba(192,132,212,0.1);color:#C084D4;border:1px solid rgba(192,132,212,0.25);}.tu.on{background:rgba(192,132,212,0.25);border-color:#C084D4;}
 .cb{border-radius:18px;padding:18px 16px;display:none;animation:fu 0.3s ease both;}.cb.on{display:block;}
-.cba{font-size:10px;letter-spacing:2px;text-transform:uppercase;margin-bottom:12px;padding-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.06);}
+.cba{font-size:10px;letter-spacing:2px;text-transform:uppercase;margin-bottom:12px;padding-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.06);display:flex;align-items:center;gap:8px;}
+.cba::before{content:'';width:4px;height:4px;border-radius:50%;background:currentColor;flex-shrink:0;}
 .chi{font-family:'Noto Sans Devanagari',serif;font-size:14px;color:var(--t);line-height:2.1;margin-bottom:14px;font-weight:300;}
 .cen{font-family:'EB Garamond',serif;font-style:italic;font-size:15px;color:var(--td);line-height:1.9;padding-top:14px;border-top:1px solid rgba(255,255,255,0.05);}
 .ci2{margin-top:14px;padding:12px 14px;border-radius:10px;background:rgba(255,255,255,0.03);font-size:13px;font-family:'EB Garamond',serif;font-style:italic;line-height:1.7;border-left:3px solid;}
-.di{background:var(--b3);border:1px solid var(--bs);border-radius:14px;margin-bottom:10px;overflow:hidden;}
+.di{background:var(--b3);border:1px solid var(--bs);border-radius:14px;margin-bottom:10px;overflow:hidden;transition:border-color .2s;}
+.di.op{border-color:rgba(214,168,79,.22);}
 .dq{padding:14px 16px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:10px;}
-.dqt{font-size:13px;color:var(--t);line-height:1.4;flex:1;}
+.dqt{font-size:14px;color:var(--t);line-height:1.5;flex:1;}
 .da2{color:var(--g);font-size:13px;transition:transform 0.3s;flex-shrink:0;}
 .di.op .da2{transform:rotate(180deg);}
 .da{max-height:0;overflow:hidden;transition:max-height 0.4s ease;}.di.op .da{max-height:600px;}
-.dai{padding:0 16px 16px;border-top:1px solid rgba(255,255,255,0.05);padding-top:14px;font-size:13px;color:var(--td);line-height:2;}
+.dai{padding:0 16px 16px;border-top:1px solid rgba(255,255,255,0.05);padding-top:14px;font-size:14px;color:var(--td);line-height:2;}
 .dai strong{color:var(--g);}
 .pt{position:fixed;bottom:0;left:0;right:0;background:rgba(11,8,4,0.96);backdrop-filter:blur(8px);border-top:1px solid rgba(214,168,79,.20);padding:9px 14px 14px;z-index:100;box-shadow:none;}
 .pti{display:flex;align-items:center;gap:12px;max-width:480px;margin:0 auto;}
@@ -767,6 +780,10 @@ function renderMV(){
   renderBody(m);
 }
 
+function cleanSk(s){return s.replace(/\s*\([^)]*\)\s*/g,'').trim();}
+function truncWe(e){if(!e)return'';const plain=e.replace(/<[^>]+>/g,'');if(plain.length<=40)return e;const cut=plain.substring(0,plain.indexOf(' ',30)||40);return cut+'…';}
+function togGn(){const w=document.getElementById('gnw'),f=document.getElementById('gnf'),b=document.getElementById('gnt');if(!w)return;const ex=w.classList.toggle('expanded');b.textContent=ex?'कम देखें · Show less ▴':'और देखें · Show more ▾';if(f)f.style.opacity=ex?'0':'1';}
+
 function renderBody(m){
   const bars=Array.from({length:20},(_,i)=>`<div class="wb" id="wb${i}" style="height:${6+Math.round(Math.sin(i*0.7)*7+5)}px"></div>`).join('');
   const trads=['advaita','vishisht','aurobindo'];
@@ -807,39 +824,32 @@ function renderBody(m){
 </div>
 <div class="pn ${CTB==='meaning'?'on':''}" id="p-meaning">
   <div class="meaning-section">
-    <div class="lbl" style="padding-top:2px">हिंदी अर्थ · HINDI</div>
+    <div class="lbl" style="padding-top:2px">शब्दार्थ · WORD MEANINGS</div>
     ${m.ws&&m.ws.length?`
     <div class="wnote">
-      <div class="gnl">संस्कृत → हिंदी शब्दार्थ</div>
-      <div class="wflow">
-        ${m.ws.map((w,i)=>`<span class="wpair"><strong>${w.s}</strong><span class="dash"> — </span>${w.h}</span>${i<m.ws.length-1?'<span class="sep">॥</span>':''}`).join('')}
+      <div class="gnl">संस्कृत → हिंदी · English</div>
+      <div class="wgrid">
+        ${m.ws.map(w=>`<div class="wcard"><div class="wcard-sk">${cleanSk(w.s)}</div><div class="wcard-hi">${w.h}</div><div class="wcard-en">${truncWe(w.e)}</div></div>`).join('')}
       </div>
     </div>`:''}
+  </div>
+  <div class="meaning-section">
+    <div class="lbl" style="padding-top:2px">हिंदी अर्थ · HINDI</div>
     <div class="mb2"><div class="ml" style="color:var(--green)">हिंदी भावार्थ</div><div class="mhi">${m.hi}</div></div>
   </div>
-
   <div class="meaning-section">
     <div class="lbl" style="padding-top:6px">English Meaning</div>
-    ${m.ws&&m.ws.length?`
-    <div class="wnote">
-      <div class="gnl">Sanskrit → English word meaning</div>
-      <div class="wflow en">
-        ${m.ws.map((w,i)=>`<span class="wpair"><strong>${w.s}</strong><span class="dash"> — </span>${w.e}</span>${i<m.ws.length-1?'<span class="sep">॥</span>':''}`).join('')}
-      </div>
-    </div>`:''}
     <div class="mb2"><div class="ml" style="color:var(--g)">English full meaning</div><div class="men">${m.en}</div></div>
   </div>
-
-  ${m.mt?`<div class="me"><strong style="color:var(--gd)">छन्द · Metre:</strong> ${m.mt}</div>`:''}
-  ${m.gr?`<div class="gn"><div class="gnl">Grammatical Note</div><div class="gnt">${m.gr}</div></div>`:''}
+  ${m.mt&&!m.mt.includes('REVIEW_NEEDED')?`<div class="me"><strong style="color:var(--gd)">छन्द · Metre:</strong> ${m.mt}</div>`:''}
+  ${m.gr?`<div class="gn"><div class="gnl">व्याकरण · Grammatical Note</div><div class="gn-wrap" id="gnw"><div class="gnt">${m.gr}</div></div><div class="gn-fade" id="gnf"></div><button class="gn-toggle" id="gnt" onclick="togGn()" style="display:none">और देखें · Show more ▾</button></div>`:''}
 </div>
 <div class="pn ${CTB==='reflection'?'on':''}" id="p-reflection">
   <div class="lbl" style="padding-top:2px">परंपरा दृष्टि · TRADITION VIEWS</div>
   ${trads.map(t=>{
     const c=m.cm[t]||{};
-    const label=t==='advaita'?'अद्वैत':t==='vishisht'?'विशिष्टाद्वैत':'Integral View';
     return `<div class="cb on trad-card" style="background:${tbg[t]};border:1px solid ${tbd[t]}">
-      <div class="cba" style="color:${tcol[t]}">${c.a||''} · ${label}</div>
+      <div class="cba" style="color:${tcol[t]}">${c.a||''}</div>
       <div class="chi">${c.h||''}</div>
       <div class="cen">${c.en||''}</div>
       ${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}
@@ -850,6 +860,7 @@ function renderBody(m){
   :'<p style="padding:20px;text-align:center;color:var(--tf)">Coming soon</p>'}
 </div>`;
   initSp(m.sk);
+  if(CTB==='meaning')requestAnimationFrame(chkGn);
 }
 
 // ── SPEECH — safe wrapper ──
@@ -900,7 +911,8 @@ function setSpd(s,btn){SS=s;document.querySelectorAll('.ab:not(#rbtn)').forEach(
 function togRep(btn){SR=!SR;btn.classList.toggle('on',SR);btn.textContent=SR?'🔁 Repeat: On':'🔁 Repeat: Off';}
 
 // ── UI INTERACTIONS ──
-function swTab(t){CTB=t;document.querySelectorAll('.tb').forEach(b=>b.classList.remove('on'));document.querySelectorAll('.pn').forEach(p=>p.classList.remove('on'));document.querySelector(`.tb[onclick="swTab('${t}')"]`)?.classList.add('on');document.getElementById('p-'+t)?.classList.add('on');}
+function swTab(t){CTB=t;document.querySelectorAll('.tb').forEach(b=>b.classList.remove('on'));document.querySelectorAll('.pn').forEach(p=>p.classList.remove('on'));document.querySelector(`.tb[onclick="swTab('${t}')"]`)?.classList.add('on');document.getElementById('p-'+t)?.classList.add('on');if(t==='meaning')requestAnimationFrame(chkGn);}
+function chkGn(){const w=document.getElementById('gnw'),b=document.getElementById('gnt');if(w&&b&&w.scrollHeight>130)b.style.display='block';}
 function swTr(t){CTR=t;document.querySelectorAll('.tbt').forEach(b=>b.classList.remove('on'));document.querySelectorAll('.cb').forEach(b=>b.classList.remove('on'));document.querySelector(`.tbt[onclick="swTr('${t}')"]`)?.classList.add('on');document.getElementById('cb-'+t)?.classList.add('on');}
 function tD(i){document.getElementById('di'+i)?.classList.toggle('op');}
 function doBk(){const saved=tBD(CU.id,CMI);document.getElementById('bkb').style.opacity=saved?'1':'0.4';toast(saved?'🔖 Saved!':'Bookmark removed');}
