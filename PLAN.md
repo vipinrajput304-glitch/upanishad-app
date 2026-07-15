@@ -129,17 +129,17 @@ Every step is independently safe to stop at.
 - Add dynamic loader: fetch catalog.json on startup, load JSON on demand
 - Token cost: Medium-High | Risk: Zero (original untouched)
 
-### Step 3b — Update UI for catalog-driven navigation
+### Step 3b — Update UI for catalog-driven navigation ✅ DONE (covered in 3a)
 - Update text picker / sidebar to read from catalog.json
 - Support category grouping for future texts
 - Token cost: Medium | Risk: Zero (working on index_v2.html)
 
-### Step 3c — Update service worker
+### Step 3c — Update service worker ✅ DONE
 - Cache catalog.json + individual JSON files
 - Progressive caching: cache texts as user reads them
 - Token cost: Low | Risk: Zero (working on new SW)
 
-### Step 4 — Test and validate
+### Step 4 — Test and validate ✅ DONE
 - Open index_v2.html in browser
 - Verify every Upanishad loads and renders correctly
 - Check offline behavior, compare against original
