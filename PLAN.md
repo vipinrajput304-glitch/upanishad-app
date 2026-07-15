@@ -145,7 +145,7 @@ Every step is independently safe to stop at.
 - Check offline behavior, compare against original
 - Token cost: Low | Risk: Zero
 
-### Step 5 — Swap
+### Step 5 — Swap ✅ DONE
 - index.html → index_legacy.html (backup)
 - index_v2.html → index.html
 - Commit and push
