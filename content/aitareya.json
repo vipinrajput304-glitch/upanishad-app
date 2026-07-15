@@ -1,0 +1,2186 @@
+[
+  {
+    "id": 1,
+    "adhyaya": "अध्याय १ — सृष्टि (Creation)",
+    "sk": "ॐ आत्मा वा इदमेक एवाग्र आसीत् ।\nनान्यत्किञ्च मिषत् ।\nस ईक्षत लोकान्नु सृजा इति ॥",
+    "ro": "Om ātmā vā idameka evāgra āsīt · nānyatkiñca miṣat · sa īkṣata lokānnu sṛjā iti",
+    "hi": "आरंभ में यह आत्मा ही एकमात्र था — कुछ और आँख खोले भी नहीं था। उसने विचार किया: 'लोकों की रचना करूँ।'",
+    "en": "In the beginning this was the Self alone — nothing else whatsoever blinked. He thought: 'Let me create the worlds.'",
+    "ws": [
+      {
+        "s": "आत्मा",
+        "h": "आत्मा / स्वयं",
+        "e": "the Self, Atman"
+      },
+      {
+        "s": "एकः एव",
+        "h": "एकमात्र",
+        "e": "one alone"
+      },
+      {
+        "s": "अग्रे",
+        "h": "आरंभ में",
+        "e": "in the beginning"
+      },
+      {
+        "s": "न मिषत्",
+        "h": "आँख नहीं खोला",
+        "e": "nothing blinked, nothing stirred"
+      },
+      {
+        "s": "ईक्षत",
+        "h": "देखा / विचार किया",
+        "e": "saw, thought, willed"
+      },
+      {
+        "s": "लोकान् सृजा",
+        "h": "लोकों की रचना करूँ",
+        "e": "let me create the worlds"
+      }
+    ],
+    "gr": "<strong>ईक्षत</strong> — from iksh (to see, to envision). Creation begins with divine seeing — consciousness is primary, not an accident. <strong>मिषत्</strong> = blinked, stirred. Before creation — absolute stillness.",
+    "mt": "Prose (गद्य) — Aitareya is written entirely in prose · Rigveda tradition",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य · Adi Shankaracharya",
+        "h": "आत्मा ही एकमात्र था — यह अद्वैत का आधार है। सृष्टि से पहले केवल ब्रह्म। सृष्टि ब्रह्म में, ब्रह्म से, ब्रह्म का। जैसे मकड़ी जाल बुनती है अपने से — वैसे ब्रह्म सृष्टि बुनता है।",
+        "en": "The Self alone was — foundation of Advaita. Before creation, only Brahman. Creation is in, from, and of Brahman — like a spider spinning its web from itself.",
+        "ins": "सृष्टि से पहले भी, सृष्टि में भी, सृष्टि के बाद भी — वही ब्रह्म।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "ईश्वर ने 'देखा' — उसकी इच्छा और संकल्प से सृष्टि हुई। यह personal God का सृष्टि-कार्य है — जानबूझकर, प्रेम से।",
+        "en": "God 'saw/willed' — creation arose from His intention and love. The creative act of a personal God — deliberate, purposeful.",
+        "ins": "सृष्टि ईश्वर की स्वतंत्र इच्छा का प्रकटन है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद · Sri Aurobindo",
+        "h": "'ईक्षत' = conscious vision. सृष्टि blind force से नहीं — divine consciousness से हुई। Consciousness creates reality — matter consciousness का product है।",
+        "en": "'Ikshata' = conscious vision. Creation did not arise from blind force but divine consciousness. Consciousness is primary — matter is its product.",
+        "ins": "Consciousness is not a by-product of matter — matter is a product of consciousness."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌌 क्या सृष्टि से पहले कुछ था?",
+        "a": "ऐतरेय कहती है: <strong>आत्मा एकमात्र था।</strong> न अंधकार, न प्रकाश, न काल, न आकाश — केवल शुद्ध चेतना। जैसे सोने में अंगूठी बनने से पहले कोई shape नहीं — पर सोना था।"
+      },
+      {
+        "q": "👁 'ईक्षत' — देखना ही सृष्टि है?",
+        "a": "हाँ। ब्रह्म ने 'देखा/सोचा' और सृष्टि हुई। Quantum physics का observer effect: <strong>observer बिना, observed नहीं।</strong> Aitareya ने यही 3000 वर्ष पहले कहा।"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "adhyaya": "अध्याय १",
+    "sk": "स इमाँल्लोकानसृजत ।\nअम्भो मरीचीर्मरमापश्च ।\nअम्भः परेण दिवं द्यौः प्रतिष्ठान्तरिक्षं मरीचयः ।\nपृथिवी मरो याः स्यन्दन्त्यधस्तात् ता आपः ॥",
+    "ro": "Sa iman lokān asrjat · ambho marīcīrmaramāpaśca · ambhaḥ pareṇa divaṃ dyauḥ pratiṣṭhā ntarikṣaṃ marīcayaḥ · pṛthivī maro yāḥ syandanty adhastāt tā āpaḥ",
+    "hi": "उसने इन लोकों की रचना की: अम्भ, मरीचि, मर और आप। अम्भ द्युलोक से परे है। मरीचियाँ अन्तरिक्ष हैं। पृथ्वी मर है। जो नीचे बहती हैं वे आप हैं।",
+    "en": "He created these worlds: Ambha, Marichis, Mara, and Apa. Ambha is beyond heaven. The Marichis are the atmosphere. Mara is the earth. The waters flowing below are Apa.",
+    "ws": [
+      {
+        "s": "अम्भः",
+        "h": "ऊपर का जल / स्वर्गलोक",
+        "e": "waters above, heaven"
+      },
+      {
+        "s": "मरीचयः",
+        "h": "किरणें / अन्तरिक्ष",
+        "e": "rays, atmosphere"
+      },
+      {
+        "s": "मरः",
+        "h": "पृथ्वी / मृत्युलोक",
+        "e": "earth, mortal world"
+      },
+      {
+        "s": "आपः",
+        "h": "नीचे का जल",
+        "e": "waters below"
+      },
+      {
+        "s": "असृजत",
+        "h": "रचना की",
+        "e": "created, manifested"
+      }
+    ],
+    "gr": "Four cosmic levels — one of the earliest <strong>systematic cosmological models</strong> in Indian literature. Not mythological but a structured layering of cosmic reality.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "यह ब्रह्म से जगत् की step-by-step अभिव्यक्ति है — like a spider spinning its web from itself.",
+        "en": "Step-by-step manifestation from Brahman. Creation is in, of, and from Brahman alone.",
+        "ins": "सृष्टि ब्रह्म का विस्तार है — ब्रह्म से अलग नहीं।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ईश्वर ने विभिन्न लोकों की रचना की — यह उसकी विभूति है। सृष्टि divine glory का प्रकाश है।",
+        "en": "God created the various worlds — His vibhuti. Creation is the shining of divine magnificence.",
+        "ins": "जगत् ईश्वर की महिमा का दर्पण है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "यह involution का वर्णन है — Spirit से matter तक उतरना। Evolution = matter से Spirit तक वापस। यही Integral Yoga की foundation है।",
+        "en": "This describes involution — Spirit descending into matter. Evolution = matter ascending back to Spirit.",
+        "ins": "Creation is Spirit's adventure into matter — evolution is its return."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌍 चार लोक और आधुनिक विज्ञान",
+        "a": "<strong>अम्भ</strong> = cosmic space beyond sky · <strong>मरीचि</strong> = atmosphere · <strong>मर</strong> = earth · <strong>आप</strong> = hydrosphere. This maps surprisingly well to modern cosmological layers."
+      },
+      {
+        "q": "🔄 Involution और Evolution",
+        "a": "Spirit → Mind → Life → Matter (involution). Matter → Life → Mind → Spirit (evolution). <strong>मनुष्य इस evolution का अग्रदूत है।</strong>"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "adhyaya": "अध्याय १",
+    "sk": "स इमाँल्लोकानभिध्यायत् ।\nतेभ्योऽभिध्यातेभ्यः सलिलमेव सृष्टम् ।\nतस्माद्यत्र क्व च शोचति स्वेदते वा पुरुषः तत्र सलिलमेव सम्भवति ॥",
+    "ro": "Sa iman lokān abhidhyāyat · tebhyo'bhidhyātebhyaḥ salilameva sṛṣṭam · tasmādyatra kva ca śocati svedatevā puruṣaḥ tatra salilameva sambhavati",
+    "hi": "उसने इन लोकों का ध्यान किया। ध्यान से जल उत्पन्न हुआ। इसीलिए जहाँ भी मनुष्य शोक करता है या पसीना बहाता है — वहाँ जल ही उत्पन्न होता है।",
+    "en": "He meditated upon these worlds. From that meditation, water alone was created. Therefore wherever a person grieves or perspires — water alone comes forth.",
+    "ws": [
+      {
+        "s": "अभिध्यायत्",
+        "h": "ध्यान किया / तप किया",
+        "e": "meditated upon, contemplated"
+      },
+      {
+        "s": "सलिलम्",
+        "h": "जल",
+        "e": "water"
+      },
+      {
+        "s": "शोचति",
+        "h": "शोक करता है",
+        "e": "grieves"
+      },
+      {
+        "s": "स्वेदते",
+        "h": "पसीना बहाता है",
+        "e": "perspires, sweats"
+      }
+    ],
+    "gr": "Remarkable: grief and perspiration both produce water from the body. Cosmic meditation and human emotion are connected. <strong>अभिध्यायत्</strong> = prolonged, intense meditation.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "ध्यान (तप) से सृष्टि — ब्रह्म की creative power का वर्णन। मनुष्य में भी वही शक्ति है — जब वह शोक या श्रम करता है, जल उत्पन्न होता है।",
+        "en": "Creation through meditation — Brahman's creative power. The same power exists in humans — when they grieve or labor, water comes forth.",
+        "ins": "ब्रह्म की शक्ति मनुष्य में भी है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ईश्वर का ध्यान = उसकी इच्छाशक्ति। जल = जीवन का मूल। मनुष्य में आँसू और पसीना — cosmic water का microcosmic reflection है।",
+        "en": "God's meditation = His divine will. Human tears and sweat are microcosmic reflections of cosmic water.",
+        "ins": "Macrocosm and microcosm mirror each other perfectly."
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "यह macrocosm-microcosm identity को दिखाता है। ब्रह्म के ध्यान से जल — मनुष्य के शोक से जल। As above, so below.",
+        "en": "This reveals macrocosm-microcosm identity. From Brahman's meditation — water. From human grief — water. As above, so below.",
+        "ins": "As above, so below — the universe and the person share the same pattern."
+      }
+    },
+    "dp": [
+      {
+        "q": "💧 ध्यान से जल कैसे?",
+        "a": "ब्रह्म का ध्यान = cosmic tapa = heat = water vapor = जल। मनुष्य में: शोक = inner heat = आँसू। पसीना = physical heat = water। <strong>Energy to Water</strong> का cosmic pattern।"
+      },
+      {
+        "q": "🤔 क्या भावनाएँ cosmic हैं?",
+        "a": "हाँ। मनुष्य के आँसू और ब्रह्म की सृष्टि में एक ही principle काम कर रहा है। <strong>Human emotions are cosmic echoes.</strong>"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "adhyaya": "अध्याय १",
+    "sk": "तेभ्यो वा एतेभ्यो जलेभ्यः पुरुषमेवाभ्यदुद्रुहत् ।\nतं समुद्रमेव समन्वैत ।\nतमभ्यध्यायत् ।\nतस्याभिध्यातस्यास्यं निरभिद्यत ॥",
+    "ro": "Tebhyo vā etebhyo jalebhyaḥ puruṣamevābhyadudruhat · taṃ samudrameva samanvait · tamabhyadhyāyat · tasyābhidhyātasyāsyaṃ nirabhidyata",
+    "hi": "उन जलों से एक पुरुष (हिरण्यगर्भ) निकला। वह समुद्र में गया। ब्रह्म ने उसका ध्यान किया। ध्यान किए जाने पर उसका मुख फट गया।",
+    "en": "From those waters a Person (Hiranyagarbha) emerged. He moved into the ocean. Brahman meditated upon him. Being meditated upon, his mouth split open.",
+    "ws": [
+      {
+        "s": "जलेभ्यः",
+        "h": "जलों से",
+        "e": "from the waters"
+      },
+      {
+        "s": "पुरुषम्",
+        "h": "पुरुष / हिरण्यगर्भ",
+        "e": "Person, Hiranyagarbha"
+      },
+      {
+        "s": "अभ्यदुद्रुहत्",
+        "h": "निकला / उभरा",
+        "e": "emerged, appeared"
+      },
+      {
+        "s": "समुद्रम्",
+        "h": "समुद्र में",
+        "e": "into the ocean"
+      },
+      {
+        "s": "आस्यम् निरभिद्यत",
+        "h": "मुख फट गया",
+        "e": "mouth split open"
+      }
+    ],
+    "gr": "<strong>पुरुष</strong> = Hiranyagarbha (Golden Womb) — the first cosmic being, universal soul. <strong>आस्यम् निरभिद्यत</strong> = opening of organs — emergence of speech and faculties.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "हिरण्यगर्भ = सगुण ब्रह्म का पहला प्रकटन। जल से पुरुष का निकलना = consciousness का matter में प्रवेश। मुख का खुलना = speech (वाक्) का प्रादुर्भाव।",
+        "en": "Hiranyagarbha = first manifestation of saguna Brahman. Person emerging from water = consciousness entering matter. Mouth opening = emergence of speech.",
+        "ins": "Consciousness descends into form — and form opens to express consciousness."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "हिरण्यगर्भ = ईश्वर का पहला सगुण रूप। ब्रह्म के ध्यान से जीव में indriyas विकसित होती हैं।",
+        "en": "Hiranyagarbha = God's first personal form. Through God's meditation, the soul develops its faculties.",
+        "ins": "ईश्वर की कृपा से ही जीव में शक्तियाँ विकसित होती हैं।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Evolution के steps: Water (matter) → Person (life+consciousness) → Speech (mind). Involution की reverse journey।",
+        "en": "Steps of evolution: Water (matter) → Person (life+consciousness) → Speech (mind). The reverse of Involution.",
+        "ins": "Each opening of a faculty is a step in consciousness's evolution."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌊 हिरण्यगर्भ कौन है?",
+        "a": "<strong>हिरण्यगर्भ</strong> = Golden Womb/Egg। ब्रह्म का first cosmic manifestation — जब निराकार ब्रह्म पहली बार 'रूप' लेता है। Rig Veda (10.121) में भी वर्णित। यह cosmic consciousness का embodiment है।"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "adhyaya": "अध्याय १",
+    "sk": "तस्माद्वाचो वाग्निर्जायते ।\nनासिके निरभिद्येतां ।\nनासिकाभ्यां प्राणः ।\nप्राणाद्वायुर्जायते ॥",
+    "ro": "Tasmādvāco vāgnirjāyate · nāsike nirabhidyetāṃ · nāsikābhyāṃ prāṇaḥ · prāṇādvāyurjāyate",
+    "hi": "वाणी से अग्नि उत्पन्न हुई। दोनों नासिकाएँ फट गईं। नासिकाओं से प्राण। प्राण से वायु उत्पन्न हुई।",
+    "en": "From speech, Agni (fire) was born. The two nostrils split open. From the nostrils came Prana. From Prana, Vayu (wind) was born.",
+    "ws": [
+      {
+        "s": "वाचः",
+        "h": "वाणी से",
+        "e": "from speech"
+      },
+      {
+        "s": "अग्निः",
+        "h": "अग्नि",
+        "e": "Agni, fire"
+      },
+      {
+        "s": "नासिके",
+        "h": "दोनों नासिकाएँ",
+        "e": "the two nostrils"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण",
+        "e": "Prana, life-force"
+      },
+      {
+        "s": "वायुः",
+        "h": "वायु",
+        "e": "Vayu, wind"
+      }
+    ],
+    "gr": "Pattern: organ opens → faculty emerges → cosmic deity born. Speech → Fire, Nostrils → Prana → Wind. This is <strong>Bandhu</strong> (connection) — the Vedic science of cosmic-individual correspondences.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "प्रत्येक इन्द्रिय एक देव से corresponds करती है। वाक् → अग्नि। प्राण → वायु। यह देह में ब्रह्म की cosmic powers का वास है।",
+        "en": "Each organ corresponds to a cosmic deity. Speech → Fire. Prana → Wind. The body houses cosmic powers of Brahman.",
+        "ins": "देह देवालय है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "देवगण जीव के organs में निवास करते हैं — ईश्वर की व्यवस्था से। इसीलिए देह 'देवालय' है।",
+        "en": "The devas dwell in the individual's organs — by God's arrangement. Hence the body is a temple.",
+        "ins": "देहो देवालयः — the body is God's temple."
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "प्रत्येक organ एक cosmic force का concentration है। Speech = fire of consciousness. Prana = life-force. यह body को cosmos में embed करता है।",
+        "en": "Each organ is a concentration of a cosmic force. This embeds the human body in the cosmos.",
+        "ins": "The human body is a microcosm of the cosmos."
+      }
+    },
+    "dp": [
+      {
+        "q": "🔥 वाणी और अग्नि का संबंध क्यों?",
+        "a": "अग्नि = transforming power। वाणी भी transform करती है — raw thought को expressed meaning में। दोनों <strong>make the invisible visible</strong>। इसीलिए अग्नि वाणी का देव है।"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "adhyaya": "अध्याय १",
+    "sk": "अक्षिणी निरभिद्येतां ।\nअक्षिभ्यां चक्षुः ।\nचक्षुषः सूर्यो जायते ।\nकर्णौ निरभिद्येतां ।\nकर्णाभ्यां श्रोत्रम् ।\nश्रोत्राद्दिशो जायन्ते ॥",
+    "ro": "Akṣiṇī nirabhidyetāṃ · akṣibhyāṃ cakṣuḥ · cakṣuṣaḥ sūryo jāyate · karṇau nirabhidyetāṃ · karṇābhyāṃ śrotram · śrotrāddiso jāyante",
+    "hi": "दोनों आँखें फट गईं। आँखों से दृष्टि। दृष्टि से सूर्य उत्पन्न हुआ। दोनों कान फट गए। कानों से श्रवण-शक्ति। श्रवण-शक्ति से दिशाएँ उत्पन्न हुईं।",
+    "en": "The two eyes split open. From the eyes came sight. From sight, the Sun was born. The ears split open. From the ears came hearing. From hearing, the Directions were born.",
+    "ws": [
+      {
+        "s": "अक्षिणी",
+        "h": "दोनों आँखें",
+        "e": "the two eyes"
+      },
+      {
+        "s": "चक्षुः",
+        "h": "दृष्टि",
+        "e": "sight, vision"
+      },
+      {
+        "s": "सूर्यः",
+        "h": "सूर्य",
+        "e": "the Sun"
+      },
+      {
+        "s": "कर्णौ",
+        "h": "दोनों कान",
+        "e": "the two ears"
+      },
+      {
+        "s": "श्रोत्रम्",
+        "h": "श्रवण-शक्ति",
+        "e": "hearing"
+      },
+      {
+        "s": "दिशः",
+        "h": "दिशाएँ",
+        "e": "the Directions"
+      }
+    ],
+    "gr": "Eyes → Sight → Sun. Ears → Hearing → Directions. This is Vedic <strong>Bandhu science</strong> — the deep correspondence between individual faculties and cosmic forces.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "नेत्र और सूर्य में अभिन्नता है। श्रोत्र और दिशाओं में। यह bandhu = cosmic-individual correspondence है।",
+        "en": "Eyes and Sun are identical in nature. Hearing and Directions are identical. This is bandhu — cosmic-individual correspondence.",
+        "ins": "आत्मा और ब्रह्म का correspondence सृष्टि के हर स्तर पर है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "सूर्य = नेत्र का अधिष्ठातृ देव। दिशाएँ = कान का अधिष्ठातृ देव। ईश्वर ने यह व्यवस्था की।",
+        "en": "Sun = presiding deity of the eyes. Directions = presiding deity of ears. God arranged this cosmic order.",
+        "ins": "हर इन्द्रिय का एक cosmic counterpart है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "हर human faculty में एक cosmic dimension है। जब हम देखते हैं — वह सूर्य की शक्ति है हम में। जब सुनते हैं — वह दिशाओं की शक्ति।",
+        "en": "Every human faculty has a cosmic dimension. When we see — it is the Sun's power in us. When we hear — the Directions' power.",
+        "ins": "Human perception is cosmic power concentrated in individual form."
+      }
+    },
+    "dp": [
+      {
+        "q": "☀️ आँख और सूर्य एक क्यों?",
+        "a": "Rig Veda: <strong>सूर्यो यत्र चक्षुः</strong>। Outer light (sun) और inner light (vision) एक ही cosmic force के दो रूप हैं। इसीलिए मृत्यु के बाद कहते हैं: 'नेत्र सूर्य में जाते हैं।'"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "adhyaya": "अध्याय १",
+    "sk": "त्वग्निरभिद्यत ।\nत्वचो रोमाणि ।\nरोमभ्य ओषधिवनस्पतयो जायन्ते ।\nहृदयं निरभिद्यत ।\nहृदयान्मनः ।\nमनसश्चन्द्रमा जायते ॥",
+    "ro": "Tvagnirabhidyata · tvaco romāṇi · romabhya oṣadhivanaspatayo jāyante · hṛdayaṃ nirabhidyata · hṛdayānmanaḥ · manasaścandramā jāyate",
+    "hi": "त्वचा फट गई। त्वचा से रोम (बाल)। रोमों से ओषधियाँ और वनस्पतियाँ उत्पन्न हुईं। हृदय फट गया। हृदय से मन। मन से चन्द्रमा उत्पन्न हुआ।",
+    "en": "The skin split open. From skin came hair. From hair, plants and trees were born. The heart split open. From heart came mind. From mind, the Moon was born.",
+    "ws": [
+      {
+        "s": "त्वक्",
+        "h": "त्वचा",
+        "e": "skin"
+      },
+      {
+        "s": "रोमाणि",
+        "h": "रोम / बाल",
+        "e": "hair"
+      },
+      {
+        "s": "ओषधिवनस्पतयः",
+        "h": "ओषधियाँ और वनस्पतियाँ",
+        "e": "plants and trees"
+      },
+      {
+        "s": "हृदयम्",
+        "h": "हृदय",
+        "e": "heart"
+      },
+      {
+        "s": "मनः",
+        "h": "मन",
+        "e": "mind"
+      },
+      {
+        "s": "चन्द्रमाः",
+        "h": "चन्द्रमा",
+        "e": "the Moon"
+      }
+    ],
+    "gr": "<strong>हृदयान्मनः</strong> — Mind arises from the heart. Vedic psychology locates mind in heart, not brain. <strong>मनसश्चन्द्रमा</strong> — Moon = mind's cosmic counterpart (both reflect, both wax and wane).",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "मन = हृदय से। चन्द्रमा = मन का देव। मन चन्द्रमा की तरह है — waxing and waning, reflecting not generating light.",
+        "en": "Mind arises from the heart. Moon = mind's presiding deity. The mind is like the Moon — it reflects, does not generate.",
+        "ins": "मन प्रकाश नहीं — प्रकाश का दर्पण है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "चन्द्रमा मन का देव है। इसीलिए पूर्णिमा को मन अधिक active होता है। ईश्वर ने यह cosmic order बनाया है।",
+        "en": "The Moon governs the mind. Hence the mind is more active on full moon nights — by God's cosmic order.",
+        "ins": "चन्द्र-मन का संबंध ईश्वर की व्यवस्था है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "त्वचा → वनस्पति: skin connects us to nature. Heart → Mind: feeling precedes thinking — emotion is the ground of intellect.",
+        "en": "Skin → plants: we share the same outer covering with nature. Heart → Mind: feeling precedes thinking — emotion grounds intellect.",
+        "ins": "Feeling is more primary than thought — the heart generates the mind."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌙 मन और चन्द्रमा का संबंध",
+        "a": "दोनों की समानता: (१) Reflected light (२) Waxing-waning (३) Both are connected to water and tides. <strong>इसीलिए चन्द्रमा = मन का cosmic symbol।</strong>"
+      },
+      {
+        "q": "❤️ 'हृदयान्मनः' — मन हृदय से क्यों?",
+        "a": "Modern neuroscience: heart में neurons हैं — 'heart-brain connection'। Vedic wisdom 3000 साल पहले: <strong>मन का source हृदय है।</strong> Feeling precedes thinking."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "adhyaya": "अध्याय १",
+    "sk": "नाभिर्निरभिद्यत ।\nनाभ्या अपानः ।\nअपानान्मृत्युर्जायते ।\nशिश्नं निरभिद्यत ।\nशिश्नाद्रेतः ।\nरेतस आपो जायन्ते ॥",
+    "ro": "Nābhirnirabhidyata · nābhyā apānaḥ · apānānmṛtyurjāyate · śiśnaṃ nirabhidyata · śiśnādrētaḥ · retasa āpo jāyante",
+    "hi": "नाभि फट गई। नाभि से अपान। अपान से मृत्यु उत्पन्न हुई। शिश्न फट गया। शिश्न से रेत (वीर्य)। वीर्य से जल उत्पन्न हुए।",
+    "en": "The navel split open. From the navel came Apana. From Apana, Death was born. The generative organ split open. From it came semen. From semen, waters were born.",
+    "ws": [
+      {
+        "s": "नाभिः",
+        "h": "नाभि",
+        "e": "navel"
+      },
+      {
+        "s": "अपानः",
+        "h": "अपान — नीचे की वायु",
+        "e": "Apana: downward breath"
+      },
+      {
+        "s": "मृत्युः",
+        "h": "मृत्यु",
+        "e": "Death"
+      },
+      {
+        "s": "रेतः",
+        "h": "वीर्य / रेत",
+        "e": "semen, generative fluid"
+      },
+      {
+        "s": "आपः",
+        "h": "जल",
+        "e": "waters"
+      }
+    ],
+    "gr": "<strong>अपानान्मृत्युः</strong> — Apana (downward breath) is linked to Death. Apana governs elimination and dissolution. The cycle: Water → Life → Death → Water.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "नाभि → अपान → मृत्यु: dissolution का cosmic chain। जो नीचे जाता है वह मृत्यु की दिशा है। यही samsara का चक्र है।",
+        "en": "Navel → Apana → Death: the chain of dissolution. What goes downward is in the direction of death. This is the cycle of samsara.",
+        "ins": "अपान = dissolution की शक्ति।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "मृत्यु भी ईश्वर की creation है — dissolution के लिए। Creation-Sustenance-Dissolution तीनों ईश्वर की लीला हैं।",
+        "en": "Death too is God's creation — for dissolution. Creation, Sustenance, Dissolution — all are God's divine play.",
+        "ins": "मृत्यु ईश्वर की शक्ति है — शत्रु नहीं।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Apana = the force of going back — dissolution, return to source. Death is not the end but the return. Water to Life to Death to Water — cosmic cycle.",
+        "en": "Apana = the force of return. Death is not the end but the transformer. Water → Life → Death → Water — the cosmic cycle.",
+        "ins": "Death is not the enemy of life — it is its transformer."
+      }
+    },
+    "dp": [
+      {
+        "q": "💀 'अपानान्मृत्युः' — श्वास और मृत्यु",
+        "a": "अपान = नीचे जाने वाली वायु। यह शरीर से बाहर धकेलती है। अंतिम श्वास में अपान प्राण को बाहर धकेलता है — <strong>यही मृत्यु है।</strong> प्राणायाम में अपान को control = मृत्यु पर नियंत्रण।"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "adhyaya": "अध्याय २ — देवों का प्रश्न",
+    "sk": "तानि वा एतानि देवताः सृष्टा अस्मिन्महत्यर्णव आपतन् ।\nतं क्षुत्पिपासाभ्यामन्ववार्जत ।\nता एनमब्रुवन् आयतनं नः प्रजानीहि यस्मिन्प्रतिष्ठिता अन्नमदामेति ॥",
+    "ro": "Tāni vā etāni devatāḥ sṛṣṭā asminmahaty arṇava āpatan · taṃ kṣutpipāsābhyāmanvavārjat · tā enamabravān āyatanaṃ naḥ prajānīhi yasminpratiṣṭhitā annamadāmeti",
+    "hi": "वे उत्पन्न देवगण इस महान समुद्र में गिरे। ब्रह्म ने उन्हें भूख और प्यास से घेरा। उन्होंने उससे कहा: 'हमें एक आश्रय-स्थान बताओ जिसमें प्रतिष्ठित होकर हम अन्न खाएँ।'",
+    "en": "Those created deities fell into this great ocean. Brahman surrounded them with hunger and thirst. They said: 'Point out a dwelling for us in which we may be established and eat food.'",
+    "ws": [
+      {
+        "s": "देवताः",
+        "h": "देवगण",
+        "e": "the deities, cosmic forces"
+      },
+      {
+        "s": "महत् अर्णवे",
+        "h": "महान समुद्र में",
+        "e": "into the great ocean"
+      },
+      {
+        "s": "क्षुत्-पिपासाभ्याम्",
+        "h": "भूख और प्यास से",
+        "e": "by hunger and thirst"
+      },
+      {
+        "s": "आयतनम्",
+        "h": "आश्रय-स्थान",
+        "e": "dwelling, abode"
+      },
+      {
+        "s": "अन्नम् अदाम",
+        "h": "अन्न खाएँ",
+        "e": "we may eat food"
+      }
+    ],
+    "gr": "<strong>क्षुत्-पिपासा</strong> = hunger and thirst — the fundamental drives of embodied existence. The devas' question = the question of every soul: 'Where is my home?'",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "देवगण = cosmic forces जो ब्रह्म ने create किए। भूख-प्यास = embodied existence की आवश्यकताएँ। देव का प्रश्न = जीव का प्रश्न: मुझे कहाँ रहना है?",
+        "en": "The devas = cosmic forces. Hunger-thirst = necessities of embodied existence. Their question = every soul's question: where is my home?",
+        "ins": "हर आत्मा एक आश्रय ढूँढ रही है — वह आश्रय ब्रह्म है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "देवगण ईश्वर की शक्तियाँ हैं जो जीव के शरीर में वास करती हैं। भूख-प्यास = जीव को सांसारिक जीवन में engage करने वाली ईश्वर की लीला।",
+        "en": "The devas are God's powers. Hunger-thirst = God's arrangement to keep the soul engaged in worldly life.",
+        "ins": "ईश्वर ने यह व्यवस्था की — ताकि जीव सांसारिक यात्रा पूरी करे।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Hunger and thirst = evolutionary pressure that drives embodied beings to seek, to grow. This is how consciousness evolves through matter.",
+        "en": "Hunger and thirst = evolutionary pressure driving embodied beings to seek and grow — how consciousness evolves through matter.",
+        "ins": "Desire is evolution's engine — it drives consciousness to expand."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌊 'महान समुद्र में गिरे'",
+        "a": "'महान समुद्र' = cosmic waters = primordial existence। देवगण का गिरना = cosmic forces का formless से form में आना। यह <strong>involution</strong> है।"
+      },
+      {
+        "q": "🍽️ भूख-प्यास का cosmic significance",
+        "a": "भूख = expansion की drive। प्यास = connection की drive। ये cosmic drives हैं जो evolution को आगे ले जाती हैं।"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "adhyaya": "अध्याय २",
+    "sk": "ताभ्यो गामानयत् ।\nता अब्रुवन्न वा इयं समृद्धा इति ।\nताभ्योऽश्वमानयत् ।\nता अब्रुवन्न वा इयं समृद्धा इति ।\nताभ्यः पुरुषमानयत् ।\nता अब्रुवन्सुकृतं वाव इति ।\nपुरुषो वाव सुकृतम् ॥",
+    "ro": "Tābhyo gāmānayat · tā abruvanna vā iyaṃ samṛddhā iti · tābhyo'śvamānayat · tā abruvanna vā iyaṃ samṛddhā iti · tābhyaḥ puruṣamānayat · tā abruvan sukṛtaṃ vāva iti · puruṣo vāva sukṛtam",
+    "hi": "उसने उनके लिए गाय लाई। उन्होंने कहा: 'यह पर्याप्त नहीं।' फिर घोड़ा लाया। 'यह भी पर्याप्त नहीं।' फिर एक पुरुष (मनुष्य का शरीर) लाया। उन्होंने कहा: 'यह तो सुकृत (अच्छी तरह बना) है।' पुरुष वास्तव में सुकृत है।",
+    "en": "He brought a cow. They said: 'Not sufficient.' He brought a horse. 'Not sufficient.' He brought a Person (human body). They said: 'Well made indeed!' The Person is indeed well-made.",
+    "ws": [
+      {
+        "s": "गाम्",
+        "h": "गाय",
+        "e": "cow"
+      },
+      {
+        "s": "न समृद्धा",
+        "h": "पर्याप्त नहीं",
+        "e": "not sufficient"
+      },
+      {
+        "s": "पुरुषम्",
+        "h": "मनुष्य का शरीर",
+        "e": "the Person, human body"
+      },
+      {
+        "s": "सुकृतम्",
+        "h": "अच्छी तरह बना",
+        "e": "well-made, excellently crafted"
+      },
+      {
+        "s": "यथायतनम्",
+        "h": "यथायोग्य स्थान पर",
+        "e": "in your proper place"
+      }
+    ],
+    "gr": "<strong>सुकृतम्</strong> = su (well) + krita (made). Human body declared 'excellently crafted' — the most suitable dwelling for all cosmic forces. Establishes <strong>human supremacy</strong> among all creatures.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "मनुष्य शरीर सबसे 'सुकृत' है — सभी इन्द्रियों और cosmic forces के लिए सबसे उपयुक्त। और इसीलिए आत्म-ज्ञान के लिए सबसे उपयुक्त।",
+        "en": "The human body is 'well-made' — most suitable for all cosmic forces, hence most suitable for Self-knowledge.",
+        "ins": "मनुष्य-जन्म दुर्लभ है — इसमें ब्रह्मज्ञान संभव है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "मनुष्य शरीर सबसे सुकृत है — क्योंकि इसमें ईश्वर-भक्ति संभव है। इसीलिए मनुष्य-जन्म को 'दुर्लभ' कहा जाता है।",
+        "en": "The human body is supremely well-made because devotion to God is possible in it. Hence human birth is rare and precious.",
+        "ins": "मनुष्य-जन्म दुर्लभ — इसमें भक्ति संभव है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Human body = most evolved instrument of consciousness so far. The meeting point of all cosmic forces. Evolution produced the human to be the vehicle of supramental descent.",
+        "en": "Human body = most evolved instrument of consciousness. The meeting point of all cosmic forces — why evolution produced the human being.",
+        "ins": "Man is evolution's crowning achievement so far — but not its final goal."
+      }
+    },
+    "dp": [
+      {
+        "q": "🐄 गाय और घोड़ा क्यों पर्याप्त नहीं?",
+        "a": "गाय = nourishment, sustenance। घोड़ा = speed, power। दोनों limited instruments। <strong>मनुष्य</strong> = all these + intelligence + spiritual capacity। इसीलिए cosmic forces को मनुष्य चाहिए।"
+      },
+      {
+        "q": "🏆 'पुरुषो वाव सुकृतम्'",
+        "a": "मनुष्य शरीर सबसे 'well-crafted'। इसमें सब cosmic forces का वास। इसीलिए मनुष्य-जन्म दुर्लभ — <strong>इसमें ब्रह्म-साक्षात्कार संभव है।</strong>"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "adhyaya": "अध्याय २",
+    "sk": "ता अब्रवीदयथायतनं प्रविशतेति ।\nवाग्घ्यग्निरभवत्स नास्यामग्ने प्राविशत् ।\nप्राणो वायुरभवत्स नास्यां वायौ प्राविशत् ।\nचक्षुः सूर्योऽभवत्स नास्यां सूर्ये प्राविशत् ॥",
+    "ro": "Tā abravīdayathāyatanaṃ praviśateti · vāgghaygnirbhavat sa nāsyāmagnaḥ prāviśat · prāṇo vāyurabhavat sa nāsyāṃ vāyau prāviśat · cakṣuḥ sūryo'bhavat sa nāsyāṃ sūrye prāviśat",
+    "hi": "उसने कहा: 'अपने यथायोग्य स्थान पर प्रवेश करो।' वाणी अग्नि बन गई और मुख में प्रवेश कर गई। प्राण वायु बन गया और नासिका में। दृष्टि सूर्य बन गई और आँखों में प्रवेश कर गई।",
+    "en": "He said: 'Enter each in your proper place.' Speech became Fire and entered the mouth. Prana became Wind and entered the nostrils. Sight became the Sun and entered the eyes.",
+    "ws": [
+      {
+        "s": "यथायतनम्",
+        "h": "यथायोग्य स्थान",
+        "e": "proper/fitting place"
+      },
+      {
+        "s": "प्रविशत",
+        "h": "प्रवेश करो",
+        "e": "enter"
+      },
+      {
+        "s": "वाक् → अग्निः",
+        "h": "वाणी → अग्नि",
+        "e": "Speech → Fire"
+      },
+      {
+        "s": "प्राण → वायुः",
+        "h": "प्राण → वायु",
+        "e": "Prana → Wind"
+      },
+      {
+        "s": "चक्षुस् → सूर्यः",
+        "h": "दृष्टि → सूर्य",
+        "e": "Sight → Sun"
+      }
+    ],
+    "gr": "The cosmic forces enter the human body — each in its proper place. This establishes the human as the <strong>microcosm</strong>, containing all cosmic forces. Each organ is a cosmic deity in miniature.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "देवगण = cosmic forces। वे मनुष्य के organs में प्रवेश करते हैं। यही देह को 'देवालय' बनाता है। अग्नि → वाक्। वायु → प्राण। सूर्य → चक्षु।",
+        "en": "The devas = cosmic forces entering human organs. This makes the body a divine temple. Fire → Speech. Wind → Prana. Sun → Eyes.",
+        "ins": "देहो देवालयः — the body is truly a temple."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ईश्वर की शक्तियाँ जीव के शरीर में वास करती हैं। यही जीव को ईश्वर की अभिव्यक्ति बनाता है।",
+        "en": "God's powers dwell in the individual's body — making the individual an expression of God.",
+        "ins": "जीव ईश्वर की अभिव्यक्ति है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "The human body = field where cosmic forces operate. We are not isolated individuals — we are the cosmos concentrated in a small form.",
+        "en": "The human body is the field where cosmic forces operate. We are not isolated individuals — we are the cosmos concentrated.",
+        "ins": "Each human being is the universe in miniature."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌟 यथायतनम् — हर चीज़ अपनी जगह पर",
+        "a": "यह principle आज भी valid है: <strong>हर शक्ति को अपना proper channel चाहिए।</strong> वाणी = अग्नि की शक्ति। जब वाणी सत्य बोलती है — अग्नि की तरह प्रकाश देती है। जब असत्य बोलती है — अग्नि की तरह जलाती है।"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "adhyaya": "अध्याय २",
+    "sk": "श्रोत्रं दिग्भिरभवत्तत्तासु दिक्षु प्राविशत् ।\nत्वगोषधिवनस्पतयोऽभवंस्तास्तासु प्राविशन् ।\nहृदयं मनोऽभवत्तच्चन्द्रमसि प्राविशत् ।\nनाभिरपानोऽभवत्स मृत्यौ प्राविशत् ।\nशिश्नं रेतोऽभवत्तदप्सु प्राविशत् ॥",
+    "ro": "Śrotraṃ digbhirabhavat tat tāsu dikṣu prāviśat · tvago ṣadhivanaspatayo'bhavans tāstāsu prāviśan · hṛdayaṃ mano'bhavat taccandramasi prāviśat · nābhirapāno'bhavat sa mṛtyau prāviśat · śiśnaṃ reto'bhavat tadapsu prāviśat",
+    "hi": "श्रवण दिशाएँ बन गया और दिशाओं में प्रवेश कर गया। त्वचा ओषधि-वनस्पति बन गई और वनस्पतियों में प्रवेश कर गई। हृदय मन बन गया और चन्द्रमा में प्रवेश कर गया। नाभि अपान बन गई और मृत्यु में। शिश्न वीर्य बन गया और जल में।",
+    "en": "Hearing became the Directions and entered them. Skin became plants and entered them. Heart became mind and entered the Moon. Navel became Apana and entered Death. The organ became semen and entered the waters.",
+    "ws": [
+      {
+        "s": "श्रोत्रम् → दिशः",
+        "h": "श्रवण → दिशाएँ",
+        "e": "Hearing → Directions"
+      },
+      {
+        "s": "त्वक् → ओषधि",
+        "h": "त्वचा → वनस्पति",
+        "e": "Skin → Plants"
+      },
+      {
+        "s": "हृदयम् → मनः",
+        "h": "हृदय → मन",
+        "e": "Heart → Mind"
+      },
+      {
+        "s": "मनः → चन्द्रमाः",
+        "h": "मन → चन्द्रमा",
+        "e": "Mind → Moon"
+      },
+      {
+        "s": "नाभिः → अपानः",
+        "h": "नाभि → मृत्यु",
+        "e": "Navel → Death"
+      }
+    ],
+    "gr": "Complete mapping of all organs to their cosmic counterparts. <strong>This establishes the human as the microcosm</strong> — a complete reflection of the universe within a single body.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "पूरा शरीर ब्रह्मांड का microcosm है। त्वचा → वनस्पति। मन → चन्द्रमा। नाभि → मृत्यु। यह complete mapping है।",
+        "en": "The complete body is a microcosm of the universe. Skin → Plants. Mind → Moon. Navel → Death. Complete mapping.",
+        "ins": "यथा पिण्डे तथा ब्रह्माण्डे — as in the body, so in the universe."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "शरीर में ब्रह्मांड का प्रतिबिम्ब है। यह शरीर को sacred बनाता है — इसमें ईश्वर की सारी शक्तियाँ निवास करती हैं।",
+        "en": "The body reflects the universe. This makes the body sacred — all of God's powers dwell within it.",
+        "ins": "शरीर को नष्ट नहीं — transform करना है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Complete microcosm. Every organ contains a cosmic principle. The human being is literally the universe in concentrated form.",
+        "en": "Complete microcosm. Every organ contains a cosmic principle. The human being is the universe in concentrated form.",
+        "ins": "The body is not a prison of the soul — it is the cosmos in miniature."
+      }
+    },
+    "dp": [
+      {
+        "q": "🔗 यथा पिण्डे तथा ब्रह्माण्डे",
+        "a": "यह ancient maxim: <strong>जो शरीर में है वही ब्रह्मांड में है।</strong> Aitareya यही कहती है। त्वचा = वनस्पति। मन = चन्द्रमा। नाभि = मृत्यु। यह correspondence आज भी Ayurveda और Jyotish में जीवित है।"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "adhyaya": "अध्याय २",
+    "sk": "ते वा एते देवाः सृष्टाः अस्मिन्महत्यर्णव आपतन् ।\nतं क्षुत्पिपासाभ्यामन्ववार्जत ।\nते एनमब्रुवन् महत्ते रूपं ।\nअस्य नः प्रतिपदं विद्धि यस्मिन्प्रतिष्ठितास्त्वन्नमत्स्यामेति ॥",
+    "ro": "Te vā ete devāḥ sṛṣṭāḥ asminmahaty arṇava āpatan · taṃ kṣutpipāsābhyāmanvavārjat · te enamabravān mahatte rūpam · asya naḥ pratipadaṃ viddhi yasminpratiṣṭhitāstvannammatsyāmeti",
+    "hi": "वे देवगण महान समुद्र में गिरे। ब्रह्म ने उन्हें भूख और प्यास से घेरा। उन्होंने कहा: 'आपका रूप महान है। हमें बताइए — कैसे प्रवेश करें ताकि हम अन्न खा सकें।'",
+    "en": "Those deities fell into the great ocean. Brahman surrounded them with hunger and thirst. They said: 'Great is your form. Tell us the entry — how we may enter and eat food.'",
+    "ws": [
+      {
+        "s": "महत् रूपम्",
+        "h": "महान रूप",
+        "e": "great form"
+      },
+      {
+        "s": "प्रतिपदम्",
+        "h": "प्रवेश का मार्ग",
+        "e": "the way of entry"
+      },
+      {
+        "s": "प्रतिष्ठिताः",
+        "h": "प्रतिष्ठित होकर",
+        "e": "being established"
+      },
+      {
+        "s": "अन्नम् अत्स्याम",
+        "h": "अन्न खाएँगे",
+        "e": "we shall eat food"
+      }
+    ],
+    "gr": "The devas ask for the 'way of entry' into the body. <strong>प्रतिपदम्</strong> = the entry point. Answer: through the crown of the head — the Brahmarandhra. This leads to the next section on the soul's entry.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "देवगण पूछते हैं: 'कैसे प्रवेश करें?' यह soul का body में प्रवेश का question है। उत्तर: brahmarandhra (सिर के ऊपर) से।",
+        "en": "The devas ask: 'How to enter?' This is the question of the soul's entry into the body. Answer: through brahmarandhra (crown of head).",
+        "ins": "प्रवेश ब्रह्मरन्ध्र से — वहीं से निकास भी।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ईश्वर की शक्तियाँ शरीर में प्रवेश के लिए रास्ता पूछती हैं। यह जीवन का miracle है — cosmic forces एक छोटे शरीर में कैसे fit होती हैं।",
+        "en": "God's powers ask for the way into the body. This is life's miracle — how cosmic forces fit into a small body.",
+        "ins": "जीवन = cosmic forces का शरीर में presence।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "The question of entry = the question of how the Infinite enters the finite. Answer = through the highest point — the crown, the Sahasrara.",
+        "en": "The question of entry = how the Infinite enters the finite. Answer = through the highest point — the crown, the Sahasrara chakra.",
+        "ins": "The Infinite enters the finite through its highest point."
+      }
+    },
+    "dp": [
+      {
+        "q": "🧠 ब्रह्मरन्ध्र क्या है?",
+        "a": "सिर के ऊपर का बिंदु — जहाँ शिशु का fontanelle होता है। इसे <strong>ब्रह्मरन्ध्र</strong> कहते हैं — ब्रह्म का छिद्र। Yoga में यह Sahasrara chakra है। आत्मा यहाँ से प्रवेश करती है और योगी यहाँ से निकलता है।"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "adhyaya": "अध्याय २",
+    "sk": "सोऽन्नमेव ते तदन्नमाद्यं करोति ।\nस आत्मनः सुखं विद्वान् प्रज्ञानमानन्दं ब्रह्म ।\nतस्यैतत्प्रज्ञानमानन्दं ब्रह्म ।\nस योऽयमात्मा सर्वेषां भूतानां श्रेष्ठो भवति ॥",
+    "ro": "So'nnameva te tadannamādyaṃ karoti · sa ātmanaḥ sukhaṃ vidvān prajñānam ānandaṃ brahma · tasyaitatprajñānam ānandaṃ brahma · sa yo'yamātmā sarveṣāṃ bhūtānāṃ śreṣṭho bhavati",
+    "hi": "वह (ब्रह्म) उनके लिए अन्न और अन्न खाने वाला बनाता है। वह आत्मा का सुख जानने वाला, प्रज्ञान और आनंद ब्रह्म है। उसका वह प्रज्ञान-आनंद ब्रह्म है। वह यह आत्मा जो है — सब भूतों में श्रेष्ठ है।",
+    "en": "He makes for them food and the eater of food. He who knows the bliss of the Self — Prajna, Ananda, Brahman. That Prajna-Ananda is Brahman. This Self is the highest among all beings.",
+    "ws": [
+      {
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन",
+        "e": "food"
+      },
+      {
+        "s": "अन्नाद्यम्",
+        "h": "अन्न का भोक्ता",
+        "e": "eater of food"
+      },
+      {
+        "s": "सुखम् विद्वान्",
+        "h": "सुख जानने वाला",
+        "e": "one who knows bliss"
+      },
+      {
+        "s": "प्रज्ञानम् आनन्दम्",
+        "h": "प्रज्ञान-आनंद",
+        "e": "Consciousness-Bliss"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म",
+        "e": "Brahman"
+      },
+      {
+        "s": "सर्वेषां श्रेष्ठः",
+        "h": "सब में श्रेष्ठ",
+        "e": "highest among all"
+      }
+    ],
+    "gr": "<strong>प्रज्ञानम् + आनन्दम् + ब्रह्म</strong> — the triple identity: Consciousness = Bliss = Brahman. Taittiriya calls this Sat-Chit-Ananda. Aitareya arrives at the same truth from its own angle.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "प्रज्ञान = ब्रह्म = आनंद। तीनों एक। जो शुद्ध consciousness है वही ब्रह्म है वही आनंद है। यह Sat-Chit-Ananda का दूसरा formulation है।",
+        "en": "Prajna = Brahman = Ananda. All three are one. Pure consciousness is Brahman is Bliss. This is another formulation of Sat-Chit-Ananda.",
+        "ins": "प्रज्ञानम् आनंदम् ब्रह्म — Consciousness-Bliss-Brahman are one."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "आत्मा का सुख = ईश्वर का सान्निध्य। प्रज्ञान-आनंद = ईश्वर की अनुभूति। जो इसे जानता है — वह सब भूतों में श्रेष्ठ है।",
+        "en": "The bliss of the Self = proximity of God. Prajna-Ananda = experience of God. One who knows this is highest among all beings.",
+        "ins": "ईश्वर-अनुभूति ही परम आनंद है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Prajna-Ananda = Supermind + Bliss = Brahman. The Supramental is not just knowing — it is knowing in bliss. This is the fullness of the Absolute.",
+        "en": "Prajna-Ananda = Supermind + Bliss = Brahman. The Supramental is not just knowing — it is knowing in bliss. Fullness of the Absolute.",
+        "ins": "True knowledge is always accompanied by joy — Ananda is the nature of the Real."
+      }
+    },
+    "dp": [
+      {
+        "q": "✨ प्रज्ञान + आनंद + ब्रह्म",
+        "a": "तीन words जो एक ही reality को तीन angles से describe करते हैं: <strong>प्रज्ञान</strong> = consciousness (cognitive aspect). <strong>आनंद</strong> = bliss (emotional aspect). <strong>ब्रह्म</strong> = absolute being (ontological aspect). यही Sat-Chit-Ananda है।"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "adhyaya": "अध्याय ३ — प्रज्ञानं ब्रह्म",
+    "sk": "कोऽयमात्मेति वयमुपास्महे ।\nकतरः स आत्मा येन वा पश्यति येन वा शृणोति ।\nयेन वा गन्धानाजिघ्रति येन वा वाचं व्याकरोति ।\nयेन वा स्वादु चास्वादु च विजानाति ॥",
+    "ro": "Ko'yamātmeti vayamupāsmahe · kataraḥ sa ātmā yena vā paśyati yena vā śṛṇoti · yena vā gandhānājighrati yena vā vācaṃ vyākaroti · yena vā svādu cāsvādu ca vijānāti",
+    "hi": "वह आत्मा क्या है — हम किसकी उपासना करें? वह कौन-सी आत्मा है जिससे हम देखते हैं, सुनते हैं, गंध लेते हैं, वाणी बोलते हैं, मीठे और कड़वे का भेद जानते हैं?",
+    "en": "'What is this Self that we worship?' Which Self is it — by which one sees, hears, smells, speaks, distinguishes sweet from bitter?",
+    "ws": [
+      {
+        "s": "कः अयम् आत्मा",
+        "h": "यह आत्मा क्या है?",
+        "e": "What is this Self?"
+      },
+      {
+        "s": "उपास्महे",
+        "h": "उपासना करें",
+        "e": "we worship, we seek"
+      },
+      {
+        "s": "येन पश्यति",
+        "h": "जिससे देखते हैं",
+        "e": "by which one sees"
+      },
+      {
+        "s": "येन शृणोति",
+        "h": "जिससे सुनते हैं",
+        "e": "by which one hears"
+      },
+      {
+        "s": "विजानाति",
+        "h": "जानता / भेद करता है",
+        "e": "knows, distinguishes"
+      }
+    ],
+    "gr": "The classic Vedantic question: <strong>कोऽयमात्मा</strong> = 'Which one is the Self?' Not 'Does the Self exist?' but 'Which of our experiences IS the Self?' This is self-inquiry.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "यह प्रश्न ही Vedanta का मूल है। जो देखता है, सुनता है, जानता है — वह आत्मा कौन है? वह साक्षी चेतना है।",
+        "en": "This question is the root of Vedanta. Who sees, hears, knows? That witness-consciousness is the Atman.",
+        "ins": "द्रष्टा कभी दृश्य नहीं हो सकता।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "आत्मा = जीव। जो देखता, सुनता, जानता है — वह जीव है — और जीव ब्रह्म से अभिन्न है।",
+        "en": "Atman = the individual soul. The one that sees, hears, knows — that soul is inseparable from Brahman.",
+        "ins": "जीव ब्रह्म का अंश है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "यह self-inquiry है — 'Who am I?' The turning inward. This question, held earnestly, is itself the practice.",
+        "en": "This is self-inquiry — 'Who am I?' Turning inward. This question held earnestly is itself the spiritual practice.",
+        "ins": "The question 'Who am I?' is the greatest meditation."
+      }
+    },
+    "dp": [
+      {
+        "q": "🔍 'कोऽयमात्मा' — Ramana Maharshi और यही प्रश्न",
+        "a": "Ramana Maharshi का पूरा teaching इसी प्रश्न पर था: <strong>'Who am I?'</strong> Aitareya का यही प्रश्न है। 3000 साल पुराना — आज भी उतना ही alive और potent।"
+      },
+      {
+        "q": "🧘 इस प्रश्न को कैसे hold करें?",
+        "a": "इसे intellectual प्रश्न नहीं बनाएँ। बल्कि जब भी 'मैं' कहें — रुकें। पूछें: <strong>यह 'मैं' कौन है?</strong> इसका अनुभव ढूँढें — answer नहीं। यही meditation है।"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "adhyaya": "अध्याय ३",
+    "sk": "यदेतद्धृदयं मनश्चैतत् ।\nसंज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिर्धृतिर्मतिर्मनीषा जूतिः स्मृतिः संकल्पः क्रतुरसुः कामो वश इति ।\nसर्वाण्येवैतानि प्रज्ञानस्य नामधेयानि भवन्ति ॥",
+    "ro": "Yadetaddhṛdayaṃ manaścaitat · saṃjñānamājñānaṃ vijñānaṃ prajñānaṃ medhā dṛṣṭirdhṛtirmatirmanīṣā jūtiḥ smṛtiḥ saṃkalpaḥ kraturasuḥ kāmo vaśa iti · sarvāṇyevaitāni prajñānasya nāmadheyāni bhavanti",
+    "hi": "यह जो हृदय है — यही मन है। संज्ञान, आज्ञान, विज्ञान, प्रज्ञान, मेधा, दृष्टि, धृति, मति, मनीषा, जूति, स्मृति, संकल्प, क्रतु, असु, काम, वश — ये सब प्रज्ञान के ही नाम हैं।",
+    "en": "This heart is the mind. Perception, command, knowledge, wisdom, intelligence, insight, steadiness, thought, contemplation, impulse, memory, will, purpose, life, desire, control — all these are names of Prajna.",
+    "ws": [
+      {
+        "s": "हृदयम् = मनः",
+        "h": "हृदय = मन है",
+        "e": "heart = mind"
+      },
+      {
+        "s": "संज्ञानम्",
+        "h": "perception",
+        "e": "perception, awareness"
+      },
+      {
+        "s": "प्रज्ञानम्",
+        "h": "pure consciousness",
+        "e": "pure consciousness"
+      },
+      {
+        "s": "मेधा",
+        "h": "intelligence",
+        "e": "intelligence, brilliance"
+      },
+      {
+        "s": "स्मृतिः",
+        "h": "स्मृति",
+        "e": "memory"
+      },
+      {
+        "s": "संकल्पः",
+        "h": "संकल्प",
+        "e": "will, determination"
+      },
+      {
+        "s": "कामः",
+        "h": "काम",
+        "e": "desire"
+      },
+      {
+        "s": "वशः",
+        "h": "वश",
+        "e": "control"
+      }
+    ],
+    "gr": "16 names for consciousness — showing <strong>the richness of Vedantic psychology</strong>. All mental faculties are aspects of one Prajna. Heart = mind — Vedic unity of feeling and thinking.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "16 नाम — सब एक ही प्रज्ञान के। मन, बुद्धि, स्मृति, संकल्प — सब consciousness के ही manifestations हैं। Vedantic psychology की richness।",
+        "en": "16 names — all of the one Prajna. Mind, intellect, memory, will — all manifestations of one consciousness.",
+        "ins": "अनेक नाम — एक ही प्रज्ञान।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ये सब जीव की शक्तियाँ हैं — ईश्वर की कृपा से। जीव में जो भी सामर्थ्य है — वह सब ब्रह्म से है।",
+        "en": "All these are powers of the soul — by God's grace. Whatever capability the soul has comes from Brahman.",
+        "ins": "जीव की सारी शक्तियाँ ब्रह्म-प्रदत्त हैं।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Complete map of consciousness — from basic perception to highest will. All aspects of one Prajna. Vedantic psychology is holistic.",
+        "en": "A complete map of consciousness — from basic perception to highest will. Vedantic psychology is rich and holistic.",
+        "ins": "Consciousness has infinite facets — Vedanta names them all as one."
+      }
+    },
+    "dp": [
+      {
+        "q": "🧠 16 नाम — Vedantic Psychology",
+        "a": "Vedanta ने 16 different aspects of consciousness identify किए: <strong>संज्ञान (perception), विज्ञान (knowledge), प्रज्ञान (wisdom), मेधा (intelligence), स्मृति (memory), संकल्प (will), काम (desire), वश (control)...</strong> यह आधुनिक psychology से 3000 साल पहले का systematic account है।"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "adhyaya": "अध्याय ३",
+    "sk": "एष ब्रह्म एष इन्द्र एष प्रजापतिः ।\nएते सर्वे देवा इमानि च पञ्च महाभूतानि ।\nपृथिवी वायुराकाश आपो ज्योतींषि ।\nइमानि चाणीमानि च मिश्राणीव ।\nबीजान्येतरेतराणि ॥",
+    "ro": "Eṣa brahma eṣa indra eṣa prajāpatiḥ · ete sarve devā imāni ca pañca mahābhūtāni · pṛthivī vāyurākāśa āpo jyotīṃṣi · imāni cāṇīmāni ca miśrāṇīva · bījānyetaretarāṇi",
+    "hi": "यही ब्रह्म है, यही इन्द्र है, यही प्रजापति है। यही सब देव हैं और ये पाँच महाभूत — पृथ्वी, वायु, आकाश, जल, ज्योति। और ये बड़े और छोटे मिश्रित जीव — एक-दूसरे के बीज।",
+    "en": "This is Brahma, this is Indra, this is Prajapati. These are all the gods and five great elements — earth, wind, space, water, light. And all beings great and small — seeds of one another.",
+    "ws": [
+      {
+        "s": "एष ब्रह्म",
+        "h": "यही ब्रह्म",
+        "e": "this is Brahma"
+      },
+      {
+        "s": "एष इन्द्रः",
+        "h": "यही इन्द्र",
+        "e": "this is Indra"
+      },
+      {
+        "s": "पञ्च महाभूतानि",
+        "h": "पाँच महाभूत",
+        "e": "five great elements"
+      },
+      {
+        "s": "बीजानि",
+        "h": "बीज",
+        "e": "seeds of one another"
+      }
+    ],
+    "gr": "<strong>एष</strong> = 'this same one' — repeated emphatically. The same consciousness = Brahma, Indra, all gods, all elements, all beings. Everything reduces to one Prajna.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "एक ही प्रज्ञान सब में है। यही Brahma है, यही Indra है, यही सब। यह absolute non-dualism है।",
+        "en": "One Prajna is in all. This same one is Brahma, Indra, all. Absolute non-dualism.",
+        "ins": "एकमेव अद्वितीयम् — One alone, without a second."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "सब देव, सब भूत, सब जीव — ईश्वर के ही शरीर हैं। ईश्वर सब का अन्तर्यामी है।",
+        "en": "All gods, all elements, all beings — are God's own body. God is the inner controller of all.",
+        "ins": "ईश्वर सर्वव्यापी है — सब उसका शरीर है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "One consciousness manifests as all. Brahma = creative. Indra = dynamic power. Elements = levels of matter. All seeds of one another — interconnected evolution.",
+        "en": "One consciousness manifests as all. All gods, elements, beings are seeds of one another — interconnected evolution.",
+        "ins": "The universe is one organism with consciousness as its life."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌐 'बीजान्येतरेतराणि' — एक-दूसरे के बीज",
+        "a": "यह extraordinary insight है। सब जीव, सब तत्व — <strong>एक-दूसरे के बीज हैं।</strong> यह interconnected evolution है — ecology का vedantic version। कोई भी अकेला नहीं — सब एक-दूसरे में।"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "adhyaya": "अध्याय ३ — महावाक्य",
+    "sk": "प्रज्ञानं ब्रह्म इति ।\nस वा एष एतेन प्राज्ञेनात्मना अस्माल्लोकादुत्क्रम्याऽमुष्मिन् स्वर्गलोके सर्वान् कामानाप्त्वाऽमृतः समभवत् समभवत् ॥",
+    "ro": "Prajñānaṃ brahma iti · sa vā eṣa etena prājñenātmanā asmāllokādudkramyā'muṣmin svargaloke sarvān kāmānāptvā'mṛtaḥ samabhavat samabhavat",
+    "hi": "प्रज्ञान ही ब्रह्म है। वह इस प्राज्ञ-आत्मा के साथ इस लोक से उठकर उस स्वर्गलोक में सभी कामनाएँ पाकर अमर हो गया — अमर हो गया।",
+    "en": "Consciousness is Brahman. He, with this conscious Self, rising from this world, having attained all desires in yonder heaven, became immortal — became immortal.",
+    "ws": [
+      {
+        "s": "प्रज्ञानम्",
+        "h": "प्रज्ञान / चेतना",
+        "e": "Consciousness, Pure Intelligence"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म है",
+        "e": "is Brahman"
+      },
+      {
+        "s": "उत्क्रम्य",
+        "h": "उठकर / पार करके",
+        "e": "having risen, transcended"
+      },
+      {
+        "s": "अमृतः",
+        "h": "अमर",
+        "e": "immortal"
+      },
+      {
+        "s": "समभवत् समभवत्",
+        "h": "हो गया — हो गया",
+        "e": "became — became (repeated)"
+      }
+    ],
+    "gr": "<strong>प्रज्ञानं ब्रह्म</strong> = one of the four Mahāvākyas. <strong>समभवत् समभवत्</strong> — repeated twice as absolute seal. This is the highest realization of Aitareya Upanishad.",
+    "mt": "Prose — the culminating Mahavakya of Aitareya",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "यह महावाक्य है — प्रज्ञानं ब्रह्म। Consciousness = Brahman। जो 'जानता' है — वह ब्रह्म है। यह आत्मज्ञान का supreme statement है।",
+        "en": "This is the mahāvākya — Prajnanam Brahma. Consciousness = Brahman. That which knows — that is Brahman. Supreme statement of Self-knowledge.",
+        "ins": "प्रज्ञानं ब्रह्म — Consciousness alone is Brahman."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "प्रज्ञान = ईश्वर की सर्वज्ञता। ब्रह्म = ईश्वर। Pure consciousness = God. जीव उस consciousness का अंश है।",
+        "en": "Prajna = God's omniscience. Brahman = God. Pure consciousness is God. The soul is a part of that consciousness.",
+        "ins": "सर्वज्ञता ही ईश्वरत्व का मूल लक्षण है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "प्रज्ञानं ब्रह्म = the Supramental is Brahman. Pure consciousness beyond mind and intellect — that is the Absolute. Journey ends in immortality.",
+        "en": "Prajna = Supermind = Brahman. The highest consciousness is Brahman. The journey culminates in immortality.",
+        "ins": "Consciousness is not a product of evolution — it is its source and goal."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌟 चार महावाक्यों में यह कौन सा है?",
+        "a": "(१) <strong>प्रज्ञानं ब्रह्म</strong> — ऐतरेय · (२) <strong>अहं ब्रह्मास्मि</strong> — बृहदारण्यक · (३) <strong>तत् त्वम् असि</strong> — छान्दोग्य · (४) <strong>अयमात्मा ब्रह्म</strong> — माण्डूक्य। ऐतरेय का: <strong>Pure Consciousness = Brahman</strong> — सबसे direct statement।"
+      },
+      {
+        "q": "🏁 'समभवत् समभवत्' — दो बार क्यों?",
+        "a": "यह Upanishad का closing seal है। Double repetition = absolute certainty। 'He became immortal — became immortal.' <strong>यह already हो चुका है।</strong> Past tense — not future. Realization is already complete."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "adhyaya": "अध्याय २ — विस्तार",
+    "sk": "स एष पुरुष इदं सर्वमन्नमत्ति ।\nविश्वं च भूतानां राजा ।\nसत्यमेव जयति नानृतं दीर्घेण पन्थता ।\nयेनान्नं खादन्ति ते जायन्त एव ॥",
+    "ro": "Sa eṣa puruṣa idaṃ sarvam annamatti · viśvaṃ ca bhūtānāṃ rājā · satyameva jayati nānṛtaṃ dīrgheṇa panthā · yenānnaṃ khādanti te jāyanta eva",
+    "hi": "वह यह पुरुष इस सब अन्न को खाता है। और यह सब भूतों का राजा है। सत्य ही जीतता है — असत्य नहीं। लंबे पथ से। जिससे अन्न खाते हैं — वे उत्पन्न ही होते हैं।",
+    "en": "This Person eats all this food and is king of all beings. Truth alone conquers — not falsehood. By the long path. Those by whom food is eaten — they are born again.",
+    "ws": [
+      {
+        "s": "पुरुषः",
+        "h": "पुरुष / आत्मा",
+        "e": "the Person, Self"
+      },
+      {
+        "s": "अन्नम् अत्ति",
+        "h": "अन्न खाता है",
+        "e": "eats food"
+      },
+      {
+        "s": "विश्वं राजा",
+        "h": "सब का राजा",
+        "e": "king of all"
+      },
+      {
+        "s": "सत्यम् जयति",
+        "h": "सत्य जीतता है",
+        "e": "truth conquers"
+      },
+      {
+        "s": "न अनृतम्",
+        "h": "असत्य नहीं",
+        "e": "not falsehood"
+      }
+    ],
+    "gr": "<strong>सत्यमेव जयति</strong> — Truth alone conquers. This phrase is the national motto of India (adopted from Mundaka Upanishad 3.1.6, but echoed here). The cosmic Person is the king of all by virtue of truth.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "पुरुष = आत्मा — जो सब 'अन्न' (experience) को खाता है। सत्यम् जयति = ultimate reality always prevails.",
+        "en": "The Person = Atman — which 'eats' (experiences) all. Truth always prevails — this is the nature of reality.",
+        "ins": "सत्यमेव जयते — truth is the ultimate victor."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "पुरुष = ईश्वर — सब भूतों का राजा। सत्यम् जयति = ईश्वर की justice सदा prevails करती है।",
+        "en": "The Person = God — king of all beings. Truth conquers = God's justice always prevails.",
+        "ins": "ईश्वर का राज्य सत्य पर आधारित है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "The cosmic Person eats all experience — this is consciousness digesting existence. Satya alone conquers — truth is the nature of the Supramental.",
+        "en": "The cosmic Person digests all existence — consciousness consuming experience. Truth alone conquers — truth is the nature of the Supramental.",
+        "ins": "Reality is self-verifying — truth needs no external support."
+      }
+    },
+    "dp": [
+      {
+        "q": "🇮🇳 'सत्यमेव जयते' — भारत का राष्ट्रीय आदर्श",
+        "a": "भारत का राष्ट्रीय वाक्य <strong>'सत्यमेव जयते'</strong> Mundaka Upanishad (3.1.6) से है। Aitareya में इसी का echo है। <strong>सत्य ही जीतता है — हमेशा — अंत में।</strong> यह cosmic law है।"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "adhyaya": "अध्याय २ — अन्न और जीवन",
+    "sk": "तस्मादिदमेवावरं ब्रह्म यदिदमन्नम् ।\nतदेते श्लोका भवन्ति ।\nप्राणो ह्यन्नादः प्राणी प्राणस्यान्नम् ।\nइह प्राणः प्राणमद्यात् इत्याहुः ॥",
+    "ro": "Tasmādidamevāvaraṃ brahma yadidamannam · tadete ślokā bhavanti · prāṇo hyannādaḥ prāṇī prāṇasyānnam · iha prāṇaḥ prāṇamadyāt ityāhuḥ",
+    "hi": "इसलिए अन्न ही अपर (निम्न) ब्रह्म है। इस विषय में ये श्लोक हैं: प्राण ही अन्न-भक्षक है और प्राणी प्राण का अन्न है। इस लोक में प्राण ही प्राण को खाता है — ऐसा कहते हैं।",
+    "en": "Therefore food itself is the lower Brahman. About this there are verses: Prana is the eater of food and the living being is the food of Prana. In this world, Prana eats Prana — so they say.",
+    "ws": [
+      {
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन",
+        "e": "food"
+      },
+      {
+        "s": "अपरम् ब्रह्म",
+        "h": "अपर ब्रह्म / निम्न ब्रह्म",
+        "e": "lower Brahman"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-शक्ति",
+        "e": "Prana, life-force"
+      },
+      {
+        "s": "अन्नादः",
+        "h": "अन्न-भक्षक",
+        "e": "eater of food"
+      },
+      {
+        "s": "प्राणी",
+        "h": "प्राणी / जीव",
+        "e": "living being"
+      }
+    ],
+    "gr": "<strong>अन्नम् = अपर ब्रह्म</strong> — food as lower Brahman. This echoes Taittiriya Upanishad's 'Annam Brahma.' The food chain is cosmic: Prana eats Prana — the universal cycle of life consuming life.",
+    "mt": "Prose with verse",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "अन्न = स्थूल ब्रह्म। प्राण सब को खाता है — पर प्राण स्वयं भी खाया जाता है। यह जगत का स्वभाव है — अद्वैत में यह चक्र ब्रह्म की ही लीला है।",
+        "en": "Food = gross Brahman. Prana eats all — but Prana itself is also consumed. This is the nature of the world — in Advaita, this cycle is Brahman's own play.",
+        "ins": "स्थूल में भी ब्रह्म है — अन्न भी ब्रह्म है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "अन्न = ईश्वर की शक्ति का स्थूल रूप। जीवन-चक्र ईश्वर की लीला है। अन्न देना = ईश्वर सेवा।",
+        "en": "Food = gross form of God's power. The cycle of life is God's divine play. Giving food = serving God.",
+        "ins": "अन्नदान = ईश्वर सेवा।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "प्राण खाता है और खाया जाता है — यह life's fundamental rhythm है। Matter consumes matter so life can grow. यह evolution का fuel है।",
+        "en": "Prana eats and is eaten — this is life's fundamental rhythm. Matter consumes matter so consciousness can evolve.",
+        "ins": "The food chain is consciousness climbing through matter."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌿 'अन्नम् ब्रह्म' — Taittiriya से connection",
+        "a": "Taittiriya भी कहती है: <strong>अन्नं ब्रह्मेति व्यजानात्।</strong> अन्न पहली kosha है — अन्नमय कोश। Aitareya और Taittiriya दोनों एक ही सत्य को अलग-अलग angle से बताती हैं।"
+      },
+      {
+        "q": "🔄 'प्राणः प्राणमद्यात्' — food chain",
+        "a": "Prey खाता है — predator खाता है — predator मरकर prey बनता है। यह cosmic cycle है। <strong>कोई भी permanently eater नहीं — सब eventually eaten हैं।</strong> यह ब्रह्म की समता है।"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "adhyaya": "अध्याय २",
+    "sk": "स यो हास्मिन् ब्रह्मण्युपास्ते ।\nयदन्नमत्ति तदेवायमत्ति ।\nयद्रेतः सृजति तेन सृजति ।\nस हि नः श्रेष्ठः ॥",
+    "ro": "Sa yo hāsmin brahmaṇyupāste · yadannamatti tadeverāyamatti · yadretaḥ sṛjati tena sṛjati · sa hi naḥ śreṣṭhaḥ",
+    "hi": "जो इस ब्रह्म (अन्न) की उपासना करता है — जो अन्न खाता है वही यह भी खाता है। जो वीर्य से सृजन करता है उसी से वह सृजन करता है। वही हमारा श्रेष्ठ है।",
+    "en": "One who worships this Brahman (as food) — whatever food he eats, this one also eats. Whatever he creates through seed, he creates through that. He indeed is our best.",
+    "ws": [
+      {
+        "s": "उपास्ते",
+        "h": "उपासना करता है",
+        "e": "worships, meditates upon"
+      },
+      {
+        "s": "अन्नम् अत्ति",
+        "h": "अन्न खाता है",
+        "e": "eats food"
+      },
+      {
+        "s": "रेतः",
+        "h": "वीर्य / रेत",
+        "e": "seed, semen"
+      },
+      {
+        "s": "सृजति",
+        "h": "सृजन करता है",
+        "e": "creates, generates"
+      },
+      {
+        "s": "श्रेष्ठः",
+        "h": "श्रेष्ठ",
+        "e": "the best, the highest"
+      }
+    ],
+    "gr": "The one who understands food as Brahman participates consciously in the cosmic cycle. <strong>सृजति</strong> — to create. The conscious worshipper participates in creation itself.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "जो अन्न को ब्रह्म रूप में देखता है — वह सब कर्मों में ब्रह्म-भाव रखता है। यही karma-yoga का सार है।",
+        "en": "One who sees food as Brahman maintains Brahman-awareness in all actions. This is the essence of karma-yoga.",
+        "ins": "हर क्रिया में ब्रह्म-दर्शन — यही उपासना है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "जो अन्न को ईश्वर-प्रसाद मानकर खाता है — वह सब भूतों में श्रेष्ठ है। अन्न की कृतज्ञता ही उपासना है।",
+        "en": "One who eats food as God's prasad — he is the best among all beings. Gratitude for food is itself worship.",
+        "ins": "अन्न ईश्वर का प्रसाद है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Conscious participation in the food cycle = conscious evolution. The one who knows this participates in creation itself — not just as a consumer but as a co-creator.",
+        "en": "Conscious participation in the food cycle = conscious evolution. The knower participates in creation, not just as consumer but co-creator.",
+        "ins": "Every act of eating can be a conscious participation in cosmic creation."
+      }
+    },
+    "dp": [
+      {
+        "q": "🙏 अन्न-उपासना का अर्थ",
+        "a": "अन्न को 'ब्रह्म' रूप में देखना = हर भोजन को sacred मानना। <strong>'Food is God's gift'</strong> — यही भाव है। जब हम कृतज्ञता से खाते हैं — तब अन्न-उपासना होती है।"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "adhyaya": "अध्याय २",
+    "sk": "अथातः सम्प्रश्नः ।\nकिं ब्रह्मणां पूर्वम् आसीद् ।\nकिं तत् ।\nकस्माद् जायते ।\nकेन जीवति ।\nकिमभिसंविशत्यस्तमिति ॥",
+    "ro": "Athātaḥ sampraśnaḥ · kiṃ brahmaṇāṃ pūrvam āsīd · kiṃ tat · kasmād jāyate · kena jīvati · kimabhisaṃviśatyastamiti",
+    "hi": "अब यह जिज्ञासा है: सबसे पहले क्या था? वह क्या है? किससे जन्म होता है? किससे जीवन है? किसमें अस्त होता है?",
+    "en": "Now this inquiry: What was first among Brahman's (creations)? What is that? From what is one born? By what does one live? Into what does one dissolve at death?",
+    "ws": [
+      {
+        "s": "सम्प्रश्नः",
+        "h": "जिज्ञासा / inquiry",
+        "e": "the inquiry, the question"
+      },
+      {
+        "s": "पूर्वम्",
+        "h": "पहले",
+        "e": "first, before"
+      },
+      {
+        "s": "किम्",
+        "h": "क्या",
+        "e": "what"
+      },
+      {
+        "s": "जायते",
+        "h": "जन्म होता है",
+        "e": "is born"
+      },
+      {
+        "s": "जीवति",
+        "h": "जीता है",
+        "e": "lives"
+      },
+      {
+        "s": "अस्तम्",
+        "h": "अस्त / लय",
+        "e": "dissolution at death"
+      }
+    ],
+    "gr": "Five fundamental questions about existence: <strong>What was first? What is it? From what is one born? By what does one live? Into what does one dissolve?</strong> These are the questions of every seeking soul.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "ये पाँच प्रश्न existence के पाँच पहलू हैं। उत्तर एक: ब्रह्म। सब ब्रह्म से उत्पन्न, ब्रह्म में जीते, ब्रह्म में लीन।",
+        "en": "Five questions about five aspects of existence. One answer: Brahman. All arise from Brahman, live in Brahman, dissolve into Brahman.",
+        "ins": "एक प्रश्न — एक उत्तर: ब्रह्म।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ये प्रश्न ईश्वर की खोज के हैं। उत्तर: ईश्वर ही सबसे पहले था, उसी से जन्म, उसी में जीवन, उसी में लय।",
+        "en": "These questions seek God. Answer: God was first, from Him birth, in Him life, into Him dissolution.",
+        "ins": "ईश्वर ही आदि, मध्य और अंत है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "These are the perennial questions of philosophy. Aitareya answers: Consciousness (Prajna) is the answer to all five. Before existence, in existence, and after existence — Consciousness.",
+        "en": "Perennial philosophical questions. Aitareya answers: Consciousness (Prajna) answers all five. Before, during, and after existence — Consciousness.",
+        "ins": "The answer to all existential questions is: Consciousness."
+      }
+    },
+    "dp": [
+      {
+        "q": "❓ पाँच महाप्रश्न",
+        "a": "ये पाँच प्रश्न सारी philosophy के मूल हैं: (१) Origin (२) Nature (३) Birth (४) Life (५) Death। <strong>सभी traditions इन्हीं प्रश्नों का उत्तर देती हैं।</strong> Aitareya का उत्तर: प्रज्ञान (consciousness)।"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "adhyaya": "अध्याय २",
+    "sk": "ब्रह्म प्रज्ञानमिति ।\nस वा एष प्राणः प्रज्ञानमेव ।\nप्राणो ह वाव प्रज्ञानम् ।\nप्रज्ञानं हि वाव प्राणः ॥",
+    "ro": "Brahma prajñānamiti · sa vā eṣa prāṇaḥ prajñānameva · prāṇo ha vāva prajñānam · prajñānaṃ hi vāva prāṇaḥ",
+    "hi": "ब्रह्म प्रज्ञान है। वह यह प्राण प्रज्ञान ही है। प्राण निश्चित रूप से प्रज्ञान है। प्रज्ञान निश्चित रूप से प्राण है।",
+    "en": "Brahman is Consciousness. This Prana is indeed Consciousness. Prana is verily Consciousness. Consciousness is verily Prana.",
+    "ws": [
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म",
+        "e": "Brahman"
+      },
+      {
+        "s": "प्रज्ञानम्",
+        "h": "प्रज्ञान / चेतना",
+        "e": "Consciousness"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण",
+        "e": "Prana, life-breath"
+      },
+      {
+        "s": "एव",
+        "h": "निश्चित रूप से",
+        "e": "verily, indeed"
+      },
+      {
+        "s": "वाव",
+        "h": "निश्चित ही",
+        "e": "certainly, truly"
+      }
+    ],
+    "gr": "<strong>Equation: Brahman = Prajna = Prana.</strong> Three-way identity. Prana is not mere breath — it is consciousness itself in its dynamic aspect. This is the heart of Aitareya.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "ब्रह्म = प्रज्ञान = प्राण — तीनों एक। प्राण यहाँ केवल श्वास नहीं — वह cosmic life-force है जो consciousness का dynamic aspect है।",
+        "en": "Brahman = Prajna = Prana — all three are one. Prana here is not mere breath — it is cosmic life-force, the dynamic aspect of consciousness.",
+        "ins": "प्राण = consciousness in motion."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ईश्वर ही प्रज्ञान है — वही प्राण के रूप में सब में जीवित है। जहाँ प्राण है — वहाँ ईश्वर है।",
+        "en": "God is Consciousness — He lives in all as Prana. Where there is Prana — there is God.",
+        "ins": "प्राण ईश्वर की उपस्थिति है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Prana = Prajna = Brahman. Life-force and consciousness are not separate — they are one reality at different levels. This is the key to understanding life.",
+        "en": "Life-force and consciousness are not separate — one reality at different levels. Prana is consciousness concentrated into life.",
+        "ins": "Life is consciousness in its most dynamic form."
+      }
+    },
+    "dp": [
+      {
+        "q": "💨 प्राण = चेतना — यह कैसे?",
+        "a": "प्राण केवल श्वास नहीं — यह <strong>cosmic life-force</strong> है। जब यह जाता है — जीव मृत होता है। जब यह है — consciousness जागृत है। इसीलिए प्राण = प्रज्ञान। <strong>Life IS consciousness in action।</strong>"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "adhyaya": "अध्याय २",
+    "sk": "तदाहुः ।\nयद्यस्मिन्नेतानि सर्वाणि ज्ञानानि संपतन्ति तत्प्रज्ञानम् ।\nतद्ब्रह्म तदमृतम् ।\nतत् सर्वम् ॥",
+    "ro": "Tadāhuḥ · yadyasminnnetāni sarvāṇi jñānāni saṃpatanti tatprajñānam · tadbrahma tadamṛtam · tat sarvam",
+    "hi": "इस विषय में कहते हैं: जिसमें ये सभी ज्ञान समाहित होते हैं — वह प्रज्ञान है। वह ब्रह्म है, वह अमृत है, वह सब कुछ है।",
+    "en": "About this they say: That in which all these forms of knowledge come together — that is Prajna. That is Brahman, that is Immortal, that is All.",
+    "ws": [
+      {
+        "s": "एतानि सर्वाणि ज्ञानानि",
+        "h": "ये सभी ज्ञान",
+        "e": "all these forms of knowledge"
+      },
+      {
+        "s": "संपतन्ति",
+        "h": "समाहित होते हैं",
+        "e": "come together, converge"
+      },
+      {
+        "s": "तत् प्रज्ञानम्",
+        "h": "वह प्रज्ञान है",
+        "e": "that is Prajna"
+      },
+      {
+        "s": "तत् ब्रह्म",
+        "h": "वह ब्रह्म है",
+        "e": "that is Brahman"
+      },
+      {
+        "s": "तत् अमृतम्",
+        "h": "वह अमृत है",
+        "e": "that is Immortal"
+      },
+      {
+        "s": "तत् सर्वम्",
+        "h": "वह सब कुछ है",
+        "e": "that is All"
+      }
+    ],
+    "gr": "<strong>तत् सर्वम्</strong> — 'That is all.' The simplest and most complete statement. All knowledge converges in Prajna. Prajna = Brahman = Immortal = All. This is the final equation.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "जब सभी ज्ञान एक में आते हैं — वह प्रज्ञान है। वह ब्रह्म है। यह ज्ञान-मार्ग की culmination है — सब ज्ञान अंततः एक ही सत्य में converge होते हैं।",
+        "en": "When all forms of knowledge converge in one — that is Prajna. That is Brahman. This is the culmination of the path of knowledge.",
+        "ins": "सर्वं ज्ञानं एकत्र — सब ज्ञान एक में।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "सब ज्ञान ईश्वर की ओर ले जाते हैं। जब सब ज्ञान ईश्वर में समाहित हों — तब वह प्रज्ञान है — वह अमृत है।",
+        "en": "All knowledge leads to God. When all knowledge is absorbed in God — that is Prajna — that is Immortal.",
+        "ins": "ईश्वर-ज्ञान में सब ज्ञान समाहित हैं।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "All knowledge converging = Supramental realization. When the mind no longer fragments reality into separate knowing — Prajna dawns. Tat sarvam — That is all.",
+        "en": "All knowledge converging = Supramental realization. When mind stops fragmenting — Prajna dawns. 'Tat sarvam — That is all.'",
+        "ins": "Omniscience is not knowing many things — it is knowing the One in all."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌊 'तत् सर्वम्' — सब कुछ एक में",
+        "a": "यह Upanishad का climax है। तीन शब्द: <strong>ब्रह्म + अमृत + सर्वम्</strong> — एक ही reality के तीन नाम। जो ब्रह्म है वही अमृत है वही सब कुछ है। <strong>कोई अलग नहीं।</strong>"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "adhyaya": "अध्याय २",
+    "sk": "अथ खलु क्रतुमयः पुरुषो भवति ।\nयथाक्रतुरस्मिँल्लोके पुरुषो भवति ।\nतथेतः प्रेत्य भवति ।\nस क्रतुं कुर्वीत ॥",
+    "ro": "Atha khalu kratumayaḥ puruṣo bhavati · yathākraturasmil loke puruṣo bhavati · tathetaḥ pretya bhavati · sa kratuṃ kurvīta",
+    "hi": "और वास्तव में पुरुष इच्छा/संकल्प-स्वरूप है। जैसा इस लोक में पुरुष का संकल्प होता है — वैसा ही वह मृत्यु के बाद भी होता है। इसलिए उसे (अच्छे) संकल्प बनाने चाहिए।",
+    "en": "And indeed the Person is made of will (kratu). As is a person's will in this world — so he becomes after death. Therefore let him form his will (rightly).",
+    "ws": [
+      {
+        "s": "क्रतुमयः",
+        "h": "संकल्प-स्वरूप",
+        "e": "made of will, constituted by intention"
+      },
+      {
+        "s": "यथाक्रतुः",
+        "h": "जैसा संकल्प",
+        "e": "as is the will"
+      },
+      {
+        "s": "प्रेत्य",
+        "h": "मृत्यु के बाद",
+        "e": "after death"
+      },
+      {
+        "s": "क्रतुं कुर्वीत",
+        "h": "संकल्प बनाए",
+        "e": "let him form his will"
+      }
+    ],
+    "gr": "<strong>क्रतुमयः पुरुषः</strong> — 'The Person is made of will/intention.' One of the most profound psychological statements of Vedanta. What you deeply intend — you become. This is the law of karma.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "पुरुष = संकल्प-स्वरूप। जैसी इच्छा, वैसा जन्म। यही karma-theory का core है। इसीलिए सत्संकल्प आवश्यक है।",
+        "en": "The Person is constituted by will. As is the will, such is the next birth. This is the core of karma theory. Hence right intention is essential.",
+        "ins": "जैसा संकल्प — वैसा अगला जन्म।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "ईश्वर-भक्ति का संकल्प = मोक्ष की दिशा। जो इस जीवन में ईश्वर का संकल्प करता है — वह मृत्यु के बाद भी ईश्वर में रहता है।",
+        "en": "The will to devotion = direction toward liberation. One who intends God in this life — remains in God after death.",
+        "ins": "अंतिम संकल्प ईश्वर-स्मरण हो।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "'The Person is made of will' — this is the psychological law of transformation. What you deeply intend and aspire for — that is what your consciousness becomes.",
+        "en": "'The Person is made of will' — psychological law of transformation. What you deeply intend — your consciousness becomes that.",
+        "ins": "Aspiration is the most powerful force of transformation."
+      }
+    },
+    "dp": [
+      {
+        "q": "🧠 'क्रतुमयः पुरुषः' — आप आपके विचार हैं",
+        "a": "यह Vedanta का psychology है: <strong>जैसा गहरा संकल्प — वैसा जीव।</strong> यही Brihadaranyaka (4.4.5) में भी है: 'स यथाकामो bhavati तथाक्रतुः bhavati।' आधुनिक psychology का 'you are what you think' — 3000 साल पहले।"
+      },
+      {
+        "q": "🎯 'सः क्रतुं कुर्वीत' — practical guidance",
+        "a": "इसीलिए: <strong>अच्छे संकल्प करो।</strong> सुबह जागने पर सत्संकल्प। रात सोने से पहले अच्छे विचार। मृत्यु के समय जो विचार — वही अगला जन्म। यही Bhagavad Gita (8.6) का भी message है।"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "adhyaya": "अध्याय २",
+    "sk": "मनसैव इदमाप्तव्यम् ।\nनेह नाना अस्ति किञ्चन ।\nमृत्योः स मृत्युमाप्नोति ।\nय इह नानेव पश्यति ॥",
+    "ro": "Manasaiva idamāptavyam · neha nānā asti kiñcana · mṛtyoḥ sa mṛtyumāpnoti · ya iha nāneva paśyati",
+    "hi": "यह मन से ही प्राप्त करना है। यहाँ कोई भेद नहीं है। जो यहाँ भेद देखता है — वह मृत्यु से मृत्यु को प्राप्त होता है।",
+    "en": "This is to be attained by mind alone. There is no diversity here whatsoever. One who sees diversity here — goes from death to death.",
+    "ws": [
+      {
+        "s": "मनसा एव",
+        "h": "मन से ही",
+        "e": "by mind alone"
+      },
+      {
+        "s": "इदम् आप्तव्यम्",
+        "h": "यह प्राप्त करना है",
+        "e": "this is to be attained"
+      },
+      {
+        "s": "नेह नाना",
+        "h": "यहाँ कोई भेद नहीं",
+        "e": "no diversity here"
+      },
+      {
+        "s": "मृत्योः मृत्युम्",
+        "h": "मृत्यु से मृत्यु",
+        "e": "from death to death"
+      },
+      {
+        "s": "नानेव पश्यति",
+        "h": "भेद देखता है",
+        "e": "sees as if diverse"
+      }
+    ],
+    "gr": "<strong>नेह नाना अस्ति किञ्चन</strong> — 'There is no diversity here whatsoever.' One of the boldest non-dual statements. Echoed in Brihadaranyaka 4.4.19. Seeing diversity = spiritual death.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "यह अद्वैत का core statement है — नेह नाना। भेद-दृष्टि = अज्ञान = मृत्यु। एकत्व-दर्शन = ज्ञान = अमृत। मन ही इसे realize कर सकता है।",
+        "en": "This is the core statement of Advaita — no diversity. Seeing diversity = ignorance = death. Seeing oneness = knowledge = immortality.",
+        "ins": "नेह नाना — there is absolutely no diversity. This is the final truth."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "'नाना नहीं' का अर्थ है: जगत् की diversity ईश्वर की unity को नहीं छुपाती। सब एक ईश्वर के शरीर हैं — इसलिए 'नाना नहीं।'",
+        "en": "'No diversity' means: the world's diversity does not hide God's unity. All are God's one body — hence 'no diversity.'",
+        "ins": "विविधता में एकता — यही ईश्वर-दर्शन है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "'No diversity here' — this is Supramental vision. The Supramental sees the One in all without losing the many. Death to death = the wheel of ignorance.",
+        "en": "'No diversity here' — Supramental vision. The Supramental sees One in all without losing the many. Death to death = the wheel of ignorance.",
+        "ins": "The Supramental sees unity in diversity without denying either."
+      }
+    },
+    "dp": [
+      {
+        "q": "💀 'मृत्योः मृत्युम्' — भेद-दृष्टि और मृत्यु",
+        "a": "यह strong statement है: जो diversity देखता है — वह <strong>मृत्यु से मृत्यु को प्राप्त होता है</strong> — अर्थात् बार-बार जन्मता-मरता है। यही samsara है। एकत्व-दर्शन ही samsara से मुक्ति का मार्ग है।"
+      },
+      {
+        "q": "🧠 'मनसा एव' — मन से ही",
+        "a": "Brahman को इन्द्रियों से नहीं — <strong>मन से प्राप्त किया जाता है।</strong> पर यह ordinary mind नहीं — शुद्ध, एकाग्र, द्वंद्व-रहित मन। यही ध्यान का उद्देश्य है।"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "adhyaya": "अध्याय २",
+    "sk": "इन्द्रो मायाभिः पुरुरूप ईयते ।\nयुक्ता ह्यस्य हरयः शता दश ।\nअयं च हस्त एष च यः ।\nवीर्यं शतहस्ति भव ॥",
+    "ro": "Indro māyābhiḥ purarūpa īyate · yuktā hyasya harayaḥ śatā daśa · ayaṃ ca hasta eṣa ca yaḥ · vīryaṃ śatahasti bhava",
+    "hi": "इन्द्र माया से अनेक रूपों में प्रकट होता है। उसके हजार घोड़े जुते हैं। यह हाथ और वह जो है — वीर्यवान् हो, सौ हाथों वाला हो।",
+    "en": "Indra moves in many forms through maya. Yoked to him are ten hundreds of horses. This hand and that which is — be mighty, be hundred-handed.",
+    "ws": [
+      {
+        "s": "इन्द्रः",
+        "h": "इन्द्र — cosmic power",
+        "e": "Indra, the cosmic power"
+      },
+      {
+        "s": "मायाभिः",
+        "h": "माया से",
+        "e": "through maya, through power"
+      },
+      {
+        "s": "पुरुरूपः",
+        "h": "अनेक रूपों में",
+        "e": "in many forms"
+      },
+      {
+        "s": "हरयः शता दश",
+        "h": "हजार घोड़े",
+        "e": "ten hundreds of horses"
+      },
+      {
+        "s": "वीर्यम्",
+        "h": "वीर्य / शक्ति",
+        "e": "power, strength"
+      },
+      {
+        "s": "शतहस्ति",
+        "h": "सौ हाथों वाला",
+        "e": "hundred-handed"
+      }
+    ],
+    "gr": "<strong>माया</strong> here = creative power (not illusion). Indra = dynamic aspect of Brahman. The many forms = manifestations of one consciousness through its creative power.",
+    "mt": "Prose with verse",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "इन्द्र = ब्रह्म का dynamic aspect। माया = creative power। अनेक रूप = एक ही consciousness की अभिव्यक्तियाँ। यही माया का सकारात्मक अर्थ है।",
+        "en": "Indra = dynamic aspect of Brahman. Maya = creative power. Many forms = manifestations of one consciousness.",
+        "ins": "माया = creative power, not mere illusion."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "इन्द्र = ईश्वर का एक रूप। माया = ईश्वर की अद्भुत शक्ति। हजार घोड़े = अनंत शक्ति का प्रतीक।",
+        "en": "Indra = one form of God. Maya = God's wondrous power. Thousand horses = symbol of infinite power.",
+        "ins": "ईश्वर की शक्ति अनंत है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Indra through maya = Supermind manifesting through multiple forms. The hundred hands = omnipotent action in all directions simultaneously.",
+        "en": "Indra through maya = Supermind manifesting through multiple forms. Hundred hands = omnipotent simultaneous action.",
+        "ins": "The One acts in all directions simultaneously — this is divine omnipotence."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌈 'माया' — यहाँ illusion नहीं",
+        "a": "माया का commonly negative अर्थ लिया जाता है — illusion। पर Rigveda और Aitareya में माया = <strong>creative power, magical skill</strong>। Indra माया से अनेक रूप लेता है — यह शक्ति है, भ्रम नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "adhyaya": "अध्याय २",
+    "sk": "त्वमिन्द्र वज्रिन् वसुपते सुवृक्तिभिः ।\nत्वां स्तोमैरभ्यर्चन्त आयवः ।\nत्वं विश्वेभिः सोमपाभिरेद्ध्यपो न नावा दुरिता तरेम ॥",
+    "ro": "Tvamindra vajrin vasupate suvṛktibhiḥ · tvāṃ stomairabhyarcanta āyavaḥ · tvaṃ viśvebhiḥ somapābhireddhyapo na nāvā duritā tarema",
+    "hi": "हे इन्द्र, हे वज्रधारी, हे वसुपति! सुंदर स्तुतियों से तुम्हारी उपासना की। तुम्हें स्तोत्रों से आयुओं ने पूजा। तुम सब सोमपानों से प्रकाशित हो — हम नाव से पानी की तरह दुरितों को पार करें।",
+    "en": "O Indra, O wielder of vajra, O Lord of treasures! With beautiful praises they worship you. The long-lived ones praised you with hymns. You are kindled with all soma-drinkings — may we cross troubles as a boat crosses water.",
+    "ws": [
+      {
+        "s": "इन्द्र वज्रिन्",
+        "h": "हे इन्द्र, वज्रधारी",
+        "e": "O Indra, vajra-wielder"
+      },
+      {
+        "s": "वसुपते",
+        "h": "हे वसुपति — धन के स्वामी",
+        "e": "O Lord of treasures"
+      },
+      {
+        "s": "सुवृक्तिभिः",
+        "h": "सुंदर स्तुतियों से",
+        "e": "with beautiful praises"
+      },
+      {
+        "s": "नावा",
+        "h": "नाव से",
+        "e": "as a boat"
+      },
+      {
+        "s": "दुरिता",
+        "h": "दुरित / संकट",
+        "e": "troubles, difficulties"
+      },
+      {
+        "s": "तरेम",
+        "h": "पार करें",
+        "e": "may we cross"
+      }
+    ],
+    "gr": "A beautiful hymnic prayer to Indra. <strong>नावा दुरिता तरेम</strong> — 'May we cross troubles like a boat crosses water.' This is one of the most eloquent Vedic prayers for divine help.",
+    "mt": "Verse — Rigvedic hymn style",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "इन्द्र की उपासना = ब्रह्म की उपासना उसके dynamic aspect में। यह saguna upasana है — जो निर्गुण की ओर ले जाती है।",
+        "en": "Worship of Indra = worship of Brahman in its dynamic aspect. This is saguna worship — leading toward the Absolute.",
+        "ins": "सगुण उपासना निर्गुण की सीढ़ी है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "यह भक्ति-प्रार्थना है — ईश्वर से संकटों को पार करने की माँग। 'नाव से पानी पार' = ईश्वर की कृपा से samsara पार।",
+        "en": "This is devotional prayer — asking God to help cross difficulties. 'Cross water by boat' = cross samsara by God's grace.",
+        "ins": "भक्त की प्रार्थना: हे प्रभु! संसार-सागर पार करा दो।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "'May we cross troubles as a boat crosses water' — this is the aspiration of the seeking soul. The Supramental force (Indra) is the boat that carries us across.",
+        "en": "May we cross troubles as a boat crosses water — the aspiration of the seeking soul. The Supramental force is the boat that carries us across.",
+        "ins": "Divine Grace is the boat that carries us across the ocean of difficulties."
+      }
+    },
+    "dp": [
+      {
+        "q": "⛵ 'नावा दुरिता तरेम' — एक अद्भुत prayer",
+        "a": "यह Vedic prayer आज भी उतनी ही powerful है: <strong>'जैसे नाव पानी पार करती है — वैसे हम दुरितों को पार करें।'</strong> यहाँ ईश्वर = नाव है। हम passengers हैं। शर्त यह है कि नाव पर चढ़ना हो — भक्ति से।"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "adhyaya": "अध्याय ३",
+    "sk": "स एष जज्ञे बहुभिर्वरेण्यः ।\nश्रिया हि युक्तो वरुणो महित्वा ।\nमहो देवानां असुरत्वमेकम् ।\nकस्तं यज्ञैः कस्तु ब्रह्मण्युपास्ते ॥",
+    "ro": "Sa eṣa jajñe bahubhirvarayaḥ · śriyā hi yukto varuṇo mahitvā · maho devānām asuratvamekam · kastaṃ yajñaiḥ kastu brahmaṇyupāste",
+    "hi": "वह बहुओं के द्वारा वरण करने योग्य उत्पन्न हुआ। वरुण श्री और महिमा से युक्त है। देवताओं का वह असुरत्व एक है। उसे कौन यज्ञ से और कौन ब्रह्म की उपासना से पूजे?",
+    "en": "He was born chosen by many. Varuna is endowed with glory and greatness. The Asuratva of the great gods is one. Who shall worship him with sacrifices — who with Brahman-meditation?",
+    "ws": [
+      {
+        "s": "वरेण्यः",
+        "h": "वरण करने योग्य",
+        "e": "worthy of being chosen"
+      },
+      {
+        "s": "श्रिया युक्तः",
+        "h": "श्री से युक्त",
+        "e": "endowed with glory"
+      },
+      {
+        "s": "महित्वा",
+        "h": "महिमा से",
+        "e": "with greatness"
+      },
+      {
+        "s": "असुरत्वम्",
+        "h": "अतिमानवी शक्ति",
+        "e": "divine power, supernatural might"
+      },
+      {
+        "s": "यज्ञैः",
+        "h": "यज्ञ से",
+        "e": "with sacrifices"
+      },
+      {
+        "s": "उपास्ते",
+        "h": "उपासना करे",
+        "e": "worships, meditates"
+      }
+    ],
+    "gr": "<strong>असुरत्वम्</strong> here (Vedic context) = divine, superhuman power — not the later meaning of 'demon.' The question contrasts yajña (ritual) and brahman-upasana (meditation) as two paths.",
+    "mt": "Verse",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "यज्ञ = कर्म-मार्ग। ब्रह्म-उपासना = ज्ञान-मार्ग। दोनों ईश्वर तक पहुँचते हैं — पर ज्ञान-मार्ग direct है।",
+        "en": "Yajna = path of action. Brahman-upasana = path of knowledge. Both reach God — but knowledge is the direct path.",
+        "ins": "यज्ञ सीढ़ी है, ज्ञान मंजिल है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "यज्ञ और ब्रह्म-उपासना दोनों ईश्वर की आराधना के तरीके हैं। दोनों valuable हैं — दोनों devotion के रूप हैं।",
+        "en": "Both yajna and brahman-upasana are ways of worshipping God. Both are valuable — both are forms of devotion.",
+        "ins": "भक्ति के अनेक मार्ग — सब ईश्वर तक।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "The question points to the evolution of worship: from ritual (yajna) to meditation (upasana). Both valid at their level — but upasana is the higher.",
+        "en": "The evolution of worship: from ritual (yajna) to meditation (upasana). Both valid — but upasana is the higher form.",
+        "ins": "Ritual is the kindergarten of worship — meditation is the university."
+      }
+    },
+    "dp": [
+      {
+        "q": "🔥 यज्ञ बनाम ब्रह्म-उपासना",
+        "a": "यह question बहुत important है: बाहरी यज्ञ (ritual) या भीतरी ब्रह्म-उपासना (meditation) — कौन श्रेष्ठ? Aitareya का answer: <strong>दोनों एक ही लक्ष्य के अलग-अलग मार्ग हैं।</strong> पर ज्ञान-मार्ग अधिक direct है।"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "adhyaya": "अध्याय ३",
+    "sk": "देवताः प्राणम् एव ।\nप्राणं हि वाव ता उपासते ।\nप्राणो ह्येतेभ्यो ज्यायान् ।\nस हि प्राणो देव एव ॥",
+    "ro": "Devatāḥ prāṇam eva · prāṇaṃ hi vāva tā upāsate · prāṇo hyetebhyo jyāyān · sa hi prāṇo deva eva",
+    "hi": "देवताएँ वास्तव में प्राण हैं। वे निश्चित रूप से प्राण की ही उपासना करती हैं। प्राण इन सबसे बड़ा है। वह प्राण ही देव है।",
+    "en": "The deities are indeed Prana. They verily worship Prana. Prana is greater than all these. That Prana is indeed the deity.",
+    "ws": [
+      {
+        "s": "देवताः",
+        "h": "देवताएँ",
+        "e": "the deities"
+      },
+      {
+        "s": "प्राणम् एव",
+        "h": "प्राण ही",
+        "e": "Prana indeed"
+      },
+      {
+        "s": "ज्यायान्",
+        "h": "बड़ा / श्रेष्ठ",
+        "e": "greater, superior"
+      },
+      {
+        "s": "देव एव",
+        "h": "देव ही है",
+        "e": "is indeed the deity"
+      }
+    ],
+    "gr": "<strong>प्राणो देव एव</strong> — Prana itself is the deity. All gods are ultimately aspects of Prana (life-force/consciousness). This culminates the Aitareya teaching on Prana.",
+    "mt": "Prose",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "प्राण = consciousness का dynamic form। सब देव प्राण के ही रूप हैं। जो प्राण को जानता है — वह सब देवों को जानता है।",
+        "en": "Prana = dynamic form of consciousness. All deities are forms of Prana. One who knows Prana — knows all deities.",
+        "ins": "एक प्राण में सब देव — एक ब्रह्म में सब।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "प्राण = ईश्वर की जीवन-शक्ति जो सब में है। सब देव उसी प्राण की उपासना करते हैं — क्योंकि प्राण = ईश्वर।",
+        "en": "Prana = God's life-force present in all. All deities worship that Prana — because Prana = God.",
+        "ins": "प्राण ईश्वर की उपस्थिति है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "All gods are Prana — Prana is the One cosmic force behind all divine manifestations. This is Vedic monotheism: many names, one Prana.",
+        "en": "All gods are Prana — Prana is the one cosmic force behind all divine manifestations. Vedic monotheism: many names, one Prana.",
+        "ins": "Behind every god is one Prana — behind every Prana is one Consciousness."
+      }
+    },
+    "dp": [
+      {
+        "q": "🌟 'प्राणो देव एव' — प्राण ही देव है",
+        "a": "सब देव = प्राण के विभिन्न aspects। Agni = Prana as fire. Vayu = Prana as wind. Indra = Prana as power. <strong>सब ultimately एक ही cosmic life-force हैं।</strong> यही Vedic monotheism का सार है।"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "adhyaya": "अध्याय ३",
+    "sk": "वामदेवः प्रतिपेदे ।\nअहं मनुरभवं सूर्यश्च ।\nस एवं विद्वान् स्मरति ।\nअहं ब्रह्मास्मीति ॥",
+    "ro": "Vāmadevaḥ pratipatede · ahaṃ manurabhavaṃ sūryaśca · sa evaṃ vidvān smarati · ahaṃ brahmāsmīti",
+    "hi": "वामदेव ने यह जाना। (उन्होंने कहा:) 'मैं मनु था और सूर्य भी।' वे इस प्रकार जानने वाले इसे याद करते हैं: 'अहं ब्रह्मास्मि' — मैं ब्रह्म हूँ।",
+    "en": "Vamadeva realized this. He said: 'I was Manu and the Sun.' He who knows thus remembers: 'Aham Brahmasmi — I am Brahman.'",
+    "ws": [
+      {
+        "s": "वामदेवः",
+        "h": "वामदेव ऋषि",
+        "e": "Vamadeva, the seer"
+      },
+      {
+        "s": "प्रतिपेदे",
+        "h": "जाना / प्राप्त किया",
+        "e": "realized, attained"
+      },
+      {
+        "s": "अहं मनुः अभवम्",
+        "h": "मैं मनु था",
+        "e": "I was Manu"
+      },
+      {
+        "s": "सूर्यः च",
+        "h": "और सूर्य भी",
+        "e": "and the Sun also"
+      },
+      {
+        "s": "अहं ब्रह्मास्मि",
+        "h": "मैं ब्रह्म हूँ",
+        "e": "I am Brahman"
+      }
+    ],
+    "gr": "<strong>वामदेव</strong> — the Rigvedic seer who realized Brahman even while still in the womb. <strong>अहं ब्रह्मास्मि</strong> = one of the four Mahāvākyas (from Brihadaranyaka, but realized here in Aitareya's context).",
+    "mt": "Prose — historical realization account",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "वामदेव ने गर्भ में ही ब्रह्म-साक्षात्कार किया। 'मैं मनु था, सूर्य था' = एक ही consciousness सब रूपों में। यही अहं ब्रह्मास्मि का अनुभव है।",
+        "en": "Vamadeva realized Brahman even in the womb. 'I was Manu, was the Sun' = one consciousness in all forms. This is the experience of 'Aham Brahmasmi.'",
+        "ins": "अहं ब्रह्मास्मि — not a belief but a direct realization."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "वामदेव की अनुभूति दिखाती है कि ईश्वर-साक्षात्कार किसी भी अवस्था में संभव है। 'अहं ब्रह्मास्मि' = जीव का ब्रह्म में लीनता का अनुभव।",
+        "en": "Vamadeva's realization shows God-realization is possible in any state. 'Aham Brahmasmi' = the experience of the soul's unity with Brahman.",
+        "ins": "ईश्वर-साक्षात्कार — किसी भी अवस्था में संभव।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "Vamadeva's realization in the womb = consciousness awakening before birth. 'I was Manu, was the Sun' = Supramental omniscience — knowing oneself as all.",
+        "en": "Vamadeva's womb-realization = consciousness awakening before birth. 'I was Manu, was the Sun' = Supramental knowing — oneself as all.",
+        "ins": "Supramental realization transcends personal identity — one becomes all."
+      }
+    },
+    "dp": [
+      {
+        "q": "👶 वामदेव ने गर्भ में ब्रह्म जाना?",
+        "a": "हाँ — Rigveda (4.27.1) में वामदेव कहते हैं: 'गर्भे नु सन् अन्वेषमाणः' — गर्भ में ही खोजते हुए। यह extraordinary claim है। पर Vedanta कहती है: <strong>consciousness body से बंधी नहीं — वह किसी भी अवस्था में जागृत हो सकती है।</strong>"
+      },
+      {
+        "q": "🌟 'अहं ब्रह्मास्मि' — यहाँ connection",
+        "a": "यह वाक्यांश मुख्यतः Brihadaranyaka (1.4.10) का महावाक्य है। Aitareya में वामदेव इसे realize करते हैं। <strong>यह declaration नहीं — direct experience है।</strong> वामदेव model हैं।"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "adhyaya": "अध्याय ३",
+    "sk": "एवं ह स्म एतद्विद्वान् ब्राह्मणो ज्येष्ठः श्रेष्ठश्च भवति ।\nस्वर्गमेव लोकमाप्नोति ।\nय एवं वेद ।\nय एवं वेद ॥",
+    "ro": "Evaṃ ha sma etadvidvān brāhmaṇo jyeṣṭhaḥ śreṣṭhaśca bhavati · svargameva lokamāpnoti · ya evaṃ veda · ya evaṃ veda",
+    "hi": "इस प्रकार जानने वाला ब्राह्मण ज्येष्ठ और श्रेष्ठ हो जाता है। वह स्वर्गलोक को प्राप्त करता है। जो इस प्रकार जानता है — जो इस प्रकार जानता है।",
+    "en": "One who knows this thus becomes the eldest and best among brahmanas. He attains the heavenly world. One who knows this thus — one who knows this thus.",
+    "ws": [
+      {
+        "s": "एवं विद्वान्",
+        "h": "इस प्रकार जानने वाला",
+        "e": "one who knows thus"
+      },
+      {
+        "s": "ज्येष्ठः",
+        "h": "ज्येष्ठ / सबसे बड़ा",
+        "e": "eldest, first"
+      },
+      {
+        "s": "श्रेष्ठः",
+        "h": "श्रेष्ठ / सर्वश्रेष्ठ",
+        "e": "best, highest"
+      },
+      {
+        "s": "स्वर्गम् लोकम्",
+        "h": "स्वर्गलोक",
+        "e": "heavenly world"
+      },
+      {
+        "s": "य एवं वेद",
+        "h": "जो इस प्रकार जानता है",
+        "e": "one who knows thus"
+      }
+    ],
+    "gr": "<strong>य एवं वेद</strong> — repeated twice as a closing seal. 'One who knows thus' = the refrain of Upanishadic culmination. <strong>ब्राह्मण</strong> here = 'one who knows Brahman,' not a caste designation.",
+    "mt": "Prose — penultimate mantra",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "ब्राह्मण = ब्रह्म-ज्ञाता — जाति नहीं। जो प्रज्ञानं ब्रह्म जानता है वह सबसे श्रेष्ठ है। 'य एवं वेद' = यह ज्ञान ही उत्कृष्टता देता है।",
+        "en": "Brahmana = knower of Brahman — not caste. One who knows 'Prajnanam Brahma' is the highest. 'Ya evam veda' = this knowledge itself confers excellence.",
+        "ins": "ब्राह्मणत्व = ब्रह्म-ज्ञान, जन्म नहीं।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "जो ईश्वर को जानता है — वह सबसे श्रेष्ठ है। यह ज्ञान जाति से नहीं — भक्ति और ज्ञान से आता है।",
+        "en": "One who knows God is the highest. This knowledge comes not from caste but from devotion and wisdom.",
+        "ins": "ज्ञान और भक्ति से श्रेष्ठता — जन्म से नहीं।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "'Brahmana' = one who has realized Consciousness as Brahman. This is the highest human achievement — not by birth but by realization.",
+        "en": "'Brahmana' = one who has realized Consciousness as Brahman. Highest achievement — not by birth but by direct realization.",
+        "ins": "True nobility is realized, not inherited."
+      }
+    },
+    "dp": [
+      {
+        "q": "🎓 'ब्राह्मण' — जाति नहीं, ज्ञान",
+        "a": "यहाँ ब्राह्मण का अर्थ जाति नहीं — <strong>ब्रह्म-ज्ञाता।</strong> जो प्रज्ञानं ब्रह्म को जानता है — वही सच्चा ब्राह्मण है। Aitareya और सभी Upanishads कहती हैं: <strong>ज्ञान से श्रेष्ठता — जन्म से नहीं।</strong>"
+      },
+      {
+        "q": "🔁 'य एवं वेद' — दो बार क्यों?",
+        "a": "Upanishads में यह refrain है — 'जो इस प्रकार जानता है।' दो बार = absolute emphasis। <strong>यह ज्ञान — प्रज्ञानं ब्रह्म — यही सर्वश्रेष्ठता है।</strong>"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "adhyaya": "अध्याय ३ — उपसंहार",
+    "sk": "प्रज्ञानं ब्रह्म ।\nप्रज्ञानमेव ब्रह्म ।\nस य एवं विद्वान् ।\nअस्माल्लोकादुत्क्रम्य ।\nयदमृतमभयम् ।\nतद्विद्वान् ।\nस समभवत् ।\nॐ शान्तिः शान्तिः शान्तिः ॥",
+    "ro": "Prajñānaṃ brahma · prajñānameva brahma · sa ya evaṃ vidvān · asmāllokādudkramya · yadamṛtamabhayam · tadvidvān · sa samabhavat · Om śāntiḥ śāntiḥ śāntiḥ",
+    "hi": "प्रज्ञान ही ब्रह्म है। प्रज्ञान ही ब्रह्म है। जो इस प्रकार जानता है — वह इस लोक से उठकर — जो अमृत और अभय है — उसे जानकर — वह (उसमें) हो गया। ॐ — शान्ति, शान्ति, शान्ति।",
+    "en": "Consciousness is Brahman. Consciousness indeed is Brahman. He who knows thus — rising from this world — that which is immortal and fearless — knowing that — he became it. OM — Peace, Peace, Peace.",
+    "ws": [
+      {
+        "s": "प्रज्ञानम् ब्रह्म",
+        "h": "प्रज्ञान = ब्रह्म",
+        "e": "Consciousness = Brahman"
+      },
+      {
+        "s": "य एवं विद्वान्",
+        "h": "जो इस प्रकार जानता है",
+        "e": "one who knows thus"
+      },
+      {
+        "s": "उत्क्रम्य",
+        "h": "उठकर / पार करके",
+        "e": "having risen, transcended"
+      },
+      {
+        "s": "अमृतम्",
+        "h": "अमृत",
+        "e": "immortal"
+      },
+      {
+        "s": "अभयम्",
+        "h": "अभय / निर्भय",
+        "e": "fearless"
+      },
+      {
+        "s": "समभवत्",
+        "h": "हो गया",
+        "e": "became it"
+      },
+      {
+        "s": "ॐ शान्तिः",
+        "h": "ॐ शांति",
+        "e": "OM Peace"
+      }
+    ],
+    "gr": "<strong>प्रज्ञानं ब्रह्म</strong> stated twice — absolute emphasis and closing seal. <strong>अभयम्</strong> = fearless: liberation is not just immortality but freedom from all fear. The triple शांतिः closes all three types of suffering.",
+    "mt": "Prose — final closing mantra with Shanti Patha",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य",
+        "h": "यह ऐतरेय का समापन है। प्रज्ञानं ब्रह्म — दो बार। अमृत + अभय = मोक्ष। वह उसमें 'हो गया' = आत्मा ब्रह्म में विलीन। शांति × ३ = तीन प्रकार के दुखों से मुक्ति।",
+        "en": "Aitareya's final conclusion. Prajnanam Brahma — twice. Immortal + Fearless = liberation. 'He became it' = Atman merging in Brahman. Peace × 3 = freedom from all three types of suffering.",
+        "ins": "प्रज्ञानं ब्रह्म — यही Aitareya का अंतिम और पूर्ण सत्य है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "अमृत + अभय = ईश्वर का परम स्वरूप। जो उसे जानता है — वह उसमें विलीन नहीं होता — वह उसके साथ हो जाता है (सायुज्य मोक्ष)।",
+        "en": "Immortal + Fearless = God's supreme nature. One who knows Him — doesn't merge into Him but attains sameness with Him (sayujya moksha).",
+        "ins": "अमृत और अभय — ईश्वर के दो सर्वोच्च गुण।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "'Consciousness is Brahman' — the final declaration. Immortal and fearless = the Supramental nature. 'He became it' = complete divinization — the goal of Integral Yoga.",
+        "en": "'Consciousness is Brahman' — the final declaration. Immortal and fearless = Supramental nature. 'He became it' = complete divinization — Integral Yoga's goal.",
+        "ins": "The goal is not to escape life but to transform it — to become Consciousness itself."
+      }
+    },
+    "dp": [
+      {
+        "q": "🕉️ ऐतरेय का सार",
+        "a": "(१) आत्मा एकमात्र था — सृष्टि से पहले। (२) सृष्टि = consciousness का matter में descent। (३) मनुष्य = सर्वश्रेष्ठ रचना। (४) <strong>प्रज्ञानं ब्रह्म</strong> = consciousness ही ब्रह्म है। (५) जो यह जाने — वह अमृत और अभय हो जाता है।"
+      },
+      {
+        "q": "🏁 'समभवत्' — हो गया",
+        "a": "'वह उसमें हो गया' — यह merger नहीं, <strong>recognition</strong> है। वह पहले से ब्रह्म था — केवल यह जानना था। अब जान लिया। <strong>Journey ends — not by arriving but by recognizing you were always already there.</strong>"
+      },
+      {
+        "q": "🙏 'शान्तिः शान्तिः शान्तिः' — तीन बार शांति",
+        "a": "(१) <strong>आधिभौतिक</strong> — प्रकृति और शरीर से आने वाले दुखों से शांति। (२) <strong>आधिदैविक</strong> — दैवी शक्तियों से। (३) <strong>आध्यात्मिक</strong> — अपने मन और ego से। तीनों से शांति = पूर्ण मोक्ष।"
+      }
+    ]
+  }
+]

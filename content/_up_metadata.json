@@ -1,0 +1,42 @@
+[
+  {
+    "id": "isha",
+    "name": "ईशावास्य",
+    "en": "Isha",
+    "icon": "☀️",
+    "color": "#C9A84C",
+    "veda": "Shukla Yajurveda",
+    "desc": "Divine immanence — renunciation & action",
+    "total": 18
+  },
+  {
+    "id": "mandukya",
+    "name": "माण्डूक्य",
+    "en": "Mandukya",
+    "icon": "🕉",
+    "color": "#C8956A",
+    "veda": "Atharvaveda",
+    "desc": "OM & four states of consciousness",
+    "total": 12
+  },
+  {
+    "id": "aitareya",
+    "name": "ऐतरेय",
+    "en": "Aitareya",
+    "icon": "🌱",
+    "color": "#A8D5A2",
+    "veda": "Rigveda",
+    "desc": "Creation of universe — Consciousness is Brahman",
+    "total": 33
+  },
+  {
+    "id": "kena",
+    "name": "केन",
+    "en": "Kena",
+    "icon": "❓",
+    "color": "#9CC7D9",
+    "veda": "Samaveda",
+    "desc": "By whom is the mind directed? — inquiry into Brahman",
+    "total": 4
+  }
+]

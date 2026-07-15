@@ -103,6 +103,56 @@ Detailed file splits will be planned when Phase 1 is complete.
 
 ---
 
+## App Refactor — Dynamic Loading Architecture
+
+Goal: Move from single-file (all data in index.html) to dynamic loading
+(catalog.json + individual JSON files loaded on demand). This scales to
+108 Upanishads, Gita, and any future texts without bloating the app.
+
+Safety principle: index.html is NEVER touched until the final swap step.
+Every step is independently safe to stop at.
+
+### Step 1 — Extract existing data to JSON ✅ DONE
+- Write `extract_existing.py` to pull ISHA, MANDUKYA, AITAREYA from index.html into JSON files
+- KENA already partially exists (mantras 1-4 in app, 5-34 in JSON) — merge into one file
+- Validate all extracted JSONs match the content schema
+- Token cost: Medium | Risk: Zero (app unchanged)
+
+### Step 2 — Build catalog.json
+- Master index of all texts: id, name, category, file list, mantra counts
+- Future-proofed with category field (upanishad / gita / etc.)
+- Token cost: Low | Risk: Zero (new file only)
+
+### Step 3a — New app shell: strip data, add loader
+- Create `index_v2.html` as copy of index.html
+- Remove all inline data arrays (ISHA, MANDUKYA, AITAREYA, KENA)
+- Add dynamic loader: fetch catalog.json on startup, load JSON on demand
+- Token cost: Medium-High | Risk: Zero (original untouched)
+
+### Step 3b — Update UI for catalog-driven navigation
+- Update text picker / sidebar to read from catalog.json
+- Support category grouping for future texts
+- Token cost: Medium | Risk: Zero (working on index_v2.html)
+
+### Step 3c — Update service worker
+- Cache catalog.json + individual JSON files
+- Progressive caching: cache texts as user reads them
+- Token cost: Low | Risk: Zero (working on new SW)
+
+### Step 4 — Test and validate
+- Open index_v2.html in browser
+- Verify every Upanishad loads and renders correctly
+- Check offline behavior, compare against original
+- Token cost: Low | Risk: Zero
+
+### Step 5 — Swap
+- index.html → index_legacy.html (backup)
+- index_v2.html → index.html
+- Commit and push
+- Token cost: Very low | Risk: Reversible in 10 seconds
+
+---
+
 ## Schema (each mantra in the JSON array)
 ```json
 {
