@@ -34,7 +34,7 @@
       {
         "s": "प्राणः प्रथमः",
         "h": "प्रथम प्राण",
-        "e": "the first/chief vital force — prāṇa is primary among five"
+        "e": "the first/chief vital force"
       },
       {
         "s": "प्रैति",
@@ -44,7 +44,7 @@
       {
         "s": "युक्तः",
         "h": "जोता हुआ",
-        "e": "yoked, set to work — past passive of yuj, root of yoga"
+        "e": "yoked, set to work"
       },
       {
         "s": "वाचम् इमाम्",
@@ -54,7 +54,7 @@
       {
         "s": "क उ देवः",
         "h": "कौन-सा देव?",
-        "e": "what luminous being? — u is Vedic emphatic; deva from div, to shine"
+        "e": "what luminous being?"
       },
       {
         "s": "युनक्ति",
@@ -63,7 +63,7 @@
       }
     ],
     "gr": "<strong>केन</strong> (instrumental of kim, 'by whom') — the opening word repeated three times across two lines: the very repetition IS the teaching, driving inquiry into every faculty at once. <strong>इषितम्</strong> and <strong>प्रेषितम्</strong> are both past passive participles of iṣ (to impel) — the first suggests an inner impulse, the second an outward directing, together covering the full range of mental and vital movement. <strong>प्रैति</strong> = pra + eti, 'goes forth with force.' <strong>क उ देवः</strong> — the final line shifts from the instrumental 'kena' to the nominative 'kaḥ' and introduces <strong>देवः</strong> (from div, to shine) — not merely an external deity, but the luminous inner principle that makes seeing and hearing possible. <strong>युनक्ति</strong> (from युज्, root of yoga) — the senses are yoked, not self-propelling: something else puts them to work.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — surface count of pada 1 gives ~12 syllables, suggesting Jagati or irregular Trishtubh; some scholars class Kena 1.1–1.2 as Trishtubh (11 syl/pada). Verify from Gambhirananda or Radhakrishnan before finalising · Samaveda, Talavakāra Brāhmaṇa",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -109,46 +109,46 @@
       {
         "s": "श्रोत्रस्य श्रोत्रम्",
         "h": "कान का कान",
-        "e": "ear of the ear — genitive chain: the ground that enables hearing, not the hearing itself"
+        "e": "ear of the ear"
       },
       {
         "s": "मनसो मनः",
         "h": "मन का मन",
-        "e": "mind of the mind — the awareness that knows mental activity without itself being a mental event"
+        "e": "mind of the mind"
       },
       {
         "s": "वाचः वाचम्",
         "h": "वाणी की वाणी",
-        "e": "speech of speech — the animating power behind articulation"
+        "e": "speech of speech"
       },
       {
         "s": "स उ प्राणस्य प्राणः",
         "h": "वही प्राण का भी प्राण है",
-        "e": "that very one (sa) indeed (u) is the life of life — u is the Vedic emphatic particle singling out one referent across all faculties"
+        "e": "that very one (sa) indeed (u) is the life of life"
       },
       {
         "s": "अतिमुच्य",
         "h": "पूरी तरह मुक्त होकर",
-        "e": "freeing oneself completely — gerund of ati+muc; the prefix ati intensifies into a crossing-over, not partial detachment"
+        "e": "freeing oneself completely"
       },
       {
         "s": "धीराः",
         "h": "धीर / स्थिरबुद्धि",
-        "e": "the steadfast wise — from dhī, the organ of discerning insight; those whose intellect is unwavering, turned to the source not the surface"
+        "e": "the steadfast wise"
       },
       {
         "s": "प्रेत्य",
         "h": "इस लोक से विदा होकर",
-        "e": "having departed — gerund of pra+i, going forth; here: departing from identification with this instrument-world"
+        "e": "having departed"
       },
       {
         "s": "अमृताः",
         "h": "अमृत / मृत्यु से परे",
-        "e": "immortal — a-mṛta, not subject to death; the state of being established in the deathless ground"
+        "e": "immortal"
       }
     ],
     "gr": "<strong>श्रोत्रस्य श्रोत्रम्</strong> — the genitive-chain construction (X of X) repeats across five faculties in two pādas: ear, mind, speech, life, eye. This is the mantra's central teaching device: Brahman is not the faculty itself but its inner enabler, the 'hearing behind the heard.' <strong>स उ</strong> — 'that very one also' — the Vedic emphatic u singles out Brahman as the one principle behind every listed faculty without exception. <strong>अतिमुच्य</strong> (gerund of ati+muc) — 'having released completely' — ati lifts the release into a total crossing-over, distinguishing insight from mere renunciation. <strong>धीराः</strong> (from dhī, the Vedic organ of discerning insight) — not any wise person, but one whose intelligence has turned steadily inward to its own source. <strong>प्रेत्य</strong> (pra+i) — 'having gone forth from this world' — not physical departure but the inner departure from exclusive identification with sensory instruments.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — four pādas with unequal syllable counts (approx. 10-11-10-11) suggest Trishtubh-like structure; some editors class Kena 1.2 as irregular Trishtubh. Verify from Gambhirananda or Radhakrishnan before finalising · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.2",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -194,7 +194,7 @@
       {
         "s": "न तत्र",
         "h": "वहाँ नहीं",
-        "e": "not there — tatra is an adverb of place; perceiving is treated as movement toward a location, and Brahman has no such location"
+        "e": "not there"
       },
       {
         "s": "चक्षुः",
@@ -204,36 +204,36 @@
       {
         "s": "गच्छति",
         "h": "जाता है / पहुँचता है",
-        "e": "goes, reaches — the verb frames perception as directed movement toward an object; Brahman cannot be such an object"
+        "e": "goes, reaches"
       },
       {
         "s": "वाक्",
         "h": "वाणी",
-        "e": "speech — the power of articulation, not merely sound"
+        "e": "speech"
       },
       {
         "s": "नो मनः",
         "h": "और न मन",
-        "e": "nor the mind — no is encliticised na + u, adding emphasis to the third negation"
+        "e": "nor the mind"
       },
       {
         "s": "न विद्मः",
         "h": "हम नहीं जानते",
-        "e": "we do not know — 1st plural of vid; bare recognition; the teacher acknowledges the limit of ordinary acquaintance"
+        "e": "we do not know"
       },
       {
         "s": "न विजानीमः",
         "h": "हम नहीं समझते",
-        "e": "we do not comprehend — vi+jñā intensifies: even deep analytical grasp does not reach Brahman"
+        "e": "we do not comprehend"
       },
       {
         "s": "अनुशिष्यात्",
         "h": "अनुक्रम से सिखाया जाए",
-        "e": "may be taught in regular succession — optative of anu+śiṣ; anu signals the step-by-step guru-śiṣya transmission that is the normal mode of learning"
+        "e": "may be taught in regular succession"
       }
     ],
     "gr": "<strong>न तत्र चक्षुः गच्छति</strong> — 'there the eye does not go.' The verb <strong>गच्छति</strong> frames perception as movement toward an object; since Brahman cannot be objectified, the eye literally has nowhere to go — the grammar enacts the teaching. <strong>नो</strong> (= na + u, enclitic) continues the negation for manas with added Vedic emphasis. <strong>न विद्मः</strong> and <strong>न विजानीमः</strong> — two distinct verbs: vid (bare recognition, knowing-that) and vi-jñā (full analytical comprehension, knowing-how). The teacher denies both levels. <strong>अनुशिष्यात्</strong> (optative of anu+śiṣ) — 'may be taught in succession' — anu ('following, step by step') names the sequential guru-śiṣya transmission: grammar, ritual, and philosophy are all anuśāsana. What exceeds this mode requires a different transmission entirely.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — two-pāda structure with approximately 16 syllables per pāda suggests Anuṣṭubh variant or prose-verse transition; verify from Gambhirananda or Radhakrishnan commentary · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.3",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -279,51 +279,51 @@
       {
         "s": "अन्यद् एव",
         "h": "निश्चय ही अन्य / पृथक्",
-        "e": "indeed other — eva is emphatic, making the distinction categorical and absolute, not merely relative"
+        "e": "indeed other"
       },
       {
         "s": "तत्",
         "h": "वह (ब्रह्म)",
-        "e": "that — the pronoun points to the subject of inquiry from mantra 1; the whole inquiry converges here"
+        "e": "that"
       },
       {
         "s": "विदितात्",
         "h": "ज्ञात से",
-        "e": "from the known — ablative of vidita (past passive of vid); the entire category of objects already grasped by mind"
+        "e": "from the known"
       },
       {
         "s": "अथो",
         "h": "और भी / तथा",
-        "e": "and also — Vedic conjunction adding a second and equally total differentiation"
+        "e": "and also"
       },
       {
         "s": "अविदितात्",
         "h": "अज्ञात से",
-        "e": "from the unknown — ablative of a-vidita; the whole category of things beyond current cognition"
+        "e": "from the unknown"
       },
       {
         "s": "अधि",
         "h": "परे / ऊपर",
-        "e": "beyond, above — postposition governing the ablative; Brahman is placed above even the unknown so ignorance cannot shelter it"
+        "e": "beyond, above"
       },
       {
         "s": "शुश्रुम",
         "h": "हमने सुना",
-        "e": "we have heard — perfect of śru; marks received oral tradition, not personal discovery or inference"
+        "e": "we have heard"
       },
       {
         "s": "पूर्वेषाम्",
         "h": "पूर्व आचार्यों से",
-        "e": "from the ancients — genitive plural of pūrva; the teacher appeals to an unbroken lineage"
+        "e": "from the ancients"
       },
       {
         "s": "व्याचचक्षिरे",
         "h": "व्याख्या की / प्रकाशित किया",
-        "e": "they expounded — vi+ā+cakṣ (perfect); cakṣ means to make visible; they did not merely transmit words but illuminated the truth"
+        "e": "they expounded"
       }
     ],
     "gr": "<strong>अन्यद् एव</strong> — the emphatic eva makes the distinction absolute: categorically other, not merely different in degree. <strong>विदितात्</strong> and <strong>अविदितात्</strong> — both ablatives, signalling movement 'away from' each category toward something that exceeds it; this dismantles the assumption that known and unknown exhaust reality. <strong>अधि</strong> places Brahman 'above' even the unknown, closing the escape route: one cannot hide Brahman in ignorance and call that humility. <strong>शुश्रुम</strong> — perfect of śru — the teacher does not claim personal discovery but appeals to received lineage. <strong>व्याचचक्षिरे</strong> — from cakṣ, to make visible — the ancients illuminated, not merely transmitted: they made a truth visible that language alone cannot carry.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — each pāda runs approximately 16 syllables; may be Anuṣṭubh variant or elongated Anuṣṭubh; verify from Gambhirananda or Radhakrishnan commentary · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.4",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",

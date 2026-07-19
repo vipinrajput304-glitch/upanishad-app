@@ -6,15 +6,39 @@
     "hi": "तब सौर्यायणी गार्ग्य ने (पिप्पलाद से) पूछा — 'भगवन्! इस पुरुष (मनुष्य) में कौन-कौन (देव/शक्तियाँ) सोते हैं? कौन-कौन इसमें जागते हैं? कौन-सा देव स्वप्न (सपने) देखता है? यह सुख किसका होता है (सुषुप्ति का सुख किसे मिलता है)? और ये सब किसमें प्रतिष्ठित (स्थापित) होते हैं?'",
     "en": "Then Sauryāyaṇī Gārgya asked him: 'Bhagavan! In this person (puruṣa), which (faculties) sleep? Which remain awake? Which god (deva) sees dreams? Whose is this happiness (sukha, of deep sleep)? And in whom are all these established?'",
     "ws": [
-      {"s": "सौर्यायणी गार्ग्यः (sauryāyaṇī gārgyaḥ)", "h": "सौर्यायणी गार्ग्य — चौथे प्रश्नकर्ता शिष्य", "e": "Sauryāyaṇī Gārgya — the fourth questioner; from the Sūrya (solar) lineage and the Garga gotra"},
-      {"s": "स्वपन्ति (svapanti)", "h": "सोते हैं / निद्रा में चले जाते हैं", "e": "sleep — √svap (to sleep); which faculties cease functioning during sleep?"},
-      {"s": "जाग्रति (jāgrati)", "h": "जागते हैं / सक्रिय रहते हैं", "e": "remain awake — √jāgṛ (to be awake); which faculties continue to function even in sleep?"},
-      {"s": "स्वप्नान् (svapnān)", "h": "स्वप्न / सपने", "e": "dreams — from √svap; the dream-images experienced during sleep"},
-      {"s": "सुखम् (sukham)", "h": "सुख / आनन्द / प्रसन्नता", "e": "happiness / bliss — the peculiar happiness of deep sleep; we wake from dreamless sleep refreshed and happy, but who experienced that happiness?"},
-      {"s": "सम्प्रतिष्ठिताः (sampratiṣṭhitāḥ)", "h": "सम्यक् प्रतिष्ठित / पूर्णतया स्थापित", "e": "fully established / grounded — sam + prati + √sthā; in whom are all these faculties ultimately grounded?"}
+      {
+        "s": "सौर्यायणी गार्ग्यः",
+        "h": "सौर्यायणी गार्ग्य — चौथे प्रश्नकर्ता शिष्य",
+        "e": "Sauryāyaṇī Gārgya"
+      },
+      {
+        "s": "स्वपन्ति",
+        "h": "सोते हैं / निद्रा में चले जाते हैं",
+        "e": "sleep"
+      },
+      {
+        "s": "जाग्रति",
+        "h": "जागते हैं / सक्रिय रहते हैं",
+        "e": "remain awake"
+      },
+      {
+        "s": "स्वप्नान्",
+        "h": "स्वप्न / सपने",
+        "e": "dreams"
+      },
+      {
+        "s": "सुखम्",
+        "h": "सुख / आनन्द / प्रसन्नता",
+        "e": "happiness / bliss"
+      },
+      {
+        "s": "सम्प्रतिष्ठिताः",
+        "h": "सम्यक् प्रतिष्ठित / पूर्णतया स्थापित",
+        "e": "fully established / grounded"
+      }
     ],
     "gr": "<strong>Five sub-questions</strong>: (1) <em>kāni svapanti</em> — which faculties sleep? (2) <em>kāni jāgrati</em> — which remain awake? (3) <em>kataraḥ devaḥ svapnān paśyati</em> — which god sees dreams? (4) <em>kasya etat sukham</em> — whose is this happiness (of deep sleep)? (5) <em>kasmin sarve sampratiṣṭhitāḥ</em> — in whom are all established? The questions move from the observable (sleep/waking) to the philosophical (who is the dreamer? whose is the bliss? what is the ground?). Question 4 shifts from prāṇa-physiology (Questions 1-3) to <strong>psychology and consciousness-theory</strong>. <strong>kasya etat sukham</strong> — 'whose is this happiness?' is the most penetrating sub-question. In deep sleep, there are no objects, no senses, no thoughts — yet we wake refreshed and happy. If no 'experiencer' was present, who experienced the happiness? This question leads directly to the discovery of the Self as the witness of all three states.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.1 — Question 4 shifts the Upanishad from physiology to consciousness-theory. The three states (jāgrat/waking, svapna/dream, suṣupti/deep sleep) are analysed at length in Māṇḍūkya Upanishad (mantras 3-7), Bṛhadāraṇyaka 2.1.15-20 and 4.3.7-30, and Chāndogya 8.7-12. The Prashna's treatment is more compact but raises the same essential questions. The question about 'whose is this sukha?' anticipates the Māṇḍūkya's identification of suṣupti with ānandabhuk ('bliss-enjoyer') — the prājña who experiences undifferentiated bliss in deep sleep.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -36,8 +60,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is the happiness of deep sleep a philosophical problem?", "a": "The happiness of deep sleep (<strong>suṣupti-sukha</strong>) is one of the deepest puzzles in Indian philosophy. The problem: <strong>(1)</strong> In deep sleep, the five senses are inactive. The mind is not producing thoughts. There is no object of perception, no desire, no memory. <strong>(2)</strong> Yet we wake from deep sleep and say: 'I slept well; I was happy; I knew nothing.' <strong>(3)</strong> This raises three questions: <strong>Who experienced the happiness?</strong> The senses were off, the mind was off — so who was the experiencer? <strong>What was the object of happiness?</strong> In waking, happiness comes from getting what you want. In deep sleep, there is no object — yet there is happiness. <strong>Who remembers?</strong> If the mind was asleep, who retains the memory 'I slept happily'? The Upanishadic answer is that a <strong>witness</strong> (sākṣī) was present throughout — the Ātman, which is <em>svayam-prakāśa</em> (self-luminous). The happiness of deep sleep is not caused by any external object but is the <strong>natural state of the Self</strong> — ānanda (bliss) uncontaminated by sensory activity. Māṇḍūkya 5 calls this state <em>ānandabhuk</em> ('bliss-enjoyer') and names the Self in this state <em>prājña</em> ('the wise one / the knower'). Shankara's Advaita uses this analysis as a key argument: if the Self's natural state (deep sleep) is blissful, then unhappiness is not natural but imposed by ignorance (avidyā). Remove the ignorance, and the ever-present bliss shines through."},
-      {"q": "🔍 The three states in Indian philosophy", "a": "The <strong>avasthā-traya</strong> (three states of consciousness) analysis is foundational across Indian philosophical schools: <strong>(1) Jāgrat (waking)</strong>: The senses are active, the mind processes external data, the ego identifies with the body. The Self is called <em>Viśva</em> (the Universal) or <em>Vaiśvānara</em> (the common-to-all-men) in this state (Māṇḍūkya 3). Consciousness is <em>externalised</em>. <strong>(2) Svapna (dream)</strong>: The senses are withdrawn, but the mind remains active — it creates an entire world from memory-traces (vāsanās). The Self is called <em>Taijasa</em> (the Luminous) in this state (Māṇḍūkya 4). Consciousness is <em>internalised</em>. The dreamer is simultaneously the creator, perceiver, and material of the dream-world — a fact the Upanishads use as a model for understanding creation itself. <strong>(3) Suṣupti (deep sleep)</strong>: Both senses and mind are withdrawn. There is no duality, no subject-object split, no desire. The Self is called <em>Prājña</em> (the Knower) in this state (Māṇḍūkya 5). Consciousness is <em>unified</em> — but veiled by ignorance (the sleeper doesn't <em>know</em> he is the Self). <strong>(4) Turīya (the Fourth)</strong>: not a 'state' but the <em>ground</em> of all three states — the witness that is present in waking, dream, and deep sleep but is not limited to any of them. The Māṇḍūkya identifies this as <em>Ātman = Brahman</em>. Question 4 of the Prashna covers states 1-3; the answer to 'kasmin sarve sampratiṣṭhitāḥ' ('in whom are all established?') points toward the Fourth."}
+      {
+        "q": "🔍 Why is the happiness of deep sleep a philosophical problem?",
+        "a": "The happiness of deep sleep (<strong>suṣupti-sukha</strong>) is one of the deepest puzzles in Indian philosophy. The problem: <strong>(1)</strong> In deep sleep, the five senses are inactive. The mind is not producing thoughts. There is no object of perception, no desire, no memory. <strong>(2)</strong> Yet we wake from deep sleep and say: 'I slept well; I was happy; I knew nothing.' <strong>(3)</strong> This raises three questions: <strong>Who experienced the happiness?</strong> The senses were off, the mind was off — so who was the experiencer? <strong>What was the object of happiness?</strong> In waking, happiness comes from getting what you want. In deep sleep, there is no object — yet there is happiness. <strong>Who remembers?</strong> If the mind was asleep, who retains the memory 'I slept happily'? The Upanishadic answer is that a <strong>witness</strong> (sākṣī) was present throughout — the Ātman, which is <em>svayam-prakāśa</em> (self-luminous). The happiness of deep sleep is not caused by any external object but is the <strong>natural state of the Self</strong> — ānanda (bliss) uncontaminated by sensory activity. Māṇḍūkya 5 calls this state <em>ānandabhuk</em> ('bliss-enjoyer') and names the Self in this state <em>prājña</em> ('the wise one / the knower'). Shankara's Advaita uses this analysis as a key argument: if the Self's natural state (deep sleep) is blissful, then unhappiness is not natural but imposed by ignorance (avidyā). Remove the ignorance, and the ever-present bliss shines through."
+      },
+      {
+        "q": "🔍 The three states in Indian philosophy",
+        "a": "The <strong>avasthā-traya</strong> (three states of consciousness) analysis is foundational across Indian philosophical schools: <strong>(1) Jāgrat (waking)</strong>: The senses are active, the mind processes external data, the ego identifies with the body. The Self is called <em>Viśva</em> (the Universal) or <em>Vaiśvānara</em> (the common-to-all-men) in this state (Māṇḍūkya 3). Consciousness is <em>externalised</em>. <strong>(2) Svapna (dream)</strong>: The senses are withdrawn, but the mind remains active — it creates an entire world from memory-traces (vāsanās). The Self is called <em>Taijasa</em> (the Luminous) in this state (Māṇḍūkya 4). Consciousness is <em>internalised</em>. The dreamer is simultaneously the creator, perceiver, and material of the dream-world — a fact the Upanishads use as a model for understanding creation itself. <strong>(3) Suṣupti (deep sleep)</strong>: Both senses and mind are withdrawn. There is no duality, no subject-object split, no desire. The Self is called <em>Prājña</em> (the Knower) in this state (Māṇḍūkya 5). Consciousness is <em>unified</em> — but veiled by ignorance (the sleeper doesn't <em>know</em> he is the Self). <strong>(4) Turīya (the Fourth)</strong>: not a 'state' but the <em>ground</em> of all three states — the witness that is present in waking, dream, and deep sleep but is not limited to any of them. The Māṇḍūkya identifies this as <em>Ātman = Brahman</em>. Question 4 of the Prashna covers states 1-3; the answer to 'kasmin sarve sampratiṣṭhitāḥ' ('in whom are all established?') points toward the Fourth."
+      }
     ]
   },
   {
@@ -47,14 +77,34 @@
     "hi": "उनसे उन्होंने (पिप्पलाद ने) कहा — 'हे गार्ग्य! जैसे अस्त होते हुए सूर्य (अर्क) की सब किरणें (मरीचयः) इस तेजोमण्डल (प्रकाश-वृत्त) में एकीभूत हो जाती हैं, और फिर उदय होने पर पुनः फैल जाती हैं — वैसे ही वह सब कुछ (सब इन्द्रियाँ) पर देव मन में एकीभूत हो जाता है। इसलिए तब यह पुरुष (मनुष्य) न सुनता है, न देखता है, न सूँघता है, न स्वाद लेता है, न स्पर्श करता है, न बोलता है, न ग्रहण करता है, न आनन्द लेता है, न उत्सर्जन करता है, न गमन करता है — (तब लोग) कहते हैं कि वह सो गया।'",
     "en": "To him he said: 'As, O Gārgya, the rays (marīci) of the setting sun all become one in that disc of light (tejo-maṇḍala), and spread forth again when it rises — so all (the senses) become one in the supreme god, the mind (manas). Therefore, this person then neither hears, nor sees, nor smells, nor tastes, nor touches, nor speaks, nor grasps, nor enjoys, nor excretes, nor moves about. They say: \"He sleeps.\"'",
     "ws": [
-      {"s": "मरीचयः (marīcayaḥ)", "h": "किरणें / रश्मियाँ", "e": "rays — the sun's rays; when the sun sets, its countless individual rays merge back into the solar disc; similarly, the senses merge into the mind during sleep"},
-      {"s": "तेजोमण्डले (tejo-maṇḍale)", "h": "प्रकाश-वृत्त में / सूर्य-बिम्ब में", "e": "in the disc of light — tejas (light) + maṇḍala (circle/disc); the sun's circular body into which the rays are absorbed at sunset"},
-      {"s": "एकीभवन्ति (ekībhavanti)", "h": "एक हो जाती हैं / विलीन हो जाती हैं", "e": "become one / merge — ekī + √bhū (to become); the senses merge into their source (the mind) just as rays merge into the sun"},
-      {"s": "परे देवे मनसि (pare deve manasi)", "h": "श्रेष्ठ देव अर्थात् मन में", "e": "in the supreme god, the mind — manas is called 'para deva' (supreme deity) because during sleep it absorbs all the senses into itself; the mind is the 'sun' of the inner world"},
-      {"s": "स्वपिति (svapiti)", "h": "सोता है / निद्रा में जाता है", "e": "he sleeps — √svap; the folk-expression 'he sleeps' conceals a profound process: the withdrawal of all ten faculties into the mind"}
+      {
+        "s": "मरीचयः",
+        "h": "किरणें / रश्मियाँ",
+        "e": "rays"
+      },
+      {
+        "s": "तेजोमण्डले",
+        "h": "प्रकाश-वृत्त में / सूर्य-बिम्ब में",
+        "e": "in the disc of light"
+      },
+      {
+        "s": "एकीभवन्ति",
+        "h": "एक हो जाती हैं / विलीन हो जाती हैं",
+        "e": "become one / merge"
+      },
+      {
+        "s": "परे देवे मनसि",
+        "h": "श्रेष्ठ देव अर्थात् मन में",
+        "e": "in the supreme god, the mind"
+      },
+      {
+        "s": "स्वपिति",
+        "h": "सोता है / निद्रा में जाता है",
+        "e": "he sleeps"
+      }
     ],
     "gr": "<strong>The sun-simile</strong>: at sunset, the sun's countless rays withdraw into its disc; at sunrise, they spread forth again. Sleep is the 'sunset' of the senses — all ten faculties (five jñānendriyas + five karmendriyas) merge into the mind. Waking is the 'sunrise'. <strong>pare deve manasi</strong> — 'in the supreme deity, the mind': the mind is called <em>para deva</em> (supreme god) not because it is the ultimate reality but because among the sensory faculties, the mind is the highest — it is the 'sun' from which all sense-functions radiate. <strong>Ten negations</strong>: na śṛṇoti, na paśyati, na jighrati, na rasayate, na spṛśate (five jñānendriyas cease) + na abhivadate, na ādatte, na ānandayate, na visṛjate, na iyāyate (five karmendriyas cease). This exhaustive list of ten cessations defines the state of sleep precisely: <em>all</em> faculties are withdrawn. <strong>svapiti iti ācakṣate</strong> — 'they say he sleeps': the folk-term 'sleep' is now given its technical meaning — the merging of all faculties into the mind.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.2 — The sun-ray simile for sleep is original to the Prashna. The Bṛhadāraṇyaka (2.1.17-19) uses a different metaphor — a spider drawing in its threads. The Chāndogya (6.8.1) says: 'When a man sleeps, he has reached sat (Being).' The ten negations (five jñānendriyas + five karmendriyas) align with the standard Sāṅkhya-Vedāntic enumeration of the ten organs. The designation of mind as 'para deva' echoes the Kaṭha hierarchy (1.3.10-11): objects → senses → mind → intellect → mahān ātmā → avyakta → Puruṣa.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -76,8 +126,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The sun-ray simile for sleep", "a": "The <strong>sun-ray simile</strong> (marīci-upamā) is one of the Prashna Upanishad's most vivid images. At sunset, the sun's countless individual rays <strong>merge back</strong> into the solar disc — they don't vanish but return to their source. At sunrise, they <strong>spread forth again</strong>, reaching every corner of the visible world. Sleep works identically: <strong>Sunset = falling asleep</strong>: the ten sense-faculties (five cognitive + five active) withdraw from their objects and merge into the mind. Just as the rays don't disappear (they're still 'in' the sun), the faculties don't vanish (they're still 'in' the mind). <strong>Sunrise = waking up</strong>: the faculties spread forth again from the mind, each resuming its function. Eyes see, ears hear, hands grasp — the rays reach out. The simile teaches three things: <strong>(1) Non-destruction</strong>: sleep doesn't destroy the senses; it absorbs them. This is why they return intact on waking. <strong>(2) Unity in source</strong>: all ten faculties originate from one mind, just as all rays originate from one sun. Diversity (ten senses) is an expansion of unity (one mind). <strong>(3) Cyclicity</strong>: the sleep-wake cycle mirrors the cosmic day-night cycle. The microcosm (person) recapitulates the macrocosm (sun) daily."},
-      {"q": "🔍 Why are ten faculties listed?", "a": "The mantra lists <strong>ten cessations</strong>, corresponding to the ten indriyas of Sāṅkhya-Vedāntic psychology: <strong>Five jñānendriyas (cognitive senses)</strong>: (1) <em>na śṛṇoti</em> — does not hear (śrotra / ear). (2) <em>na paśyati</em> — does not see (cakṣu / eye). (3) <em>na jighrati</em> — does not smell (ghrāṇa / nose). (4) <em>na rasayate</em> — does not taste (rasanā / tongue). (5) <em>na spṛśate</em> — does not touch (tvak / skin). <strong>Five karmendriyas (active faculties)</strong>: (6) <em>na abhivadate</em> — does not speak (vāk / speech). (7) <em>na ādatte</em> — does not grasp (pāṇi / hand). (8) <em>na ānandayate</em> — does not enjoy sexually (upastha / reproductive organ). (9) <em>na visṛjate</em> — does not excrete (pāyu / excretory organ). (10) <em>na iyāyate</em> — does not move (pāda / feet). When all ten shut down, the person is 'asleep'. But something <em>remains active</em> — the prāṇa-fires, described in the next mantra. Sleep is therefore not total cessation but <strong>selective withdrawal</strong>: the senses sleep, but prāṇa stays awake."}
+      {
+        "q": "🔍 The sun-ray simile for sleep",
+        "a": "The <strong>sun-ray simile</strong> (marīci-upamā) is one of the Prashna Upanishad's most vivid images. At sunset, the sun's countless individual rays <strong>merge back</strong> into the solar disc — they don't vanish but return to their source. At sunrise, they <strong>spread forth again</strong>, reaching every corner of the visible world. Sleep works identically: <strong>Sunset = falling asleep</strong>: the ten sense-faculties (five cognitive + five active) withdraw from their objects and merge into the mind. Just as the rays don't disappear (they're still 'in' the sun), the faculties don't vanish (they're still 'in' the mind). <strong>Sunrise = waking up</strong>: the faculties spread forth again from the mind, each resuming its function. Eyes see, ears hear, hands grasp — the rays reach out. The simile teaches three things: <strong>(1) Non-destruction</strong>: sleep doesn't destroy the senses; it absorbs them. This is why they return intact on waking. <strong>(2) Unity in source</strong>: all ten faculties originate from one mind, just as all rays originate from one sun. Diversity (ten senses) is an expansion of unity (one mind). <strong>(3) Cyclicity</strong>: the sleep-wake cycle mirrors the cosmic day-night cycle. The microcosm (person) recapitulates the macrocosm (sun) daily."
+      },
+      {
+        "q": "🔍 Why are ten faculties listed?",
+        "a": "The mantra lists <strong>ten cessations</strong>, corresponding to the ten indriyas of Sāṅkhya-Vedāntic psychology: <strong>Five jñānendriyas (cognitive senses)</strong>: (1) <em>na śṛṇoti</em> — does not hear (śrotra / ear). (2) <em>na paśyati</em> — does not see (cakṣu / eye). (3) <em>na jighrati</em> — does not smell (ghrāṇa / nose). (4) <em>na rasayate</em> — does not taste (rasanā / tongue). (5) <em>na spṛśate</em> — does not touch (tvak / skin). <strong>Five karmendriyas (active faculties)</strong>: (6) <em>na abhivadate</em> — does not speak (vāk / speech). (7) <em>na ādatte</em> — does not grasp (pāṇi / hand). (8) <em>na ānandayate</em> — does not enjoy sexually (upastha / reproductive organ). (9) <em>na visṛjate</em> — does not excrete (pāyu / excretory organ). (10) <em>na iyāyate</em> — does not move (pāda / feet). When all ten shut down, the person is 'asleep'. But something <em>remains active</em> — the prāṇa-fires, described in the next mantra. Sleep is therefore not total cessation but <strong>selective withdrawal</strong>: the senses sleep, but prāṇa stays awake."
+      }
     ]
   },
   {
@@ -87,13 +143,29 @@
     "hi": "इस पुर (शरीर-नगर) में प्राणाग्नियाँ (प्राण-रूपी अग्नियाँ) ही जागती रहती हैं। गार्हपत्य अग्नि — वह यह अपान है। व्यान — वह अन्वाहार्यपचन (दक्षिणाग्नि) है।",
     "en": "The Prāṇa-fires alone remain awake in this city (pura, the body). The Gārhapatya fire — that is this apāna. The Anvāhāryapacana (Dakṣiṇāgni) fire — that is vyāna.",
     "ws": [
-      {"s": "प्राणाग्नयः (prāṇa-agnayaḥ)", "h": "प्राण-रूपी अग्नियाँ", "e": "the prāṇa-fires — the vital breaths, metaphorically identified with the three Vedic sacrificial fires; they keep burning even when the senses sleep"},
-      {"s": "पुरे (pure)", "h": "नगर में / शरीर-नगर में", "e": "in the city — the body is called pura (city/fortress); cf. 'puruṣa' (the one who dwells in the city)"},
-      {"s": "गार्हपत्यः (gārhapatyaḥ)", "h": "गार्हपत्य अग्नि — गृहस्थ की मुख्य अग्नि", "e": "the Gārhapatya fire — the householder's primary fire, always kept burning in the western position; apāna is identified with this fire because apāna, like the Gārhapatya, is the 'root' fire from which others are kindled"},
-      {"s": "अन्वाहार्यपचनः (anvāhārya-pacanaḥ)", "h": "दक्षिणाग्नि / अन्वाहार्यपचन अग्नि", "e": "the Anvāhāryapacana fire (also called Dakṣiṇāgni) — the southern sacrificial fire; vyāna is identified with this fire because it pervades the body as this fire pervades the sacrificial arena"}
+      {
+        "s": "प्राणाग्नयः",
+        "h": "प्राण-रूपी अग्नियाँ",
+        "e": "the prāṇa-fires"
+      },
+      {
+        "s": "पुरे",
+        "h": "नगर में / शरीर-नगर में",
+        "e": "in the city"
+      },
+      {
+        "s": "गार्हपत्यः",
+        "h": "गार्हपत्य अग्नि — गृहस्थ की मुख्य अग्नि",
+        "e": "the Gārhapatya fire"
+      },
+      {
+        "s": "अन्वाहार्यपचनः",
+        "h": "दक्षिणाग्नि / अन्वाहार्यपचन अग्नि",
+        "e": "the Anvāhāryapacana fire (also called Dakṣiṇāgni)"
+      }
     ],
     "gr": "<strong>The body as a sacrificial arena</strong>: this mantra introduces a remarkable metaphor — the three Vedic ritual fires are mapped onto three prāṇas: (1) <em>Gārhapatya</em> (householder's fire, western) = apāna; (2) <em>Anvāhāryapacana/Dakṣiṇāgni</em> (southern fire) = vyāna; (3) <em>Āhavanīya</em> (offering fire, eastern) = prāṇa (detailed in the next mantra). <strong>prāṇa-agnayaḥ jāgrati</strong> — 'the prāṇa-fires stay awake': while the ten senses merge into the mind during sleep, the prāṇas continue to function — the heart beats, digestion continues, blood circulates. The 'fires' never go out. <strong>pura</strong> — 'city': the body is called a 'city' (cf. 'pura' in 'puruṣa' — the one who dwells in the pura). This echoes the Kaṭha's 'city of eleven gates' (2.1.1) and the Bhagavad Gītā's 'city of nine gates' (5.13).",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.3 — The mapping of the three Vedic fires (gārhapatya, dakṣiṇāgni, āhavanīya) onto the three prāṇas (apāna, vyāna, prāṇa) is unique to the Prashna Upanishad. The three fires constitute the tretagni — the triple fire of Vedic sacrifice (śrauta ritual). Every Vedic householder maintained these three fires. By internalising them as prāṇas, the Upanishad transforms the body into a perpetual sacrificial arena — a move that democratises sacrifice (anyone who breathes is performing a yajña). The Chāndogya (5.18-24) similarly internalises sacrifice as the prāṇāgnihotra.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -115,8 +187,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What are the three Vedic fires?", "a": "The <strong>treta-agni</strong> (triple fire) is the foundation of Vedic śrauta (solemn) ritual. Every initiated householder maintained these three fires: <strong>(1) Gārhapatya</strong> ('belonging to the householder') — the primary, perpetual fire kept in the <em>western</em> position. It is the 'source fire' from which the other two are kindled. It is never allowed to go out. It represents the <em>domestic</em> realm, the earth, and the root of life. → Mapped to <strong>apāna</strong> because apāna is the 'root' prāṇa — stationed in the lower body, governing the foundational functions (excretion, reproduction) that sustain the body's material base. <strong>(2) Anvāhāryapacana / Dakṣiṇāgni</strong> ('southern fire') — kindled from the Gārhapatya and placed in the <em>southern</em> position. It is used for cooking offerings and for ancestral rites. It represents the <em>atmospheric</em> realm and the intermediate zone. → Mapped to <strong>vyāna</strong> because vyāna pervades the entire body, just as this fire extends its influence across the ritual space. <strong>(3) Āhavanīya</strong> ('offering fire') — kindled from the Gārhapatya and placed in the <em>eastern</em> position. It is the fire into which all oblations are poured (the 'mouth' of the sacrifice). It represents the <em>celestial</em> realm. → Mapped to <strong>prāṇa</strong> (next mantra). The internalisation of these three fires as prāṇas is a radical Upanishadic move: it transforms every breathing body into a <strong>perpetual sacrifice</strong> — no priest, no altar, no ritual required."},
-      {"q": "🔍 Why do the prāṇas never sleep?", "a": "The prāṇas (vital breaths) <strong>never cease</strong> during sleep because they sustain the body's <em>involuntary</em> functions — processes that must continue 24/7 for the organism to survive: <strong>Apāna</strong> (= Gārhapatya): continues excretory and reproductive processes during sleep — kidney filtration, intestinal peristalsis, cellular waste removal. If apāna stopped, toxins would accumulate fatally within hours. <strong>Vyāna</strong> (= Dakṣiṇāgni): continues blood circulation and nutrient distribution — the heart beats, blood flows, oxygen reaches cells. If vyāna stopped, tissues would die from oxygen deprivation within minutes. <strong>Prāṇa</strong> (= Āhavanīya, next mantra): continues respiration — breathing doesn't stop during sleep. If prāṇa stopped, death would follow within minutes. The Upanishadic insight is precise: the <em>voluntary</em> functions (seeing, hearing, speaking, grasping, walking) shut down during sleep — these are the ten indriyas. But the <em>involuntary</em> functions (breathing, heartbeat, digestion, circulation, elimination) continue — these are the prāṇas. The prāṇas are more fundamental than the senses because they sustain <em>life itself</em>, not just <em>experience</em>. You can live without sight or hearing; you cannot live without breath or heartbeat."}
+      {
+        "q": "🔍 What are the three Vedic fires?",
+        "a": "The <strong>treta-agni</strong> (triple fire) is the foundation of Vedic śrauta (solemn) ritual. Every initiated householder maintained these three fires: <strong>(1) Gārhapatya</strong> ('belonging to the householder') — the primary, perpetual fire kept in the <em>western</em> position. It is the 'source fire' from which the other two are kindled. It is never allowed to go out. It represents the <em>domestic</em> realm, the earth, and the root of life. → Mapped to <strong>apāna</strong> because apāna is the 'root' prāṇa — stationed in the lower body, governing the foundational functions (excretion, reproduction) that sustain the body's material base. <strong>(2) Anvāhāryapacana / Dakṣiṇāgni</strong> ('southern fire') — kindled from the Gārhapatya and placed in the <em>southern</em> position. It is used for cooking offerings and for ancestral rites. It represents the <em>atmospheric</em> realm and the intermediate zone. → Mapped to <strong>vyāna</strong> because vyāna pervades the entire body, just as this fire extends its influence across the ritual space. <strong>(3) Āhavanīya</strong> ('offering fire') — kindled from the Gārhapatya and placed in the <em>eastern</em> position. It is the fire into which all oblations are poured (the 'mouth' of the sacrifice). It represents the <em>celestial</em> realm. → Mapped to <strong>prāṇa</strong> (next mantra). The internalisation of these three fires as prāṇas is a radical Upanishadic move: it transforms every breathing body into a <strong>perpetual sacrifice</strong> — no priest, no altar, no ritual required."
+      },
+      {
+        "q": "🔍 Why do the prāṇas never sleep?",
+        "a": "The prāṇas (vital breaths) <strong>never cease</strong> during sleep because they sustain the body's <em>involuntary</em> functions — processes that must continue 24/7 for the organism to survive: <strong>Apāna</strong> (= Gārhapatya): continues excretory and reproductive processes during sleep — kidney filtration, intestinal peristalsis, cellular waste removal. If apāna stopped, toxins would accumulate fatally within hours. <strong>Vyāna</strong> (= Dakṣiṇāgni): continues blood circulation and nutrient distribution — the heart beats, blood flows, oxygen reaches cells. If vyāna stopped, tissues would die from oxygen deprivation within minutes. <strong>Prāṇa</strong> (= Āhavanīya, next mantra): continues respiration — breathing doesn't stop during sleep. If prāṇa stopped, death would follow within minutes. The Upanishadic insight is precise: the <em>voluntary</em> functions (seeing, hearing, speaking, grasping, walking) shut down during sleep — these are the ten indriyas. But the <em>involuntary</em> functions (breathing, heartbeat, digestion, circulation, elimination) continue — these are the prāṇas. The prāṇas are more fundamental than the senses because they sustain <em>life itself</em>, not just <em>experience</em>. You can live without sight or hearing; you cannot live without breath or heartbeat."
+      }
     ]
   },
   {
@@ -126,14 +204,34 @@
     "hi": "जो श्वास (ucchvāsa) और प्रश्वास (niḥśvāsa) — इन दो आहुतियों को समान रूप से (samaṁ) चलाता है — वह समान है। मन ही यजमान (sacrifice का कर्ता) है। इष्ट-फल (sacrifice का फल) — वह उदान है। वह (उदान) इस यजमान (मन) को प्रतिदिन (ahar-ahar) ब्रह्म तक ले जाता है।",
     "en": "That which leads these two oblations — inhalation (ucchvāsa) and exhalation (niḥśvāsa) — equally (sama), that is samāna. The mind (manas) is indeed the yajamāna (sacrificer). The fruit of the sacrifice (iṣṭa-phala) is udāna. It leads this sacrificer (the mind) to Brahman day after day (ahar-ahar).",
     "ws": [
-      {"s": "उच्छ्वासनिःश्वासौ (ucchvāsa-niḥśvāsau)", "h": "श्वास (अन्दर लेना) और प्रश्वास (बाहर छोड़ना)", "e": "inhalation and exhalation — the two 'oblations' poured into the fire of life; each breath-cycle is a sacrifice"},
-      {"s": "आहुती (āhutī)", "h": "दो आहुतियाँ / दो हवन-सामग्रियाँ", "e": "the two oblations — dual of āhuti (offering poured into fire); each inhalation and exhalation is treated as an offering into the prāṇa-fire"},
-      {"s": "यजमानः (yajamānaḥ)", "h": "यज्ञ करने वाला / यजमान", "e": "the sacrificer — the patron who commissions and benefits from the sacrifice; here the mind (manas) is the sacrificer because it directs the entire inner sacrifice"},
-      {"s": "इष्टफलम् (iṣṭa-phalam)", "h": "यज्ञ का फल / इच्छित फल", "e": "the fruit of sacrifice — iṣṭa (sacrificed/desired) + phala (fruit); udāna is the 'fruit' because it carries the mind upward to Brahman"},
-      {"s": "अहरहः (ahar-ahaḥ)", "h": "प्रतिदिन / दिन-प्रतिदिन", "e": "day after day — every day; each night's deep sleep is a journey to Brahman; the mind touches Brahman daily through udāna"}
+      {
+        "s": "उच्छ्वासनिःश्वासौ",
+        "h": "श्वास (अन्दर लेना) और प्रश्वास (बाहर छोड़ना)",
+        "e": "inhalation and exhalation"
+      },
+      {
+        "s": "आहुती",
+        "h": "दो आहुतियाँ / दो हवन-सामग्रियाँ",
+        "e": "the two oblations"
+      },
+      {
+        "s": "यजमानः",
+        "h": "यज्ञ करने वाला / यजमान",
+        "e": "the sacrificer"
+      },
+      {
+        "s": "इष्टफलम्",
+        "h": "यज्ञ का फल / इच्छित फल",
+        "e": "the fruit of sacrifice"
+      },
+      {
+        "s": "अहरहः",
+        "h": "प्रतिदिन / दिन-प्रतिदिन",
+        "e": "day after day"
+      }
     ],
     "gr": "<strong>Completing the fire-metaphor</strong>: (continuing from mantra 3) Prāṇa = Āhavanīya fire (implied from the inhalation-exhalation as āhutis). Samāna = the priest who conducts the oblations equally. Mind = yajamāna (the patron-sacrificer). Udāna = iṣṭa-phala (the fruit of the sacrifice). <strong>The body-sacrifice</strong>: every breath-cycle is a complete sacrifice: inhalation and exhalation are two oblations (āhutī), samāna distributes them equally, the mind is the beneficiary, and udāna carries the mind to Brahman every night in deep sleep. <strong>ahar-ahar brahma gamayati</strong> — 'day after day, leads to Brahman': this is a striking claim — every night in deep sleep, the mind is led to Brahman. Deep sleep is a <em>daily encounter with Brahman</em>. Yet the sleeper returns without knowing it (because of avidyā). Liberation is making this nightly encounter <em>conscious</em>.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.4 — The internal sacrifice (antaryāga) using breath as oblation is a key Upanishadic innovation. Chāndogya 5.19-24 describes the prāṇāgnihotra in detail. The claim that the mind reaches Brahman 'day after day' (ahar-ahar) in deep sleep echoes Chāndogya 6.8.1: 'When a man sleeps, dear boy, he has reached sat (Being).' The difference between the liberated and the unliberated: both reach Brahman in deep sleep, but only the jñānī knows it. The ignorant person returns from Brahman every morning without recognising where he was.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -155,8 +253,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 How is breathing a sacrifice?", "a": "The Prashna Upanishad constructs a complete <strong>inner sacrifice</strong> (antaryāga) from the components of breathing: <strong>The three fires</strong>: Gārhapatya = apāna (root fire, lower body); Dakṣiṇāgni = vyāna (southern fire, pervading); Āhavanīya = prāṇa (offering fire, upper body). <strong>The two oblations</strong>: ucchvāsa (inhalation) and niḥśvāsa (exhalation). Each breath-cycle pours two offerings into the fire of life. <strong>The priest</strong>: samāna — the prāṇa that 'equalises', distributing the offerings evenly. <strong>The sacrificer</strong>: manas (the mind) — the patron who commissions and benefits from the sacrifice. <strong>The fruit</strong>: udāna — the upward-moving breath that carries the 'fruit' (the mind's connection to Brahman) to the sacrificer. This internalisation has revolutionary implications: <strong>(1)</strong> Every breathing being is performing a sacrifice — not just Vedic priests. <strong>(2)</strong> No external materials, altar, or ceremony are needed — the body <em>is</em> the altar. <strong>(3)</strong> The sacrifice never stops — it runs 24/7, even during sleep. <strong>(4)</strong> The 'fruit' is not worldly reward but <em>Brahman</em> itself — the mind is carried to Brahman every night."},
-      {"q": "🔍 What does 'day after day to Brahman' mean?", "a": "The phrase <strong>ahar-ahar brahma gamayati</strong> ('day after day, leads to Brahman') is one of the most remarkable statements in the Upanishads. It means: <strong>Every night, in deep sleep, the mind (yajamāna) is carried by udāna to Brahman.</strong> This claim has several implications: <strong>(1) Deep sleep = daily Brahman-contact</strong>: the happiness we feel after waking from dreamless sleep is not random — it is the <em>afterglow</em> of having been in Brahman's presence. The Chāndogya (6.8.1) says the same: 'When a man sleeps, he has merged with sat (Being).' <strong>(2) Why don't we know it?</strong> Because of <em>avidyā</em> (ignorance). In deep sleep, the mind merges with Brahman but is wrapped in ignorance — it cannot recognise what it has contacted. It is like a person who walks through a treasure-room blindfolded and comes out rich but unable to describe what he touched. <strong>(3) Liberation = conscious deep sleep</strong>: the yogi's goal is to enter the state of deep sleep <em>with awareness intact</em> — to experience the Brahman-contact <em>knowingly</em>. This is what the Māṇḍūkya calls <strong>turīya</strong> — the Fourth state, which has the bliss of deep sleep with the awareness of waking. <strong>(4) 'Day after day'</strong>: this is not a one-time event but a <em>daily</em> occurrence. You go to Brahman every night. The question is not 'how do I get to Brahman?' but 'how do I recognise that I'm already going there?'"}
+      {
+        "q": "🔍 How is breathing a sacrifice?",
+        "a": "The Prashna Upanishad constructs a complete <strong>inner sacrifice</strong> (antaryāga) from the components of breathing: <strong>The three fires</strong>: Gārhapatya = apāna (root fire, lower body); Dakṣiṇāgni = vyāna (southern fire, pervading); Āhavanīya = prāṇa (offering fire, upper body). <strong>The two oblations</strong>: ucchvāsa (inhalation) and niḥśvāsa (exhalation). Each breath-cycle pours two offerings into the fire of life. <strong>The priest</strong>: samāna — the prāṇa that 'equalises', distributing the offerings evenly. <strong>The sacrificer</strong>: manas (the mind) — the patron who commissions and benefits from the sacrifice. <strong>The fruit</strong>: udāna — the upward-moving breath that carries the 'fruit' (the mind's connection to Brahman) to the sacrificer. This internalisation has revolutionary implications: <strong>(1)</strong> Every breathing being is performing a sacrifice — not just Vedic priests. <strong>(2)</strong> No external materials, altar, or ceremony are needed — the body <em>is</em> the altar. <strong>(3)</strong> The sacrifice never stops — it runs 24/7, even during sleep. <strong>(4)</strong> The 'fruit' is not worldly reward but <em>Brahman</em> itself — the mind is carried to Brahman every night."
+      },
+      {
+        "q": "🔍 What does 'day after day to Brahman' mean?",
+        "a": "The phrase <strong>ahar-ahar brahma gamayati</strong> ('day after day, leads to Brahman') is one of the most remarkable statements in the Upanishads. It means: <strong>Every night, in deep sleep, the mind (yajamāna) is carried by udāna to Brahman.</strong> This claim has several implications: <strong>(1) Deep sleep = daily Brahman-contact</strong>: the happiness we feel after waking from dreamless sleep is not random — it is the <em>afterglow</em> of having been in Brahman's presence. The Chāndogya (6.8.1) says the same: 'When a man sleeps, he has merged with sat (Being).' <strong>(2) Why don't we know it?</strong> Because of <em>avidyā</em> (ignorance). In deep sleep, the mind merges with Brahman but is wrapped in ignorance — it cannot recognise what it has contacted. It is like a person who walks through a treasure-room blindfolded and comes out rich but unable to describe what he touched. <strong>(3) Liberation = conscious deep sleep</strong>: the yogi's goal is to enter the state of deep sleep <em>with awareness intact</em> — to experience the Brahman-contact <em>knowingly</em>. This is what the Māṇḍūkya calls <strong>turīya</strong> — the Fourth state, which has the bliss of deep sleep with the awareness of waking. <strong>(4) 'Day after day'</strong>: this is not a one-time event but a <em>daily</em> occurrence. You go to Brahman every night. The question is not 'how do I get to Brahman?' but 'how do I recognise that I'm already going there?'"
+      }
     ]
   },
   {
@@ -166,14 +270,34 @@
     "hi": "यहाँ (स्वप्न-अवस्था में) यह देव (मन) महिमा (greatness) का अनुभव करता है। जो (जागृति में) देखा गया — उसे फिर देखता है; जो सुना गया — उसे फिर सुनता है; विभिन्न देश-दिशाओं (स्थानों) में जो अनुभव किया गया — उसे बार-बार पुनः अनुभव करता है। दृष्ट (देखा) और अदृष्ट (न देखा), श्रुत (सुना) और अश्रुत (न सुना), अनुभूत (अनुभव किया) और अननुभूत (न अनुभव किया), सत् (विद्यमान) और असत् (अविद्यमान) — सब कुछ देखता है। सर्वः (सबकुछ होकर) देखता है।",
     "en": "Here (in the dream-state) this god (the mind) experiences its greatness (mahimāna). What was seen, it sees again; what was heard, it hears again; what was experienced in various places and directions, it experiences again and again. Seen and unseen, heard and unheard, experienced and unexperienced, existent and non-existent — it sees all. Being all (sarvaḥ), it sees.",
     "ws": [
-      {"s": "देवः (devaḥ)", "h": "देव / मन / चेतन शक्ति", "e": "the god — here, the mind (manas); called 'deva' because in dreams it shines (√div = to shine) by its own light, creating an entire world without external input"},
-      {"s": "महिमानम् (mahimānam)", "h": "महिमा / गरिमा / महत्त्व", "e": "greatness / glory — the mind's power is 'great' because in dreams it simultaneously creates the world, the perceiver, and the act of perception"},
-      {"s": "अनुपश्यति (anupaśyati)", "h": "पुनः देखता है / अनुसरण करके देखता है", "e": "sees again / re-sees — anu (following/again) + √paś (to see); the mind replays waking impressions in dreams"},
-      {"s": "देशदिगन्तरैः (deśa-dig-antaraiḥ)", "h": "विभिन्न देश, दिशा और स्थानों में", "e": "in various places and directions — deśa (place) + dik (direction) + antara (interval/between); the dream-mind transcends spatial limitations"},
-      {"s": "सर्वः पश्यति (sarvaḥ paśyati)", "h": "सब कुछ होकर (सर्वरूप) देखता है", "e": "being all, it sees — the dreaming mind becomes the totality of the dream: creator, perceiver, and perceived are one"}
+      {
+        "s": "देवः",
+        "h": "देव / मन / चेतन शक्ति",
+        "e": "the god"
+      },
+      {
+        "s": "महिमानम्",
+        "h": "महिमा / गरिमा / महत्त्व",
+        "e": "greatness / glory"
+      },
+      {
+        "s": "अनुपश्यति",
+        "h": "पुनः देखता है / अनुसरण करके देखता है",
+        "e": "sees again / re-sees"
+      },
+      {
+        "s": "देशदिगन्तरैः",
+        "h": "विभिन्न देश, दिशा और स्थानों में",
+        "e": "in various places and directions"
+      },
+      {
+        "s": "सर्वः पश्यति",
+        "h": "सब कुछ होकर (सर्वरूप) देखता है",
+        "e": "being all, it sees"
+      }
     ],
     "gr": "<strong>svapne mahimānam anubhavati</strong> — 'in dreams, it experiences its greatness': the mind's 'greatness' is that in dreams it becomes a <em>creator</em>. It constructs entire worlds — landscapes, people, events — from memory-traces (vāsanās), without any external input. No eye sees, no ear hears — yet the dreamer sees and hears. <strong>dṛṣṭaṁ ca adṛṣṭam ca...</strong> — six pairs of opposites: seen/unseen, heard/unheard, experienced/unexperienced, existent/non-existent. The dream-mind transcends all boundaries: it can see things never seen in waking, hear words never spoken, experience events that never happened. It creates from both memory (sat) and imagination (asat). <strong>sarvaḥ paśyati</strong> — 'being all, it sees': the most profound statement. In the dream, the mind is simultaneously (1) the seer, (2) the seen, and (3) the act of seeing. It <em>is</em> everything in the dream. This is used as a model for Brahman's creation: Brahman creates the waking world the way the mind creates the dream world — being everything, it 'sees' (manifests) everything.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.5 — The dream-state analysis closely parallels Bṛhadāraṇyaka 4.3.9-14, where Yājñavalkya tells Janaka: 'In the dream-state there are no chariots, no roads, no joys — but he creates them all.' The Māṇḍūkya (4) names the dream-Self 'Taijasa' — the luminous one — because it shines by its own light (svayam-prakāśa). The phrase 'sarvaḥ paśyati' is philosophically loaded: the Advaita tradition uses the dream-analogy (svapna-dṛṣṭānta) as a key argument for māyā-vāda — if the mind can create an apparently real world in dreams, Brahman can create an apparently real world in waking.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -195,8 +319,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The dream as a model for creation (svapna-dṛṣṭānta)", "a": "The <strong>dream-analogy</strong> (svapna-dṛṣṭānta) is one of the most powerful arguments in Vedānta. The Prashna's statement '<em>sarvaḥ paśyati</em>' ('being all, it sees') provides the basis: <strong>In the dream</strong>: (1) The mind creates a world without external matter. (2) The mind is simultaneously the creator, the material, and the experiencer of that world. (3) The dream-world appears completely real while dreaming — the dreamer doesn't doubt it. (4) On waking, the dreamer realises the dream-world was 'created' by the mind alone — it had no independent existence. <strong>The Vedāntic extension</strong>: Advaita Vedānta applies the same logic to the waking world: (1) Brahman creates the world without external matter (it is both the efficient and material cause). (2) Brahman is simultaneously the creator, the material, and the experiencer. (3) The waking world appears completely real while we're 'in' it. (4) On 'waking' to the truth (through jñāna), the seeker realises that the waking world too was 'projected' by Brahman — it has no independent existence apart from Brahman. This doesn't mean the world is 'unreal' (like a hallucination) — it means it is <em>not independently real</em>. It is real as a <em>manifestation</em> of Brahman, just as the dream is real as a manifestation of the mind. The Bṛhadāraṇyaka (2.1.20) uses the spider-web analogy for the same purpose: 'As a spider sends forth its thread...'"},
-      {"q": "🔍 What does 'sarvaḥ paśyati' (being all, it sees) mean?", "a": "The phrase <strong>sarvaḥ paśyati</strong> is one of the most compressed metaphysical statements in the Upanishads. It means: <strong>the dreaming mind becomes the totality of the dream-world and, being everything, perceives everything</strong>. In ordinary waking perception, there is a <em>triad</em>: (1) the perceiver (draṣṭā), (2) the perceived (dṛśya), and (3) the act of perceiving (darśana). These appear distinct. In dreams, this triad <strong>collapses into one</strong>: the mind is simultaneously the eye that sees the dream-mountain, the mountain that is seen, and the seeing itself. There is no external mountain — the mind <em>is</em> the mountain. This collapse of the triad is philosophically decisive: <strong>If the subject-object distinction can collapse in dreams, it is not fundamental</strong>. It is not an irreducible feature of reality but a <em>construct</em> — something the mind can create and also dissolve. The Māṇḍūkya Upanishad builds its entire argument on this insight: if waking and dreaming share the same structure (a consciousness projecting a world and then experiencing it as 'other'), then waking is not categorically superior to dreaming — both are <em>projections</em>. The only state that is <em>not</em> a projection is turīya — the pure consciousness that is the <em>source</em> of all projections."}
+      {
+        "q": "🔍 The dream as a model for creation (svapna-dṛṣṭānta)",
+        "a": "The <strong>dream-analogy</strong> (svapna-dṛṣṭānta) is one of the most powerful arguments in Vedānta. The Prashna's statement '<em>sarvaḥ paśyati</em>' ('being all, it sees') provides the basis: <strong>In the dream</strong>: (1) The mind creates a world without external matter. (2) The mind is simultaneously the creator, the material, and the experiencer of that world. (3) The dream-world appears completely real while dreaming — the dreamer doesn't doubt it. (4) On waking, the dreamer realises the dream-world was 'created' by the mind alone — it had no independent existence. <strong>The Vedāntic extension</strong>: Advaita Vedānta applies the same logic to the waking world: (1) Brahman creates the world without external matter (it is both the efficient and material cause). (2) Brahman is simultaneously the creator, the material, and the experiencer. (3) The waking world appears completely real while we're 'in' it. (4) On 'waking' to the truth (through jñāna), the seeker realises that the waking world too was 'projected' by Brahman — it has no independent existence apart from Brahman. This doesn't mean the world is 'unreal' (like a hallucination) — it means it is <em>not independently real</em>. It is real as a <em>manifestation</em> of Brahman, just as the dream is real as a manifestation of the mind. The Bṛhadāraṇyaka (2.1.20) uses the spider-web analogy for the same purpose: 'As a spider sends forth its thread...'"
+      },
+      {
+        "q": "🔍 What does 'sarvaḥ paśyati' (being all, it sees) mean?",
+        "a": "The phrase <strong>sarvaḥ paśyati</strong> is one of the most compressed metaphysical statements in the Upanishads. It means: <strong>the dreaming mind becomes the totality of the dream-world and, being everything, perceives everything</strong>. In ordinary waking perception, there is a <em>triad</em>: (1) the perceiver (draṣṭā), (2) the perceived (dṛśya), and (3) the act of perceiving (darśana). These appear distinct. In dreams, this triad <strong>collapses into one</strong>: the mind is simultaneously the eye that sees the dream-mountain, the mountain that is seen, and the seeing itself. There is no external mountain — the mind <em>is</em> the mountain. This collapse of the triad is philosophically decisive: <strong>If the subject-object distinction can collapse in dreams, it is not fundamental</strong>. It is not an irreducible feature of reality but a <em>construct</em> — something the mind can create and also dissolve. The Māṇḍūkya Upanishad builds its entire argument on this insight: if waking and dreaming share the same structure (a consciousness projecting a world and then experiencing it as 'other'), then waking is not categorically superior to dreaming — both are <em>projections</em>. The only state that is <em>not</em> a projection is turīya — the pure consciousness that is the <em>source</em> of all projections."
+      }
     ]
   },
   {
@@ -206,12 +336,24 @@
     "hi": "जब वह (मन-रूपी देव) तेज (प्रकाश/आत्म-ज्योति) से अभिभूत (overwhelmed/आच्छादित) हो जाता है — तब यह देव स्वप्न नहीं देखता। तब इस शरीर में यह सुख (आनन्द) होता है।",
     "en": "When he (the mind-god) becomes overwhelmed by light (tejas), then this god does not see dreams. Then in this body arises that happiness (sukha).",
     "ws": [
-      {"s": "तेजसा (tejasā)", "h": "तेज / प्रकाश / आत्म-ज्योति से", "e": "by light / by radiance — the light of the Ātman (para-jyotiḥ); in deep sleep, the mind is 'overwhelmed' by the Self's own luminosity and ceases to project dreams"},
-      {"s": "अभिभूतः (abhibhūtaḥ)", "h": "अभिभूत / आच्छादित / परास्त", "e": "overwhelmed / overcome — abhi + √bhū (to overcome); the mind's dream-projecting capacity is suppressed by the superior light of the Ātman"},
-      {"s": "सुखम् (sukham)", "h": "सुख / आनन्द / परम शान्ति", "e": "happiness / bliss — the suṣupti-sukha (happiness of deep sleep); this happiness is not caused by any object but by the mind's proximity to the Ātman"}
+      {
+        "s": "तेजसा",
+        "h": "तेज / प्रकाश / आत्म-ज्योति से",
+        "e": "by light / by radiance"
+      },
+      {
+        "s": "अभिभूतः",
+        "h": "अभिभूत / आच्छादित / परास्त",
+        "e": "overwhelmed / overcome"
+      },
+      {
+        "s": "सुखम्",
+        "h": "सुख / आनन्द / परम शान्ति",
+        "e": "happiness / bliss"
+      }
     ],
     "gr": "<strong>tejasā abhibhūtaḥ</strong> — 'overwhelmed by light': a key phrase. What 'light' overwhelms the mind? The Ātman's own luminosity (svayam-prakāśa). In waking, the mind projects outward through the senses. In dreaming, it projects inward through memory-traces. In deep sleep, the projecting capacity itself is overwhelmed by the Ātman's radiance — like a candle flame overwhelmed by sunlight. The mind still exists (otherwise the person would be dead), but its projective function is suspended. <strong>svapnān na paśyati</strong> — 'does not see dreams': the transition from dream to deep sleep. Dreams cease not because the mind 'runs out' of material but because it is submerged in a greater light. <strong>etat sukhaṁ bhavati</strong> — 'this happiness arises': the happiness of deep sleep (suṣupti-sukha). This answers Sauryāyaṇī's fourth sub-question: 'Whose is this happiness?' It belongs to the Self (Ātman), and the mind experiences it by proximity — not by object-perception but by <em>absorption</em>.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.6 — The transition from dream to deep sleep as 'being overwhelmed by light (tejas)' is a striking image. Compare Bṛhadāraṇyaka 4.3.21: 'In the state of deep sleep, the self, having no cognition of anything external or internal, is embraced by the all-knowing Self (prajñāna-ghana).' The Māṇḍūkya (5) calls this state 'ānandabhuk' (bliss-enjoyer): 'Where the sleeper desires no desires and sees no dreams — that is deep sleep... This is the Lord of all, the knower of all, the inner controller, the source of all, the beginning and end of beings.' The suṣupti-sukha is objectless — it is the Self's own nature (svarūpa-ānanda).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -233,8 +375,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is deep sleep happy?", "a": "The happiness of deep sleep (<strong>suṣupti-sukha</strong>) is one of the great mysteries explored in Vedānta. The Upanishadic answer is that deep-sleep happiness is the <strong>Self's own nature</strong> (svarūpa-ānanda), not caused by any external object: <strong>In waking</strong>, happiness comes from getting what you want — a meal, a promotion, a compliment. This is <em>viṣayānanda</em> (object-dependent happiness): it requires a subject, an object, and a contact between them. <strong>In deep sleep</strong>, there is no subject-object contact — yet happiness is present. This proves that happiness does <em>not</em> require an object. The Taittirīya Upanishad (2.7) confirms: 'This very being (the Self) is the source of bliss (raso vai saḥ).' <strong>The mechanism</strong>: in deep sleep, the mind's <em>vikṣepa-śakti</em> (projecting power) is 'overwhelmed' by the Ātman's light. Without projection, there is no desire, no frustration, no duality — just the Self resting in itself. This is its natural state: ānanda (bliss). <strong>Why don't we remember it?</strong> Because the mind's other power — <em>āvaraṇa-śakti</em> (concealing power) — remains active. The mind is <em>near</em> the Self but doesn't <em>know</em> it is. The veil of ignorance (avidyā) covers the recognition. This is why suṣupti is not liberation: in liberation, <em>both</em> powers (projection and concealment) cease. In suṣupti, only projection ceases — concealment remains."},
-      {"q": "🔍 The three states and their 'light-sources'", "a": "Each state of consciousness has its own <strong>source of illumination</strong>: <strong>Waking (jāgrat)</strong>: illuminated by <em>external light</em> — the sun, fire, lamps. The senses perceive objects <em>lit by external sources</em>. Without sunlight, the eye cannot see. <strong>Dream (svapna)</strong>: illuminated by the <em>mind's own light</em>. In dreams, there is no external sun — yet the dreamer sees landscapes, faces, colours. The mind generates its own light (svayam-jyoti). The Bṛhadāraṇyaka (4.3.9) asks: 'What light does the person have in the dream-state?' and answers: 'The mind itself is his light.' <strong>Deep sleep (suṣupti)</strong>: illuminated by the <em>Ātman's light</em> — but this light is so overwhelming that the mind cannot process it. The mind is 'overwhelmed' (abhibhūta) — it cannot project images (dreams) because the background light is too bright. It's like trying to see stars during daytime: the stars are still there, but the sun's light makes them invisible. <strong>Turīya (the Fourth)</strong>: the pure Ātman-light itself, without any mind to be overwhelmed. This is consciousness in its raw state — self-luminous, objectless, blissful, and fully aware. The progression: external light → mental light → overwhelming Self-light → pure Self-light. Each stage moves <em>closer to the source</em> of all illumination."}
+      {
+        "q": "🔍 Why is deep sleep happy?",
+        "a": "The happiness of deep sleep (<strong>suṣupti-sukha</strong>) is one of the great mysteries explored in Vedānta. The Upanishadic answer is that deep-sleep happiness is the <strong>Self's own nature</strong> (svarūpa-ānanda), not caused by any external object: <strong>In waking</strong>, happiness comes from getting what you want — a meal, a promotion, a compliment. This is <em>viṣayānanda</em> (object-dependent happiness): it requires a subject, an object, and a contact between them. <strong>In deep sleep</strong>, there is no subject-object contact — yet happiness is present. This proves that happiness does <em>not</em> require an object. The Taittirīya Upanishad (2.7) confirms: 'This very being (the Self) is the source of bliss (raso vai saḥ).' <strong>The mechanism</strong>: in deep sleep, the mind's <em>vikṣepa-śakti</em> (projecting power) is 'overwhelmed' by the Ātman's light. Without projection, there is no desire, no frustration, no duality — just the Self resting in itself. This is its natural state: ānanda (bliss). <strong>Why don't we remember it?</strong> Because the mind's other power — <em>āvaraṇa-śakti</em> (concealing power) — remains active. The mind is <em>near</em> the Self but doesn't <em>know</em> it is. The veil of ignorance (avidyā) covers the recognition. This is why suṣupti is not liberation: in liberation, <em>both</em> powers (projection and concealment) cease. In suṣupti, only projection ceases — concealment remains."
+      },
+      {
+        "q": "🔍 The three states and their 'light-sources'",
+        "a": "Each state of consciousness has its own <strong>source of illumination</strong>: <strong>Waking (jāgrat)</strong>: illuminated by <em>external light</em> — the sun, fire, lamps. The senses perceive objects <em>lit by external sources</em>. Without sunlight, the eye cannot see. <strong>Dream (svapna)</strong>: illuminated by the <em>mind's own light</em>. In dreams, there is no external sun — yet the dreamer sees landscapes, faces, colours. The mind generates its own light (svayam-jyoti). The Bṛhadāraṇyaka (4.3.9) asks: 'What light does the person have in the dream-state?' and answers: 'The mind itself is his light.' <strong>Deep sleep (suṣupti)</strong>: illuminated by the <em>Ātman's light</em> — but this light is so overwhelming that the mind cannot process it. The mind is 'overwhelmed' (abhibhūta) — it cannot project images (dreams) because the background light is too bright. It's like trying to see stars during daytime: the stars are still there, but the sun's light makes them invisible. <strong>Turīya (the Fourth)</strong>: the pure Ātman-light itself, without any mind to be overwhelmed. This is consciousness in its raw state — self-luminous, objectless, blissful, and fully aware. The progression: external light → mental light → overwhelming Self-light → pure Self-light. Each stage moves <em>closer to the source</em> of all illumination."
+      }
     ]
   },
   {
@@ -244,13 +392,29 @@
     "hi": "हे सौम्य (प्रिय शिष्य)! जैसे पक्षी (वयांसि) अपने वास-वृक्ष (roosting tree / विश्राम-वृक्ष) पर जाकर बैठ जाते हैं — वैसे ही वह सब कुछ (सब इन्द्रियाँ, प्राण, मन) पर आत्मा (supreme Self) में प्रतिष्ठित हो जाता है।",
     "en": "As, O Somya (dear one), birds settle upon their roosting tree (vāso-vṛkṣa) — so all this settles in the supreme Self (para ātman).",
     "ws": [
-      {"s": "सोम्य (somya)", "h": "हे सौम्य / हे प्रिय शिष्य", "e": "O dear one / O gentle one — a term of affection used by the guru for the student; also used by Uddālaka in the Chāndogya ('tat tvam asi, somya')"},
-      {"s": "वयांसि (vayāṁsi)", "h": "पक्षी / चिड़ियाँ", "e": "birds — the senses and faculties are compared to birds that fly about during the day and return to roost at night"},
-      {"s": "वासोवृक्षम् (vāso-vṛkṣam)", "h": "वास-वृक्ष / विश्राम-वृक्ष / जहाँ पक्षी रात बिताते हैं", "e": "roosting tree — vāsa (dwelling) + vṛkṣa (tree); the tree to which birds return every evening; the Ātman is the roosting tree of all faculties"},
-      {"s": "पर आत्मनि (pare ātmani)", "h": "परमात्मा में / श्रेष्ठ आत्मा में", "e": "in the supreme Self — para (supreme) + ātman (Self); the ultimate ground in which everything finds rest"}
+      {
+        "s": "सोम्य",
+        "h": "हे सौम्य / हे प्रिय शिष्य",
+        "e": "O dear one / O gentle one"
+      },
+      {
+        "s": "वयांसि",
+        "h": "पक्षी / चिड़ियाँ",
+        "e": "birds"
+      },
+      {
+        "s": "वासोवृक्षम्",
+        "h": "वास-वृक्ष / विश्राम-वृक्ष / जहाँ पक्षी रात बिताते हैं",
+        "e": "roosting tree"
+      },
+      {
+        "s": "पर आत्मनि",
+        "h": "परमात्मा में / श्रेष्ठ आत्मा में",
+        "e": "in the supreme Self"
+      }
     ],
     "gr": "<strong>The bird-tree simile</strong>: one of the most tender images in the Upanishads. Birds scatter during the day to feed, explore, and sing. At dusk, they all return to one tree — their home. Similarly, the senses (birds) fly outward during waking, explore the world, and at night (sleep) return to their home — the Ātman (the roosting tree). <strong>somya</strong> — 'O dear one': the same term of endearment used by Uddālaka Āruṇi in the Chāndogya's great teaching 'tat tvam asi, somya' ('That thou art, dear one'). Its use here signals that Pippalāda is about to reveal the ultimate answer. <strong>pare ātmani sampratiṣṭhate</strong> — 'settles in the supreme Self': this answers Sauryāyaṇī's final sub-question: 'In whom are all established?' The answer: in the <em>para ātman</em> — the supreme Self. Not in the mind (which is itself a 'bird' that roosts), not in prāṇa, but in the Self which is the ground of all.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.7 — The bird-tree simile answers the fifth sub-question: 'In whom are all established?' The answer (para ātman) is the deepest answer in the entire Prashna Upanishad so far — it identifies the Ātman as the ultimate substratum. The simile appears only here and is one of the Prashna's original contributions. The word 'somya' connects to the Chāndogya's tat-tvam-asi teaching. The following mantra (4.8) will enumerate exactly what 'settles' in the Ātman.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -272,8 +436,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The bird-tree simile and its meaning", "a": "The <strong>bird-tree simile</strong> (vayāṁsi vāso-vṛkṣam) is one of the Prashna Upanishad's most original and beautiful images. Every evening, birds (<em>vayāṁsi</em>) that have scattered during the day to feed, explore, and sing return to their roosting tree (<em>vāso-vṛkṣa</em>) — the one place where they rest, sleep, and are safe. The correspondences: <strong>Birds</strong> = the senses, the mind, the prāṇas — all the faculties that 'fly outward' during waking. <strong>The tree</strong> = the supreme Self (para ātman) — the unchanging, unmoving ground to which everything returns. <strong>Day</strong> = waking — the senses spread outward, engaging with the world. <strong>Night</strong> = deep sleep — all faculties return to the Self. Key properties of the tree: <strong>(1) Stability</strong>: the tree doesn't move. The Self is immovable (acala), unchanging (avikāra). <strong>(2) Pre-existence</strong>: the tree existed before the birds arrived. The Self exists before the senses emerge. <strong>(3) Home</strong>: the tree is not just a stop — it is <em>home</em>. The Self is not just a temporary resting-place for the senses — it is their ultimate origin and destination. <strong>(4) Safety</strong>: birds roost in trees for protection from predators. The Self is the ultimate refuge — in deep sleep, there is no fear, no anxiety, no danger."},
-      {"q": "🔍 What does 'para ātman' mean?", "a": "The phrase <strong>para ātman</strong> (परम आत्मा, 'supreme Self') appears here as the answer to the question 'in whom are all established?' Its meaning varies across the three philosophical schools: <strong>Advaita</strong>: para ātman = nirguṇa Brahman, the attributeless Absolute. It is the one and only reality; the senses, mind, and prāṇas are its apparent manifestations (vivarta). In deep sleep, the apparent plurality dissolves back into the one Brahman. <strong>Vishishtadvaita</strong>: para ātman = Paramātman (Nārāyaṇa/Viṣṇu), the supreme Person who is distinct from yet inclusive of all individual selves (jīvātmans). The jīvas return to the Lord in deep sleep as birds return to the tree — they rest <em>in</em> Him but are not <em>identical</em> with Him. <strong>Aurobindo's Integral view</strong>: para ātman = the superconscient source of all consciousness. In deep sleep, the surface consciousness (which projects the waking and dream worlds) subsides, and the individual rests in the superconscient — the root-consciousness that is prior to all differentiation. Despite the philosophical differences, all three agree on the <em>experiential point</em>: in deep sleep, something real is contacted — a ground of happiness, safety, and renewal. That ground is the <em>para ātman</em>, however each school may define it."}
+      {
+        "q": "🔍 The bird-tree simile and its meaning",
+        "a": "The <strong>bird-tree simile</strong> (vayāṁsi vāso-vṛkṣam) is one of the Prashna Upanishad's most original and beautiful images. Every evening, birds (<em>vayāṁsi</em>) that have scattered during the day to feed, explore, and sing return to their roosting tree (<em>vāso-vṛkṣa</em>) — the one place where they rest, sleep, and are safe. The correspondences: <strong>Birds</strong> = the senses, the mind, the prāṇas — all the faculties that 'fly outward' during waking. <strong>The tree</strong> = the supreme Self (para ātman) — the unchanging, unmoving ground to which everything returns. <strong>Day</strong> = waking — the senses spread outward, engaging with the world. <strong>Night</strong> = deep sleep — all faculties return to the Self. Key properties of the tree: <strong>(1) Stability</strong>: the tree doesn't move. The Self is immovable (acala), unchanging (avikāra). <strong>(2) Pre-existence</strong>: the tree existed before the birds arrived. The Self exists before the senses emerge. <strong>(3) Home</strong>: the tree is not just a stop — it is <em>home</em>. The Self is not just a temporary resting-place for the senses — it is their ultimate origin and destination. <strong>(4) Safety</strong>: birds roost in trees for protection from predators. The Self is the ultimate refuge — in deep sleep, there is no fear, no anxiety, no danger."
+      },
+      {
+        "q": "🔍 What does 'para ātman' mean?",
+        "a": "The phrase <strong>para ātman</strong> (परम आत्मा, 'supreme Self') appears here as the answer to the question 'in whom are all established?' Its meaning varies across the three philosophical schools: <strong>Advaita</strong>: para ātman = nirguṇa Brahman, the attributeless Absolute. It is the one and only reality; the senses, mind, and prāṇas are its apparent manifestations (vivarta). In deep sleep, the apparent plurality dissolves back into the one Brahman. <strong>Vishishtadvaita</strong>: para ātman = Paramātman (Nārāyaṇa/Viṣṇu), the supreme Person who is distinct from yet inclusive of all individual selves (jīvātmans). The jīvas return to the Lord in deep sleep as birds return to the tree — they rest <em>in</em> Him but are not <em>identical</em> with Him. <strong>Aurobindo's Integral view</strong>: para ātman = the superconscient source of all consciousness. In deep sleep, the surface consciousness (which projects the waking and dream worlds) subsides, and the individual rests in the superconscient — the root-consciousness that is prior to all differentiation. Despite the philosophical differences, all three agree on the <em>experiential point</em>: in deep sleep, something real is contacted — a ground of happiness, safety, and renewal. That ground is the <em>para ātman</em>, however each school may define it."
+      }
     ]
   },
   {
@@ -283,13 +453,29 @@
     "hi": "पृथ्वी और पृथ्वी-मात्रा (सूक्ष्म तत्त्व), जल और जल-मात्रा, तेज और तेज-मात्रा, वायु और वायु-मात्रा, आकाश और आकाश-मात्रा; चक्षु और दृष्टव्य (देखने योग्य), श्रोत्र और श्रोतव्य (सुनने योग्य), घ्राण और घ्रातव्य (सूँघने योग्य), रस (जिह्वा) और रसयितव्य (चखने योग्य), त्वक् और स्पर्शयितव्य (छूने योग्य); वाक् और वक्तव्य (बोलने योग्य), हस्त और आदातव्य (ग्रहण योग्य), उपस्थ और आनन्दयितव्य (आनन्द योग्य), पायु और विसर्जयितव्य (त्यागने योग्य), पाद और गन्तव्य (जाने योग्य); मन और मन्तव्य (विचारणीय), बुद्धि और बोद्धव्य (जानने योग्य), अहंकार और अहंकर्तव्य (अहंकार-कर्तव्य), चित्त और चेतयितव्य (चेतना-योग्य); तेज और विद्योतयितव्य (प्रकाशित करने योग्य), प्राण और विधारयितव्य (धारण करने योग्य) — (ये सब पर आत्मा में प्रतिष्ठित हैं)।",
     "en": "Earth and earth-essence (tanmātra), water and water-essence, fire and fire-essence, air and air-essence, space and space-essence; the eye and what is to be seen, the ear and what is to be heard, the nose and what is to be smelled, taste and what is to be tasted, skin and what is to be touched; speech and what is to be spoken, hands and what is to be grasped, the reproductive organ and what is to be enjoyed, the excretory organ and what is to be discharged, feet and what is to be walked; mind and what is to be thought, intellect and what is to be known, ego and what is to be ego-ised, memory and what is to be cognised; light and what is to be illuminated, prāṇa and what is to be sustained — (all these are established in the supreme Self).",
     "ws": [
-      {"s": "मात्रा (mātrā)", "h": "सूक्ष्म तत्त्व / तन्मात्रा", "e": "subtle element / tanmātra — the subtle counterpart of each gross element (e.g., gandha-tanmātra for earth, rasa-tanmātra for water)"},
-      {"s": "बुद्धिः (buddhiḥ)", "h": "बुद्धि / विवेक-शक्ति / निश्चयात्मिका शक्ति", "e": "intellect / discriminative faculty — buddhi determines, decides, and discriminates; distinct from manas (which deliberates)"},
-      {"s": "अहंकारः (ahaṁkāraḥ)", "h": "अहंकार / 'मैं'-भाव / आत्म-बोध", "e": "ego / I-sense — ahaṁ (I) + kāra (maker); the faculty that claims ownership ('I see', 'I think', 'I do')"},
-      {"s": "चित्तम् (cittam)", "h": "चित्त / स्मृति / संस्कार-भण्डार", "e": "memory / mind-stuff / impression-store — citta retains saṁskāras (impressions) and makes them available for recall"}
+      {
+        "s": "मात्रा",
+        "h": "सूक्ष्म तत्त्व / तन्मात्रा",
+        "e": "subtle element / tanmātra"
+      },
+      {
+        "s": "बुद्धिः",
+        "h": "बुद्धि / विवेक-शक्ति / निश्चयात्मिका शक्ति",
+        "e": "intellect / discriminative faculty"
+      },
+      {
+        "s": "अहंकारः",
+        "h": "अहंकार / 'मैं'-भाव / आत्म-बोध",
+        "e": "ego / I-sense"
+      },
+      {
+        "s": "चित्तम्",
+        "h": "चित्त / स्मृति / संस्कार-भण्डार",
+        "e": "memory / mind-stuff / impression-store"
+      }
     ],
     "gr": "This mantra is a comprehensive <strong>enumeration of everything that 'settles' in the Ātman</strong> — continuing from mantra 7's bird-tree simile. The list covers: <strong>Five mahābhūtas + five tanmātras</strong> (10): earth/earth-essence, water/water-essence, fire/fire-essence, air/air-essence, space/space-essence. <strong>Five jñānendriyas + five viṣayas</strong> (10): eye/visible, ear/audible, nose/smellable, tongue/tastable, skin/touchable. <strong>Five karmendriyas + five functions</strong> (10): speech/speakable, hands/graspable, genitals/enjoyable, anus/dischargeable, feet/walkable. <strong>Four antaḥkaraṇa + four functions</strong> (8): mind/thinkable, intellect/knowable, ego/ego-able, memory/cognisable. <strong>Tejas + illuminable, Prāṇa + sustainble</strong> (4). Total: 42 items (21 pairs). This exhaustive list establishes that <strong>absolutely everything</strong> — gross and subtle, material and mental, active and passive — depends on the Ātman. Nothing has independent existence.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.8 — This is the most comprehensive enumeration of tattvas (principles) in the Prashna Upanishad. The list aligns closely with the 25 tattvas of Sāṅkhya (prakṛti, mahad/buddhi, ahaṁkāra, manas, 5 tanmātras, 5 mahābhūtas, 5 jñānendriyas, 5 karmendriyas, puruṣa) but adds citta as a separate category and includes prāṇa and tejas explicitly. The paired structure (faculty + object) emphasises that both the perceiver and the perceived depend on the Ātman — neither has independent reality.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -311,8 +497,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why list everything in pairs?", "a": "The mantra lists <strong>21 pairs</strong>, each consisting of a <em>faculty</em> (the perceiver/actor) and its <em>object</em> (what it perceives/acts upon). Examples: eye + visible, ear + audible, mind + thinkable. The pairing is philosophically significant: <strong>(1) Both sides of experience depend on the Ātman</strong>: not just the subject (the seer) but also the object (the seen) rests in the Self. This rules out both naive realism ('the world exists independently of consciousness') and naive idealism ('only the mind exists; the world is pure illusion'). Both subject <em>and</em> object arise from the Self. <strong>(2) The pairs model the subject-object structure of all experience</strong>: every experience has a perceiver and a perceived. By showing that all such pairs rest in the Ātman, the Upanishad argues that the subject-object structure itself is <em>dependent</em> — it is not fundamental reality but a structure that <em>emerges from</em> the Self. <strong>(3) In deep sleep, all pairs dissolve</strong>: the eye and the visible, the ear and the audible — all merge back into the Ātman. This dissolution is the 'return of the birds to the tree.' When the pairs re-emerge (on waking), they re-emerge from the Ātman. The Self is both their source and their resting-place."},
-      {"q": "🔍 The four-fold inner organ (antaḥkaraṇa)", "a": "The mantra lists four internal faculties — <strong>manas, buddhi, ahaṁkāra, citta</strong> — collectively called the <em>antaḥkaraṇa</em> (inner instrument) in Vedānta: <strong>(1) Manas</strong> (mind): deliberates, doubts, considers options. 'Should I do this or that?' Function: <em>saṅkalpa-vikalpa</em> (resolution and doubt). <strong>(2) Buddhi</strong> (intellect): decides, discriminates, determines. 'This is right; that is wrong.' Function: <em>niścaya</em> (determination). Buddhi is 'higher' than manas because it <em>resolves</em> what manas merely debates. <strong>(3) Ahaṁkāra</strong> (ego): claims ownership and agency. 'I see. I think. I do.' Function: <em>abhimāna</em> (self-identification). Without ahaṁkāra, there would be perception but no 'perceiver' who claims the perception as his own. <strong>(4) Citta</strong> (memory/consciousness-field): stores impressions (saṁskāras), enables recall, and maintains the continuity of personal identity. Function: <em>smaraṇa</em> (remembrance). These four are not four separate organs but <strong>four functions of one inner instrument</strong> — like four tools on a Swiss army knife. Together, they constitute the <em>sūkṣma-śarīra</em> (subtle body) that persists across births. In deep sleep, all four merge into the Ātman; on waking, they re-emerge with their accumulated impressions intact."}
+      {
+        "q": "🔍 Why list everything in pairs?",
+        "a": "The mantra lists <strong>21 pairs</strong>, each consisting of a <em>faculty</em> (the perceiver/actor) and its <em>object</em> (what it perceives/acts upon). Examples: eye + visible, ear + audible, mind + thinkable. The pairing is philosophically significant: <strong>(1) Both sides of experience depend on the Ātman</strong>: not just the subject (the seer) but also the object (the seen) rests in the Self. This rules out both naive realism ('the world exists independently of consciousness') and naive idealism ('only the mind exists; the world is pure illusion'). Both subject <em>and</em> object arise from the Self. <strong>(2) The pairs model the subject-object structure of all experience</strong>: every experience has a perceiver and a perceived. By showing that all such pairs rest in the Ātman, the Upanishad argues that the subject-object structure itself is <em>dependent</em> — it is not fundamental reality but a structure that <em>emerges from</em> the Self. <strong>(3) In deep sleep, all pairs dissolve</strong>: the eye and the visible, the ear and the audible — all merge back into the Ātman. This dissolution is the 'return of the birds to the tree.' When the pairs re-emerge (on waking), they re-emerge from the Ātman. The Self is both their source and their resting-place."
+      },
+      {
+        "q": "🔍 The four-fold inner organ (antaḥkaraṇa)",
+        "a": "The mantra lists four internal faculties — <strong>manas, buddhi, ahaṁkāra, citta</strong> — collectively called the <em>antaḥkaraṇa</em> (inner instrument) in Vedānta: <strong>(1) Manas</strong> (mind): deliberates, doubts, considers options. 'Should I do this or that?' Function: <em>saṅkalpa-vikalpa</em> (resolution and doubt). <strong>(2) Buddhi</strong> (intellect): decides, discriminates, determines. 'This is right; that is wrong.' Function: <em>niścaya</em> (determination). Buddhi is 'higher' than manas because it <em>resolves</em> what manas merely debates. <strong>(3) Ahaṁkāra</strong> (ego): claims ownership and agency. 'I see. I think. I do.' Function: <em>abhimāna</em> (self-identification). Without ahaṁkāra, there would be perception but no 'perceiver' who claims the perception as his own. <strong>(4) Citta</strong> (memory/consciousness-field): stores impressions (saṁskāras), enables recall, and maintains the continuity of personal identity. Function: <em>smaraṇa</em> (remembrance). These four are not four separate organs but <strong>four functions of one inner instrument</strong> — like four tools on a Swiss army knife. Together, they constitute the <em>sūkṣma-śarīra</em> (subtle body) that persists across births. In deep sleep, all four merge into the Ātman; on waking, they re-emerge with their accumulated impressions intact."
+      }
     ]
   },
   {
@@ -322,12 +514,24 @@
     "hi": "यह (जीव/पुरुष) ही द्रष्टा (देखने वाला), स्प्रष्टा (स्पर्श करने वाला), श्रोता (सुनने वाला), घ्राता (सूँघने वाला), रसयिता (स्वाद लेने वाला), मन्ता (विचार करने वाला), बोद्धा (जानने वाला), कर्ता (करने वाला) है — (यह) विज्ञानात्मा पुरुष (ज्ञान-स्वरूप आत्मा) है। वह पर अक्षर आत्मा (अविनाशी परम आत्मा) में प्रतिष्ठित है।",
     "en": "This indeed is the seer (draṣṭā), toucher, hearer, smeller, taster, thinker, knower, doer — the person whose self is consciousness (vijñāna-ātmā puruṣa). He is established in the supreme, imperishable Self (para akṣara ātman).",
     "ws": [
-      {"s": "विज्ञानात्मा (vijñāna-ātmā)", "h": "विज्ञान-स्वरूप आत्मा / ज्ञान-रूप पुरुष", "e": "the self that is consciousness / the knowing self — vijñāna (discriminative knowledge) + ātman (self); the individual who acts as seer, hearer, etc. through the power of consciousness"},
-      {"s": "अक्षरे (akṣare)", "h": "अक्षर में / अविनाशी में", "e": "in the imperishable — a (not) + kṣara (perishable); the indestructible ground; the Ātman that never decays, changes, or dies"},
-      {"s": "कर्ता (kartā)", "h": "कर्ता / करने वाला / क्रिया करने वाला", "e": "the doer / agent — the one who performs actions; among the eight roles listed, this covers all karmendriyas"}
+      {
+        "s": "विज्ञानात्मा",
+        "h": "विज्ञान-स्वरूप आत्मा / ज्ञान-रूप पुरुष",
+        "e": "the self that is consciousness / the knowing self"
+      },
+      {
+        "s": "अक्षरे",
+        "h": "अक्षर में / अविनाशी में",
+        "e": "in the imperishable"
+      },
+      {
+        "s": "कर्ता",
+        "h": "कर्ता / करने वाला / क्रिया करने वाला",
+        "e": "the doer / agent"
+      }
     ],
     "gr": "<strong>Eight agent-nouns</strong>: draṣṭā (seer), spraṣṭā (toucher), śrotā (hearer), ghrātā (smeller), rasayitā (taster), mantā (thinker), boddhā (knower), kartā (doer). These eight cover the entire range of subjective experience. <strong>vijñāna-ātmā puruṣaḥ</strong> — 'the person whose self is consciousness': this is the jīvātman — the individual self that acts as the agent of all perception and action. It is not merely a body or a mind but a <em>consciousness</em> (vijñāna) that animates both. <strong>pare akṣare ātmani sampratiṣṭhate</strong> — 'is established in the supreme, imperishable Self': the crucial climax. The vijñāna-ātmā (individual conscious self) is not self-grounding — it rests on the <em>akṣara</em> (imperishable) Ātman. This introduces a two-tier model: (1) the individual self (vijñāna-ātmā) who perceives and acts; (2) the supreme Self (para akṣara ātman) in whom the individual is established. The relationship between these two is the central question of all Vedānta.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.9 — The term vijñāna-ātmā appears in Taittirīya 2.4 (vijñānamaya kośa) and Aitareya 3.1.2 ('prajñānaṁ brahma'). The para akṣara ātman echoes the Bhagavad Gītā 8.3 ('akṣaraṁ brahma paramam') and 15.16-18 (kṣara-akṣara-puruṣottama triad). The relationship between vijñāna-ātmā and akṣara ātman is interpreted differently: Advaita says they are ultimately identical (the individual self is Brahman under the veil of avidyā); Vishishtadvaita says the individual is a real part (aṁśa) of the Lord but distinct; Aurobindo sees the individual as a self-expression of the supramental consciousness.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -349,8 +553,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Vijñāna-ātmā and akṣara ātman: the two-tier Self", "a": "This mantra introduces a <strong>two-tier model of the Self</strong>: <strong>Tier 1: Vijñāna-ātmā</strong> (the consciousness-self) — the individual who perceives, thinks, and acts. It is the 'agent' (kartā) behind all eight functions listed: seeing, touching, hearing, smelling, tasting, thinking, knowing, doing. In Sāṅkhya terms, this is the <em>puruṣa</em> as witness; in Vedāntic terms, it is the <em>jīvātman</em> (individual self). <strong>Tier 2: Para akṣara ātman</strong> (the supreme imperishable Self) — the ground in which the vijñāna-ātmā is established. This is Brahman — the unchanging, undecaying reality that underlies all individual existence. The <strong>relationship</strong> between the two tiers is the central debate of Indian philosophy: <strong>Advaita</strong>: they are <em>identical</em> — the vijñāna-ātmā <em>is</em> the akṣara ātman, appearing as an individual only due to avidyā (ignorance). Realisation = recognising the identity. <strong>Vishishtadvaita</strong>: they are <em>distinct but inseparable</em> — the vijñāna-ātmā is a real part of the akṣara ātman, related as body to soul. The part can never become the whole, but it can know the whole through devotion. <strong>Dvaita</strong>: they are <em>eternally distinct</em> — the individual self is real and permanently different from the supreme Self. The Prashna Upanishad's wording — 'sampratiṣṭhate' (is established in) — is open to all three interpretations. It says the individual <em>rests in</em> the supreme — without specifying whether 'resting in' means identity, inherence, or dependence."},
-      {"q": "🔍 What does 'akṣara' (imperishable) mean?", "a": "The word <strong>akṣara</strong> (अक्षर) is one of the most significant terms in the Upanishads and the Gītā. Etymologically: <em>a</em> (not) + <em>kṣara</em> (perishable, from √kṣar, to flow away/decay) = 'that which does not perish, does not decay, does not flow away.' The term appears in: <strong>Bṛhadāraṇyaka 3.8.8-11</strong>: Gārgī asks Yājñavalkya: 'What is that akṣara in which space itself is woven?' Yājñavalkya answers: 'It is neither gross nor subtle, neither short nor long... It is the seer but is not seen, the hearer but is not heard, the thinker but is not thought, the knower but is not known. There is nothing other than it that sees, hears, thinks, or knows. In this akṣara, Gārgī, space is woven.' <strong>Bhagavad Gītā 8.3</strong>: 'Akṣaraṁ brahma paramam' — 'The imperishable is the supreme Brahman.' <strong>Gītā 15.16-18</strong>: 'There are two puruṣas in the world — kṣara (perishable) and akṣara (imperishable). All beings are kṣara; the unchanging is akṣara. But there is another, the Puruṣottama (supreme Person), who pervades and sustains the three worlds.' In the Prashna's usage, <strong>para akṣara ātman</strong> = the supreme imperishable Self — the final answer to 'in whom are all established?' Everything — elements, senses, mind, ego, prāṇa — rests in this imperishable ground. It never decays, never changes, never dies. It is the roosting tree that outlasts every bird."}
+      {
+        "q": "🔍 Vijñāna-ātmā and akṣara ātman: the two-tier Self",
+        "a": "This mantra introduces a <strong>two-tier model of the Self</strong>: <strong>Tier 1: Vijñāna-ātmā</strong> (the consciousness-self) — the individual who perceives, thinks, and acts. It is the 'agent' (kartā) behind all eight functions listed: seeing, touching, hearing, smelling, tasting, thinking, knowing, doing. In Sāṅkhya terms, this is the <em>puruṣa</em> as witness; in Vedāntic terms, it is the <em>jīvātman</em> (individual self). <strong>Tier 2: Para akṣara ātman</strong> (the supreme imperishable Self) — the ground in which the vijñāna-ātmā is established. This is Brahman — the unchanging, undecaying reality that underlies all individual existence. The <strong>relationship</strong> between the two tiers is the central debate of Indian philosophy: <strong>Advaita</strong>: they are <em>identical</em> — the vijñāna-ātmā <em>is</em> the akṣara ātman, appearing as an individual only due to avidyā (ignorance). Realisation = recognising the identity. <strong>Vishishtadvaita</strong>: they are <em>distinct but inseparable</em> — the vijñāna-ātmā is a real part of the akṣara ātman, related as body to soul. The part can never become the whole, but it can know the whole through devotion. <strong>Dvaita</strong>: they are <em>eternally distinct</em> — the individual self is real and permanently different from the supreme Self. The Prashna Upanishad's wording — 'sampratiṣṭhate' (is established in) — is open to all three interpretations. It says the individual <em>rests in</em> the supreme — without specifying whether 'resting in' means identity, inherence, or dependence."
+      },
+      {
+        "q": "🔍 What does 'akṣara' (imperishable) mean?",
+        "a": "The word <strong>akṣara</strong> (अक्षर) is one of the most significant terms in the Upanishads and the Gītā. Etymologically: <em>a</em> (not) + <em>kṣara</em> (perishable, from √kṣar, to flow away/decay) = 'that which does not perish, does not decay, does not flow away.' The term appears in: <strong>Bṛhadāraṇyaka 3.8.8-11</strong>: Gārgī asks Yājñavalkya: 'What is that akṣara in which space itself is woven?' Yājñavalkya answers: 'It is neither gross nor subtle, neither short nor long... It is the seer but is not seen, the hearer but is not heard, the thinker but is not thought, the knower but is not known. There is nothing other than it that sees, hears, thinks, or knows. In this akṣara, Gārgī, space is woven.' <strong>Bhagavad Gītā 8.3</strong>: 'Akṣaraṁ brahma paramam' — 'The imperishable is the supreme Brahman.' <strong>Gītā 15.16-18</strong>: 'There are two puruṣas in the world — kṣara (perishable) and akṣara (imperishable). All beings are kṣara; the unchanging is akṣara. But there is another, the Puruṣottama (supreme Person), who pervades and sustains the three worlds.' In the Prashna's usage, <strong>para akṣara ātman</strong> = the supreme imperishable Self — the final answer to 'in whom are all established?' Everything — elements, senses, mind, ego, prāṇa — rests in this imperishable ground. It never decays, never changes, never dies. It is the roosting tree that outlasts every bird."
+      }
     ]
   },
   {
@@ -360,15 +570,39 @@
     "hi": "वह परम अक्षर (अविनाशी ब्रह्म) को प्रतिपद्यते (प्राप्त करता है) — जो उस छायारहित (acchāya), शरीररहित (aśarīra), रक्तहीन (alohita), शुभ्र (luminous/pure), अक्षर (अविनाशी) को जानता है (vedayate)। हे सौम्य! वह सर्वज्ञ (omniscient) और सर्व (everything) हो जाता है। इस विषय में यह श्लोक है —",
     "en": "He attains (pratipadyate) the supreme imperishable (akṣara) — he who knows that shadowless (acchāya), bodiless (aśarīra), bloodless (alohita), pure/luminous (śubhra), imperishable (akṣara) (Brahman). O Somya! He becomes omniscient (sarvajña) and becomes all (sarva). On this there is this verse —",
     "ws": [
-      {"s": "अच्छायम् (acchāyam)", "h": "छायारहित / परछाईंरहित", "e": "shadowless — a (without) + chāyā (shadow); Brahman casts no shadow because it has no body; it is pure light without any obstruction"},
-      {"s": "अशरीरम् (aśarīram)", "h": "शरीररहित / देहरहित", "e": "bodiless — without a physical or subtle body; Brahman is not limited to any form"},
-      {"s": "अलोहितम् (alohitam)", "h": "रक्तरहित / लाल रंग रहित", "e": "without blood / without redness — lohita (blood/red); Brahman has no bodily constituents; the mention of blood specifically negates any material embodiment"},
-      {"s": "शुभ्रम् (śubhram)", "h": "शुद्ध / श्वेत / प्रकाशमान", "e": "pure / luminous / bright-white — śubhra (bright, clean); Brahman's nature is pure luminosity, untainted by any quality"},
-      {"s": "सर्वज्ञः (sarvajñaḥ)", "h": "सब-कुछ-जानने-वाला / सर्वज्ञ", "e": "omniscient — sarva (all) + jña (knowing); the knower of akṣara becomes all-knowing because he knows the ground of all knowledge"},
-      {"s": "सर्वः (sarvaḥ)", "h": "सब कुछ / सर्वरूप", "e": "everything / all — the knower becomes everything; cf. Muṇḍaka 3.2.9: 'he who knows Brahman becomes Brahman'"}
+      {
+        "s": "अच्छायम्",
+        "h": "छायारहित / परछाईंरहित",
+        "e": "shadowless"
+      },
+      {
+        "s": "अशरीरम्",
+        "h": "शरीररहित / देहरहित",
+        "e": "bodiless"
+      },
+      {
+        "s": "अलोहितम्",
+        "h": "रक्तरहित / लाल रंग रहित",
+        "e": "without blood / without redness"
+      },
+      {
+        "s": "शुभ्रम्",
+        "h": "शुद्ध / श्वेत / प्रकाशमान",
+        "e": "pure / luminous / bright-white"
+      },
+      {
+        "s": "सर्वज्ञः",
+        "h": "सब-कुछ-जानने-वाला / सर्वज्ञ",
+        "e": "omniscient"
+      },
+      {
+        "s": "सर्वः",
+        "h": "सब कुछ / सर्वरूप",
+        "e": "everything / all"
+      }
     ],
     "gr": "<strong>Five via-negativa descriptions</strong>: acchāya (shadowless), aśarīra (bodiless), alohita (bloodless), śubhra (pure/luminous), akṣara (imperishable). The first three are negations — what Brahman is <em>not</em>. The last two are affirmations — what Brahman <em>is</em>: pure and imperishable. This is the Upanishadic neti-neti (not this, not this) method: define the Absolute by removing all limitations. <strong>sarvajñaḥ sarvaḥ bhavati</strong> — 'becomes omniscient and becomes all': the two-fold fruit of knowing akṣara. Sarvajña (omniscient) because the ground of all knowledge is known; sarva (all) because the ground of all being is known. Compare Muṇḍaka 3.2.9: 'sa yo ha vai tat paramaṁ brahma veda brahmaiva bhavati' — 'he who knows that supreme Brahman, becomes Brahman indeed.'",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.10 — The five-fold description of akṣara (shadowless, bodiless, bloodless, pure, imperishable) closely parallels Bṛhadāraṇyaka 3.8.8: 'That akṣara is neither gross nor subtle, neither short nor long, not red, not adhesive...' and Muṇḍaka 1.1.6: 'That which cannot be seen or grasped, which has no family or caste, no eyes or ears, no hands or feet — the eternal, all-pervading, subtle, imperishable — that is what the wise see as the source of all beings.' The promise 'sarvajñaḥ sarvaḥ bhavati' echoes Muṇḍaka 3.2.9.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -390,8 +624,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The via negativa (neti-neti) description of Brahman", "a": "The five adjectives — <strong>acchāya, aśarīra, alohita, śubhra, akṣara</strong> — employ the classic Upanishadic <em>neti-neti</em> ('not this, not this') method of describing the Absolute: <strong>Acchāya (shadowless)</strong>: a shadow requires a body and a light-source. Brahman has neither — it <em>is</em> the light and has no form to cast a shadow. <strong>Aśarīra (bodiless)</strong>: Brahman has no gross body (sthūla-śarīra), no subtle body (sūkṣma-śarīra), and no causal body (kāraṇa-śarīra). It transcends all three levels of embodiment. <strong>Alohita (bloodless)</strong>: this specifically negates material life. Blood is the signature of biological embodiment — Brahman has no biological constitution. <strong>Śubhra (pure/luminous)</strong>: the first <em>positive</em> description. After stripping away shadow, body, and blood, what remains is not nothing but pure light — the self-luminous consciousness (svayam-prakāśa). <strong>Akṣara (imperishable)</strong>: the second positive description. Brahman never decays, changes, or dies. It is the one reality that outlasts every cycle of creation and dissolution. The method: first negate everything finite (acchāya, aśarīra, alohita). Then affirm what survives the negation (śubhra, akṣara). What you cannot negate — pure luminous imperishable consciousness — is Brahman. This method appears across the Upanishads: Bṛhadāraṇyaka 3.8.8 (the akṣara is 'neither this nor that'), Māṇḍūkya 7 (turīya is 'not conscious, not unconscious... ungraspable, without feature'), and Gītā 13.12 ('neither sat nor asat is it said to be')."},
-      {"q": "🔍 'He becomes all' — what does this mean?", "a": "The declaration <strong>'sarvajñaḥ sarvaḥ bhavati'</strong> ('he becomes omniscient and becomes all') is one of the boldest claims in the Upanishads. It appears repeatedly: Muṇḍaka 3.2.9, Chāndogya 7.25.2, Bṛhadāraṇyaka 1.4.10. What does 'becoming all' mean? <strong>Advaita reading</strong>: the individual was always Brahman — the 'becoming' is not a change but a <em>recognition</em>. When ignorance (avidyā) is removed, the jīva recognises that it was Brahman all along. 'Becoming all' = realising 'I was always all.' <strong>Vishishtadvaita reading</strong>: the devotee doesn't literally become God but attains <em>God-like qualities</em> (omniscience, etc.) in the liberated state. He becomes 'sarva' in the sense of participating in the Lord's nature — as a drop participates in the ocean. <strong>Aurobindo's reading</strong>: the individual consciousness expands to embrace the universal. It doesn't lose its individuality but <em>contains</em> the universal within it — like a hologram where each part contains the whole. The practical consequence, all schools agree: the knower of Brahman <strong>no longer fears</strong>. Fear comes from a sense of otherness ('there is something other than me that can harm me'). When you know you are all, there is no 'other' to fear. This is why the Taittirīya (2.7) says: 'When one finds fearlessness (abhaya) in that invisible, bodiless, indefinable, supportless — then one has reached fearlessness.'"}
+      {
+        "q": "🔍 The via negativa (neti-neti) description of Brahman",
+        "a": "The five adjectives — <strong>acchāya, aśarīra, alohita, śubhra, akṣara</strong> — employ the classic Upanishadic <em>neti-neti</em> ('not this, not this') method of describing the Absolute: <strong>Acchāya (shadowless)</strong>: a shadow requires a body and a light-source. Brahman has neither — it <em>is</em> the light and has no form to cast a shadow. <strong>Aśarīra (bodiless)</strong>: Brahman has no gross body (sthūla-śarīra), no subtle body (sūkṣma-śarīra), and no causal body (kāraṇa-śarīra). It transcends all three levels of embodiment. <strong>Alohita (bloodless)</strong>: this specifically negates material life. Blood is the signature of biological embodiment — Brahman has no biological constitution. <strong>Śubhra (pure/luminous)</strong>: the first <em>positive</em> description. After stripping away shadow, body, and blood, what remains is not nothing but pure light — the self-luminous consciousness (svayam-prakāśa). <strong>Akṣara (imperishable)</strong>: the second positive description. Brahman never decays, changes, or dies. It is the one reality that outlasts every cycle of creation and dissolution. The method: first negate everything finite (acchāya, aśarīra, alohita). Then affirm what survives the negation (śubhra, akṣara). What you cannot negate — pure luminous imperishable consciousness — is Brahman. This method appears across the Upanishads: Bṛhadāraṇyaka 3.8.8 (the akṣara is 'neither this nor that'), Māṇḍūkya 7 (turīya is 'not conscious, not unconscious... ungraspable, without feature'), and Gītā 13.12 ('neither sat nor asat is it said to be')."
+      },
+      {
+        "q": "🔍 'He becomes all' — what does this mean?",
+        "a": "The declaration <strong>'sarvajñaḥ sarvaḥ bhavati'</strong> ('he becomes omniscient and becomes all') is one of the boldest claims in the Upanishads. It appears repeatedly: Muṇḍaka 3.2.9, Chāndogya 7.25.2, Bṛhadāraṇyaka 1.4.10. What does 'becoming all' mean? <strong>Advaita reading</strong>: the individual was always Brahman — the 'becoming' is not a change but a <em>recognition</em>. When ignorance (avidyā) is removed, the jīva recognises that it was Brahman all along. 'Becoming all' = realising 'I was always all.' <strong>Vishishtadvaita reading</strong>: the devotee doesn't literally become God but attains <em>God-like qualities</em> (omniscience, etc.) in the liberated state. He becomes 'sarva' in the sense of participating in the Lord's nature — as a drop participates in the ocean. <strong>Aurobindo's reading</strong>: the individual consciousness expands to embrace the universal. It doesn't lose its individuality but <em>contains</em> the universal within it — like a hologram where each part contains the whole. The practical consequence, all schools agree: the knower of Brahman <strong>no longer fears</strong>. Fear comes from a sense of otherness ('there is something other than me that can harm me'). When you know you are all, there is no 'other' to fear. This is why the Taittirīya (2.7) says: 'When one finds fearlessness (abhaya) in that invisible, bodiless, indefinable, supportless — then one has reached fearlessness.'"
+      }
     ]
   },
   {
@@ -401,11 +641,19 @@
     "hi": "विज्ञानात्मा (ज्ञान-स्वरूप जीव) समस्त देवों (शक्तियों) सहित, सब प्राण और सब भूत (तत्त्व/प्राणी) — जहाँ (जिसमें) प्रतिष्ठित होते हैं — जो उस अक्षर (अविनाशी ब्रह्म) को जानता है, हे सौम्य! वह सर्वज्ञ (omniscient) हो जाता है — वह सर्व (सब कुछ) में प्रविष्ट हो जाता है (आविवेश)। — इति (इस प्रकार चौथा प्रश्न समाप्त)।",
     "en": "The consciousness-self (vijñāna-ātmā), together with all the gods, the prāṇas, and the elements — where (yatra) all these are established — he who knows that imperishable (akṣara), O Somya, he becomes omniscient (sarvajña) and enters into all (sarvam āviveśa). — Thus (ends the fourth question).",
     "ws": [
-      {"s": "भूतानि (bhūtāni)", "h": "तत्त्व / महाभूत / प्राणी", "e": "elements / beings — the five great elements (earth, water, fire, air, space) and all living beings; everything material and conscious"},
-      {"s": "आविवेश (āviveśa)", "h": "प्रविष्ट हो गया / सब में घुस गया", "e": "entered into — ā + vi + √viś (to enter); the knower 'enters into' all of reality — not physically but through realisation; he sees himself in everything and everything in himself"}
+      {
+        "s": "भूतानि",
+        "h": "तत्त्व / महाभूत / प्राणी",
+        "e": "elements / beings"
+      },
+      {
+        "s": "आविवेश",
+        "h": "प्रविष्ट हो गया / सब में घुस गया",
+        "e": "entered into"
+      }
     ],
     "gr": "<strong>The concluding verse</strong> repeats and amplifies the promise of mantra 10. The structure: (1) vijñāna-ātmā + devāḥ + prāṇāḥ + bhūtāni — the entire manifest reality; (2) yatra sampratiṣṭhanti — where all this is established; (3) tat akṣaraṁ vedayate — he who knows that imperishable; (4) sarvajñaḥ sarvam āviveśa — he becomes omniscient and enters all. <strong>sarvam āviveśa</strong> — 'entered into all': this is stronger than 'becomes all' (mantra 10). It means the knower <em>pervades</em> all of reality — not by physical expansion but by the realisation that there is no boundary between self and world. The Isha Upanishad (6) says the same: 'He who sees all beings in the Self and the Self in all beings — he never turns away.' <strong>iti</strong> — the formal close of Question 4. The teaching on the three states of consciousness is complete.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_4.11 — The concluding verse echoes mantra 10 with the significant addition of 'sarvam āviveśa' (entered into all) — a stronger formulation than 'sarvaḥ bhavati' (becomes all). The phrase āviveśa (perfect tense of ā-vi-√viś) suggests a completed act — 'he has entered all.' This echoes the Taittirīya's 'tat sṛṣṭvā tad evānuprāviśat' — 'having created That, He entered into it' (2.6). The double use of 'somya' (mantras 7, 10, 11) connects Question 4 to the Chāndogya's tat-tvam-asi teaching. Question 4 is now complete — the six Prashna questions are half done (4/6).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -427,8 +675,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Summary of Question 4's teaching", "a": "Question 4 covers the <strong>three states of consciousness</strong> and the ground on which they rest: <strong>Mantra 1</strong>: Five sub-questions — what sleeps, what wakes, who dreams, whose is the happiness, in whom are all established? <strong>Mantra 2</strong>: <em>Sleep</em>: the sun-ray simile — all ten senses merge into the mind (para deva). Ten negations define the sleep state. <strong>Mantras 3-4</strong>: <em>What stays awake</em>: the prāṇa-fires (mapped to the three Vedic fires: Gārhapatya = apāna, Dakṣiṇāgni = vyāna, Āhavanīya = prāṇa). Breathing = sacrifice; mind = sacrificer; udāna carries the mind to Brahman every night. <strong>Mantra 5</strong>: <em>Dreams</em>: the mind experiences its 'greatness' (mahimā) — it creates an entire world from memory. 'Sarvaḥ paśyati' — being all, it sees. <strong>Mantra 6</strong>: <em>Deep sleep</em>: the mind is overwhelmed by the Ātman's light (tejasā abhibhūtaḥ). Dreams cease. Objectless happiness (sukha) arises. <strong>Mantra 7</strong>: <em>Ground</em>: the bird-tree simile — all faculties roost in the supreme Self (para ātman). <strong>Mantra 8</strong>: The 42-item enumeration — everything that 'roosts' in the Self. <strong>Mantras 9-11</strong>: The vijñāna-ātmā (consciousness-self) rests in the para akṣara ātman (supreme imperishable Self). The knower of this becomes omniscient and 'enters all.'"},
-      {"q": "🔍 How does Question 4 relate to the Māṇḍūkya Upanishad?", "a": "Question 4 of the Prashna and the <strong>Māṇḍūkya Upanishad</strong> cover the same territory — the three states of consciousness — but with different emphases: <strong>Shared content</strong>: Both analyse waking (jāgrat), dreaming (svapna), and deep sleep (suṣupti). Both identify a ground-state beyond all three. Both connect deep sleep with happiness and proximity to Brahman. <strong>Differences</strong>: The <em>Māṇḍūkya</em> (12 mantras + Gauḍapāda's Kārikā) is a systematic treatise: it names the Self in each state (Viśva, Taijasa, Prājña), identifies the Fourth (Turīya) explicitly, and maps all four to the syllable OM (A-U-M + silence). The <em>Prashna</em>'s treatment is more narrative and metaphorical: it uses the sun-ray simile, the three-fires metaphor, the bird-tree image, and the 42-item enumeration. It doesn't name the states formally or map them to OM (that comes in Question 5). <strong>Complementary</strong>: the Prashna <em>prepares</em> the ground for the Māṇḍūkya's analysis. It establishes: (1) sleep = sense-withdrawal into mind; (2) dreams = mind's creative projection; (3) deep sleep = mind overwhelmed by Ātman's light; (4) all states rest in the akṣara (imperishable Self). The Māṇḍūkya then takes these insights and distils them into a single-syllable meditation: OM. Together, the two Upanishads form a complete consciousness-theory — the Prashna as narrative exposition, the Māṇḍūkya as systematic formula."}
+      {
+        "q": "🔍 Summary of Question 4's teaching",
+        "a": "Question 4 covers the <strong>three states of consciousness</strong> and the ground on which they rest: <strong>Mantra 1</strong>: Five sub-questions — what sleeps, what wakes, who dreams, whose is the happiness, in whom are all established? <strong>Mantra 2</strong>: <em>Sleep</em>: the sun-ray simile — all ten senses merge into the mind (para deva). Ten negations define the sleep state. <strong>Mantras 3-4</strong>: <em>What stays awake</em>: the prāṇa-fires (mapped to the three Vedic fires: Gārhapatya = apāna, Dakṣiṇāgni = vyāna, Āhavanīya = prāṇa). Breathing = sacrifice; mind = sacrificer; udāna carries the mind to Brahman every night. <strong>Mantra 5</strong>: <em>Dreams</em>: the mind experiences its 'greatness' (mahimā) — it creates an entire world from memory. 'Sarvaḥ paśyati' — being all, it sees. <strong>Mantra 6</strong>: <em>Deep sleep</em>: the mind is overwhelmed by the Ātman's light (tejasā abhibhūtaḥ). Dreams cease. Objectless happiness (sukha) arises. <strong>Mantra 7</strong>: <em>Ground</em>: the bird-tree simile — all faculties roost in the supreme Self (para ātman). <strong>Mantra 8</strong>: The 42-item enumeration — everything that 'roosts' in the Self. <strong>Mantras 9-11</strong>: The vijñāna-ātmā (consciousness-self) rests in the para akṣara ātman (supreme imperishable Self). The knower of this becomes omniscient and 'enters all.'"
+      },
+      {
+        "q": "🔍 How does Question 4 relate to the Māṇḍūkya Upanishad?",
+        "a": "Question 4 of the Prashna and the <strong>Māṇḍūkya Upanishad</strong> cover the same territory — the three states of consciousness — but with different emphases: <strong>Shared content</strong>: Both analyse waking (jāgrat), dreaming (svapna), and deep sleep (suṣupti). Both identify a ground-state beyond all three. Both connect deep sleep with happiness and proximity to Brahman. <strong>Differences</strong>: The <em>Māṇḍūkya</em> (12 mantras + Gauḍapāda's Kārikā) is a systematic treatise: it names the Self in each state (Viśva, Taijasa, Prājña), identifies the Fourth (Turīya) explicitly, and maps all four to the syllable OM (A-U-M + silence). The <em>Prashna</em>'s treatment is more narrative and metaphorical: it uses the sun-ray simile, the three-fires metaphor, the bird-tree image, and the 42-item enumeration. It doesn't name the states formally or map them to OM (that comes in Question 5). <strong>Complementary</strong>: the Prashna <em>prepares</em> the ground for the Māṇḍūkya's analysis. It establishes: (1) sleep = sense-withdrawal into mind; (2) dreams = mind's creative projection; (3) deep sleep = mind overwhelmed by Ātman's light; (4) all states rest in the akṣara (imperishable Self). The Māṇḍūkya then takes these insights and distils them into a single-syllable meditation: OM. Together, the two Upanishads form a complete consciousness-theory — the Prashna as narrative exposition, the Māṇḍūkya as systematic formula."
+      }
     ]
   }
 ]

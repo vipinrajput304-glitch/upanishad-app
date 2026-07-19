@@ -6,15 +6,39 @@
     "hi": "ॐ। सुकेशा भारद्वाज, शैब्य सत्यकाम, सौर्यायणी गार्ग्य, कौसल्य आश्वलायन, भार्गव वैदर्भि, और कबन्धी कात्यायन — ये सब ब्रह्मपरायण (ब्रह्म में तत्पर), ब्रह्मनिष्ठ (ब्रह्म में स्थित), परम ब्रह्म के अन्वेषक (खोजने वाले) थे। (उन्होंने सोचा) 'यह (पिप्पलाद) निश्चय ही वह सब कुछ बताएँगे।' इसलिए वे समित्पाणि (हाथ में समिधा लिए) होकर भगवान् पिप्पलाद के पास उपसन्न (शिष्यभाव से उपस्थित) हुए।",
     "en": "Om. Sukesha Bhāradvāja, Shaibya Satyakāma, Sauryāyaṇī Gārgya, Kausalya Āshvalāyana, Bhārgava Vaidarbhi, and Kabandhī Kātyāyana — these, devoted to Brahman, established in Brahman, seeking the supreme Brahman, (thought:) 'He will indeed tell us all of That.' So, with fuel-sticks (samidh) in hand, they approached the venerable Pippalāda.",
     "ws": [
-      {"s": "ब्रह्मपराः (brahma-parāḥ)", "h": "ब्रह्म में तत्पर / ब्रह्म को सर्वोच्च मानने वाले", "e": "devoted to Brahman — brahma (Brahman) + para (devoted to, intent on); those whose highest priority is Brahman-knowledge"},
-      {"s": "ब्रह्मनिष्ठाः (brahma-niṣṭhāḥ)", "h": "ब्रह्म में स्थित / ब्रह्म में दृढ़ निष्ठा वाले", "e": "established in Brahman — brahma + niṣṭhā (steadfastness); not mere seekers but those already grounded in Brahman-practice"},
-      {"s": "अन्वेषमाणाः (anveṣamāṇāḥ)", "h": "खोजते हुए / अन्वेषण करते हुए", "e": "seeking / searching for — present participle of anu + √iṣ (to search); the active quest for the supreme"},
-      {"s": "समित्पाणयः (samit-pāṇayaḥ)", "h": "हाथ में समिधा (यज्ञ-काष्ठ) लिए हुए", "e": "with fuel-sticks in hand — samidh (sacrificial firewood) + pāṇi (hand); the traditional sign of a student approaching a guru: bringing fuel for the sacred fire symbolises readiness to serve and learn"},
-      {"s": "पिप्पलादम् (pippalādam)", "h": "पिप्पलाद — ऋषि का नाम", "e": "Pippalāda — the sage; name derived from pippala (the sacred fig/peepal berry); tradition says he survived on pippala fruits during austerities"},
-      {"s": "उपसन्नाः (upasannāḥ)", "h": "उपसन्न — शिष्यभाव से उपस्थित हुए", "e": "approached (as students) — upa + √sad (to sit near); the formal act of approaching a teacher for instruction, sitting at his feet"}
+      {
+        "s": "ब्रह्मपराः",
+        "h": "ब्रह्म में तत्पर / ब्रह्म को सर्वोच्च मानने वाले",
+        "e": "devoted to Brahman"
+      },
+      {
+        "s": "ब्रह्मनिष्ठाः",
+        "h": "ब्रह्म में स्थित / ब्रह्म में दृढ़ निष्ठा वाले",
+        "e": "established in Brahman"
+      },
+      {
+        "s": "अन्वेषमाणाः",
+        "h": "खोजते हुए / अन्वेषण करते हुए",
+        "e": "seeking / searching for"
+      },
+      {
+        "s": "समित्पाणयः",
+        "h": "हाथ में समिधा (यज्ञ-काष्ठ) लिए हुए",
+        "e": "with fuel-sticks in hand"
+      },
+      {
+        "s": "पिप्पलादम्",
+        "h": "पिप्पलाद — ऋषि का नाम",
+        "e": "Pippalāda"
+      },
+      {
+        "s": "उपसन्नाः",
+        "h": "उपसन्न — शिष्यभाव से उपस्थित हुए",
+        "e": "approached (as students)"
+      }
     ],
     "gr": "<strong>Six seekers</strong> are named, each from a different Vedic lineage (gotra): Bhāradvāja, Shaibya, Gārgya, Āshvalāyana, Vaidarbhi, Kātyāyana. The multiplicity of lineages signals that this teaching is <em>universal</em> — not restricted to one family or school. <strong>brahma-parāḥ brahma-niṣṭhāḥ</strong> — two qualifications: devotion to Brahman (aspiration) and steadfastness in Brahman (practice). They are not beginners but advanced seekers. <strong>samit-pāṇayaḥ</strong> — 'with fuel-sticks in hand': this is the ritual gesture of <em>upanayana</em> (formal studentship). The samidh is both practical (fuel for the guru's sacred fire) and symbolic (the student offers himself as fuel to be consumed in the fire of knowledge). <strong>upasannāḥ</strong> — 'approached': upa-√sad, the root of <em>Upanishad</em> itself ('sitting near'). The seekers enact the Upanishadic method: sit close to the master, serve, and receive.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.1 — The Prashna Upanishad belongs to the Atharva Veda and is structured as six questions (praśna) posed by six seekers to the sage Pippalāda. Each question opens a distinct topic. The name 'Pippalāda' connects to the pippala (sacred fig) tree — the same aśvattha tree central to the Katha (2.2.1) and Bhagavad Gītā (15.1). The six seekers represent six Vedic lineages, making this a pan-Vedic teaching. The structure — six questions, one teacher — distinguishes the Prashna from dialogue Upanishads like the Katha (one student, one teacher) and the Bṛhadāraṇyaka (multiple debates).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -36,8 +60,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What is the structure of the Prashna Upanishad?", "a": "The <strong>Prashna Upanishad</strong> (from <em>praśna</em> = question) is structured as <strong>six questions</strong> posed by six seekers to the sage <strong>Pippalāda</strong>. Each question opens a distinct topic: <strong>Question 1</strong> (Kabandhī): 'Whence are creatures born? What sustains them?' — the origin and sustenance of life through Prāṇa and Rayi (Matter and Energy). <strong>Question 2</strong> (Bhārgava): 'How many gods support a creature? Which is chief?' — the hierarchy of bodily powers and the supremacy of Prāṇa. <strong>Question 3</strong> (Kausalya): 'Whence is Prāṇa born? How does it enter the body?' — the origin, fivefold division, and functioning of the vital force. <strong>Question 4</strong> (Sauryāyaṇī): 'What sleeps, what wakes, who sees dreams?' — the states of consciousness (waking, dreaming, deep sleep). <strong>Question 5</strong> (Shaibya): 'What is gained by meditating on OM?' — the significance and fruits of OM-meditation. <strong>Question 6</strong> (Sukesha): 'Where is the sixteen-part Person?' — the supreme Puruṣa and the dissolution of the sixteen parts. The Upanishad belongs to the <strong>Atharva Veda</strong> and is one of the principal (mukhya) Upanishads commented upon by Shankara."},
-      {"q": "🔍 Why do the students bring fuel-sticks (samidh)?", "a": "The <strong>samidh</strong> (sacrificial firewood) carried by approaching students is one of the oldest and most significant rituals in the Vedic tradition of knowledge-transmission. It operates on multiple levels: <strong>Practical</strong>: the student brings fuel for the guru's sacred fire (āhavanīya or gārhapatya agni). Maintaining the fire was a daily responsibility, and a student's contribution was his first act of service. <strong>Symbolic</strong>: the samidh represents the <em>student himself</em> — he offers himself as fuel to be consumed in the fire of knowledge. Just as wood is transformed into heat and light through fire, the student's ignorance is transformed into wisdom through the guru's teaching. <strong>Legal/ritual</strong>: carrying samidh is the formal gesture of <em>upanayana</em> — it signals the beginning of the guru-śiṣya relationship. The guru is not obligated to teach anyone who simply walks up; the samidh-bearing approach is a <em>petition</em> that the guru may accept or refuse. <strong>Ethical</strong>: the act of carrying firewood is an act of <strong>humility</strong>. The student, regardless of his social standing, performs a menial task. This establishes the relationship: the teacher is the fire, the student is the fuel. Without this humility, the Upanishad insists, knowledge cannot be transmitted."}
+      {
+        "q": "🔍 What is the structure of the Prashna Upanishad?",
+        "a": "The <strong>Prashna Upanishad</strong> (from <em>praśna</em> = question) is structured as <strong>six questions</strong> posed by six seekers to the sage <strong>Pippalāda</strong>. Each question opens a distinct topic: <strong>Question 1</strong> (Kabandhī): 'Whence are creatures born? What sustains them?' — the origin and sustenance of life through Prāṇa and Rayi (Matter and Energy). <strong>Question 2</strong> (Bhārgava): 'How many gods support a creature? Which is chief?' — the hierarchy of bodily powers and the supremacy of Prāṇa. <strong>Question 3</strong> (Kausalya): 'Whence is Prāṇa born? How does it enter the body?' — the origin, fivefold division, and functioning of the vital force. <strong>Question 4</strong> (Sauryāyaṇī): 'What sleeps, what wakes, who sees dreams?' — the states of consciousness (waking, dreaming, deep sleep). <strong>Question 5</strong> (Shaibya): 'What is gained by meditating on OM?' — the significance and fruits of OM-meditation. <strong>Question 6</strong> (Sukesha): 'Where is the sixteen-part Person?' — the supreme Puruṣa and the dissolution of the sixteen parts. The Upanishad belongs to the <strong>Atharva Veda</strong> and is one of the principal (mukhya) Upanishads commented upon by Shankara."
+      },
+      {
+        "q": "🔍 Why do the students bring fuel-sticks (samidh)?",
+        "a": "The <strong>samidh</strong> (sacrificial firewood) carried by approaching students is one of the oldest and most significant rituals in the Vedic tradition of knowledge-transmission. It operates on multiple levels: <strong>Practical</strong>: the student brings fuel for the guru's sacred fire (āhavanīya or gārhapatya agni). Maintaining the fire was a daily responsibility, and a student's contribution was his first act of service. <strong>Symbolic</strong>: the samidh represents the <em>student himself</em> — he offers himself as fuel to be consumed in the fire of knowledge. Just as wood is transformed into heat and light through fire, the student's ignorance is transformed into wisdom through the guru's teaching. <strong>Legal/ritual</strong>: carrying samidh is the formal gesture of <em>upanayana</em> — it signals the beginning of the guru-śiṣya relationship. The guru is not obligated to teach anyone who simply walks up; the samidh-bearing approach is a <em>petition</em> that the guru may accept or refuse. <strong>Ethical</strong>: the act of carrying firewood is an act of <strong>humility</strong>. The student, regardless of his social standing, performs a menial task. This establishes the relationship: the teacher is the fire, the student is the fuel. Without this humility, the Upanishad insists, knowledge cannot be transmitted."
+      }
     ]
   },
   {
@@ -47,15 +77,39 @@
     "hi": "उन (शिष्यों) से उस ऋषि (पिप्पलाद) ने कहा — 'एक संवत्सर (वर्ष) और तपस्या, ब्रह्मचर्य और श्रद्धा के साथ निवास करो। फिर यथाकाम (इच्छानुसार) प्रश्न पूछो। यदि हम जानते होंगे, तो सब कुछ तुम्हें बताएँगे।'",
     "en": "The sage said to them: 'Dwell here for one more year, with austerity (tapas), celibacy (brahmacharya), and faith (śraddhā). Then ask questions as you wish. If we know, we shall tell you everything.'",
     "ws": [
-      {"s": "तपसा (tapasā)", "h": "तपस्या से / तप से", "e": "with austerity — tapas (heat/austerity, from √tap, to heat); the inner fire of self-discipline that purifies the mind"},
-      {"s": "ब्रह्मचर्येण (brahmacaryeṇa)", "h": "ब्रह्मचर्य से", "e": "with celibacy / continence — brahma + carya (conduct befitting Brahman); the student's discipline of sexual restraint and devoted study"},
-      {"s": "श्रद्धया (śraddhayā)", "h": "श्रद्धा से / विश्वास से", "e": "with faith — śrad (heart) + √dhā (to place); placing one's heart in the teaching and the teacher; trust that precedes and enables understanding"},
-      {"s": "संवत्सरम् (saṁvatsaram)", "h": "एक वर्ष / संवत्सर", "e": "for one year — the traditional probationary period; the student must prove readiness through sustained discipline before receiving teaching"},
-      {"s": "यथाकामम् (yathā-kāmam)", "h": "इच्छानुसार / जैसा चाहो", "e": "as you wish — yathā (as) + kāma (desire); after the year, they may ask freely, without restriction"},
-      {"s": "यदि विज्ञास्यामः (yadi vijñāsyāmaḥ)", "h": "यदि हम जानते होंगे", "e": "if we shall know — the sage's humility: 'if I know the answer' (even the greatest teacher does not claim omniscience)"}
+      {
+        "s": "तपसा",
+        "h": "तपस्या से / तप से",
+        "e": "with austerity"
+      },
+      {
+        "s": "ब्रह्मचर्येण",
+        "h": "ब्रह्मचर्य से",
+        "e": "with celibacy / continence"
+      },
+      {
+        "s": "श्रद्धया",
+        "h": "श्रद्धा से / विश्वास से",
+        "e": "with faith"
+      },
+      {
+        "s": "संवत्सरम्",
+        "h": "एक वर्ष / संवत्सर",
+        "e": "for one year"
+      },
+      {
+        "s": "यथाकामम्",
+        "h": "इच्छानुसार / जैसा चाहो",
+        "e": "as you wish"
+      },
+      {
+        "s": "यदि विज्ञास्यामः",
+        "h": "यदि हम जानते होंगे",
+        "e": "if we shall know"
+      }
     ],
     "gr": "<strong>bhūyaḥ eva</strong> — 'even more / further': the seekers are already qualified (brahma-niṣṭhā), but Pippalāda asks for <em>more</em> preparation. Knowledge has prerequisites beyond mere aspiration. <strong>Three prerequisites</strong>: tapas (austerity — purification of will), brahmacarya (celibacy/continence — conservation of vital energy), śraddhā (faith — trust in the teaching before it is understood). <strong>saṁvatsaram</strong> — 'for one year': the waiting period is not arbitrary; it tests sincerity, patience, and readiness. <strong>yadi vijñāsyāmaḥ</strong> — 'if we shall know': the sage's extraordinary humility — he does not guarantee answers. Even Pippalāda defers to truth: 'I will teach only what I truly know.'",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.2 — The three prerequisites (tapas, brahmacarya, śraddhā) appear across multiple Upanishads. The Muṇḍaka (1.2.12-13) similarly requires the student to approach 'samit-pāṇiḥ śrotriyaṁ brahma-niṣṭham' — 'with fuel in hand, to a teacher who is learned and established in Brahman.' The one-year waiting period is a standard feature of guru-śiṣya protocol (cf. Chāndogya 4.4 — Satyakāma Jābāla's years of service). The sage's 'yadi vijñāsyāmaḥ' (if we know) is a hallmark of Vedic intellectual humility — the teacher claims mastery only over what he has personally realised.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -77,8 +131,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does Pippalāda demand a year of waiting?", "a": "The <strong>one-year waiting period</strong> serves multiple purposes in the Vedic guru-śiṣya tradition: (1) <strong>Testing sincerity</strong>: anyone can ask a question; only the truly committed will wait a year for the answer. The waiting separates serious seekers from casual inquirers. (2) <strong>Purification</strong>: the year is spent in tapas (austerity), brahmacarya (continence), and śraddhā (faith) — three disciplines that purify the <em>antaḥkaraṇa</em> (inner instrument) so it can receive and hold the teaching. An impure vessel cannot hold pure water. (3) <strong>Building relationship</strong>: the guru-śiṣya relationship is not transactional (ask → answer). It is <strong>transformational</strong> — the student must live with the teacher, serve him, observe his conduct, absorb his presence. A year of close proximity allows the student to absorb not just the teacher's words but his <em>being</em>. (4) <strong>Maturation</strong>: some truths cannot be heard until the student has matured. The year allows questions to deepen — what you ask after a year of contemplation is different from what you would have asked on day one. The <strong>Chāndogya Upanishad</strong> provides parallels: Satyakāma Jābāla tends cattle for years before receiving teaching (4.4-9); Upakosala Kāmālayana maintains the sacred fires for twelve years (4.10). The waiting is not arbitrary — it is the teaching."},
-      {"q": "🔍 What do tapas, brahmacarya, and śraddhā mean?", "a": "These <strong>three prerequisites</strong> appear repeatedly across the Upanishads as the conditions for receiving knowledge: <strong>Tapas</strong> (from √tap, 'to heat/burn'): literally 'heat' — the inner fire generated by self-discipline, austerity, and sustained effort. Tapas burns away impurities of will: laziness, distraction, attachment to comfort. It is not punishment but <em>purification by fire</em>. The Muṇḍaka (1.2.11) calls it 'tapas + śraddhā' — the twin pillars. <strong>Brahmacarya</strong> (brahma + carya, 'conduct befitting Brahman'): primarily sexual continence, but more broadly the <em>conservation of vital energy</em>. In the Vedic understanding, sexual energy (vīrya/ojas) and intellectual clarity are connected. Brahmacarya redirects vital energy from reproduction to realisation. It also means 'student conduct' — the entire mode of life of one devoted to learning: simplicity, discipline, service. <strong>Śraddhā</strong> (śrad + √dhā, 'placing the heart'): faith — but not blind belief. Śraddhā is the <em>willingness to trust</em> the teaching and the teacher before complete understanding arrives. It is the bridge between hearing a truth and realising it. Without śraddhā, the student's intellect becomes a wall rather than a door — endlessly analysing, never entering. The Gītā (4.39) affirms: '<em>śraddhāvāl labhate jñānam</em>' — 'the faithful one attains knowledge.'"}
+      {
+        "q": "🔍 Why does Pippalāda demand a year of waiting?",
+        "a": "The <strong>one-year waiting period</strong> serves multiple purposes in the Vedic guru-śiṣya tradition: (1) <strong>Testing sincerity</strong>: anyone can ask a question; only the truly committed will wait a year for the answer. The waiting separates serious seekers from casual inquirers. (2) <strong>Purification</strong>: the year is spent in tapas (austerity), brahmacarya (continence), and śraddhā (faith) — three disciplines that purify the <em>antaḥkaraṇa</em> (inner instrument) so it can receive and hold the teaching. An impure vessel cannot hold pure water. (3) <strong>Building relationship</strong>: the guru-śiṣya relationship is not transactional (ask → answer). It is <strong>transformational</strong> — the student must live with the teacher, serve him, observe his conduct, absorb his presence. A year of close proximity allows the student to absorb not just the teacher's words but his <em>being</em>. (4) <strong>Maturation</strong>: some truths cannot be heard until the student has matured. The year allows questions to deepen — what you ask after a year of contemplation is different from what you would have asked on day one. The <strong>Chāndogya Upanishad</strong> provides parallels: Satyakāma Jābāla tends cattle for years before receiving teaching (4.4-9); Upakosala Kāmālayana maintains the sacred fires for twelve years (4.10). The waiting is not arbitrary — it is the teaching."
+      },
+      {
+        "q": "🔍 What do tapas, brahmacarya, and śraddhā mean?",
+        "a": "These <strong>three prerequisites</strong> appear repeatedly across the Upanishads as the conditions for receiving knowledge: <strong>Tapas</strong> (from √tap, 'to heat/burn'): literally 'heat' — the inner fire generated by self-discipline, austerity, and sustained effort. Tapas burns away impurities of will: laziness, distraction, attachment to comfort. It is not punishment but <em>purification by fire</em>. The Muṇḍaka (1.2.11) calls it 'tapas + śraddhā' — the twin pillars. <strong>Brahmacarya</strong> (brahma + carya, 'conduct befitting Brahman'): primarily sexual continence, but more broadly the <em>conservation of vital energy</em>. In the Vedic understanding, sexual energy (vīrya/ojas) and intellectual clarity are connected. Brahmacarya redirects vital energy from reproduction to realisation. It also means 'student conduct' — the entire mode of life of one devoted to learning: simplicity, discipline, service. <strong>Śraddhā</strong> (śrad + √dhā, 'placing the heart'): faith — but not blind belief. Śraddhā is the <em>willingness to trust</em> the teaching and the teacher before complete understanding arrives. It is the bridge between hearing a truth and realising it. Without śraddhā, the student's intellect becomes a wall rather than a door — endlessly analysing, never entering. The Gītā (4.39) affirms: '<em>śraddhāvāl labhate jñānam</em>' — 'the faithful one attains knowledge.'"
+      }
     ]
   },
   {
@@ -88,13 +148,29 @@
     "hi": "अब (एक वर्ष के बाद) कबन्धी कात्यायन ने (पिप्पलाद के) पास जाकर पूछा — 'भगवन्! ये प्रजाएँ (जीव/प्राणी) कहाँ से उत्पन्न होती हैं?'",
     "en": "Then Kabandhī Kātyāyana, having approached, asked: 'Bhagavan! From where are these creatures born?'",
     "ws": [
-      {"s": "कबन्धी कात्यायनः (kabandhī kātyāyanaḥ)", "h": "कबन्धी कात्यायन — प्रथम प्रश्नकर्ता", "e": "Kabandhī Kātyāyana — the first questioner; from the Kātyāyana lineage (descendants of sage Katyāyana)"},
-      {"s": "उपेत्य (upetya)", "h": "पास जाकर / उपस्थित होकर", "e": "having approached — upa + √i (to go); the formal approach to the teacher for a specific question"},
-      {"s": "पप्रच्छ (papraccha)", "h": "पूछा", "e": "asked — perfect tense of √prach (to ask); the formal, reverent asking"},
-      {"s": "प्रजाः प्रजायन्ते (prajāḥ prajāyante)", "h": "प्रजाएँ उत्पन्न होती हैं", "e": "creatures are born — prajā (progeny/creatures) + pra-√jan (to be born forth); the question about the origin of all living beings"}
+      {
+        "s": "कबन्धी कात्यायनः",
+        "h": "कबन्धी कात्यायन — प्रथम प्रश्नकर्ता",
+        "e": "Kabandhī Kātyāyana"
+      },
+      {
+        "s": "उपेत्य",
+        "h": "पास जाकर / उपस्थित होकर",
+        "e": "having approached"
+      },
+      {
+        "s": "पप्रच्छ",
+        "h": "पूछा",
+        "e": "asked"
+      },
+      {
+        "s": "प्रजाः प्रजायन्ते",
+        "h": "प्रजाएँ उत्पन्न होती हैं",
+        "e": "creatures are born"
+      }
     ],
     "gr": "<strong>atha</strong> — 'then': marks the transition from the probationary period to the teaching proper. The year of preparation is over. <strong>upetya papraccha</strong> — 'having approached, he asked': the formal sequence — first approach with reverence, then ask. <strong>kutaḥ imāḥ prajāḥ prajāyante</strong> — 'from where are these creatures born?': the first question is <em>cosmogonic</em> — not 'who am I?' but 'where does everything come from?' This is the most fundamental question: the origin of existence itself. The verb <em>prajāyante</em> (are born forth) uses the same root as <em>prajā</em> (creatures/progeny), creating an etymological echo: 'whence do the born-forth ones become born-forth?'",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.3 — The first question is cosmogonic — it asks about the origin of all creatures. This parallels the Rig Vedic Nāsadīya Sūkta (10.129): 'ko addhā veda ka iha pra vocat / kuta ājātā kuta iyaṁ visṛṣṭiḥ' — 'Who truly knows? Who can say from where this creation arose?' The Prashna's answer will involve Prāṇa (life-force) and Rayi (matter), a distinctive framework not found in other Upanishads.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -116,8 +192,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is the origin of creatures the first question?", "a": "The question '<strong>kutaḥ prajāḥ prajāyante</strong>' (whence are creatures born?) is placed first because it is the <strong>most fundamental cosmological question</strong>. Before asking about the soul, consciousness, meditation, or liberation, one must first understand: <strong>what is this world, and where did it come from?</strong> This ordering follows a natural philosophical sequence: (1) Origin of the world (Question 1), (2) Structure of the individual (Questions 2-3), (3) States of consciousness (Question 4), (4) Means of liberation (Question 5), (5) The ultimate reality (Question 6). The Prashna moves from <em>outside</em> to <em>inside</em>, from <em>cosmos</em> to <em>Self</em>. This mirrors the Vedic approach: the Rig Vedic hymns begin with cosmic questions (creation hymns, Nāsadīya Sūkta 10.129) before moving to self-inquiry. The question also has a <strong>personal dimension</strong>: 'where do creatures come from?' is also 'where did I come from?' Every individual's existence presupposes a cosmic process. Understanding that process is the first step toward understanding oneself within it."},
-      {"q": "🔍 Who is Kabandhī Kātyāyana?", "a": "<strong>Kabandhī Kātyāyana</strong> is the first of the six seekers to pose his question. His name connects him to the <strong>Kātyāyana</strong> lineage — descendants of the sage Katyāyana, one of the most prominent families in the Vedic intellectual tradition. Kātyāyana is associated with the Śukla Yajur Veda and is credited with important contributions to Vedic ritual science (the Kātyāyana Śrauta Sūtra). The name <strong>'Kabandhī'</strong> may derive from <em>kabandha</em> (a headless trunk, or a large mass), possibly indicating a clan or sub-lineage name. His question — about the <strong>origin of creatures</strong> — is the most external and cosmic of the six questions, appropriate for the opening. In the Prashna's carefully graded sequence, the questions move progressively inward: from cosmic origin (Q1) through the body's powers (Q2-3), states of consciousness (Q4), meditation technique (Q5), to the ultimate Self (Q6). By asking the 'outermost' question, Kabandhī establishes the framework within which all subsequent, more inward questions make sense."}
+      {
+        "q": "🔍 Why is the origin of creatures the first question?",
+        "a": "The question '<strong>kutaḥ prajāḥ prajāyante</strong>' (whence are creatures born?) is placed first because it is the <strong>most fundamental cosmological question</strong>. Before asking about the soul, consciousness, meditation, or liberation, one must first understand: <strong>what is this world, and where did it come from?</strong> This ordering follows a natural philosophical sequence: (1) Origin of the world (Question 1), (2) Structure of the individual (Questions 2-3), (3) States of consciousness (Question 4), (4) Means of liberation (Question 5), (5) The ultimate reality (Question 6). The Prashna moves from <em>outside</em> to <em>inside</em>, from <em>cosmos</em> to <em>Self</em>. This mirrors the Vedic approach: the Rig Vedic hymns begin with cosmic questions (creation hymns, Nāsadīya Sūkta 10.129) before moving to self-inquiry. The question also has a <strong>personal dimension</strong>: 'where do creatures come from?' is also 'where did I come from?' Every individual's existence presupposes a cosmic process. Understanding that process is the first step toward understanding oneself within it."
+      },
+      {
+        "q": "🔍 Who is Kabandhī Kātyāyana?",
+        "a": "<strong>Kabandhī Kātyāyana</strong> is the first of the six seekers to pose his question. His name connects him to the <strong>Kātyāyana</strong> lineage — descendants of the sage Katyāyana, one of the most prominent families in the Vedic intellectual tradition. Kātyāyana is associated with the Śukla Yajur Veda and is credited with important contributions to Vedic ritual science (the Kātyāyana Śrauta Sūtra). The name <strong>'Kabandhī'</strong> may derive from <em>kabandha</em> (a headless trunk, or a large mass), possibly indicating a clan or sub-lineage name. His question — about the <strong>origin of creatures</strong> — is the most external and cosmic of the six questions, appropriate for the opening. In the Prashna's carefully graded sequence, the questions move progressively inward: from cosmic origin (Q1) through the body's powers (Q2-3), states of consciousness (Q4), meditation technique (Q5), to the ultimate Self (Q6). By asking the 'outermost' question, Kabandhī establishes the framework within which all subsequent, more inward questions make sense."
+      }
     ]
   },
   {
@@ -127,14 +209,34 @@
     "hi": "उनसे वह (पिप्पलाद) बोले — 'प्रजाकाम (सन्तान / सृष्टि की इच्छा रखने वाले) प्रजापति ने तप किया। तप करके उन्होंने एक मिथुन (युगल / जोड़ा) उत्पन्न किया — रयि (पदार्थ / चन्द्रमा-तत्त्व) और प्राण (जीवन-शक्ति / सूर्य-तत्त्व)। (उन्होंने सोचा) 'ये दोनों मेरे लिए बहुत प्रकार की प्रजाएँ उत्पन्न करेंगे।'",
     "en": "To him he (Pippalāda) said: 'Prajāpati, desiring offspring, performed austerity (tapas). Having performed tapas, he produced a pair (mithuna) — Rayi (matter/moon-principle) and Prāṇa (life-force/sun-principle). (He thought:) These two will produce manifold creatures for me.'",
     "ws": [
-      {"s": "प्रजाकामः (prajā-kāmaḥ)", "h": "प्रजा (सन्तान/सृष्टि) की कामना करने वाला", "e": "desiring offspring — prajā (progeny) + kāma (desire); Prajāpati's will to create is the primordial impulse behind the universe"},
-      {"s": "प्रजापतिः (prajāpatiḥ)", "h": "प्रजापति — सृष्टि के स्वामी", "e": "the Lord of Creatures — prajā (creatures) + pati (lord); the cosmic creator-principle in Vedic cosmology"},
-      {"s": "मिथुनम् (mithunam)", "h": "मिथुन — युगल / जोड़ा", "e": "a pair / couple — from √mith (to unite); creation requires polarity — two complementary principles working together"},
-      {"s": "रयिम् (rayim)", "h": "रयि — पदार्थ / धन / चन्द्रमा-तत्त्व", "e": "Rayi — matter/substance/moon-principle; from √rī (to flow); the material, receptive, nourishing aspect of creation"},
-      {"s": "प्राणम् (prāṇam)", "h": "प्राण — जीवन-शक्ति / सूर्य-तत्त्व", "e": "Prāṇa — life-force/sun-principle; the energising, activating, consciousness aspect of creation"}
+      {
+        "s": "प्रजाकामः",
+        "h": "प्रजा (सन्तान/सृष्टि) की कामना करने वाला",
+        "e": "desiring offspring"
+      },
+      {
+        "s": "प्रजापतिः",
+        "h": "प्रजापति — सृष्टि के स्वामी",
+        "e": "the Lord of Creatures"
+      },
+      {
+        "s": "मिथुनम्",
+        "h": "मिथुन — युगल / जोड़ा",
+        "e": "a pair / couple"
+      },
+      {
+        "s": "रयिम्",
+        "h": "रयि — पदार्थ / धन / चन्द्रमा-तत्त्व",
+        "e": "Rayi"
+      },
+      {
+        "s": "प्राणम्",
+        "h": "प्राण — जीवन-शक्ति / सूर्य-तत्त्व",
+        "e": "Prāṇa"
+      }
     ],
     "gr": "<strong>prajā-kāmaḥ prajāpatiḥ</strong> — 'Prajāpati, desiring offspring': creation is not accidental but <em>intentional</em> — it arises from desire (kāma). This echoes the Rig Veda (10.129.4): '<em>kāmas tad agre samavartatādhi manaso retaḥ prathamaṁ yad āsīt</em>' — 'Desire arose in the beginning, the first seed of the mind.' <strong>tapas atapyata</strong> — 'he performed tapas': creation through tapas (creative heat) is the standard Vedic cosmogonic model. <strong>mithunam utpādayate — rayiṁ ca prāṇaṁ ca</strong> — 'he produced a pair — Rayi and Prāṇa': this is the Prashna's distinctive cosmology. All creation results from the interaction of two complementary principles: <strong>Rayi</strong> (matter/substance/the receptive) and <strong>Prāṇa</strong> (energy/life-force/the active). This is not identical to Sāṅkhya's puruṣa-prakṛti but shares the structural insight that reality requires polarity.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.4 — The Prāṇa-Rayi cosmology is unique to the Prashna Upanishad. Rayi (from √rī, 'to flow') = matter, substance, the moon-principle, the receptive, the feminine. Prāṇa = energy, life-force, the sun-principle, the active, the masculine. This binary framework parallels but predates Sāṅkhya's puruṣa-prakṛti (consciousness-matter) dualism. The Rig Vedic cosmogonic hymn (10.129) also begins with desire (kāma) and tapas as the origin of creation. Prajāpati as creator is the standard Brāhmaṇa-era cosmology (Śatapatha Brāhmaṇa 6.1.1.1).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -156,8 +258,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What are Prāṇa and Rayi?", "a": "The Prashna Upanishad's <strong>Prāṇa-Rayi framework</strong> is its most distinctive cosmological contribution. <strong>Prāṇa</strong> (from pra + √an, 'to breathe forth') is the <strong>life-force, energy, the active principle, the sun-principle</strong>. It is the power that animates, that gives movement and consciousness to matter. In subsequent verses, Prāṇa is identified with the <strong>sun</strong> (āditya), <strong>fire</strong> (agni), and the <strong>masculine</strong> principle. <strong>Rayi</strong> (from √rī, 'to flow') is <strong>matter, substance, the receptive principle, the moon-principle</strong>. It is what receives the animation of Prāṇa, what takes form and gives body. In subsequent verses, Rayi is identified with the <strong>moon</strong> (soma/candra), <strong>food</strong> (anna), and the <strong>feminine</strong> principle. The key insight: <strong>neither principle alone can create</strong>. Prāṇa without Rayi is formless energy; Rayi without Prāṇa is inert matter. Creation requires their <em>union</em> (mithuna). This binary framework anticipates several later systems: <strong>Sāṅkhya's</strong> puruṣa-prakṛti (consciousness and matter); <strong>Tantra's</strong> Śiva-Śakti (static consciousness and dynamic energy); <strong>Chinese philosophy's</strong> yang-yin; and even <strong>modern physics'</strong> energy-matter duality."},
-      {"q": "🔍 How does Vedic cosmogony understand creation?", "a": "Vedic cosmogony offers multiple, complementary models of creation — not contradicting each other but illuminating different aspects: (1) <strong>Desire + Tapas model</strong> (this verse, Rig Veda 10.129): creation arises from <em>desire</em> (kāma) — the Absolute's wish to become many — followed by <em>tapas</em> (creative heat/austerity). Desire provides direction; tapas provides power. (2) <strong>Speech/Word model</strong> (Rig Veda 10.71, Bṛhadāraṇyaka 1.2): creation through <em>vāc</em> (speech/word) — the Absolute utters the cosmos into being. 'In the beginning was the Word.' (3) <strong>Sacrifice model</strong> (Puruṣa Sūkta, Rig Veda 10.90): the cosmic Puruṣa is sacrificed, and from his dismembered body the world arises — the four varṇas from his limbs, the elements from his faculties. (4) <strong>Emanation model</strong> (Taittirīya 2.1, Muṇḍaka 1.1.7): creation <em>flows forth</em> from Brahman as sparks from fire, web from spider, hair from body — Brahman is the material AND efficient cause. (5) <strong>Polarity model</strong> (this Upanishad): creation requires a <em>pair</em> — Prāṇa and Rayi, energy and matter, active and receptive. None of these models claims exclusivity; the Vedic tradition views creation as <strong>too vast for any single explanation</strong>. Each model captures one dimension of the mystery."}
+      {
+        "q": "🔍 What are Prāṇa and Rayi?",
+        "a": "The Prashna Upanishad's <strong>Prāṇa-Rayi framework</strong> is its most distinctive cosmological contribution. <strong>Prāṇa</strong> (from pra + √an, 'to breathe forth') is the <strong>life-force, energy, the active principle, the sun-principle</strong>. It is the power that animates, that gives movement and consciousness to matter. In subsequent verses, Prāṇa is identified with the <strong>sun</strong> (āditya), <strong>fire</strong> (agni), and the <strong>masculine</strong> principle. <strong>Rayi</strong> (from √rī, 'to flow') is <strong>matter, substance, the receptive principle, the moon-principle</strong>. It is what receives the animation of Prāṇa, what takes form and gives body. In subsequent verses, Rayi is identified with the <strong>moon</strong> (soma/candra), <strong>food</strong> (anna), and the <strong>feminine</strong> principle. The key insight: <strong>neither principle alone can create</strong>. Prāṇa without Rayi is formless energy; Rayi without Prāṇa is inert matter. Creation requires their <em>union</em> (mithuna). This binary framework anticipates several later systems: <strong>Sāṅkhya's</strong> puruṣa-prakṛti (consciousness and matter); <strong>Tantra's</strong> Śiva-Śakti (static consciousness and dynamic energy); <strong>Chinese philosophy's</strong> yang-yin; and even <strong>modern physics'</strong> energy-matter duality."
+      },
+      {
+        "q": "🔍 How does Vedic cosmogony understand creation?",
+        "a": "Vedic cosmogony offers multiple, complementary models of creation — not contradicting each other but illuminating different aspects: (1) <strong>Desire + Tapas model</strong> (this verse, Rig Veda 10.129): creation arises from <em>desire</em> (kāma) — the Absolute's wish to become many — followed by <em>tapas</em> (creative heat/austerity). Desire provides direction; tapas provides power. (2) <strong>Speech/Word model</strong> (Rig Veda 10.71, Bṛhadāraṇyaka 1.2): creation through <em>vāc</em> (speech/word) — the Absolute utters the cosmos into being. 'In the beginning was the Word.' (3) <strong>Sacrifice model</strong> (Puruṣa Sūkta, Rig Veda 10.90): the cosmic Puruṣa is sacrificed, and from his dismembered body the world arises — the four varṇas from his limbs, the elements from his faculties. (4) <strong>Emanation model</strong> (Taittirīya 2.1, Muṇḍaka 1.1.7): creation <em>flows forth</em> from Brahman as sparks from fire, web from spider, hair from body — Brahman is the material AND efficient cause. (5) <strong>Polarity model</strong> (this Upanishad): creation requires a <em>pair</em> — Prāṇa and Rayi, energy and matter, active and receptive. None of these models claims exclusivity; the Vedic tradition views creation as <strong>too vast for any single explanation</strong>. Each model captures one dimension of the mystery."
+      }
     ]
   },
   {
@@ -167,14 +275,34 @@
     "hi": "आदित्य (सूर्य) ही प्राण है; रयि निश्चय ही चन्द्रमा है। जो कुछ मूर्त (साकार) और अमूर्त (निराकार) है — यह सब रयि है। इसलिए मूर्ति (आकार/रूप) ही रयि है।",
     "en": "The sun (Āditya) indeed is Prāṇa; the moon (Chandra) indeed is Rayi. All this that has form (mūrta) and that which is formless (amūrta) — all that is Rayi. Therefore, form itself is Rayi.",
     "ws": [
-      {"s": "आदित्यः (ādityaḥ)", "h": "सूर्य", "e": "the sun — Āditya (son of Aditi); here identified with Prāṇa: the sun is the cosmic source of life-energy"},
-      {"s": "चन्द्रमाः (candramāḥ)", "h": "चन्द्रमा", "e": "the moon — identified with Rayi: the moon represents reflected light, receptivity, the material/nourishing principle"},
-      {"s": "मूर्तम् (mūrtam)", "h": "मूर्त — साकार / रूपवान्", "e": "having form — from √mūrch (to solidify); anything with a definite shape or material embodiment"},
-      {"s": "अमूर्तम् (amūrtam)", "h": "अमूर्त — निराकार", "e": "formless — a + mūrta; without definite shape; even formless substances (air, space, energy-fields) are classified as Rayi"},
-      {"s": "मूर्तिः (mūrtiḥ)", "h": "मूर्ति — आकार / रूप", "e": "form — the principle of taking shape; wherever there is form, there is Rayi"}
+      {
+        "s": "आदित्यः",
+        "h": "सूर्य",
+        "e": "the sun"
+      },
+      {
+        "s": "चन्द्रमाः",
+        "h": "चन्द्रमा",
+        "e": "the moon"
+      },
+      {
+        "s": "मूर्तम्",
+        "h": "मूर्त — साकार / रूपवान्",
+        "e": "having form"
+      },
+      {
+        "s": "अमूर्तम्",
+        "h": "अमूर्त — निराकार",
+        "e": "formless"
+      },
+      {
+        "s": "मूर्तिः",
+        "h": "मूर्ति — आकार / रूप",
+        "e": "form"
+      }
     ],
     "gr": "<strong>ādityaḥ ha vai prāṇaḥ</strong> — 'the sun indeed is Prāṇa': the cosmic identification. The sun is not merely a <em>symbol</em> of Prāṇa — it IS Prāṇa at the cosmic level. The sun is the source of all energy, warmth, and life in the physical universe — exactly what Prāṇa is at the metaphysical level. <strong>rayiḥ eva candramāḥ</strong> — 'Rayi indeed is the moon': the moon receives and reflects the sun's light — it is the <em>receptive</em> principle. In Vedic thought, the moon is also connected to soma (the nourishing, sustaining substance) and to food (anna). <strong>mūrtaṁ ca amūrtaṁ ca</strong> — 'both the formed and the formless': Rayi includes everything that has <em>substance</em>, whether shaped (mūrta) or unshaped (amūrta). Even formless things (like wind or space) are Rayi if they are <em>material</em> (as opposed to conscious). <strong>mūrtiḥ eva rayiḥ</strong> — 'form itself is Rayi': the principle is generalised — wherever there is form, there is Rayi.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.5 — The sun-moon / Prāṇa-Rayi identification is the Prashna's central cosmological insight. In Vedic cosmology, the sun (Āditya) is the source of all life — 'sūrya ātmā jagatas tasthuṣaś ca' (Rig Veda 1.115.1) — 'The sun is the Self of all that moves and stands.' The moon (Soma/Candra) is the source of nourishment and the repository of the dead (pitṛloka is often associated with the moon). The mūrta-amūrta distinction parallels the Bṛhadāraṇyaka's (2.3.1) division of Brahman into two forms: 'dve vāva brahmaṇo rūpe — mūrtaṁ caivāmūrtaṁ ca.'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -196,8 +324,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is the sun identified with Prāṇa?", "a": "The identification of <strong>Āditya (sun) with Prāṇa (life-force)</strong> is one of the oldest Vedic insights. The Rig Veda (1.115.1) declares: '<em>sūrya ātmā jagatas tasthuṣaś ca</em>' — 'The sun is the Self (ātmā) of all that moves and all that stands still.' In the physical world, the sun is the <strong>source of all energy</strong>: photosynthesis depends on sunlight, weather systems are driven by solar energy, the food chain begins with the sun's rays. Without the sun, life on earth would cease. The Prashna extends this physical observation into <strong>metaphysics</strong>: just as the physical sun energises the physical world, <strong>Prāṇa</strong> (the cosmic life-force) energises the subtle world — it is the power that <em>animates</em> all beings, that makes matter alive. The identification is not metaphorical but <strong>structural</strong>: the sun is Prāṇa's cosmic form, and Prāṇa is the sun's essential nature. At the individual level, the <strong>prāṇa in your body</strong> (your breath, your vital force) is a <em>portion</em> of the cosmic Prāṇa that manifests as the sun. When you breathe, you are participating in the same energy that makes the sun shine."},
-      {"q": "🔍 What is the mūrta-amūrta distinction?", "a": "The <strong>mūrta-amūrta</strong> (formed-formless) distinction is a fundamental classification in Vedic ontology. The <strong>Bṛhadāraṇyaka Upanishad (2.3.1)</strong> makes it explicit: '<em>dve vāva brahmaṇo rūpe — mūrtaṁ caivāmūrtaṁ ca, martyaṁ cāmṛtaṁ ca, sthitaṁ ca yac ca, sac ca tyac ca</em>' — 'There are indeed two forms of Brahman — the formed and the formless, the mortal and the immortal, the stationary and the moving, the real and the beyond.' <strong>Mūrta</strong> (from √mūrch, 'to solidify'): anything with a definite form — earth, water, bodies, objects. <strong>Amūrta</strong> (formless): anything without definite form — air, space, fire, energy. The Prashna's innovation is to classify <em>both</em> mūrta and amūrta as <strong>Rayi</strong>. Even formless substances (air, energy-fields, space) are material — they belong to the receptive side of creation, not the conscious side. <strong>Prāṇa alone is the conscious principle</strong>; everything else — whether it has form or not — is Rayi (matter in the broadest sense). This anticipates modern physics' insight that <strong>energy and matter are interconvertible</strong> (E=mc²): both are aspects of the same 'substance' — what the Prashna calls Rayi."}
+      {
+        "q": "🔍 Why is the sun identified with Prāṇa?",
+        "a": "The identification of <strong>Āditya (sun) with Prāṇa (life-force)</strong> is one of the oldest Vedic insights. The Rig Veda (1.115.1) declares: '<em>sūrya ātmā jagatas tasthuṣaś ca</em>' — 'The sun is the Self (ātmā) of all that moves and all that stands still.' In the physical world, the sun is the <strong>source of all energy</strong>: photosynthesis depends on sunlight, weather systems are driven by solar energy, the food chain begins with the sun's rays. Without the sun, life on earth would cease. The Prashna extends this physical observation into <strong>metaphysics</strong>: just as the physical sun energises the physical world, <strong>Prāṇa</strong> (the cosmic life-force) energises the subtle world — it is the power that <em>animates</em> all beings, that makes matter alive. The identification is not metaphorical but <strong>structural</strong>: the sun is Prāṇa's cosmic form, and Prāṇa is the sun's essential nature. At the individual level, the <strong>prāṇa in your body</strong> (your breath, your vital force) is a <em>portion</em> of the cosmic Prāṇa that manifests as the sun. When you breathe, you are participating in the same energy that makes the sun shine."
+      },
+      {
+        "q": "🔍 What is the mūrta-amūrta distinction?",
+        "a": "The <strong>mūrta-amūrta</strong> (formed-formless) distinction is a fundamental classification in Vedic ontology. The <strong>Bṛhadāraṇyaka Upanishad (2.3.1)</strong> makes it explicit: '<em>dve vāva brahmaṇo rūpe — mūrtaṁ caivāmūrtaṁ ca, martyaṁ cāmṛtaṁ ca, sthitaṁ ca yac ca, sac ca tyac ca</em>' — 'There are indeed two forms of Brahman — the formed and the formless, the mortal and the immortal, the stationary and the moving, the real and the beyond.' <strong>Mūrta</strong> (from √mūrch, 'to solidify'): anything with a definite form — earth, water, bodies, objects. <strong>Amūrta</strong> (formless): anything without definite form — air, space, fire, energy. The Prashna's innovation is to classify <em>both</em> mūrta and amūrta as <strong>Rayi</strong>. Even formless substances (air, energy-fields, space) are material — they belong to the receptive side of creation, not the conscious side. <strong>Prāṇa alone is the conscious principle</strong>; everything else — whether it has form or not — is Rayi (matter in the broadest sense). This anticipates modern physics' insight that <strong>energy and matter are interconvertible</strong> (E=mc²): both are aspects of the same 'substance' — what the Prashna calls Rayi."
+      }
     ]
   },
   {
@@ -207,14 +341,34 @@
     "hi": "अब, सूर्य उदय होकर जब पूर्व दिशा में प्रवेश करता है, तो अपनी किरणों (रश्मियों) में पूर्व दिशा के प्राणों (जीवों) को सन्निहित (समाहित/ग्रहण) करता है। जब दक्षिण, पश्चिम, उत्तर, अधः (नीचे), ऊर्ध्व (ऊपर), और अन्तर (मध्य) दिशाओं को — सब कुछ प्रकाशित करता है — तो अपनी किरणों में सभी प्राणों को सन्निहित करता है।",
     "en": "Now, when the sun rises and enters the eastern direction, it gathers the living beings (prāṇas) of the east into its rays. When it illumines the south, the west, the north, below, above, and the intermediate quarters — when it illumines everything — it gathers all living beings into its rays.",
     "ws": [
-      {"s": "उदयन् (udayan)", "h": "उदय होता हुआ", "e": "rising — present participle of ud + √i (to go up); the sun rising"},
-      {"s": "प्राचीम् दिशम् (prācīṁ diśam)", "h": "पूर्व दिशा में", "e": "the eastern direction — prācī (eastern) + diś (direction/quarter)"},
-      {"s": "रश्मिषु (raśmiṣu)", "h": "किरणों में", "e": "in the rays — locative plural of raśmi (ray/beam of light); the sun's rays are the medium through which Prāṇa energises all beings"},
-      {"s": "सन्निधत्ते (sannidhatte)", "h": "सन्निहित करता है / समाहित करता है / ग्रहण करता है", "e": "gathers / holds together / sustains — sam + ni + √dhā (to place); the sun 'holds' all beings in its rays, i.e., sustains their life-force"},
-      {"s": "सर्वम् प्रकाशयति (sarvaṁ prakāśayati)", "h": "सब कुछ प्रकाशित करता है", "e": "illumines everything — the sun's light reaches all directions without exception"}
+      {
+        "s": "उदयन्",
+        "h": "उदय होता हुआ",
+        "e": "rising"
+      },
+      {
+        "s": "प्राचीम् दिशम्",
+        "h": "पूर्व दिशा में",
+        "e": "the eastern direction"
+      },
+      {
+        "s": "रश्मिषु",
+        "h": "किरणों में",
+        "e": "in the rays"
+      },
+      {
+        "s": "सन्निधत्ते",
+        "h": "सन्निहित करता है / समाहित करता है / ग्रहण करता है",
+        "e": "gathers / holds together / sustains"
+      },
+      {
+        "s": "सर्वम् प्रकाशयति",
+        "h": "सब कुछ प्रकाशित करता है",
+        "e": "illumines everything"
+      }
     ],
     "gr": "<strong>ādityaḥ udayan</strong> — 'the sun rising': the description follows the sun's journey across the sky — east at dawn, then sweeping through all directions. This is not mere astronomy; it is a cosmological statement about Prāṇa's universal reach. <strong>raśmiṣu sannidhatte</strong> — 'gathers in its rays': the sun's rays are not merely light — they are the <em>conduits</em> of Prāṇa. Every ray carries life-force. When the sun shines on a being, it is not just illuminating it but <em>sustaining</em> it. <strong>The enumeration of all directions</strong> — east, south, west, north, below, above, intermediate — is a totality formula. It means: <em>there is no direction the sun does not reach</em>. Therefore: there is no being Prāṇa does not sustain.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.6 — The sun's rays as conduits of Prāṇa is a distinctive Prashna teaching. The Chāndogya (3.1-11) similarly describes the sun's rays as 'honey-channels' connecting the sun to different directions and Vedic texts. The idea that the sun 'gathers' (sannidhatte) all beings in its rays echoes the Rig Vedic understanding of the sun as the cosmic eye (sūrya cakṣuḥ) that 'sees' (and thereby sustains) all beings. The Gāyatrī mantra (RV 3.62.10) invokes this sun-principle: 'tat savitur vareṇyaṁ bhargo devasya dhīmahi' — 'we meditate on the glorious light of the divine Savitṛ.'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -236,8 +390,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 How does the sun sustain all life?", "a": "The verse describes the sun as <strong>gathering all living beings into its rays</strong> (raśmiṣu sannidhatte). This operates at multiple levels: <strong>Physical</strong>: the sun is the ultimate source of energy for all life on earth. Photosynthesis converts sunlight into plant matter; plants feed herbivores; herbivores feed carnivores. Remove the sun, and the entire food chain collapses. The sun's heat drives weather, ocean currents, and the water cycle. In a very literal sense, all life is 'sustained' by the sun's rays. <strong>Vedic-cosmological</strong>: in the Vedic worldview, the sun is not merely a ball of plasma but the <strong>cosmic eye</strong> (sūrya cakṣuḥ) — the organ through which the cosmic intelligence perceives and sustains the world. The Gāyatrī mantra (RV 3.62.10) invokes the sun's inner light: '<em>tat savitur vareṇyaṁ bhargo devasya dhīmahi</em>' — 'we meditate on the glorious splendour of the divine Savitṛ.' This 'splendour' (bhargas) is not just physical light but <strong>consciousness-light</strong>. <strong>Metaphysical</strong>: the sun = Prāṇa. Prāṇa is the <em>life-principle</em> — that which makes matter alive. The sun's rays are the <em>medium</em> through which Prāṇa reaches all beings. When sunlight touches a plant, it is Prāṇa entering matter (Rayi) and creating life."},
-      {"q": "🔍 What is the significance of naming all directions?", "a": "The enumeration of <strong>all directions</strong> — east, south, west, north, below, above, and the intermediate quarters — is a <strong>Vedic totality formula</strong>. It means: <em>without exception, in every possible direction</em>. This is not geographic but <strong>metaphysical</strong>: Prāṇa reaches <em>everywhere</em>. No corner of the universe is outside its reach. The <strong>six main directions</strong> (pūrva, dakṣiṇa, paścima, uttara, adhaḥ, ūrdhva) define the three-dimensional spatial framework. The <strong>'intermediate quarters'</strong> (antarā diśaḥ) fill in the diagonals (northeast, southeast, southwest, northwest). Together, they form the <strong>complete spatial sphere</strong> — every point in space is covered. This totality formula appears frequently in Vedic literature: it is a way of saying '<em>absolutely everything, without remainder</em>.' By stating that the sun illumines ALL directions, the Upanishad is saying that <strong>Prāṇa sustains ALL beings</strong> — not just some, not just the worthy, not just those in certain locations. The life-force is <em>universal</em>. This is both a cosmological fact (the sun shines everywhere) and a spiritual insight (consciousness pervades all)."}
+      {
+        "q": "🔍 How does the sun sustain all life?",
+        "a": "The verse describes the sun as <strong>gathering all living beings into its rays</strong> (raśmiṣu sannidhatte). This operates at multiple levels: <strong>Physical</strong>: the sun is the ultimate source of energy for all life on earth. Photosynthesis converts sunlight into plant matter; plants feed herbivores; herbivores feed carnivores. Remove the sun, and the entire food chain collapses. The sun's heat drives weather, ocean currents, and the water cycle. In a very literal sense, all life is 'sustained' by the sun's rays. <strong>Vedic-cosmological</strong>: in the Vedic worldview, the sun is not merely a ball of plasma but the <strong>cosmic eye</strong> (sūrya cakṣuḥ) — the organ through which the cosmic intelligence perceives and sustains the world. The Gāyatrī mantra (RV 3.62.10) invokes the sun's inner light: '<em>tat savitur vareṇyaṁ bhargo devasya dhīmahi</em>' — 'we meditate on the glorious splendour of the divine Savitṛ.' This 'splendour' (bhargas) is not just physical light but <strong>consciousness-light</strong>. <strong>Metaphysical</strong>: the sun = Prāṇa. Prāṇa is the <em>life-principle</em> — that which makes matter alive. The sun's rays are the <em>medium</em> through which Prāṇa reaches all beings. When sunlight touches a plant, it is Prāṇa entering matter (Rayi) and creating life."
+      },
+      {
+        "q": "🔍 What is the significance of naming all directions?",
+        "a": "The enumeration of <strong>all directions</strong> — east, south, west, north, below, above, and the intermediate quarters — is a <strong>Vedic totality formula</strong>. It means: <em>without exception, in every possible direction</em>. This is not geographic but <strong>metaphysical</strong>: Prāṇa reaches <em>everywhere</em>. No corner of the universe is outside its reach. The <strong>six main directions</strong> (pūrva, dakṣiṇa, paścima, uttara, adhaḥ, ūrdhva) define the three-dimensional spatial framework. The <strong>'intermediate quarters'</strong> (antarā diśaḥ) fill in the diagonals (northeast, southeast, southwest, northwest). Together, they form the <strong>complete spatial sphere</strong> — every point in space is covered. This totality formula appears frequently in Vedic literature: it is a way of saying '<em>absolutely everything, without remainder</em>.' By stating that the sun illumines ALL directions, the Upanishad is saying that <strong>Prāṇa sustains ALL beings</strong> — not just some, not just the worthy, not just those in certain locations. The life-force is <em>universal</em>. This is both a cosmological fact (the sun shines everywhere) and a spiritual insight (consciousness pervades all)."
+      }
     ]
   },
   {
@@ -247,13 +407,29 @@
     "hi": "वही यह वैश्वानर (सब मनुष्यों/प्राणियों में व्याप्त), विश्वरूप (सर्वरूप), प्राण-रूपी अग्नि उदय होता है। यही ऋचा (ऋग्वेद-मन्त्र) द्वारा कहा गया है —",
     "en": "This same one — the Vaishvānara (universal fire), the one of universal form (vishvarūpa), Prāṇa as fire — rises. This has been declared by the Rig Vedic verse:",
     "ws": [
-      {"s": "वैश्वानरः (vaiśvānaraḥ)", "h": "वैश्वानर — सर्वमानवीय / सब प्राणियों में व्याप्त अग्नि", "e": "the universal fire — viśva (all) + nara (men); the fire that is common to all beings; also the digestive fire (jaṭharāgni) in the body"},
-      {"s": "विश्वरूपः (viśva-rūpaḥ)", "h": "विश्वरूप — सर्व-रूप / अनेक रूपों वाला", "e": "of universal form — viśva (all) + rūpa (form); having every form, present in all shapes and manifestations"},
-      {"s": "अग्निः (agniḥ)", "h": "अग्नि", "e": "fire — Prāṇa manifests as Agni (fire); fire is the visible form of the life-force: it consumes, transforms, and energises"},
-      {"s": "ऋचा अभ्युक्तम् (ṛcā abhyuktam)", "h": "ऋग्वेद-मन्त्र द्वारा कहा गया है", "e": "declared by a Ṛg verse — ṛc (Rig Vedic verse) + abhyukta (spoken about); introducing a scriptural citation"}
+      {
+        "s": "वैश्वानरः",
+        "h": "वैश्वानर — सर्वमानवीय / सब प्राणियों में व्याप्त अग्नि",
+        "e": "the universal fire"
+      },
+      {
+        "s": "विश्वरूपः",
+        "h": "विश्वरूप — सर्व-रूप / अनेक रूपों वाला",
+        "e": "of universal form"
+      },
+      {
+        "s": "अग्निः",
+        "h": "अग्नि",
+        "e": "fire"
+      },
+      {
+        "s": "ऋचा अभ्युक्तम्",
+        "h": "ऋग्वेद-मन्त्र द्वारा कहा गया है",
+        "e": "declared by a Ṛg verse"
+      }
     ],
     "gr": "<strong>vaiśvānaraḥ</strong> — 'the universal fire': this term bridges the cosmic and the individual. At the cosmic level, Vaiśvānara is the fire that pervades all creation. At the individual level, it is the <em>jaṭharāgni</em> (digestive fire) that burns in every belly — transforming food into energy. The Bhagavad Gītā (15.14) echoes: '<em>ahaṁ vaiśvānaro bhūtvā prāṇināṁ deham āśritaḥ</em>' — 'I, becoming Vaiśvānara, dwell in the bodies of living beings.' <strong>viśva-rūpaḥ</strong> — 'of universal form': Prāṇa does not have one form — it has <em>all</em> forms. It appears as sun, fire, wind, breath, and the life-force in every creature. <strong>ṛcā abhyuktam</strong> — 'declared by a Rig verse': Pippalāda cites Vedic authority for his teaching — the next verse is the citation.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.7 — The identification Prāṇa = Agni = Vaiśvānara links three major Vedic concepts. Vaiśvānara appears in the Rig Veda (1.98.1, 3.2.1), the Śatapatha Brāhmaṇa, and the Chāndogya (5.11-24, the Vaiśvānara-vidyā). The Bhagavad Gītā (15.14) directly echoes this: 'ahaṁ vaiśvānaro bhūtvā prāṇināṁ deham āśritaḥ / prāṇāpāna-samāyuktaḥ pacāmy annaṁ catur-vidham' — 'Becoming Vaiśvānara, I dwell in the body, united with prāṇa and apāna, and digest the four kinds of food.' The 'ṛcā abhyuktam' (declared by a Rig verse) introduces the citation in the next mantra.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -275,8 +451,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What is the Vaiśvānara fire?", "a": "<strong>Vaiśvānara</strong> (from viśva + nara, 'universal man' or 'common to all men') is one of the most important fire-concepts in Vedic thought. It operates at <strong>three levels</strong>: (1) <strong>Cosmic</strong>: Vaiśvānara is the fire-principle that pervades the entire universe — the energy that sustains all creation. The sun is its most visible form. (2) <strong>Individual</strong>: Vaiśvānara is the <strong>jaṭharāgni</strong> (digestive fire) in every living being. The Bhagavad Gītā (15.14) identifies it explicitly: '<em>ahaṁ vaiśvānaro bhūtvā prāṇināṁ deham āśritaḥ / prāṇāpāna-samāyuktaḥ pacāmy annaṁ catur-vidham</em>' — 'I, becoming Vaiśvānara, dwell in the body of living beings; united with prāṇa and apāna, I digest the four kinds of food.' (3) <strong>Ritual</strong>: Vaiśvānara is the sacrificial fire — the fire on the altar through which offerings reach the gods. The <strong>Chāndogya Upanishad (5.11-24)</strong> develops the Vaiśvānara-vidyā at length: it describes the cosmic Vaiśvānara whose head is heaven, whose eyes are the sun and moon, whose breath is the wind, whose body is space, whose bladder is water, and whose feet are the earth. The Prashna's contribution is to <strong>identify Vaiśvānara with Prāṇa</strong> — the life-force is the fire, and the fire is the life-force."},
-      {"q": "🔍 How does Prāṇa relate to Agni (fire)?", "a": "The equation <strong>Prāṇa = Agni</strong> is one of the Prashna Upanishad's central identifications. Fire (Agni) and life-force (Prāṇa) share fundamental properties: (1) <strong>Both transform</strong>: fire transforms fuel into heat and light; Prāṇa transforms food into life-energy. Digestion is literally 'burning' food with the body's fire. (2) <strong>Both sustain</strong>: without fire, the world would be cold and dark; without Prāṇa, beings would be dead and inert. (3) <strong>Both pervade</strong>: fire exists in hidden form in all substances (latent heat, molecular energy); Prāṇa exists in all living beings. (4) <strong>Both ascend</strong>: fire always rises; Prāṇa's upward flow (udāna) carries consciousness upward at death (as taught in Question 3). The Rig Veda's very first word is '<strong>agnim</strong>' (fire) — the first hymn invokes Agni as the mediator between humans and gods. The Prashna extends this: Agni-Prāṇa is the mediator between <strong>Rayi (matter) and consciousness</strong>. Fire enters matter and makes it alive — that is Prāṇa's function at every scale, from the cosmic sun to the digestive flame."}
+      {
+        "q": "🔍 What is the Vaiśvānara fire?",
+        "a": "<strong>Vaiśvānara</strong> (from viśva + nara, 'universal man' or 'common to all men') is one of the most important fire-concepts in Vedic thought. It operates at <strong>three levels</strong>: (1) <strong>Cosmic</strong>: Vaiśvānara is the fire-principle that pervades the entire universe — the energy that sustains all creation. The sun is its most visible form. (2) <strong>Individual</strong>: Vaiśvānara is the <strong>jaṭharāgni</strong> (digestive fire) in every living being. The Bhagavad Gītā (15.14) identifies it explicitly: '<em>ahaṁ vaiśvānaro bhūtvā prāṇināṁ deham āśritaḥ / prāṇāpāna-samāyuktaḥ pacāmy annaṁ catur-vidham</em>' — 'I, becoming Vaiśvānara, dwell in the body of living beings; united with prāṇa and apāna, I digest the four kinds of food.' (3) <strong>Ritual</strong>: Vaiśvānara is the sacrificial fire — the fire on the altar through which offerings reach the gods. The <strong>Chāndogya Upanishad (5.11-24)</strong> develops the Vaiśvānara-vidyā at length: it describes the cosmic Vaiśvānara whose head is heaven, whose eyes are the sun and moon, whose breath is the wind, whose body is space, whose bladder is water, and whose feet are the earth. The Prashna's contribution is to <strong>identify Vaiśvānara with Prāṇa</strong> — the life-force is the fire, and the fire is the life-force."
+      },
+      {
+        "q": "🔍 How does Prāṇa relate to Agni (fire)?",
+        "a": "The equation <strong>Prāṇa = Agni</strong> is one of the Prashna Upanishad's central identifications. Fire (Agni) and life-force (Prāṇa) share fundamental properties: (1) <strong>Both transform</strong>: fire transforms fuel into heat and light; Prāṇa transforms food into life-energy. Digestion is literally 'burning' food with the body's fire. (2) <strong>Both sustain</strong>: without fire, the world would be cold and dark; without Prāṇa, beings would be dead and inert. (3) <strong>Both pervade</strong>: fire exists in hidden form in all substances (latent heat, molecular energy); Prāṇa exists in all living beings. (4) <strong>Both ascend</strong>: fire always rises; Prāṇa's upward flow (udāna) carries consciousness upward at death (as taught in Question 3). The Rig Veda's very first word is '<strong>agnim</strong>' (fire) — the first hymn invokes Agni as the mediator between humans and gods. The Prashna extends this: Agni-Prāṇa is the mediator between <strong>Rayi (matter) and consciousness</strong>. Fire enters matter and makes it alive — that is Prāṇa's function at every scale, from the cosmic sun to the digestive flame."
+      }
     ]
   },
   {
@@ -286,15 +468,39 @@
     "hi": "विश्वरूप (सर्वरूप), हरिण (सुवर्ण-वर्ण / हरण करने वाला), जातवेदस् (सब जन्मों/वस्तुओं को जानने वाला), परायण (परम आश्रय), एक ज्योति (एकमात्र प्रकाश), तपन्तम् (तपाने वाला), सहस्ररश्मि (हजारों किरणों वाला), शतधा वर्तमानः (सैकड़ों प्रकार से प्रवृत्त) — यही प्रजाओं (जीवों) का प्राण है — यही सूर्य उदय होता है।",
     "en": "Of universal form, golden, all-knowing (jātavedas), the supreme goal, the one light, the one who gives warmth — with a thousand rays, existing in a hundred ways — this, the Prāṇa of all creatures, is the sun that rises.",
     "ws": [
-      {"s": "हरिणम् (hariṇam)", "h": "हरिण — सुवर्ण-वर्ण / हरित / हरण करने वाला", "e": "golden / tawny — from √hṛ (to take away); also 'the one who draws/attracts all things'; the sun's golden colour"},
-      {"s": "जातवेदसम् (jāta-vedasam)", "h": "जातवेदस् — सब जातों (जन्मों/प्राणियों) को जानने वाला", "e": "the all-knowing — jāta (born/created) + vedas (knowledge); Agni/Sūrya as the one who knows all that is born; a standard Vedic epithet of fire"},
-      {"s": "परायणम् (parāyaṇam)", "h": "परम आश्रय / अंतिम लक्ष्य", "e": "the supreme refuge/goal — para (highest) + ayana (abode/path); the ultimate destination of all beings"},
-      {"s": "ज्योतिः एकम् (jyotiḥ ekam)", "h": "एकमात्र ज्योति / प्रकाश", "e": "the one light — there is only one source of illumination; all other lights derive from this"},
-      {"s": "सहस्ररश्मिः (sahasra-raśmiḥ)", "h": "हजार किरणों वाला", "e": "thousand-rayed — sahasra (thousand) + raśmi (ray); denoting infinite emanation of light and life"},
-      {"s": "शतधा वर्तमानः (śatadhā vartamānaḥ)", "h": "सैकड़ों प्रकार से प्रवृत्त / विद्यमान", "e": "existing in a hundred ways — śatadhā (in a hundred ways) + vartamāna (existing); Prāṇa manifests diversely throughout creation"}
+      {
+        "s": "हरिणम्",
+        "h": "हरिण — सुवर्ण-वर्ण / हरित / हरण करने वाला",
+        "e": "golden / tawny"
+      },
+      {
+        "s": "जातवेदसम्",
+        "h": "जातवेदस् — सब जातों (जन्मों/प्राणियों) को जानने वाला",
+        "e": "the all-knowing"
+      },
+      {
+        "s": "परायणम्",
+        "h": "परम आश्रय / अंतिम लक्ष्य",
+        "e": "the supreme refuge/goal"
+      },
+      {
+        "s": "ज्योतिः एकम्",
+        "h": "एकमात्र ज्योति / प्रकाश",
+        "e": "the one light"
+      },
+      {
+        "s": "सहस्ररश्मिः",
+        "h": "हजार किरणों वाला",
+        "e": "thousand-rayed"
+      },
+      {
+        "s": "शतधा वर्तमानः",
+        "h": "सैकड़ों प्रकार से प्रवृत्त / विद्यमान",
+        "e": "existing in a hundred ways"
+      }
     ],
     "gr": "<strong>This is a Rig Vedic citation</strong> — Pippalāda quotes Vedic authority to validate his Prāṇa-Sūrya identification. <strong>viśva-rūpam</strong> — 'of universal form': repeated from the previous verse, creating an anaphoric link. <strong>hariṇam</strong> — 'golden/tawny': the sun's colour, but also from √hṛ (to take/attract) — the sun 'draws' all beings toward itself. <strong>jāta-vedasam</strong> — 'the all-knowing': one of Agni's most important Vedic epithets, appearing from the first hymn (RV 1.1.1: agniṁ ... jātavedasam). It means both 'knower of all that is born' and 'one in whom all beings find their knowledge.' <strong>prāṇaḥ prajānām udayati eṣaḥ sūryaḥ</strong> — 'this sun rises as the Prāṇa of all creatures': the climactic identification — the sun = the Prāṇa of all life.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.8 — This verse is a Rig Vedic citation (though not traceable to a single extant Rig Vedic hymn in its current form — it may be from a lost recension or a composite). The epithet 'jātavedas' links back to Agni's role from RV 1.1.1 onward. The identification sūryaḥ = prāṇaḥ prajānām ('the sun is the life-force of all creatures') is the doctrinal climax of the Prāṇa-sun equation established in mantras 5-7. 'Sahasra-raśmiḥ' (thousand-rayed) echoes the Puruṣa Sūkta (RV 10.90.1): 'sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt' — the thousand-headed, thousand-eyed Puruṣa.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -316,8 +522,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What does 'jātavedas' mean?", "a": "<strong>Jātavedas</strong> is one of the most important epithets of Agni (Fire) in the Rig Veda — it appears from the very first hymn (RV 1.1.1). The word has two primary etymologies: (1) <strong>jāta + vedas</strong> = 'knower of all that is born' — Agni/Sūrya as the <em>omniscient</em> witness of all creation. Nothing is born or dies without fire's knowledge. In every birth, the fire of life is kindled; in every death, it is extinguished. (2) <strong>jāta + vedas</strong> = 'one in whom all that is born finds its knowledge' — Agni as the <em>repository</em> of all knowledge. All beings find their truth in the cosmic fire. The epithet is significant because it <em>personalises</em> fire — Agni is not a blind force but a <strong>knower</strong>. The fire that burns in the universe is not merely physical energy; it is <strong>intelligent energy</strong> — consciousness in its most active, transformative form. In the Prashna's context, applying 'jātavedas' to the sun-as-Prāṇa means: the life-force that sustains all beings is not a mechanical process — it is a <em>conscious</em> sustaining. The universe is maintained by <strong>knowing energy</strong>, not by blind force."},
-      {"q": "🔍 Why is the sun called 'the one light' (jyotiḥ ekam)?", "a": "The declaration '<strong>jyotiḥ ekam</strong>' (the one light) makes a claim that goes far beyond astronomy: <strong>there is only one source of illumination in the universe</strong>. All other lights — the moon, stars, fire, lightning — are either reflections or derivatives of this one light. This echoes the Katha Upanishad (2.2.15): '<em>na tatra sūryo bhāti na candra-tārakaṁ nemā vidyuto bhānti kuto 'yam agniḥ / tam eva bhāntam anubhāti sarvaṁ tasya bhāsā sarvam idaṁ vibhāti</em>' — 'There the sun does not shine, nor the moon and stars, nor these lightnings — how then this fire? Everything shines after That which shines; by Its light all this shines.' The <strong>Muṇḍaka (2.2.10)</strong> echoes identically. The philosophical implication: the light of <strong>consciousness</strong> is the one true light. Physical light (photons, electromagnetic radiation) is a <em>derivative</em> of the consciousness-light (cit-jyoti). The mind's ability to perceive light is prior to light itself — without consciousness, light would exist but have no witness, no meaning. The Prashna identifies this consciousness-light with <strong>Prāṇa-as-Sūrya</strong>: the sun is the physical expression of the one consciousness-light that illuminates all reality."}
+      {
+        "q": "🔍 What does 'jātavedas' mean?",
+        "a": "<strong>Jātavedas</strong> is one of the most important epithets of Agni (Fire) in the Rig Veda — it appears from the very first hymn (RV 1.1.1). The word has two primary etymologies: (1) <strong>jāta + vedas</strong> = 'knower of all that is born' — Agni/Sūrya as the <em>omniscient</em> witness of all creation. Nothing is born or dies without fire's knowledge. In every birth, the fire of life is kindled; in every death, it is extinguished. (2) <strong>jāta + vedas</strong> = 'one in whom all that is born finds its knowledge' — Agni as the <em>repository</em> of all knowledge. All beings find their truth in the cosmic fire. The epithet is significant because it <em>personalises</em> fire — Agni is not a blind force but a <strong>knower</strong>. The fire that burns in the universe is not merely physical energy; it is <strong>intelligent energy</strong> — consciousness in its most active, transformative form. In the Prashna's context, applying 'jātavedas' to the sun-as-Prāṇa means: the life-force that sustains all beings is not a mechanical process — it is a <em>conscious</em> sustaining. The universe is maintained by <strong>knowing energy</strong>, not by blind force."
+      },
+      {
+        "q": "🔍 Why is the sun called 'the one light' (jyotiḥ ekam)?",
+        "a": "The declaration '<strong>jyotiḥ ekam</strong>' (the one light) makes a claim that goes far beyond astronomy: <strong>there is only one source of illumination in the universe</strong>. All other lights — the moon, stars, fire, lightning — are either reflections or derivatives of this one light. This echoes the Katha Upanishad (2.2.15): '<em>na tatra sūryo bhāti na candra-tārakaṁ nemā vidyuto bhānti kuto 'yam agniḥ / tam eva bhāntam anubhāti sarvaṁ tasya bhāsā sarvam idaṁ vibhāti</em>' — 'There the sun does not shine, nor the moon and stars, nor these lightnings — how then this fire? Everything shines after That which shines; by Its light all this shines.' The <strong>Muṇḍaka (2.2.10)</strong> echoes identically. The philosophical implication: the light of <strong>consciousness</strong> is the one true light. Physical light (photons, electromagnetic radiation) is a <em>derivative</em> of the consciousness-light (cit-jyoti). The mind's ability to perceive light is prior to light itself — without consciousness, light would exist but have no witness, no meaning. The Prashna identifies this consciousness-light with <strong>Prāṇa-as-Sūrya</strong>: the sun is the physical expression of the one consciousness-light that illuminates all reality."
+      }
     ]
   },
   {
@@ -327,15 +539,39 @@
     "hi": "संवत्सर (वर्ष) ही प्रजापति है; उसके दो अयन (मार्ग) हैं — दक्षिणायन और उत्तरायण। जो 'इष्टापूर्त' (यज्ञ और पुण्य-कर्म) ही कृत (किया) है — ऐसा मानकर उपासना करते हैं, वे चान्द्रमस लोक (चन्द्रलोक) को जीतते हैं। वे पुनः लौटते हैं (पुनर्जन्म लेते हैं)। इसलिए ये ऋषि जो प्रजाकाम (सन्तान की इच्छा वाले) हैं, दक्षिणायन (दक्षिण मार्ग) का आश्रय लेते हैं। यही रयि है — यह पितृयाण (पितरों का मार्ग) है।",
     "en": "The year (saṁvatsara) indeed is Prajāpati; it has two paths — the southern (dakṣiṇāyana) and the northern (uttarāyaṇa). Those who worship thinking 'we have performed sacrifice and merit' — they win only the world of the moon. They return again (are reborn). Therefore those sages who desire offspring take the southern path. This indeed is Rayi — the path of the fathers (pitṛyāṇa).",
     "ws": [
-      {"s": "संवत्सरः (saṁvatsaraḥ)", "h": "संवत्सर — वर्ष / काल-चक्र", "e": "the year — the complete annual cycle; identified with Prajāpati because the year is the cosmic cycle through which creation proceeds"},
-      {"s": "अयने (ayane)", "h": "अयन — मार्ग / गति", "e": "paths/courses — the two halves of the solar year: dakṣiṇāyana (sun moving south, June-December) and uttarāyaṇa (sun moving north, January-June)"},
-      {"s": "इष्टापूर्ते (iṣṭā-pūrte)", "h": "इष्ट (यज्ञ-कर्म) और पूर्त (दान-पुण्य)", "e": "sacrifice and merit — iṣṭa (Vedic fire-sacrifices) + pūrta (meritorious works like digging wells, building temples); the two categories of ritual-based religious activity"},
-      {"s": "चान्द्रमसम् लोकम् (cāndramasam lokam)", "h": "चन्द्रलोक / चन्द्रमा का लोक", "e": "the world of the moon — the celestial realm reached by meritorious ritualists; temporary, not permanent liberation"},
-      {"s": "पुनः आवर्तन्ते (punaḥ āvartante)", "h": "पुनः लौटते हैं / पुनर्जन्म लेते हैं", "e": "they return again — punaḥ (again) + ā + √vṛt (to turn); the key limitation: this path leads back to rebirth when merit is exhausted"},
-      {"s": "पितृयाणः (pitṛ-yāṇaḥ)", "h": "पितृयाण — पितरों का मार्ग", "e": "the path of the fathers — the route by which the soul travels after death through the moon-realm and back to rebirth; contrasted with the devayāna (path of the gods)"}
+      {
+        "s": "संवत्सरः",
+        "h": "संवत्सर — वर्ष / काल-चक्र",
+        "e": "the year"
+      },
+      {
+        "s": "अयने",
+        "h": "अयन — मार्ग / गति",
+        "e": "paths/courses"
+      },
+      {
+        "s": "इष्टापूर्ते",
+        "h": "इष्ट (यज्ञ-कर्म) और पूर्त (दान-पुण्य)",
+        "e": "sacrifice and merit"
+      },
+      {
+        "s": "चान्द्रमसम् लोकम्",
+        "h": "चन्द्रलोक / चन्द्रमा का लोक",
+        "e": "the world of the moon"
+      },
+      {
+        "s": "पुनः आवर्तन्ते",
+        "h": "पुनः लौटते हैं / पुनर्जन्म लेते हैं",
+        "e": "they return again"
+      },
+      {
+        "s": "पितृयाणः",
+        "h": "पितृयाण — पितरों का मार्ग",
+        "e": "the path of the fathers"
+      }
     ],
     "gr": "<strong>saṁvatsaraḥ vai prajāpatiḥ</strong> — 'the year is Prajāpati': time itself is the creator. The annual cycle — with its seasons, solstices, and rhythms — is the <em>mechanism</em> of creation. <strong>dakṣiṇaṁ ca uttaraṁ ca</strong> — the two 'ayanas' (paths/courses): the dakṣiṇāyana (southern course, when the sun moves south) and the uttarāyaṇa (northern course, when the sun moves north) divide the year into two cosmic directions. <strong>iṣṭā-pūrte kṛtam iti upāsate</strong> — 'they worship thinking: we have done sacrifice and merit': these are ritualists who rely solely on karma-kāṇḍa (ritual action) without jñāna (knowledge). <strong>te cāndramasam eva lokam abhijayante</strong> — 'they win only the moon-world': the reward is real but <em>temporary</em>. <strong>punaḥ āvartante</strong> — 'they return': the devastating limitation. This is the Upanishadic critique of mere ritualism.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.9 — The two paths (devayāna and pitṛyāṇa) are taught extensively in the Chāndogya (5.10) and Bṛhadāraṇyaka (6.2.15-16). The pitṛyāṇa: death → smoke → night → dark fortnight → dakṣiṇāyana → moon → rain → earth → food → seed → rebirth. The devayāna: death → flame → day → bright fortnight → uttarāyaṇa → sun → lightning → Brahman (no return). The Prashna's innovation is to correlate these paths with Rayi (pitṛyāṇa = matter-path = return) and Prāṇa (devayāna = life-force-path = liberation). Bhīṣma in the Mahābhārata waited for uttarāyaṇa before dying (MB 6.119), based on this doctrine.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -357,8 +593,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What are the two paths — devayāna and pitṛyāṇa?", "a": "The doctrine of the <strong>two paths</strong> is one of the most important teachings in the Upanishads, developed in detail in the <strong>Chāndogya (5.10)</strong> and <strong>Bṛhadāraṇyaka (6.2.15-16)</strong>. <strong>Pitṛyāṇa (path of the fathers)</strong>: the soul after death travels through: smoke → night → dark fortnight → dakṣiṇāyana (southern course) → the <strong>moon</strong> → rain → earth → food → seed → <strong>rebirth</strong>. This path is for those whose spiritual practice is <em>karma-dominant</em> — they perform sacrifices and good works but lack transformative knowledge. Their merit earns them a temporary stay in the moon-world (candraloka), but when the merit is exhausted, they return to earthly existence. <strong>Devayāna (path of the gods)</strong>: the soul after death travels through: flame → day → bright fortnight → uttarāyaṇa (northern course) → the <strong>sun</strong> → lightning → <strong>Brahman</strong> → <strong>no return</strong>. This path is for those whose practice includes <em>jñāna</em> (knowledge) or <em>upāsanā</em> (meditation on Brahman). They reach Brahman and do not return. The Prashna correlates these paths with its own framework: pitṛyāṇa = <strong>Rayi</strong> (the material principle), devayāna = <strong>Prāṇa</strong> (the conscious principle). The path you travel after death corresponds to what you worshipped in life: matter or consciousness."},
-      {"q": "🔍 Why does the Upanishad critique ritualism?", "a": "The phrase '<strong>iṣṭā-pūrte kṛtam iti upāsate</strong>' ('they worship thinking: we have done sacrifice and merit') is a pointed <strong>critique of mere ritualism</strong>. The Upanishad does not reject ritual — it rejects <strong>ritual without knowledge</strong>. The critique operates on several levels: (1) <strong>Temporal limitation</strong>: ritual merit (puṇya) produces real results — heaven, prosperity, good rebirth — but these results are <em>temporary</em>. When the merit is exhausted, the soul returns. This is like a bank account: you can deposit virtue, but eventually you spend it all. (2) <strong>Structural limitation</strong>: ritual operates within the domain of <strong>Rayi</strong> (matter, the moon-principle). It produces effects within the material world — better worlds, better bodies — but cannot take you <em>beyond</em> the material world. For that, you need <strong>Prāṇa</strong> (consciousness, the sun-principle) — which means knowledge. (3) <strong>Psychological limitation</strong>: the ritualist thinks '<em>kṛtam iti</em>' — 'I have done it.' This sense of 'I am the doer, I have earned this' is itself a form of bondage. Liberation requires the dissolution of the doer-identity, not its glorification. The Upanishadic position is not anti-ritual but <strong>pro-knowledge</strong>: ritual is valuable as <em>preparation</em> for knowledge (it purifies the mind) but not as a <em>substitute</em> for it."}
+      {
+        "q": "🔍 What are the two paths — devayāna and pitṛyāṇa?",
+        "a": "The doctrine of the <strong>two paths</strong> is one of the most important teachings in the Upanishads, developed in detail in the <strong>Chāndogya (5.10)</strong> and <strong>Bṛhadāraṇyaka (6.2.15-16)</strong>. <strong>Pitṛyāṇa (path of the fathers)</strong>: the soul after death travels through: smoke → night → dark fortnight → dakṣiṇāyana (southern course) → the <strong>moon</strong> → rain → earth → food → seed → <strong>rebirth</strong>. This path is for those whose spiritual practice is <em>karma-dominant</em> — they perform sacrifices and good works but lack transformative knowledge. Their merit earns them a temporary stay in the moon-world (candraloka), but when the merit is exhausted, they return to earthly existence. <strong>Devayāna (path of the gods)</strong>: the soul after death travels through: flame → day → bright fortnight → uttarāyaṇa (northern course) → the <strong>sun</strong> → lightning → <strong>Brahman</strong> → <strong>no return</strong>. This path is for those whose practice includes <em>jñāna</em> (knowledge) or <em>upāsanā</em> (meditation on Brahman). They reach Brahman and do not return. The Prashna correlates these paths with its own framework: pitṛyāṇa = <strong>Rayi</strong> (the material principle), devayāna = <strong>Prāṇa</strong> (the conscious principle). The path you travel after death corresponds to what you worshipped in life: matter or consciousness."
+      },
+      {
+        "q": "🔍 Why does the Upanishad critique ritualism?",
+        "a": "The phrase '<strong>iṣṭā-pūrte kṛtam iti upāsate</strong>' ('they worship thinking: we have done sacrifice and merit') is a pointed <strong>critique of mere ritualism</strong>. The Upanishad does not reject ritual — it rejects <strong>ritual without knowledge</strong>. The critique operates on several levels: (1) <strong>Temporal limitation</strong>: ritual merit (puṇya) produces real results — heaven, prosperity, good rebirth — but these results are <em>temporary</em>. When the merit is exhausted, the soul returns. This is like a bank account: you can deposit virtue, but eventually you spend it all. (2) <strong>Structural limitation</strong>: ritual operates within the domain of <strong>Rayi</strong> (matter, the moon-principle). It produces effects within the material world — better worlds, better bodies — but cannot take you <em>beyond</em> the material world. For that, you need <strong>Prāṇa</strong> (consciousness, the sun-principle) — which means knowledge. (3) <strong>Psychological limitation</strong>: the ritualist thinks '<em>kṛtam iti</em>' — 'I have done it.' This sense of 'I am the doer, I have earned this' is itself a form of bondage. Liberation requires the dissolution of the doer-identity, not its glorification. The Upanishadic position is not anti-ritual but <strong>pro-knowledge</strong>: ritual is valuable as <em>preparation</em> for knowledge (it purifies the mind) but not as a <em>substitute</em> for it."
+      }
     ]
   },
   {
@@ -368,15 +610,39 @@
     "hi": "अब (दूसरा मार्ग —) उत्तरायण (उत्तर मार्ग) द्वारा, तपस्या, ब्रह्मचर्य, श्रद्धा और विद्या (ज्ञान) से आत्मा को खोजकर, वे आदित्य (सूर्य) को जीतते हैं। यही प्राणों का आयतन (निवास-स्थान) है; यही अमृत (अमर) है; यही अभय (भय-रहित) है; यही परायण (परम आश्रय) है। इससे वे पुनः नहीं लौटते — यही निरोध (अवरोध / रुकना) है। यही श्लोक (उक्ति) है —",
     "en": "But by the northern path, through austerity, celibacy, faith, and knowledge (vidyā), having sought the Self, they win the sun (Āditya). This indeed is the abode of all prāṇas; this is the immortal, the fearless; this is the supreme refuge. From this they do not return — this is the cessation (nirodha). On this, here is a verse:",
     "ws": [
-      {"s": "उत्तरेण (uttareṇa)", "h": "उत्तर (मार्ग/अयन) द्वारा", "e": "by the northern (path) — the uttarāyaṇa; the path of the gods (devayāna) leading to non-return"},
-      {"s": "विद्यया (vidyayā)", "h": "विद्या (ज्ञान) से", "e": "by knowledge — vidyā (spiritual knowledge, specifically ātma-vidyā); the critical addition to the three prerequisites of tapas, brahmacarya, śraddhā"},
-      {"s": "आत्मानम् अन्विष्य (ātmānam anviṣya)", "h": "आत्मा को खोजकर", "e": "having sought the Self — anu + √iṣ (to seek); active pursuit of Self-knowledge through inquiry and meditation"},
-      {"s": "आदित्यम् अभिजयन्ते (ādityam abhijayante)", "h": "सूर्य (आदित्य) को जीतते हैं", "e": "they win/conquer the sun — they reach the realm of Prāṇa (the sun-principle) and attain immortality"},
-      {"s": "आयतनम् (āyatanam)", "h": "आयतन — निवास-स्थान / आधार", "e": "the abode / resting-place — ā + √yat (to rest in); the sun is where all individual prāṇas originate and return"},
-      {"s": "निरोधः (nirodhaḥ)", "h": "निरोध — रुकना / विराम / अवरोध", "e": "cessation / stoppage — ni + √rudh (to obstruct); the cessation of the cycle of rebirth; the stopping-point of transmigration"}
+      {
+        "s": "उत्तरेण",
+        "h": "उत्तर (मार्ग/अयन) द्वारा",
+        "e": "by the northern (path)"
+      },
+      {
+        "s": "विद्यया",
+        "h": "विद्या (ज्ञान) से",
+        "e": "by knowledge"
+      },
+      {
+        "s": "आत्मानम् अन्विष्य",
+        "h": "आत्मा को खोजकर",
+        "e": "having sought the Self"
+      },
+      {
+        "s": "आदित्यम् अभिजयन्ते",
+        "h": "सूर्य (आदित्य) को जीतते हैं",
+        "e": "they win/conquer the sun"
+      },
+      {
+        "s": "आयतनम्",
+        "h": "आयतन — निवास-स्थान / आधार",
+        "e": "the abode / resting-place"
+      },
+      {
+        "s": "निरोधः",
+        "h": "निरोध — रुकना / विराम / अवरोध",
+        "e": "cessation / stoppage"
+      }
     ],
     "gr": "<strong>uttareṇa</strong> — 'by the northern path': contrasted with dakṣiṇa (south) in the previous verse. North = up = light = liberation; south = down = darkness = return. <strong>vidyayā</strong> — 'by knowledge': this is the <em>crucial addition</em>. The previous verse listed only ritual (iṣṭā-pūrta); this verse adds <strong>vidyā</strong> (knowledge of the Self). The four prerequisites — tapas, brahmacarya, śraddhā, vidyā — form the complete path. <strong>ātmānam anviṣya</strong> — 'having sought the Self': the active ingredient — not passive receipt of merit but <em>active search</em> for the Self. <strong>na punaḥ āvartante</strong> — 'they do not return': the definitive mark of liberation. <strong>nirodhaḥ</strong> — 'cessation': a term later central to Yoga philosophy (Yoga Sūtra 1.2: yogaḥ citta-vṛtti-nirodhaḥ); here it means the cessation of the cycle of rebirth.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.10 — The contrast between mantras 9 and 10 is the doctrinal core of Question 1: pitṛyāṇa (ritual alone → return) vs. devayāna (knowledge + ritual → no return). The addition of 'vidyā' (knowledge) to the prerequisites is the differentiating factor. The term 'nirodha' here prefigures Patañjali's Yoga Sūtra (1.2): 'yogaḥ citta-vṛtti-nirodhaḥ' — yoga is the cessation of the fluctuations of the mind. The Bhagavad Gītā (8.24) specifies the uttarāyaṇa path: 'agniḥ jyotiḥ ahaḥ śuklaḥ ṣaṇ-māsā uttarāyaṇam / tatra prayātā gacchanti brahma brahma-vido janāḥ.'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -398,8 +664,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What makes the devayāna path irreversible?", "a": "The devayāna ('path of the gods') leads to <strong>non-return</strong> (apunar-āvṛtti) because it is based on <strong>vidyā</strong> (knowledge) rather than merely on <strong>karma</strong> (action). The critical difference: <strong>Karma produces finite results</strong>. Every action generates a specific, measurable merit (puṇya). Merit is like fuel — it is consumed in the process of producing its result. When the merit of a good life is 'used up' in the moon-world (enjoying heavenly pleasures), there is nothing left to sustain the soul there, and it falls back to earth. This is the pitṛyāṇa. <strong>Vidyā produces an infinite result</strong>. Knowledge is not consumed in use. Once you know that fire burns, you cannot 'use up' this knowledge. Once you know the Self, this knowledge does not deplete. It transforms the knower permanently. The transformation is irreversible — like carbon becoming diamond, the structure has changed at the fundamental level. <strong>Furthermore</strong>: karma reinforces the sense of doership ('I did this, I earned this'), which is the root of bondage. Vidyā dissolves the doer-identity ('there is no separate I; all is Brahman'), which is liberation itself. You cannot 'return' from this because there is no 'you' separate from Brahman to do the returning. The Bhagavad Gītā (8.16) confirms: '<em>ā-brahma-bhuvanāl lokāḥ punar-āvartino 'rjuna / mām upetya tu kaunteya punar-janma na vidyate</em>' — 'All worlds up to Brahmā's are subject to return; but having reached Me, there is no rebirth.'"},
-      {"q": "🔍 What is the meaning of 'nirodha' here?", "a": "The word <strong>nirodha</strong> (ni + √rudh, 'to obstruct/stop') means <strong>cessation</strong> — here, the cessation of the cycle of rebirth. The soul that reaches the sun (Āditya) via the devayāna path <em>stops</em> — the cycle of birth, death, and rebirth comes to a permanent halt. This is significant because the term 'nirodha' later becomes central to <strong>Yoga philosophy</strong>. Patañjali's Yoga Sūtra (1.2) defines yoga as '<em>yogaḥ citta-vṛtti-nirodhaḥ</em>' — 'yoga is the cessation of the fluctuations of the mind-stuff.' In <strong>Buddhism</strong>, nirodha (cessation of duḥkha/suffering) is the Third Noble Truth. In all three contexts — Upanishadic, Yogic, and Buddhist — nirodha means <strong>the stopping of an unwanted process</strong>: in the Prashna, the stopping of rebirth; in Yoga, the stopping of mental fluctuations; in Buddhism, the stopping of suffering. The Prashna's usage is the <em>earliest</em> of these and may represent the archetype from which the later technical usages developed. The implication: liberation is not something you <em>get</em> — it is something that <em>stops</em>. Saṁsāra is an ongoing process; liberation is its cessation."}
+      {
+        "q": "🔍 What makes the devayāna path irreversible?",
+        "a": "The devayāna ('path of the gods') leads to <strong>non-return</strong> (apunar-āvṛtti) because it is based on <strong>vidyā</strong> (knowledge) rather than merely on <strong>karma</strong> (action). The critical difference: <strong>Karma produces finite results</strong>. Every action generates a specific, measurable merit (puṇya). Merit is like fuel — it is consumed in the process of producing its result. When the merit of a good life is 'used up' in the moon-world (enjoying heavenly pleasures), there is nothing left to sustain the soul there, and it falls back to earth. This is the pitṛyāṇa. <strong>Vidyā produces an infinite result</strong>. Knowledge is not consumed in use. Once you know that fire burns, you cannot 'use up' this knowledge. Once you know the Self, this knowledge does not deplete. It transforms the knower permanently. The transformation is irreversible — like carbon becoming diamond, the structure has changed at the fundamental level. <strong>Furthermore</strong>: karma reinforces the sense of doership ('I did this, I earned this'), which is the root of bondage. Vidyā dissolves the doer-identity ('there is no separate I; all is Brahman'), which is liberation itself. You cannot 'return' from this because there is no 'you' separate from Brahman to do the returning. The Bhagavad Gītā (8.16) confirms: '<em>ā-brahma-bhuvanāl lokāḥ punar-āvartino 'rjuna / mām upetya tu kaunteya punar-janma na vidyate</em>' — 'All worlds up to Brahmā's are subject to return; but having reached Me, there is no rebirth.'"
+      },
+      {
+        "q": "🔍 What is the meaning of 'nirodha' here?",
+        "a": "The word <strong>nirodha</strong> (ni + √rudh, 'to obstruct/stop') means <strong>cessation</strong> — here, the cessation of the cycle of rebirth. The soul that reaches the sun (Āditya) via the devayāna path <em>stops</em> — the cycle of birth, death, and rebirth comes to a permanent halt. This is significant because the term 'nirodha' later becomes central to <strong>Yoga philosophy</strong>. Patañjali's Yoga Sūtra (1.2) defines yoga as '<em>yogaḥ citta-vṛtti-nirodhaḥ</em>' — 'yoga is the cessation of the fluctuations of the mind-stuff.' In <strong>Buddhism</strong>, nirodha (cessation of duḥkha/suffering) is the Third Noble Truth. In all three contexts — Upanishadic, Yogic, and Buddhist — nirodha means <strong>the stopping of an unwanted process</strong>: in the Prashna, the stopping of rebirth; in Yoga, the stopping of mental fluctuations; in Buddhism, the stopping of suffering. The Prashna's usage is the <em>earliest</em> of these and may represent the archetype from which the later technical usages developed. The implication: liberation is not something you <em>get</em> — it is something that <em>stops</em>. Saṁsāra is an ongoing process; liberation is its cessation."
+      }
     ]
   },
   {
@@ -409,14 +681,34 @@
     "hi": "(कुछ ज्ञानी) कहते हैं — (वह प्रजापति/काल) पञ्चपाद (पाँच ऋतुओं वाला), पिता, द्वादशाकृति (बारह रूपों/महीनों वाला) है; वह दिव (आकाश) के ऊपर के अर्ध (आधे भाग) में पुरीषिन् (जल-दाता / वर्षा करने वाला) है। अन्य (दूसरे विद्वान्) कहते हैं — वह विचक्षण (सर्वद्रष्टा) सप्तचक्र (सात चक्रों / पहियों वाले रथ) में छह अरों (six spokes) पर स्थापित है।",
     "en": "Some say He (Prajāpati/Time) has five feet (seasons), is the father, has twelve forms (months), and is the rain-giver in the upper half of heaven. Others say He, the all-seeing, is placed in a chariot of seven wheels with six spokes.",
     "ws": [
-      {"s": "पञ्चपादम् (pañca-pādam)", "h": "पाँच पाद (ऋतुओं) वाला", "e": "five-footed — pañca (five) + pāda (foot); the five seasons (vasanta, grīṣma, varṣā, śarad, hemanta-śiśira counted together, or the five visible seasons)"},
-      {"s": "द्वादशाकृतिम् (dvādaśa-ākṛtim)", "h": "बारह आकृतियों (महीनों) वाला", "e": "twelve-formed — dvādaśa (twelve) + ākṛti (form); the twelve months of the year"},
-      {"s": "पुरीषिणम् (purīṣiṇam)", "h": "पुरीषिन् — जल-दाता / वर्षा करने वाला", "e": "the rain-giver — purīṣa (water/rain); the cosmic process that brings rain from the upper atmosphere"},
-      {"s": "सप्तचक्रे (sapta-cakre)", "h": "सात चक्रों / पहियों वाले (रथ) में", "e": "in a seven-wheeled (chariot) — the seven wheels may represent the seven chandas (Vedic metres) or the seven planes of existence"},
-      {"s": "षडरः (ṣaḍ-araḥ)", "h": "छह अरों (spokes) वाला", "e": "six-spoked — ṣaṭ (six) + ara (spoke); the six seasons (ṛtus), or six categories of beings"}
+      {
+        "s": "पञ्चपादम्",
+        "h": "पाँच पाद (ऋतुओं) वाला",
+        "e": "five-footed"
+      },
+      {
+        "s": "द्वादशाकृतिम्",
+        "h": "बारह आकृतियों (महीनों) वाला",
+        "e": "twelve-formed"
+      },
+      {
+        "s": "पुरीषिणम्",
+        "h": "पुरीषिन् — जल-दाता / वर्षा करने वाला",
+        "e": "the rain-giver"
+      },
+      {
+        "s": "सप्तचक्रे",
+        "h": "सात चक्रों / पहियों वाले (रथ) में",
+        "e": "in a seven-wheeled (chariot)"
+      },
+      {
+        "s": "षडरः",
+        "h": "छह अरों (spokes) वाला",
+        "e": "six-spoked"
+      }
     ],
     "gr": "<strong>This is a highly compressed cosmological verse</strong> — almost a riddle — describing Prajāpati (the year/time) through numerical symbolism. <strong>pañca-pādam</strong> — 'five-footed': the year as five seasons (the ancient Vedic count: vasanta, grīṣma, varṣā, śarad, hemanta-śiśira combined). <strong>dvādaśa-ākṛtim</strong> — 'twelve-formed': the twelve months. <strong>purīṣiṇam pare ardhe divaḥ</strong> — 'the rain-giver in the upper half of heaven': the cosmic process of rain, which sustains all life, originates from the upper atmosphere. <strong>sapta-cakre ṣaḍ-are</strong> — 'seven-wheeled, six-spoked': the year as a cosmic chariot — seven wheels (perhaps the seven days of the week, or seven chandas/metres) and six spokes (perhaps six seasons, or six categories of beings). This verse has strong Rig Vedic parallels (RV 1.164).",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.11 — This verse is closely related to the great cosmological riddle-hymn of the Rig Veda (1.164), the Asya Vāmasya Sūkta by Dīrghatamas. RV 1.164.12: 'pañca-pādaṁ pitaram dvādaśākṛtiṁ diva āhuḥ pare ardhe purīṣiṇam / atheme anye upare vicakṣaṇaṁ saptacakre ṣaḍara āhur arpitam.' The Prashna quotes this virtually verbatim. The Rig Vedic original describes the cosmic year-wheel — the sun's annual journey mapped onto a chariot. The numbers encode calendrical data: 12 months, 5 (or 6) seasons, 7 days/metres, 360 (6 × 60) days.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -438,8 +730,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What is the Rig Vedic riddle-hymn (1.164)?", "a": "This verse is a near-verbatim quotation from the <strong>Asya Vāmasya Sūkta</strong> (Rig Veda 1.164), attributed to the seer <strong>Dīrghatamas Aucathya</strong> ('Long Darkness, son of Ucathya'). This is one of the most enigmatic and celebrated hymns in the Rig Veda — a 52-verse riddle-poem describing the cosmos through <strong>numerical symbolism</strong>. The hymn contains many famous verses: the 'two birds on one tree' (1.164.20), the cosmic wheel (1.164.11-13), and the 'speech has four quarters' (1.164.45: '<em>catvāri vāk parimitā padāni</em>'). The numbers in this verse encode <strong>calendrical and cosmic data</strong>: <strong>5 feet</strong> = 5 seasons (or 5 years of the Vedic yuga-cycle); <strong>12 forms</strong> = 12 months; <strong>7 wheels</strong> = 7 days of the week, or 7 Vedic metres (gāyatrī, uṣṇik, anuṣṭubh, bṛhatī, paṅkti, triṣṭubh, jagatī), or 7 lokas; <strong>6 spokes</strong> = 6 seasons (ṛtus), or 360 days grouped in 6 sets of 60. The Prashna's citation of this archaic hymn is significant: it anchors the Upanishadic teaching in the <strong>oldest Vedic authority</strong>."},
-      {"q": "🔍 How does time relate to Prajāpati?", "a": "The identification <strong>saṁvatsaraḥ vai prajāpatiḥ</strong> ('the year is Prajāpati') is fundamental to Vedic cosmology. <strong>Prajāpati</strong> (Lord of Creatures) is the <em>creator-principle</em> — and the year is the <em>mechanism</em> through which creation operates. Creation is not a single event but an <strong>ongoing process</strong> governed by temporal cycles: the daily cycle (sunrise-sunset), the monthly cycle (moon phases), the annual cycle (seasons), the cosmic cycle (yugas). <strong>Time IS creation</strong>: without the passage of time, nothing would be born, grow, decay, or die. The year — with its seasons, months, and days — is the <em>body of time</em>, and Prajāpati is its <em>soul</em>. The <strong>Śatapatha Brāhmaṇa (6.1.1.1 ff.)</strong> develops this extensively: 'Prajāpati desired: may I be many, may I be reproduced. He performed tapas. Having performed tapas, he created all this.' The year as the 'body' of Prajāpati means: the rhythms of nature (spring growth, summer heat, autumn harvest, winter rest) are the <em>breathing</em> of the cosmic creator. When you experience a season, you are experiencing a <em>limb</em> of Prajāpati."}
+      {
+        "q": "🔍 What is the Rig Vedic riddle-hymn (1.164)?",
+        "a": "This verse is a near-verbatim quotation from the <strong>Asya Vāmasya Sūkta</strong> (Rig Veda 1.164), attributed to the seer <strong>Dīrghatamas Aucathya</strong> ('Long Darkness, son of Ucathya'). This is one of the most enigmatic and celebrated hymns in the Rig Veda — a 52-verse riddle-poem describing the cosmos through <strong>numerical symbolism</strong>. The hymn contains many famous verses: the 'two birds on one tree' (1.164.20), the cosmic wheel (1.164.11-13), and the 'speech has four quarters' (1.164.45: '<em>catvāri vāk parimitā padāni</em>'). The numbers in this verse encode <strong>calendrical and cosmic data</strong>: <strong>5 feet</strong> = 5 seasons (or 5 years of the Vedic yuga-cycle); <strong>12 forms</strong> = 12 months; <strong>7 wheels</strong> = 7 days of the week, or 7 Vedic metres (gāyatrī, uṣṇik, anuṣṭubh, bṛhatī, paṅkti, triṣṭubh, jagatī), or 7 lokas; <strong>6 spokes</strong> = 6 seasons (ṛtus), or 360 days grouped in 6 sets of 60. The Prashna's citation of this archaic hymn is significant: it anchors the Upanishadic teaching in the <strong>oldest Vedic authority</strong>."
+      },
+      {
+        "q": "🔍 How does time relate to Prajāpati?",
+        "a": "The identification <strong>saṁvatsaraḥ vai prajāpatiḥ</strong> ('the year is Prajāpati') is fundamental to Vedic cosmology. <strong>Prajāpati</strong> (Lord of Creatures) is the <em>creator-principle</em> — and the year is the <em>mechanism</em> through which creation operates. Creation is not a single event but an <strong>ongoing process</strong> governed by temporal cycles: the daily cycle (sunrise-sunset), the monthly cycle (moon phases), the annual cycle (seasons), the cosmic cycle (yugas). <strong>Time IS creation</strong>: without the passage of time, nothing would be born, grow, decay, or die. The year — with its seasons, months, and days — is the <em>body of time</em>, and Prajāpati is its <em>soul</em>. The <strong>Śatapatha Brāhmaṇa (6.1.1.1 ff.)</strong> develops this extensively: 'Prajāpati desired: may I be many, may I be reproduced. He performed tapas. Having performed tapas, he created all this.' The year as the 'body' of Prajāpati means: the rhythms of nature (spring growth, summer heat, autumn harvest, winter rest) are the <em>breathing</em> of the cosmic creator. When you experience a season, you are experiencing a <em>limb</em> of Prajāpati."
+      }
     ]
   },
   {
@@ -449,13 +747,29 @@
     "hi": "मास (महीना) ही प्रजापति है; उसका कृष्णपक्ष (अमावस्या की ओर) रयि है; शुक्लपक्ष (पूर्णिमा की ओर) प्राण है। इसलिए ये ऋषि शुक्लपक्ष में यज्ञ करते हैं; अन्य (सामान्य) लोग इतर (कृष्णपक्ष) में।",
     "en": "The month indeed is Prajāpati; its dark half (kṛṣṇa-pakṣa) is Rayi; the bright half (śukla-pakṣa) is Prāṇa. Therefore these sages perform sacrifice in the bright half; others perform in the other (dark) half.",
     "ws": [
-      {"s": "मासः (māsaḥ)", "h": "मास — महीना", "e": "the month — the lunar month, the basic unit of Vedic calendrical reckoning"},
-      {"s": "कृष्णपक्षः (kṛṣṇa-pakṣaḥ)", "h": "कृष्णपक्ष — अमावस्या की ओर का पखवाड़ा", "e": "the dark fortnight — kṛṣṇa (dark) + pakṣa (wing/half); the fifteen days from full moon to new moon, when the moon wanes"},
-      {"s": "शुक्लः (śuklaḥ)", "h": "शुक्लपक्ष — पूर्णिमा की ओर", "e": "the bright (fortnight) — the fifteen days from new moon to full moon, when the moon waxes; associated with growth, light, consciousness"},
-      {"s": "इष्टम् कुर्वन्ति (iṣṭaṁ kurvanti)", "h": "यज्ञ करते हैं / इष्ट-कर्म करते हैं", "e": "perform sacrifice — iṣṭa (sacrifice, from √yaj) + kurvanti (they do); ritual is aligned with cosmic rhythms"}
+      {
+        "s": "मासः",
+        "h": "मास — महीना",
+        "e": "the month"
+      },
+      {
+        "s": "कृष्णपक्षः",
+        "h": "कृष्णपक्ष — अमावस्या की ओर का पखवाड़ा",
+        "e": "the dark fortnight"
+      },
+      {
+        "s": "शुक्लः",
+        "h": "शुक्लपक्ष — पूर्णिमा की ओर",
+        "e": "the bright (fortnight)"
+      },
+      {
+        "s": "इष्टम् कुर्वन्ति",
+        "h": "यज्ञ करते हैं / इष्ट-कर्म करते हैं",
+        "e": "perform sacrifice"
+      }
     ],
     "gr": "<strong>māsaḥ vai prajāpatiḥ</strong> — 'the month is Prajāpati': having identified the <em>year</em> with Prajāpati, now the <em>month</em> is also Prajāpati — the same creative principle operates at every temporal scale. <strong>kṛṣṇa-pakṣaḥ = rayiḥ; śuklaḥ = prāṇaḥ</strong> — the Prāṇa-Rayi framework is applied to the lunar cycle: waning moon = matter (darkness, diminishing), waxing moon = life-force (light, growing). <strong>śukle iṣṭaṁ kurvanti</strong> — 'they perform sacrifice in the bright half': the wise align their rituals with the Prāṇa-principle (light, growth). This is a practical application of the cosmological teaching.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.12 — The Prāṇa-Rayi framework is here applied to the month: bright fortnight = Prāṇa, dark fortnight = Rayi. The preference for performing rituals in the śukla-pakṣa is a general Vedic principle — auspicious rites are typically performed during the waxing moon. The Bhagavad Gītā (8.24-25) correlates these with the devayāna and pitṛyāṇa: 'agniḥ jyotiḥ ahaḥ śuklaḥ ... tatra prayātā gacchanti brahma' (bright fortnight → Brahman, no return) vs. 'dhūmaḥ rātriḥ kṛṣṇaḥ ... prāpya nivartante' (dark fortnight → return).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -477,8 +791,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the Prashna map Prāṇa-Rayi onto everything?", "a": "The Prashna Upanishad systematically applies its <strong>Prāṇa-Rayi framework</strong> to every level of reality: <strong>Cosmic</strong>: sun = Prāṇa, moon = Rayi. <strong>Annual</strong>: uttarāyaṇa = Prāṇa, dakṣiṇāyana = Rayi. <strong>Monthly</strong>: bright fortnight = Prāṇa, dark fortnight = Rayi. <strong>Daily</strong> (in the next verse): day = Prāṇa, night = Rayi. This pervasive application serves a philosophical purpose: <strong>the same duality operates at every scale</strong>. The universe is <em>fractal</em> — the pattern that governs the cosmos (sun-moon) governs the year (north-south), the month (bright-dark), the day (day-night), and even the individual body (prāṇa-apāna). This means: if you understand the Prāṇa-Rayi duality at ANY level, you understand it at ALL levels. The microcosm reflects the macrocosm. And it means: <strong>spiritual practice can be aligned with cosmic rhythms</strong>. By choosing the Prāṇa-dominant phase (day over night, bright half over dark, uttarāyaṇa over dakṣiṇāyana), the seeker harnesses the natural momentum of the cosmos. This is not superstition but <strong>conscious alignment</strong> — working with the grain of reality rather than against it."},
-      {"q": "🔍 What is the lunar calendar and why does it matter spiritually?", "a": "The <strong>Vedic calendar</strong> is primarily <strong>lunar</strong> — months are reckoned by the phases of the moon, not the sun. Each month consists of two <strong>pakṣas</strong> (fortnights): the <strong>śukla-pakṣa</strong> (bright half, new moon to full moon, 15 days of waxing) and the <strong>kṛṣṇa-pakṣa</strong> (dark half, full moon to new moon, 15 days of waning). The moon's phases are not merely astronomical observations — they are <strong>indices of cosmic energy</strong>. The <strong>waxing moon</strong> represents <em>growth, increase, light, consciousness, ascent</em> — the Prāṇa principle. The <strong>waning moon</strong> represents <em>decrease, dissolution, darkness, matter, descent</em> — the Rayi principle. In Vedic ritual practice, this translates directly into <strong>timing</strong>: auspicious rites (marriages, initiations, new beginnings) are generally performed during the śukla-pakṣa. Rites for the ancestors (śrāddha, pitṛ-tarpaṇa) are typically performed during the kṛṣṇa-pakṣa — because the ancestors belong to the pitṛyāṇa (the Rayi-path). This <strong>cosmic alignment</strong> is not arbitrary superstition — it reflects the Upanishadic insight that <em>individual action is most effective when synchronised with cosmic rhythms</em>."}
+      {
+        "q": "🔍 Why does the Prashna map Prāṇa-Rayi onto everything?",
+        "a": "The Prashna Upanishad systematically applies its <strong>Prāṇa-Rayi framework</strong> to every level of reality: <strong>Cosmic</strong>: sun = Prāṇa, moon = Rayi. <strong>Annual</strong>: uttarāyaṇa = Prāṇa, dakṣiṇāyana = Rayi. <strong>Monthly</strong>: bright fortnight = Prāṇa, dark fortnight = Rayi. <strong>Daily</strong> (in the next verse): day = Prāṇa, night = Rayi. This pervasive application serves a philosophical purpose: <strong>the same duality operates at every scale</strong>. The universe is <em>fractal</em> — the pattern that governs the cosmos (sun-moon) governs the year (north-south), the month (bright-dark), the day (day-night), and even the individual body (prāṇa-apāna). This means: if you understand the Prāṇa-Rayi duality at ANY level, you understand it at ALL levels. The microcosm reflects the macrocosm. And it means: <strong>spiritual practice can be aligned with cosmic rhythms</strong>. By choosing the Prāṇa-dominant phase (day over night, bright half over dark, uttarāyaṇa over dakṣiṇāyana), the seeker harnesses the natural momentum of the cosmos. This is not superstition but <strong>conscious alignment</strong> — working with the grain of reality rather than against it."
+      },
+      {
+        "q": "🔍 What is the lunar calendar and why does it matter spiritually?",
+        "a": "The <strong>Vedic calendar</strong> is primarily <strong>lunar</strong> — months are reckoned by the phases of the moon, not the sun. Each month consists of two <strong>pakṣas</strong> (fortnights): the <strong>śukla-pakṣa</strong> (bright half, new moon to full moon, 15 days of waxing) and the <strong>kṛṣṇa-pakṣa</strong> (dark half, full moon to new moon, 15 days of waning). The moon's phases are not merely astronomical observations — they are <strong>indices of cosmic energy</strong>. The <strong>waxing moon</strong> represents <em>growth, increase, light, consciousness, ascent</em> — the Prāṇa principle. The <strong>waning moon</strong> represents <em>decrease, dissolution, darkness, matter, descent</em> — the Rayi principle. In Vedic ritual practice, this translates directly into <strong>timing</strong>: auspicious rites (marriages, initiations, new beginnings) are generally performed during the śukla-pakṣa. Rites for the ancestors (śrāddha, pitṛ-tarpaṇa) are typically performed during the kṛṣṇa-pakṣa — because the ancestors belong to the pitṛyāṇa (the Rayi-path). This <strong>cosmic alignment</strong> is not arbitrary superstition — it reflects the Upanishadic insight that <em>individual action is most effective when synchronised with cosmic rhythms</em>."
+      }
     ]
   },
   {
@@ -488,14 +808,34 @@
     "hi": "अहोरात्र (दिन-रात) ही प्रजापति है; उसका दिन प्राण है, रात्रि रयि है। जो दिन में रति (मैथुन / यौन-संगम) करते हैं, वे प्राण को स्कन्दित (नष्ट / बिखेर) करते हैं। रात्रि में रति करना — वही ब्रह्मचर्य (संयम) के तुल्य है।",
     "en": "The day-and-night is Prajāpati; its daytime is Prāṇa, its nighttime is Rayi. Those who unite in sexual pleasure during the day dissipate their Prāṇa. To unite at night — that alone is (consonant with) brahmacarya.",
     "ws": [
-      {"s": "अहोरात्रः (ahoratraḥ)", "h": "दिन-रात / अहोरात्र", "e": "day-and-night — the daily cycle, now identified with Prajāpati, continuing the fractal application"},
-      {"s": "प्रस्कन्दन्ति (praskandanti)", "h": "प्रस्कन्दित करते हैं / बिखेरते हैं / नष्ट करते हैं", "e": "dissipate / waste — pra + √skand (to leap/spill); vital energy is 'scattered' or 'spilled' when expended during the Prāṇa-phase (daytime)"},
-      {"s": "रत्या (ratyā)", "h": "रति से / यौन-संगम से", "e": "with sexual pleasure — rati (love-making, from √ram, to delight); conjugal union"},
-      {"s": "संयुज्यन्ते (saṁyujyante)", "h": "संयुक्त होते हैं / मैथुन करते हैं", "e": "unite — sam + √yuj (to yoke together); sexual union"},
-      {"s": "ब्रह्मचर्यम् एव तत् (brahmacaryam eva tat)", "h": "वही ब्रह्मचर्य (संयम के तुल्य) है", "e": "that alone is (equivalent to) brahmacarya — the surprising claim: conjugal union at the proper time (night = Rayi-phase) is not a violation of brahmacarya but consonant with it"}
+      {
+        "s": "अहोरात्रः",
+        "h": "दिन-रात / अहोरात्र",
+        "e": "day-and-night"
+      },
+      {
+        "s": "प्रस्कन्दन्ति",
+        "h": "प्रस्कन्दित करते हैं / बिखेरते हैं / नष्ट करते हैं",
+        "e": "dissipate / waste"
+      },
+      {
+        "s": "रत्या",
+        "h": "रति से / यौन-संगम से",
+        "e": "with sexual pleasure"
+      },
+      {
+        "s": "संयुज्यन्ते",
+        "h": "संयुक्त होते हैं / मैथुन करते हैं",
+        "e": "unite"
+      },
+      {
+        "s": "ब्रह्मचर्यम् एव तत्",
+        "h": "वही ब्रह्मचर्य (संयम के तुल्य) है",
+        "e": "that alone is (equivalent to) brahmacarya"
+      }
     ],
     "gr": "<strong>ahoratraḥ vai prajāpatiḥ</strong> — 'the day-and-night is Prajāpati': the Prāṇa-Rayi framework now reaches the daily cycle. Day = Prāṇa (light, activity, consciousness); night = Rayi (darkness, rest, matter). <strong>prāṇaṁ praskandanti</strong> — 'they dissipate Prāṇa': sexual activity during the daytime (the Prāṇa-phase) wastes vital energy because it is out of alignment with the cosmic rhythm. <strong>brahmacaryam eva tat yat rātrau ratyā saṁyujyante</strong> — 'union at night IS brahmacarya': this is a remarkable and pragmatic teaching. The Upanishad does NOT demand total celibacy for householders — it asks for <em>alignment</em> with cosmic rhythms. Conjugal union at night (the Rayi-phase, when procreative energy is naturally active) is compatible with the spirit of brahmacarya.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.13 — This verse is notable for its pragmatic, non-ascetic approach to sexuality. Unlike later renunciant traditions that demand absolute celibacy, the Prashna frames sexual discipline in terms of cosmic alignment: the issue is not the act itself but its timing. Day = Prāṇa (vital energy is active and should be conserved); night = Rayi (procreative/material energy is naturally dominant). This teaching is directed at gṛhasthas (householders), not sannyāsins. The concept of 'prāṇa-skandana' (dissipation of vital energy) anticipates later Yoga and Āyurveda teachings about ojas (vital essence) conservation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -517,8 +857,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Does the Upanishad allow sexual activity for seekers?", "a": "This verse offers one of the most <strong>pragmatic and psychologically realistic</strong> teachings in the Upanishads regarding sexuality. The answer is nuanced: <strong>For householders (gṛhasthas): yes, with conditions</strong>. The Upanishad does not demand absolute celibacy for householders. Instead, it prescribes <strong>cosmic alignment</strong>: conjugal union at night (the Rayi-phase) is declared compatible with brahmacarya. The key word is '<em>brahmacaryam eva tat</em>' — 'THAT IS brahmacarya.' This is a remarkable statement: the Upanishad is <em>redefining</em> brahmacarya not as total abstinence but as <strong>disciplined alignment with cosmic rhythms</strong>. <strong>The prohibition</strong> is against daytime union, which 'dissipates Prāṇa' (prāṇaṁ praskandanti). The reasoning: during the day, vital energy (prāṇa) is naturally ascending and active — it should be directed toward work, worship, and knowledge. Diverting it toward sexual activity during this phase 'spills' the energy that should be conserved. At night, the body is in its Rayi-phase (rest, materiality, regeneration) — procreative activity aligns with this natural rhythm. <strong>For renunciants (sannyāsins)</strong>: the verse is addressed to ṛṣis who are 'prajā-kāma' (desiring offspring) — i.e., householders. Complete celibacy remains the standard for renunciants. The Upanishad's teaching is <strong>context-sensitive</strong>, not one-size-fits-all."},
-      {"q": "🔍 What is 'prāṇa-skandana' (dissipation of vital energy)?", "a": "<strong>Prāṇa-skandana</strong> (pra + √skand, 'to spill/leap/scatter') means the <strong>dissipation or wasting of vital energy</strong>. The concept anticipates later <strong>Yoga and Āyurveda</strong> teachings about <strong>ojas</strong> (vital essence). In the Āyurvedic model, ojas is the <em>finest product</em> of digestion — the concentrated essence of all the body's seven dhātus (tissues). Sexual activity expends ojas. When ojas is depleted, the body becomes vulnerable to disease, aging, and mental dullness. When ojas is conserved, the body glows with health, the mind is clear, and the spirit is strong. The Yoga tradition similarly teaches that <strong>ūrdhva-retas</strong> (upward flow of sexual energy) is essential for higher spiritual experiences. The kuṇḍalinī tradition describes sexual energy as the same force that, when redirected upward through the suṣumnā nāḍī, activates the higher chakras and leads to samādhi. The Prashna's teaching is the <em>earliest</em> version of this insight: vital energy (Prāṇa) should not be 'scattered' (praskandita) during the wrong phase of the cosmic cycle. The emphasis is not on guilt or sin but on <strong>energy management</strong> — a remarkably modern, pragmatic approach to a topic often shrouded in moralism."}
+      {
+        "q": "🔍 Does the Upanishad allow sexual activity for seekers?",
+        "a": "This verse offers one of the most <strong>pragmatic and psychologically realistic</strong> teachings in the Upanishads regarding sexuality. The answer is nuanced: <strong>For householders (gṛhasthas): yes, with conditions</strong>. The Upanishad does not demand absolute celibacy for householders. Instead, it prescribes <strong>cosmic alignment</strong>: conjugal union at night (the Rayi-phase) is declared compatible with brahmacarya. The key word is '<em>brahmacaryam eva tat</em>' — 'THAT IS brahmacarya.' This is a remarkable statement: the Upanishad is <em>redefining</em> brahmacarya not as total abstinence but as <strong>disciplined alignment with cosmic rhythms</strong>. <strong>The prohibition</strong> is against daytime union, which 'dissipates Prāṇa' (prāṇaṁ praskandanti). The reasoning: during the day, vital energy (prāṇa) is naturally ascending and active — it should be directed toward work, worship, and knowledge. Diverting it toward sexual activity during this phase 'spills' the energy that should be conserved. At night, the body is in its Rayi-phase (rest, materiality, regeneration) — procreative activity aligns with this natural rhythm. <strong>For renunciants (sannyāsins)</strong>: the verse is addressed to ṛṣis who are 'prajā-kāma' (desiring offspring) — i.e., householders. Complete celibacy remains the standard for renunciants. The Upanishad's teaching is <strong>context-sensitive</strong>, not one-size-fits-all."
+      },
+      {
+        "q": "🔍 What is 'prāṇa-skandana' (dissipation of vital energy)?",
+        "a": "<strong>Prāṇa-skandana</strong> (pra + √skand, 'to spill/leap/scatter') means the <strong>dissipation or wasting of vital energy</strong>. The concept anticipates later <strong>Yoga and Āyurveda</strong> teachings about <strong>ojas</strong> (vital essence). In the Āyurvedic model, ojas is the <em>finest product</em> of digestion — the concentrated essence of all the body's seven dhātus (tissues). Sexual activity expends ojas. When ojas is depleted, the body becomes vulnerable to disease, aging, and mental dullness. When ojas is conserved, the body glows with health, the mind is clear, and the spirit is strong. The Yoga tradition similarly teaches that <strong>ūrdhva-retas</strong> (upward flow of sexual energy) is essential for higher spiritual experiences. The kuṇḍalinī tradition describes sexual energy as the same force that, when redirected upward through the suṣumnā nāḍī, activates the higher chakras and leads to samādhi. The Prashna's teaching is the <em>earliest</em> version of this insight: vital energy (Prāṇa) should not be 'scattered' (praskandita) during the wrong phase of the cosmic cycle. The emphasis is not on guilt or sin but on <strong>energy management</strong> — a remarkably modern, pragmatic approach to a topic often shrouded in moralism."
+      }
     ]
   },
   {
@@ -528,12 +874,24 @@
     "hi": "अन्न (भोजन) ही प्रजापति है; उसी से रेतस् (वीर्य / बीज) उत्पन्न होता है; उसी से ये प्रजाएँ (जीव) उत्पन्न होती हैं।",
     "en": "Food (anna) indeed is Prajāpati; from that comes seed (retas); from that these creatures are born.",
     "ws": [
-      {"s": "अन्नम् (annam)", "h": "अन्न — भोजन / आहार", "e": "food — from √ad (to eat); food is the material basis of all life; here identified with Prajāpati because it is the substance from which bodies and progeny arise"},
-      {"s": "रेतः (retaḥ)", "h": "रेतस् — वीर्य / प्रजनन-बीज", "e": "seed / semen — retas (from √rī, to flow); the generative substance; food transforms into bodily tissues and ultimately into the seed of reproduction"},
-      {"s": "प्रजायन्ते (prajāyante)", "h": "उत्पन्न होती हैं / जन्म लेती हैं", "e": "are born — pra + √jan; the cycle: food → seed → creatures"}
+      {
+        "s": "अन्नम्",
+        "h": "अन्न — भोजन / आहार",
+        "e": "food"
+      },
+      {
+        "s": "रेतः",
+        "h": "रेतस् — वीर्य / प्रजनन-बीज",
+        "e": "seed / semen"
+      },
+      {
+        "s": "प्रजायन्ते",
+        "h": "उत्पन्न होती हैं / जन्म लेती हैं",
+        "e": "are born"
+      }
     ],
     "gr": "<strong>annaṁ vai prajāpatiḥ</strong> — 'food is Prajāpati': the identification shifts from cosmic (sun, moon, year) to <em>material</em> — food is the creative principle at the physical level. <strong>tataḥ retaḥ</strong> — 'from that comes seed': this is the Āyurvedic chain in embryo: food → bodily tissues (dhātus) → retas (seed/semen). The body transforms food into the generative substance. <strong>tasmāt imāḥ prajāḥ prajāyante</strong> — 'from that these creatures are born': the complete cycle — food becomes seed, seed becomes creatures, creatures eat food, food becomes seed again. This is the Rayi-principle at its most concrete: matter circulating through forms.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.14 — The identification anna = Prajāpati connects to the Taittirīya Upanishad's celebrated declaration (3.2): 'annaṁ brahmeti vyajānāt / annād dhi eva khalv imāni bhūtāni jāyante' — 'He understood: food is Brahman. From food indeed all these beings are born.' The anna-retas-prajā chain (food → seed → offspring) is the biological version of the Prāṇa-Rayi cosmology: food (Rayi/matter) is the material substrate from which life (Prāṇa) propagates. This also echoes the Chāndogya (6.2.1-4): Uddalaka's teaching that from food comes retas, from retas comes beings.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -555,8 +913,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is food identified with Prajāpati?", "a": "The identification <strong>anna = Prajāpati</strong> (food = the creator) is one of the boldest claims in Upanishadic philosophy. It means: <strong>the creator-principle operates through food</strong>. This is not metaphor — it is literal. <strong>Food is the material substrate of all life</strong>. Every living body is made of food. Every cell is built from digested nutrients. Every generation is produced by bodies that were themselves built from food. The chain is: earth → plants (through rain and sunlight) → food → body → seed → offspring → food again. The <strong>Taittirīya Upanishad</strong> develops this insight into its most famous teaching: '<em>annaṁ brahmeti vyajānāt</em>' — Bhrigu realised: 'Food is Brahman' (3.2). '<em>annād dhi eva khalv imāni bhūtāni jāyante / annena jātāni jīvanti / annaṁ prayanty abhisaṁviśanti</em>' — 'From food all beings are born; by food they live; into food they pass at death' (2.2). The philosophical force: <strong>the most ordinary, humble substance — the food on your plate — is the creative power of the universe in its most concrete form</strong>. This teaching prevents any easy separation of 'spiritual' from 'material.' If food is Prajāpati, then eating is a sacred act, farming is a sacred occupation, and the body (made of food) is a sacred vessel."},
-      {"q": "🔍 What is the food → seed → offspring chain?", "a": "The chain <strong>anna → retas → prajā</strong> (food → seed → offspring) describes the <strong>biological mechanism of creation</strong> at the physical level. In <strong>Āyurvedic physiology</strong>, this chain is elaborated as the <strong>dhātu-transformation sequence</strong>: food (anna) is digested and progressively refined through <strong>seven tissue-layers (sapta-dhātu)</strong>: rasa (chyle) → rakta (blood) → māṁsa (muscle) → meda (fat) → asthi (bone) → majjā (marrow) → <strong>śukra/retas</strong> (reproductive tissue/seed). Each dhātu feeds the next; the finest product of the entire chain is the generative seed. From seed comes offspring (prajā), and the cycle continues. This model implies that <strong>reproductive capacity is the culmination of the entire digestive process</strong> — and therefore depends on the quality and quantity of food consumed. It also implies that <strong>food quality directly affects offspring quality</strong> — a principle embedded in Āyurvedic prenatal care (garbha-saṁskāra). The Upanishad's insight, expressed in one compact verse, anticipates millennia of Indian medical and philosophical thought about the relationship between nutrition, vitality, and procreation."}
+      {
+        "q": "🔍 Why is food identified with Prajāpati?",
+        "a": "The identification <strong>anna = Prajāpati</strong> (food = the creator) is one of the boldest claims in Upanishadic philosophy. It means: <strong>the creator-principle operates through food</strong>. This is not metaphor — it is literal. <strong>Food is the material substrate of all life</strong>. Every living body is made of food. Every cell is built from digested nutrients. Every generation is produced by bodies that were themselves built from food. The chain is: earth → plants (through rain and sunlight) → food → body → seed → offspring → food again. The <strong>Taittirīya Upanishad</strong> develops this insight into its most famous teaching: '<em>annaṁ brahmeti vyajānāt</em>' — Bhrigu realised: 'Food is Brahman' (3.2). '<em>annād dhi eva khalv imāni bhūtāni jāyante / annena jātāni jīvanti / annaṁ prayanty abhisaṁviśanti</em>' — 'From food all beings are born; by food they live; into food they pass at death' (2.2). The philosophical force: <strong>the most ordinary, humble substance — the food on your plate — is the creative power of the universe in its most concrete form</strong>. This teaching prevents any easy separation of 'spiritual' from 'material.' If food is Prajāpati, then eating is a sacred act, farming is a sacred occupation, and the body (made of food) is a sacred vessel."
+      },
+      {
+        "q": "🔍 What is the food → seed → offspring chain?",
+        "a": "The chain <strong>anna → retas → prajā</strong> (food → seed → offspring) describes the <strong>biological mechanism of creation</strong> at the physical level. In <strong>Āyurvedic physiology</strong>, this chain is elaborated as the <strong>dhātu-transformation sequence</strong>: food (anna) is digested and progressively refined through <strong>seven tissue-layers (sapta-dhātu)</strong>: rasa (chyle) → rakta (blood) → māṁsa (muscle) → meda (fat) → asthi (bone) → majjā (marrow) → <strong>śukra/retas</strong> (reproductive tissue/seed). Each dhātu feeds the next; the finest product of the entire chain is the generative seed. From seed comes offspring (prajā), and the cycle continues. This model implies that <strong>reproductive capacity is the culmination of the entire digestive process</strong> — and therefore depends on the quality and quantity of food consumed. It also implies that <strong>food quality directly affects offspring quality</strong> — a principle embedded in Āyurvedic prenatal care (garbha-saṁskāra). The Upanishad's insight, expressed in one compact verse, anticipates millennia of Indian medical and philosophical thought about the relationship between nutrition, vitality, and procreation."
+      }
     ]
   },
   {
@@ -566,12 +930,24 @@
     "hi": "जो प्रजापतिव्रत (प्रजापति का व्रत — गृहस्थ-धर्म) का पालन करते हैं, वे मिथुन (सन्तान-युगल) उत्पन्न करते हैं। जिनमें तप, ब्रह्मचर्य और सत्य प्रतिष्ठित (स्थापित) हैं — उन्हीं का यह ब्रह्मलोक है।",
     "en": "Those who observe the Prajāpati-vow (the householder's discipline) produce offspring. For those in whom austerity, celibacy, and truth are established — for them alone is this world of Brahman.",
     "ws": [
-      {"s": "प्रजापतिव्रतम् (prājāpati-vratam)", "h": "प्रजापतिव्रत — प्रजापति का व्रत / गृहस्थ-धर्म", "e": "the vow of Prajāpati — the disciplined householder life: producing offspring according to cosmic law (proper time, purity, alignment with Prāṇa-Rayi rhythms)"},
-      {"s": "मिथुनम् उत्पादयन्ते (mithunaṁ utpādayante)", "h": "मिथुन (जोड़ा / सन्तान) उत्पन्न करते हैं", "e": "they produce a pair / offspring — continuing the cosmic process of creation through disciplined procreation"},
-      {"s": "सत्यम् प्रतिष्ठितम् (satyaṁ pratiṣṭhitam)", "h": "सत्य प्रतिष्ठित (स्थापित) है", "e": "truth is established — satya (truth) + pratiṣṭhita (firmly established); truth must be the foundation, not merely an aspiration"}
+      {
+        "s": "प्रजापतिव्रतम्",
+        "h": "प्रजापतिव्रत — प्रजापति का व्रत / गृहस्थ-धर्म",
+        "e": "the vow of Prajāpati"
+      },
+      {
+        "s": "मिथुनम् उत्पादयन्ते",
+        "h": "मिथुन (जोड़ा / सन्तान) उत्पन्न करते हैं",
+        "e": "they produce a pair / offspring"
+      },
+      {
+        "s": "सत्यम् प्रतिष्ठितम्",
+        "h": "सत्य प्रतिष्ठित (स्थापित) है",
+        "e": "truth is established"
+      }
     ],
     "gr": "<strong>prājāpati-vratam</strong> — 'the Prajāpati-vow': the disciplined householder life — producing offspring not for pleasure but as a <em>cosmic duty</em>, in alignment with the Prāṇa-Rayi rhythms taught in this question. <strong>te mithunaṁ utpādayante</strong> — 'they produce a pair': continuing Prajāpati's original act (mantra 4) — 'these two will make manifold creatures for me.' The householder participates in the cosmic creative process. <strong>teṣām eva eṣaḥ brahma-lokaḥ</strong> — 'for them alone is the Brahma-world': but this reward is conditional — not on having children but on having <strong>tapas, brahmacarya, and satya</strong> as foundations. Children without virtue earn no Brahma-world.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.15 — This verse bridges the householder path (prājāpati-vrata) and the liberation path (brahma-loka). The three qualifications — tapas, brahmacarya, satya — echo mantra 2's prerequisites (tapas, brahmacarya, śraddhā), with 'satya' (truth) replacing 'śraddhā' (faith). The Muṇḍaka (3.1.5) has a parallel: 'satyena labhyas tapasā hy eṣa ātmā' — 'This Self is attained by truth and by tapas.' The Chāndogya (8.3.5) similarly: 'satyam eva jayati nānṛtam' — 'Truth alone triumphs, not falsehood' (later adopted as India's national motto: Satyameva Jayate).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -593,8 +969,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What is the 'Prajāpati-vow' (prājāpati-vrata)?", "a": "The <strong>prājāpati-vrata</strong> is the <em>disciplined householder's life</em> — the life of one who participates in Prajāpati's creative act through procreation while maintaining spiritual discipline. It is the <strong>gṛhastha-dharma</strong> (householder's duty) elevated to a cosmic vow. The vow includes: (1) <strong>Procreation as duty</strong>: producing offspring is not merely personal — it is participation in the cosmic creative process. Prajāpati desired offspring (prajā-kāma, mantra 4); the householder continues this work. (2) <strong>Cosmic alignment</strong>: conjugal life follows the rhythms of Prāṇa-Rayi (night, not day; proper season; with purity). (3) <strong>Three foundations</strong>: tapas (austerity — the householder's life is not luxurious), brahmacarya (continence — sexual activity is disciplined, not indiscriminate), satya (truth — the household is founded on honesty, integrity, and authenticity). The <strong>remarkable implication</strong>: the householder's path can lead to Brahma-loka — the same destination as the renunciant's. This is a powerful validation of the <em>gṛhastha-āśrama</em> in a tradition that often privileges renunciation."},
-      {"q": "🔍 What is the role of 'satya' (truth) in liberation?", "a": "The verse lists <strong>satya</strong> (truth) as the third and culminating foundation — 'yeṣu satyaṁ pratiṣṭhitam' ('in whom truth is established'). Truth occupies a unique position in Upanishadic ethics: it is not merely one virtue among many but the <strong>structural foundation of reality itself</strong>. The <strong>Bṛhadāraṇyaka Upanishad (5.5.1)</strong> declares: '<em>satyam ity etat / tad yat sat tyad ity etat / sat itaro ayat iti tat satyam</em>' — 'Truth — that which is real (sat) and vital (tya) — that is truth.' The <strong>Muṇḍaka (3.1.5)</strong> makes it a prerequisite for Self-knowledge: '<em>satyena labhyas tapasā hy eṣa ātmā</em>' — 'This Self is attained by truth and by tapas.' The <strong>Chāndogya (8.3.5)</strong> gives the formula later adopted as India's national motto: '<em>satyam eva jayati nānṛtam</em>' — 'Truth alone triumphs, not falsehood.' In this verse, truth 'established' (pratiṣṭhita) means truth has become the seeker's <em>ground</em> — not an occasional practice but a constitutional state. Such a person does not 'tell the truth' — they <em>are</em> truth. For them, Brahma-loka is not a distant reward but a present reality."}
+      {
+        "q": "🔍 What is the 'Prajāpati-vow' (prājāpati-vrata)?",
+        "a": "The <strong>prājāpati-vrata</strong> is the <em>disciplined householder's life</em> — the life of one who participates in Prajāpati's creative act through procreation while maintaining spiritual discipline. It is the <strong>gṛhastha-dharma</strong> (householder's duty) elevated to a cosmic vow. The vow includes: (1) <strong>Procreation as duty</strong>: producing offspring is not merely personal — it is participation in the cosmic creative process. Prajāpati desired offspring (prajā-kāma, mantra 4); the householder continues this work. (2) <strong>Cosmic alignment</strong>: conjugal life follows the rhythms of Prāṇa-Rayi (night, not day; proper season; with purity). (3) <strong>Three foundations</strong>: tapas (austerity — the householder's life is not luxurious), brahmacarya (continence — sexual activity is disciplined, not indiscriminate), satya (truth — the household is founded on honesty, integrity, and authenticity). The <strong>remarkable implication</strong>: the householder's path can lead to Brahma-loka — the same destination as the renunciant's. This is a powerful validation of the <em>gṛhastha-āśrama</em> in a tradition that often privileges renunciation."
+      },
+      {
+        "q": "🔍 What is the role of 'satya' (truth) in liberation?",
+        "a": "The verse lists <strong>satya</strong> (truth) as the third and culminating foundation — 'yeṣu satyaṁ pratiṣṭhitam' ('in whom truth is established'). Truth occupies a unique position in Upanishadic ethics: it is not merely one virtue among many but the <strong>structural foundation of reality itself</strong>. The <strong>Bṛhadāraṇyaka Upanishad (5.5.1)</strong> declares: '<em>satyam ity etat / tad yat sat tyad ity etat / sat itaro ayat iti tat satyam</em>' — 'Truth — that which is real (sat) and vital (tya) — that is truth.' The <strong>Muṇḍaka (3.1.5)</strong> makes it a prerequisite for Self-knowledge: '<em>satyena labhyas tapasā hy eṣa ātmā</em>' — 'This Self is attained by truth and by tapas.' The <strong>Chāndogya (8.3.5)</strong> gives the formula later adopted as India's national motto: '<em>satyam eva jayati nānṛtam</em>' — 'Truth alone triumphs, not falsehood.' In this verse, truth 'established' (pratiṣṭhita) means truth has become the seeker's <em>ground</em> — not an occasional practice but a constitutional state. Such a person does not 'tell the truth' — they <em>are</em> truth. For them, Brahma-loka is not a distant reward but a present reality."
+      }
     ]
   },
   {
@@ -604,13 +986,29 @@
     "hi": "उनका वह विरज (निष्कलंक, रज-रहित) ब्रह्मलोक है, जिनमें न जिह्म (कुटिलता) है, न अनृत (असत्य) है, और न माया (छल/कपट) है।",
     "en": "For them is that stainless (viraja) world of Brahman — for those in whom there is no crookedness (jihma), no falsehood (anṛta), and no deception (māyā).",
     "ws": [
-      {"s": "विरजः (virajaḥ)", "h": "विरज — रज-रहित / निष्कलंक / शुद्ध", "e": "stainless — vi + rajas (impurity/passion); free from all taint; the Brahma-world is pure, untouched by the three guṇas"},
-      {"s": "जिह्मम् (jihmam)", "h": "जिह्म — कुटिलता / टेढ़ापन", "e": "crookedness — jihma (crooked, oblique); dishonesty of conduct, indirectness, evasion"},
-      {"s": "अनृतम् (anṛtam)", "h": "अनृत — असत्य / मिथ्या", "e": "falsehood — an + ṛta (that which is not in accord with cosmic truth); lying, misrepresentation"},
-      {"s": "माया (māyā)", "h": "माया — छल / कपट / प्रपंच", "e": "deception / guile — māyā here means deliberate deceit/fraud (not the cosmic māyā of Advaita); trickery in dealings with others"}
+      {
+        "s": "विरजः",
+        "h": "विरज — रज-रहित / निष्कलंक / शुद्ध",
+        "e": "stainless"
+      },
+      {
+        "s": "जिह्मम्",
+        "h": "जिह्म — कुटिलता / टेढ़ापन",
+        "e": "crookedness"
+      },
+      {
+        "s": "अनृतम्",
+        "h": "अनृत — असत्य / मिथ्या",
+        "e": "falsehood"
+      },
+      {
+        "s": "माया",
+        "h": "माया — छल / कपट / प्रपंच",
+        "e": "deception / guile"
+      }
     ],
     "gr": "<strong>virajaḥ brahma-lokaḥ</strong> — 'the stainless Brahma-world': vi-rajas means 'free from rajas' — the cosmic impurity of passion, restlessness, and attachment. This world is <em>pure</em> in the ontological sense. <strong>Three disqualifiers</strong>: jihma (crookedness — moral obliquity), anṛta (falsehood — lying), māyā (deception — guile/fraud). The three form a descending series of dishonesty: crookedness → lying → active deception. <strong>The negative phrasing</strong> is significant: the Upanishad does not list virtues to <em>acquire</em> but vices to <em>eliminate</em>. The Brahma-world is already yours — you simply need to remove the disqualifications. This is the concluding verse of Question 1 — the answer is complete.",
-    "mt": "REVIEW_NEEDED: prashna_upanishad_1.16 — This is the final verse of Question 1. The three disqualifiers — jihma, anṛta, māyā — form an ethical triad that complements the spiritual triad of tapas, brahmacarya, satya in the previous verse. The word 'māyā' here means deception/guile (interpersonal trickery), NOT the cosmic illusion of Advaita philosophy — that usage developed later. The Chāndogya (8.1.6) has a similar passage: 'na ha vā atrāpadāṁ jayaḥ / na jihmaṁ na māyā' — 'There (in the Brahma-city within the heart) is no place for sorrow; there is no crookedness, no deception.' The Muṇḍaka (3.1.8) echoes: 'nāyam ātmā pravacanena labhyo na medhayā' — the Self is not attained by speech (which can be false) or by cleverness (which can be deceptive) but only by the one whom it chooses — and it chooses the truthful.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -632,8 +1030,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What are the three disqualifications — jihma, anṛta, māyā?", "a": "The three vices listed as disqualifiers from Brahma-loka form a <strong>descending series of dishonesty</strong>: (1) <strong>Jihma</strong> (crookedness): the subtlest form — moral obliquity, indirectness, evasion. Not outright lying, but <em>not being straight</em>. Saying one thing and meaning another. Letting people draw false conclusions without technically lying. The crooked person is not a liar — he is worse: he is a manipulator. (2) <strong>Anṛta</strong> (falsehood): direct lying — saying what is not true. This is more obvious than jihma but still involves the <em>intention</em> to deceive. Anṛta is the opposite of <em>ṛta</em> (cosmic truth/order); to lie is to act against the grain of reality itself. (3) <strong>Māyā</strong> (deception/guile): active, deliberate fraud — constructing elaborate deceptions to mislead others. Note: 'māyā' here does NOT mean the cosmic illusion of Advaita philosophy (that technical usage developed later). Here it means <strong>interpersonal trickery</strong> — cheating, scheming, double-dealing. The three vices correspond to <em>three levels of dishonesty</em>: thought (jihma — crooked thinking), speech (anṛta — lying), and action (māyā — deceptive conduct). The Upanishad's message: <strong>total transparency</strong> is the prerequisite for the stainless world."},
-      {"q": "🔍 How does Question 1 answer 'Where do creatures come from?'", "a": "Question 1 asked: '<em>kutaḥ imāḥ prajāḥ prajāyante</em>' — 'From where are creatures born?' Pippalāda's answer unfolds across 14 verses and is comprehensive: <strong>The ultimate source</strong>: Prajāpati, desiring offspring, performed tapas and produced a <strong>pair</strong> — Prāṇa (life-force/sun) and Rayi (matter/moon). All creatures arise from the interaction of these two principles (mantra 4). <strong>The cosmic mechanism</strong>: the sun (Prāṇa) energises all beings through its rays in all directions (mantras 5-8). The Vaiśvānara fire — universal, all-formed — is the visible manifestation of this Prāṇa (mantras 7-8). <strong>The two paths</strong>: creatures born from this process follow two paths after death — the pitṛyāṇa (path of Rayi, return) for those who rely on ritual alone, and the devayāna (path of Prāṇa, no return) for those who add knowledge (vidyā) to their practice (mantras 9-10). <strong>The practical applications</strong>: the Prāṇa-Rayi framework applies to the year (uttarāyaṇa/dakṣiṇāyana), the month (bright/dark fortnight), the day (day/night), and even to food and procreation (mantras 11-14). <strong>The ethical condition</strong>: the stainless Brahma-world is available only to those free from crookedness, falsehood, and deception (mantras 15-16). The answer is thus both <strong>cosmological</strong> (where creatures come from) and <strong>soteriological</strong> (where creatures can go)."}
+      {
+        "q": "🔍 What are the three disqualifications — jihma, anṛta, māyā?",
+        "a": "The three vices listed as disqualifiers from Brahma-loka form a <strong>descending series of dishonesty</strong>: (1) <strong>Jihma</strong> (crookedness): the subtlest form — moral obliquity, indirectness, evasion. Not outright lying, but <em>not being straight</em>. Saying one thing and meaning another. Letting people draw false conclusions without technically lying. The crooked person is not a liar — he is worse: he is a manipulator. (2) <strong>Anṛta</strong> (falsehood): direct lying — saying what is not true. This is more obvious than jihma but still involves the <em>intention</em> to deceive. Anṛta is the opposite of <em>ṛta</em> (cosmic truth/order); to lie is to act against the grain of reality itself. (3) <strong>Māyā</strong> (deception/guile): active, deliberate fraud — constructing elaborate deceptions to mislead others. Note: 'māyā' here does NOT mean the cosmic illusion of Advaita philosophy (that technical usage developed later). Here it means <strong>interpersonal trickery</strong> — cheating, scheming, double-dealing. The three vices correspond to <em>three levels of dishonesty</em>: thought (jihma — crooked thinking), speech (anṛta — lying), and action (māyā — deceptive conduct). The Upanishad's message: <strong>total transparency</strong> is the prerequisite for the stainless world."
+      },
+      {
+        "q": "🔍 How does Question 1 answer 'Where do creatures come from?'",
+        "a": "Question 1 asked: '<em>kutaḥ imāḥ prajāḥ prajāyante</em>' — 'From where are creatures born?' Pippalāda's answer unfolds across 14 verses and is comprehensive: <strong>The ultimate source</strong>: Prajāpati, desiring offspring, performed tapas and produced a <strong>pair</strong> — Prāṇa (life-force/sun) and Rayi (matter/moon). All creatures arise from the interaction of these two principles (mantra 4). <strong>The cosmic mechanism</strong>: the sun (Prāṇa) energises all beings through its rays in all directions (mantras 5-8). The Vaiśvānara fire — universal, all-formed — is the visible manifestation of this Prāṇa (mantras 7-8). <strong>The two paths</strong>: creatures born from this process follow two paths after death — the pitṛyāṇa (path of Rayi, return) for those who rely on ritual alone, and the devayāna (path of Prāṇa, no return) for those who add knowledge (vidyā) to their practice (mantras 9-10). <strong>The practical applications</strong>: the Prāṇa-Rayi framework applies to the year (uttarāyaṇa/dakṣiṇāyana), the month (bright/dark fortnight), the day (day/night), and even to food and procreation (mantras 11-14). <strong>The ethical condition</strong>: the stainless Brahma-world is available only to those free from crookedness, falsehood, and deception (mantras 15-16). The answer is thus both <strong>cosmological</strong> (where creatures come from) and <strong>soteriological</strong> (where creatures can go)."
+      }
     ]
   }
 ]

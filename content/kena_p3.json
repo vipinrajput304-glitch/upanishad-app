@@ -6,14 +6,34 @@
     "hi": "तब उन्होंने इन्द्र से कहा: 'हे मघवन्! यह पता लगाओ कि यह यक्ष कौन है।' इन्द्र ने कहा: 'ठीक है।'",
     "en": "Then they said to Indra: 'O Maghavan, find out what this spirit (yakṣa) is.' He replied: 'So be it.'",
     "ws": [
-      {"s": "अथ (atha)", "h": "तत्पश्चात्, तब", "e": "then — transitional particle; marks the shift to the third and final test"},
-      {"s": "इन्द्रम् (indram)", "h": "इन्द्र को", "e": "to Indra — accusative singular; king of the gods, lord of the mind-faculty"},
-      {"s": "मघवन् (maghavan)", "h": "हे उदार, हे मघवन्!", "e": "O bountiful one! — vocative of maghavat, Indra's epithet meaning 'the generous, the mighty'"},
-      {"s": "विजानीहि (vijānīhi)", "h": "पता लगाओ, विशेष रूप से जानो", "e": "find out! — imperative 2nd sg. of vi+√jñā ('to discern thoroughly')"},
-      {"s": "तथा इति (tathā iti)", "h": "ऐसा ही होगा", "e": "'So be it' — the formulaic Vedic assent, same as Agni's and Vayu's"}
+      {
+        "s": "अथ",
+        "h": "तत्पश्चात्, तब",
+        "e": "then"
+      },
+      {
+        "s": "इन्द्रम्",
+        "h": "इन्द्र को",
+        "e": "to Indra"
+      },
+      {
+        "s": "मघवन्",
+        "h": "हे उदार, हे मघवन्!",
+        "e": "O bountiful one!"
+      },
+      {
+        "s": "विजानीहि",
+        "h": "पता लगाओ, विशेष रूप से जानो",
+        "e": "find out!"
+      },
+      {
+        "s": "तथा इति",
+        "h": "ऐसा ही होगा",
+        "e": "'So be it'"
+      }
     ],
     "gr": "<strong>atha</strong> — the third 'atha' in the narrative (Agni, Vayu, now Indra), each introducing a new test. <strong>maghavan</strong> — vocative of maghavat; unlike Agni's 'Jātaveda' and Vayu's 'Vāyo,' this epithet means 'the bountiful, the generous giver' — emphasising Indra's role as the lord who bestows. <strong>vijānīhi</strong> — identical imperative as given to Agni and Vayu: the test-format is structurally the same, which will make Indra's different outcome all the more significant.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.1 — The third sending follows the identical pattern as Agni and Vayu, but the outcome will diverge: the Yaksha vanishes before Indra can even speak to it. The mind (Indra) comes closest but cannot arrive at Brahman through its own investigation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -35,8 +55,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is Indra called 'Maghavan' (bountiful) rather than by his war-titles?", "a": "Each god is addressed by their grandest Vedic epithet: Agni as <strong>Jātaveda</strong> ('knower of all born'), Vayu as <strong>Vāyo</strong> (direct vocative), and Indra as <strong>Maghavan</strong> ('the bountiful, the generous'). The choice is significant: the Upanishad does not call Indra 'Vajrapāṇi' (thunderbolt-wielder) or 'Vṛtrahan' (slayer of Vṛtra) — it uses his role as the bestower of gifts. This subtly points to what Indra will ultimately learn: that all bounty comes from Brahman, and the true giver is not Indra but the power behind Indra."},
-      {"q": "🔍 What is the significance of the three-test structure (Agni → Vayu → Indra)?", "a": "The three tests map a hierarchy of faculties. <strong>Agni</strong> (speech/transformation) is the most material; <strong>Vayu</strong> (breath/life-force) is subtler; <strong>Indra</strong> (mind/illumination) is subtlest. The Upanishad moves from gross to subtle, showing that the failure is not due to crudeness but is structural at every level. Agni's fire cannot burn Brahman's grass; Vayu's wind cannot move it; and Indra's mind — the most refined faculty — cannot even confront the Yaksha, which vanishes before him. Each test demonstrates the principle of Part 1 more precisely: 'That which is not thought by the mind, but by which the mind thinks.'"}
+      {
+        "q": "🔍 Why is Indra called 'Maghavan' (bountiful) rather than by his war-titles?",
+        "a": "Each god is addressed by their grandest Vedic epithet: Agni as <strong>Jātaveda</strong> ('knower of all born'), Vayu as <strong>Vāyo</strong> (direct vocative), and Indra as <strong>Maghavan</strong> ('the bountiful, the generous'). The choice is significant: the Upanishad does not call Indra 'Vajrapāṇi' (thunderbolt-wielder) or 'Vṛtrahan' (slayer of Vṛtra) — it uses his role as the bestower of gifts. This subtly points to what Indra will ultimately learn: that all bounty comes from Brahman, and the true giver is not Indra but the power behind Indra."
+      },
+      {
+        "q": "🔍 What is the significance of the three-test structure (Agni → Vayu → Indra)?",
+        "a": "The three tests map a hierarchy of faculties. <strong>Agni</strong> (speech/transformation) is the most material; <strong>Vayu</strong> (breath/life-force) is subtler; <strong>Indra</strong> (mind/illumination) is subtlest. The Upanishad moves from gross to subtle, showing that the failure is not due to crudeness but is structural at every level. Agni's fire cannot burn Brahman's grass; Vayu's wind cannot move it; and Indra's mind — the most refined faculty — cannot even confront the Yaksha, which vanishes before him. Each test demonstrates the principle of Part 1 more precisely: 'That which is not thought by the mind, but by which the mind thinks.'"
+      }
     ]
   },
   {
@@ -46,12 +72,24 @@
     "hi": "वह (इन्द्र) उसकी ओर दौड़ा। परन्तु वह (यक्ष) उसके सम्मुख से अन्तर्धान हो गया।",
     "en": "He (Indra) rushed toward it. It vanished from before him.",
     "ws": [
-      {"s": "अभ्यद्रवत् (abhyadravat)", "h": "दौड़ा, तीव्र गति से गया", "e": "rushed toward — imperfect of abhi+√dru ('to run toward'); same verb used for Agni and Vayu"},
-      {"s": "तस्मात् (tasmāt)", "h": "उसके (इन्द्र के) सम्मुख से", "e": "from before him — ablative singular: 'away from him'"},
-      {"s": "तिरोदधे (tirodadhe)", "h": "अन्तर्धान हो गया, छिप गया", "e": "vanished — perfect middle of tiras+√dhā ('to place beyond sight, make invisible')"}
+      {
+        "s": "अभ्यद्रवत्",
+        "h": "दौड़ा, तीव्र गति से गया",
+        "e": "rushed toward"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "उसके (इन्द्र के) सम्मुख से",
+        "e": "from before him"
+      },
+      {
+        "s": "तिरोदधे",
+        "h": "अन्तर्धान हो गया, छिप गया",
+        "e": "vanished"
+      }
     ],
     "gr": "<strong>abhyadravat</strong> — the same verb used for Agni (mantra 12) and Vayu (mantra 15): the narrative structure is identical up to this exact point. <strong>tirodadhe</strong> — tiras ('across, beyond') + √dhā ('to place'): literally 'placed itself beyond.' The middle voice indicates the Yaksha removes itself. This is the narrative rupture — where Agni and Vayu received a challenge ('Burn this!' / 'Carry this!'), Indra receives absence.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.2 — The shortest and most profound moment of the entire narrative. The Yaksha's vanishing is the teaching itself: Brahman cannot be an object of the investigating mind. Where Agni and Vayu were tested and failed, Indra is denied even the opportunity to be tested.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -73,8 +111,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the Yaksha vanish for Indra but not for Agni and Vayu?", "a": "Agni and Vayu are faculties of action — burning and carrying. They can be tested within their own domain: 'Burn this grass,' 'Carry this grass.' The test fails but the encounter proceeds. <strong>Indra</strong> (the mind) is the faculty of knowing itself. The mind's 'action' is to apprehend an object — and this is precisely what cannot happen with Brahman. If the Yaksha stayed and presented a test, mind could treat it as an object and extract information — a kind of 'knowing.' The vanishing closes this last door: Brahman cannot be encountered as an item in the field of mental perception. The vanishing <em>is</em> the test — and the test is: what do you do when the object of your search disappears?"},
-      {"q": "🔍 What does the word 'tirodadhe' (vanished) reveal?", "a": "The verb <strong>tirodadhe</strong> — from tiras+√dhā — means literally 'placed itself across, beyond sight.' It is in the <em>middle voice</em> (ātmanepada): the Yaksha does this to itself, by its own will, for its own purpose. Brahman is not hiding — it is showing, through its very disappearance, that it is not the kind of thing that can be 'found' by investigation. This is the Upanishad's most compressed teaching: in two words (tasmāt tirodadhe), the entire epistemology of Part 1 is enacted. 'That which cannot be spoken by speech, thought by mind, seen by the eye' — here it vanishes from the mind's approach."}
+      {
+        "q": "🔍 Why does the Yaksha vanish for Indra but not for Agni and Vayu?",
+        "a": "Agni and Vayu are faculties of action — burning and carrying. They can be tested within their own domain: 'Burn this grass,' 'Carry this grass.' The test fails but the encounter proceeds. <strong>Indra</strong> (the mind) is the faculty of knowing itself. The mind's 'action' is to apprehend an object — and this is precisely what cannot happen with Brahman. If the Yaksha stayed and presented a test, mind could treat it as an object and extract information — a kind of 'knowing.' The vanishing closes this last door: Brahman cannot be encountered as an item in the field of mental perception. The vanishing <em>is</em> the test — and the test is: what do you do when the object of your search disappears?"
+      },
+      {
+        "q": "🔍 What does the word 'tirodadhe' (vanished) reveal?",
+        "a": "The verb <strong>tirodadhe</strong> — from tiras+√dhā — means literally 'placed itself across, beyond sight.' It is in the <em>middle voice</em> (ātmanepada): the Yaksha does this to itself, by its own will, for its own purpose. Brahman is not hiding — it is showing, through its very disappearance, that it is not the kind of thing that can be 'found' by investigation. This is the Upanishad's most compressed teaching: in two words (tasmāt tirodadhe), the entire epistemology of Part 1 is enacted. 'That which cannot be spoken by speech, thought by mind, seen by the eye' — here it vanishes from the mind's approach."
+      }
     ]
   },
   {
@@ -84,14 +128,34 @@
     "hi": "उसी आकाश (रिक्त स्थान) में उसे (इन्द्र को) एक अत्यन्त शोभायमान स्त्री के दर्शन हुए — उमा हैमवती।",
     "en": "In that very space he came upon a woman of exceeding radiance — Uma Haimavati.",
     "ws": [
-      {"s": "तस्मिन् एव आकाशे (tasmin eva ākāśe)", "h": "उसी आकाश/रिक्त स्थान में", "e": "in that very space — locative: the same place where the Yaksha stood and vanished"},
-      {"s": "स्त्रियम् (striyam)", "h": "स्त्री को, एक नारी को", "e": "a woman — accusative singular feminine (< strī, 'woman')"},
-      {"s": "आजगाम (ājagāma)", "h": "उसने प्राप्त किया, उसे पाया", "e": "he came upon, encountered — perfect of ā+√gam ('to come to, arrive at')"},
-      {"s": "बहुशोभमानाम् (bahuśobhamānām)", "h": "अत्यन्त शोभायमान, अतिसुन्दर", "e": "exceedingly radiant — accusative feminine present participle of bahu+√śubh ('to shine greatly')"},
-      {"s": "उमाम् हैमवतीम् (umām haimavatīm)", "h": "उमा हैमवती — हिमालय की पुत्री", "e": "Uma Haimavati — accusative; daughter of Himavat (the Himalayas); identified with Brahmavidyā (knowledge of Brahman)"}
+      {
+        "s": "तस्मिन् एव आकाशे",
+        "h": "उसी आकाश/रिक्त स्थान में",
+        "e": "in that very space"
+      },
+      {
+        "s": "स्त्रियम्",
+        "h": "स्त्री को, एक नारी को",
+        "e": "a woman"
+      },
+      {
+        "s": "आजगाम",
+        "h": "उसने प्राप्त किया, उसे पाया",
+        "e": "he came upon, encountered"
+      },
+      {
+        "s": "बहुशोभमानाम्",
+        "h": "अत्यन्त शोभायमान, अतिसुन्दर",
+        "e": "exceedingly radiant"
+      },
+      {
+        "s": "उमाम् हैमवतीम्",
+        "h": "उमा हैमवती — हिमालय की पुत्री",
+        "e": "Uma Haimavati"
+      }
     ],
     "gr": "<strong>tasmin eva ākāśe</strong> — 'in that very space': the 'eva' is emphatic — the exact space where the Yaksha stood. Ākāśa here means both 'open space' and 'the space of consciousness.' <strong>bahuśobhamānām</strong> — present participle of bahu+√śubh: 'shining greatly, exceedingly radiant.' The active participle (-mānā) means her radiance is ongoing, self-luminous — not a reflected beauty. <strong>umām haimavatīm</strong> — two accusatives in apposition: 'Uma' (her name, possibly from √u = 'Oh!', a cry of illumination) and 'Haimavati' (patronymic: 'daughter of Himavat, the snow-mountain').",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.3 — This is the pivotal verse of the entire Kena Upanishad: in the space where Brahman-as-object vanished, Brahman-as-grace appears in the form of Uma Haimavati. The commentarial traditions diverge sharply on who Uma is — Shankara sees Brahmavidyā personified, Ramanuja sees Lakshmi/Shakti, Aurobindo sees the intuitive consciousness beyond mind.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -113,9 +177,18 @@
       }
     },
     "dp": [
-      {"q": "🔍 Who is Uma Haimavati — and why does she appear here?", "a": "This is the most debated identity in the Kena Upanishad. The name <strong>Uma</strong> may derive from several roots: √u (to cry out in wonder), suggesting the exclamation of illumination; or it connects to the later Puranic goddess Parvati, daughter of Himavat. <strong>Haimavati</strong> unambiguously means 'daughter of the snow-mountain.' The commentators split: Shankara says she is <strong>brahmavidyā personified</strong> — knowledge itself taking form in the vacuum left by the Yaksha's disappearance. Ramanuja says she is <strong>Lakshmi</strong> — the divine intercessor who brings the Lord's teaching to souls too limited to receive it directly. Aurobindo says she is <strong>Intuition</strong> — the consciousness beyond mind that opens when mental effort reaches its limit. All three agree on the structural point: Uma appears exactly where the Yaksha vanished. She is not a new arrival — she is what becomes visible when the mind's object-seeking ceases."},
-      {"q": "🔍 What does 'that very space' (tasmin eva ākāśe) mean?", "a": "The phrase <strong>tasmin eva ākāśe</strong> — 'in that very space' — carries immense weight. The <em>same</em> space where the Yaksha stood, the <em>same</em> space from which it vanished, is where Uma appears. The space did not change — what changed was the mode of knowing. When Indra approached as an investigator (seeking to know an object), the space showed absence. When the investigation stopped (the Yaksha is gone, there is nothing to pursue), the space revealed a new presence. <strong>Ākāśa</strong> in Vedantic usage means both 'open space' and 'the space of consciousness' (cidākāśa). The teaching is: Brahman does not come and go — it is always 'in that very space.' What changes is the faculty through which we look. Object-seeking mind finds absence; receptive awareness finds radiance."},
-      {"q": "🔍 What is the meaning of 'bahuśobhamānā' (exceedingly radiant)?", "a": "The participle <strong>bahuśobhamānā</strong> — from bahu ('much, exceedingly') + √śubh ('to shine, be beautiful') — describes Uma as <em>self-luminously radiant</em>. This is not reflected beauty (like moonlight) but self-originating radiance (like sunlight). The present participle (-mānā) indicates an ongoing, continuous shining — she does not begin to shine when Indra arrives; she is always shining. Shankara notes that this self-luminosity is itself the signature of brahmavidyā: true knowledge does not depend on anything external for its light. It is svayaṁprakāśa — self-evident. The gods could not see Uma while the Yaksha was present because they were looking outward at an object; when the object vanished, the self-luminous knowledge that was always there became visible."}
+      {
+        "q": "🔍 Who is Uma Haimavati — and why does she appear here?",
+        "a": "This is the most debated identity in the Kena Upanishad. The name <strong>Uma</strong> may derive from several roots: √u (to cry out in wonder), suggesting the exclamation of illumination; or it connects to the later Puranic goddess Parvati, daughter of Himavat. <strong>Haimavati</strong> unambiguously means 'daughter of the snow-mountain.' The commentators split: Shankara says she is <strong>brahmavidyā personified</strong> — knowledge itself taking form in the vacuum left by the Yaksha's disappearance. Ramanuja says she is <strong>Lakshmi</strong> — the divine intercessor who brings the Lord's teaching to souls too limited to receive it directly. Aurobindo says she is <strong>Intuition</strong> — the consciousness beyond mind that opens when mental effort reaches its limit. All three agree on the structural point: Uma appears exactly where the Yaksha vanished. She is not a new arrival — she is what becomes visible when the mind's object-seeking ceases."
+      },
+      {
+        "q": "🔍 What does 'that very space' (tasmin eva ākāśe) mean?",
+        "a": "The phrase <strong>tasmin eva ākāśe</strong> — 'in that very space' — carries immense weight. The <em>same</em> space where the Yaksha stood, the <em>same</em> space from which it vanished, is where Uma appears. The space did not change — what changed was the mode of knowing. When Indra approached as an investigator (seeking to know an object), the space showed absence. When the investigation stopped (the Yaksha is gone, there is nothing to pursue), the space revealed a new presence. <strong>Ākāśa</strong> in Vedantic usage means both 'open space' and 'the space of consciousness' (cidākāśa). The teaching is: Brahman does not come and go — it is always 'in that very space.' What changes is the faculty through which we look. Object-seeking mind finds absence; receptive awareness finds radiance."
+      },
+      {
+        "q": "🔍 What is the meaning of 'bahuśobhamānā' (exceedingly radiant)?",
+        "a": "The participle <strong>bahuśobhamānā</strong> — from bahu ('much, exceedingly') + √śubh ('to shine, be beautiful') — describes Uma as <em>self-luminously radiant</em>. This is not reflected beauty (like moonlight) but self-originating radiance (like sunlight). The present participle (-mānā) indicates an ongoing, continuous shining — she does not begin to shine when Indra arrives; she is always shining. Shankara notes that this self-luminosity is itself the signature of brahmavidyā: true knowledge does not depend on anything external for its light. It is svayaṁprakāśa — self-evident. The gods could not see Uma while the Yaksha was present because they were looking outward at an object; when the object vanished, the self-luminous knowledge that was always there became visible."
+      }
     ]
   },
   {
@@ -125,12 +198,24 @@
     "hi": "उसने (इन्द्र ने) उनसे कहा: 'वह यक्ष क्या था?'",
     "en": "He (Indra) said to her: 'What was that spirit (yakṣa)?'",
     "ws": [
-      {"s": "ताम् (tām)", "h": "उनसे (उमा से)", "e": "to her — accusative singular feminine pronoun, referring to Uma"},
-      {"s": "ह उवाच (ha uvāca)", "h": "उसने कहा", "e": "he said — ha (emphatic particle) + uvāca (perfect of √vac, 'to speak'); narrative formula"},
-      {"s": "किम् एतद् यक्षम् (kim etad yakṣam)", "h": "वह यक्ष क्या था?", "e": "'What was this Yaksha?' — etad (demonstrative: 'this/that') shows Indra refers to the being that was present and has now vanished"}
+      {
+        "s": "ताम्",
+        "h": "उनसे (उमा से)",
+        "e": "to her"
+      },
+      {
+        "s": "ह उवाच",
+        "h": "उसने कहा",
+        "e": "he said"
+      },
+      {
+        "s": "किम् एतद् यक्षम्",
+        "h": "वह यक्ष क्या था?",
+        "e": "'What was this Yaksha?'"
+      }
     ],
     "gr": "<strong>tāṁ ha uvāca</strong> — the standard Upanishadic narrative formula for introducing a question: 'to her, verily, he said.' <strong>kim etad yakṣam</strong> — identical question to the gods' original in mantra 10, but now asked by Indra alone, and not to the Yaksha but to Uma. The shift in addressee is the entire story: the mind that sought Brahman directly now asks the mediating power of knowledge.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.4 — Indra's question is the hinge between ignorance and knowledge. He asks the right question ('What was that Yaksha?') to the right person (Uma/brahmavidyā). The shift from investigating an object to asking a teacher is the movement from upāsanā to jñāna.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -152,8 +237,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is Indra's question significant compared to the original 'kim idam yakṣam' (mantra 10)?", "a": "In mantra 10, the gods asked each other in bewilderment: 'kim idaṁ yakṣam' — 'What is this Yaksha?' It was a question of puzzled observation, directed at no one with authority. Indra now asks the same question — <strong>kim etad yakṣam</strong> — but to Uma Haimavati. The shift from 'idam' (this, present) to 'etad' (that, recently present) shows the Yaksha has passed from immediate experience to memory. More importantly, Indra asks a <em>person who knows</em>. This is the Upanishadic model of valid knowledge: the seeker (śiṣya) must approach a knower (guru). Self-investigation has its limits; the final knowledge comes through transmission, not discovery."},
-      {"q": "🔍 What does the brevity of this mantra signal?", "a": "This is one of the shortest mantras in the Upanishad — just five words: <strong>tāṁ ha uvāca kim etad yakṣam iti</strong>. The brevity is itself the teaching. Indra does not preface, explain, justify, or narrate his experience. He does not say 'I am Indra, king of the gods, and I rushed toward a Yaksha and it vanished.' He asks the bare question: 'What was that?' The stripping away of all qualifications — no self-identification, no power-claim — contrasts sharply with Agni's and Vayu's proud self-introductions ('I am Agni, I am Jātaveda'; 'I am Vayu, I am Mātariśvan'). Indra arrives at Uma with his pride already undone by the vanishing. This emptiness makes him teachable."}
+      {
+        "q": "🔍 Why is Indra's question significant compared to the original 'kim idam yakṣam' (mantra 10)?",
+        "a": "In mantra 10, the gods asked each other in bewilderment: 'kim idaṁ yakṣam' — 'What is this Yaksha?' It was a question of puzzled observation, directed at no one with authority. Indra now asks the same question — <strong>kim etad yakṣam</strong> — but to Uma Haimavati. The shift from 'idam' (this, present) to 'etad' (that, recently present) shows the Yaksha has passed from immediate experience to memory. More importantly, Indra asks a <em>person who knows</em>. This is the Upanishadic model of valid knowledge: the seeker (śiṣya) must approach a knower (guru). Self-investigation has its limits; the final knowledge comes through transmission, not discovery."
+      },
+      {
+        "q": "🔍 What does the brevity of this mantra signal?",
+        "a": "This is one of the shortest mantras in the Upanishad — just five words: <strong>tāṁ ha uvāca kim etad yakṣam iti</strong>. The brevity is itself the teaching. Indra does not preface, explain, justify, or narrate his experience. He does not say 'I am Indra, king of the gods, and I rushed toward a Yaksha and it vanished.' He asks the bare question: 'What was that?' The stripping away of all qualifications — no self-identification, no power-claim — contrasts sharply with Agni's and Vayu's proud self-introductions ('I am Agni, I am Jātaveda'; 'I am Vayu, I am Mātariśvan'). Indra arrives at Uma with his pride already undone by the vanishing. This emptiness makes him teachable."
+      }
     ]
   },
   {
@@ -163,13 +254,29 @@
     "hi": "उन्होंने (उमा ने) कहा: 'वह ब्रह्म था।'",
     "en": "She said: 'It was Brahman.'",
     "ws": [
-      {"s": "सा (sā)", "h": "उन्होंने (उमा ने)", "e": "she — nominative singular feminine pronoun, referring to Uma Haimavati"},
-      {"s": "ब्रह्म (brahma)", "h": "ब्रह्म — परम सत्ता", "e": "Brahman — nominative/accusative neuter; the Absolute, the ultimate Reality"},
-      {"s": "इति (iti)", "h": "ऐसा (उद्धरण-चिह्न)", "e": "'thus' — quotation marker closing Uma's statement"},
-      {"s": "ह उवाच (ha uvāca)", "h": "कहा", "e": "she said — narrative formula (ha = emphatic; uvāca = perfect of √vac)"}
+      {
+        "s": "सा",
+        "h": "उन्होंने (उमा ने)",
+        "e": "she"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म — परम सत्ता",
+        "e": "Brahman"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा (उद्धरण-चिह्न)",
+        "e": "'thus' — quotation marker closing Uma's statement"
+      },
+      {
+        "s": "ह उवाच",
+        "h": "कहा",
+        "e": "she said"
+      }
     ],
     "gr": "<strong>sā brahma iti ha uvāca</strong> — the entire mantra is four words, the most compressed revelation in the Upanishads. <strong>sā</strong> — 'she': Uma speaks with authority; the subject comes first. <strong>brahma iti</strong> — 'It is Brahman': no elaboration, no qualification, no proof offered. The bare nominative 'brahma' is the answer — not 'a form of Brahman' or 'related to Brahman' but simply, absolutely: Brahman.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.5 — The most compact and decisive statement in the Kena Upanishad: 'sā brahma iti ha uvāca.' In four words Uma Haimavati reveals what no god could discover through investigation — the identity of the Yaksha as Brahman itself.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -191,8 +298,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is this the shortest and most powerful mantra in the Upanishad?", "a": "The entire mantra is just <strong>sā brahma iti ha uvāca</strong> — 'She said: It is Brahman.' No argument, no proof, no elaboration. The brevity is not accidental — it embodies the nature of the knowledge itself. Brahman-knowledge is not a conclusion reached through reasoning (which would require many steps) but a <em>revelation</em> — an act of direct sight. Uma does not say 'This Yaksha was Brahman because of the following reasons…'; she says 'Brahman.' Period. The contrast with the entire preceding narrative — the battle, the pride, three gods sent, two power-tests, a vanishing — makes this compression devastating. All that complexity was the structure of ignorance. Knowledge, when it comes, is one word."},
-      {"q": "🔍 Why can Uma state what Agni, Vayu, and Indra could not discover?", "a": "This is the central mystery. Three great gods — the powers of fire, wind, and mind — tried and failed. Uma succeeds instantly. Why? Because <strong>Uma is not trying to know Brahman from outside</strong>. She is brahmavidyā — the knowing-power of Brahman itself. In Shankara's framework: the faculties were trying subject-object knowledge (where Brahman becomes the known). Uma represents a different order of knowing — <strong>self-knowledge</strong>, where the knower and the known are not separate. In Ramanuja's framework: the faculties relied on their own power; Uma is the Lord's own śakti, who knows because she participates in the Lord's self-knowledge. In Aurobindo's framework: the faculties operate at the mental and vital level; Uma is the intuitive consciousness that operates at the level of Truth itself. In all three readings, the key is the same: Brahman is not known by investigation from outside but by a power that participates in Brahman's own self-awareness."}
+      {
+        "q": "🔍 Why is this the shortest and most powerful mantra in the Upanishad?",
+        "a": "The entire mantra is just <strong>sā brahma iti ha uvāca</strong> — 'She said: It is Brahman.' No argument, no proof, no elaboration. The brevity is not accidental — it embodies the nature of the knowledge itself. Brahman-knowledge is not a conclusion reached through reasoning (which would require many steps) but a <em>revelation</em> — an act of direct sight. Uma does not say 'This Yaksha was Brahman because of the following reasons…'; she says 'Brahman.' Period. The contrast with the entire preceding narrative — the battle, the pride, three gods sent, two power-tests, a vanishing — makes this compression devastating. All that complexity was the structure of ignorance. Knowledge, when it comes, is one word."
+      },
+      {
+        "q": "🔍 Why can Uma state what Agni, Vayu, and Indra could not discover?",
+        "a": "This is the central mystery. Three great gods — the powers of fire, wind, and mind — tried and failed. Uma succeeds instantly. Why? Because <strong>Uma is not trying to know Brahman from outside</strong>. She is brahmavidyā — the knowing-power of Brahman itself. In Shankara's framework: the faculties were trying subject-object knowledge (where Brahman becomes the known). Uma represents a different order of knowing — <strong>self-knowledge</strong>, where the knower and the known are not separate. In Ramanuja's framework: the faculties relied on their own power; Uma is the Lord's own śakti, who knows because she participates in the Lord's self-knowledge. In Aurobindo's framework: the faculties operate at the mental and vital level; Uma is the intuitive consciousness that operates at the level of Truth itself. In all three readings, the key is the same: Brahman is not known by investigation from outside but by a power that participates in Brahman's own self-awareness."
+      }
     ]
   },
   {
@@ -202,13 +315,29 @@
     "hi": "'ब्रह्म की विजय में ही तुम लोग महान् हुए हो।'",
     "en": "'In Brahman's victory indeed you became great.'",
     "ws": [
-      {"s": "ब्रह्मणः (brahmaṇaḥ)", "h": "ब्रह्म की", "e": "of Brahman — genitive singular neuter; the victory belongs to Brahman, not to the gods"},
-      {"s": "विजये (vijaye)", "h": "विजय में", "e": "in the victory — locative singular masculine (< vi+√ji, 'to conquer completely')"},
-      {"s": "महीयध्वम् (mahīyadhvam)", "h": "तुम महान् हुए, तुमने गौरव प्राप्त किया", "e": "you became exalted — imperative/injunctive 2nd pl. middle of √mah ('to be great'); or interpreted as past indicative: 'you gloried'"},
-      {"s": "वा (vā)", "h": "निश्चय ही", "e": "indeed — emphatic particle (not disjunctive 'or')"}
+      {
+        "s": "ब्रह्मणः",
+        "h": "ब्रह्म की",
+        "e": "of Brahman"
+      },
+      {
+        "s": "विजये",
+        "h": "विजय में",
+        "e": "in the victory"
+      },
+      {
+        "s": "महीयध्वम्",
+        "h": "तुम महान् हुए, तुमने गौरव प्राप्त किया",
+        "e": "you became exalted"
+      },
+      {
+        "s": "वा",
+        "h": "निश्चय ही",
+        "e": "indeed — emphatic particle (not disjunctive 'or')"
+      }
     ],
     "gr": "<strong>brahmaṇo vijaye</strong> — 'in Brahman's victory': the genitive 'brahmaṇaḥ' attributes the victory entirely to Brahman. This directly corrects the gods' original claim in mantra 9: 'asmākam eva ayaṁ vijayaḥ' ('this victory is ours alone'). <strong>mahīyadhvam</strong> — 2nd pl. middle: 'you (all) became great / gloried' — Uma addresses all the gods through Indra, not Indra alone. The word echoes 'amahīyanta' from mantra 9, closing the circle: the gods 'puffed themselves up' (amahīyanta); Uma says 'you were made great' (mahīyadhvam) — by Brahman, not by yourselves.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.6 — Uma's second statement completes her teaching: not only identifying the Yaksha as Brahman but correcting the gods' fundamental error. The victory was Brahman's; the greatness was Brahman's gift; the pride was misattribution.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -230,8 +359,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 How does Uma's statement correct the gods' pride from mantra 9?", "a": "The literary structure is precise. In mantra 9: <strong>amahīyanta</strong> — 'they puffed themselves up'; <strong>asmākam eva ayaṁ vijayaḥ</strong> — 'ours alone is this victory.' In mantra 22: Uma replies with <strong>mahīyadhvam</strong> — 'you became great' — using the same root (√mah) but shifting the agency. The gods' 'self-magnification' (amahīyanta, reflexive) becomes 'you were magnified' (mahīyadhvam) — by Brahman, not by yourselves. And <strong>brahmaṇo vijaye</strong> — 'in Brahman's victory' — directly reverses 'asmākam vijayaḥ' — 'our victory.' The grammar is the correction: reflexive pride → attributed greatness; our victory → Brahman's victory."},
-      {"q": "🔍 What is the relationship between this teaching and the grass-tests?", "a": "The grass-tests (mantras 14, 16) demonstrated the negative side: the gods' power is not their own — withdrawn, they are helpless. Uma's statement delivers the positive side: the gods' power comes from Brahman — acknowledged, it becomes a path to truth. The tests showed 'you cannot'; Uma shows 'Brahman can, and did, through you.' Together they form the complete teaching: <strong>all power is borrowed light</strong>. The grass-tests removed the illusion of independent agency; Uma's words install the recognition of true agency. This is not humiliation but liberation — the gods are freed from the impossible burden of sustaining their own power."}
+      {
+        "q": "🔍 How does Uma's statement correct the gods' pride from mantra 9?",
+        "a": "The literary structure is precise. In mantra 9: <strong>amahīyanta</strong> — 'they puffed themselves up'; <strong>asmākam eva ayaṁ vijayaḥ</strong> — 'ours alone is this victory.' In mantra 22: Uma replies with <strong>mahīyadhvam</strong> — 'you became great' — using the same root (√mah) but shifting the agency. The gods' 'self-magnification' (amahīyanta, reflexive) becomes 'you were magnified' (mahīyadhvam) — by Brahman, not by yourselves. And <strong>brahmaṇo vijaye</strong> — 'in Brahman's victory' — directly reverses 'asmākam vijayaḥ' — 'our victory.' The grammar is the correction: reflexive pride → attributed greatness; our victory → Brahman's victory."
+      },
+      {
+        "q": "🔍 What is the relationship between this teaching and the grass-tests?",
+        "a": "The grass-tests (mantras 14, 16) demonstrated the negative side: the gods' power is not their own — withdrawn, they are helpless. Uma's statement delivers the positive side: the gods' power comes from Brahman — acknowledged, it becomes a path to truth. The tests showed 'you cannot'; Uma shows 'Brahman can, and did, through you.' Together they form the complete teaching: <strong>all power is borrowed light</strong>. The grass-tests removed the illusion of independent agency; Uma's words install the recognition of true agency. This is not humiliation but liberation — the gods are freed from the impossible burden of sustaining their own power."
+      }
     ]
   },
   {
@@ -241,13 +376,29 @@
     "hi": "उसी से (उमा के कथन से) इन्द्र ने जाना कि वह ब्रह्म था।",
     "en": "From that (Uma's words) alone, he (Indra) knew it was Brahman.",
     "ws": [
-      {"s": "ततः (tataḥ)", "h": "उससे, उसी से", "e": "from that — ablative: 'from that statement / from that teaching'"},
-      {"s": "ह एव (ha eva)", "h": "निश्चय ही", "e": "indeed, certainly — double emphatic: 'truly, from that alone'"},
-      {"s": "विदांचकार (vidāṁcakāra)", "h": "जान लिया, बोध हुआ", "e": "he knew — periphrastic perfect of √vid ('to know'); a formal, weighty expression of completed knowledge"},
-      {"s": "ब्रह्म इति (brahma iti)", "h": "'यह ब्रह्म है' ऐसा", "e": "'It is Brahman' — the content of Indra's realisation, echoing Uma's own words"}
+      {
+        "s": "ततः",
+        "h": "उससे, उसी से",
+        "e": "from that"
+      },
+      {
+        "s": "ह एव",
+        "h": "निश्चय ही",
+        "e": "indeed, certainly"
+      },
+      {
+        "s": "विदांचकार",
+        "h": "जान लिया, बोध हुआ",
+        "e": "he knew"
+      },
+      {
+        "s": "ब्रह्म इति",
+        "h": "'यह ब्रह्म है' ऐसा",
+        "e": "'It is Brahman'"
+      }
     ],
     "gr": "<strong>tataḥ ha eva</strong> — 'from that alone, indeed': the double emphasis (ha + eva) stresses that Uma's teaching was the sole and sufficient cause of Indra's knowledge. <strong>vidāṁcakāra</strong> — periphrastic perfect of √vid: 'vidām' (knowledge-accusative) + 'cakāra' (made) = 'he made knowledge,' i.e., 'he came to know fully.' This is a strong, formal expression — not a tentative understanding but a completed act of knowing. <strong>brahma iti</strong> — the content of the knowledge is identical to Uma's statement: Indra does not reinterpret or elaborate; he receives it as given.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.7 — The moment of realisation: Indra knows Brahman — not through his own investigation but through Uma's teaching (śabda-pramāṇa). The periphrastic perfect 'vidāṁcakāra' signals completed, final knowledge.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -269,8 +420,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What does the periphrastic perfect 'vidāṁcakāra' indicate?", "a": "This is a highly formal verbal construction — <strong>vidāṁcakāra</strong> is the periphrastic perfect of √vid ('to know'), formed as vidām (accusative of knowledge) + cakāra (he made). Literally: 'he made knowledge' = 'he came to full knowledge.' It is used in Sanskrit only when the regular perfect form is avoided for phonetic or formal reasons. The construction carries a sense of completed, established knowledge — not a fleeting insight but a settled realisation. This is the Upanishad's way of saying: the knowledge was final, decisive, and irreversible. Indra did not merely suspect or infer; he <em>knew</em>."},
-      {"q": "🔍 Why does Indra succeed where Agni and Vayu failed?", "a": "Indra's success is paradoxical: he succeeds precisely because his approach failed more completely than theirs. <strong>Agni</strong> was tested and defeated — he learned 'I cannot burn,' but still interacted with the Yaksha. <strong>Vayu</strong> was tested and defeated — he learned 'I cannot carry,' but still interacted. <strong>Indra</strong> was denied even the interaction — the Yaksha vanished. This total defeat emptied Indra of all confidence. When he encountered Uma, he had no pride left, no claim to make, no power to demonstrate. He simply asked. And because he asked with genuine not-knowing, he received genuine knowing. The teaching is: the faculty that acknowledges its utter helplessness becomes the vessel for grace. Agni and Vayu returned saying 'I could not know'; Indra stayed in the space of not-knowing until knowledge found him."}
+      {
+        "q": "🔍 What does the periphrastic perfect 'vidāṁcakāra' indicate?",
+        "a": "This is a highly formal verbal construction — <strong>vidāṁcakāra</strong> is the periphrastic perfect of √vid ('to know'), formed as vidām (accusative of knowledge) + cakāra (he made). Literally: 'he made knowledge' = 'he came to full knowledge.' It is used in Sanskrit only when the regular perfect form is avoided for phonetic or formal reasons. The construction carries a sense of completed, established knowledge — not a fleeting insight but a settled realisation. This is the Upanishad's way of saying: the knowledge was final, decisive, and irreversible. Indra did not merely suspect or infer; he <em>knew</em>."
+      },
+      {
+        "q": "🔍 Why does Indra succeed where Agni and Vayu failed?",
+        "a": "Indra's success is paradoxical: he succeeds precisely because his approach failed more completely than theirs. <strong>Agni</strong> was tested and defeated — he learned 'I cannot burn,' but still interacted with the Yaksha. <strong>Vayu</strong> was tested and defeated — he learned 'I cannot carry,' but still interacted. <strong>Indra</strong> was denied even the interaction — the Yaksha vanished. This total defeat emptied Indra of all confidence. When he encountered Uma, he had no pride left, no claim to make, no power to demonstrate. He simply asked. And because he asked with genuine not-knowing, he received genuine knowing. The teaching is: the faculty that acknowledges its utter helplessness becomes the vessel for grace. Agni and Vayu returned saying 'I could not know'; Indra stayed in the space of not-knowing until knowledge found him."
+      }
     ]
   },
   {
@@ -280,13 +437,29 @@
     "hi": "इसलिए ये देवता — अग्नि, वायु और इन्द्र — अन्य देवताओं से कुछ अधिक श्रेष्ठ हैं।",
     "en": "Therefore these gods — Agni, Vayu, and Indra — somewhat surpass the other gods.",
     "ws": [
-      {"s": "तस्मात् (tasmāt)", "h": "इसलिए", "e": "therefore — ablative used as causal conjunction: 'because of that'"},
-      {"s": "अतितराम् (atitarām)", "h": "अधिक, विशेष रूप से", "e": "exceedingly, more — comparative adverb (< ati, beyond)"},
-      {"s": "इव (iva)", "h": "मानो, जैसे, कुछ-कुछ", "e": "'as it were, somewhat' — a softening particle; the surpassing is 'as it were,' not absolute"},
-      {"s": "अन्यान् देवान् (anyān devān)", "h": "अन्य देवताओं को", "e": "the other gods — accusative plural; the gods who did not approach the Yaksha at all"}
+      {
+        "s": "तस्मात्",
+        "h": "इसलिए",
+        "e": "therefore"
+      },
+      {
+        "s": "अतितराम्",
+        "h": "अधिक, विशेष रूप से",
+        "e": "exceedingly, more"
+      },
+      {
+        "s": "इव",
+        "h": "मानो, जैसे, कुछ-कुछ",
+        "e": "'as it were, somewhat'"
+      },
+      {
+        "s": "अन्यान् देवान्",
+        "h": "अन्य देवताओं को",
+        "e": "the other gods"
+      }
     ],
     "gr": "<strong>tasmād vā</strong> — causal 'therefore': drawing the consequence from the narrative. <strong>atitarām iva</strong> — 'as it were, somewhat more': the 'iva' softens the comparison — Shankara reads it as indicating a relative, not absolute, superiority. <strong>yad agnir vāyur indraḥ</strong> — 'namely Agni, Vayu, and Indra': yad here means 'that is to say'; the three are named together as a group distinguished from the rest of the gods.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.8 — The Upanishad draws the first moral: proximity to Brahman (even failed proximity) elevates. The three gods who approached the Yaksha are greater than those who never tried. The qualifier 'iva' (as it were) prevents this from becoming a rigid hierarchy.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -308,8 +481,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the Upanishad use the softening particle 'iva' (as it were)?", "a": "The particle <strong>iva</strong> — 'as it were, somewhat' — prevents the comparison from becoming a dogmatic hierarchy. Shankara reads it as a concession to the empirical standpoint: in ultimate reality, all selves are Brahman and no one is greater. But from the relative perspective, proximity to Brahman matters. The 'iva' also carries a narrative honesty: Agni and Vayu failed their tests; Indra failed even to encounter the Yaksha. Their 'superiority' over other gods is the superiority of having tried and learned — not of having succeeded independently. It is the superiority of humility-through-failure over complacency-through-non-engagement."},
-      {"q": "🔍 What does proximity to Brahman (sparśa) mean in spiritual practice?", "a": "The next mantras will use the word <strong>pasparśuḥ</strong> — 'they touched.' Proximity to Brahman is described as <em>touch</em>, not sight or hearing. This is significant: touch implies direct contact without the distance that vision maintains. The three gods who approached the Yaksha — even though they failed — 'touched' Brahman in the sense that they experienced its presence and their own limitation simultaneously. This double experience (of the Absolute and of one's own finitude) is itself the most transformative possible encounter. The other gods, who stayed behind, had neither the humiliation nor the proximity. In spiritual practice, the analogy is: seekers who confront their limitations honestly — who 'fail' at knowing the unknowable — are closer to truth than those who never attempt the impossible question."}
+      {
+        "q": "🔍 Why does the Upanishad use the softening particle 'iva' (as it were)?",
+        "a": "The particle <strong>iva</strong> — 'as it were, somewhat' — prevents the comparison from becoming a dogmatic hierarchy. Shankara reads it as a concession to the empirical standpoint: in ultimate reality, all selves are Brahman and no one is greater. But from the relative perspective, proximity to Brahman matters. The 'iva' also carries a narrative honesty: Agni and Vayu failed their tests; Indra failed even to encounter the Yaksha. Their 'superiority' over other gods is the superiority of having tried and learned — not of having succeeded independently. It is the superiority of humility-through-failure over complacency-through-non-engagement."
+      },
+      {
+        "q": "🔍 What does proximity to Brahman (sparśa) mean in spiritual practice?",
+        "a": "The next mantras will use the word <strong>pasparśuḥ</strong> — 'they touched.' Proximity to Brahman is described as <em>touch</em>, not sight or hearing. This is significant: touch implies direct contact without the distance that vision maintains. The three gods who approached the Yaksha — even though they failed — 'touched' Brahman in the sense that they experienced its presence and their own limitation simultaneously. This double experience (of the Absolute and of one's own finitude) is itself the most transformative possible encounter. The other gods, who stayed behind, had neither the humiliation nor the proximity. In spiritual practice, the analogy is: seekers who confront their limitations honestly — who 'fail' at knowing the unknowable — are closer to truth than those who never attempt the impossible question."
+      }
     ]
   },
   {
@@ -319,16 +498,44 @@
     "hi": "क्योंकि वे उसे (ब्रह्म को) सबसे निकट से स्पर्श कर चुके थे। क्योंकि उन्होंने ही सबसे पहले जाना: 'यह ब्रह्म है।'",
     "en": "For they touched it (Brahman) nearest. For they first knew: 'It is Brahman.'",
     "ws": [
-      {"s": "ते (te)", "h": "वे (अग्नि, वायु, इन्द्र)", "e": "they — nominative plural: the three gods named in the previous mantra"},
-      {"s": "हि (hi)", "h": "क्योंकि", "e": "for, because — causal particle explaining why they surpass"},
-      {"s": "एनत् (enat)", "h": "इसे (ब्रह्म को)", "e": "it (Brahman) — accusative singular neuter pronoun"},
-      {"s": "नेदिष्ठम् (nediṣṭham)", "h": "सबसे निकट", "e": "nearest — superlative of neda ('near'); 'most closely'"},
-      {"s": "पस्पर्शुः (pasparśuḥ)", "h": "स्पर्श किया, छुआ", "e": "they touched — perfect 3rd pl. of √spṛś ('to touch, come into contact with')"},
-      {"s": "प्रथमाः (prathamāḥ)", "h": "सबसे पहले", "e": "first — nominative plural adjective; they were the first among all gods"},
-      {"s": "विदांचक्रुः (vidāṁcakruḥ)", "h": "जाना, बोध किया", "e": "they knew — periphrastic perfect 3rd pl. of √vid ('to know'); plural of vidāṁcakāra from mantra 23"}
+      {
+        "s": "ते",
+        "h": "वे (अग्नि, वायु, इन्द्र)",
+        "e": "they"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि",
+        "e": "for, because"
+      },
+      {
+        "s": "एनत्",
+        "h": "इसे (ब्रह्म को)",
+        "e": "it (Brahman) — accusative singular neuter pronoun"
+      },
+      {
+        "s": "नेदिष्ठम्",
+        "h": "सबसे निकट",
+        "e": "nearest"
+      },
+      {
+        "s": "पस्पर्शुः",
+        "h": "स्पर्श किया, छुआ",
+        "e": "they touched"
+      },
+      {
+        "s": "प्रथमाः",
+        "h": "सबसे पहले",
+        "e": "first"
+      },
+      {
+        "s": "विदांचक्रुः",
+        "h": "जाना, बोध किया",
+        "e": "they knew"
+      }
     ],
     "gr": "<strong>nediṣṭham pasparśuḥ</strong> — 'they touched nearest': nediṣṭham is the superlative of neda; pasparśuḥ is the perfect of √spṛś. The metaphor of 'touching' rather than 'seeing' or 'hearing' implies direct, unmediated contact. <strong>prathamā vidāṁcakruḥ</strong> — 'they first knew': the same periphrastic perfect as Indra's 'vidāṁcakāra' (mantra 23) but in the plural, extending the knowledge to all three. <strong>brahma iti</strong> — the knowledge-content is identical in every case: 'Brahman' — no variation, no personal interpretation.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.9–3.10 — Two reasons for the three gods' eminence: proximity (sparśa, touch) and priority (prathama, first). Both are relational, not intrinsic — they are great because of their relation to Brahman, not in themselves.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -350,8 +557,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the Upanishad use the metaphor of 'touch' (sparśa) for knowing Brahman?", "a": "The Upanishad could have said 'they saw Brahman nearest' or 'they heard Brahman nearest' — but it says <strong>pasparśuḥ</strong> — 'they touched.' Touch is the most intimate and unmediated of the senses. Sight maintains distance between seer and seen; hearing maintains distance between hearer and sound. But touch collapses the gap — the toucher and the touched share the same boundary. This is the Upanishad's metaphor for the kind of knowing that approaches Brahman: not objective observation from a distance but an encounter so close that the boundary between the knower and the known begins to dissolve. The gods did not observe Brahman from afar; they <em>contacted</em> it — and in that contact discovered their own dependence on it."},
-      {"q": "🔍 What does 'first knew' (prathama vidāṁcakruḥ) mean — first in time or first in rank?", "a": "<strong>Prathamāḥ</strong> means 'first' in both temporal and ordinal senses. These three gods were the first among all the gods to know Brahman. The temporal sense is clear from the narrative: they approached the Yaksha before anyone else. But the ordinal sense carries a deeper teaching: being 'first to know' establishes a spiritual precedent. In the Vedic tradition, what is first (prathama) sets the pattern for what follows. Agni, Vayu, and Indra's encounter with Brahman becomes the template for all subsequent seeking: approach with your full power, discover its limit, and then receive knowledge from a higher source. Their story is not merely historical — it is archetypal."}
+      {
+        "q": "🔍 Why does the Upanishad use the metaphor of 'touch' (sparśa) for knowing Brahman?",
+        "a": "The Upanishad could have said 'they saw Brahman nearest' or 'they heard Brahman nearest' — but it says <strong>pasparśuḥ</strong> — 'they touched.' Touch is the most intimate and unmediated of the senses. Sight maintains distance between seer and seen; hearing maintains distance between hearer and sound. But touch collapses the gap — the toucher and the touched share the same boundary. This is the Upanishad's metaphor for the kind of knowing that approaches Brahman: not objective observation from a distance but an encounter so close that the boundary between the knower and the known begins to dissolve. The gods did not observe Brahman from afar; they <em>contacted</em> it — and in that contact discovered their own dependence on it."
+      },
+      {
+        "q": "🔍 What does 'first knew' (prathama vidāṁcakruḥ) mean — first in time or first in rank?",
+        "a": "<strong>Prathamāḥ</strong> means 'first' in both temporal and ordinal senses. These three gods were the first among all the gods to know Brahman. The temporal sense is clear from the narrative: they approached the Yaksha before anyone else. But the ordinal sense carries a deeper teaching: being 'first to know' establishes a spiritual precedent. In the Vedic tradition, what is first (prathama) sets the pattern for what follows. Agni, Vayu, and Indra's encounter with Brahman becomes the template for all subsequent seeking: approach with your full power, discover its limit, and then receive knowledge from a higher source. Their story is not merely historical — it is archetypal."
+      }
     ]
   },
   {
@@ -361,12 +574,24 @@
     "hi": "इसलिए इन्द्र अन्य देवताओं से कुछ और अधिक श्रेष्ठ है।",
     "en": "Therefore Indra somewhat surpasses the other gods even more.",
     "ws": [
-      {"s": "तस्मात् (tasmāt)", "h": "इसलिए", "e": "therefore — causal ablative, drawing a further conclusion"},
-      {"s": "इन्द्रः (indraḥ)", "h": "इन्द्र", "e": "Indra — nominative singular; now singled out from the triad"},
-      {"s": "अतितराम् इव (atitarām iva)", "h": "और भी अधिक, मानो", "e": "'somewhat more, as it were' — same softened comparative as mantra 24, but now applied to Indra alone"}
+      {
+        "s": "तस्मात्",
+        "h": "इसलिए",
+        "e": "therefore"
+      },
+      {
+        "s": "इन्द्रः",
+        "h": "इन्द्र",
+        "e": "Indra"
+      },
+      {
+        "s": "अतितराम् इव",
+        "h": "और भी अधिक, मानो",
+        "e": "'somewhat more, as it were'"
+      }
     ],
     "gr": "<strong>tasmād vā indraḥ</strong> — 'therefore Indra': the argument narrows from the triad (Agni-Vayu-Indra) to Indra alone. <strong>atitarām iva anyān devān</strong> — same construction as mantra 24, but now Indra surpasses even Agni and Vayu, not just the unnamed other gods. The 'iva' again softens the claim — Indra's pre-eminence is 'as it were,' relative, not absolute.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.11 — Within the triad, Indra is singled out as the highest. The next mantra will explain why — he touched Brahman nearest and knew it first. This establishes the mind (Indra) as the faculty closest to Brahman-realisation, even though it cannot reach Brahman by its own power.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -388,8 +613,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is Indra singled out from the triad?", "a": "The Upanishad first groups Agni, Vayu, and Indra together (mantra 24) — they all surpass the other gods. Then it separates Indra from the group — he surpasses even Agni and Vayu. The logic is precise: <strong>Agni</strong> (fire/speech) was tested and failed — he learned his limit and returned. <strong>Vayu</strong> (wind/breath) was tested and failed — same pattern. Both experienced Brahman negatively: as the power that disabled their power. <strong>Indra</strong> (mind) experienced something more: the Yaksha's vanishing (a deeper failure) and then Uma's teaching (a positive revelation). Indra's journey went through two stages — negative (vanishing) and positive (Uma's word) — while Agni and Vayu stopped at the negative stage. The mind can not only experience limitation but also receive knowledge about the unlimited."},
-      {"q": "🔍 Does this hierarchy of gods apply to human faculties?", "a": "All three commentators read the gods as faculties: <strong>Agni = vāk</strong> (speech), <strong>Vayu = prāṇa</strong> (breath/life-force), <strong>Indra = manas</strong> (mind). The hierarchy maps directly: speech can name the world but cannot name Brahman; breath can sustain life but cannot make life conscious of its source; mind can approach the threshold of the Transcendent and, crucially, can <em>receive</em> the teaching that comes from beyond it. In human experience, this means: the seeker begins with verbal inquiry (studying texts = Agni-level), moves to vital discipline (prāṇāyāma, tapas = Vayu-level), and finally reaches the mind's receptive silence where intuition can descend (= Indra receiving Uma's word). The hierarchy is not competitive but developmental."}
+      {
+        "q": "🔍 Why is Indra singled out from the triad?",
+        "a": "The Upanishad first groups Agni, Vayu, and Indra together (mantra 24) — they all surpass the other gods. Then it separates Indra from the group — he surpasses even Agni and Vayu. The logic is precise: <strong>Agni</strong> (fire/speech) was tested and failed — he learned his limit and returned. <strong>Vayu</strong> (wind/breath) was tested and failed — same pattern. Both experienced Brahman negatively: as the power that disabled their power. <strong>Indra</strong> (mind) experienced something more: the Yaksha's vanishing (a deeper failure) and then Uma's teaching (a positive revelation). Indra's journey went through two stages — negative (vanishing) and positive (Uma's word) — while Agni and Vayu stopped at the negative stage. The mind can not only experience limitation but also receive knowledge about the unlimited."
+      },
+      {
+        "q": "🔍 Does this hierarchy of gods apply to human faculties?",
+        "a": "All three commentators read the gods as faculties: <strong>Agni = vāk</strong> (speech), <strong>Vayu = prāṇa</strong> (breath/life-force), <strong>Indra = manas</strong> (mind). The hierarchy maps directly: speech can name the world but cannot name Brahman; breath can sustain life but cannot make life conscious of its source; mind can approach the threshold of the Transcendent and, crucially, can <em>receive</em> the teaching that comes from beyond it. In human experience, this means: the seeker begins with verbal inquiry (studying texts = Agni-level), moves to vital discipline (prāṇāyāma, tapas = Vayu-level), and finally reaches the mind's receptive silence where intuition can descend (= Indra receiving Uma's word). The hierarchy is not competitive but developmental."
+      }
     ]
   },
   {
@@ -399,14 +630,34 @@
     "hi": "क्योंकि उसने (इन्द्र ने) उसे (ब्रह्म को) सबसे निकट से स्पर्श किया।",
     "en": "For he touched it (Brahman) nearest.",
     "ws": [
-      {"s": "सः (saḥ)", "h": "उसने (इन्द्र ने)", "e": "he — nominative singular masculine, referring to Indra alone (not the triad)"},
-      {"s": "हि (hi)", "h": "क्योंकि", "e": "for, because — causal particle"},
-      {"s": "एनत् (enat)", "h": "इसे (ब्रह्म को)", "e": "it — accusative neuter pronoun referring to Brahman"},
-      {"s": "नेदिष्ठम् (nediṣṭham)", "h": "सबसे निकट", "e": "nearest — superlative of neda; same word as mantra 25 but now referring to Indra alone"},
-      {"s": "पस्पृशे (paspṛśe)", "h": "स्पर्श किया", "e": "he touched — perfect middle 3rd sg. of √spṛś ('to touch, contact'); middle voice suggests intimacy of contact"}
+      {
+        "s": "सः",
+        "h": "उसने (इन्द्र ने)",
+        "e": "he"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि",
+        "e": "for, because — causal particle"
+      },
+      {
+        "s": "एनत्",
+        "h": "इसे (ब्रह्म को)",
+        "e": "it"
+      },
+      {
+        "s": "नेदिष्ठम्",
+        "h": "सबसे निकट",
+        "e": "nearest"
+      },
+      {
+        "s": "पस्पृशे",
+        "h": "स्पर्श किया",
+        "e": "he touched"
+      }
     ],
     "gr": "<strong>sa hi enat nediṣṭhaṁ paspṛśe</strong> — almost identical to the plural in mantra 25 ('te hi enat nediṣṭhaṁ pasparśuḥ'), but with two changes: the subject shifts from plural (te, they) to singular (sa, he = Indra), and the verb shifts from active perfect (pasparśuḥ) to <em>middle</em> perfect (paspṛśe). The middle voice subtly suggests that Indra's touching was more intimate, more inward — an experience that affected him at his core, not merely a contact from the outside.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.12a — The shift from active voice (for the triad) to middle voice (for Indra alone) is a grammatical marker of deeper intimacy. Indra's 'touch' of Brahman was transformative: not just contact but participation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -428,8 +679,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the grammar shift from active (pasparśuḥ) to middle voice (paspṛśe)?", "a": "In Sanskrit, the middle voice (<strong>ātmanepada</strong>) indicates that the action intimately affects the agent — it is 'for oneself,' felt inwardly. The active voice (<strong>parasmaipada</strong>) describes outward-directed action. When the Upanishad says the three gods 'touched' Brahman (pasparśuḥ, active), it describes their encounter as an event that happened to them from outside. When it singles out Indra and switches to <strong>paspṛśe</strong> (middle), it describes an encounter that transformed him from within. The grammatical shift encodes a spiritual difference: Agni and Vayu experienced Brahman's power externally (they tried to burn/carry and couldn't); Indra experienced Brahman's identity internally (through Uma's word entering his understanding). External contact versus internal transformation — the grammar carries the teaching."},
-      {"q": "🔍 What does 'nearest' (nediṣṭham) mean when applied to the Infinite?", "a": "How can anything be 'near' or 'far' from Brahman, which is infinite and all-pervading? The Upanishad is not using spatial metaphors — <strong>nediṣṭham</strong> (nearest) refers to the degree of transparency between a faculty and its Source. Every faculty operates by Brahman's power, but most faculties are not <em>aware</em> of this dependence. The mind (Indra) has the unique capacity to become aware of what enables it — to turn inward and recognise its own ground. 'Nearest' means: the thinnest veil between the instrument and its source. Fire and wind have thicker veils — they can only experience limitation. The mind's veil is thinnest — it can, with help, recognise the source itself. This is why Indra receives Uma's teaching while Agni and Vayu only experience the grass-test."}
+      {
+        "q": "🔍 Why does the grammar shift from active (pasparśuḥ) to middle voice (paspṛśe)?",
+        "a": "In Sanskrit, the middle voice (<strong>ātmanepada</strong>) indicates that the action intimately affects the agent — it is 'for oneself,' felt inwardly. The active voice (<strong>parasmaipada</strong>) describes outward-directed action. When the Upanishad says the three gods 'touched' Brahman (pasparśuḥ, active), it describes their encounter as an event that happened to them from outside. When it singles out Indra and switches to <strong>paspṛśe</strong> (middle), it describes an encounter that transformed him from within. The grammatical shift encodes a spiritual difference: Agni and Vayu experienced Brahman's power externally (they tried to burn/carry and couldn't); Indra experienced Brahman's identity internally (through Uma's word entering his understanding). External contact versus internal transformation — the grammar carries the teaching."
+      },
+      {
+        "q": "🔍 What does 'nearest' (nediṣṭham) mean when applied to the Infinite?",
+        "a": "How can anything be 'near' or 'far' from Brahman, which is infinite and all-pervading? The Upanishad is not using spatial metaphors — <strong>nediṣṭham</strong> (nearest) refers to the degree of transparency between a faculty and its Source. Every faculty operates by Brahman's power, but most faculties are not <em>aware</em> of this dependence. The mind (Indra) has the unique capacity to become aware of what enables it — to turn inward and recognise its own ground. 'Nearest' means: the thinnest veil between the instrument and its source. Fire and wind have thicker veils — they can only experience limitation. The mind's veil is thinnest — it can, with help, recognise the source itself. This is why Indra receives Uma's teaching while Agni and Vayu only experience the grass-test."
+      }
     ]
   },
   {
@@ -439,14 +696,34 @@
     "hi": "क्योंकि उसने (इन्द्र ने) ही सबसे पहले जाना: 'यह ब्रह्म है।'",
     "en": "For he first knew: 'It is Brahman.'",
     "ws": [
-      {"s": "सः (saḥ)", "h": "उसने (इन्द्र ने)", "e": "he — nominative singular, Indra"},
-      {"s": "हि (hi)", "h": "क्योंकि", "e": "for, because — causal particle"},
-      {"s": "प्रथमः (prathamaḥ)", "h": "सबसे पहले", "e": "first — nominative singular (not plural prathamāḥ as in mantra 25); Indra alone, not the triad"},
-      {"s": "विदांचकार (vidāṁcakāra)", "h": "जाना", "e": "he knew — periphrastic perfect of √vid; the third time this decisive verb appears (mantras 23, 25, 28)"},
-      {"s": "ब्रह्म इति (brahma iti)", "h": "'यह ब्रह्म है'", "e": "'It is Brahman' — the unchanged content of the revelation"}
+      {
+        "s": "सः",
+        "h": "उसने (इन्द्र ने)",
+        "e": "he — nominative singular, Indra"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि",
+        "e": "for, because — causal particle"
+      },
+      {
+        "s": "प्रथमः",
+        "h": "सबसे पहले",
+        "e": "first"
+      },
+      {
+        "s": "विदांचकार",
+        "h": "जाना",
+        "e": "he knew"
+      },
+      {
+        "s": "ब्रह्म इति",
+        "h": "'यह ब्रह्म है'",
+        "e": "'It is Brahman'"
+      }
     ],
     "gr": "<strong>sa hi enat prathamaḥ vidāṁcakāra brahma iti</strong> — the closing statement of Part 3, recapitulating Indra's primacy. <strong>prathamaḥ</strong> — singular, not plural: Indra alone is 'first.' The verb <strong>vidāṁcakāra</strong> appears for the third time in this Part: first for Indra alone (mantra 23), then for all three gods (mantra 25, plural vidāṁcakruḥ), now again for Indra alone (mantra 28). The Part opens with 'tathā iti' (Indra's assent to search) and closes with 'brahma iti' (Indra's knowledge of what he sought) — a complete arc from ignorance through failure to recognition.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.12b — The closing of Part 3. The triple repetition of 'vidāṁcakāra brahma iti' (mantras 23, 25, 28) functions as a mantra within the prose — drumming the essential teaching: Brahman was known, first, by Indra, through grace. Part 4 will draw out the practical implications.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -468,8 +745,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What does the triple repetition of 'vidāṁcakāra brahma iti' accomplish?", "a": "The phrase <strong>vidāṁcakāra brahma iti</strong> — 'he knew: It is Brahman' — appears three times in Part 3 (mantras 23, 25, 28). This is not clumsy repetition; it is the Upanishadic technique of <strong>āvṛtti</strong> (repetition for emphasis and meditation). Each occurrence narrows the focus: first Indra alone knew (mantra 23); then the triad is said to have known (mantra 25, plural); then Indra alone again, emphatically (mantra 28). The narrowing movement — individual → group → individual — makes Indra's knowledge both representative and unique. The repeated phrase also functions as a <em>mantra within the prose</em> — its rhythmic return invites the listener to absorb its content not analytically but meditatively. By the third repetition, 'brahma iti' is no longer information — it is an incantation."},
-      {"q": "🔍 How does Part 3 complete the teaching begun in Part 1?", "a": "Part 1 posed the question abstractly: 'By whom enabled does the mind think? By whom does breath first move?' The answer was: 'That which is the hearing of hearing, the mind of mind, the speech of speech.' Part 3 <em>enacts</em> this answer through narrative. <strong>Agni</strong> (speech) tried to act independently — and failed: speech cannot burn without the Speech-of-speech. <strong>Vayu</strong> (breath) tried to act independently — and failed: breath cannot move without the Breath-of-breath. <strong>Indra</strong> (mind) tried to know independently — and the object vanished: mind cannot know without the Mind-of-mind. Then Uma (brahmavidyā) appeared and spoke one word — <strong>brahma</strong> — and Indra knew. The abstract teaching of Part 1 ('Brahman is the eye of the eye, the ear of the ear') becomes a lived experience in Part 3. Theory becomes story; concept becomes encounter."}
+      {
+        "q": "🔍 What does the triple repetition of 'vidāṁcakāra brahma iti' accomplish?",
+        "a": "The phrase <strong>vidāṁcakāra brahma iti</strong> — 'he knew: It is Brahman' — appears three times in Part 3 (mantras 23, 25, 28). This is not clumsy repetition; it is the Upanishadic technique of <strong>āvṛtti</strong> (repetition for emphasis and meditation). Each occurrence narrows the focus: first Indra alone knew (mantra 23); then the triad is said to have known (mantra 25, plural); then Indra alone again, emphatically (mantra 28). The narrowing movement — individual → group → individual — makes Indra's knowledge both representative and unique. The repeated phrase also functions as a <em>mantra within the prose</em> — its rhythmic return invites the listener to absorb its content not analytically but meditatively. By the third repetition, 'brahma iti' is no longer information — it is an incantation."
+      },
+      {
+        "q": "🔍 How does Part 3 complete the teaching begun in Part 1?",
+        "a": "Part 1 posed the question abstractly: 'By whom enabled does the mind think? By whom does breath first move?' The answer was: 'That which is the hearing of hearing, the mind of mind, the speech of speech.' Part 3 <em>enacts</em> this answer through narrative. <strong>Agni</strong> (speech) tried to act independently — and failed: speech cannot burn without the Speech-of-speech. <strong>Vayu</strong> (breath) tried to act independently — and failed: breath cannot move without the Breath-of-breath. <strong>Indra</strong> (mind) tried to know independently — and the object vanished: mind cannot know without the Mind-of-mind. Then Uma (brahmavidyā) appeared and spoke one word — <strong>brahma</strong> — and Indra knew. The abstract teaching of Part 1 ('Brahman is the eye of the eye, the ear of the ear') becomes a lived experience in Part 3. Theory becomes story; concept becomes encounter."
+      }
     ]
   }
 ]

@@ -6,18 +6,54 @@
     "hi": "जिसके लिए यह 'जाना हुआ' नहीं है — उसके लिए यह जाना हुआ है; जिसके लिए यह 'जाना हुआ' है — वह इसे नहीं जानता। जो जानते हैं उनके लिए यह अज्ञात है; जो नहीं जानते उनके लिए यह ज्ञात है।",
     "en": "By whom it is not known, by him it is known; by whom it is known, he does not know it. It is unknown to those who know it; it is known to those who do not know it.",
     "ws": [
-      {"s": "यस्य", "h": "जिसके लिए / जिसका", "e": "by whom — genitive of ya (relative pronoun), here used instrumentally"},
-      {"s": "अमतम्", "h": "न जाना हुआ / अज्ञात", "e": "not thought/known — a-mata, past passive of man (to think, to know); not the opinion but the direct cognition"},
-      {"s": "तस्य मतम्", "h": "उसके लिए जाना हुआ है", "e": "by him it is known — genitive of tad; the paradox pivots on mata vs a-mata"},
-      {"s": "मतम् यस्य", "h": "जिसके लिए जाना हुआ है", "e": "by whom it is known — second arm of the paradox"},
-      {"s": "न वेद सः", "h": "वह नहीं जानता", "e": "he does not know — veda is perfect of vid; the one who 'knows' Brahman as an object does not truly know"},
-      {"s": "अविज्ञातम्", "h": "अज्ञात / न जाना हुआ", "e": "unknown — a + vi-jñāta; vi-jñā is deeper analytical knowing, not bare acquaintance"},
-      {"s": "विजानताम्", "h": "जानने वालों के लिए", "e": "to those who know — genitive plural of vijānat (present participle)"},
-      {"s": "विज्ञातम्", "h": "ज्ञात / जाना हुआ", "e": "known — vi-jñāta; past passive participle; fully grasped"},
-      {"s": "अविजानताम्", "h": "न जानने वालों के लिए", "e": "to those who do not know — genitive plural of a-vijānat"}
+      {
+        "s": "यस्य",
+        "h": "जिसके लिए / जिसका",
+        "e": "by whom"
+      },
+      {
+        "s": "अमतम्",
+        "h": "न जाना हुआ / अज्ञात",
+        "e": "not thought/known"
+      },
+      {
+        "s": "तस्य मतम्",
+        "h": "उसके लिए जाना हुआ है",
+        "e": "by him it is known"
+      },
+      {
+        "s": "मतम् यस्य",
+        "h": "जिसके लिए जाना हुआ है",
+        "e": "by whom it is known — second arm of the paradox"
+      },
+      {
+        "s": "न वेद सः",
+        "h": "वह नहीं जानता",
+        "e": "he does not know"
+      },
+      {
+        "s": "अविज्ञातम्",
+        "h": "अज्ञात / न जाना हुआ",
+        "e": "unknown"
+      },
+      {
+        "s": "विजानताम्",
+        "h": "जानने वालों के लिए",
+        "e": "to those who know"
+      },
+      {
+        "s": "विज्ञातम्",
+        "h": "ज्ञात / जाना हुआ",
+        "e": "known"
+      },
+      {
+        "s": "अविजानताम्",
+        "h": "न जानने वालों के लिए",
+        "e": "to those who do not know"
+      }
     ],
     "gr": "<strong>यस्यामतं तस्य मतम्</strong> — the mantra opens with a chiasmus (crossed structure): A-mata / mata / mata / na veda. This is not wordplay but a precise epistemological statement. <strong>अमतम्</strong> (a-mata, from man, to think/intend) and <strong>विज्ञातम्</strong> (from vi-jñā, analytical comprehension) are two different levels of knowing — both are denied for the true knower. <strong>न वेद सः</strong> — veda is perfect tense of vid, the oldest verb for knowing; the perfect tense implies completed and certain knowledge of an object. Brahman cannot be an object of such knowing. <strong>विजानताम् / अविजानताम्</strong> — present participle genitives; 'those who are in the act of knowing' vs 'those who are not' — the paradox holds even in present cognition.",
-    "mt": "REVIEW_NEEDED: Anushtubh (8 syllables per pada) — four padas with 8-8-8-8 count; appears metrically regular but verify pada boundaries from Gambhirananda or Radhakrishnan · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.5",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -39,9 +75,18 @@
       }
     },
     "dp": [
-      {"q": "🔄 यह विरोधाभास क्यों है — तर्कदोष नहीं?", "a": "पश्चिमी तर्कशास्त्र में यह 'contradiction' लगता है: A = not-A। किंतु उपनिषद् यहाँ एक गहरी epistemological (ज्ञान-सिद्धांत की) बात कह रहा है: जानने की दो अलग-अलग प्रक्रियाएँ हैं। <strong>विषय-ज्ञान</strong> (object-knowledge) — जिसमें जानने वाला और जाना जाने वाला अलग होते हैं। और <strong>स्वयं-प्रकाश</strong> (self-luminous awareness) — जिसमें ज्ञाता और ज्ञेय एक हैं। ब्रह्म दूसरी श्रेणी है। इसीलिए 'जानता हूँ' कहना पहली श्रेणी की भूल है।"},
-      {"q": "🪞 'मैं नहीं जानता' — क्या यह आत्मसमर्पण है?", "a": "हाँ — पर एक विशेष अर्थ में। यह अज्ञान का स्वीकरण नहीं, <strong>अहंकार के ज्ञान-दावे का त्याग</strong> है। जब साधक कहता है 'मैं नहीं जानता' — तब 'मैं' (ego) हट जाता है। और जो शेष रहता है — वही ब्रह्म है। यही शंकर का 'अमतम् = ब्रह्म-ज्ञान' है। तुलना करें: Socrates का 'I know that I know nothing' — पर Socrates वहाँ रुक गया। उपनिषद् कहता है उस 'nothing' में प्रवेश करो।"},
-      {"q": "🌐 यही विरोधाभास अन्य परंपराओं में", "a": "Zen Buddhism: 'The one who knows does not speak; the one who speaks does not know' (Lao Tzu भी)। Christian mysticism (Meister Eckhart): 'To know God you must unknow everything.' Sufi: 'فنا' (fana, annihilation of self before knowing the Real). <strong>केन 1.5 का विरोधाभास अकेला नहीं — यह ज्ञान की सीमा पर खड़ी मानवीय चेतना का सार्वभौमिक अनुभव है।</strong>"}
+      {
+        "q": "🔄 यह विरोधाभास क्यों है — तर्कदोष नहीं?",
+        "a": "पश्चिमी तर्कशास्त्र में यह 'contradiction' लगता है: A = not-A। किंतु उपनिषद् यहाँ एक गहरी epistemological (ज्ञान-सिद्धांत की) बात कह रहा है: जानने की दो अलग-अलग प्रक्रियाएँ हैं। <strong>विषय-ज्ञान</strong> (object-knowledge) — जिसमें जानने वाला और जाना जाने वाला अलग होते हैं। और <strong>स्वयं-प्रकाश</strong> (self-luminous awareness) — जिसमें ज्ञाता और ज्ञेय एक हैं। ब्रह्म दूसरी श्रेणी है। इसीलिए 'जानता हूँ' कहना पहली श्रेणी की भूल है।"
+      },
+      {
+        "q": "🪞 'मैं नहीं जानता' — क्या यह आत्मसमर्पण है?",
+        "a": "हाँ — पर एक विशेष अर्थ में। यह अज्ञान का स्वीकरण नहीं, <strong>अहंकार के ज्ञान-दावे का त्याग</strong> है। जब साधक कहता है 'मैं नहीं जानता' — तब 'मैं' (ego) हट जाता है। और जो शेष रहता है — वही ब्रह्म है। यही शंकर का 'अमतम् = ब्रह्म-ज्ञान' है। तुलना करें: Socrates का 'I know that I know nothing' — पर Socrates वहाँ रुक गया। उपनिषद् कहता है उस 'nothing' में प्रवेश करो।"
+      },
+      {
+        "q": "🌐 यही विरोधाभास अन्य परंपराओं में",
+        "a": "Zen Buddhism: 'The one who knows does not speak; the one who speaks does not know' (Lao Tzu भी)। Christian mysticism (Meister Eckhart): 'To know God you must unknow everything.' Sufi: 'فنا' (fana, annihilation of self before knowing the Real). <strong>केन 1.5 का विरोधाभास अकेला नहीं — यह ज्ञान की सीमा पर खड़ी मानवीय चेतना का सार्वभौमिक अनुभव है।</strong>"
+      }
     ]
   },
   {
@@ -51,18 +96,54 @@
     "hi": "जो प्रत्येक बोध-क्षण में जाना जाता है — वही 'मत' (सच्चा ज्ञान) है; उसी से अमृतत्व प्राप्त होता है। आत्मा से वीर्य (बल-शक्ति) मिलती है; विद्या (ब्रह्म-ज्ञान) से अमृत मिलता है।",
     "en": "That which is known as the ground of every act of cognition — that is the true knowing; through that, one truly finds immortality. Through the Self one gains strength; through knowledge (of Brahman) one gains immortality.",
     "ws": [
-      {"s": "प्रतिबोध", "h": "प्रत्येक बोध / जागरण-क्षण", "e": "each act of cognition, each moment of awareness — prati (at each) + bodha (awakening, consciousness); every time awareness flashes, Brahman is the ground"},
-      {"s": "विदितम्", "h": "जाना हुआ / पहचाना हुआ", "e": "known, recognized — past passive of vid; here used in a special sense: Brahman recognized as the background, not grasped as foreground"},
-      {"s": "मतम्", "h": "सच्चा मत / सच्चा ज्ञान", "e": "the true knowing — mata, past passive of man; here: the recognition that constitutes genuine knowledge of Brahman"},
-      {"s": "अमृतत्वम्", "h": "अमरत्व / मोक्ष", "e": "immortality — a-mṛta + tva (abstract suffix); not mere deathlessness but the state of being established in the deathless"},
-      {"s": "हि", "h": "निश्चय ही / वास्तव में", "e": "indeed — Vedic emphatic particle; affirms the causal link between pratibodha-knowledge and immortality"},
-      {"s": "विन्दते", "h": "पाता है / प्राप्त करता है", "e": "gains, finds — present of vid (to find/obtain); same root as Veda; gains not by earning but by recognition"},
-      {"s": "आत्मना", "h": "आत्मा के द्वारा", "e": "through/by the Self — instrumental of ātman; the Self is both the means and the end"},
-      {"s": "वीर्यम्", "h": "वीर्य / शक्ति / बल", "e": "strength, vitality — from vīra (hero); not merely physical but the power that comes from being rooted in one's true nature"},
-      {"s": "विद्यया", "h": "विद्या के द्वारा", "e": "through knowledge — instrumental of vidyā; here specifically Brahma-vidyā, knowledge of Brahman as one's own Self"}
+      {
+        "s": "प्रतिबोध",
+        "h": "प्रत्येक बोध / जागरण-क्षण",
+        "e": "each act of cognition, each moment of awareness"
+      },
+      {
+        "s": "विदितम्",
+        "h": "जाना हुआ / पहचाना हुआ",
+        "e": "known, recognized"
+      },
+      {
+        "s": "मतम्",
+        "h": "सच्चा मत / सच्चा ज्ञान",
+        "e": "the true knowing"
+      },
+      {
+        "s": "अमृतत्वम्",
+        "h": "अमरत्व / मोक्ष",
+        "e": "immortality"
+      },
+      {
+        "s": "हि",
+        "h": "निश्चय ही / वास्तव में",
+        "e": "indeed"
+      },
+      {
+        "s": "विन्दते",
+        "h": "पाता है / प्राप्त करता है",
+        "e": "gains, finds"
+      },
+      {
+        "s": "आत्मना",
+        "h": "आत्मा के द्वारा",
+        "e": "through/by the Self"
+      },
+      {
+        "s": "वीर्यम्",
+        "h": "वीर्य / शक्ति / बल",
+        "e": "strength, vitality"
+      },
+      {
+        "s": "विद्यया",
+        "h": "विद्या के द्वारा",
+        "e": "through knowledge"
+      }
     ],
     "gr": "<strong>प्रतिबोधविदितम्</strong> — a compound: prati ('at each, against') + bodha ('awakening, cognition') + vidita ('known'). This is the key philosophical term of the mantra: Brahman is not known as an object of a specific cognition but as the luminous ground that makes each cognition possible. <strong>मतम्</strong> picks up from mantra 5 — the 'true knowing' that mantra 5 described as paradoxical is now specified: it is pratibodha-vidita, recognised at each flash of awareness. <strong>आत्मना विन्दते वीर्यम्</strong> — two distinct rewards: vīrya (strength/vitality) comes from ātman (even preliminary self-recognition builds inner power), and amṛta (immortality) comes only from vidyā (full Brahma-knowledge). The progression is deliberate.",
-    "mt": "REVIEW_NEEDED: Anushtubh (8-8-8-8) — verify pada boundaries; some editions print as two long lines rather than four short ones · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.6",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -84,9 +165,18 @@
       }
     },
     "dp": [
-      {"q": "🔦 'प्रतिबोधविदितम्' — हर बोध में ब्रह्म कैसे?", "a": "एक उदाहरण से समझें: जब आप एक गुलाब देखते हैं, तब तीन चीज़ें हैं — गुलाब (विषय), देखने की क्रिया (वृत्ति), और देखने वाला (द्रष्टा)। सामान्यतः हम सिर्फ गुलाब पर ध्यान देते हैं। प्रतिबोध-विधि है: <strong>देखने की क्रिया के पीछे जो साक्षी है — उस पर ध्यान दो।</strong> वह साक्षी हर बोध में है — सोते में, जागते में, स्वप्न में — अपरिवर्तित। वही ब्रह्म है। यही 'प्रतिबोध' है।"},
-      {"q": "💪 वीर्य और अमृत — दो अलग फल क्यों?", "a": "मंत्र दो अलग प्राप्तियाँ देता है: <strong>वीर्य (बल)</strong> आत्मा से मिलता है — यह व्यावहारिक लाभ है। जो व्यक्ति अपनी आत्मा के बारे में थोड़ा भी जागरूक है, वह अधिक स्थिर, कम भयभीत, अधिक शक्तिशाली होता है। <strong>अमृत (मोक्ष)</strong> विद्या से मिलता है — यह परम लाभ है। यह क्रमिकता महत्वपूर्ण है: उपनिषद् मोक्ष को व्यावहारिक जीवन से काटता नहीं — पहले वीर्य (जीवन-शक्ति), फिर अमृत।"},
-      {"q": "🕯️ ईशावास्य 18 से तुलना", "a": "ईशावास्य 18 में भी 'अमृत' की प्रार्थना है: 'क्रतो स्मर... अमृतम् अनुस्मर।' दोनों स्थानों पर अमृत = मोक्ष, पर रास्ता अलग: ईशावास्य में 'स्मरण' (remembrance at death); केन में 'प्रतिबोध' (recognition at each moment of life)। <strong>एक मार्ग अंत की ओर देखता है, दूसरा हर क्षण को पूर्ण बनाता है।</strong> श्री अरविंद इसे 'integral' (समग्र) मोक्ष का संकेत मानते हैं।"}
+      {
+        "q": "🔦 'प्रतिबोधविदितम्' — हर बोध में ब्रह्म कैसे?",
+        "a": "एक उदाहरण से समझें: जब आप एक गुलाब देखते हैं, तब तीन चीज़ें हैं — गुलाब (विषय), देखने की क्रिया (वृत्ति), और देखने वाला (द्रष्टा)। सामान्यतः हम सिर्फ गुलाब पर ध्यान देते हैं। प्रतिबोध-विधि है: <strong>देखने की क्रिया के पीछे जो साक्षी है — उस पर ध्यान दो।</strong> वह साक्षी हर बोध में है — सोते में, जागते में, स्वप्न में — अपरिवर्तित। वही ब्रह्म है। यही 'प्रतिबोध' है।"
+      },
+      {
+        "q": "💪 वीर्य और अमृत — दो अलग फल क्यों?",
+        "a": "मंत्र दो अलग प्राप्तियाँ देता है: <strong>वीर्य (बल)</strong> आत्मा से मिलता है — यह व्यावहारिक लाभ है। जो व्यक्ति अपनी आत्मा के बारे में थोड़ा भी जागरूक है, वह अधिक स्थिर, कम भयभीत, अधिक शक्तिशाली होता है। <strong>अमृत (मोक्ष)</strong> विद्या से मिलता है — यह परम लाभ है। यह क्रमिकता महत्वपूर्ण है: उपनिषद् मोक्ष को व्यावहारिक जीवन से काटता नहीं — पहले वीर्य (जीवन-शक्ति), फिर अमृत।"
+      },
+      {
+        "q": "🕯️ ईशावास्य 18 से तुलना",
+        "a": "ईशावास्य 18 में भी 'अमृत' की प्रार्थना है: 'क्रतो स्मर... अमृतम् अनुस्मर।' दोनों स्थानों पर अमृत = मोक्ष, पर रास्ता अलग: ईशावास्य में 'स्मरण' (remembrance at death); केन में 'प्रतिबोध' (recognition at each moment of life)। <strong>एक मार्ग अंत की ओर देखता है, दूसरा हर क्षण को पूर्ण बनाता है।</strong> श्री अरविंद इसे 'integral' (समग्र) मोक्ष का संकेत मानते हैं।"
+      }
     ]
   },
   {
@@ -96,18 +186,54 @@
     "hi": "यदि इसी जीवन में किसी ने इसे जान लिया — तो सत्य है; यदि इस जीवन में नहीं जाना — तो महान् विनाश है। धीर पुरुष, प्रत्येक प्राणी में इसे पहचानकर, इस लोक से प्रयाण के बाद अमृत हो जाते हैं।",
     "en": "If one knows It here in this very life, then it is true; if one does not know It here, there is great destruction. The steadfast wise, having recognised It in every being, become immortal on departing from this world.",
     "ws": [
-      {"s": "इह", "h": "यहाँ / इसी जीवन में", "e": "here — in this world, in this body, in this lifetime; the urgency is in iha: not after death, but now"},
-      {"s": "चेत् अवेदीत्", "h": "यदि जान लिया", "e": "if he knew/knows — ced (if) + avedīt (aorist of vid, 'to know'); aorist marks a specific decisive act of knowing"},
-      {"s": "अथ सत्यम् अस्ति", "h": "तो सत्य है / तो वह जीवन सत्य है", "e": "then it is true/real — satyam: the life in which this knowledge occurs is a truly real life; without it, it is a kind of unreality"},
-      {"s": "महती विनष्टिः", "h": "महान् विनाश / भारी हानि", "e": "great destruction/loss — mahatī (feminine of mahat, great) + vinaṣṭiḥ (from vi+naś, to perish, be lost); not punishment but the natural consequence of missing the point of human birth"},
-      {"s": "भूतेषु भूतेषु", "h": "प्रत्येक प्राणी में / हर सत्ता में", "e": "in every being — repetition of bhūteṣu (locative plural of bhūta, existing being) is a Vedic emphatic reduplication meaning 'in each and every being without exception'"},
-      {"s": "विचित्य", "h": "पहचानकर / खोजकर", "e": "having discerned/recognised — gerund of vi+ci (to sift, distinguish, recognise); implies active discernment, not passive stumbling"},
-      {"s": "धीराः", "h": "धीर / स्थिरबुद्धि", "e": "the steadfast wise — as in mantra 2; those whose dhī (discerning insight) is unwavering"},
-      {"s": "प्रेत्य", "h": "इस लोक से जाने के बाद", "e": "having departed from this world — gerund of pra+i; the recognition happens in life but the full fruit (immortality) is confirmed at departure"},
-      {"s": "अमृताः भवन्ति", "h": "अमृत हो जाते हैं", "e": "become immortal — as in mantra 2; bhavanti (present of bhū) + amṛtāḥ (nominative plural); the becoming is real, not merely symbolic"}
+      {
+        "s": "इह",
+        "h": "यहाँ / इसी जीवन में",
+        "e": "here"
+      },
+      {
+        "s": "चेत् अवेदीत्",
+        "h": "यदि जान लिया",
+        "e": "if he knew/knows"
+      },
+      {
+        "s": "अथ सत्यम् अस्ति",
+        "h": "तो सत्य है / तो वह जीवन सत्य है",
+        "e": "then it is true/real"
+      },
+      {
+        "s": "महती विनष्टिः",
+        "h": "महान् विनाश / भारी हानि",
+        "e": "great destruction/loss"
+      },
+      {
+        "s": "भूतेषु भूतेषु",
+        "h": "प्रत्येक प्राणी में / हर सत्ता में",
+        "e": "in every being"
+      },
+      {
+        "s": "विचित्य",
+        "h": "पहचानकर / खोजकर",
+        "e": "having discerned/recognised"
+      },
+      {
+        "s": "धीराः",
+        "h": "धीर / स्थिरबुद्धि",
+        "e": "the steadfast wise"
+      },
+      {
+        "s": "प्रेत्य",
+        "h": "इस लोक से जाने के बाद",
+        "e": "having departed from this world"
+      },
+      {
+        "s": "अमृताः भवन्ति",
+        "h": "अमृत हो जाते हैं",
+        "e": "become immortal"
+      }
     ],
     "gr": "<strong>इह चेत् / न चेत्</strong> — a direct conditional pair (if / if not), creating stark urgency. The Upanishad does not speak of next lives or future opportunities: iha (here, now) is the arena of liberation. <strong>महती विनष्टिः</strong> — vinaṣṭiḥ (from vi+naś) is stronger than mere 'loss'; it implies complete dissolution of the opportunity. The adjective mahatī (feminine, agreeing with vinaṣṭiḥ) magnifies the stakes. <strong>भूतेषु भूतेषु</strong> — the reduplication of the locative is a Vedic idiom for universality: 'in each single being.' The dhīra does not recognise Brahman only in sacred spaces but in every existential encounter. <strong>विचित्य</strong> (from vi+ci) carries the sense of careful sifting, like separating gold from dross — an active contemplative practice, not a passive insight.",
-    "mt": "REVIEW_NEEDED: The metre is clearly not Anushtubh — each line is significantly longer. Possibly Jagati (12 syllables per pada) or Trishtubh variant; verify from Gambhirananda or Radhakrishnan · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.7",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -129,9 +255,18 @@
       }
     },
     "dp": [
-      {"q": "⏰ 'इह' — उपनिषद् का जरूरी शब्द", "a": "'इह' = यहाँ, इसी जन्म में। उपनिषद् बार-बार इस पर बल देता है: ईशावास्य 17 में 'इदं' (this very moment); मुंडक में 'इहैव' (even here); केन यहाँ 'इह'। <strong>यह अनिवार्यता का संदेश है: ज्ञान को कल पर मत टालो।</strong> जीवन की संरचना ऐसी है कि मृत्यु के बाद की स्थिति में वही संस्कार काम करते हैं जो जीवन में डाले। 'अभी नहीं' का अर्थ अक्सर 'कभी नहीं' है।"},
-      {"q": "🌍 'भूतेषु भूतेषु' — हर जगह ब्रह्म?", "a": "यह द्विरुक्ति (repetition) एक शिक्षण-प्रविधि है: 'प्रत्येक और हर एक' प्राणी में। यह कहना आसान है — जीना कठिन। धीर पुरुष वह है जो शत्रु में, अपरिचित में, विनम्र कीड़े में भी उसी ब्रह्म को देखता है। भगवद्गीता 6.29 में कृष्ण कहते हैं: 'सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि' — वही दृष्टि। <strong>यह ज्ञान नहीं, अभ्यास है।</strong>"},
-      {"q": "📊 'सत्यमस्ति' vs 'महती विनष्टिः' — दो जीवन", "a": "मंत्र दो जीवनों का वर्णन करता है: जो 'इह' जाने — उसका जीवन 'सत्यम्' (real, true); जो न जाने — 'महती विनष्टिः' (great destruction)। यह नैतिक निर्णय नहीं, ऑन्टोलॉजिकल (अस्तित्वगत) विवरण है। <strong>जिस जीवन में ब्रह्म की पहचान नहीं हुई, वह जीवन केवल प्रतिच्छाया है — असली नहीं।</strong> Plato की गुफा की तरह: बिना सूर्य-दर्शन के छाया ही सच्चाई लगती है।"}
+      {
+        "q": "⏰ 'इह' — उपनिषद् का जरूरी शब्द",
+        "a": "'इह' = यहाँ, इसी जन्म में। उपनिषद् बार-बार इस पर बल देता है: ईशावास्य 17 में 'इदं' (this very moment); मुंडक में 'इहैव' (even here); केन यहाँ 'इह'। <strong>यह अनिवार्यता का संदेश है: ज्ञान को कल पर मत टालो।</strong> जीवन की संरचना ऐसी है कि मृत्यु के बाद की स्थिति में वही संस्कार काम करते हैं जो जीवन में डाले। 'अभी नहीं' का अर्थ अक्सर 'कभी नहीं' है।"
+      },
+      {
+        "q": "🌍 'भूतेषु भूतेषु' — हर जगह ब्रह्म?",
+        "a": "यह द्विरुक्ति (repetition) एक शिक्षण-प्रविधि है: 'प्रत्येक और हर एक' प्राणी में। यह कहना आसान है — जीना कठिन। धीर पुरुष वह है जो शत्रु में, अपरिचित में, विनम्र कीड़े में भी उसी ब्रह्म को देखता है। भगवद्गीता 6.29 में कृष्ण कहते हैं: 'सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि' — वही दृष्टि। <strong>यह ज्ञान नहीं, अभ्यास है।</strong>"
+      },
+      {
+        "q": "📊 'सत्यमस्ति' vs 'महती विनष्टिः' — दो जीवन",
+        "a": "मंत्र दो जीवनों का वर्णन करता है: जो 'इह' जाने — उसका जीवन 'सत्यम्' (real, true); जो न जाने — 'महती विनष्टिः' (great destruction)। यह नैतिक निर्णय नहीं, ऑन्टोलॉजिकल (अस्तित्वगत) विवरण है। <strong>जिस जीवन में ब्रह्म की पहचान नहीं हुई, वह जीवन केवल प्रतिच्छाया है — असली नहीं।</strong> Plato की गुफा की तरह: बिना सूर्य-दर्शन के छाया ही सच्चाई लगती है।"
+      }
     ]
   },
   {
@@ -141,17 +276,49 @@
     "hi": "जो प्राण का प्राण, आँख की आँख, कान का कान, अन्न का अन्न और मन का मन जानते हैं — वे पुरातन, सर्वश्रेष्ठ ब्रह्म को पहचान लेते हैं।",
     "en": "Those who know the life of life, the eye of the eye, the ear of the ear, the food of food, and the mind of the mind — they have recognised Brahman, the ancient, the foremost.",
     "ws": [
-      {"s": "स यदि", "h": "यदि वह / जब वह", "e": "if one — yadi marks the conditional; sa (he/one) is the subject"},
-      {"s": "प्राणस्य प्राणम्", "h": "प्राण का प्राण", "e": "the life of life — genitive chain as in mantra 2; adds prāṇa to the list"},
-      {"s": "अन्नस्य अन्नम्", "h": "अन्न का अन्न", "e": "the food of food — anna (food/matter) is here for the first time; Brahman sustains even the material ground"},
-      {"s": "मनसो मनः", "h": "मन का मन", "e": "the mind of mind — as in mantra 2"},
-      {"s": "विदुः", "h": "जानते हैं", "e": "they know — 3rd plural perfect of vid; the perfect tense implies firm established knowledge"},
-      {"s": "ते निचिक्युः", "h": "उन्होंने पहचाना / उन्होंने जाना", "e": "they have recognised — nicikyu, perfect of ni+ci (to discern clearly, to recognise by discrimination); the same root as vicikitsā (doubt-free discrimination)"},
-      {"s": "ब्रह्म पुराणम्", "h": "पुरातन ब्रह्म", "e": "Brahman, the ancient — purāṇa: that which existed before (pura) anything; the primordial ground"},
-      {"s": "अग्र्यम्", "h": "सर्वश्रेष्ठ / अग्रणी", "e": "the foremost, the first — from agra (front, first); Brahman is first in the order of being, not merely first among equals"}
+      {
+        "s": "स यदि",
+        "h": "यदि वह / जब वह",
+        "e": "if one"
+      },
+      {
+        "s": "प्राणस्य प्राणम्",
+        "h": "प्राण का प्राण",
+        "e": "the life of life"
+      },
+      {
+        "s": "अन्नस्य अन्नम्",
+        "h": "अन्न का अन्न",
+        "e": "the food of food"
+      },
+      {
+        "s": "मनसो मनः",
+        "h": "मन का मन",
+        "e": "the mind of mind — as in mantra 2"
+      },
+      {
+        "s": "विदुः",
+        "h": "जानते हैं",
+        "e": "they know"
+      },
+      {
+        "s": "ते निचिक्युः",
+        "h": "उन्होंने पहचाना / उन्होंने जाना",
+        "e": "they have recognised"
+      },
+      {
+        "s": "ब्रह्म पुराणम्",
+        "h": "पुरातन ब्रह्म",
+        "e": "Brahman, the ancient"
+      },
+      {
+        "s": "अग्र्यम्",
+        "h": "सर्वश्रेष्ठ / अग्रणी",
+        "e": "the foremost, the first"
+      }
     ],
     "gr": "<strong>अन्नस्य अन्नम्</strong> — the inclusion of anna (food/matter) in the genitive chain of mantra 2 is significant. Mantra 2 had ear, mind, speech, life, eye; here anna is added. Taittiriya 3 will later identify anna itself as Brahman ('annaṃ brahma'). Brahman is not just consciousness — it grounds matter too. <strong>निचिक्युः</strong> (perfect of ni+ci) — a rare perfect used here for its sense of completed, irreversible recognition: they have sifted through, discriminated, and firmly recognised. Unlike the imperfect or present, the perfect marks a state that does not revert. <strong>पुराणम् अग्र्यम्</strong> — two epithets: pūrāṇa (ancient, primordial) and agrya (foremost, primary). Together they place Brahman before and above everything in the chain of being — not as a remote first cause but as the living ground of the present moment.",
-    "mt": "REVIEW_NEEDED: This mantra appears to be in a different metre from the preceding ones — possibly a longer prose-verse transition form; some editions place this at the end of the verse section and others at the start of the prose; verify from Gambhirananda · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.8",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -173,9 +340,18 @@
       }
     },
     "dp": [
-      {"q": "🌾 'अन्नस्य अन्नम्' — पदार्थ भी ब्रह्म है?", "a": "हाँ — और यह उपनिषदों का एक महत्वपूर्ण संदेश है। केन यहाँ इंद्रियों (कान, आँख, प्राण) की श्रृंखला में 'अन्न' (भोजन, पदार्थ) को भी जोड़ता है। तैत्तिरीय 3.1 में 'अन्नं ब्रह्म' (food is Brahman) स्पष्ट कहा जाएगा। <strong>यह अद्वैत की पूर्णता है: न केवल चेतना बल्कि जड़ पदार्थ भी ब्रह्म की अभिव्यक्ति है।</strong> श्री अरविंद इसे 'matter is the densest form of Spirit' के रूप में पढ़ते हैं।"},
-      {"q": "🏛️ 'पुराणम्' — आदि और 'अग्र्यम्' — श्रेष्ठ", "a": "<strong>पुराण</strong> = पुर + अन्, 'जो पहले था' — इससे 'पुराण' (शास्त्र) भी बना: जो आदि-ज्ञान को रखता है। <strong>अग्र्य</strong> = अग्र (आगे/प्रथम) से — 'जो सबसे आगे है।' दोनों एक साथ: Brahman सबसे पुराना (temporal primacy) और सबसे श्रेष्ठ (ontological primacy) है। यह दोनों मिलकर कहते हैं: जो सबसे पहले था वही सबसे महत्वपूर्ण है — और वह अभी भी यहाँ है।"},
-      {"q": "🔁 Mantra 8 और Mantra 2 का संबंध", "a": "Mantra 2 ने कहा: 'श्रोत्रस्य श्रोत्रम्, मनसो मनः...' और अमृत का मार्ग दिखाया। Mantra 8 उसी भाषा को दोहराता है पर एक नया शब्द जोड़ता है: 'अन्नस्य अन्नम्।' यह repetition with variation एक शिक्षण-प्रविधि है: <strong>पहली बार सुनने से संकेत मिला; दूसरी बार (पूर्ण श्रृंखला के साथ) से ज्ञान पक्का हुआ।</strong> Kena Part 1 की यही गति है: प्रश्न (1-4) → विरोधाभास (5) → विधि (6) → अनिवार्यता (7) → पुष्टि (8)।"}
+      {
+        "q": "🌾 'अन्नस्य अन्नम्' — पदार्थ भी ब्रह्म है?",
+        "a": "हाँ — और यह उपनिषदों का एक महत्वपूर्ण संदेश है। केन यहाँ इंद्रियों (कान, आँख, प्राण) की श्रृंखला में 'अन्न' (भोजन, पदार्थ) को भी जोड़ता है। तैत्तिरीय 3.1 में 'अन्नं ब्रह्म' (food is Brahman) स्पष्ट कहा जाएगा। <strong>यह अद्वैत की पूर्णता है: न केवल चेतना बल्कि जड़ पदार्थ भी ब्रह्म की अभिव्यक्ति है।</strong> श्री अरविंद इसे 'matter is the densest form of Spirit' के रूप में पढ़ते हैं।"
+      },
+      {
+        "q": "🏛️ 'पुराणम्' — आदि और 'अग्र्यम्' — श्रेष्ठ",
+        "a": "<strong>पुराण</strong> = पुर + अन्, 'जो पहले था' — इससे 'पुराण' (शास्त्र) भी बना: जो आदि-ज्ञान को रखता है। <strong>अग्र्य</strong> = अग्र (आगे/प्रथम) से — 'जो सबसे आगे है।' दोनों एक साथ: Brahman सबसे पुराना (temporal primacy) और सबसे श्रेष्ठ (ontological primacy) है। यह दोनों मिलकर कहते हैं: जो सबसे पहले था वही सबसे महत्वपूर्ण है — और वह अभी भी यहाँ है।"
+      },
+      {
+        "q": "🔁 Mantra 8 और Mantra 2 का संबंध",
+        "a": "Mantra 2 ने कहा: 'श्रोत्रस्य श्रोत्रम्, मनसो मनः...' और अमृत का मार्ग दिखाया। Mantra 8 उसी भाषा को दोहराता है पर एक नया शब्द जोड़ता है: 'अन्नस्य अन्नम्।' यह repetition with variation एक शिक्षण-प्रविधि है: <strong>पहली बार सुनने से संकेत मिला; दूसरी बार (पूर्ण श्रृंखला के साथ) से ज्ञान पक्का हुआ।</strong> Kena Part 1 की यही गति है: प्रश्न (1-4) → विरोधाभास (5) → विधि (6) → अनिवार्यता (7) → पुष्टि (8)।"
+      }
     ]
   }
 ]

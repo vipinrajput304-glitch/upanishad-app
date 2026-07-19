@@ -6,15 +6,39 @@
     "hi": "इसकी (ब्रह्म की) शिक्षा इस प्रकार है — जैसे विद्युत् चमकती है — आ! जैसे आँख निमिष-मात्र में झपकती है — आ! यह अधिदैवत (देवताओं के सन्दर्भ में) है।",
     "en": "Its teaching is this: it is as if lightning flashed — Ah! It is as if the eye winked — Ah! This is with reference to the gods (adhidaivatam).",
     "ws": [
-      {"s": "आदेशः (ādeśaḥ)", "h": "शिक्षा, निर्देश, उपदेश", "e": "teaching, illustration, pointer — from ā+√diś ('to point out'); the analogy that teaches"},
-      {"s": "विद्युतः (vidyutaḥ)", "h": "विद्युत् की, बिजली की", "e": "of lightning — genitive singular feminine (< vidyut, lightning)"},
-      {"s": "व्यद्युतत् (vyadyutat)", "h": "चमकी, दीप्त हुई", "e": "flashed — aorist 3rd sg. of vi+√dyut ('to flash, blaze forth')"},
-      {"s": "आ (ā)", "h": "आ! — विस्मय-बोधक", "e": "'Ah!' — exclamation of sudden wonder; the sound of instantaneous recognition"},
-      {"s": "निमिषत् (nimiṣat)", "h": "झपकी, पलक मारी", "e": "winked — present participle or aorist of ni+√miṣ ('to close the eyes, wink')"},
-      {"s": "अधिदैवतम् (adhidaivatam)", "h": "देवताओं के सन्दर्भ में", "e": "with reference to the gods — adverbial: the cosmic/divine application of the analogy"}
+      {
+        "s": "आदेशः",
+        "h": "शिक्षा, निर्देश, उपदेश",
+        "e": "teaching, illustration, pointer"
+      },
+      {
+        "s": "विद्युतः",
+        "h": "विद्युत् की, बिजली की",
+        "e": "of lightning"
+      },
+      {
+        "s": "व्यद्युतत्",
+        "h": "चमकी, दीप्त हुई",
+        "e": "flashed"
+      },
+      {
+        "s": "आ",
+        "h": "आ! — विस्मय-बोधक",
+        "e": "'Ah!'"
+      },
+      {
+        "s": "निमिषत्",
+        "h": "झपकी, पलक मारी",
+        "e": "winked"
+      },
+      {
+        "s": "अधिदैवतम्",
+        "h": "देवताओं के सन्दर्भ में",
+        "e": "with reference to the gods"
+      }
     ],
     "gr": "<strong>ādeśaḥ</strong> — from ā+√diś ('to point toward'): not a definition but a pointer, an analogy that directs attention toward something that cannot be directly described. <strong>vyadyutat</strong> — aorist of vi+√dyut: the aorist tense captures the instantaneous, once-and-done flash — not a sustained glow but a single strike. <strong>ā</strong> — the exclamation is part of the teaching: the 'Ah!' of sudden illumination is itself the experience of recognising Brahman. <strong>in nimiṣat</strong> — 'in' is a Vedic particle (emphatic); nimiṣat from ni+√miṣ: the wink is involuntary, instantaneous — like the lightning, it happens before deliberation.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.1 — The lightning-and-wink metaphor opens Part 4 with two analogies for how Brahman is 'known': not through sustained reasoning but through a sudden flash of recognition — instantaneous, self-luminous, gone before the mind can grasp it.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -36,8 +60,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the Upanishad use lightning as the primary metaphor?", "a": "Lightning has three qualities that map precisely to the Brahman-experience: <strong>(1) Suddenness</strong> — it strikes without warning, bypassing all preparation. Brahman-knowledge is not the end-point of a logical chain but an irruption of direct seeing. <strong>(2) Self-luminosity</strong> — lightning needs no other light to be seen; it illuminates everything else by its own radiance. Brahman is svayaṁprakāśa (self-evident) — it is not revealed by another source of knowledge but reveals itself. <strong>(3) Brevity</strong> — the flash lasts an instant, yet in that instant everything is visible. The Brahman-experience, especially in early stages, comes as a momentary opening — a gap in the clouds of ignorance through which the infinite is glimpsed. The challenge is to make the flash permanent."},
-      {"q": "🔍 What does the exclamation 'Ā!' (आ) signify?", "a": "The syllable <strong>ā</strong> is not merely punctuation — it is a phonetic enactment of the experience. In Sanskrit phonetics, 'ā' is the most open vowel — the mouth opens fully, the breath flows without obstruction. It is the natural sound of wonder, surprise, and sudden opening. The Upanishad places it at the exact moment of the flash: 'vyadyutat <em>ā</em>' — 'it flashed — Ah!' The 'Ah!' is not a commentary on the experience; it <em>is</em> the experience compressed into a single syllable. Every spiritual tradition has this sound: the 'Aha!' of Zen, the 'Ah' of wonder in Sufism, the gasp of the mystic. The Kena Upanishad formally records it as part of the teaching — the wonder-response is not a byproduct of knowledge but a component of it."}
+      {
+        "q": "🔍 Why does the Upanishad use lightning as the primary metaphor?",
+        "a": "Lightning has three qualities that map precisely to the Brahman-experience: <strong>(1) Suddenness</strong> — it strikes without warning, bypassing all preparation. Brahman-knowledge is not the end-point of a logical chain but an irruption of direct seeing. <strong>(2) Self-luminosity</strong> — lightning needs no other light to be seen; it illuminates everything else by its own radiance. Brahman is svayaṁprakāśa (self-evident) — it is not revealed by another source of knowledge but reveals itself. <strong>(3) Brevity</strong> — the flash lasts an instant, yet in that instant everything is visible. The Brahman-experience, especially in early stages, comes as a momentary opening — a gap in the clouds of ignorance through which the infinite is glimpsed. The challenge is to make the flash permanent."
+      },
+      {
+        "q": "🔍 What does the exclamation 'Ā!' (आ) signify?",
+        "a": "The syllable <strong>ā</strong> is not merely punctuation — it is a phonetic enactment of the experience. In Sanskrit phonetics, 'ā' is the most open vowel — the mouth opens fully, the breath flows without obstruction. It is the natural sound of wonder, surprise, and sudden opening. The Upanishad places it at the exact moment of the flash: 'vyadyutat <em>ā</em>' — 'it flashed — Ah!' The 'Ah!' is not a commentary on the experience; it <em>is</em> the experience compressed into a single syllable. Every spiritual tradition has this sound: the 'Aha!' of Zen, the 'Ah' of wonder in Sufism, the gasp of the mystic. The Kena Upanishad formally records it as part of the teaching — the wonder-response is not a byproduct of knowledge but a component of it."
+      }
     ]
   },
   {
@@ -47,14 +77,34 @@
     "hi": "अब आध्यात्म (आत्मा के सन्दर्भ में): मन जैसे उसकी ओर बार-बार जाता है — और उस संकल्प (दिव्य स्मरण) से बार-बार उसका स्मरण करता है।",
     "en": "Now with reference to the Self (adhyātmam): that by which the mind seems to go to Brahman again and again — and by this will one constantly remembers it — that intention (saṁkalpa).",
     "ws": [
-      {"s": "अध्यात्मम् (adhyātmam)", "h": "आत्मा / व्यक्ति के सन्दर्भ में", "e": "with reference to the Self — the individual/subjective counterpart of the cosmic analogy"},
-      {"s": "गच्छति इव (gacchati iva)", "h": "जैसे जाता है", "e": "'seems to go' — iva (as if) softens: the mind does not literally travel to Brahman but moves toward it as toward a magnet"},
-      {"s": "उपस्मरति (upasmarati)", "h": "स्मरण करता है, याद करता है", "e": "remembers — present 3rd sg. of upa+√smṛ ('to recall, bring to mind'); constant recollection"},
-      {"s": "अभीक्ष्णम् (abhīkṣṇam)", "h": "बार-बार, निरन्तर", "e": "constantly, repeatedly — adverb indicating unbroken continuity of remembrance"},
-      {"s": "संकल्पः (saṁkalpaḥ)", "h": "संकल्प, दिव्य निश्चय", "e": "will, intention, resolve — the faculty of repeated turning toward Brahman; the inner analogue of lightning"}
+      {
+        "s": "अध्यात्मम्",
+        "h": "आत्मा / व्यक्ति के सन्दर्भ में",
+        "e": "with reference to the Self"
+      },
+      {
+        "s": "गच्छति इव",
+        "h": "जैसे जाता है",
+        "e": "'seems to go'"
+      },
+      {
+        "s": "उपस्मरति",
+        "h": "स्मरण करता है, याद करता है",
+        "e": "remembers"
+      },
+      {
+        "s": "अभीक्ष्णम्",
+        "h": "बार-बार, निरन्तर",
+        "e": "constantly, repeatedly"
+      },
+      {
+        "s": "संकल्पः",
+        "h": "संकल्प, दिव्य निश्चय",
+        "e": "will, intention, resolve"
+      }
     ],
     "gr": "<strong>adhyātmam</strong> — the cosmic/divine analogy (adhidaivatam) of mantra 29 is now paired with its subjective counterpart. <strong>gacchati iva</strong> — 'seems to go': the 'iva' is crucial — Brahman is not a destination the mind literally travels to; rather, the mind's natural orientation is toward Brahman as its own source, and this orientation <em>feels like</em> approaching. <strong>abhīkṣṇaṁ saṁkalpaḥ</strong> — 'constant intention/will': saṁkalpa here is not ordinary willpower but the deep orientation of consciousness toward its source — each act of recollection is a flash, like the lightning of mantra 29.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.2 — The subjective counterpart to the cosmic lightning: within the individual, the Brahman-experience manifests as the mind's repeated turning toward its source and the constant remembrance (abhīkṣṇaṁ upasmarati) that arises from this turning.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -76,8 +126,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 How do the two analogies (adhidaivatam and adhyātmam) work together?", "a": "The Upanishad gives two windows onto the same reality: <strong>adhidaivatam</strong> (cosmic, with reference to the gods) and <strong>adhyātmam</strong> (individual, with reference to the self). Lightning is the cosmic analogy — sudden, objective, external. The mind's repeated turning is the individual analogy — gradual, subjective, internal. Together they describe Brahman-experience from both sides: from outside (the flash that illuminates the world) and from inside (the intention that keeps drawing the mind back). The practitioner experiences both: moments of sudden illumination (lightning) and a deepening habit of recollection (saṁkalpa). Neither alone is complete — the flash without the remembrance fades; the remembrance without the flash becomes mechanical."},
-      {"q": "🔍 What is the significance of saṁkalpa in Vedantic practice?", "a": "<strong>Saṁkalpa</strong> (from sam + √kḷp, 'to shape together') means 'will, intention, resolve.' In the Vedic ritual context, saṁkalpa is the formal declaration of intent before a sacred act. Here the Upanishad transfers it from ritual to inner life: the saṁkalpa is the deep, repeated intention to turn toward Brahman. It is not a single dramatic vow but an <em>abhīkṣṇam</em> (constant) orientation — the mind's habitual return to its source. This is the practical instruction embedded in Part 4: the seeker cannot force the lightning-flash, but can cultivate the saṁkalpa — the constant turning-toward — that makes the flash more frequent and eventually permanent."}
+      {
+        "q": "🔍 How do the two analogies (adhidaivatam and adhyātmam) work together?",
+        "a": "The Upanishad gives two windows onto the same reality: <strong>adhidaivatam</strong> (cosmic, with reference to the gods) and <strong>adhyātmam</strong> (individual, with reference to the self). Lightning is the cosmic analogy — sudden, objective, external. The mind's repeated turning is the individual analogy — gradual, subjective, internal. Together they describe Brahman-experience from both sides: from outside (the flash that illuminates the world) and from inside (the intention that keeps drawing the mind back). The practitioner experiences both: moments of sudden illumination (lightning) and a deepening habit of recollection (saṁkalpa). Neither alone is complete — the flash without the remembrance fades; the remembrance without the flash becomes mechanical."
+      },
+      {
+        "q": "🔍 What is the significance of saṁkalpa in Vedantic practice?",
+        "a": "<strong>Saṁkalpa</strong> (from sam + √kḷp, 'to shape together') means 'will, intention, resolve.' In the Vedic ritual context, saṁkalpa is the formal declaration of intent before a sacred act. Here the Upanishad transfers it from ritual to inner life: the saṁkalpa is the deep, repeated intention to turn toward Brahman. It is not a single dramatic vow but an <em>abhīkṣṇam</em> (constant) orientation — the mind's habitual return to its source. This is the practical instruction embedded in Part 4: the seeker cannot force the lightning-flash, but can cultivate the saṁkalpa — the constant turning-toward — that makes the flash more frequent and eventually permanent."
+      }
     ]
   },
   {
@@ -87,12 +143,24 @@
     "hi": "वह (ब्रह्म) 'तद्वन' (सबका प्रिय, सबकी अभिलाषा) नाम से जाना जाता है। 'तद्वन' के रूप में ही इसकी उपासना करनी चाहिए।",
     "en": "That Brahman is known by the name 'Tadvana' — the adorable, the longed-for. As 'Tadvana' it is to be meditated upon.",
     "ws": [
-      {"s": "तद्वनम् (tadvanam)", "h": "तद्वन — सबका प्रिय, सबकी अभिलाषा", "e": "Tadvana — 'the adorable,' from tad (that) + vana (desire, longing, or delight); 'that which all desire'"},
-      {"s": "नाम (nāma)", "h": "नाम से", "e": "by name — instrumental/adverbial: 'it is known by the name…'"},
-      {"s": "उपासितव्यम् (upāsitavyam)", "h": "उपासना करनी चाहिए", "e": "is to be meditated upon — gerundive of upa+√ās ('to sit near, worship, meditate'); prescriptive: 'must be meditated upon'"}
+      {
+        "s": "तद्वनम्",
+        "h": "तद्वन — सबका प्रिय, सबकी अभिलाषा",
+        "e": "Tadvana"
+      },
+      {
+        "s": "नाम",
+        "h": "नाम से",
+        "e": "by name"
+      },
+      {
+        "s": "उपासितव्यम्",
+        "h": "उपासना करनी चाहिए",
+        "e": "is to be meditated upon"
+      }
     ],
     "gr": "<strong>tad vanam</strong> — two readings are traditional: (1) tad + vana (desire/longing) = 'that which is desired by all,' 'the adorable'; (2) tad + vana (forest/delight) = 'the delight of all.' Shankara prefers the first — Brahman is the ultimate object of all longing. <strong>upāsitavyam</strong> — gerundive of upa+√ās: a prescriptive statement — the Upanishad moves from description to instruction. This is the first direct practice-instruction in the entire Kena: 'meditate on Brahman as Tadvana.'",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.3a — The Upanishad gives Brahman a name — Tadvana — and prescribes meditation on it. This is the transition from pure knowledge to practice: the seeker is told not just what Brahman is but how to orient toward it.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -114,8 +182,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What does 'Tadvana' mean — and why does Brahman need a name?", "a": "The entire Kena Upanishad has been about Brahman's unknowability — 'that which cannot be spoken by speech, thought by mind.' Yet here, suddenly, Brahman is given a name: <strong>Tadvana</strong>. This is not a contradiction but a pedagogical necessity. The Upanishad has established that Brahman cannot be known as an object. But the seeker needs a handle, a direction, a way to orient. 'Tadvana' — 'the adorable, that which all desire' — provides this without reducing Brahman to a concept. It names not what Brahman <em>is</em> (which cannot be named) but what Brahman <em>does</em> to consciousness: it attracts, it draws all beings toward itself. The name describes the relationship, not the thing — and this is the only kind of name that can work for the Infinite."},
-      {"q": "🔍 How does upāsanā (meditation) relate to the knowledge taught by Uma?", "a": "<strong>Upāsanā</strong> (from upa+√ās, 'to sit near') is the practice that bridges intellectual knowledge and lived realisation. Uma told Indra 'It is Brahman' — that is <strong>jñāna</strong> (knowledge). But knowing that the Yaksha was Brahman does not automatically transform daily consciousness. <strong>Upāsanā</strong> is the repeated contemplation that makes this knowledge a living reality — 'sitting near' the truth until it permeates every layer of being. The Upanishad prescribes a specific form: meditate on Brahman as <em>Tadvana</em> — as the object of universal longing. This transforms the seeker's own desires: instead of seeing each desire as pointing to a worldly object, one recognises every desire as ultimately pointing to Brahman. This is the practical application of the lightning-flash."}
+      {
+        "q": "🔍 What does 'Tadvana' mean — and why does Brahman need a name?",
+        "a": "The entire Kena Upanishad has been about Brahman's unknowability — 'that which cannot be spoken by speech, thought by mind.' Yet here, suddenly, Brahman is given a name: <strong>Tadvana</strong>. This is not a contradiction but a pedagogical necessity. The Upanishad has established that Brahman cannot be known as an object. But the seeker needs a handle, a direction, a way to orient. 'Tadvana' — 'the adorable, that which all desire' — provides this without reducing Brahman to a concept. It names not what Brahman <em>is</em> (which cannot be named) but what Brahman <em>does</em> to consciousness: it attracts, it draws all beings toward itself. The name describes the relationship, not the thing — and this is the only kind of name that can work for the Infinite."
+      },
+      {
+        "q": "🔍 How does upāsanā (meditation) relate to the knowledge taught by Uma?",
+        "a": "<strong>Upāsanā</strong> (from upa+√ās, 'to sit near') is the practice that bridges intellectual knowledge and lived realisation. Uma told Indra 'It is Brahman' — that is <strong>jñāna</strong> (knowledge). But knowing that the Yaksha was Brahman does not automatically transform daily consciousness. <strong>Upāsanā</strong> is the repeated contemplation that makes this knowledge a living reality — 'sitting near' the truth until it permeates every layer of being. The Upanishad prescribes a specific form: meditate on Brahman as <em>Tadvana</em> — as the object of universal longing. This transforms the seeker's own desires: instead of seeing each desire as pointing to a worldly object, one recognises every desire as ultimately pointing to Brahman. This is the practical application of the lightning-flash."
+      }
     ]
   },
   {
@@ -125,13 +199,29 @@
     "hi": "जो इसे (ब्रह्म को तद्वन के रूप में) इस प्रकार जानता है — उसकी ओर समस्त प्राणी अभिलाषा से आकृष्ट होते हैं।",
     "en": "He who knows it (Brahman as Tadvana) thus — all beings long for him.",
     "ws": [
-      {"s": "एवम् वेद (evaṁ veda)", "h": "इस प्रकार जानता है", "e": "'knows thus' — evaṁ (thus, in this way) + veda (perfect of √vid, 'to know'); 'knows in the manner described'"},
-      {"s": "अभि (abhi)", "h": "की ओर", "e": "toward — directional prefix showing movement toward the knower"},
-      {"s": "सर्वाणि भूतानि (sarvāṇi bhūtāni)", "h": "समस्त प्राणी, सब जीव", "e": "all beings — accusative plural neuter; every creature without exception"},
-      {"s": "संवाञ्छन्ति (saṁvāñchanti)", "h": "अभिलाषा करते हैं, चाहते हैं", "e": "they long for, desire — present 3rd pl. of sam+√vāñch ('to desire intensely, long for')"}
+      {
+        "s": "एवम् वेद",
+        "h": "इस प्रकार जानता है",
+        "e": "'knows thus'"
+      },
+      {
+        "s": "अभि",
+        "h": "की ओर",
+        "e": "toward"
+      },
+      {
+        "s": "सर्वाणि भूतानि",
+        "h": "समस्त प्राणी, सब जीव",
+        "e": "all beings"
+      },
+      {
+        "s": "संवाञ्छन्ति",
+        "h": "अभिलाषा करते हैं, चाहते हैं",
+        "e": "they long for, desire"
+      }
     ],
     "gr": "<strong>sa yaḥ etad evaṁ veda</strong> — the standard Upanishadic formula for declaring the fruit of knowledge: 'he who knows this thus.' <strong>abhi saṁvāñchanti</strong> — 'they long toward him': abhi directs the longing toward the knower; saṁvāñchanti (sam+√vāñch) is an intensified desire — not casual interest but deep, magnetic attraction. <strong>sarvāṇi bhūtāni</strong> — 'all beings': without qualification — every being is drawn to the one who has realised Brahman as Tadvana.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.3b — The phala-śruti (fruit-of-knowledge statement): the knower of Brahman-as-Tadvana becomes the natural magnet for all beings. This is not a worldly reward but an ontological consequence — one who embodies the universal longing becomes the object of that longing.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -153,8 +243,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why do all beings 'long for' (saṁvāñchanti) the knower of Brahman?", "a": "This is not a reward or a social benefit — it is an <strong>ontological consequence</strong>. The Upanishad's logic is precise: Brahman is Tadvana, the universal object of desire. Every being, at every level, is seeking Brahman — most without knowing it. When a person realises this and becomes transparent to Brahman, that person becomes a living embodiment of what all beings are seeking. The attraction is not personal charisma but the presence of the Source itself shining through a clear vessel. Think of it as gravitational: a massive object bends spacetime and draws smaller objects. A realised being 'bends' the field of consciousness and draws beings — not through effort but through the weight of presence."},
-      {"q": "🔍 Is this promise literal — do all beings literally come to the knower?", "a": "The word <strong>sarvāṇi bhūtāni</strong> (all beings) is unqualified — from insects to gods. The commentators read this at different levels. Shankara: the attraction is metaphysical — all beings unknowingly gravitate toward their own Self, which the jñānī embodies. Ramanuja: the Lord's qualities manifest in the devotee, making them naturally lovable. Aurobindo: the transformed consciousness radiates ānanda that draws beings at a level below conscious choice. In practice, the great spiritual teachers throughout history demonstrate this: Ramana Maharshi, sitting silently in Tiruvannamalai, drew seekers from around the world without effort. The phenomenon is real, though its mechanism is not physical attraction but spiritual resonance — the recognition by the seeker of their own depths in the teacher's presence."}
+      {
+        "q": "🔍 Why do all beings 'long for' (saṁvāñchanti) the knower of Brahman?",
+        "a": "This is not a reward or a social benefit — it is an <strong>ontological consequence</strong>. The Upanishad's logic is precise: Brahman is Tadvana, the universal object of desire. Every being, at every level, is seeking Brahman — most without knowing it. When a person realises this and becomes transparent to Brahman, that person becomes a living embodiment of what all beings are seeking. The attraction is not personal charisma but the presence of the Source itself shining through a clear vessel. Think of it as gravitational: a massive object bends spacetime and draws smaller objects. A realised being 'bends' the field of consciousness and draws beings — not through effort but through the weight of presence."
+      },
+      {
+        "q": "🔍 Is this promise literal — do all beings literally come to the knower?",
+        "a": "The word <strong>sarvāṇi bhūtāni</strong> (all beings) is unqualified — from insects to gods. The commentators read this at different levels. Shankara: the attraction is metaphysical — all beings unknowingly gravitate toward their own Self, which the jñānī embodies. Ramanuja: the Lord's qualities manifest in the devotee, making them naturally lovable. Aurobindo: the transformed consciousness radiates ānanda that draws beings at a level below conscious choice. In practice, the great spiritual teachers throughout history demonstrate this: Ramana Maharshi, sitting silently in Tiruvannamalai, drew seekers from around the world without effort. The phenomenon is real, though its mechanism is not physical attraction but spiritual resonance — the recognition by the seeker of their own depths in the teacher's presence."
+      }
     ]
   },
   {
@@ -164,15 +260,39 @@
     "hi": "'हे गुरो, मुझे उपनिषद् (रहस्य-विद्या) सिखाइए।' — 'तुम्हें उपनिषद् बता दी गई है। हमने तुम्हें ब्राह्मी उपनिषद् — ब्रह्म-विद्या — सुना दी है।'",
     "en": "'Sir, teach me the Upanishad.' — 'The Upanishad has been told to you. We have told you the Upanishad of Brahman (brāhmī upaniṣad).'",
     "ws": [
-      {"s": "उपनिषदम् (upaniṣadam)", "h": "उपनिषद्, रहस्य-विद्या", "e": "the Upanishad — the secret/esoteric teaching; accusative object of brūhi"},
-      {"s": "भो (bho)", "h": "हे (आदरसूचक सम्बोधन)", "e": "Sir! O revered one! — polite vocative particle used by a student addressing a teacher"},
-      {"s": "ब्रूहि (brūhi)", "h": "बताइए, कहिए", "e": "tell, teach! — imperative 2nd sg. of √brū ('to speak, tell')"},
-      {"s": "उक्ता (uktā)", "h": "बता दी गई", "e": "has been told — past passive participle of √vac ('to speak'); feminine agreeing with upaniṣat"},
-      {"s": "ब्राह्मीम् (brāhmīm)", "h": "ब्रह्म-सम्बन्धी", "e": "of Brahman — feminine adjective qualifying upaniṣadam; 'the Upanishad that pertains to Brahman'"},
-      {"s": "अब्रूम (abrūma)", "h": "हमने बताया", "e": "we have told — imperfect 1st pl. of √brū; the teacher uses the plural ('we') for gravitas"}
+      {
+        "s": "उपनिषदम्",
+        "h": "उपनिषद्, रहस्य-विद्या",
+        "e": "the Upanishad"
+      },
+      {
+        "s": "भो",
+        "h": "हे (आदरसूचक सम्बोधन)",
+        "e": "Sir! O revered one!"
+      },
+      {
+        "s": "ब्रूहि",
+        "h": "बताइए, कहिए",
+        "e": "tell, teach!"
+      },
+      {
+        "s": "उक्ता",
+        "h": "बता दी गई",
+        "e": "has been told"
+      },
+      {
+        "s": "ब्राह्मीम्",
+        "h": "ब्रह्म-सम्बन्धी",
+        "e": "of Brahman"
+      },
+      {
+        "s": "अब्रूम",
+        "h": "हमने बताया",
+        "e": "we have told"
+      }
     ],
     "gr": "<strong>upaniṣadaṁ bho brūhi</strong> — the student's request: 'Sir, teach me the Upanishad!' The word 'upaniṣad' here means the esoteric, secret teaching — the student asks for the hidden knowledge. <strong>uktā ta upaniṣat</strong> — 'the Upanishad has been told to you': past passive — it is already done, not something yet to come. <strong>brāhmīm upaniṣadam abrūma</strong> — 'we have told you the brāhmī upaniṣad': the teacher confirms the teaching is complete. The first-person plural 'abrūma' (we) may be a royal plural or may include the lineage of teachers.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.4 — A meta-textual moment: the student asks for the teaching and is told the teaching is already complete. The Kena Upanishad declares itself finished — what follows (mantras 34-35) are the foundations and fruit of the teaching, not new content.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -194,8 +314,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the student ask for the Upanishad when the teaching seems already given?", "a": "The student's request — <strong>upaniṣadaṁ bho brūhi</strong> — reveals a common spiritual error: the assumption that the 'secret teaching' is something separate from, and beyond, what has already been taught. The student has heard about the Yaksha, the tests, Uma's revelation, the lightning, Tadvana — and still asks: 'But what is the <em>real</em> secret?' The teacher's response is precise: <strong>uktā ta upaniṣat</strong> — 'it has already been told to you.' The secret is not hidden behind the teaching; the secret <em>is</em> the teaching. This is the Upanishad's final lesson about seeking: the mind's tendency to seek 'something more' is itself the last veil. Remove it, and the teaching is already complete."},
-      {"q": "🔍 What does 'brāhmī upaniṣad' mean — and why is it named here?", "a": "The teacher calls the teaching <strong>brāhmī upaniṣad</strong> — 'the Upanishad pertaining to Brahman.' This is a formal naming: the text identifies itself as a complete, self-contained transmission about Brahman. The word <strong>upaniṣad</strong> itself means 'sitting near' (upa+ni+√sad) — the knowledge received by sitting near the teacher. By naming it, the teacher does two things: (1) declares that the teaching is <em>whole</em> — nothing essential is missing; (2) distinguishes it from other types of knowledge (ritual knowledge, worldly knowledge) — this is specifically the knowledge of Brahman. The student has received it. What remains is not more content but the integration of this content into life — which the next mantra will describe."}
+      {
+        "q": "🔍 Why does the student ask for the Upanishad when the teaching seems already given?",
+        "a": "The student's request — <strong>upaniṣadaṁ bho brūhi</strong> — reveals a common spiritual error: the assumption that the 'secret teaching' is something separate from, and beyond, what has already been taught. The student has heard about the Yaksha, the tests, Uma's revelation, the lightning, Tadvana — and still asks: 'But what is the <em>real</em> secret?' The teacher's response is precise: <strong>uktā ta upaniṣat</strong> — 'it has already been told to you.' The secret is not hidden behind the teaching; the secret <em>is</em> the teaching. This is the Upanishad's final lesson about seeking: the mind's tendency to seek 'something more' is itself the last veil. Remove it, and the teaching is already complete."
+      },
+      {
+        "q": "🔍 What does 'brāhmī upaniṣad' mean — and why is it named here?",
+        "a": "The teacher calls the teaching <strong>brāhmī upaniṣad</strong> — 'the Upanishad pertaining to Brahman.' This is a formal naming: the text identifies itself as a complete, self-contained transmission about Brahman. The word <strong>upaniṣad</strong> itself means 'sitting near' (upa+ni+√sad) — the knowledge received by sitting near the teacher. By naming it, the teacher does two things: (1) declares that the teaching is <em>whole</em> — nothing essential is missing; (2) distinguishes it from other types of knowledge (ritual knowledge, worldly knowledge) — this is specifically the knowledge of Brahman. The student has received it. What remains is not more content but the integration of this content into life — which the next mantra will describe."
+      }
     ]
   },
   {
@@ -205,16 +331,44 @@
     "hi": "उस (उपनिषद् / ब्रह्मविद्या) का आधार तपस्, दम (इन्द्रिय-संयम) और कर्म है। वेद इसके सब अंग हैं। सत्य इसका निवास-स्थान है।",
     "en": "Its (the Upanishad's) foundation is tapas (austerity), dama (self-control), and karma (right action). The Vedas are all its limbs. Truth is its abode.",
     "ws": [
-      {"s": "तपः (tapaḥ)", "h": "तपस्या, तपस्", "e": "austerity, inner heat — from √tap ('to heat, burn'); spiritual discipline, concentrated effort"},
-      {"s": "दमः (damaḥ)", "h": "इन्द्रिय-संयम, आत्म-नियन्त्रण", "e": "self-control, restraint of the senses — from √dam ('to tame, subdue')"},
-      {"s": "कर्म (karma)", "h": "कर्म, सम्यक् कर्म", "e": "action, right action, ritual action — from √kṛ ('to do'); here: the performance of one's dharmic duties"},
-      {"s": "प्रतिष्ठा (pratiṣṭhā)", "h": "आधार, नींव", "e": "foundation, basis, support — from prati+√sthā ('to stand firmly'); what the teaching rests upon"},
-      {"s": "सर्वाङ्गानि (sarvāṅgāni)", "h": "सब अंग", "e": "all limbs — sarva (all) + aṅga (limb); the Vedas are the body of this knowledge"},
-      {"s": "सत्यम् (satyam)", "h": "सत्य", "e": "Truth — from √as ('to be'); 'that which truly is'; the ultimate ground"},
-      {"s": "आयतनम् (āyatanam)", "h": "निवास, आश्रय, स्थान", "e": "abode, resting place, home — from ā+√yat or ā+√i ('to rest in'); where this knowledge dwells permanently"}
+      {
+        "s": "तपः",
+        "h": "तपस्या, तपस्",
+        "e": "austerity, inner heat"
+      },
+      {
+        "s": "दमः",
+        "h": "इन्द्रिय-संयम, आत्म-नियन्त्रण",
+        "e": "self-control, restraint of the senses"
+      },
+      {
+        "s": "कर्म",
+        "h": "कर्म, सम्यक् कर्म",
+        "e": "action, right action, ritual action"
+      },
+      {
+        "s": "प्रतिष्ठा",
+        "h": "आधार, नींव",
+        "e": "foundation, basis, support"
+      },
+      {
+        "s": "सर्वाङ्गानि",
+        "h": "सब अंग",
+        "e": "all limbs"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य",
+        "e": "Truth"
+      },
+      {
+        "s": "आयतनम्",
+        "h": "निवास, आश्रय, स्थान",
+        "e": "abode, resting place, home"
+      }
     ],
     "gr": "<strong>tasyai pratiṣṭhā</strong> — 'its foundation': tasyai is genitive/dative feminine referring to the brāhmī upaniṣad. Three foundations are named: <strong>tapaḥ</strong> (inner heat/austerity), <strong>damaḥ</strong> (sense-control), <strong>karma</strong> (right action). <strong>vedāḥ sarvāṅgāni</strong> — 'the Vedas are all its limbs': the body-metaphor — the Vedas are the organic structure through which this knowledge lives and moves. <strong>satyam āyatanam</strong> — 'Truth is its abode': the final, most fundamental ground — the entire edifice of practice, knowledge, and scripture rests on satya.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.5 — The most practically oriented verse of the entire Kena Upanishad: a three-tiered architecture of spiritual life. Foundation = ethical-ascetic practice. Body = scriptural knowledge. Home = Truth itself. This verse is the Upanishad's answer to 'What do I do now?'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -236,8 +390,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What are the three foundations — tapas, dama, karma — and why these three?", "a": "The three foundations cover the complete field of spiritual practice: <strong>Tapas</strong> (inner heat, austerity) is the concentrated energy of transformation — the fire that burns away impurities and creates the capacity for higher experience. <strong>Dama</strong> (self-control) is the mastery of the senses and mental impulses — the discipline that prevents the outward dissipation of the energy generated by tapas. <strong>Karma</strong> (right action) is the engagement with the world through dharmic duty — the refusal to withdraw into mere private mysticism. Together: tapas generates the fire; dama contains it; karma directs it outward. The Upanishad insists that all three are needed — fire without containment dissipates; containment without fire is empty; both without action are disconnected from life."},
-      {"q": "🔍 Why is Truth (satya) called the 'abode' (āyatanam) rather than just the 'foundation'?", "a": "The Upanishad uses three different architectural metaphors: <strong>pratiṣṭhā</strong> (foundation) for tapas-dama-karma; <strong>aṅga</strong> (limbs/body) for the Vedas; <strong>āyatana</strong> (abode, home) for Truth. The progression is significant. The foundation is what you build on — practice. The limbs are the living structure — scripture and knowledge. The abode is where you <em>dwell</em> — Truth. You can visit a foundation; you can use your limbs; but you <em>live in</em> your home. Satya (Truth) is not a tool or a support — it is the place where the realised being permanently resides. The word <strong>āyatana</strong> (from ā+√yat, 'to rest in, settle into') carries the sense of final arrival — after all the building and all the practice, Truth is where you come to rest."}
+      {
+        "q": "🔍 What are the three foundations — tapas, dama, karma — and why these three?",
+        "a": "The three foundations cover the complete field of spiritual practice: <strong>Tapas</strong> (inner heat, austerity) is the concentrated energy of transformation — the fire that burns away impurities and creates the capacity for higher experience. <strong>Dama</strong> (self-control) is the mastery of the senses and mental impulses — the discipline that prevents the outward dissipation of the energy generated by tapas. <strong>Karma</strong> (right action) is the engagement with the world through dharmic duty — the refusal to withdraw into mere private mysticism. Together: tapas generates the fire; dama contains it; karma directs it outward. The Upanishad insists that all three are needed — fire without containment dissipates; containment without fire is empty; both without action are disconnected from life."
+      },
+      {
+        "q": "🔍 Why is Truth (satya) called the 'abode' (āyatanam) rather than just the 'foundation'?",
+        "a": "The Upanishad uses three different architectural metaphors: <strong>pratiṣṭhā</strong> (foundation) for tapas-dama-karma; <strong>aṅga</strong> (limbs/body) for the Vedas; <strong>āyatana</strong> (abode, home) for Truth. The progression is significant. The foundation is what you build on — practice. The limbs are the living structure — scripture and knowledge. The abode is where you <em>dwell</em> — Truth. You can visit a foundation; you can use your limbs; but you <em>live in</em> your home. Satya (Truth) is not a tool or a support — it is the place where the realised being permanently resides. The word <strong>āyatana</strong> (from ā+√yat, 'to rest in, settle into') carries the sense of final arrival — after all the building and all the practice, Truth is where you come to rest."
+      }
     ]
   },
   {
@@ -247,15 +407,39 @@
     "hi": "जो इसे (ब्रह्मविद्या को) इस प्रकार जानता है, वह पाप को दूर करके अनन्त, स्वर्गीय, ज्येष्ठ (सर्वश्रेष्ठ) लोक में प्रतिष्ठित होता है। प्रतिष्ठित होता है।",
     "en": "He who knows this thus, having shaken off evil, is established in the infinite, heavenly, supreme world. He is established.",
     "ws": [
-      {"s": "अपहत्य (apahatya)", "h": "दूर करके, नष्ट करके", "e": "having shaken off, cast away — absolutive of apa+√han ('to strike away, remove'); implies active removal, not gradual fading"},
-      {"s": "पाप्मानम् (pāpmānam)", "h": "पाप को, बुराई को", "e": "evil, sin — accusative singular of pāpman; the accumulated impediments of ignorance"},
-      {"s": "अनन्ते (anante)", "h": "अनन्त, सीमारहित", "e": "infinite — locative of ananta; 'in the boundless'"},
-      {"s": "स्वर्गे (svarge)", "h": "स्वर्गीय, दिव्य", "e": "heavenly — locative of svarga; 'in the luminous realm'"},
-      {"s": "ज्येये (jyeye)", "h": "सर्वश्रेष्ठ, ज्येष्ठ", "e": "supreme, greatest — locative of jyeya (superlative of jya, 'superior'); 'in the highest'"},
-      {"s": "प्रतितिष्ठति (pratitiṣṭhati)", "h": "प्रतिष्ठित होता है, स्थिर होता है", "e": "is firmly established — present 3rd sg. of prati+√sthā ('to stand firmly, be established')"}
+      {
+        "s": "अपहत्य",
+        "h": "दूर करके, नष्ट करके",
+        "e": "having shaken off, cast away"
+      },
+      {
+        "s": "पाप्मानम्",
+        "h": "पाप को, बुराई को",
+        "e": "evil, sin"
+      },
+      {
+        "s": "अनन्ते",
+        "h": "अनन्त, सीमारहित",
+        "e": "infinite — locative of ananta; 'in the boundless'"
+      },
+      {
+        "s": "स्वर्गे",
+        "h": "स्वर्गीय, दिव्य",
+        "e": "heavenly"
+      },
+      {
+        "s": "ज्येये",
+        "h": "सर्वश्रेष्ठ, ज्येष्ठ",
+        "e": "supreme, greatest"
+      },
+      {
+        "s": "प्रतितिष्ठति",
+        "h": "प्रतिष्ठित होता है, स्थिर होता है",
+        "e": "is firmly established"
+      }
     ],
     "gr": "<strong>apahatya pāpmānam</strong> — absolutive + accusative: 'having struck away evil' — the gesture is violent and decisive, not a gentle letting-go. <strong>anante svarge loke jyeye</strong> — four locatives stacked in apposition, each qualifying the same destination: infinite, heavenly, supreme. The accumulation of adjectives conveys that no single word can capture the state. <strong>pratitiṣṭhati pratitiṣṭhati</strong> — the final word of the Upanishad is repeated: 'he is established; he is established.' The repetition is the Vedic convention for closure (samāpti) — it marks the end of the teaching and simultaneously emphasises the finality and irreversibility of the realisation.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.6–4.9 — The closing phala-śruti (fruit-statement) and the samāpti (formal conclusion) of the Kena Upanishad. The doubled 'pratitiṣṭhati' is the text's last word — the seeker is established, finally, irrevocably, in the infinite.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -277,9 +461,18 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is the final word repeated — 'pratitiṣṭhati pratitiṣṭhati'?", "a": "The doubled <strong>pratitiṣṭhati</strong> serves three functions simultaneously. <strong>(1) Vedic closure convention</strong>: in the Upanishadic tradition, the last word or phrase of a text is repeated to signal formal completion (samāpti). It tells the listener: the teaching ends here. <strong>(2) Emphasis on irreversibility</strong>: by saying 'is established' twice, the Upanishad insists that this is not a temporary state. The knower does not visit the infinite and return; the establishment is permanent. Once Brahman-knowledge arises, there is no regression. <strong>(3) Performative echo</strong>: the repetition mirrors the teaching method of the text itself — the triple 'vidāṁcakāra brahma iti' of Part 3, the repeated test-patterns of Part 2. The Kena Upanishad teaches through repetition, and its final repetition enacts what it describes: the firm, unshakeable, established knowing."},
-      {"q": "🔍 How does the Kena Upanishad's conclusion compare with its opening question?", "a": "The Kena Upanishad opens with the most radical possible question: <strong>'kena iṣitaṁ patati preṣitaṁ manaḥ'</strong> — 'By whom directed does the mind fly forth?' It asks about the hidden power behind all faculties. The conclusion answers: the one who knows this power <strong>'pratitiṣṭhati'</strong> — is established. The opening word was <strong>kena</strong> (by whom?) — a question. The closing word is <strong>pratitiṣṭhati</strong> (is established) — an answer. But the answer is not a concept; it is a state. The Upanishad does not end with 'Brahman is X' but with 'the knower is established.' The journey from question to establishment passes through four stages: abstract teaching (Part 1), narrative failure (Part 2), grace-revelation (Part 3), and practical integration (Part 4). The entire arc — from the mind's question to the knower's establishment — is the Kena Upanishad's gift."},
-      {"q": "🔍 What does 'apahatya pāpmānam' (having shaken off evil) mean in the Upanishadic context?", "a": "The verb <strong>apahatya</strong> (from apa+√han, 'to strike away') is deliberately violent: not a gentle dissolving but a forceful removal. <strong>Pāpmā</strong> in the Upanishads is not merely moral wrongdoing (as in later Hindu ethics) — it is the entire weight of ignorance, accumulated karma, and the identification with the finite. It includes: identification with the body, the sense of separate doership, the fear of death, and the craving for limited objects. All of these are 'struck away' by Brahman-knowledge — not gradually eliminated through practice (though practice prepares the ground) but decisively removed in the act of recognition. The metaphor is of a warrior casting off chains — one decisive act of freedom. This connects back to the battle-narrative of Part 2: the real battle was never between gods and demons but between knowledge and ignorance within the seeker."}
+      {
+        "q": "🔍 Why is the final word repeated — 'pratitiṣṭhati pratitiṣṭhati'?",
+        "a": "The doubled <strong>pratitiṣṭhati</strong> serves three functions simultaneously. <strong>(1) Vedic closure convention</strong>: in the Upanishadic tradition, the last word or phrase of a text is repeated to signal formal completion (samāpti). It tells the listener: the teaching ends here. <strong>(2) Emphasis on irreversibility</strong>: by saying 'is established' twice, the Upanishad insists that this is not a temporary state. The knower does not visit the infinite and return; the establishment is permanent. Once Brahman-knowledge arises, there is no regression. <strong>(3) Performative echo</strong>: the repetition mirrors the teaching method of the text itself — the triple 'vidāṁcakāra brahma iti' of Part 3, the repeated test-patterns of Part 2. The Kena Upanishad teaches through repetition, and its final repetition enacts what it describes: the firm, unshakeable, established knowing."
+      },
+      {
+        "q": "🔍 How does the Kena Upanishad's conclusion compare with its opening question?",
+        "a": "The Kena Upanishad opens with the most radical possible question: <strong>'kena iṣitaṁ patati preṣitaṁ manaḥ'</strong> — 'By whom directed does the mind fly forth?' It asks about the hidden power behind all faculties. The conclusion answers: the one who knows this power <strong>'pratitiṣṭhati'</strong> — is established. The opening word was <strong>kena</strong> (by whom?) — a question. The closing word is <strong>pratitiṣṭhati</strong> (is established) — an answer. But the answer is not a concept; it is a state. The Upanishad does not end with 'Brahman is X' but with 'the knower is established.' The journey from question to establishment passes through four stages: abstract teaching (Part 1), narrative failure (Part 2), grace-revelation (Part 3), and practical integration (Part 4). The entire arc — from the mind's question to the knower's establishment — is the Kena Upanishad's gift."
+      },
+      {
+        "q": "🔍 What does 'apahatya pāpmānam' (having shaken off evil) mean in the Upanishadic context?",
+        "a": "The verb <strong>apahatya</strong> (from apa+√han, 'to strike away') is deliberately violent: not a gentle dissolving but a forceful removal. <strong>Pāpmā</strong> in the Upanishads is not merely moral wrongdoing (as in later Hindu ethics) — it is the entire weight of ignorance, accumulated karma, and the identification with the finite. It includes: identification with the body, the sense of separate doership, the fear of death, and the craving for limited objects. All of these are 'struck away' by Brahman-knowledge — not gradually eliminated through practice (though practice prepares the ground) but decisively removed in the act of recognition. The metaphor is of a warrior casting off chains — one decisive act of freedom. This connects back to the battle-narrative of Part 2: the real battle was never between gods and demons but between knowledge and ignorance within the seeker."
+      }
     ]
   }
 ]
