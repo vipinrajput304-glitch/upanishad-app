@@ -6,15 +6,39 @@
     "hi": "वह यह सत्य है — मन्त्रों में कवियों (ऋषियों) ने जो कर्म (यज्ञ-कर्म) देखे — वे त्रेता (तीन अग्नियों वाले यज्ञ) में बहुधा (बहुत प्रकार से) विस्तारित (सन्ततानि) हैं। हे सत्यकाम (सत्य की इच्छा रखने वाले) पुरुषो! उन कर्मों को नियमपूर्वक (नियतम्) आचरण करो — यह तुम्हारा सुकृत-लोक (पुण्य-लोक) का मार्ग (पन्थाः) है।",
     "en": "This is the truth: the ritual actions (karmāṇi) that the sages (kavayaḥ) saw in the mantras are spread in many ways (bahudhā santatāni) across the three sacrificial fires (tretāyām). Perform them diligently (niyatam), O lovers of truth (satya-kāmāḥ)! This is your path (panthāḥ) to the world of good deeds (sukṛtasya loke).",
     "ws": [
-      {"s": "कवयः (kavayaḥ)", "h": "कवि / ऋषि / द्रष्टा", "e": "sages / seers — those who 'saw' (apaśyan) the ritual actions in the Vedic mantras; kavi here = ṛṣi, the original receivers of Vedic revelation"},
-      {"s": "कर्माणि (karmāṇi)", "h": "कर्म / यज्ञ-कर्म / अनुष्ठान", "e": "ritual actions — the sacrificial rites prescribed by the Vedas; the plural indicates the great variety of Vedic rituals"},
-      {"s": "त्रेतायाम् (tretāyām)", "h": "तीन अग्नियों में / त्रेताग्नि में", "e": "in the three fires — tretā = triad; the three Vedic sacrificial fires: gārhapatya (householder's fire), āhavanīya (offering fire), dakṣiṇāgni (southern fire)"},
-      {"s": "सन्ततानि (santatāni)", "h": "विस्तारित / फैले हुए / बहुविध", "e": "spread out / extended — from √tan (to stretch); the rituals are elaborately spread across the three fires in many forms"},
-      {"s": "सत्यकामाः (satya-kāmāḥ)", "h": "सत्य की कामना (इच्छा) रखने वाले", "e": "lovers of truth / those who desire the true — satya (truth) + kāma (desire); an epithet for earnest seekers"},
-      {"s": "सुकृतस्य लोके (sukṛtasya loke)", "h": "सुकृत (पुण्य) के लोक में / पुण्य-लोक में", "e": "in the world of merit — sukṛta (well-done/meritorious) + loka (world); the heavenly realm earned through good deeds and proper ritual"}
+      {
+        "s": "कवयः",
+        "h": "कवि / ऋषि / द्रष्टा",
+        "e": "sages / seers"
+      },
+      {
+        "s": "कर्माणि",
+        "h": "कर्म / यज्ञ-कर्म / अनुष्ठान",
+        "e": "ritual actions"
+      },
+      {
+        "s": "त्रेतायाम्",
+        "h": "तीन अग्नियों में / त्रेताग्नि में",
+        "e": "in the three fires"
+      },
+      {
+        "s": "सन्ततानि",
+        "h": "विस्तारित / फैले हुए / बहुविध",
+        "e": "spread out / extended"
+      },
+      {
+        "s": "सत्यकामाः",
+        "h": "सत्य की कामना (इच्छा) रखने वाले",
+        "e": "lovers of truth / those who desire the true"
+      },
+      {
+        "s": "सुकृतस्य लोके",
+        "h": "सुकृत (पुण्य) के लोक में / पुण्य-लोक में",
+        "e": "in the world of merit"
+      }
     ],
     "gr": "<strong>The ritual path introduced</strong>: the Muṇḍaka now turns to aparā vidyā in action — the path of ritual (karma-mārga). This mantra <em>endorses</em> the ritual path: it is 'satya' (true), it was 'seen' by the seers, and it leads to sukṛta-loka (the world of merit). <strong>tretāyām</strong> — 'in the three fires': the tretāgni (three sacred fires) are the foundation of Vedic ritual: (1) <em>gārhapatya</em> — the householder's fire, always burning, source of all other fires; (2) <em>āhavanīya</em> — the offering fire, into which oblations are poured; (3) <em>dakṣiṇāgni</em> — the southern fire, associated with the ancestors. <strong>The ambiguity</strong>: the mantra says 'this is your path to the world of good deeds' — not 'this is your path to liberation (mokṣa).' The destination is sukṛta-loka — a heavenly reward — not the Imperishable (akṣara). This is the beginning of the Muṇḍaka's critique: rituals work, but they don't take you to the ultimate goal.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.1 — This mantra begins the Muṇḍaka's famous critique of the ritual path (karma-kāṇḍa). The section (1.2.1-13) first presents the ritualistic religion sympathetically (mantras 1-6) and then delivers a devastating critique (mantras 7-13). The tretāgni (three fires) system is central to Śrauta ritual — the elaborate Vedic sacrifices described in the Brāhmaṇa texts. The phrase 'sukṛtasya loke' (world of merit) is significant — it explicitly limits the ritual path's destination to heaven, not to Brahman.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -36,8 +60,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The three sacrificial fires (tretāgni)", "a": "The <strong>tretāgni</strong> — the three sacred fires — are the foundation of Vedic Śrauta (solemn) ritual: <strong>The three fires</strong>: (1) <strong>Gārhapatya</strong> (गार्हपत्य) — the 'householder's fire,' always kept burning in the home; it is the 'mother fire' from which the other two are kindled; round in shape, placed to the west. (2) <strong>Āhavanīya</strong> (आहवनीय) — the 'offering fire,' into which oblations (havis) are poured during sacrifice; square in shape, placed to the east; it is the 'mouth of the gods.' (3) <strong>Dakṣiṇāgni</strong> (दक्षिणाग्नि) — the 'southern fire,' associated with the ancestors (pitṛs) and with protection against evil; semicircular in shape, placed to the south. <strong>How they function</strong>: in a Vedic sacrifice (yajña), the three fires form a ritual arena. The gārhapatya is the source; the āhavanīya receives offerings to the gods; the dakṣiṇāgni protects and connects to the ancestral realm. Offerings of ghee, milk, soma, grain, and other substances are poured into the fires while Vedic mantras are chanted. <strong>Why the Muṇḍaka mentions them</strong>: the tretāgni system represents the <em>full apparatus</em> of Vedic ritual — not just domestic worship but the elaborate, expensive, multi-priest Śrauta ceremonies. The Muṇḍaka acknowledges their validity ('satya') before critiquing their <em>sufficiency</em> (mantras 7-13)."},
-      {"q": "🔍 Why does the Muṇḍaka first endorse rituals before critiquing them?", "a": "The Muṇḍaka's <strong>rhetorical strategy</strong> is deliberate: first present the ritual path sympathetically (1.2.1-6), then deliver the critique (1.2.7-13). <strong>Why not just reject rituals outright?</strong> (1) <strong>Respect for tradition</strong>: the audience (Śaunaka and his circle) are learned householders steeped in Vedic ritual. Dismissing their entire way of life without acknowledgment would be counterproductive. (2) <strong>Intellectual honesty</strong>: the ritual path <em>does</em> work — it produces real results (heavenly rewards, prosperity, social order). Denying this would be false. (3) <strong>Pedagogical progression</strong>: the student must understand <em>what</em> is being transcended before being told to transcend it. You can't go 'beyond' something you don't understand. (4) <strong>The critique is about sufficiency, not validity</strong>: the Muṇḍaka's argument is not 'rituals are false' but 'rituals are insufficient.' They deliver what they promise (sukṛta-loka) but they cannot deliver what they don't promise (the Imperishable). <strong>The parallel</strong>: this is the same strategy used in the Bhagavad Gītā (2.42-46), where Kṛṣṇa first describes those who are attached to Vedic rituals ('flowery speech of the unwise') and then says 'the Vedas deal with the three guṇas; be free of the three guṇas.' Acknowledge, then transcend."}
+      {
+        "q": "🔍 The three sacrificial fires (tretāgni)",
+        "a": "The <strong>tretāgni</strong> — the three sacred fires — are the foundation of Vedic Śrauta (solemn) ritual: <strong>The three fires</strong>: (1) <strong>Gārhapatya</strong> (गार्हपत्य) — the 'householder's fire,' always kept burning in the home; it is the 'mother fire' from which the other two are kindled; round in shape, placed to the west. (2) <strong>Āhavanīya</strong> (आहवनीय) — the 'offering fire,' into which oblations (havis) are poured during sacrifice; square in shape, placed to the east; it is the 'mouth of the gods.' (3) <strong>Dakṣiṇāgni</strong> (दक्षिणाग्नि) — the 'southern fire,' associated with the ancestors (pitṛs) and with protection against evil; semicircular in shape, placed to the south. <strong>How they function</strong>: in a Vedic sacrifice (yajña), the three fires form a ritual arena. The gārhapatya is the source; the āhavanīya receives offerings to the gods; the dakṣiṇāgni protects and connects to the ancestral realm. Offerings of ghee, milk, soma, grain, and other substances are poured into the fires while Vedic mantras are chanted. <strong>Why the Muṇḍaka mentions them</strong>: the tretāgni system represents the <em>full apparatus</em> of Vedic ritual — not just domestic worship but the elaborate, expensive, multi-priest Śrauta ceremonies. The Muṇḍaka acknowledges their validity ('satya') before critiquing their <em>sufficiency</em> (mantras 7-13)."
+      },
+      {
+        "q": "🔍 Why does the Muṇḍaka first endorse rituals before critiquing them?",
+        "a": "The Muṇḍaka's <strong>rhetorical strategy</strong> is deliberate: first present the ritual path sympathetically (1.2.1-6), then deliver the critique (1.2.7-13). <strong>Why not just reject rituals outright?</strong> (1) <strong>Respect for tradition</strong>: the audience (Śaunaka and his circle) are learned householders steeped in Vedic ritual. Dismissing their entire way of life without acknowledgment would be counterproductive. (2) <strong>Intellectual honesty</strong>: the ritual path <em>does</em> work — it produces real results (heavenly rewards, prosperity, social order). Denying this would be false. (3) <strong>Pedagogical progression</strong>: the student must understand <em>what</em> is being transcended before being told to transcend it. You can't go 'beyond' something you don't understand. (4) <strong>The critique is about sufficiency, not validity</strong>: the Muṇḍaka's argument is not 'rituals are false' but 'rituals are insufficient.' They deliver what they promise (sukṛta-loka) but they cannot deliver what they don't promise (the Imperishable). <strong>The parallel</strong>: this is the same strategy used in the Bhagavad Gītā (2.42-46), where Kṛṣṇa first describes those who are attached to Vedic rituals ('flowery speech of the unwise') and then says 'the Vedas deal with the three guṇas; be free of the three guṇas.' Acknowledge, then transcend."
+      }
     ]
   },
   {
@@ -47,15 +77,39 @@
     "hi": "जब अग्नि (हव्यवाहन — oblation-carrier) समिद्ध (well-kindled / प्रज्ज्वलित) हो और ज्वाला (अर्चिः) लेलायते (लहराती / चमकती) हो — तब दो आज्यभागों (घृत-आहुतियों / ghee-oblations) के बीच में (अन्तरेण) आहुतियाँ (offerings) प्रतिपादयेत् (प्रदान करे / डाले)।",
     "en": "When the flame (arciḥ) flickers (lelāyate) in the well-kindled (samiddhe) fire (havya-vāhane — the carrier of oblations), then one should offer the oblations (āhutīḥ) between the two ājya-bhāgas (ghee-portions).",
     "ws": [
-      {"s": "लेलायते (lelāyate)", "h": "लहराती है / चमकती है / हिलती-डुलती है", "e": "flickers / licks — intensive (frequentative) of √lī (to cling/lick); describes the dancing, flickering motion of a flame; a vivid sensory image"},
-      {"s": "अर्चिः (arciḥ)", "h": "ज्वाला / अग्निशिखा", "e": "flame — the visible tongue of fire; from √ṛc (to shine/praise); cognate with 'arc'"},
-      {"s": "समिद्धे (samiddhe)", "h": "प्रज्ज्वलित / अच्छी तरह जला हुआ", "e": "well-kindled — sam + iddha (past participle of √indh, to kindle); the fire must be properly lit before offerings are made"},
-      {"s": "हव्यवाहने (havya-vāhane)", "h": "हव्य (आहुति) को वहन करने वाले (अग्नि)", "e": "the carrier of oblations — havya (that which is offered) + vāhana (carrier); a common epithet for Agni (fire-god), who carries offerings to the gods"},
-      {"s": "आज्यभागौ (ājya-bhāgau)", "h": "दो आज्य-भाग / घृत (घी) की दो आहुतियाँ", "e": "the two ghee-portions — ājya (clarified butter/ghee) + bhāga (portion); two preliminary ghee-oblations offered to Agni and Soma before the main offerings"},
-      {"s": "आहुतीः (āhutīḥ)", "h": "आहुतियाँ / यज्ञ में डाली जाने वाली सामग्री", "e": "oblations — from ā + √hu (to pour/offer); the substances (ghee, milk, soma, grain) poured into the sacrificial fire"}
+      {
+        "s": "लेलायते",
+        "h": "लहराती है / चमकती है / हिलती-डुलती है",
+        "e": "flickers / licks"
+      },
+      {
+        "s": "अर्चिः",
+        "h": "ज्वाला / अग्निशिखा",
+        "e": "flame"
+      },
+      {
+        "s": "समिद्धे",
+        "h": "प्रज्ज्वलित / अच्छी तरह जला हुआ",
+        "e": "well-kindled"
+      },
+      {
+        "s": "हव्यवाहने",
+        "h": "हव्य (आहुति) को वहन करने वाले (अग्नि)",
+        "e": "the carrier of oblations"
+      },
+      {
+        "s": "आज्यभागौ",
+        "h": "दो आज्य-भाग / घृत (घी) की दो आहुतियाँ",
+        "e": "the two ghee-portions"
+      },
+      {
+        "s": "आहुतीः",
+        "h": "आहुतियाँ / यज्ञ में डाली जाने वाली सामग्री",
+        "e": "oblations"
+      }
     ],
     "gr": "<strong>Ritual precision</strong>: this mantra describes the <em>correct technique</em> of offering — when the flame is dancing (lelāyate) in the well-kindled fire, place the oblations between the two preliminary ājya-bhāgas (ghee-portions). <strong>lelāyate</strong> — an intensive (yaṅ-luk) form of √lī, describing the flame's <em>flickering</em> — a vivid image that establishes the sensory beauty of the ritual. The fire is alive, moving, ready to receive. <strong>ājya-bhāgau antareṇa</strong> — 'between the two ājya-bhāgas': this is a specific ritual rule — the main oblations are inserted between two preliminary ghee-offerings to Agni and Soma. The precision reflects the exactness of Śrauta procedure — every step is prescribed, every moment is timed. <strong>The purpose of this detail</strong>: the Muṇḍaka is showing the <em>beauty and precision</em> of the ritual system — acknowledging its sophistication before critiquing its ultimate sufficiency.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.2 — The two ājya-bhāgas are preliminary oblations of ghee offered at the beginning of a Vedic sacrifice — one to Agni and one to Soma. The main offerings (āhutīḥ) are then placed between these two. This technical detail comes from the Śrauta Sūtras (e.g., Āpastamba Śrauta Sūtra 1.14-15). The intensive form 'lelāyate' is poetically striking — it captures the living, dancing quality of sacrificial fire. The Ṛg Veda frequently describes Agni as 'havya-vāhana' (carrier of oblations) — cf. ṚV 1.1.1: 'agnim īḍe purohitam.'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -77,8 +131,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The beauty and precision of Vedic ritual", "a": "This mantra is remarkable for its <strong>sensory vividness</strong>: <strong>'lelāyate arciḥ'</strong> — the flame <em>flickers</em>, <em>dances</em>, <em>licks</em>. The intensive (frequentative) form 'lelāyate' captures the ceaseless, rhythmic movement of fire — a living, breathing entity, not a static object. The Vedic ritualist sees fire as <em>alive</em> — Agni is a god, a messenger, a carrier. <strong>The ritual sequence</strong>: (1) Kindle the fire properly (samiddhe). (2) Wait for the flame to dance (lelāyate arciḥ). (3) Offer the two ājya-bhāgas (preliminary ghee-portions — one to Agni, one to Soma). (4) Between these two, offer the main āhutīḥ (oblations). <strong>Why such precision?</strong> Vedic ritual is a <em>technology</em> — it operates on the principle that specific actions performed in specific sequences produce specific results. The timing matters (when the flame dances), the sequence matters (between the two ājya-bhāgas), and the material matters (ghee, grain, soma). Like any technology, it works only when operated correctly. <strong>The Muṇḍaka's point</strong>: the ritual is precise, beautiful, and effective. But precisely <em>because</em> it is a technology, it has limits. A technology produces results within its domain — but it cannot transcend its domain. Fire can cook food and carry offerings; it cannot reveal the Imperishable."},
-      {"q": "🔍 Agni as havya-vāhana (carrier of oblations)", "a": "<strong>Agni</strong> (fire) is called <strong>havya-vāhana</strong> — 'the carrier of oblations' — because of his unique role in Vedic cosmology: <strong>The mediator</strong>: Agni stands between the human world and the divine world. When a priest pours ghee into the fire, Agni 'carries' (vahati) the offering up to the gods in heaven. He is the <em>postal service of the cosmos</em> — transforming physical substances (ghee, grain) into subtle offerings that the gods can receive. <strong>Ṛg Vedic precedent</strong>: the very first verse of the Ṛg Veda (1.1.1) invokes Agni: 'agnim īḍe purohitaṁ yajñasya devam ṛtvijam / hotāraṁ ratnadhātamam' — 'I praise Agni, the household priest, the divine minister of the sacrifice, the invoker, the bestower of treasures.' <strong>The multiple Agnis</strong>: Vedic tradition recognises multiple forms of Agni: (1) <em>Cosmic Agni</em> — the fire that animates the universe. (2) <em>Ritual Agni</em> — the sacrificial fire that carries offerings. (3) <em>Digestive Agni</em> (Vaiśvānara) — the fire in the belly that digests food. (4) <em>Lightning</em> — Agni in the sky. All are aspects of one principle: the transformative, mediating fire that converts one form of reality into another."}
+      {
+        "q": "🔍 The beauty and precision of Vedic ritual",
+        "a": "This mantra is remarkable for its <strong>sensory vividness</strong>: <strong>'lelāyate arciḥ'</strong> — the flame <em>flickers</em>, <em>dances</em>, <em>licks</em>. The intensive (frequentative) form 'lelāyate' captures the ceaseless, rhythmic movement of fire — a living, breathing entity, not a static object. The Vedic ritualist sees fire as <em>alive</em> — Agni is a god, a messenger, a carrier. <strong>The ritual sequence</strong>: (1) Kindle the fire properly (samiddhe). (2) Wait for the flame to dance (lelāyate arciḥ). (3) Offer the two ājya-bhāgas (preliminary ghee-portions — one to Agni, one to Soma). (4) Between these two, offer the main āhutīḥ (oblations). <strong>Why such precision?</strong> Vedic ritual is a <em>technology</em> — it operates on the principle that specific actions performed in specific sequences produce specific results. The timing matters (when the flame dances), the sequence matters (between the two ājya-bhāgas), and the material matters (ghee, grain, soma). Like any technology, it works only when operated correctly. <strong>The Muṇḍaka's point</strong>: the ritual is precise, beautiful, and effective. But precisely <em>because</em> it is a technology, it has limits. A technology produces results within its domain — but it cannot transcend its domain. Fire can cook food and carry offerings; it cannot reveal the Imperishable."
+      },
+      {
+        "q": "🔍 Agni as havya-vāhana (carrier of oblations)",
+        "a": "<strong>Agni</strong> (fire) is called <strong>havya-vāhana</strong> — 'the carrier of oblations' — because of his unique role in Vedic cosmology: <strong>The mediator</strong>: Agni stands between the human world and the divine world. When a priest pours ghee into the fire, Agni 'carries' (vahati) the offering up to the gods in heaven. He is the <em>postal service of the cosmos</em> — transforming physical substances (ghee, grain) into subtle offerings that the gods can receive. <strong>Ṛg Vedic precedent</strong>: the very first verse of the Ṛg Veda (1.1.1) invokes Agni: 'agnim īḍe purohitaṁ yajñasya devam ṛtvijam / hotāraṁ ratnadhātamam' — 'I praise Agni, the household priest, the divine minister of the sacrifice, the invoker, the bestower of treasures.' <strong>The multiple Agnis</strong>: Vedic tradition recognises multiple forms of Agni: (1) <em>Cosmic Agni</em> — the fire that animates the universe. (2) <em>Ritual Agni</em> — the sacrificial fire that carries offerings. (3) <em>Digestive Agni</em> (Vaiśvānara) — the fire in the belly that digests food. (4) <em>Lightning</em> — Agni in the sky. All are aspects of one principle: the transformative, mediating fire that converts one form of reality into another."
+      }
     ]
   },
   {
@@ -88,15 +148,39 @@
     "hi": "जिसका अग्निहोत्र दर्श (अमावस्या यज्ञ) रहित है, पौर्णमास (पूर्णिमा यज्ञ) रहित है, चातुर्मास्य (चार-मासी यज्ञ) रहित है, आग्रयण (प्रथम-फसल यज्ञ) रहित है, अतिथि-वर्जित (बिना अतिथि-सेवा का) है, आहुति-रहित (अहुतम्) है, वैश्वदेव-रहित है, और अविधि से (incorrectly) हवन किया गया है — वह (दोषपूर्ण कर्म) उसके सात लोकों (ā-saptamān lokān) को नष्ट (हिनस्ति) कर देता है।",
     "en": "He whose agnihotra (daily fire-offering) is without the new-moon rite (adarśa), without the full-moon rite (apaurṇamāsa), without the four-monthly rite (acāturmāsya), without the first-harvest rite (anāgrayaṇa), without hospitality to guests (atithi-varjita), without oblation (ahuta), without the vaiśvadeva offering (avaiśvadeva), or performed incorrectly (avidhinā huta) — such defective ritual destroys his seven worlds (ā-saptamān lokān hinasti).",
     "ws": [
-      {"s": "अग्निहोत्रम् (agnihotram)", "h": "अग्निहोत्र — नित्य प्रातः-सायं अग्नि-आहुति", "e": "the agnihotra — the daily morning-and-evening fire-offering; the most fundamental Vedic ritual, performed by every initiated householder without fail"},
-      {"s": "अदर्शम् (adarśam)", "h": "दर्श (अमावस्या-यज्ञ) रहित", "e": "without the new-moon rite — a (without) + darśa (new-moon sacrifice); the darśa-pūrṇamāsa is a fortnightly pair of rituals"},
-      {"s": "चातुर्मास्यम् (cāturmāsyam)", "h": "चातुर्मास्य — चार-मासी यज्ञ", "e": "the four-monthly rite — performed three times a year at the junctures of the three seasons (vaiśva-deva, varuṇa-praghāsa, sāka-medha)"},
-      {"s": "आग्रयणम् (āgrayaṇam)", "h": "आग्रयण — प्रथम फसल का यज्ञ", "e": "the first-harvest rite — a sacrifice performed when the first grain of the season is harvested; offering the first-fruits to the gods"},
-      {"s": "अतिथिवर्जितम् (atithi-varjitam)", "h": "अतिथि-सत्कार से रहित", "e": "without hospitality to guests — atithi (guest) + varjita (excluded); hospitality is a sacred duty integral to the sacrificial life"},
-      {"s": "सप्तमान् लोकान् (saptamān lokān)", "h": "सात लोकों को", "e": "seven worlds — the seven cosmic realms (bhūḥ, bhuvaḥ, svaḥ, mahaḥ, janaḥ, tapaḥ, satyam); defective ritual destroys access to all seven"}
+      {
+        "s": "अग्निहोत्रम्",
+        "h": "अग्निहोत्र — नित्य प्रातः-सायं अग्नि-आहुति",
+        "e": "the agnihotra"
+      },
+      {
+        "s": "अदर्शम्",
+        "h": "दर्श (अमावस्या-यज्ञ) रहित",
+        "e": "without the new-moon rite"
+      },
+      {
+        "s": "चातुर्मास्यम्",
+        "h": "चातुर्मास्य — चार-मासी यज्ञ",
+        "e": "the four-monthly rite"
+      },
+      {
+        "s": "आग्रयणम्",
+        "h": "आग्रयण — प्रथम फसल का यज्ञ",
+        "e": "the first-harvest rite"
+      },
+      {
+        "s": "अतिथिवर्जितम्",
+        "h": "अतिथि-सत्कार से रहित",
+        "e": "without hospitality to guests"
+      },
+      {
+        "s": "सप्तमान् लोकान्",
+        "h": "सात लोकों को",
+        "e": "seven worlds"
+      }
     ],
     "gr": "<strong>The consequences of defective ritual</strong>: this mantra lists eight ways a ritual can be defective (missing components or incorrect performance) and warns that such defective ritual <em>destroys</em> the performer's seven worlds. <strong>Eight defects</strong>: (1) adarśa — no new-moon rite, (2) apaurṇamāsa — no full-moon rite, (3) acāturmāsya — no four-monthly rite, (4) anāgrayaṇa — no first-harvest rite, (5) atithi-varjita — no guest-hospitality, (6) ahuta — no oblation offered, (7) avaiśvadeva — no vaiśvadeva offering, (8) avidhinā huta — offered incorrectly. <strong>ā-saptamān lokān hinasti</strong> — 'destroys his seven worlds': the seven worlds are the seven cosmic planes (bhūḥ through satyam). Defective ritual does not merely fail to produce merit — it actively <em>destroys</em> the performer's claim to all seven worlds. <strong>The Muṇḍaka's rhetorical point</strong>: the ritual system is so <em>demanding</em> and so <em>unforgiving</em> that even a small deficiency can destroy everything. This sets up the critique: a path with such extreme fragility — where one missing component ruins the whole enterprise — cannot be the ultimate path.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.3 — The list of rituals (darśa-pūrṇamāsa, cāturmāsya, āgrayaṇa, vaiśvadeva) comes from the Śrauta and Gṛhya Sūtra traditions. The 'seven worlds' (sapta lokāḥ) are enumerated in various texts — the standard list from the Taittirīya Āraṇyaka is bhūḥ, bhuvaḥ, svaḥ, mahaḥ, janaḥ, tapaḥ, satyam. The severity of the warning ('destroys seven worlds') reflects the Brāhmaṇa-era emphasis on ritual exactness — cf. the Śatapatha Brāhmaṇa's numerous warnings about the consequences of ritual errors.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -118,8 +202,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The fragility of the ritual system", "a": "This mantra reveals a critical characteristic of the Vedic ritual path: its <strong>extreme fragility</strong>: <strong>Eight ways to fail</strong>: the mantra lists eight specific deficiencies — any one of which 'destroys seven worlds.' This means the ritual path demands <em>perfect</em> compliance: every component must be present, every procedure must be correct. <strong>The agnihotra ecosystem</strong>: the daily agnihotra is not a standalone practice — it exists within an <em>ecosystem</em> of rituals: new-moon rites (fortnightly), full-moon rites (fortnightly), four-monthly rites (three per year), first-harvest rites (annual), guest-hospitality (ongoing), and vaiśvadeva offerings (daily). Miss any one of these supporting rituals, and the entire edifice collapses. <strong>Why such severity?</strong> The Brāhmaṇa texts (especially the Śatapatha Brāhmaṇa) are filled with similar warnings. The logic is: a sacrifice is a <em>cosmic mechanism</em> — it operates on precise cause-and-effect principles. Like a machine, if one gear is missing, the machine doesn't just produce less — it breaks. <strong>The Muṇḍaka's implicit argument</strong>: any path that can be destroyed by a single missing component is <em>inherently unstable</em>. It depends on conditions (a functioning fire, correct procedure, proper timing, guest-presence). The Imperishable (akṣara), by contrast, is <em>unconditional</em> — it depends on nothing. This contrast prepares the reader for the explicit critique in mantras 7-13."},
-      {"q": "🔍 The seven worlds (sapta lokāḥ)", "a": "The <strong>seven worlds</strong> (sapta lokāḥ) are the seven cosmic planes of existence in Vedic cosmology: <strong>Standard enumeration</strong> (from the Taittirīya Āraṇyaka and other texts): (1) <strong>Bhūḥ</strong> — the earth-plane (physical world). (2) <strong>Bhuvaḥ</strong> — the atmosphere-plane (intermediate world). (3) <strong>Svaḥ</strong> — the heaven-plane (celestial world). (4) <strong>Mahaḥ</strong> — the plane of greatness. (5) <strong>Janaḥ</strong> — the plane of beings (creative plane). (6) <strong>Tapaḥ</strong> — the plane of austerity. (7) <strong>Satyam</strong> — the plane of truth (highest). <strong>Connection to the Gāyatrī</strong>: the first three (bhūḥ, bhuvaḥ, svaḥ) are the three <em>vyāhṛtis</em> — the sacred utterances chanted with the Gāyatrī mantra every morning and evening. They represent the three basic divisions of the cosmos. <strong>'Destroys seven worlds'</strong>: defective ritual doesn't just fail to gain heaven — it actively <em>destroys</em> the performer's connection to all seven planes. This is a strong claim: incorrect performance is worse than non-performance. It's better to not sacrifice than to sacrifice badly."}
+      {
+        "q": "🔍 The fragility of the ritual system",
+        "a": "This mantra reveals a critical characteristic of the Vedic ritual path: its <strong>extreme fragility</strong>: <strong>Eight ways to fail</strong>: the mantra lists eight specific deficiencies — any one of which 'destroys seven worlds.' This means the ritual path demands <em>perfect</em> compliance: every component must be present, every procedure must be correct. <strong>The agnihotra ecosystem</strong>: the daily agnihotra is not a standalone practice — it exists within an <em>ecosystem</em> of rituals: new-moon rites (fortnightly), full-moon rites (fortnightly), four-monthly rites (three per year), first-harvest rites (annual), guest-hospitality (ongoing), and vaiśvadeva offerings (daily). Miss any one of these supporting rituals, and the entire edifice collapses. <strong>Why such severity?</strong> The Brāhmaṇa texts (especially the Śatapatha Brāhmaṇa) are filled with similar warnings. The logic is: a sacrifice is a <em>cosmic mechanism</em> — it operates on precise cause-and-effect principles. Like a machine, if one gear is missing, the machine doesn't just produce less — it breaks. <strong>The Muṇḍaka's implicit argument</strong>: any path that can be destroyed by a single missing component is <em>inherently unstable</em>. It depends on conditions (a functioning fire, correct procedure, proper timing, guest-presence). The Imperishable (akṣara), by contrast, is <em>unconditional</em> — it depends on nothing. This contrast prepares the reader for the explicit critique in mantras 7-13."
+      },
+      {
+        "q": "🔍 The seven worlds (sapta lokāḥ)",
+        "a": "The <strong>seven worlds</strong> (sapta lokāḥ) are the seven cosmic planes of existence in Vedic cosmology: <strong>Standard enumeration</strong> (from the Taittirīya Āraṇyaka and other texts): (1) <strong>Bhūḥ</strong> — the earth-plane (physical world). (2) <strong>Bhuvaḥ</strong> — the atmosphere-plane (intermediate world). (3) <strong>Svaḥ</strong> — the heaven-plane (celestial world). (4) <strong>Mahaḥ</strong> — the plane of greatness. (5) <strong>Janaḥ</strong> — the plane of beings (creative plane). (6) <strong>Tapaḥ</strong> — the plane of austerity. (7) <strong>Satyam</strong> — the plane of truth (highest). <strong>Connection to the Gāyatrī</strong>: the first three (bhūḥ, bhuvaḥ, svaḥ) are the three <em>vyāhṛtis</em> — the sacred utterances chanted with the Gāyatrī mantra every morning and evening. They represent the three basic divisions of the cosmos. <strong>'Destroys seven worlds'</strong>: defective ritual doesn't just fail to gain heaven — it actively <em>destroys</em> the performer's connection to all seven planes. This is a strong claim: incorrect performance is worse than non-performance. It's better to not sacrifice than to sacrifice badly."
+      }
     ]
   },
   {
@@ -129,16 +219,44 @@
     "hi": "काली (black), कराली (terrifying), मनोजवा (swift-as-mind), सुलोहिता (deep-red), सुधूम्रवर्णा (smoky-purple), स्फुलिङ्गिनी (spark-showering), और विश्वरुची देवी (all-gleaming goddess) — ये लेलायमाना (flickering) अग्नि की सात जिह्वाएँ (seven tongues) हैं।",
     "en": "Kālī (the black), Karālī (the terrifying), Manojvā (swift-as-mind), Sulohitā (the deep-red), Sudhūmravarṇā (the smoky-purple), Sphuliṅginī (the spark-scattering), and Viśvarucī Devī (the all-gleaming goddess) — these seven flickering (lelāyamānā) tongues are the seven tongues (sapta jihvāḥ) of fire.",
     "ws": [
-      {"s": "काली (kālī)", "h": "काली / काले रंग की ज्वाला", "e": "the black one — the dark-coloured tongue of fire; the first of the seven; kālī = feminine of kāla (black/time)"},
-      {"s": "कराली (karālī)", "h": "कराली / भयंकर / विकराल", "e": "the terrifying one — from karāla (fearful/gaping); the fierce, gaping flame"},
-      {"s": "मनोजवा (mano-javā)", "h": "मन की गति वाली / मन जैसी तेज़", "e": "swift-as-mind — manas (mind) + java (speed); a flame that moves as fast as thought"},
-      {"s": "सुलोहिता (sulohitā)", "h": "गहरी लाल / बहुत लाल", "e": "the deep-red one — su (very) + lohita (red); the intensely crimson flame"},
-      {"s": "स्फुलिङ्गिनी (sphuliṅginī)", "h": "स्फुलिंग (चिनगारी) बिखेरने वाली", "e": "the spark-scattering one — from sphuliṅga (spark); the flame that throws off sparks"},
-      {"s": "विश्वरुची देवी (viśva-rucī devī)", "h": "सर्व-दीप्तिमती देवी / सब ओर चमकने वाली", "e": "the all-gleaming goddess — viśva (all) + ruci (lustre) + devī (goddess); the flame of universal brilliance"},
-      {"s": "लेलायमाना (lelāyamānā)", "h": "लहराती हुई / झिलमिलाती हुई", "e": "flickering — intensive present participle of √lī; the same word-root as 'lelāyate' in mantra 2; describes the continuous dancing motion of flames"}
+      {
+        "s": "काली",
+        "h": "काली / काले रंग की ज्वाला",
+        "e": "the black one"
+      },
+      {
+        "s": "कराली",
+        "h": "कराली / भयंकर / विकराल",
+        "e": "the terrifying one"
+      },
+      {
+        "s": "मनोजवा",
+        "h": "मन की गति वाली / मन जैसी तेज़",
+        "e": "swift-as-mind"
+      },
+      {
+        "s": "सुलोहिता",
+        "h": "गहरी लाल / बहुत लाल",
+        "e": "the deep-red one"
+      },
+      {
+        "s": "स्फुलिङ्गिनी",
+        "h": "स्फुलिंग (चिनगारी) बिखेरने वाली",
+        "e": "the spark-scattering one"
+      },
+      {
+        "s": "विश्वरुची देवी",
+        "h": "सर्व-दीप्तिमती देवी / सब ओर चमकने वाली",
+        "e": "the all-gleaming goddess"
+      },
+      {
+        "s": "लेलायमाना",
+        "h": "लहराती हुई / झिलमिलाती हुई",
+        "e": "flickering"
+      }
     ],
     "gr": "<strong>The seven tongues of fire</strong>: a striking poetic catalogue of fire's seven 'tongues' (jihvāḥ) — each named for a distinct quality of flame. <strong>The names</strong>: (1) Kālī (black), (2) Karālī (terrifying), (3) Manojvā (mind-swift), (4) Sulohitā (deep-red), (5) Sudhūmravarṇā (smoky-purple), (6) Sphuliṅginī (spark-scattering), (7) Viśvarucī Devī (all-gleaming goddess). These names are not arbitrary — they describe the <em>actual visual qualities</em> of fire: the dark base, the fearsome roar, the speed, the red core, the smoky edges, the flying sparks, and the universal brilliance. <strong>lelāyamānā</strong> — 'flickering': connects back to mantra 2's 'lelāyate' — the fire's tongue-like licking motion. <strong>Seven as a sacred number</strong>: the seven tongues correspond to the seven worlds (mantra 3), seven metres, seven priests, seven continents — 'seven' is a number of cosmic completeness in Vedic thought.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.4 — The seven tongues of fire also appear in a variant form in other texts. This list has some overlap with names found in the Atharvaveda hymns to Agni and in later Purāṇic descriptions of fire's forms. The naming convention reveals close observation of actual fire — the black at the base (kālī), the deep-red core (sulohitā), the smoky edges (sudhūmravarṇā), the sparks (sphuliṅginī), and the all-pervading glow (viśvarucī). The feminine gender of all seven names personifies the flames as goddesses — Agni's śaktis (powers). The next mantra will explain how to use these seven tongues in ritual.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -160,8 +278,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The seven tongues of fire — poetry meets observation", "a": "The seven names of fire's tongues are a remarkable fusion of <strong>poetic imagination</strong> and <strong>close empirical observation</strong> of actual fire: <strong>Physical observation</strong>: (1) <strong>Kālī</strong> (black) — the dark, unburned zone at the base of a flame where fuel is still converting to gas. (2) <strong>Karālī</strong> (terrifying) — the fierce, roaring aspect of large fires. (3) <strong>Manojvā</strong> (mind-swift) — the incredible speed with which flames move and spread. (4) <strong>Sulohitā</strong> (deep-red) — the red-orange core of the flame where combustion is most intense. (5) <strong>Sudhūmravarṇā</strong> (smoky-purple) — the purplish-grey edges where smoke and flame mix. (6) <strong>Sphuliṅginī</strong> (spark-scattering) — the flying sparks thrown off by burning wood. (7) <strong>Viśvarucī</strong> (all-gleaming) — the overall radiance that illuminates everything around it. <strong>Mythological layer</strong>: the seven tongues are also the seven <em>śaktis</em> (feminine powers) of Agni — each responsible for carrying specific types of offerings to specific deities. The feminine gender of all seven names (ending in ī/ā) reinforces this: they are goddesses, not just physical phenomena. <strong>Symbolic layer</strong>: the progression from Kālī (black/dark) to Viśvarucī (all-gleaming) mirrors the journey from darkness (ignorance) to light (knowledge) — the central metaphor of all Upanishadic teaching."},
-      {"q": "🔍 Seven as a cosmic number in Vedic thought", "a": "<strong>Seven</strong> (sapta) is one of the most sacred numbers in Vedic cosmology, appearing in dozens of contexts: <strong>Seven tongues of fire</strong> (this mantra). <strong>Seven worlds</strong> (sapta lokāḥ — mantra 3). <strong>Seven metres</strong> (sapta chandāṁsi — gāyatrī, triṣṭubh, jagatī, anuṣṭubh, paṅkti, bṛhatī, uṣṇih). <strong>Seven priests</strong> (sapta ṛtvijah — hotṛ, adhvaryu, udgātṛ, brahman, and three assistants). <strong>Seven rivers</strong> (sapta sindhavaḥ — the sacred rivers of the Ṛg Vedic landscape). <strong>Seven sages</strong> (saptarṣi — the seven great seers who form the constellation Ursa Major). <strong>Seven horses of the Sun</strong> (the Sun-god's chariot is drawn by seven horses, one for each day of the week or each colour of the spectrum). <strong>Why seven?</strong> The number seven appears to represent <em>cosmic completeness</em> — the full range of a phenomenon. Seven tongues = the <em>complete</em> fire. Seven worlds = the <em>complete</em> cosmos. Seven sages = the <em>complete</em> lineage of wisdom. The recurrence of seven across so many domains suggests that Vedic thinkers perceived a <em>sevenfold structure</em> in reality itself."}
+      {
+        "q": "🔍 The seven tongues of fire — poetry meets observation",
+        "a": "The seven names of fire's tongues are a remarkable fusion of <strong>poetic imagination</strong> and <strong>close empirical observation</strong> of actual fire: <strong>Physical observation</strong>: (1) <strong>Kālī</strong> (black) — the dark, unburned zone at the base of a flame where fuel is still converting to gas. (2) <strong>Karālī</strong> (terrifying) — the fierce, roaring aspect of large fires. (3) <strong>Manojvā</strong> (mind-swift) — the incredible speed with which flames move and spread. (4) <strong>Sulohitā</strong> (deep-red) — the red-orange core of the flame where combustion is most intense. (5) <strong>Sudhūmravarṇā</strong> (smoky-purple) — the purplish-grey edges where smoke and flame mix. (6) <strong>Sphuliṅginī</strong> (spark-scattering) — the flying sparks thrown off by burning wood. (7) <strong>Viśvarucī</strong> (all-gleaming) — the overall radiance that illuminates everything around it. <strong>Mythological layer</strong>: the seven tongues are also the seven <em>śaktis</em> (feminine powers) of Agni — each responsible for carrying specific types of offerings to specific deities. The feminine gender of all seven names (ending in ī/ā) reinforces this: they are goddesses, not just physical phenomena. <strong>Symbolic layer</strong>: the progression from Kālī (black/dark) to Viśvarucī (all-gleaming) mirrors the journey from darkness (ignorance) to light (knowledge) — the central metaphor of all Upanishadic teaching."
+      },
+      {
+        "q": "🔍 Seven as a cosmic number in Vedic thought",
+        "a": "<strong>Seven</strong> (sapta) is one of the most sacred numbers in Vedic cosmology, appearing in dozens of contexts: <strong>Seven tongues of fire</strong> (this mantra). <strong>Seven worlds</strong> (sapta lokāḥ — mantra 3). <strong>Seven metres</strong> (sapta chandāṁsi — gāyatrī, triṣṭubh, jagatī, anuṣṭubh, paṅkti, bṛhatī, uṣṇih). <strong>Seven priests</strong> (sapta ṛtvijah — hotṛ, adhvaryu, udgātṛ, brahman, and three assistants). <strong>Seven rivers</strong> (sapta sindhavaḥ — the sacred rivers of the Ṛg Vedic landscape). <strong>Seven sages</strong> (saptarṣi — the seven great seers who form the constellation Ursa Major). <strong>Seven horses of the Sun</strong> (the Sun-god's chariot is drawn by seven horses, one for each day of the week or each colour of the spectrum). <strong>Why seven?</strong> The number seven appears to represent <em>cosmic completeness</em> — the full range of a phenomenon. Seven tongues = the <em>complete</em> fire. Seven worlds = the <em>complete</em> cosmos. Seven sages = the <em>complete</em> lineage of wisdom. The recurrence of seven across so many domains suggests that Vedic thinkers perceived a <em>sevenfold structure</em> in reality itself."
+      }
     ]
   },
   {
@@ -171,14 +295,34 @@
     "hi": "इन (सात ज्वालाओं में) जो भ्राजमान (blazing) होते हुए यथाकालम् (proper time पर) चरते (कर्म करते) हैं — और आहुतियाँ (offerings) आददायन् (उचित रूप से ग्रहण की जाती हैं) — उसे ये (आहुतियाँ) सूर्य की रश्मियों (किरणों) के रूप में ले जाती हैं — जहाँ देवताओं का एक पति (lord) अधिवास (dwelling) करता है।",
     "en": "He who performs (carate) in these blazing (bhrājamāneṣu) [fires] and whose oblations (āhutayaḥ) are properly received (ādadāyan) at the right time (yathā-kālam) — him these [oblations], as rays of the sun (sūryasya raśmayaḥ), lead (nayanti) to where the one lord of the gods (devānāṁ patiḥ) dwells (adhivāsaḥ).",
     "ws": [
-      {"s": "भ्राजमानेषु (bhrājamāneṣu)", "h": "चमकती हुई / प्रज्ज्वलित (ज्वालाओं में)", "e": "in the blazing [fires/flames] — present participle of √bhrāj (to shine/blaze); the fires must be brilliantly lit for the ritual to succeed"},
-      {"s": "यथाकालम् (yathā-kālam)", "h": "उचित समय पर / निर्धारित काल में", "e": "at the proper time — yathā (as/according to) + kāla (time); timing is critical in Vedic ritual — dawn, dusk, new-moon, etc."},
-      {"s": "आददायन् (ādadāyan)", "h": "स्वीकार की जाती हैं / ग्रहण की जाती हैं", "e": "are received / accepted — from ā + √dā (to give/receive); the oblations are properly accepted by the fire-god"},
-      {"s": "सूर्यस्य रश्मयः (sūryasya raśmayaḥ)", "h": "सूर्य की किरणें / रश्मियाँ", "e": "rays of the sun — the oblations transform into sun-rays that carry the performer upward; connects to the devayāna (path of the gods)"},
-      {"s": "देवानां पतिः (devānāṁ patiḥ)", "h": "देवताओं का पति / स्वामी", "e": "lord of the gods — typically identified with Indra or Prajāpati; the ruler of the heavenly realm to which the ritualist ascends"}
+      {
+        "s": "भ्राजमानेषु",
+        "h": "चमकती हुई / प्रज्ज्वलित (ज्वालाओं में)",
+        "e": "in the blazing [fires/flames]"
+      },
+      {
+        "s": "यथाकालम्",
+        "h": "उचित समय पर / निर्धारित काल में",
+        "e": "at the proper time"
+      },
+      {
+        "s": "आददायन्",
+        "h": "स्वीकार की जाती हैं / ग्रहण की जाती हैं",
+        "e": "are received / accepted"
+      },
+      {
+        "s": "सूर्यस्य रश्मयः",
+        "h": "सूर्य की किरणें / रश्मियाँ",
+        "e": "rays of the sun"
+      },
+      {
+        "s": "देवानां पतिः",
+        "h": "देवताओं का पति / स्वामी",
+        "e": "lord of the gods"
+      }
     ],
     "gr": "<strong>The reward of correct ritual</strong>: when all seven flames are blazing, oblations are offered at the correct time, and the fire accepts them — then the offerings, transformed into sun-rays, carry the performer to the dwelling of the lord of the gods. <strong>sūryasya raśmayaḥ</strong> — 'rays of the sun': the path from earth to heaven follows the sun's rays — this is the <em>devayāna</em> (path of the gods) described in the Chāndogya (5.10.1-2) and Bṛhadāraṇyaka (6.2.15). <strong>devānāṁ patiḥ ekaḥ adhivāsaḥ</strong> — 'where the one lord of the gods dwells': the destination is the divine realm — heaven, ruled by the lord of the gods. Note: this is a <em>loka</em> (world) — however exalted — not the Imperishable (akṣara). The ritual path leads to the highest <em>place</em>, but the Imperishable is not a place. <strong>The implicit limitation</strong>: the ritualist reaches 'the lord of the gods' — a cosmic ruler — not Brahman itself. This is glory, not liberation.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.5 — The imagery of oblations becoming sun-rays that carry the performer to heaven connects to the devayāna (path of the gods) described in the Chāndogya (5.10.1-2) and Bṛhadāraṇyaka (6.2.15). The 'lord of the gods' (devānāṁ pati) is variously identified with Indra, Prajāpati, or Hiraṇyagarbha depending on the commentator. The concept of the sun's rays as the vehicle of ascent is also found in the Īśā Upanishad (15-16) where the dying person asks the sun to withdraw its rays to reveal the truth within.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -200,8 +344,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The devayāna — path of the gods", "a": "The imagery of <strong>sun-rays carrying the ritualist to heaven</strong> connects to one of the most important Upanishadic doctrines — the <strong>devayāna</strong> (path of the gods): <strong>Two paths after death</strong> (Chāndogya 5.10, Bṛhadāraṇyaka 6.2): (1) <strong>Devayāna</strong> (path of the gods) — for those who have performed rituals and tapas with knowledge. The soul passes through: fire → day → bright fortnight → six months of the northern sun → year → sun → moon → lightning → a 'non-human person' (amānava puruṣa) who leads them to Brahman. (2) <strong>Pitṛyāna</strong> (path of the ancestors) — for those who performed rituals mechanically. The soul passes through: smoke → night → dark fortnight → six months of the southern sun → world of the ancestors → moon → rain → food → birth again. <strong>The Muṇḍaka's position</strong>: this mantra describes a path <em>similar</em> to the devayāna — sun-rays carry the performer to the 'lord of the gods.' But the Muṇḍaka will argue (mantras 7-13) that even this glorious path is <em>insufficient</em> because: (a) it leads to a <em>world</em> (however exalted), not to the <em>Imperishable</em>; (b) any world is impermanent — the performer eventually returns. Only parā vidyā leads to the akṣara, from which there is no return."},
-      {"q": "🔍 Ritual timing — 'yathā-kālam' (at the proper time)", "a": "The phrase <strong>yathā-kālam</strong> ('at the proper time') highlights a fundamental principle of Vedic ritual — <strong>timing is everything</strong>: <strong>Why timing matters</strong>: Vedic ritual is <em>synchronised with cosmic rhythms</em>. The right action at the wrong time is as ineffective as the wrong action at the right time. <strong>Key ritual timings</strong>: (1) <strong>Agnihotra</strong> — performed at dawn (prātaḥ) and dusk (sāyam) every day without exception. (2) <strong>Darśa-Pūrṇamāsa</strong> — at each new-moon (darśa) and full-moon (pūrṇamāsa). (3) <strong>Cāturmāsya</strong> — at the three seasonal junctures (every four months). (4) <strong>Āgrayaṇa</strong> — at the first harvest of the season. (5) <strong>Soma sacrifice</strong> — coordinated with specific nakshatras (lunar mansions). <strong>The underlying principle</strong>: the cosmos has rhythms — daily (sunrise/sunset), monthly (moon phases), seasonal (solstices/equinoxes), annual (harvest). Vedic ritual <em>aligns</em> human action with these cosmic rhythms, creating a resonance between microcosm and macrocosm. When you offer at dawn, you participate in the sun's re-creation of the world. When you offer at the new-moon, you participate in the moon's cycle of death and renewal."}
+      {
+        "q": "🔍 The devayāna — path of the gods",
+        "a": "The imagery of <strong>sun-rays carrying the ritualist to heaven</strong> connects to one of the most important Upanishadic doctrines — the <strong>devayāna</strong> (path of the gods): <strong>Two paths after death</strong> (Chāndogya 5.10, Bṛhadāraṇyaka 6.2): (1) <strong>Devayāna</strong> (path of the gods) — for those who have performed rituals and tapas with knowledge. The soul passes through: fire → day → bright fortnight → six months of the northern sun → year → sun → moon → lightning → a 'non-human person' (amānava puruṣa) who leads them to Brahman. (2) <strong>Pitṛyāna</strong> (path of the ancestors) — for those who performed rituals mechanically. The soul passes through: smoke → night → dark fortnight → six months of the southern sun → world of the ancestors → moon → rain → food → birth again. <strong>The Muṇḍaka's position</strong>: this mantra describes a path <em>similar</em> to the devayāna — sun-rays carry the performer to the 'lord of the gods.' But the Muṇḍaka will argue (mantras 7-13) that even this glorious path is <em>insufficient</em> because: (a) it leads to a <em>world</em> (however exalted), not to the <em>Imperishable</em>; (b) any world is impermanent — the performer eventually returns. Only parā vidyā leads to the akṣara, from which there is no return."
+      },
+      {
+        "q": "🔍 Ritual timing — 'yathā-kālam' (at the proper time)",
+        "a": "The phrase <strong>yathā-kālam</strong> ('at the proper time') highlights a fundamental principle of Vedic ritual — <strong>timing is everything</strong>: <strong>Why timing matters</strong>: Vedic ritual is <em>synchronised with cosmic rhythms</em>. The right action at the wrong time is as ineffective as the wrong action at the right time. <strong>Key ritual timings</strong>: (1) <strong>Agnihotra</strong> — performed at dawn (prātaḥ) and dusk (sāyam) every day without exception. (2) <strong>Darśa-Pūrṇamāsa</strong> — at each new-moon (darśa) and full-moon (pūrṇamāsa). (3) <strong>Cāturmāsya</strong> — at the three seasonal junctures (every four months). (4) <strong>Āgrayaṇa</strong> — at the first harvest of the season. (5) <strong>Soma sacrifice</strong> — coordinated with specific nakshatras (lunar mansions). <strong>The underlying principle</strong>: the cosmos has rhythms — daily (sunrise/sunset), monthly (moon phases), seasonal (solstices/equinoxes), annual (harvest). Vedic ritual <em>aligns</em> human action with these cosmic rhythms, creating a resonance between microcosm and macrocosm. When you offer at dawn, you participate in the sun's re-creation of the world. When you offer at the new-moon, you participate in the moon's cycle of death and renewal."
+      }
     ]
   },
   {
@@ -211,14 +361,34 @@
     "hi": "'आओ, आओ!' (एहि एहि) — ऐसा कहती हुई सुवर्चस् (radiant) आहुतियाँ सूर्य की रश्मियों (किरणों) द्वारा यजमान (sacrificer) को ले जाती (वहन्ति) हैं — प्रिय वाणी (प्रिय वचन) बोलती हुई, अर्चना (praise) करती हुई — 'यह तुम्हारा पुण्य सुकृत ब्रह्मलोक है!'",
     "en": "'Come, come!' (ehi ehi) — so say the radiant (su-varcasaḥ) oblations, carrying (vahanti) the sacrificer (yajamāna) on the rays of the sun (sūryasya raśmibhiḥ), speaking sweet words (priyāṁ vācam abhivadantyaḥ), honouring him (arcanyantyaḥ): 'This is your meritorious (puṇya), well-earned (su-kṛta) world of Brahmā (brahma-loka)!'",
     "ws": [
-      {"s": "एहि एहि (ehi ehi)", "h": "आओ, आओ!", "e": "come, come! — imperative of √i (to come); the personified oblations invite the ritualist to ascend to heaven; a vivid prosopopoeia"},
-      {"s": "सुवर्चसः (su-varcasaḥ)", "h": "सु-तेजस्वी / दीप्तिमान", "e": "radiant / lustrous — su (good/beautiful) + varcas (lustre/splendour); the oblations shine with spiritual power"},
-      {"s": "यजमानम् (yajamānam)", "h": "यजमान / यज्ञ करने वाला / sacrificer", "e": "the sacrificer — the patron who commissions and pays for the sacrifice; from √yaj (to sacrifice)"},
-      {"s": "अभिवदन्त्यः (abhivadantyaḥ)", "h": "मधुर वचन बोलती हुई / स्वागत करती हुई", "e": "speaking sweet words — abhi + √vad (to speak toward); the oblations welcome the ritualist with pleasant speech"},
-      {"s": "ब्रह्मलोकः (brahma-lokaḥ)", "h": "ब्रह्मलोक / ब्रह्मा का लोक", "e": "the world of Brahmā — the highest heavenly realm; note: this is brahma-loka (world of Brahmā, the creator), not Brahman itself; a world, however exalted, is still a world"}
+      {
+        "s": "एहि एहि",
+        "h": "आओ, आओ!",
+        "e": "come, come!"
+      },
+      {
+        "s": "सुवर्चसः",
+        "h": "सु-तेजस्वी / दीप्तिमान",
+        "e": "radiant / lustrous"
+      },
+      {
+        "s": "यजमानम्",
+        "h": "यजमान / यज्ञ करने वाला / sacrificer",
+        "e": "the sacrificer"
+      },
+      {
+        "s": "अभिवदन्त्यः",
+        "h": "मधुर वचन बोलती हुई / स्वागत करती हुई",
+        "e": "speaking sweet words"
+      },
+      {
+        "s": "ब्रह्मलोकः",
+        "h": "ब्रह्मलोक / ब्रह्मा का लोक",
+        "e": "the world of Brahmā"
+      }
     ],
     "gr": "<strong>The climax of the ritual path</strong>: the personified oblations — radiant, sweet-voiced — carry the sacrificer on sun-rays to brahma-loka, crying 'Come, come!' This is the <em>highest reward</em> of the ritual path, presented in its most attractive form. <strong>Prosopopoeia</strong>: the oblations are <em>personified</em> — they speak ('ehi ehi'), they use sweet words (priyāṁ vācam), they honour (arcayantyaḥ). This is a literary device that makes heaven feel personal, welcoming, alive. <strong>brahma-lokaḥ</strong> — 'world of Brahmā': note carefully — this is the world <em>of Brahmā</em> (the creator-god, masculine), not <em>Brahman</em> (the Absolute, neuter). Even the highest world in creation is still <em>within</em> creation — subject to time, subject to eventual dissolution. <strong>The pivot</strong>: this mantra represents the <em>peak</em> of the ritual path's promise. The next mantra (7) will begin the devastating critique — revealing that this glorious destination is 'leaky' and impermanent.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.6 — The personification of oblations ('ehi ehi') is a rhetorical device designed to make the ritual reward maximally attractive before the critique begins. The term 'brahma-loka' is deliberately ambiguous — it can mean 'world of Brahmā' (the created deity) or 'world of Brahman' (the Absolute). Shankara consistently reads it here as the world of Brahmā (Hiraṇyagarbha) — a created realm — not the uncreated Brahman. This is crucial: the Muṇḍaka's critique depends on brahma-loka being a world (impermanent) rather than Brahman itself (imperishable). The Chāndogya (8.4.1-3) describes brahma-loka as a realm with lakes and rivers — clearly a 'world' with spatial characteristics.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -240,8 +410,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Brahma-loka: the highest world — and why it's not enough", "a": "<strong>Brahma-loka</strong> ('the world of Brahmā') is the <em>highest</em> realm in Vedic cosmology — and the Muṇḍaka says even this is insufficient: <strong>What brahma-loka is</strong>: the realm of Brahmā, the creator-god — the highest 'world' (loka) in the hierarchy of bhūḥ, bhuvaḥ, svaḥ... satyam. It is the ultimate reward of perfectly performed ritual — the best destination a karma-based path can achieve. <strong>Why it's not enough</strong>: (1) <em>It's a world</em> — it has spatial characteristics, a ruler, inhabitants. Anything with characteristics is <em>finite</em> and <em>impermanent</em>. (2) <em>It's earned</em> — and anything earned can be exhausted. When the merit (puṇya) that sent you there runs out, you return to the cycle of birth and death. (3) <em>It's not Brahman</em> — brahma-loka is the world <em>of</em> Brahmā (the created deity), not Brahman (the uncreated Absolute). Even the creator is within creation. <strong>The Gītā's confirmation</strong> (8.16): 'ā-brahma-bhuvanāl lokāḥ punar-āvartino 'rjuna' — 'All worlds up to brahma-loka are subject to return, O Arjuna.' Even those who reach the highest world must eventually come back. Only those who attain Brahman itself are free from return."},
-      {"q": "🔍 The personification of oblations — a rhetorical strategy", "a": "The <strong>personification of oblations</strong> (āhutīḥ) in this mantra is a deliberate <strong>rhetorical strategy</strong>: <strong>What happens</strong>: the oblations — ghee, milk, grain — are <em>personified</em> as radiant beings who speak sweet words, honour the sacrificer, and carry him to heaven on sun-rays. They cry 'Come, come!' like welcoming hosts. <strong>Why this imagery</strong>: the Muṇḍaka is presenting the ritual path at its <em>most attractive</em> — its best possible version — before critiquing it. If the critique is to be convincing, it must critique the strongest version of the ritual path, not a straw-man. <strong>The contrast with what follows</strong>: mantras 1-6 present the ritual path with beauty, precision, and grandeur — dancing flames, seven tongues, sun-rays, 'Come, come!' Then mantras 7-13 demolish this grandeur: 'leaky boats' (plava), 'fools who delight in ritual' (iṣṭa-pūrta-manyamānāḥ), 'the blind led by the blind' (andhenaiva nīyamānāḥ yathāndhāḥ). The contrast is devastating <em>because</em> the Muṇḍaka first showed how beautiful the ritual path is. <strong>The lesson</strong>: it's not that rituals are ugly or false — they are beautiful and true. But beauty and truth at the phenomenal level are not the same as beauty and truth at the ultimate level."}
+      {
+        "q": "🔍 Brahma-loka: the highest world — and why it's not enough",
+        "a": "<strong>Brahma-loka</strong> ('the world of Brahmā') is the <em>highest</em> realm in Vedic cosmology — and the Muṇḍaka says even this is insufficient: <strong>What brahma-loka is</strong>: the realm of Brahmā, the creator-god — the highest 'world' (loka) in the hierarchy of bhūḥ, bhuvaḥ, svaḥ... satyam. It is the ultimate reward of perfectly performed ritual — the best destination a karma-based path can achieve. <strong>Why it's not enough</strong>: (1) <em>It's a world</em> — it has spatial characteristics, a ruler, inhabitants. Anything with characteristics is <em>finite</em> and <em>impermanent</em>. (2) <em>It's earned</em> — and anything earned can be exhausted. When the merit (puṇya) that sent you there runs out, you return to the cycle of birth and death. (3) <em>It's not Brahman</em> — brahma-loka is the world <em>of</em> Brahmā (the created deity), not Brahman (the uncreated Absolute). Even the creator is within creation. <strong>The Gītā's confirmation</strong> (8.16): 'ā-brahma-bhuvanāl lokāḥ punar-āvartino 'rjuna' — 'All worlds up to brahma-loka are subject to return, O Arjuna.' Even those who reach the highest world must eventually come back. Only those who attain Brahman itself are free from return."
+      },
+      {
+        "q": "🔍 The personification of oblations — a rhetorical strategy",
+        "a": "The <strong>personification of oblations</strong> (āhutīḥ) in this mantra is a deliberate <strong>rhetorical strategy</strong>: <strong>What happens</strong>: the oblations — ghee, milk, grain — are <em>personified</em> as radiant beings who speak sweet words, honour the sacrificer, and carry him to heaven on sun-rays. They cry 'Come, come!' like welcoming hosts. <strong>Why this imagery</strong>: the Muṇḍaka is presenting the ritual path at its <em>most attractive</em> — its best possible version — before critiquing it. If the critique is to be convincing, it must critique the strongest version of the ritual path, not a straw-man. <strong>The contrast with what follows</strong>: mantras 1-6 present the ritual path with beauty, precision, and grandeur — dancing flames, seven tongues, sun-rays, 'Come, come!' Then mantras 7-13 demolish this grandeur: 'leaky boats' (plava), 'fools who delight in ritual' (iṣṭa-pūrta-manyamānāḥ), 'the blind led by the blind' (andhenaiva nīyamānāḥ yathāndhāḥ). The contrast is devastating <em>because</em> the Muṇḍaka first showed how beautiful the ritual path is. <strong>The lesson</strong>: it's not that rituals are ugly or false — they are beautiful and true. But beauty and truth at the phenomenal level are not the same as beauty and truth at the ultimate level."
+      }
     ]
   },
   {
@@ -251,15 +427,39 @@
     "hi": "ये (यज्ञ-रूप कर्म) प्लवाः (leaky boats / टूटी नौकाएँ) हैं, अदृढ (unstable / कमज़ोर) हैं — अठारह (अङ्गों में) जिनमें अवर (lower / inferior) कर्म कहा गया है। जो मूढ (deluded) लोग इसे ही श्रेय (the highest good) मानकर अभिनन्दन (celebrate) करते हैं — वे पुनः (again) जरा-मृत्यु (old age and death) को प्राप्त होते (यन्ति) हैं।",
     "en": "These ritual forms (yajña-rūpāḥ) are indeed leaky boats (plavāḥ), unstable (adṛḍhāḥ) — the eighteen [components] in which the lower (avara) karma is described. The deluded (mūḍhāḥ) who celebrate (abhinandanti) this as the highest good (śreyaḥ) — they fall again (punaḥ eva api yanti) into old age and death (jarā-mṛtyu).",
     "ws": [
-      {"s": "प्लवाः (plavāḥ)", "h": "प्लव / टूटी नौकाएँ / जर्जर नावें", "e": "leaky boats / frail rafts — from √plu (to float); boats that seem to float but are full of holes; they carry you partway but eventually sink — the Muṇḍaka's most famous metaphor for ritual"},
-      {"s": "अदृढाः (adṛḍhāḥ)", "h": "अदृढ / कमज़ोर / अस्थिर", "e": "unstable / not firm — a + dṛḍha (firm); the ritual forms are not solid enough to carry one across the ocean of saṁsāra"},
-      {"s": "यज्ञरूपाः (yajña-rūpāḥ)", "h": "यज्ञ के रूप / यज्ञ-कर्म", "e": "the forms of sacrifice — rūpa (form/shape) of yajña (sacrifice); the various ritual configurations"},
-      {"s": "अष्टादश (aṣṭādaśa)", "h": "अठारह", "e": "eighteen — the eighteen components of the sacrificial system (variously identified: 16 priests + yajamāna + yajamāna's wife; or 7 types of Soma sacrifice + 7 types of Havis sacrifice + 4 Vedas)"},
-      {"s": "मूढाः (mūḍhāḥ)", "h": "मूढ / मोहित / भ्रमित", "e": "the deluded — from √muh (to be confused); those who mistake the means (ritual) for the end (liberation)"},
-      {"s": "जरामृत्युम् (jarā-mṛtyum)", "h": "जरा (बुढ़ापा) और मृत्यु", "e": "old age and death — jarā (old age) + mṛtyu (death); the twin markers of saṁsāra (the cycle of birth and death)"}
+      {
+        "s": "प्लवाः",
+        "h": "प्लव / टूटी नौकाएँ / जर्जर नावें",
+        "e": "leaky boats / frail rafts"
+      },
+      {
+        "s": "अदृढाः",
+        "h": "अदृढ / कमज़ोर / अस्थिर",
+        "e": "unstable / not firm"
+      },
+      {
+        "s": "यज्ञरूपाः",
+        "h": "यज्ञ के रूप / यज्ञ-कर्म",
+        "e": "the forms of sacrifice"
+      },
+      {
+        "s": "अष्टादश",
+        "h": "अठारह",
+        "e": "eighteen"
+      },
+      {
+        "s": "मूढाः",
+        "h": "मूढ / मोहित / भ्रमित",
+        "e": "the deluded"
+      },
+      {
+        "s": "जरामृत्युम्",
+        "h": "जरा (बुढ़ापा) और मृत्यु",
+        "e": "old age and death"
+      }
     ],
     "gr": "<strong>The devastating critique begins</strong>: this is the Muṇḍaka's most famous and most radical mantra — the turning point where the ritual path, so beautifully presented in mantras 1-6, is declared to be 'leaky boats.' <strong>plavāḥ adṛḍhāḥ</strong> — 'leaky boats, unstable': the metaphor is devastating. A leaky boat <em>seems</em> to float — it appears functional, it carries you for a while — but it cannot take you across the ocean. Midway, it sinks. Similarly, rituals <em>seem</em> to work — they produce results (heaven, merit) — but they cannot carry you across the ocean of saṁsāra. <strong>aṣṭādaśa</strong> — 'eighteen': the eighteen components of the ritual system. Various identifications exist: (a) sixteen priests + yajamāna + his wife = 18; (b) the eighteen sacrificial procedures listed in various Śrauta texts. <strong>mūḍhāḥ</strong> — 'the deluded': a harsh word. Those who consider the ritual path to be the <em>highest good</em> (śreyaḥ) are not merely mistaken — they are <em>deluded</em>. The problem is not performing rituals but <em>stopping at rituals</em> — thinking them sufficient. <strong>jarā-mṛtyuṁ te punar evāpi yanti</strong> — 'they again enter old age and death': the ultimate consequence. The ritualist, despite reaching brahma-loka, eventually <em>returns</em> — to old age, to death, to the cycle. The ritual path is a circle, not a line.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.7 — This is the most cited mantra of the Muṇḍaka, appearing in dozens of Vedāntic texts. The 'leaky boats' (plavāḥ) metaphor was enormously influential — Shankara cites it repeatedly in his commentaries to argue for the superiority of jñāna (knowledge) over karma (action). The 'eighteen' (aṣṭādaśa) has been variously interpreted: Shankara takes it as the 16 ṛtvij (priests) + yajamāna + his wife; other commentators identify it with 18 types of sacrificial procedures. The phrase 'jarā-mṛtyuṁ punar evāpi yanti' echoes the Bhagavad Gītā's (9.21) 'kṣīṇe puṇye martya-lokaṁ viśanti' — 'when their merit is exhausted, they enter the mortal world.' The Kaṭha (1.2.5) uses similar language about the deluded.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -281,8 +481,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 'Leaky boats' (plavāḥ) — the Muṇḍaka's most famous metaphor", "a": "The metaphor of <strong>plavāḥ</strong> ('leaky boats' or 'frail rafts') is the Muṇḍaka's most famous and most cited image: <strong>The metaphor</strong>: rituals are compared to boats that seem seaworthy but are full of holes. They <em>appear</em> to work — they carry the ritualist toward heaven, just as a leaky boat carries a passenger partway across a river. But partway is not all the way. The holes let water in, and the boat sinks — the ritualist, despite reaching heaven, eventually falls back into the cycle of birth and death. <strong>Why 'leaky,' not 'broken'?</strong> A broken boat wouldn't float at all. The Muṇḍaka's point is subtler: the ritual boat <em>does</em> float — it produces real results (merit, heaven). The problem is not that it doesn't work but that it <em>doesn't work permanently</em>. The merit earned through ritual is finite; when it's exhausted, the performer returns to mortal life. <strong>What makes the boat leak?</strong> The 'holes' are the inherent limitations of karma (action): (1) <em>Every action is finite</em> — it produces a finite result. (2) <em>Every finite result is temporary</em> — it eventually ends. (3) <em>Temporary results</em> cannot produce a <em>permanent</em> state (liberation). <strong>The only 'solid' vessel</strong>: parā vidyā — the knowledge of the Imperishable — is the only vessel without holes. Because it is not an action (karma) producing a result, but a <em>recognition</em> of what already is. You cannot 'use up' the recognition of your own nature."},
-      {"q": "🔍 'The deluded' (mūḍhāḥ) — why the Muṇḍaka uses harsh language", "a": "The Muṇḍaka calls ritualists who consider karma the highest good <strong>mūḍhāḥ</strong> — 'the deluded/confused': <strong>Why so harsh?</strong> The term mūḍha (from √muh, to be confused/deluded) is strong — it implies not just ignorance but <em>active self-deception</em>. The Muṇḍaka uses it because: (1) <em>The stakes are high</em>: if you mistake the ritual path for the ultimate path, you spend a lifetime (or many lifetimes) on a path that circles back to its starting point. Delusion at this level is not a minor error — it's a cosmic waste of time. (2) <em>The evidence is available</em>: the Upanishads (which are part of the Vedas!) contain the teaching of parā vidyā. The ritualist who reads only the karma-kāṇḍa (ritual portion) and ignores the jñāna-kāṇḍa (knowledge portion) is like someone who reads a map's legend but not its territory. The information is right there — they're choosing not to look. (3) <em>The comparison with the Kaṭha</em>: the Kaṭha Upanishad (1.2.5) uses identical language: 'avidyāyām antare vartamānāḥ svayaṁ dhīrāḥ paṇḍita-manyamānāḥ / dandramyamāṇāḥ pariyanti mūḍhāḥ andhenaiva nīyamānā yathāndhāḥ' — 'Living in the midst of ignorance, self-wise, thinking themselves learned, the deluded wander about like the blind led by the blind.' <strong>The Muṇḍaka's compassion</strong>: despite the harsh language, the purpose is <em>compassionate</em> — to shake the reader out of complacency. Better a harsh truth now than a pleasant delusion for eternity."}
+      {
+        "q": "🔍 'Leaky boats' (plavāḥ) — the Muṇḍaka's most famous metaphor",
+        "a": "The metaphor of <strong>plavāḥ</strong> ('leaky boats' or 'frail rafts') is the Muṇḍaka's most famous and most cited image: <strong>The metaphor</strong>: rituals are compared to boats that seem seaworthy but are full of holes. They <em>appear</em> to work — they carry the ritualist toward heaven, just as a leaky boat carries a passenger partway across a river. But partway is not all the way. The holes let water in, and the boat sinks — the ritualist, despite reaching heaven, eventually falls back into the cycle of birth and death. <strong>Why 'leaky,' not 'broken'?</strong> A broken boat wouldn't float at all. The Muṇḍaka's point is subtler: the ritual boat <em>does</em> float — it produces real results (merit, heaven). The problem is not that it doesn't work but that it <em>doesn't work permanently</em>. The merit earned through ritual is finite; when it's exhausted, the performer returns to mortal life. <strong>What makes the boat leak?</strong> The 'holes' are the inherent limitations of karma (action): (1) <em>Every action is finite</em> — it produces a finite result. (2) <em>Every finite result is temporary</em> — it eventually ends. (3) <em>Temporary results</em> cannot produce a <em>permanent</em> state (liberation). <strong>The only 'solid' vessel</strong>: parā vidyā — the knowledge of the Imperishable — is the only vessel without holes. Because it is not an action (karma) producing a result, but a <em>recognition</em> of what already is. You cannot 'use up' the recognition of your own nature."
+      },
+      {
+        "q": "🔍 'The deluded' (mūḍhāḥ) — why the Muṇḍaka uses harsh language",
+        "a": "The Muṇḍaka calls ritualists who consider karma the highest good <strong>mūḍhāḥ</strong> — 'the deluded/confused': <strong>Why so harsh?</strong> The term mūḍha (from √muh, to be confused/deluded) is strong — it implies not just ignorance but <em>active self-deception</em>. The Muṇḍaka uses it because: (1) <em>The stakes are high</em>: if you mistake the ritual path for the ultimate path, you spend a lifetime (or many lifetimes) on a path that circles back to its starting point. Delusion at this level is not a minor error — it's a cosmic waste of time. (2) <em>The evidence is available</em>: the Upanishads (which are part of the Vedas!) contain the teaching of parā vidyā. The ritualist who reads only the karma-kāṇḍa (ritual portion) and ignores the jñāna-kāṇḍa (knowledge portion) is like someone who reads a map's legend but not its territory. The information is right there — they're choosing not to look. (3) <em>The comparison with the Kaṭha</em>: the Kaṭha Upanishad (1.2.5) uses identical language: 'avidyāyām antare vartamānāḥ svayaṁ dhīrāḥ paṇḍita-manyamānāḥ / dandramyamāṇāḥ pariyanti mūḍhāḥ andhenaiva nīyamānā yathāndhāḥ' — 'Living in the midst of ignorance, self-wise, thinking themselves learned, the deluded wander about like the blind led by the blind.' <strong>The Muṇḍaka's compassion</strong>: despite the harsh language, the purpose is <em>compassionate</em> — to shake the reader out of complacency. Better a harsh truth now than a pleasant delusion for eternity."
+      }
     ]
   },
   {
@@ -292,14 +498,34 @@
     "hi": "अविद्या के बीच में (अन्तरे) वर्तमान (dwelling) — स्वयं को धीर (wise) और पण्डित (learned) मानने वाले (मन्यमानाः) — दन्द्रम्यमाणाः (भटकते हुए / staggering) — मूढ (deluded) लोग घूमते (परियन्ति) रहते हैं — जैसे अन्धे (blind) को अन्धा (blind) ले जाता है (अन्धेनैव नीयमाना यथान्धाः)।",
     "en": "Dwelling in the midst of ignorance (avidyāyām antare), yet considering themselves wise (dhīrāḥ) and learned (paṇḍitam-manyamānāḥ), the deluded (mūḍhāḥ) go round and round (pariyanti), staggering (dandramyamāṇāḥ), like the blind led by the blind (andhena eva nīyamānā yathā andhāḥ).",
     "ws": [
-      {"s": "अविद्यायाम् (avidyāyām)", "h": "अविद्या में / अज्ञान में", "e": "in ignorance — a + vidyā (knowledge); not the absence of learning but the absence of parā vidyā; they may be highly educated yet spiritually ignorant"},
-      {"s": "पण्डितंमन्यमानाः (paṇḍitam-manyamānāḥ)", "h": "अपने को पण्डित (learned) मानने वाले", "e": "thinking themselves learned — paṇḍita (learned) + manyamāna (considering oneself); the self-deception of intellectual pride; they mistake erudition for wisdom"},
-      {"s": "दन्द्रम्यमाणाः (dandramyamāṇāḥ)", "h": "भटकते हुए / लड़खड़ाते हुए / ठोकर खाते हुए", "e": "staggering / stumbling about — intensive of √dram (to run/wander); implies aimless, directionless movement despite apparent purposefulness"},
-      {"s": "परियन्ति (pariyanti)", "h": "चारों ओर घूमते हैं / चक्कर लगाते हैं", "e": "go round and round — pari + √i (to go); circular motion — they travel far but arrive nowhere; the circle of saṁsāra"},
-      {"s": "अन्धेनैव नीयमानाः यथान्धाः (andhena eva nīyamānāḥ yathā andhāḥ)", "h": "जैसे अन्धे द्वारा अन्धे ले जाये जाते हैं", "e": "like the blind led by the blind — the most devastating image: teachers without parā vidyā leading students without parā vidyā — both equally lost"}
+      {
+        "s": "अविद्यायाम्",
+        "h": "अविद्या में / अज्ञान में",
+        "e": "in ignorance"
+      },
+      {
+        "s": "पण्डितंमन्यमानाः",
+        "h": "अपने को पण्डित (learned) मानने वाले",
+        "e": "thinking themselves learned"
+      },
+      {
+        "s": "दन्द्रम्यमाणाः",
+        "h": "भटकते हुए / लड़खड़ाते हुए / ठोकर खाते हुए",
+        "e": "staggering / stumbling about"
+      },
+      {
+        "s": "परियन्ति",
+        "h": "चारों ओर घूमते हैं / चक्कर लगाते हैं",
+        "e": "go round and round"
+      },
+      {
+        "s": "अन्धेनैव नीयमानाः यथान्धाः",
+        "h": "जैसे अन्धे द्वारा अन्धे ले जाये जाते हैं",
+        "e": "like the blind led by the blind"
+      }
     ],
     "gr": "<strong>The blind leading the blind</strong>: one of the most famous verses in all of Indian literature — and one that echoes across world traditions. <strong>Three layers of delusion</strong>: (1) <em>avidyāyām antare vartamānāḥ</em> — 'dwelling in the midst of ignorance': they live surrounded by ignorance, immersed in it, unable to see beyond it. (2) <em>svayaṁ dhīrāḥ paṇḍitam-manyamānāḥ</em> — 'considering themselves wise and learned': the worst kind of ignorance — the ignorance that thinks it is knowledge. They are not humble seekers but proud scholars who believe they have already arrived. (3) <em>andhena eva nīyamānā yathā andhāḥ</em> — 'like the blind led by the blind': teacher and student are equally blind. The teacher, having only aparā vidyā, leads the student in circles — both believing they are progressing. <strong>dandramyamāṇāḥ pariyanti</strong> — 'staggering, going round and round': the intensive form (dandramyamāṇāḥ) conveys aimless, lurching movement — they stumble and circle without direction. <strong>The paradox</strong>: these are not uneducated people — they are 'paṇḍita-manyamānāḥ' (considering themselves learned). They may have mastered the four Vedas, the six Vedāṅgas, and all eighteen components of the ritual system. And yet the Muṇḍaka calls them 'blind.' Their blindness is not lack of information but lack of <em>vision</em> — parā vidyā, the direct seeing of the Imperishable.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.8 — This mantra is virtually identical to Kaṭha Upanishad 1.2.5. The Kaṭha version reads: 'avidyāyām antare vartamānāḥ svayaṁ dhīrāḥ paṇḍita-manyamānāḥ / jaṅghanyamānāḥ pariyanti mūḍhā andhenaiva nīyamānā yathāndhāḥ.' The only significant difference is 'jaṅghanyamānāḥ' (Kaṭha) vs. 'dandramyamāṇāḥ' (Muṇḍaka) — both meaning 'staggering/stumbling.' The 'blind leading the blind' image also appears in the New Testament (Matthew 15:14, Luke 6:39), suggesting a universal human recognition of the danger of self-assured ignorance. The Muṇḍaka's use of 'paṇḍita-manyamānāḥ' (considering themselves learned) is particularly sharp — it targets the educated elite, not the uneducated masses.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -321,8 +547,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 'The blind led by the blind' — a universal warning", "a": "The image of <strong>'the blind led by the blind'</strong> (andhena eva nīyamānā yathā andhāḥ) is one of the most powerful in world literature: <strong>In the Upanishadic context</strong>: the 'blind' teacher is one who has mastered aparā vidyā (lower knowledge — Vedas, rituals, grammar) but lacks parā vidyā (higher knowledge — direct realisation of Brahman). Such a teacher can recite every mantra, perform every ritual perfectly, and explain every grammatical rule — but cannot point the student toward the Imperishable because he himself has never seen it. <strong>Why 'blind,' not 'ignorant'?</strong> A blind person <em>cannot see</em> — it's not a matter of trying harder or studying more. The limitation is in the <em>faculty</em>, not the effort. Similarly, aparā vidyā uses the <em>mind</em> as its instrument — but the Imperishable cannot be known by the mind (it is 'ungraspable' — agrāhya, mantra 1.1.6). A different faculty (direct spiritual perception, jñāna-cakṣu) is needed. <strong>The Kaṭha parallel</strong>: Kaṭha 1.2.5 is virtually identical — 'jaṅghanyamānāḥ pariyanti mūḍhā andhenaiva nīyamānā yathāndhāḥ.' This shared verse suggests a common Upanishadic tradition of critiquing merely intellectual or ritualistic religion. <strong>The self-deception</strong>: the most dangerous element is 'paṇḍita-manyamānāḥ' — they <em>think</em> they are learned. They are not humble seekers who know they don't know (like Śaunaka, who asked 'what must I know?'). They are confident experts who believe they already have the answer. This confidence is the deepest blindness."},
-      {"q": "🔍 Avidyā in the Upanishadic sense", "a": "The term <strong>avidyā</strong> ('ignorance') in the Upanishads has a specific and technical meaning quite different from ordinary ignorance: <strong>Avidyā ≠ lack of education</strong>: the people described as dwelling 'in the midst of avidyā' are highly educated — they consider themselves 'paṇḍita' (learned). Their avidyā is not lack of information but <em>lack of realisation</em>. They know many things <em>about</em> the world but don't know the <em>ground</em> of the world. <strong>Avidyā = taking the conditioned for the unconditioned</strong>: in Shankara's analysis, avidyā is the fundamental error of <em>superimposition</em> (adhyāsa) — taking what is limited, changing, and mortal for what is unlimited, changeless, and immortal. The ritualist superimposes permanence on impermanent results (heaven, merit) — and so remains trapped. <strong>Avidyā includes the Vedas</strong>: the Muṇḍaka's radical claim (mantra 1.1.5) is that the four Vedas themselves are aparā vidyā — 'lower knowledge.' If the Vedas are aparā, then mastery of the Vedas, without parā vidyā, is still avidyā. <strong>The Īśā Upanishad's warning</strong> (9): 'andhaṁ tamaḥ praviśanti ye 'vidyām upāsate / tato bhūya iva te tamo ya u vidyāyāṁ ratāḥ' — 'Into blinding darkness enter those who worship avidyā (ignorance); into still greater darkness, those who are devoted to vidyā (knowledge) alone.' The Īśā makes the even stronger claim that <em>vidyā alone</em> (knowledge without wisdom) is more dangerous than plain ignorance — because it creates false confidence."}
+      {
+        "q": "🔍 'The blind led by the blind' — a universal warning",
+        "a": "The image of <strong>'the blind led by the blind'</strong> (andhena eva nīyamānā yathā andhāḥ) is one of the most powerful in world literature: <strong>In the Upanishadic context</strong>: the 'blind' teacher is one who has mastered aparā vidyā (lower knowledge — Vedas, rituals, grammar) but lacks parā vidyā (higher knowledge — direct realisation of Brahman). Such a teacher can recite every mantra, perform every ritual perfectly, and explain every grammatical rule — but cannot point the student toward the Imperishable because he himself has never seen it. <strong>Why 'blind,' not 'ignorant'?</strong> A blind person <em>cannot see</em> — it's not a matter of trying harder or studying more. The limitation is in the <em>faculty</em>, not the effort. Similarly, aparā vidyā uses the <em>mind</em> as its instrument — but the Imperishable cannot be known by the mind (it is 'ungraspable' — agrāhya, mantra 1.1.6). A different faculty (direct spiritual perception, jñāna-cakṣu) is needed. <strong>The Kaṭha parallel</strong>: Kaṭha 1.2.5 is virtually identical — 'jaṅghanyamānāḥ pariyanti mūḍhā andhenaiva nīyamānā yathāndhāḥ.' This shared verse suggests a common Upanishadic tradition of critiquing merely intellectual or ritualistic religion. <strong>The self-deception</strong>: the most dangerous element is 'paṇḍita-manyamānāḥ' — they <em>think</em> they are learned. They are not humble seekers who know they don't know (like Śaunaka, who asked 'what must I know?'). They are confident experts who believe they already have the answer. This confidence is the deepest blindness."
+      },
+      {
+        "q": "🔍 Avidyā in the Upanishadic sense",
+        "a": "The term <strong>avidyā</strong> ('ignorance') in the Upanishads has a specific and technical meaning quite different from ordinary ignorance: <strong>Avidyā ≠ lack of education</strong>: the people described as dwelling 'in the midst of avidyā' are highly educated — they consider themselves 'paṇḍita' (learned). Their avidyā is not lack of information but <em>lack of realisation</em>. They know many things <em>about</em> the world but don't know the <em>ground</em> of the world. <strong>Avidyā = taking the conditioned for the unconditioned</strong>: in Shankara's analysis, avidyā is the fundamental error of <em>superimposition</em> (adhyāsa) — taking what is limited, changing, and mortal for what is unlimited, changeless, and immortal. The ritualist superimposes permanence on impermanent results (heaven, merit) — and so remains trapped. <strong>Avidyā includes the Vedas</strong>: the Muṇḍaka's radical claim (mantra 1.1.5) is that the four Vedas themselves are aparā vidyā — 'lower knowledge.' If the Vedas are aparā, then mastery of the Vedas, without parā vidyā, is still avidyā. <strong>The Īśā Upanishad's warning</strong> (9): 'andhaṁ tamaḥ praviśanti ye 'vidyām upāsate / tato bhūya iva te tamo ya u vidyāyāṁ ratāḥ' — 'Into blinding darkness enter those who worship avidyā (ignorance); into still greater darkness, those who are devoted to vidyā (knowledge) alone.' The Īśā makes the even stronger claim that <em>vidyā alone</em> (knowledge without wisdom) is more dangerous than plain ignorance — because it creates false confidence."
+      }
     ]
   },
   {
@@ -332,15 +564,39 @@
     "hi": "अविद्या में बहुधा (बहुत प्रकार से) वर्तमान (रहते हुए) — बाल (childish / अज्ञानी) लोग मानते (अभिमन्यन्ति) हैं — 'हम कृतार्थ (fulfilled / सफल) हैं!' — क्योंकि कर्मी (ritualists) राग (attachment) के कारण (परम तत्त्व को) नहीं जानते (न प्रवेदयन्ति) — इसलिए आतुर (afflicted / दुःखी) होकर, क्षीणलोक (exhausted merit वाले) होकर, च्यवन्ते (fall / गिर जाते हैं)।",
     "en": "Dwelling in ignorance (avidyāyām) in many ways (bahudhā), the childish (bālāḥ) think: 'We have achieved our purpose (kṛta-arthāḥ)!' Because the ritualists (karmiṇaḥ), due to attachment (rāgāt), do not know [the supreme reality] (na pravedayanti) — therefore, afflicted (āturāḥ), with their merit exhausted (kṣīṇa-lokāḥ), they fall (cyavante).",
     "ws": [
-      {"s": "बालाः (bālāḥ)", "h": "बाल / अज्ञानी / अपरिपक्व", "e": "the childish / the immature — bāla = child; used metaphorically for those who are spiritually immature, regardless of biological age or intellectual attainment"},
-      {"s": "कृतार्थाः (kṛta-arthāḥ)", "h": "कृतार्थ / सफल / पूर्ण", "e": "having achieved one's purpose — kṛta (done) + artha (purpose); they believe they have reached the goal; the premature sense of completion"},
-      {"s": "कर्मिणः (karmiṇaḥ)", "h": "कर्मी / कर्मकाण्डी / ritualists", "e": "the ritualists — those devoted exclusively to karma (action/ritual); from √kṛ (to do)"},
-      {"s": "रागात् (rāgāt)", "h": "राग / आसक्ति / लगाव के कारण", "e": "due to attachment — rāga (passion/attachment); attachment to the results of ritual; the emotional investment in heaven and merit"},
-      {"s": "क्षीणलोकाः (kṣīṇa-lokāḥ)", "h": "क्षीण (exhausted) लोक वाले / जिनके पुण्य-लोक समाप्त हो गये", "e": "with exhausted worlds/merit — kṣīṇa (depleted) + loka (world/merit); when the accumulated merit runs out, the heavenly reward ends"},
-      {"s": "च्यवन्ते (cyavante)", "h": "गिर जाते हैं / पतित होते हैं", "e": "they fall — from √cyu (to fall/drop); they fall from heaven back into the mortal world; the technical term for the end of heavenly tenure"}
+      {
+        "s": "बालाः",
+        "h": "बाल / अज्ञानी / अपरिपक्व",
+        "e": "the childish / the immature"
+      },
+      {
+        "s": "कृतार्थाः",
+        "h": "कृतार्थ / सफल / पूर्ण",
+        "e": "having achieved one's purpose"
+      },
+      {
+        "s": "कर्मिणः",
+        "h": "कर्मी / कर्मकाण्डी / ritualists",
+        "e": "the ritualists"
+      },
+      {
+        "s": "रागात्",
+        "h": "राग / आसक्ति / लगाव के कारण",
+        "e": "due to attachment"
+      },
+      {
+        "s": "क्षीणलोकाः",
+        "h": "क्षीण (exhausted) लोक वाले / जिनके पुण्य-लोक समाप्त हो गये",
+        "e": "with exhausted worlds/merit"
+      },
+      {
+        "s": "च्यवन्ते",
+        "h": "गिर जाते हैं / पतित होते हैं",
+        "e": "they fall"
+      }
     ],
     "gr": "<strong>The fall from heaven</strong>: this mantra completes the critique by describing what happens <em>after</em> the ritualist reaches heaven — he <em>falls</em>. <strong>bālāḥ</strong> — 'the childish': an even harsher term than 'mūḍhāḥ' (deluded). These are spiritually immature people — like children who are delighted by a toy without understanding its limitations. <strong>kṛta-arthāḥ iti abhimanyanti</strong> — 'they think: we have achieved our purpose': the ritualist's great mistake is <em>premature satisfaction</em>. Having reached heaven, he thinks the journey is over. But heaven is a station, not the destination. <strong>rāgāt na pravedayanti</strong> — 'due to attachment, they do not know': attachment (rāga) to the results of ritual blinds them to the supreme reality. The emotional investment in heaven prevents them from looking beyond heaven. <strong>kṣīṇa-lokāḥ cyavante</strong> — 'with exhausted merit, they fall': this is the critical point. The merit (puṇya) earned through ritual is <em>finite</em>. Like a bank account that can be spent, the merit eventually runs out. When it does, the soul 'falls' (cyavante) from heaven back into the mortal world — back to birth, old age, and death. <strong>The Gītā's echo</strong> (9.21): 'te taṁ bhuktvā svarga-lokaṁ viśālaṁ kṣīṇe puṇye martya-lokaṁ viśanti' — 'Having enjoyed the vast heavenly world, when their merit is exhausted, they enter the mortal world.'",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.9 — The concept of 'kṣīṇa-loka' (exhausted merit) is crucial to the Vedāntic critique of karma. The Bhagavad Gītā (9.20-21) elaborates this idea extensively: 'te taṁ bhuktvā svarga-lokaṁ viśālaṁ kṣīṇe puṇye martya-lokaṁ viśanti / evaṁ trayī-dharmam anuprapannā gatāgataṁ kāma-kāmā labhante' — those who follow the Vedic rituals enjoy heaven, but when merit runs out, they return to the mortal world, and so they come and go (gatāgatam). The term 'cyavante' (they fall) is technically significant — it is the standard term for the soul's descent from heaven when merit is exhausted, found in the Chāndogya (5.10.5-6) and Bṛhadāraṇyaka (6.2.16).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -362,8 +618,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The exhaustion of merit (kṣīṇa-loka) and the fall from heaven", "a": "The concept of <strong>kṣīṇa-loka</strong> — 'exhausted worlds/merit' — is central to the Vedāntic critique of karma: <strong>How merit works</strong>: in the Vedic worldview, good actions (puṇya-karma) generate <em>merit</em> — a kind of spiritual currency that 'buys' a sojourn in heaven. The more elaborate and correct the ritual, the more merit is generated, and the longer the heavenly stay. <strong>Why merit runs out</strong>: merit is a <em>finite quantity</em> — it was produced by a finite action performed in finite time. A finite cause cannot produce an infinite effect. Therefore, the heavenly reward is proportional to the merit — and when the merit is 'spent,' the reward ends. <strong>The fall (cyavana)</strong>: the standard Upanishadic and later literature describes the soul's 'fall' from heaven as a natural process — not a punishment but a <em>consequence</em>. The Chāndogya (5.10.5-6) describes the descent: 'They return through the same stages: from the moon to ākāśa, from ākāśa to wind, from wind to smoke, from smoke to cloud, from cloud to rain, from rain to earth, from earth to food, from food to seed, from seed to a womb.' The Gītā (9.21) says: 'Having enjoyed the vast heavenly world, when their merit is exhausted, they enter the mortal world. Thus, following the three-Veda dharma, desiring pleasures, they obtain coming-and-going (gatāgatam).' <strong>The critique's logic</strong>: any path whose reward is <em>proportional</em> to effort cannot lead to <em>permanent</em> liberation. Only a path whose 'result' is the recognition of what <em>already is</em> (rather than the production of something new) can be permanent. Brahman-knowledge doesn't create anything — it reveals what was always there. That's why it can't be exhausted."},
-      {"q": "🔍 'Bālāḥ' (the childish) — spiritual immaturity vs. intellectual achievement", "a": "The Muṇḍaka's use of <strong>bālāḥ</strong> ('the childish') highlights a crucial distinction between <strong>intellectual achievement</strong> and <strong>spiritual maturity</strong>: <strong>Who are the 'bālāḥ'?</strong> These are not uneducated people. The previous mantra called them 'paṇḍita-manyamānāḥ' — those who consider themselves learned. They may have mastered the Vedas, performed elaborate sacrifices, and earned the respect of society. Yet the Muṇḍaka calls them 'bālāḥ' — spiritually childish. <strong>Why 'childish'?</strong> A child is characterised by: (1) <em>Short time-horizon</em>: attracted to immediate rewards (candy, toys) without considering long-term consequences. The ritualist is attracted to heaven (the cosmic 'candy') without considering that it's temporary. (2) <em>Literalism</em>: takes things at face value without looking for deeper meaning. The ritualist performs rituals literally without seeking their inner significance. (3) <em>Premature satisfaction</em>: thinks the toy IS the happiness, rather than understanding that happiness comes from within. The ritualist thinks heaven IS liberation, rather than understanding that liberation transcends all worlds. <strong>The path to maturity</strong>: the Muṇḍaka's cure for spiritual immaturity is not more rituals but a <em>different kind of knowledge</em> — parā vidyā. The shift from aparā to parā is the shift from spiritual childhood to spiritual adulthood: from 'what can I get?' to 'what am I?'"}
+      {
+        "q": "🔍 The exhaustion of merit (kṣīṇa-loka) and the fall from heaven",
+        "a": "The concept of <strong>kṣīṇa-loka</strong> — 'exhausted worlds/merit' — is central to the Vedāntic critique of karma: <strong>How merit works</strong>: in the Vedic worldview, good actions (puṇya-karma) generate <em>merit</em> — a kind of spiritual currency that 'buys' a sojourn in heaven. The more elaborate and correct the ritual, the more merit is generated, and the longer the heavenly stay. <strong>Why merit runs out</strong>: merit is a <em>finite quantity</em> — it was produced by a finite action performed in finite time. A finite cause cannot produce an infinite effect. Therefore, the heavenly reward is proportional to the merit — and when the merit is 'spent,' the reward ends. <strong>The fall (cyavana)</strong>: the standard Upanishadic and later literature describes the soul's 'fall' from heaven as a natural process — not a punishment but a <em>consequence</em>. The Chāndogya (5.10.5-6) describes the descent: 'They return through the same stages: from the moon to ākāśa, from ākāśa to wind, from wind to smoke, from smoke to cloud, from cloud to rain, from rain to earth, from earth to food, from food to seed, from seed to a womb.' The Gītā (9.21) says: 'Having enjoyed the vast heavenly world, when their merit is exhausted, they enter the mortal world. Thus, following the three-Veda dharma, desiring pleasures, they obtain coming-and-going (gatāgatam).' <strong>The critique's logic</strong>: any path whose reward is <em>proportional</em> to effort cannot lead to <em>permanent</em> liberation. Only a path whose 'result' is the recognition of what <em>already is</em> (rather than the production of something new) can be permanent. Brahman-knowledge doesn't create anything — it reveals what was always there. That's why it can't be exhausted."
+      },
+      {
+        "q": "🔍 'Bālāḥ' (the childish) — spiritual immaturity vs. intellectual achievement",
+        "a": "The Muṇḍaka's use of <strong>bālāḥ</strong> ('the childish') highlights a crucial distinction between <strong>intellectual achievement</strong> and <strong>spiritual maturity</strong>: <strong>Who are the 'bālāḥ'?</strong> These are not uneducated people. The previous mantra called them 'paṇḍita-manyamānāḥ' — those who consider themselves learned. They may have mastered the Vedas, performed elaborate sacrifices, and earned the respect of society. Yet the Muṇḍaka calls them 'bālāḥ' — spiritually childish. <strong>Why 'childish'?</strong> A child is characterised by: (1) <em>Short time-horizon</em>: attracted to immediate rewards (candy, toys) without considering long-term consequences. The ritualist is attracted to heaven (the cosmic 'candy') without considering that it's temporary. (2) <em>Literalism</em>: takes things at face value without looking for deeper meaning. The ritualist performs rituals literally without seeking their inner significance. (3) <em>Premature satisfaction</em>: thinks the toy IS the happiness, rather than understanding that happiness comes from within. The ritualist thinks heaven IS liberation, rather than understanding that liberation transcends all worlds. <strong>The path to maturity</strong>: the Muṇḍaka's cure for spiritual immaturity is not more rituals but a <em>different kind of knowledge</em> — parā vidyā. The shift from aparā to parā is the shift from spiritual childhood to spiritual adulthood: from 'what can I get?' to 'what am I?'"
+      }
     ]
   },
   {
@@ -373,14 +635,34 @@
     "hi": "इष्टापूर्त (यज्ञ और दान-कर्म) को वरिष्ठ (the best) मानते हुए — प्रमूढ (deeply deluded) लोग — अन्य कोई श्रेय (higher good) नहीं जानते (वेदयन्ते)। नाक (heaven) के पृष्ठ (summit) पर सुकृत (merit) का अनुभव (anubhūtvā) करके — वे इस लोक (this world) में — या इससे भी हीनतर (lower) लोक में — प्रवेश (विशन्ति) करते हैं।",
     "en": "Considering iṣṭā-pūrta (sacrifice and charitable works) to be the best (variṣṭham), the deeply deluded (pramūḍhāḥ) know no other higher good (śreyaḥ). Having enjoyed [their merit] (anubhūtvā) on the summit (pṛṣṭhe) of heaven (nākasya), they enter (viśanti) this world — or an even lower one (hīnataram).",
     "ws": [
-      {"s": "इष्टापूर्तम् (iṣṭā-pūrtam)", "h": "इष्ट (यज्ञ-कर्म) और पूर्त (दान/सार्वजनिक कर्म)", "e": "sacrifice and charitable works — iṣṭa (what is offered in sacrifice) + pūrta (what is done as charity — building wells, temples, tanks); the two categories of meritorious action"},
-      {"s": "वरिष्ठम् (variṣṭham)", "h": "सबसे श्रेष्ठ / सर्वोत्तम", "e": "the best / the highest — superlative of vara (excellent); they consider ritual and charity as the absolute best one can do"},
-      {"s": "प्रमूढाः (pramūḍhāḥ)", "h": "अत्यन्त मूढ / गहन मोह में", "e": "deeply deluded — pra (intensely) + mūḍha (confused); a stronger form of mūḍha (mantra 7); intensely, profoundly confused"},
-      {"s": "नाकस्य पृष्ठे (nākasya pṛṣṭhe)", "h": "नाक (स्वर्ग) के शिखर (summit) पर", "e": "on the summit of heaven — nāka (heaven, lit. 'where there is no pain') + pṛṣṭha (back/surface/summit); the very peak of the heavenly realm"},
-      {"s": "हीनतरम् (hīnataram)", "h": "और भी निम्न / और भी नीचे", "e": "even lower — comparative of hīna (inferior/low); they may not just return to the human world but could fall even lower — animal or lower births"}
+      {
+        "s": "इष्टापूर्तम्",
+        "h": "इष्ट (यज्ञ-कर्म) और पूर्त (दान/सार्वजनिक कर्म)",
+        "e": "sacrifice and charitable works"
+      },
+      {
+        "s": "वरिष्ठम्",
+        "h": "सबसे श्रेष्ठ / सर्वोत्तम",
+        "e": "the best / the highest"
+      },
+      {
+        "s": "प्रमूढाः",
+        "h": "अत्यन्त मूढ / गहन मोह में",
+        "e": "deeply deluded"
+      },
+      {
+        "s": "नाकस्य पृष्ठे",
+        "h": "नाक (स्वर्ग) के शिखर (summit) पर",
+        "e": "on the summit of heaven"
+      },
+      {
+        "s": "हीनतरम्",
+        "h": "और भी निम्न / और भी नीचे",
+        "e": "even lower"
+      }
     ],
     "gr": "<strong>The complete cycle of the ritualist</strong>: rise to heaven's summit → enjoy → merit exhausts → fall to this world or lower. <strong>iṣṭā-pūrtam</strong> — 'sacrifice and charitable works': iṣṭa = Vedic sacrifices (yajña); pūrta = charitable/public works (building wells, temples, feeding the poor). Together, they represent the <em>complete</em> range of meritorious activity. Even this — the best possible karma — is insufficient. <strong>pramūḍhāḥ</strong> — 'deeply deluded': even stronger than mūḍhāḥ (mantra 7) — the prefix <em>pra-</em> intensifies. They are not slightly confused but <em>profoundly, deeply</em> deluded. <strong>nākasya pṛṣṭhe</strong> — 'on the summit of heaven': nāka (literally 'painless-place') = heaven. They reach the very <em>peak</em> of heaven — the highest point possible through karma — and then fall. <strong>hīnataram vā viśanti</strong> — 'or enter an even lower [world]': the descent may go below the human realm — to animal or lower births. This is the worst-case scenario: not just a return to human life but a <em>regression</em>.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.10 — The term 'iṣṭā-pūrta' is a standard compound in Vedic literature for the two categories of meritorious action: iṣṭa (sacrifice) and pūrta (charity/public works). The Taittirīya Upanishad (1.9.1) and the Dharma Sūtras elaborate on both categories. The phrase 'nākasya pṛṣṭhe' also appears in the Ṛg Veda (1.125.5). The warning about falling to 'hīnataram' (an even lower world) goes beyond the standard 'return to mortal life' — it suggests that exhausted heavenly merit might even lead to sub-human births, a concept more fully developed in the Bhagavad Gītā (16.19-20) and Purāṇic literature.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -402,8 +684,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Iṣṭā-pūrta — the two categories of meritorious action", "a": "<strong>Iṣṭā-pūrta</strong> (इष्टापूर्त) is a standard Vedic compound for the two categories of meritorious action: <strong>Iṣṭa</strong> (इष्ट) — 'what is offered': refers to <em>Vedic sacrifices</em> (yajña) — the formal, fire-based rituals described in the Śrauta and Gṛhya Sūtras. Examples: agnihotra, darśa-pūrṇamāsa, soma sacrifice, aśvamedha. These are 'iṣṭa' because they involve offering (iṣ/yaj) substances into fire. <strong>Pūrta</strong> (पूर्त) — 'what is completed/fulfilled': refers to <em>charitable and public works</em> — actions that benefit the community. Examples: digging wells, building tanks, planting trees, constructing temples, feeding the poor. These are 'pūrta' because they 'complete' or 'fulfil' a social need. <strong>Together</strong>: iṣṭā-pūrta represents the <em>complete</em> range of good karma — both religious (sacrifice) and social (charity). The Muṇḍaka's point is devastating: even this — the best possible karma, both sacred and social — is insufficient for liberation. It produces merit that eventually exhausts."},
-      {"q": "🔍 'Hīnataram vā viśanti' — the possibility of regression", "a": "The phrase <strong>'hīnataram vā viśanti'</strong> ('or they enter an even lower [world]') introduces a frightening possibility: not just <em>return</em> to the human world but <em>regression</em> to a lower one: <strong>What 'lower' means</strong>: the standard hierarchy of births places gods at the top, then humans, then animals, then plants, then inanimate matter. A 'hīnatara' (more inferior) world would mean an animal or lower birth — not just a return to human status but an actual descent. <strong>Why regression is possible</strong>: (1) The soul that reaches heaven through karma develops strong <em>saṁskāras</em> (habitual patterns) of enjoyment. (2) When heaven ends, these enjoyment-patterns don't disappear — they persist. (3) The soul, driven by these patterns, seeks the kind of enjoyment it became accustomed to — and may take a birth suited to that enjoyment rather than one suited to spiritual progress. (4) A soul accustomed to heavenly pleasure may not have the discipline for human spiritual life — and so may take a 'lower' birth where pleasure-seeking dominates. <strong>The Gītā's parallel</strong> (16.19-20): 'Those who are hateful, cruel, the lowest of humans — I cast them into demonic wombs. Entering demonic wombs, the deluded, birth after birth not reaching Me, fall to the lowest state.' While this Gītā passage deals with a different context (the demoniac nature), the principle is similar: consciousness shaped by wrong values descends rather than ascends."}
+      {
+        "q": "🔍 Iṣṭā-pūrta — the two categories of meritorious action",
+        "a": "<strong>Iṣṭā-pūrta</strong> (इष्टापूर्त) is a standard Vedic compound for the two categories of meritorious action: <strong>Iṣṭa</strong> (इष्ट) — 'what is offered': refers to <em>Vedic sacrifices</em> (yajña) — the formal, fire-based rituals described in the Śrauta and Gṛhya Sūtras. Examples: agnihotra, darśa-pūrṇamāsa, soma sacrifice, aśvamedha. These are 'iṣṭa' because they involve offering (iṣ/yaj) substances into fire. <strong>Pūrta</strong> (पूर्त) — 'what is completed/fulfilled': refers to <em>charitable and public works</em> — actions that benefit the community. Examples: digging wells, building tanks, planting trees, constructing temples, feeding the poor. These are 'pūrta' because they 'complete' or 'fulfil' a social need. <strong>Together</strong>: iṣṭā-pūrta represents the <em>complete</em> range of good karma — both religious (sacrifice) and social (charity). The Muṇḍaka's point is devastating: even this — the best possible karma, both sacred and social — is insufficient for liberation. It produces merit that eventually exhausts."
+      },
+      {
+        "q": "🔍 'Hīnataram vā viśanti' — the possibility of regression",
+        "a": "The phrase <strong>'hīnataram vā viśanti'</strong> ('or they enter an even lower [world]') introduces a frightening possibility: not just <em>return</em> to the human world but <em>regression</em> to a lower one: <strong>What 'lower' means</strong>: the standard hierarchy of births places gods at the top, then humans, then animals, then plants, then inanimate matter. A 'hīnatara' (more inferior) world would mean an animal or lower birth — not just a return to human status but an actual descent. <strong>Why regression is possible</strong>: (1) The soul that reaches heaven through karma develops strong <em>saṁskāras</em> (habitual patterns) of enjoyment. (2) When heaven ends, these enjoyment-patterns don't disappear — they persist. (3) The soul, driven by these patterns, seeks the kind of enjoyment it became accustomed to — and may take a birth suited to that enjoyment rather than one suited to spiritual progress. (4) A soul accustomed to heavenly pleasure may not have the discipline for human spiritual life — and so may take a 'lower' birth where pleasure-seeking dominates. <strong>The Gītā's parallel</strong> (16.19-20): 'Those who are hateful, cruel, the lowest of humans — I cast them into demonic wombs. Entering demonic wombs, the deluded, birth after birth not reaching Me, fall to the lowest state.' While this Gītā passage deals with a different context (the demoniac nature), the principle is similar: consciousness shaped by wrong values descends rather than ascends."
+      }
     ]
   },
   {
@@ -413,15 +701,39 @@
     "hi": "जो तपस् (austerity) और श्रद्धा (faith) में अरण्य (forest) में उपवसन्ति (dwell / रहते हैं) — शान्त (peaceful), विद्वान् (learned/wise), भैक्ष्यचर्या (life of alms / भिक्षा-वृत्ति) चरते हुए — वे विरज (passionless / pure) होकर सूर्यद्वार (sun-gate) से प्रयान्ति (depart / जाते हैं) — जहाँ वह अमृत (immortal) पुरुष (Person) है — अव्ययात्मा (the imperishable Self)।",
     "en": "Those who dwell (upavasanti) in the forest (araṇye) in austerity (tapas) and faith (śraddhā), peaceful (śāntāḥ), wise (vidvāṁsaḥ), living on alms (bhaikṣya-caryām carantaḥ) — they, passionless (virajāḥ), depart through the sun-gate (sūrya-dvāreṇa) to where that immortal (amṛtaḥ) Person (puruṣa) is — the imperishable Self (avyaya-ātmā).",
     "ws": [
-      {"s": "तपःश्रद्धे (tapaḥ-śraddhe)", "h": "तपस् (तप) और श्रद्धा में", "e": "in austerity and faith — tapas (spiritual heat/discipline) + śraddhā (faith/trust); the two pillars of the contemplative life; tapas = inner fire, śraddhā = trust in the teaching"},
-      {"s": "अरण्ये (araṇye)", "h": "अरण्य / वन / जंगल में", "e": "in the forest — the place of retreat, away from society; the setting for the āraṇyaka ('forest texts') and Upanishads"},
-      {"s": "भैक्ष्यचर्याम् (bhaikṣya-caryām)", "h": "भिक्षा-वृत्ति / भिक्षाचरण", "e": "the life of alms — bhaikṣya (alms/begging) + caryā (conduct/practice); the renunciant's practice of living on whatever food is freely offered"},
-      {"s": "सूर्यद्वारेण (sūrya-dvāreṇa)", "h": "सूर्य-द्वार से / सूर्य के मार्ग से", "e": "through the sun-gate — sūrya (sun) + dvāra (door/gate); the doorway through which the liberated soul departs; the devayāna (path of the gods) reaches its culmination at the sun"},
-      {"s": "विरजाः (virajāḥ)", "h": "रज-रहित / निष्कलुष / शुद्ध", "e": "passionless / pure — vi + rajas (passion/dust); free from all rajas (passion, attachment, desire); having transcended the guṇas"},
-      {"s": "अव्ययात्मा (avyaya-ātmā)", "h": "अव्यय (अविनाशी) आत्मा", "e": "the imperishable Self — avyaya (undecaying) + ātman (Self); the ultimate reality that never changes, never diminishes, never perishes"}
+      {
+        "s": "तपःश्रद्धे",
+        "h": "तपस् (तप) और श्रद्धा में",
+        "e": "in austerity and faith"
+      },
+      {
+        "s": "अरण्ये",
+        "h": "अरण्य / वन / जंगल में",
+        "e": "in the forest"
+      },
+      {
+        "s": "भैक्ष्यचर्याम्",
+        "h": "भिक्षा-वृत्ति / भिक्षाचरण",
+        "e": "the life of alms"
+      },
+      {
+        "s": "सूर्यद्वारेण",
+        "h": "सूर्य-द्वार से / सूर्य के मार्ग से",
+        "e": "through the sun-gate"
+      },
+      {
+        "s": "विरजाः",
+        "h": "रज-रहित / निष्कलुष / शुद्ध",
+        "e": "passionless / pure"
+      },
+      {
+        "s": "अव्ययात्मा",
+        "h": "अव्यय (अविनाशी) आत्मा",
+        "e": "the imperishable Self"
+      }
     ],
     "gr": "<strong>The alternative path</strong>: having devastated the ritual path (mantras 7-10), the Muṇḍaka now presents the <em>alternative</em> — the path of knowledge, austerity, faith, and renunciation. <strong>The contrast</strong>: ritualists perform sacrifices → reach heaven → fall back. Contemplatives dwell in forests with tapas and śraddhā → depart through the sun-gate → reach the immortal, imperishable Self → never return. <strong>Five qualities of the contemplative</strong>: (1) <em>tapas</em> — austerity/spiritual discipline, (2) <em>śraddhā</em> — faith/trust, (3) <em>śānta</em> — peaceful, (4) <em>vidvāṁsa</em> — wise/learned (with parā vidyā), (5) <em>bhaikṣya-caryā</em> — living on alms. <strong>sūrya-dvāreṇa</strong> — 'through the sun-gate': the devayāna path reaches its climax at the sun — the doorway between the created world and the uncreated. The liberated soul passes through the sun into the realm of the Imperishable. <strong>avyaya-ātmā</strong> — 'the imperishable Self': the destination is not a <em>world</em> (loka) but the <em>Self</em> (ātman) — which is imperishable (avyaya). This is the crucial difference: the ritualist goes to a place; the contemplative goes to what he already is.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.11 — The 'sūrya-dvāra' (sun-gate) connects to the devayāna (path of the gods) described in the Chāndogya (5.10.1-2) and Bṛhadāraṇyaka (6.2.15). The Chāndogya (8.6.5) also mentions the sun as the gateway: 'atha yad u caivāsmāc charīrād utkrāmati athaitair eva raśmibhir ūrdhvam ākramate' — 'When he departs from this body, he ascends upward by these very rays.' The emphasis on tapas + śraddhā echoes the Taittirīya (2.4.1): 'vijñānaṁ ca tapaś ca' — 'knowledge and austerity together.' The term 'virajāḥ' (passionless) recurs in the Muṇḍaka (3.1.3) and is a key concept in the sannyāsa tradition.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -443,8 +755,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The sun-gate (sūrya-dvāra) — the exit from creation", "a": "The <strong>sūrya-dvāra</strong> ('sun-gate') is one of the most important images in Upanishadic eschatology — the <em>doorway</em> through which the liberated soul exits creation: <strong>The devayāna culmination</strong>: the devayāna (path of the gods) described in the Chāndogya (5.10.1-2) and Bṛhadāraṇyaka (6.2.15) passes through several stages: fire → day → bright fortnight → six months of the northern sun → year → <strong>the sun</strong> → moon → lightning → a non-human person (amānava puruṣa) → Brahman. The sun is the critical <em>gateway</em> — the boundary between the created cosmos and the uncreated Absolute. <strong>The Chāndogya's sun-gate</strong> (8.6.5): 'When he departs from this body, he ascends upward by these very rays [of the sun]... The sun is the gate of the world [of Brahman]. Those who know enter; those who don't know are turned back.' <strong>The Īśā Upanishad's sun-prayer</strong> (15-16): 'The face of truth is covered by a golden disc. Remove it, O sun, so that I — the lover of truth — may see [the truth within].' The sun simultaneously <em>reveals</em> (by its light) and <em>conceals</em> (by its dazzling brilliance) the truth beyond. <strong>Why the sun?</strong> The sun is the most luminous object in creation — it illuminates everything else. But beyond the sun is a light that illuminates even the sun. The sun-gate is the threshold between created light and uncreated Light."},
-      {"q": "🔍 Tapas and śraddhā — the twin pillars of the contemplative path", "a": "The Muṇḍaka names <strong>tapas</strong> (austerity) and <strong>śraddhā</strong> (faith) as the two foundations of the contemplative life: <strong>Tapas</strong> (तपस्): literally 'heat' — the spiritual heat generated by discipline, concentration, and self-restraint. Tapas is not mere self-mortification but the <em>inner fire</em> that burns away impurities: (1) <em>Physical tapas</em>: fasting, silence, endurance of hardship. (2) <em>Mental tapas</em>: concentration, one-pointed focus, withdrawal from distractions. (3) <em>Spiritual tapas</em>: the burning desire for truth that consumes all lesser desires. Tapas is what <em>Brahman itself</em> used to create the world (Muṇḍaka 1.1.8: 'tapasā cīyate brahma'). The contemplative mirrors the Creator's method. <strong>Śraddhā</strong> (श्रद्धा): not 'belief' in the Western sense but <em>trust</em> — trust in the teaching, trust in the teacher, trust in the process. Śraddhā is what keeps the seeker going when results are not yet visible: (1) <em>Trust in the Upanishadic teaching</em>: that brahma-vidyā is real and attainable. (2) <em>Trust in the guru</em>: that the teacher has seen what he teaches. (3) <em>Trust in the process</em>: that tapas, meditation, and inquiry will yield results. <strong>Together</strong>: tapas without śraddhā becomes dry self-punishment. Śraddhā without tapas becomes wishful thinking. The two together create the conditions for parā vidyā — the direct realisation of the Imperishable."}
+      {
+        "q": "🔍 The sun-gate (sūrya-dvāra) — the exit from creation",
+        "a": "The <strong>sūrya-dvāra</strong> ('sun-gate') is one of the most important images in Upanishadic eschatology — the <em>doorway</em> through which the liberated soul exits creation: <strong>The devayāna culmination</strong>: the devayāna (path of the gods) described in the Chāndogya (5.10.1-2) and Bṛhadāraṇyaka (6.2.15) passes through several stages: fire → day → bright fortnight → six months of the northern sun → year → <strong>the sun</strong> → moon → lightning → a non-human person (amānava puruṣa) → Brahman. The sun is the critical <em>gateway</em> — the boundary between the created cosmos and the uncreated Absolute. <strong>The Chāndogya's sun-gate</strong> (8.6.5): 'When he departs from this body, he ascends upward by these very rays [of the sun]... The sun is the gate of the world [of Brahman]. Those who know enter; those who don't know are turned back.' <strong>The Īśā Upanishad's sun-prayer</strong> (15-16): 'The face of truth is covered by a golden disc. Remove it, O sun, so that I — the lover of truth — may see [the truth within].' The sun simultaneously <em>reveals</em> (by its light) and <em>conceals</em> (by its dazzling brilliance) the truth beyond. <strong>Why the sun?</strong> The sun is the most luminous object in creation — it illuminates everything else. But beyond the sun is a light that illuminates even the sun. The sun-gate is the threshold between created light and uncreated Light."
+      },
+      {
+        "q": "🔍 Tapas and śraddhā — the twin pillars of the contemplative path",
+        "a": "The Muṇḍaka names <strong>tapas</strong> (austerity) and <strong>śraddhā</strong> (faith) as the two foundations of the contemplative life: <strong>Tapas</strong> (तपस्): literally 'heat' — the spiritual heat generated by discipline, concentration, and self-restraint. Tapas is not mere self-mortification but the <em>inner fire</em> that burns away impurities: (1) <em>Physical tapas</em>: fasting, silence, endurance of hardship. (2) <em>Mental tapas</em>: concentration, one-pointed focus, withdrawal from distractions. (3) <em>Spiritual tapas</em>: the burning desire for truth that consumes all lesser desires. Tapas is what <em>Brahman itself</em> used to create the world (Muṇḍaka 1.1.8: 'tapasā cīyate brahma'). The contemplative mirrors the Creator's method. <strong>Śraddhā</strong> (श्रद्धा): not 'belief' in the Western sense but <em>trust</em> — trust in the teaching, trust in the teacher, trust in the process. Śraddhā is what keeps the seeker going when results are not yet visible: (1) <em>Trust in the Upanishadic teaching</em>: that brahma-vidyā is real and attainable. (2) <em>Trust in the guru</em>: that the teacher has seen what he teaches. (3) <em>Trust in the process</em>: that tapas, meditation, and inquiry will yield results. <strong>Together</strong>: tapas without śraddhā becomes dry self-punishment. Śraddhā without tapas becomes wishful thinking. The two together create the conditions for parā vidyā — the direct realisation of the Imperishable."
+      }
     ]
   },
   {
@@ -454,15 +772,39 @@
     "hi": "कर्म-चित (karma-built) लोकों को परीक्ष्य (examining / जाँच करके) — ब्राह्मण (seeker of Brahman) को निर्वेद (dispassion / वैराग्य) आना चाहिए — 'अकृत (the uncreated / unproduced) कृत (the produced / created) से नहीं है (नास्ति)' — उस (ब्रह्म के) विज्ञान (realisation) के अर्थ (for the sake of) — वह समित्पाणि (fuel-in-hand) होकर गुरु के पास ही अभिगच्छेत् (approach / जाये) — जो श्रोत्रिय (Veda-learned) और ब्रह्मनिष्ठ (established in Brahman) हो।",
     "en": "Having examined (parīkṣya) the worlds built by karma (karma-citān lokān), the brāhmaṇa (seeker of Brahman) should arrive at dispassion (nirvedam āyāt): 'The uncreated (akṛtaḥ) is not [attained] by the created (kṛtena).' For the sake of that knowledge (tad vijñāna-artham), he should approach (abhigacchet) a guru — fuel in hand (samit-pāṇiḥ) — one who is learned in scripture (śrotriya) and established in Brahman (brahma-niṣṭha).",
     "ws": [
-      {"s": "परीक्ष्य (parīkṣya)", "h": "परीक्षा करके / जाँचकर / विचार करके", "e": "having examined / having critically investigated — pari + √īkṣ (to see/examine); not blind rejection but thoughtful examination of karma's results"},
-      {"s": "कर्मचितान् (karma-citān)", "h": "कर्म से निर्मित / कर्म से संचित", "e": "built by karma / accumulated through action — karma + cita (built/accumulated); the worlds (heavens) are constructed by the merit of ritual action — and therefore impermanent"},
-      {"s": "निर्वेदम् (nirvedam)", "h": "निर्वेद / वैराग्य / विरक्ति", "e": "dispassion / disenchantment — nir + veda (from √vid, to know); literally 'knowing thoroughly' → disillusionment; not depression but clear-eyed recognition that karma-built worlds are insufficient"},
-      {"s": "समित्पाणिः (samit-pāṇiḥ)", "h": "समिधा (ईंधन / sacrificial fuel) हाथ में लिये हुए", "e": "with fuel-sticks in hand — samidh (sacrificial fuel) + pāṇi (hand); the traditional sign of a student approaching a teacher; carrying fuel signifies readiness to serve and learn"},
-      {"s": "श्रोत्रियम् (śrotriyam)", "h": "श्रोत्रिय / वेद-पारंगत / शास्त्रज्ञ", "e": "learned in scripture — one who knows the śruti (Vedic texts) thoroughly; from śrotra (hearing); the guru must know the texts"},
-      {"s": "ब्रह्मनिष्ठम् (brahma-niṣṭham)", "h": "ब्रह्मनिष्ठ / ब्रह्म में स्थित", "e": "established in Brahman — brahman + niṣṭha (established/grounded); the guru must not only know the texts but be personally established in the direct experience of Brahman"}
+      {
+        "s": "परीक्ष्य",
+        "h": "परीक्षा करके / जाँचकर / विचार करके",
+        "e": "having examined / having critically investigated"
+      },
+      {
+        "s": "कर्मचितान्",
+        "h": "कर्म से निर्मित / कर्म से संचित",
+        "e": "built by karma / accumulated through action"
+      },
+      {
+        "s": "निर्वेदम्",
+        "h": "निर्वेद / वैराग्य / विरक्ति",
+        "e": "dispassion / disenchantment"
+      },
+      {
+        "s": "समित्पाणिः",
+        "h": "समिधा (ईंधन / sacrificial fuel) हाथ में लिये हुए",
+        "e": "with fuel-sticks in hand"
+      },
+      {
+        "s": "श्रोत्रियम्",
+        "h": "श्रोत्रिय / वेद-पारंगत / शास्त्रज्ञ",
+        "e": "learned in scripture"
+      },
+      {
+        "s": "ब्रह्मनिष्ठम्",
+        "h": "ब्रह्मनिष्ठ / ब्रह्म में स्थित",
+        "e": "established in Brahman"
+      }
     ],
     "gr": "<strong>The turning point — from ritual to knowledge</strong>: this is one of the most important mantras in the Muṇḍaka — it describes the <em>moment of transition</em> from the karma-path to the jñāna-path. <strong>parīkṣya lokān karma-citān</strong> — 'having examined the karma-built worlds': the transition begins with <em>examination</em> (parīkṣā) — not blind rejection but thoughtful investigation. The seeker examines the results of karma and sees their limitation: they are 'cita' (built/accumulated) — and anything built can be unbuilt. <strong>nirvedam āyāt</strong> — 'should arrive at dispassion': nirvedā = disenchantment — the clear-eyed recognition that karma-built worlds are insufficient. This is not depression but <em>wisdom</em> — the maturity to seek beyond the familiar. <strong>nāsty akṛtaḥ kṛtena</strong> — 'the uncreated is not [attained] by the created': this is the <em>logical kernel</em> of the entire critique. The akṛta (uncreated = Brahman) cannot be reached by kṛta (the created = karma and its results). Created means cannot reach an uncreated goal. This principle is the foundation of Vedāntic epistemology. <strong>samit-pāṇiḥ</strong> — 'fuel in hand': the seeker approaches the guru carrying sacrificial fuel-sticks — a traditional symbol of submission and readiness to serve. <strong>śrotriyaṁ brahma-niṣṭham</strong> — 'learned in scripture AND established in Brahman': the guru must have <em>both</em> qualifications — textual knowledge (śrotriya) and direct experience (brahma-niṣṭha). Either alone is insufficient.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.12 — This mantra is one of the most cited in the entire Upanishadic corpus. The phrase 'nāsty akṛtaḥ kṛtena' (the uncreated is not attained by the created) is the logical foundation of the jñāna-mārga (path of knowledge). The dual qualification of the guru — 'śrotriya' (Veda-learned) and 'brahma-niṣṭha' (established in Brahman) — is cited by Shankara in his Vivekacūḍāmaṇi and other works as the standard for a qualified guru. The 'samit-pāṇi' (fuel-in-hand) image appears also in the Chāndogya (4.4.5) where Satyakāma approaches Gautama Hāridrumata, and in the Bhagavad Gītā (4.34): 'tad viddhi praṇipātena paripraśnena sevayā' — 'Know that by prostration, inquiry, and service.' The concept of 'nirveda' (dispassion born of examination) is distinct from vairāgya (detachment) — nirveda arises specifically from <em>seeing through</em> the limitations of karma.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -484,8 +826,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 'The uncreated is not attained by the created' (nāsty akṛtaḥ kṛtena)", "a": "The phrase <strong>'nāsty akṛtaḥ kṛtena'</strong> is one of the most important philosophical statements in the Upanishads: <strong>The argument</strong>: (1) Karma (action/ritual) is <em>kṛta</em> — something that is 'done/made/created.' (2) Its results are also <em>kṛta</em> — 'made/produced' by the action. (3) Brahman is <em>akṛta</em> — 'uncreated/unmade' — it was not produced by anything and does not depend on anything for its existence. (4) Therefore: a <em>created</em> means (karma) cannot reach an <em>uncreated</em> end (Brahman). <strong>Why this is decisive</strong>: this principle eliminates <em>all</em> action-based paths as ultimate means to liberation — not just Vedic ritual but any activity, practice, or technique that 'produces' a result. If liberation were a 'product,' it would be impermanent (all products are). Liberation must therefore be a <em>recognition</em> of what already is — not a production of something new. <strong>The clay-pot revisited</strong>: a pot is 'kṛta' (made); clay is 'akṛta' relative to the pot. No amount of pot-making will reveal the clay — you need to <em>see through</em> the pot to the clay. Similarly, no amount of karma will reveal Brahman — you need to see through the world (the 'pot') to Brahman (the 'clay'). <strong>The implication for practice</strong>: this doesn't mean 'do nothing.' It means: practice (tapas, meditation, inquiry) creates the <em>conditions</em> for recognition — it removes obstacles, quiets the mind, purifies the heart — but the recognition itself is not 'produced' by practice. It dawns by grace, through the guru's teaching, when the conditions are right."},
-      {"q": "🔍 The qualified guru — śrotriya and brahma-niṣṭha", "a": "The Muṇḍaka specifies <strong>two qualifications</strong> for a guru — both are necessary, neither alone is sufficient: <strong>Śrotriya</strong> (श्रोत्रिय) — 'learned in the śruti (Vedic texts)': the guru must know the texts — the Upanishads, the commentaries, the tradition. This ensures: (1) <em>Accuracy</em>: the teaching is grounded in the authoritative tradition, not in personal opinion. (2) <em>Communicability</em>: the guru can express the truth in words that the student can understand, using the established vocabulary and framework. (3) <em>Protection against error</em>: without textual knowledge, a person might mistake a limited experience for the final truth. <strong>Brahma-niṣṭha</strong> (ब्रह्मनिष्ठ) — 'established in Brahman': the guru must have <em>directly experienced</em> Brahman — not just read about it. This ensures: (1) <em>Authenticity</em>: the teaching comes from lived experience, not mere book-learning. (2) <em>Transmission</em>: there is a quality of presence in a brahma-niṣṭha guru that no text can replicate. (3) <em>Guidance through obstacles</em>: the guru who has traversed the path can guide the student through difficulties that no text anticipates. <strong>Why both?</strong> A guru who is śrotriya but not brahma-niṣṭha is a scholar — he can explain the texts but cannot transmit the experience. A guru who is brahma-niṣṭha but not śrotriya may have the experience but cannot communicate it accurately — he might mislead the student through imprecise language. The ideal guru unites textual mastery with experiential realisation."}
+      {
+        "q": "🔍 'The uncreated is not attained by the created' (nāsty akṛtaḥ kṛtena)",
+        "a": "The phrase <strong>'nāsty akṛtaḥ kṛtena'</strong> is one of the most important philosophical statements in the Upanishads: <strong>The argument</strong>: (1) Karma (action/ritual) is <em>kṛta</em> — something that is 'done/made/created.' (2) Its results are also <em>kṛta</em> — 'made/produced' by the action. (3) Brahman is <em>akṛta</em> — 'uncreated/unmade' — it was not produced by anything and does not depend on anything for its existence. (4) Therefore: a <em>created</em> means (karma) cannot reach an <em>uncreated</em> end (Brahman). <strong>Why this is decisive</strong>: this principle eliminates <em>all</em> action-based paths as ultimate means to liberation — not just Vedic ritual but any activity, practice, or technique that 'produces' a result. If liberation were a 'product,' it would be impermanent (all products are). Liberation must therefore be a <em>recognition</em> of what already is — not a production of something new. <strong>The clay-pot revisited</strong>: a pot is 'kṛta' (made); clay is 'akṛta' relative to the pot. No amount of pot-making will reveal the clay — you need to <em>see through</em> the pot to the clay. Similarly, no amount of karma will reveal Brahman — you need to see through the world (the 'pot') to Brahman (the 'clay'). <strong>The implication for practice</strong>: this doesn't mean 'do nothing.' It means: practice (tapas, meditation, inquiry) creates the <em>conditions</em> for recognition — it removes obstacles, quiets the mind, purifies the heart — but the recognition itself is not 'produced' by practice. It dawns by grace, through the guru's teaching, when the conditions are right."
+      },
+      {
+        "q": "🔍 The qualified guru — śrotriya and brahma-niṣṭha",
+        "a": "The Muṇḍaka specifies <strong>two qualifications</strong> for a guru — both are necessary, neither alone is sufficient: <strong>Śrotriya</strong> (श्रोत्रिय) — 'learned in the śruti (Vedic texts)': the guru must know the texts — the Upanishads, the commentaries, the tradition. This ensures: (1) <em>Accuracy</em>: the teaching is grounded in the authoritative tradition, not in personal opinion. (2) <em>Communicability</em>: the guru can express the truth in words that the student can understand, using the established vocabulary and framework. (3) <em>Protection against error</em>: without textual knowledge, a person might mistake a limited experience for the final truth. <strong>Brahma-niṣṭha</strong> (ब्रह्मनिष्ठ) — 'established in Brahman': the guru must have <em>directly experienced</em> Brahman — not just read about it. This ensures: (1) <em>Authenticity</em>: the teaching comes from lived experience, not mere book-learning. (2) <em>Transmission</em>: there is a quality of presence in a brahma-niṣṭha guru that no text can replicate. (3) <em>Guidance through obstacles</em>: the guru who has traversed the path can guide the student through difficulties that no text anticipates. <strong>Why both?</strong> A guru who is śrotriya but not brahma-niṣṭha is a scholar — he can explain the texts but cannot transmit the experience. A guru who is brahma-niṣṭha but not śrotriya may have the experience but cannot communicate it accurately — he might mislead the student through imprecise language. The ideal guru unites textual mastery with experiential realisation."
+      }
     ]
   },
   {
@@ -495,15 +843,39 @@
     "hi": "उस (विद्यार्थी) को — जो विद्वान् (learned) गुरु — जो उपसन्न (duly approached) हो, सम्यक् प्रशान्तचित्त (truly tranquil-minded) हो, शमान्वित (endowed with inner peace) हो — उसे (गुरु) वह तत्त्वतः (in its true nature / यथार्थ रूप में) ब्रह्मविद्या प्रोवाच (taught / कही) — जिससे (येन) अक्षर (Imperishable) पुरुष (Person) को — सत्य (truth) को — जाना (वेद) जाता है।",
     "en": "To him — who has duly approached (upasannāya), whose mind is truly tranquil (praśānta-cittāya), who is endowed with inner peace (śama-anvitāya) — that wise [guru] (vidvān) taught (provāca) the brahma-vidyā in its true nature (tattvataḥ) — by which one knows (veda) the Imperishable (akṣara) Person (puruṣa), the Truth (satya).",
     "ws": [
-      {"s": "उपसन्नाय (upasannāya)", "h": "उपसन्न / विधिवत् पास आये हुए (शिष्य) को", "e": "to the one who has duly approached — upa + √sad (to sit near); the same term used for Śaunaka in 1.1.3; the student who comes with proper attitude and submission"},
-      {"s": "प्रशान्तचित्ताय (praśānta-cittāya)", "h": "प्रशान्त (पूर्ण शान्त) चित्त वाले को", "e": "to the one whose mind is truly tranquil — pra + śānta (deeply peaceful) + citta (mind); the student's mind must be still — free from agitation, doubt, and restlessness"},
-      {"s": "शमान्विताय (śama-anvitāya)", "h": "शम (inner peace) से युक्त / शान्ति-सम्पन्न", "e": "endowed with inner peace — śama (tranquillity/self-control) + anvita (endowed with); related to the Vedāntic sādhana-catuṣṭaya (fourfold qualification for a student)"},
-      {"s": "तत्त्वतः (tattvataḥ)", "h": "तत्त्व से / यथार्थ रूप में / सत्य-स्वरूप में", "e": "in its true nature / truly — tattva (that-ness / reality) + taḥ (from/by); the teaching is given not superficially but in its essential, true nature"},
-      {"s": "अक्षरं पुरुषम् (akṣaraṁ puruṣam)", "h": "अक्षर (अविनाशी) पुरुष (Person/Being)", "e": "the Imperishable Person — akṣara (imperishable) + puruṣa (person/being); Brahman described as both imperishable and personal — not just an abstract principle but a living reality"},
-      {"s": "सत्यम् (satyam)", "h": "सत्य / परम सत्य", "e": "the Truth — satya = that which truly IS (sat + ya); the ultimate reality; Brahman is not just imperishable but TRUE — the only thing that fully, unconditionally exists"}
+      {
+        "s": "उपसन्नाय",
+        "h": "उपसन्न / विधिवत् पास आये हुए (शिष्य) को",
+        "e": "to the one who has duly approached"
+      },
+      {
+        "s": "प्रशान्तचित्ताय",
+        "h": "प्रशान्त (पूर्ण शान्त) चित्त वाले को",
+        "e": "to the one whose mind is truly tranquil"
+      },
+      {
+        "s": "शमान्विताय",
+        "h": "शम (inner peace) से युक्त / शान्ति-सम्पन्न",
+        "e": "endowed with inner peace"
+      },
+      {
+        "s": "तत्त्वतः",
+        "h": "तत्त्व से / यथार्थ रूप में / सत्य-स्वरूप में",
+        "e": "in its true nature / truly"
+      },
+      {
+        "s": "अक्षरं पुरुषम्",
+        "h": "अक्षर (अविनाशी) पुरुष (Person/Being)",
+        "e": "the Imperishable Person"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य / परम सत्य",
+        "e": "the Truth"
+      }
     ],
     "gr": "<strong>The closing of the section</strong>: the Muṇḍaka's first section ends with the guru teaching brahma-vidyā to the prepared student. <strong>Three qualifications of the student</strong>: (1) <em>upasanna</em> — duly approached (with humility and proper procedure), (2) <em>praśānta-citta</em> — truly tranquil-minded (mind free from agitation), (3) <em>śama-anvita</em> — endowed with inner peace (self-control, equanimity). The student must be <em>prepared</em> — the teaching cannot be received by an agitated, proud, or restless mind. <strong>tattvataḥ</strong> — 'in its true nature': the guru teaches not a simplified version, not a watered-down approximation, but the <em>truth itself</em> (tattva). This requires both the guru's qualification (śrotriya and brahma-niṣṭha) and the student's readiness (praśānta-citta and śama-anvita). <strong>akṣaraṁ puruṣaṁ satyam</strong> — 'the Imperishable Person, the Truth': three descriptions of the same reality — it is <em>akṣara</em> (imperishable), <em>puruṣa</em> (a living being/person, not an abstraction), and <em>satya</em> (truth — what truly is). <strong>This mantra bridges</strong> the first section (the critique) and the second section (the positive teaching about Brahman that will begin in Mundaka 2).",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_1.2.13 — This closing mantra establishes the framework for the rest of the Muṇḍaka: from here on, the Upanishad will teach brahma-vidyā 'tattvataḥ' (in its true nature). The student qualifications (praśānta-citta, śama-anvita) connect to Shankara's sādhana-catuṣṭaya — the fourfold qualification for a Vedānta student: viveka (discrimination), vairāgya (dispassion), ṣaṭ-sampatti (six virtues starting with śama), and mumukṣutva (desire for liberation). The triple description 'akṣaraṁ puruṣaṁ satyam' anticipates the Muṇḍaka's treatment of Brahman as both impersonal (akṣara) and personal (puruṣa) — a synthesis that influenced both Advaita and Viśiṣṭādvaita interpretations.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -525,8 +897,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The qualified student — praśānta-citta and śama-anvita", "a": "The Muṇḍaka specifies <strong>three qualifications</strong> for the student who can receive brahma-vidyā: <strong>(1) Upasanna</strong> — 'duly approached': the student must come to the guru with the proper attitude — humility, submission, genuine desire to learn. This is the same term used for Śaunaka in 1.1.3 — 'vidhivat upasannaḥ.' The approach is not casual; it is formal, respectful, and serious. <strong>(2) Praśānta-citta</strong> — 'truly tranquil-minded': praśānta = deeply peaceful (not just temporarily calm). The mind must be free from: (a) <em>Agitation</em> (vikṣepa) — restlessness, distraction, mental noise. (b) <em>Doubt</em> (saṁśaya) — the wavering between 'is it true?' and 'is it not?' (c) <em>Attachment</em> (āsakti) — clinging to specific outcomes, including the desire for heaven. <strong>(3) Śama-anvita</strong> — 'endowed with inner peace': śama = self-control, mastery over the senses and emotions. This is the first of the 'six virtues' (ṣaṭ-sampatti) in Shankara's system: śama (control of mind), dama (control of senses), uparati (withdrawal from worldly pursuits), titikṣā (endurance), samādhāna (concentration), śraddhā (faith). <strong>Why these qualifications matter</strong>: brahma-vidyā cannot be 'received' by an agitated mind, just as a turbulent lake cannot reflect the moon. The teaching is not information that can be absorbed through effort — it is a <em>revelation</em> that dawns when the mind is perfectly still. The guru's words are the occasion; the student's stillness is the condition."},
-      {"q": "🔍 The triple description: akṣaraṁ puruṣaṁ satyam", "a": "Brahman is described with three terms — <strong>akṣara</strong> (imperishable), <strong>puruṣa</strong> (person), and <strong>satya</strong> (truth) — each revealing a different aspect: <strong>Akṣara</strong> (अक्षर) — 'the Imperishable': Brahman does not change, decay, or perish. While everything in the manifest world is <em>kṣara</em> (perishable), Brahman is <em>a-kṣara</em> — beyond change, beyond time. This is Brahman's <em>ontological</em> character. <strong>Puruṣa</strong> (पुरुष) — 'Person': Brahman is not a dead abstraction or a blind force — it is a <em>conscious being</em>. The word puruṣa (from pur + √śī, 'one who dwells in the city [of the body]') implies sentience, awareness, agency. This is Brahman's <em>conscious</em> character. The use of puruṣa here is significant for Viśiṣṭādvaita — it supports the view that Brahman is personal, not just impersonal. <strong>Satya</strong> (सत्य) — 'Truth': Brahman is not merely a being among beings but the <em>truth</em> of all beings — the only thing that truly, unconditionally IS. Everything else exists conditionally (depending on time, space, and causation); Brahman exists unconditionally. The Taittirīya (2.1.1) defines Brahman as 'satyaṁ jñānam anantam' — 'truth, knowledge, infinity.' <strong>Three-in-one</strong>: the Imperishable (it endures), the Person (it is conscious), the Truth (it is real). These three aspects together give a 'stereoscopic' view of Brahman — not flat but dimensional, not abstract but alive."}
+      {
+        "q": "🔍 The qualified student — praśānta-citta and śama-anvita",
+        "a": "The Muṇḍaka specifies <strong>three qualifications</strong> for the student who can receive brahma-vidyā: <strong>(1) Upasanna</strong> — 'duly approached': the student must come to the guru with the proper attitude — humility, submission, genuine desire to learn. This is the same term used for Śaunaka in 1.1.3 — 'vidhivat upasannaḥ.' The approach is not casual; it is formal, respectful, and serious. <strong>(2) Praśānta-citta</strong> — 'truly tranquil-minded': praśānta = deeply peaceful (not just temporarily calm). The mind must be free from: (a) <em>Agitation</em> (vikṣepa) — restlessness, distraction, mental noise. (b) <em>Doubt</em> (saṁśaya) — the wavering between 'is it true?' and 'is it not?' (c) <em>Attachment</em> (āsakti) — clinging to specific outcomes, including the desire for heaven. <strong>(3) Śama-anvita</strong> — 'endowed with inner peace': śama = self-control, mastery over the senses and emotions. This is the first of the 'six virtues' (ṣaṭ-sampatti) in Shankara's system: śama (control of mind), dama (control of senses), uparati (withdrawal from worldly pursuits), titikṣā (endurance), samādhāna (concentration), śraddhā (faith). <strong>Why these qualifications matter</strong>: brahma-vidyā cannot be 'received' by an agitated mind, just as a turbulent lake cannot reflect the moon. The teaching is not information that can be absorbed through effort — it is a <em>revelation</em> that dawns when the mind is perfectly still. The guru's words are the occasion; the student's stillness is the condition."
+      },
+      {
+        "q": "🔍 The triple description: akṣaraṁ puruṣaṁ satyam",
+        "a": "Brahman is described with three terms — <strong>akṣara</strong> (imperishable), <strong>puruṣa</strong> (person), and <strong>satya</strong> (truth) — each revealing a different aspect: <strong>Akṣara</strong> (अक्षर) — 'the Imperishable': Brahman does not change, decay, or perish. While everything in the manifest world is <em>kṣara</em> (perishable), Brahman is <em>a-kṣara</em> — beyond change, beyond time. This is Brahman's <em>ontological</em> character. <strong>Puruṣa</strong> (पुरुष) — 'Person': Brahman is not a dead abstraction or a blind force — it is a <em>conscious being</em>. The word puruṣa (from pur + √śī, 'one who dwells in the city [of the body]') implies sentience, awareness, agency. This is Brahman's <em>conscious</em> character. The use of puruṣa here is significant for Viśiṣṭādvaita — it supports the view that Brahman is personal, not just impersonal. <strong>Satya</strong> (सत्य) — 'Truth': Brahman is not merely a being among beings but the <em>truth</em> of all beings — the only thing that truly, unconditionally IS. Everything else exists conditionally (depending on time, space, and causation); Brahman exists unconditionally. The Taittirīya (2.1.1) defines Brahman as 'satyaṁ jñānam anantam' — 'truth, knowledge, infinity.' <strong>Three-in-one</strong>: the Imperishable (it endures), the Person (it is conscious), the Truth (it is real). These three aspects together give a 'stereoscopic' view of Brahman — not flat but dimensional, not abstract but alive."
+      }
     ]
   }
 ]

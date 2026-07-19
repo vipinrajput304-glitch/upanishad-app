@@ -6,15 +6,39 @@
     "hi": "वह यह सत्य है — जैसे सुदीप्त (well-blazing) अग्नि (पावक) से हज़ारों (सहस्रशः) विस्फुलिंग (sparks) — अग्नि के ही सरूप (same-natured / अग्नि-स्वरूप) — प्रभवन्ते (उत्पन्न होते हैं) — वैसे ही, हे सोम्य (gentle one)! अक्षर (Imperishable) से विविध (various) भाव (beings / entities) प्रजायन्ते (are born) — और वहीं (तत्र) पुनः लौट (अपियन्ति) जाते हैं।",
     "en": "This is the truth: just as from a well-blazing fire (su-dīptāt pāvakāt) thousands (sahasraśaḥ) of sparks (visphuliṅgāḥ) spring forth (prabhavante), of the same nature (sa-rūpāḥ) [as the fire] — so, O gentle one (somya), from the Imperishable (akṣarāt) various (vividhāḥ) beings (bhāvāḥ) are born (prajāyante) — and they return (api yanti) to it (tatra) again.",
     "ws": [
-      {"s": "सुदीप्तात् पावकात् (su-dīptāt pāvakāt)", "h": "अच्छी तरह प्रज्ज्वलित अग्नि से", "e": "from a well-blazing fire — su (well) + dīpta (blazing) + pāvaka (fire/purifier); the fire must be at full intensity for sparks to fly — Brahman at full creative power"},
-      {"s": "विस्फुलिङ्गाः (visphuliṅgāḥ)", "h": "चिनगारियाँ / स्फुलिंग", "e": "sparks — vi + sphuliṅga (spark); the innumerable sparks that fly from a roaring fire; each spark is fire-natured"},
-      {"s": "सहस्रशः (sahasraśaḥ)", "h": "हज़ारों की संख्या में / असंख्य", "e": "by the thousands / innumerably — sahasra (thousand) + śaḥ (by); emphasises the profusion of creation"},
-      {"s": "सरूपाः (sa-rūpāḥ)", "h": "समान रूप वाले / अग्नि-स्वभाव वाले", "e": "of the same nature/form — sa (same) + rūpa (form); the sparks share the fire's nature; created beings share Brahman's nature"},
-      {"s": "सोम्य (somya)", "h": "हे सौम्य / हे प्रिय / हे सज्जन", "e": "O gentle one — a tender form of address from teacher to student; also used by Uddālaka to Śvetaketu in the Chāndogya (6.2.1)"},
-      {"s": "भावाः (bhāvāḥ)", "h": "भाव / पदार्थ / सत्ताएँ / beings", "e": "beings / entities / existences — from √bhū (to be); all things that 'come into being'; the entire manifest world"}
+      {
+        "s": "सुदीप्तात् पावकात्",
+        "h": "अच्छी तरह प्रज्ज्वलित अग्नि से",
+        "e": "from a well-blazing fire"
+      },
+      {
+        "s": "विस्फुलिङ्गाः",
+        "h": "चिनगारियाँ / स्फुलिंग",
+        "e": "sparks"
+      },
+      {
+        "s": "सहस्रशः",
+        "h": "हज़ारों की संख्या में / असंख्य",
+        "e": "by the thousands / innumerably"
+      },
+      {
+        "s": "सरूपाः",
+        "h": "समान रूप वाले / अग्नि-स्वभाव वाले",
+        "e": "of the same nature/form"
+      },
+      {
+        "s": "सोम्य",
+        "h": "हे सौम्य / हे प्रिय / हे सज्जन",
+        "e": "O gentle one"
+      },
+      {
+        "s": "भावाः",
+        "h": "भाव / पदार्थ / सत्ताएँ / beings",
+        "e": "beings / entities / existences"
+      }
     ],
     "gr": "<strong>The spark-fire simile</strong>: the second Muṇḍaka opens with one of the Upanishads' most famous analogies — sparks from fire. <strong>The analogy's logic</strong>: (1) The sparks come <em>from</em> the fire — they are not created from nothing. (2) The sparks are <em>sa-rūpa</em> (of the same nature) as the fire — they are fire, not something else. (3) The sparks eventually <em>return</em> to the fire — they are not permanently separate. Similarly: (1) All beings come from the akṣara (Imperishable). (2) All beings share the akṣara's nature (consciousness, being). (3) All beings return to the akṣara. <strong>sa-rūpāḥ</strong> — 'of the same nature': this is philosophically crucial. The sparks are not <em>different in kind</em> from the fire — they are fire in miniature. Similarly, created beings are not different in kind from Brahman — they are Brahman in individualised form. This supports the Upanishadic claim that knowing Brahman = knowing all beings (because all beings are Brahman-natured). <strong>tatra caivāpiyanti</strong> — 'and they return to it': the cycle is complete — emergence and return. The sparks fly out and fall back into the fire. Beings emerge from Brahman and dissolve back into Brahman.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.1 — The spark-fire simile is one of three creation-similes in the Muṇḍaka (cf. 1.1.7: spider-web, earth-herbs, person-hair). This simile emphasises the identity of nature (sa-rūpa) between cause and effect — a key Vedāntic principle. The Bṛhadāraṇyaka (2.1.20) uses a similar image: 'As from a fire laid with damp fuel, clouds of smoke issue forth, so from this great Being have been breathed forth the Ṛg Veda, Yajur Veda...' The address 'somya' (O gentle one) is characteristic of guru-to-student speech in the Upanishads — most famously in the Chāndogya's 'tat tvam asi, Śvetaketo' (6.8.7). The return clause ('tatra caivāpiyanti') echoes the Taittirīya (3.1.1): 'yato vā imāni bhūtāni jāyante... yat prayanty abhisaṁviśanti.'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -36,8 +60,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The spark-fire simile and the nature of creation", "a": "The <strong>spark-fire simile</strong> is one of the most important creation-analogies in the Upanishads: <strong>Three key features</strong>: (1) <strong>Origin</strong>: the sparks come <em>from</em> the fire — they are not created from nothing (ex nihilo) and not created from some other material. The fire is both the <em>efficient cause</em> (the agent that produces) and the <em>material cause</em> (the substance from which they are made). Similarly, Brahman is both the creator (efficient cause) and the substance (material cause) of the universe. (2) <strong>Identity of nature (sa-rūpa)</strong>: the sparks share the fire's essential nature — they are hot, luminous, and fire-constituted. No spark is made of water or earth; every spark is fire. Similarly, every being shares Brahman's essential nature — consciousness, being, bliss. This is the basis for 'tat tvam asi' (you are That). (3) <strong>Return</strong>: the sparks fly out and fall back into the fire. They don't disappear into void — they merge back into their source. Similarly, all beings eventually return to Brahman. <strong>Comparison with other similes</strong>: the Muṇḍaka uses three creation-similes: (a) <em>Spider-web</em> (1.1.7) — the spider produces the web from itself and draws it back; emphasises self-causation. (b) <em>Earth-herbs</em> (1.1.7) — the earth produces herbs from itself; emphasises the variety of creation from a single source. (c) <em>Spark-fire</em> (2.1.1) — emphasises identity of nature (sa-rūpa) and the cycle of emergence-return. Each simile highlights a different aspect of the Brahman-world relationship."},
-      {"q": "🔍 'Somya' — the teacher's tender address", "a": "The address <strong>'somya'</strong> (हे सौम्य — 'O gentle one') is one of the most characteristic and emotionally resonant words in the Upanishads: <strong>Meaning</strong>: somya = 'one who has the quality of soma' → 'gentle, beautiful, dear.' It is an affectionate term of address, conveying warmth, respect, and intimacy between teacher and student. <strong>Most famous usage</strong>: Uddālaka Āruṇi addresses his son Śvetaketu as 'somya' throughout the Chāndogya Upanishad's sixth chapter — including the nine iterations of 'tat tvam asi, Śvetaketo' (6.8.7 etc.). The word carries the weight of that entire teaching tradition. <strong>Why the Muṇḍaka uses it</strong>: by using 'somya,' the Muṇḍaka's teacher (Aṅgiras) is speaking to Śaunaka with the same tenderness that Uddālaka showed Śvetaketu. This is not a cold lecture but a <em>personal transmission</em> — the teacher cares about the student, and the teaching is offered with love. <strong>The contrast with the previous section</strong>: the harsh language of Muṇḍaka 1.2 ('mūḍhāḥ,' 'bālāḥ,' 'andhāḥ') was directed at the deluded ritualists. Now, speaking to the prepared student, the tone shifts to tenderness — 'somya.' The teaching of parā vidyā begins not with severity but with affection."}
+      {
+        "q": "🔍 The spark-fire simile and the nature of creation",
+        "a": "The <strong>spark-fire simile</strong> is one of the most important creation-analogies in the Upanishads: <strong>Three key features</strong>: (1) <strong>Origin</strong>: the sparks come <em>from</em> the fire — they are not created from nothing (ex nihilo) and not created from some other material. The fire is both the <em>efficient cause</em> (the agent that produces) and the <em>material cause</em> (the substance from which they are made). Similarly, Brahman is both the creator (efficient cause) and the substance (material cause) of the universe. (2) <strong>Identity of nature (sa-rūpa)</strong>: the sparks share the fire's essential nature — they are hot, luminous, and fire-constituted. No spark is made of water or earth; every spark is fire. Similarly, every being shares Brahman's essential nature — consciousness, being, bliss. This is the basis for 'tat tvam asi' (you are That). (3) <strong>Return</strong>: the sparks fly out and fall back into the fire. They don't disappear into void — they merge back into their source. Similarly, all beings eventually return to Brahman. <strong>Comparison with other similes</strong>: the Muṇḍaka uses three creation-similes: (a) <em>Spider-web</em> (1.1.7) — the spider produces the web from itself and draws it back; emphasises self-causation. (b) <em>Earth-herbs</em> (1.1.7) — the earth produces herbs from itself; emphasises the variety of creation from a single source. (c) <em>Spark-fire</em> (2.1.1) — emphasises identity of nature (sa-rūpa) and the cycle of emergence-return. Each simile highlights a different aspect of the Brahman-world relationship."
+      },
+      {
+        "q": "🔍 'Somya' — the teacher's tender address",
+        "a": "The address <strong>'somya'</strong> (हे सौम्य — 'O gentle one') is one of the most characteristic and emotionally resonant words in the Upanishads: <strong>Meaning</strong>: somya = 'one who has the quality of soma' → 'gentle, beautiful, dear.' It is an affectionate term of address, conveying warmth, respect, and intimacy between teacher and student. <strong>Most famous usage</strong>: Uddālaka Āruṇi addresses his son Śvetaketu as 'somya' throughout the Chāndogya Upanishad's sixth chapter — including the nine iterations of 'tat tvam asi, Śvetaketo' (6.8.7 etc.). The word carries the weight of that entire teaching tradition. <strong>Why the Muṇḍaka uses it</strong>: by using 'somya,' the Muṇḍaka's teacher (Aṅgiras) is speaking to Śaunaka with the same tenderness that Uddālaka showed Śvetaketu. This is not a cold lecture but a <em>personal transmission</em> — the teacher cares about the student, and the teaching is offered with love. <strong>The contrast with the previous section</strong>: the harsh language of Muṇḍaka 1.2 ('mūḍhāḥ,' 'bālāḥ,' 'andhāḥ') was directed at the deluded ritualists. Now, speaking to the prepared student, the tone shifts to tenderness — 'somya.' The teaching of parā vidyā begins not with severity but with affection."
+      }
     ]
   },
   {
@@ -47,15 +77,39 @@
     "hi": "वह पुरुष (Person) दिव्य (luminous / divine) है, अमूर्त (formless) है, बाहर और भीतर दोनों ओर (सबाह्याभ्यन्तरः) है, अज (unborn) है, अप्राण (without prāṇa) है, अमनस् (without mind) है, शुभ्र (pure / resplendent) है — और अक्षर (Imperishable) से भी परतः परः (beyond the beyond / परे से भी परे) है।",
     "en": "That Person (puruṣa) is divine (divya), formless (amūrta), [existing] both outside and inside (sa-bāhya-abhyantara), unborn (aja), without prāṇa (aprāṇa), without mind (amanāḥ), pure/resplendent (śubhra) — and beyond even the Imperishable (akṣarāt parataḥ paraḥ).",
     "ws": [
-      {"s": "दिव्यः (divyaḥ)", "h": "दिव्य / प्रकाशमान / स्वयम्प्रभ", "e": "divine / self-luminous — from div (to shine); the Puruṣa shines by its own light, needing no external illumination"},
-      {"s": "अमूर्तः (amūrtaḥ)", "h": "मूर्ति-रहित / निराकार / formless", "e": "formless — a + mūrta (formed/embodied); without material form or shape; cannot be perceived by the senses"},
-      {"s": "सबाह्याभ्यन्तरः (sa-bāhya-abhyantaraḥ)", "h": "बाहर और भीतर (दोनों में) विद्यमान", "e": "existing both outside and inside — sa (with) + bāhya (external) + abhyantara (internal); Brahman pervades the outer world and the inner self equally"},
-      {"s": "अजः (ajaḥ)", "h": "अज / अजन्मा / जन्म-रहित", "e": "unborn — a + ja (born); Brahman was never born; it has no origin, no beginning; it is the origin of everything else"},
-      {"s": "शुभ्रः (śubhraḥ)", "h": "शुभ्र / शुद्ध / निर्मल / उज्ज्वल", "e": "pure / resplendent — untainted by anything; inherently luminous and spotless"},
-      {"s": "अक्षरात् परतः परः (akṣarāt parataḥ paraḥ)", "h": "अक्षर से भी परे से परे / अविनाशी से भी ऊपर", "e": "beyond even the Imperishable — the Puruṣa transcends even the akṣara (the undifferentiated absolute); the supreme reality beyond all categories"}
+      {
+        "s": "दिव्यः",
+        "h": "दिव्य / प्रकाशमान / स्वयम्प्रभ",
+        "e": "divine / self-luminous"
+      },
+      {
+        "s": "अमूर्तः",
+        "h": "मूर्ति-रहित / निराकार / formless",
+        "e": "formless"
+      },
+      {
+        "s": "सबाह्याभ्यन्तरः",
+        "h": "बाहर और भीतर (दोनों में) विद्यमान",
+        "e": "existing both outside and inside"
+      },
+      {
+        "s": "अजः",
+        "h": "अज / अजन्मा / जन्म-रहित",
+        "e": "unborn"
+      },
+      {
+        "s": "शुभ्रः",
+        "h": "शुभ्र / शुद्ध / निर्मल / उज्ज्वल",
+        "e": "pure / resplendent"
+      },
+      {
+        "s": "अक्षरात् परतः परः",
+        "h": "अक्षर से भी परे से परे / अविनाशी से भी ऊपर",
+        "e": "beyond even the Imperishable"
+      }
     ],
     "gr": "<strong>The Puruṣa beyond the akṣara</strong>: this mantra introduces a hierarchy — the Puruṣa is described as <em>beyond even the akṣara</em> (Imperishable). <strong>akṣarāt parataḥ paraḥ</strong> — 'beyond the beyond of the Imperishable': this is a startling claim. The akṣara (Imperishable) was presented in 1.1.5-6 as the supreme reality. Now the Muṇḍaka says there is something <em>beyond</em> even that — the Puruṣa. This suggests a hierarchy: manifest world → akṣara (unmanifest/imperishable) → Puruṣa (supreme). <strong>Seven attributes</strong>: (1) divya (self-luminous), (2) amūrta (formless), (3) sa-bāhya-abhyantara (both outside and inside), (4) aja (unborn), (5) aprāṇa (without prāṇa), (6) amanāḥ (without mind), (7) śubhra (pure/resplendent). <strong>The paradox</strong>: the Puruṣa is both 'outside' and 'inside' — it is not located in one place but pervades everything, both the outer world and the inner self. It is simultaneously transcendent (outside) and immanent (inside).",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.2 — The phrase 'akṣarāt parataḥ paraḥ' (beyond even the Imperishable) is philosophically significant. It introduces a hierarchy within the Absolute — the Puruṣa is 'beyond' even the undifferentiated akṣara. Shankara interprets this as the akṣara being the avyākṛta (unmanifest māyā/prakṛti) and the Puruṣa being the supreme nirguṇa Brahman beyond māyā. Ramanuja takes the akṣara as the liberated Self and the Puruṣa as the Supreme Lord (Puruṣottama). The Bhagavad Gītā (15.16-18) uses a similar three-tier hierarchy: kṣara (perishable/manifest), akṣara (imperishable/unmanifest), and Puruṣottama (the Supreme Person beyond both). The description 'aprāṇa, amanāḥ' echoes the via-negativa of 1.1.6.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -77,8 +131,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 'Beyond even the Imperishable' — the three-tier hierarchy", "a": "The phrase <strong>'akṣarāt parataḥ paraḥ'</strong> ('beyond even the Imperishable') introduces a <strong>three-tier hierarchy</strong> of reality: <strong>Tier 1: Kṣara (the perishable)</strong> — the manifest world of names, forms, and change. Everything we perceive — bodies, objects, planets, time — belongs here. It is born, it changes, it perishes. <strong>Tier 2: Akṣara (the imperishable)</strong> — the unmanifest ground from which the manifest world arises. It is 'imperishable' because it does not undergo the changes that the manifest world does. In Shankara's reading, this is <em>avyākṛta</em> (the unmanifest māyā/prakṛti). In Ramanuja's reading, it is the collective of liberated souls or prakṛti in its unmanifest state. <strong>Tier 3: Puruṣa (beyond the imperishable)</strong> — the Supreme Person who transcends both the manifest and the unmanifest. This is the ultimate reality — not just undying but the <em>source</em> of both dying and undying. <strong>The Gītā parallel</strong> (15.16-18): Kṛṣṇa describes exactly this hierarchy: (1) kṣara puruṣa = all beings in the world, (2) akṣara puruṣa = the unmanifest, unchanging, (3) puruṣottama = 'the Supreme Person, other than these two, called the Supreme Self (Paramātmā), who pervades and sustains the three worlds.' The Muṇḍaka's 'akṣarāt parataḥ paraḥ' is the seed of the Gītā's Puruṣottama theology."},
-      {"q": "🔍 The paradox of 'both outside and inside' (sa-bāhya-abhyantara)", "a": "The compound <strong>sa-bāhya-abhyantara</strong> ('existing both outside and inside') captures one of Brahman's most essential paradoxes: <strong>What it means</strong>: Brahman is not located 'somewhere' — not in a heaven, not in a temple, not in the heart alone. It exists <em>both</em> outside (as the ground of the external world) and inside (as the innermost Self). It is simultaneously the vastest thing (the cosmos) and the most intimate thing (your own awareness). <strong>The Īśā parallel</strong> (5): 'tad ejati tan naijati tad dūre tad vad antike / tad antarasya sarvasya tad u sarvasyāsya bāhyataḥ' — 'It moves, It moves not. It is far, It is near. It is inside all this, and It is outside all this.' <strong>Why this matters</strong>: if Brahman were only 'outside' (transcendent), it would be distant and inaccessible — something to be reached. If Brahman were only 'inside' (immanent), it would be subjective and private — not the ground of the cosmos. By being both, Brahman is: (1) <em>Accessible</em> — it is right here, as your own awareness. (2) <em>Universal</em> — it is not private but the ground of everything. (3) <em>Inescapable</em> — there is nowhere you can go where Brahman is not, because it is both the space you move through (outside) and the consciousness that moves (inside)."}
+      {
+        "q": "🔍 'Beyond even the Imperishable' — the three-tier hierarchy",
+        "a": "The phrase <strong>'akṣarāt parataḥ paraḥ'</strong> ('beyond even the Imperishable') introduces a <strong>three-tier hierarchy</strong> of reality: <strong>Tier 1: Kṣara (the perishable)</strong> — the manifest world of names, forms, and change. Everything we perceive — bodies, objects, planets, time — belongs here. It is born, it changes, it perishes. <strong>Tier 2: Akṣara (the imperishable)</strong> — the unmanifest ground from which the manifest world arises. It is 'imperishable' because it does not undergo the changes that the manifest world does. In Shankara's reading, this is <em>avyākṛta</em> (the unmanifest māyā/prakṛti). In Ramanuja's reading, it is the collective of liberated souls or prakṛti in its unmanifest state. <strong>Tier 3: Puruṣa (beyond the imperishable)</strong> — the Supreme Person who transcends both the manifest and the unmanifest. This is the ultimate reality — not just undying but the <em>source</em> of both dying and undying. <strong>The Gītā parallel</strong> (15.16-18): Kṛṣṇa describes exactly this hierarchy: (1) kṣara puruṣa = all beings in the world, (2) akṣara puruṣa = the unmanifest, unchanging, (3) puruṣottama = 'the Supreme Person, other than these two, called the Supreme Self (Paramātmā), who pervades and sustains the three worlds.' The Muṇḍaka's 'akṣarāt parataḥ paraḥ' is the seed of the Gītā's Puruṣottama theology."
+      },
+      {
+        "q": "🔍 The paradox of 'both outside and inside' (sa-bāhya-abhyantara)",
+        "a": "The compound <strong>sa-bāhya-abhyantara</strong> ('existing both outside and inside') captures one of Brahman's most essential paradoxes: <strong>What it means</strong>: Brahman is not located 'somewhere' — not in a heaven, not in a temple, not in the heart alone. It exists <em>both</em> outside (as the ground of the external world) and inside (as the innermost Self). It is simultaneously the vastest thing (the cosmos) and the most intimate thing (your own awareness). <strong>The Īśā parallel</strong> (5): 'tad ejati tan naijati tad dūre tad vad antike / tad antarasya sarvasya tad u sarvasyāsya bāhyataḥ' — 'It moves, It moves not. It is far, It is near. It is inside all this, and It is outside all this.' <strong>Why this matters</strong>: if Brahman were only 'outside' (transcendent), it would be distant and inaccessible — something to be reached. If Brahman were only 'inside' (immanent), it would be subjective and private — not the ground of the cosmos. By being both, Brahman is: (1) <em>Accessible</em> — it is right here, as your own awareness. (2) <em>Universal</em> — it is not private but the ground of everything. (3) <em>Inescapable</em> — there is nowhere you can go where Brahman is not, because it is both the space you move through (outside) and the consciousness that moves (inside)."
+      }
     ]
   },
   {
@@ -88,14 +148,34 @@
     "hi": "इससे (इस पुरुष से) प्राण (life-force) जायते (is born) होता है, मन (mind), और सब इन्द्रियाँ (all senses) — तथा (आकाश) खम्, वायु (air), ज्योतिः (fire/light), आपः (waters), और पृथिवी (earth) — जो विश्व (universe) की धारिणी (supporter / आधार) है।",
     "en": "From Him (etasmāt) are born (jāyate): prāṇa (life-breath), manas (mind), and all the senses (sarva-indriyāṇi); and [the five elements:] space (kham), air (vāyu), fire/light (jyotiḥ), waters (āpaḥ), and earth (pṛthivī) — the supporter (dhāriṇī) of the universe (viśvasya).",
     "ws": [
-      {"s": "प्राणः (prāṇaḥ)", "h": "प्राण / जीवन-शक्ति / life-breath", "e": "prāṇa — the vital breath / life-force; the animating energy of all living beings; the first thing to emerge from the Puruṣa"},
-      {"s": "सर्वेन्द्रियाणि (sarva-indriyāṇi)", "h": "सब इन्द्रियाँ / सभी ज्ञानेन्द्रियाँ और कर्मेन्द्रियाँ", "e": "all the senses — the five knowledge-senses (sight, hearing, smell, taste, touch) and the five action-senses (speech, hands, feet, reproduction, excretion)"},
-      {"s": "खम् (kham)", "h": "आकाश / गगन / space", "e": "space / ether — ākāśa; the subtlest of the five elements; the first element to emerge in the creation sequence"},
-      {"s": "ज्योतिः (jyotiḥ)", "h": "ज्योति / अग्नि / प्रकाश", "e": "fire / light — the element of luminosity and heat; tejas in Sāṁkhya terminology"},
-      {"s": "धारिणी (dhāriṇī)", "h": "धारण करने वाली / आधार / supporter", "e": "the supporter — feminine, referring to pṛthivī (earth); earth is the 'supporter' because it holds up all beings and structures"}
+      {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-शक्ति / life-breath",
+        "e": "prāṇa"
+      },
+      {
+        "s": "सर्वेन्द्रियाणि",
+        "h": "सब इन्द्रियाँ / सभी ज्ञानेन्द्रियाँ और कर्मेन्द्रियाँ",
+        "e": "all the senses"
+      },
+      {
+        "s": "खम्",
+        "h": "आकाश / गगन / space",
+        "e": "space / ether"
+      },
+      {
+        "s": "ज्योतिः",
+        "h": "ज्योति / अग्नि / प्रकाश",
+        "e": "fire / light"
+      },
+      {
+        "s": "धारिणी",
+        "h": "धारण करने वाली / आधार / supporter",
+        "e": "the supporter"
+      }
     ],
     "gr": "<strong>The creation-sequence from the Puruṣa</strong>: from the Puruṣa emerge: (A) the subjective side — prāṇa, manas, senses; (B) the objective side — the five elements (space, air, fire, water, earth). <strong>Two categories</strong>: (1) <em>Inner</em> (adhyātma): prāṇa (life-energy), manas (mind), indriyāṇi (senses) — the instruments of individual experience. (2) <em>Outer</em> (adhibhūta): kham (space), vāyu (air), jyotiḥ (fire), āpaḥ (water), pṛthivī (earth) — the five mahābhūtas (great elements) from which the physical world is constituted. <strong>The descent from subtle to gross</strong>: the elements are listed from subtlest (space) to grossest (earth) — the standard Vedāntic creation-order. Space gives rise to air, air to fire, fire to water, water to earth. <strong>pṛthivī viśvasya dhāriṇī</strong> — 'earth, the supporter of the universe': earth is singled out as the <em>dhāriṇī</em> (supporter) — the element that 'holds' the physical world together. It is the grossest element — the final stage of manifestation — and yet it 'supports' everything above it.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.3 — The creation-sequence (prāṇa → manas → indriyāṇi → kham → vāyu → jyotiḥ → āpaḥ → pṛthivī) follows the standard Vedāntic order from subtle to gross. The Taittirīya (2.1.1) gives a similar sequence: 'from this Self (ātmā), space (ākāśa) was born; from space, air; from air, fire; from fire, water; from water, earth.' The Chāndogya (6.2.3-4) gives a slightly different order. The inclusion of prāṇa, manas, and indriyāṇi alongside the five elements makes this a more comprehensive creation-account than those found in the Taittirīya or Chāndogya — it covers both the subjective and objective aspects of creation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -117,8 +197,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The five great elements (pañca-mahābhūta)", "a": "The <strong>five great elements</strong> (pañca-mahābhūta) are the building blocks of the physical world in Vedāntic cosmology: <strong>The five, from subtle to gross</strong>: (1) <strong>Ākāśa / Kham</strong> (space) — the subtlest element; the field in which all others operate; its quality is <em>śabda</em> (sound). (2) <strong>Vāyu</strong> (air) — the element of movement and touch; its quality is <em>sparśa</em> (touch). (3) <strong>Tejas / Jyotiḥ</strong> (fire/light) — the element of heat and visibility; its quality is <em>rūpa</em> (form/colour). (4) <strong>Āpas</strong> (water) — the element of fluidity and cohesion; its quality is <em>rasa</em> (taste). (5) <strong>Pṛthivī</strong> (earth) — the grossest element, providing solidity and support; its quality is <em>gandha</em> (smell). <strong>The creation-order</strong>: each element emerges from the previous one — space → air → fire → water → earth — from subtle to gross. This is the <em>sṛṣṭi-krama</em> (creation-order). The reverse — earth → water → fire → air → space — is the <em>laya-krama</em> (dissolution-order). <strong>Each element contains all previous ones</strong>: earth has the qualities of all five (sound, touch, form, taste, smell); water has four (sound, touch, form, taste); fire has three; air has two; space has only one (sound). This is why earth is the 'densest' and space the 'subtlest.'"},
-      {"q": "🔍 The dual creation: subjective and objective", "a": "This mantra is notable for describing <strong>both the subjective and objective aspects of creation</strong> from the same source: <strong>Subjective (adhyātma)</strong>: prāṇa (life-force), manas (mind), indriyāṇi (senses) — the instruments of <em>individual experience</em>. Without these, there is no experiencer. <strong>Objective (adhibhūta)</strong>: kham (space), vāyu (air), jyotiḥ (fire), āpaḥ (water), pṛthivī (earth) — the components of <em>the experienced world</em>. Without these, there is nothing to experience. <strong>The Muṇḍaka's point</strong>: both come from the same Puruṣa. The experiencer and the experienced are not separate realities — they are two aspects of one reality (Brahman). This is why 'knowing Brahman, all is known' (1.1.3) — because both the knower (prāṇa, mind, senses) and the known (space, air, fire, water, earth) are Brahman's self-expression. <strong>The Taittirīya parallel</strong> (2.1.1): 'From this Self, space was born; from space, air; from air, fire; from fire, water; from water, earth; from earth, herbs; from herbs, food; from food, the person.' The Taittirīya traces the entire chain from Brahman to the individual person — showing that <em>you</em> are the end-product of Brahman's self-creation."}
+      {
+        "q": "🔍 The five great elements (pañca-mahābhūta)",
+        "a": "The <strong>five great elements</strong> (pañca-mahābhūta) are the building blocks of the physical world in Vedāntic cosmology: <strong>The five, from subtle to gross</strong>: (1) <strong>Ākāśa / Kham</strong> (space) — the subtlest element; the field in which all others operate; its quality is <em>śabda</em> (sound). (2) <strong>Vāyu</strong> (air) — the element of movement and touch; its quality is <em>sparśa</em> (touch). (3) <strong>Tejas / Jyotiḥ</strong> (fire/light) — the element of heat and visibility; its quality is <em>rūpa</em> (form/colour). (4) <strong>Āpas</strong> (water) — the element of fluidity and cohesion; its quality is <em>rasa</em> (taste). (5) <strong>Pṛthivī</strong> (earth) — the grossest element, providing solidity and support; its quality is <em>gandha</em> (smell). <strong>The creation-order</strong>: each element emerges from the previous one — space → air → fire → water → earth — from subtle to gross. This is the <em>sṛṣṭi-krama</em> (creation-order). The reverse — earth → water → fire → air → space — is the <em>laya-krama</em> (dissolution-order). <strong>Each element contains all previous ones</strong>: earth has the qualities of all five (sound, touch, form, taste, smell); water has four (sound, touch, form, taste); fire has three; air has two; space has only one (sound). This is why earth is the 'densest' and space the 'subtlest.'"
+      },
+      {
+        "q": "🔍 The dual creation: subjective and objective",
+        "a": "This mantra is notable for describing <strong>both the subjective and objective aspects of creation</strong> from the same source: <strong>Subjective (adhyātma)</strong>: prāṇa (life-force), manas (mind), indriyāṇi (senses) — the instruments of <em>individual experience</em>. Without these, there is no experiencer. <strong>Objective (adhibhūta)</strong>: kham (space), vāyu (air), jyotiḥ (fire), āpaḥ (water), pṛthivī (earth) — the components of <em>the experienced world</em>. Without these, there is nothing to experience. <strong>The Muṇḍaka's point</strong>: both come from the same Puruṣa. The experiencer and the experienced are not separate realities — they are two aspects of one reality (Brahman). This is why 'knowing Brahman, all is known' (1.1.3) — because both the knower (prāṇa, mind, senses) and the known (space, air, fire, water, earth) are Brahman's self-expression. <strong>The Taittirīya parallel</strong> (2.1.1): 'From this Self, space was born; from space, air; from air, fire; from fire, water; from water, earth; from earth, herbs; from herbs, food; from food, the person.' The Taittirīya traces the entire chain from Brahman to the individual person — showing that <em>you</em> are the end-product of Brahman's self-creation."
+      }
     ]
   },
   {
@@ -128,14 +214,34 @@
     "hi": "अग्नि उसका मूर्धा (head / शिर) है; चन्द्र और सूर्य उसकी दो चक्षुषी (eyes / नेत्र) हैं; दिशाएँ उसके श्रोत्र (ears / कान) हैं; वेद उसकी विवृत वाक् (revealed speech / प्रकट वाणी) हैं; वायु उसका प्राण (life-breath) है; विश्व (universe) उसका हृदय (heart) है; उसके पद्भ्याम् (feet / पैरों) से पृथिवी (earth) है — वह (एषः) सर्वभूतान्तरात्मा (inner Self of all beings) है।",
     "en": "Fire (agni) is his head (mūrdhā); the moon and sun (candra-sūryau) are his two eyes (cakṣuṣī); the directions (diśaḥ) are his ears (śrotre); the Vedas are his revealed speech (vāk vivṛtāḥ); air (vāyu) is his prāṇa (life-breath); the universe (viśvam) is his heart (hṛdayam); from his feet (padbhyām) is the earth (pṛthivī) — he is the inner Self (antarātmā) of all beings (sarva-bhūta).",
     "ws": [
-      {"s": "मूर्धा (mūrdhā)", "h": "शिर / सिर / head", "e": "the head — the topmost part of the cosmic Person; fire is the head because fire rises upward and is the highest element"},
-      {"s": "चन्द्रसूर्यौ (candra-sūryau)", "h": "चन्द्रमा और सूर्य", "e": "moon and sun — the two 'eyes' of the cosmic Person; sun = right eye, moon = left eye (as in the Puruṣa Sūkta); the luminaries through which the cosmos 'sees'"},
-      {"s": "दिशः श्रोत्रे (diśaḥ śrotre)", "h": "दिशाएँ (directions) उसके कान हैं", "e": "the directions are his ears — the ten directions (four cardinal + four intermediate + up + down) are the cosmic Person's 'hearing'; sound travels through space in all directions"},
-      {"s": "वाक् विवृताः (vāk vivṛtāḥ)", "h": "प्रकट / विवृत (revealed) वाणी", "e": "revealed speech — vivṛta (opened/revealed) + vāk (speech); the Vedas are the 'spoken word' of the cosmic Person — not composed but 'revealed'"},
-      {"s": "सर्वभूतान्तरात्मा (sarva-bhūta-antarātmā)", "h": "सब भूतों (प्राणियों) का अन्तरात्मा / inner Self", "e": "the inner Self of all beings — sarva (all) + bhūta (beings) + antar (inner) + ātmā (self); the cosmic Person is not just outside (as the cosmos) but inside (as the Self of every creature)"}
+      {
+        "s": "मूर्धा",
+        "h": "शिर / सिर / head",
+        "e": "the head"
+      },
+      {
+        "s": "चन्द्रसूर्यौ",
+        "h": "चन्द्रमा और सूर्य",
+        "e": "moon and sun"
+      },
+      {
+        "s": "दिशः श्रोत्रे",
+        "h": "दिशाएँ (directions) उसके कान हैं",
+        "e": "the directions are his ears"
+      },
+      {
+        "s": "वाक् विवृताः",
+        "h": "प्रकट / विवृत (revealed) वाणी",
+        "e": "revealed speech"
+      },
+      {
+        "s": "सर्वभूतान्तरात्मा",
+        "h": "सब भूतों (प्राणियों) का अन्तरात्मा / inner Self",
+        "e": "the inner Self of all beings"
+      }
     ],
     "gr": "<strong>The cosmic Person (Virāṭ Puruṣa)</strong>: this mantra maps the cosmic Person's body onto the universe — a classic Upanishadic and Vedic technique (cf. Puruṣa Sūkta, ṚV 10.90). <strong>The cosmic anatomy</strong>: head = fire (upward-rising element), eyes = sun and moon (the two great luminaries), ears = the directions (where sound travels), speech = the Vedas (the cosmic Person's 'words'), breath = wind (the cosmic prāṇa), heart = the universe (the centre of the cosmic Person), feet = the earth (the ground-level). <strong>The Puruṣa Sūkta parallel</strong> (ṚV 10.90.13-14): 'The moon was born from his mind; the sun from his eye; from his mouth, Indra and Agni; from his breath, Vāyu was born.' The Muṇḍaka's description follows the same model — the universe is the <em>body</em> of the cosmic Person. <strong>sarva-bhūta-antarātmā</strong> — 'the inner Self of all beings': the crucial conclusion. The cosmic Person is not just the universe (the macro-body) but also the inner Self (ātmā) of every being. He is simultaneously the largest and the smallest — both the universe as a whole and the consciousness within each creature.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.4 — The cosmic-Person meditation (viśvarūpa) is one of the oldest forms of Upanishadic contemplation. The Puruṣa Sūkta (ṚV 10.90) is the foundational text: from the Puruṣa's sacrifice, the entire universe is created — the moon from his mind, the sun from his eye, Indra and Agni from his mouth. The Bṛhadāraṇyaka (1.1.1-2) maps the sacrificial horse onto the cosmos in a similar way. The Bhagavad Gītā (11.10-20) describes Arjuna's vision of Kṛṣṇa's viśvarūpa — the universal form with 'many mouths and eyes... the sun and moon as eyes.' The closing epithet 'sarva-bhūta-antarātmā' (inner Self of all beings) echoes the Bhagavad Gītā (6.29, 13.28): the Lord seated equally in all beings.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -157,8 +263,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The cosmic Person (Virāṭ Puruṣa) tradition", "a": "The <strong>cosmic Person</strong> — whose body IS the universe — is one of the oldest and most enduring images in Indian thought: <strong>The Puruṣa Sūkta</strong> (ṚV 10.90): the foundational text. The Puruṣa (cosmic Person) is described as having 'a thousand heads, a thousand eyes, a thousand feet.' From his sacrifice, the entire universe is created: moon from his mind, sun from his eye, Indra and Agni from his mouth, Vāyu from his breath, space from his navel, heaven from his head, earth from his feet, the directions from his ears. <strong>The Muṇḍaka's version</strong>: follows the Puruṣa Sūkta's template but adds two crucial elements: (1) 'The Vedas are his speech' — the sacred texts are not separate from the cosmic Person but his <em>words</em>. (2) 'The universe is his heart' — the most intimate part of a person (the heart) is identified with the totality of existence. <strong>The Bhagavad Gītā's viśvarūpa</strong> (chapter 11): Arjuna sees Kṛṣṇa's universal form — 'many mouths and eyes, many arms, many bellies, many terrible teeth... wearing divine garlands and garments, anointed with divine fragrances, all-wonderful, resplendent, boundless, facing all directions.' <strong>The purpose of this meditation</strong>: to train the mind to see <em>divinity in everything</em>. When you look at the sun, see God's eye. When you feel the wind, feel God's breath. When you stand on the earth, stand on God's feet. This transforms the entire world from a collection of objects into a living, divine Presence."},
-      {"q": "🔍 'Sarva-bhūta-antarātmā' — the inner Self of all beings", "a": "The epithet <strong>'sarva-bhūta-antarātmā'</strong> ('the inner Self of all beings') is one of the most important descriptions of Brahman in the Upanishads: <strong>What it means</strong>: the cosmic Person is not only the <em>outer</em> universe (fire, sun, moon, earth) but also the <em>inner</em> Self (ātmā) of every creature — from the largest to the smallest, from gods to insects. He is as much 'inside' as 'outside.' <strong>The philosophical significance</strong>: (1) <em>For Advaita</em>: the antarātmā is the one non-dual Self (ātman = Brahman) appearing as many individuals due to upādhis (limiting adjuncts). There is only one Self; the multiplicity is apparent. (2) <em>For Viśiṣṭādvaita</em>: the antarātmā is the Lord as antaryāmī (inner controller) — He is the Self of all beings, but the individual souls (jīvas) are real and distinct, related to Him as body to soul. (3) <em>For Sri Aurobindo</em>: the antarātmā is the psychic being (the spark of the divine) in each individual — the evolving soul that carries the divine presence forward through the evolution of consciousness. <strong>The Gītā's echo</strong> (6.29): 'He who sees the Self in all beings and all beings in the Self — he sees the same everywhere.' And (13.28): 'He who sees the Lord equally present in all beings, the imperishable within the perishable — he truly sees.'"}
+      {
+        "q": "🔍 The cosmic Person (Virāṭ Puruṣa) tradition",
+        "a": "The <strong>cosmic Person</strong> — whose body IS the universe — is one of the oldest and most enduring images in Indian thought: <strong>The Puruṣa Sūkta</strong> (ṚV 10.90): the foundational text. The Puruṣa (cosmic Person) is described as having 'a thousand heads, a thousand eyes, a thousand feet.' From his sacrifice, the entire universe is created: moon from his mind, sun from his eye, Indra and Agni from his mouth, Vāyu from his breath, space from his navel, heaven from his head, earth from his feet, the directions from his ears. <strong>The Muṇḍaka's version</strong>: follows the Puruṣa Sūkta's template but adds two crucial elements: (1) 'The Vedas are his speech' — the sacred texts are not separate from the cosmic Person but his <em>words</em>. (2) 'The universe is his heart' — the most intimate part of a person (the heart) is identified with the totality of existence. <strong>The Bhagavad Gītā's viśvarūpa</strong> (chapter 11): Arjuna sees Kṛṣṇa's universal form — 'many mouths and eyes, many arms, many bellies, many terrible teeth... wearing divine garlands and garments, anointed with divine fragrances, all-wonderful, resplendent, boundless, facing all directions.' <strong>The purpose of this meditation</strong>: to train the mind to see <em>divinity in everything</em>. When you look at the sun, see God's eye. When you feel the wind, feel God's breath. When you stand on the earth, stand on God's feet. This transforms the entire world from a collection of objects into a living, divine Presence."
+      },
+      {
+        "q": "🔍 'Sarva-bhūta-antarātmā' — the inner Self of all beings",
+        "a": "The epithet <strong>'sarva-bhūta-antarātmā'</strong> ('the inner Self of all beings') is one of the most important descriptions of Brahman in the Upanishads: <strong>What it means</strong>: the cosmic Person is not only the <em>outer</em> universe (fire, sun, moon, earth) but also the <em>inner</em> Self (ātmā) of every creature — from the largest to the smallest, from gods to insects. He is as much 'inside' as 'outside.' <strong>The philosophical significance</strong>: (1) <em>For Advaita</em>: the antarātmā is the one non-dual Self (ātman = Brahman) appearing as many individuals due to upādhis (limiting adjuncts). There is only one Self; the multiplicity is apparent. (2) <em>For Viśiṣṭādvaita</em>: the antarātmā is the Lord as antaryāmī (inner controller) — He is the Self of all beings, but the individual souls (jīvas) are real and distinct, related to Him as body to soul. (3) <em>For Sri Aurobindo</em>: the antarātmā is the psychic being (the spark of the divine) in each individual — the evolving soul that carries the divine presence forward through the evolution of consciousness. <strong>The Gītā's echo</strong> (6.29): 'He who sees the Self in all beings and all beings in the Self — he sees the same everywhere.' And (13.28): 'He who sees the Lord equally present in all beings, the imperishable within the perishable — he truly sees.'"
+      }
     ]
   },
   {
@@ -168,14 +280,34 @@
     "hi": "उससे (पुरुष से) अग्नि है — जिसकी समिध (fuel / ईंधन) सूर्य है। सोम (moon) से पर्जन्य (rain) है; ओषधयः (herbs/plants) पृथिवी पर हैं। पुमान् (male / पुरुष) रेतस् (seed / वीर्य) योषिता (woman / स्त्री) में सिञ्चति (pours / सींचता है)। बह्वीः (many) प्रजाः (offspring / सन्तानें) पुरुषात् (from the Puruṣa) सम्प्रसूताः (born forth / उत्पन्न हुई) हैं।",
     "en": "From Him [comes] fire (agni), whose fuel (samidh) is the sun (sūrya). From the moon (soma), rain (parjanya); herbs (oṣadhayaḥ) [grow] on earth (pṛthivyām). The male (pumān) pours seed (retaḥ siñcati) in the female (yoṣitāyām). Thus many (bahvīḥ) offspring (prajāḥ) are born forth (samprasūtāḥ) from the Puruṣa.",
     "ws": [
-      {"s": "समिधः (samidhaḥ)", "h": "समिधा / ईंधन / fuel", "e": "fuel — the fuel of the cosmic fire; the sun is the 'fuel' that feeds the cosmic fire — a reversal of the ordinary view where fuel is consumed by fire"},
-      {"s": "सोमात् पर्जन्यः (somāt parjanyaḥ)", "h": "सोम (चन्द्रमा) से पर्जन्य (वर्षा / rain)", "e": "from the moon, rain — the Vedic belief that rain is connected to the moon's cycles; soma = both the moon and the sacred plant-juice"},
-      {"s": "ओषधयः (oṣadhayaḥ)", "h": "ओषधियाँ / जड़ी-बूटियाँ / plants", "e": "herbs / plants — oṣadhi = healing plant; the vegetation that grows from rain-watered earth; the link between cosmic cycles and biological life"},
-      {"s": "रेतः (retaḥ)", "h": "रेतस् / वीर्य / बीज", "e": "seed / semen — the generative substance; from √rī (to flow); the mechanism of biological reproduction"},
-      {"s": "सम्प्रसूताः (samprasūtāḥ)", "h": "उत्पन्न / जन्मी / born forth", "e": "born forth — sam + pra + √sū (to give birth); all beings are 'born forth' from the Puruṣa through this chain of creation"}
+      {
+        "s": "समिधः",
+        "h": "समिधा / ईंधन / fuel",
+        "e": "fuel"
+      },
+      {
+        "s": "सोमात् पर्जन्यः",
+        "h": "सोम (चन्द्रमा) से पर्जन्य (वर्षा / rain)",
+        "e": "from the moon, rain"
+      },
+      {
+        "s": "ओषधयः",
+        "h": "ओषधियाँ / जड़ी-बूटियाँ / plants",
+        "e": "herbs / plants"
+      },
+      {
+        "s": "रेतः",
+        "h": "रेतस् / वीर्य / बीज",
+        "e": "seed / semen"
+      },
+      {
+        "s": "सम्प्रसूताः",
+        "h": "उत्पन्न / जन्मी / born forth",
+        "e": "born forth"
+      }
     ],
     "gr": "<strong>The cosmic food-chain</strong>: this mantra traces the chain of creation from the Puruṣa through cosmic cycles to biological reproduction. <strong>The chain</strong>: Puruṣa → fire (fuelled by sun) → moon → rain → herbs on earth → male-female union → many offspring. <strong>The cosmic cycle</strong>: fire (cosmic energy) → sun (fuel/light) → moon (cycles/rhythm) → rain (water) → plants (food) → animals/humans (reproduction) → many beings. This is not a linear creation but a <em>cycle</em> — the cosmic Person sustains an ongoing process of generation. <strong>somāt parjanyaḥ</strong> — 'from the moon, rain': in Vedic cosmology, the moon governs the water-cycle. Rain depends on lunar phases — a belief reflected in agricultural practice. The Chāndogya (5.10.4-6) describes how beings, after death, become rain and return to earth — the moon is the cosmic waystation. <strong>The point</strong>: the entire process of biological life — from cosmic fire to human reproduction — originates from and is sustained by the Puruṣa. Every baby born, every plant that grows, every rain that falls is an expression of the cosmic Person's creative power.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.5 — The cosmic food-chain described here parallels the pañcāgni-vidyā (five-fire doctrine) of the Chāndogya (5.4-9) and Bṛhadāraṇyaka (6.2.9-14): heaven → rain → earth → man → woman → child. The Muṇḍaka compresses this into a single mantra. The connection of soma (moon) with parjanya (rain) is ancient Vedic science — rain was associated with the moon's waxing and waning, and the soma-plant was connected to the moon-god. The inclusion of sexual reproduction ('pumān retaḥ siñcati yoṣitāyām') is characteristic of Upanishadic frankness about the biology of creation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -197,8 +329,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The cosmic food-chain and the pañcāgni-vidyā", "a": "This mantra traces a <strong>cosmic food-chain</strong> from the Puruṣa to biological reproduction, paralleling one of the most important Upanishadic doctrines — the <strong>pañcāgni-vidyā</strong> (five-fire doctrine): <strong>The Muṇḍaka's chain</strong>: Puruṣa → fire (fuelled by sun) → moon → rain → herbs on earth → male-female union → offspring. <strong>The Chāndogya's five fires</strong> (5.4-9): (1) <em>Heaven is the fire</em> — the sun is the fuel; the oblation is faith (śraddhā); the result is soma (moon-essence). (2) <em>Parjanya (rain-cloud) is the fire</em> — the oblation is soma; the result is rain. (3) <em>Earth is the fire</em> — the oblation is rain; the result is food (anna). (4) <em>Man is the fire</em> — the oblation is food; the result is seed (retas). (5) <em>Woman is the fire</em> — the oblation is seed; the result is the embryo. <strong>The underlying principle</strong>: both accounts describe creation as a <em>cycle of transformation</em> — cosmic energy transforms step by step into biological life. The universe is not a static creation but a <em>living process</em> — each stage 'feeds' the next. <strong>The Puruṣa's role</strong>: the Muṇḍaka's conclusion — 'bahvīḥ prajāḥ puruṣāt samprasūtāḥ' (many offspring are born from the Puruṣa) — reminds us that the entire chain is ultimately an expression of one source."},
-      {"q": "🔍 The moon-rain connection in Vedic thought", "a": "The link between <strong>soma (moon)</strong> and <strong>parjanya (rain)</strong> reflects a deep strand of <strong>Vedic cosmological thinking</strong>: <strong>The Vedic connection</strong>: in Vedic thought, the moon governs the water-cycle. Rain comes from the moon's influence on atmospheric waters. This is not mere superstition — it reflects the observation that: (1) Tides are governed by the moon (water responds to lunar gravity). (2) Agricultural rhythms follow lunar phases (planting and harvesting by moon-phase). (3) The monsoon cycle has correlations with certain celestial configurations. <strong>Soma = moon = rain = life</strong>: the word 'soma' has a triple meaning: (1) The moon-god (Soma-deva). (2) The sacred plant-juice offered in Vedic rituals. (3) The cosmic 'nectar' that nourishes all life. All three are connected: the moon pours cosmic 'soma' as rain, which waters the earth and produces the plants (including the soma-plant) that sustain life. <strong>The cycle in the Chāndogya</strong> (5.10.4-6): after death, beings ascend to the moon, 'become rain,' fall to earth, and are reborn as plants, food, and new creatures. The moon is the cosmic <em>waystation</em> — the turning point between heaven and earth in the cycle of reincarnation."}
+      {
+        "q": "🔍 The cosmic food-chain and the pañcāgni-vidyā",
+        "a": "This mantra traces a <strong>cosmic food-chain</strong> from the Puruṣa to biological reproduction, paralleling one of the most important Upanishadic doctrines — the <strong>pañcāgni-vidyā</strong> (five-fire doctrine): <strong>The Muṇḍaka's chain</strong>: Puruṣa → fire (fuelled by sun) → moon → rain → herbs on earth → male-female union → offspring. <strong>The Chāndogya's five fires</strong> (5.4-9): (1) <em>Heaven is the fire</em> — the sun is the fuel; the oblation is faith (śraddhā); the result is soma (moon-essence). (2) <em>Parjanya (rain-cloud) is the fire</em> — the oblation is soma; the result is rain. (3) <em>Earth is the fire</em> — the oblation is rain; the result is food (anna). (4) <em>Man is the fire</em> — the oblation is food; the result is seed (retas). (5) <em>Woman is the fire</em> — the oblation is seed; the result is the embryo. <strong>The underlying principle</strong>: both accounts describe creation as a <em>cycle of transformation</em> — cosmic energy transforms step by step into biological life. The universe is not a static creation but a <em>living process</em> — each stage 'feeds' the next. <strong>The Puruṣa's role</strong>: the Muṇḍaka's conclusion — 'bahvīḥ prajāḥ puruṣāt samprasūtāḥ' (many offspring are born from the Puruṣa) — reminds us that the entire chain is ultimately an expression of one source."
+      },
+      {
+        "q": "🔍 The moon-rain connection in Vedic thought",
+        "a": "The link between <strong>soma (moon)</strong> and <strong>parjanya (rain)</strong> reflects a deep strand of <strong>Vedic cosmological thinking</strong>: <strong>The Vedic connection</strong>: in Vedic thought, the moon governs the water-cycle. Rain comes from the moon's influence on atmospheric waters. This is not mere superstition — it reflects the observation that: (1) Tides are governed by the moon (water responds to lunar gravity). (2) Agricultural rhythms follow lunar phases (planting and harvesting by moon-phase). (3) The monsoon cycle has correlations with certain celestial configurations. <strong>Soma = moon = rain = life</strong>: the word 'soma' has a triple meaning: (1) The moon-god (Soma-deva). (2) The sacred plant-juice offered in Vedic rituals. (3) The cosmic 'nectar' that nourishes all life. All three are connected: the moon pours cosmic 'soma' as rain, which waters the earth and produces the plants (including the soma-plant) that sustain life. <strong>The cycle in the Chāndogya</strong> (5.10.4-6): after death, beings ascend to the moon, 'become rain,' fall to earth, and are reborn as plants, food, and new creatures. The moon is the cosmic <em>waystation</em> — the turning point between heaven and earth in the cycle of reincarnation."
+      }
     ]
   },
   {
@@ -208,14 +346,34 @@
     "hi": "उससे (पुरुष से) ऋचाएँ (ṛg verses), साम (sāma chants), यजूंषि (yajur formulae), दीक्षा (initiation), सर्वे यज्ञ (all sacrifices) और क्रतु (ritual acts), दक्षिणाएँ (priestly fees) — संवत्सर (the year), यजमान (sacrificer), और लोक (worlds) — जहाँ सोम (moon) पवते (shines/purifies) और जहाँ सूर्य (sun) है।",
     "en": "From Him [come] the Ṛg verses (ṛcaḥ), the Sāma chants (sāma), the Yajur formulae (yajūṁṣi), initiation (dīkṣā), all sacrifices (yajñāḥ) and ritual acts (kratavaḥ), priestly fees (dakṣiṇāḥ), the year (saṁvatsara), the sacrificer (yajamāna), and the worlds (lokāḥ) — where the moon (soma) shines (pavate) and where the sun (sūrya) [shines].",
     "ws": [
-      {"s": "ऋचः (ṛcaḥ)", "h": "ऋचाएँ / ऋग्वेद के मन्त्र", "e": "the Ṛg verses — the hymns of praise; from √ṛc (to praise/shine); the foundational hymns of the oldest Veda"},
-      {"s": "दीक्षा (dīkṣā)", "h": "दीक्षा / यज्ञ-संस्कार / initiation", "e": "initiation — the consecration ceremony before a sacrifice; the ritualist is 'initiated' into the sacred act through purification and vows"},
-      {"s": "क्रतवः (kratavaḥ)", "h": "क्रतु / विशिष्ट यज्ञ-कर्म / solemn rites", "e": "ritual acts / solemn rites — kratu = a specific class of Vedic sacrifices (distinct from yajña in some classifications); from √kṛ (to do)"},
-      {"s": "दक्षिणाः (dakṣiṇāḥ)", "h": "दक्षिणा / पुरोहित-शुल्क / priestly fees", "e": "priestly fees / gifts — the remuneration given to priests after a sacrifice; an essential part of the ritual system; from dakṣa (skilled)"},
-      {"s": "संवत्सरः (saṁvatsaraḥ)", "h": "संवत्सर / वर्ष / year", "e": "the year — the annual cycle; time itself originates from the Puruṣa; the year structures the ritual calendar"}
+      {
+        "s": "ऋचः",
+        "h": "ऋचाएँ / ऋग्वेद के मन्त्र",
+        "e": "the Ṛg verses"
+      },
+      {
+        "s": "दीक्षा",
+        "h": "दीक्षा / यज्ञ-संस्कार / initiation",
+        "e": "initiation"
+      },
+      {
+        "s": "क्रतवः",
+        "h": "क्रतु / विशिष्ट यज्ञ-कर्म / solemn rites",
+        "e": "ritual acts / solemn rites"
+      },
+      {
+        "s": "दक्षिणाः",
+        "h": "दक्षिणा / पुरोहित-शुल्क / priestly fees",
+        "e": "priestly fees / gifts"
+      },
+      {
+        "s": "संवत्सरः",
+        "h": "संवत्सर / वर्ष / year",
+        "e": "the year"
+      }
     ],
     "gr": "<strong>The Vedic-ritual universe from the Puruṣa</strong>: this mantra extends the creation-list to include the entire Vedic ritual system and the cosmic framework. <strong>The ritual elements</strong>: Ṛg verses (hymns), Sāma chants (melodies), Yajur formulae (ritual instructions), dīkṣā (initiation), yajña (sacrifice), kratu (ritual acts), dakṣiṇā (priestly fees). <strong>The cosmic framework</strong>: saṁvatsara (the year/time), yajamāna (the sacrificer/agent), lokāḥ (the worlds/destination), soma (moon), sūrya (sun). <strong>The significance</strong>: even the ritual system itself — which the Muṇḍaka critiqued as insufficient in 1.2 — originates from the Puruṣa. The Vedas, the sacrifices, the priests, the fees — all are expressions of the one cosmic Person. The critique of 1.2 was not that rituals are <em>false</em> but that they are <em>partial</em> expressions of a reality that includes and transcends them.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.6 — This mantra completes the picture started in 2.1.3-5: from the Puruṣa come both the physical universe (elements, biological life) and the ritual-cultural universe (Vedas, sacrifices, priestly system). The three Vedas are listed (Ṛg, Sāma, Yajur) but not the Atharva — possibly because the Muṇḍaka itself belongs to the Atharvaveda and treats it as the 'container' rather than the 'contained.' The inclusion of dakṣiṇā (priestly fees) and yajamāna (sacrificer) means even the human agents and economic aspects of ritual originate from Brahman — nothing in the system is autonomous.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -237,8 +395,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Culture and cosmos from one source", "a": "This mantra makes a remarkable claim: not only the <strong>physical universe</strong> (elements, celestial bodies, biological life) but also the <strong>cultural-ritual universe</strong> (Vedas, sacrifices, calendar) originates from the Puruṣa: <strong>Physical creations</strong> (mantras 3-5): prāṇa, mind, senses, five elements, fire, sun, moon, rain, herbs, biological reproduction. <strong>Cultural-ritual creations</strong> (this mantra): the three Vedas (Ṛg, Sāma, Yajur), initiation (dīkṣā), sacrifices (yajña), ritual acts (kratu), priestly fees (dakṣiṇā), the year (saṁvatsara), the sacrificer (yajamāna), the worlds (lokāḥ). <strong>The implication</strong>: there is no nature-culture divide. The laws of physics and the laws of ritual are both expressions of one reality. The year is simultaneously a <em>physical</em> phenomenon (the earth's orbit) and a <em>ritual</em> phenomenon (the calendar of sacred observances). The sun is simultaneously a <em>cosmic</em> object and a <em>ritual</em> fire. <strong>Nothing is secular</strong>: if everything — from the Vedas to the priestly fees — originates from the Puruṣa, then nothing is 'merely human.' Even the economic dimension of religion (dakṣiṇā) has a cosmic origin. This is a radically unified worldview: one source, one process, one reality, manifesting as both physics and culture."},
-      {"q": "🔍 The three Vedas as expressions of the Puruṣa", "a": "The mantra lists the three Vedas — <strong>ṛcaḥ, sāma, yajūṁṣi</strong> — as emanations from the Puruṣa: <strong>Ṛc (ṛcaḥ)</strong>: the hymns of praise — stanzas addressed to the gods, expressing knowledge (jñāna) and vision (dṛṣṭi). The Ṛg Veda is the Veda of <em>seeing</em> — the ṛṣis 'saw' these hymns. <strong>Sāma (sāma)</strong>: the melodies — the Ṛg Vedic hymns set to music for chanting during the Soma sacrifice. The Sāma Veda is the Veda of <em>singing</em> — adding beauty (rasa) and emotional power (bhāva) to knowledge. <strong>Yajus (yajūṁṣi)</strong>: the sacrificial formulae — prose instructions for ritual performance. The Yajur Veda is the Veda of <em>doing</em> — the manual of action (karma). <strong>Together</strong>: seeing (Ṛg) + singing (Sāma) + doing (Yajur) = the complete human response to the divine: know it, celebrate it, enact it. <strong>The Chāndogya's teaching</strong> (1.1.10): 'The essence of all beings is earth. The essence of earth is water. The essence of water is plants. The essence of plants is the person. The essence of the person is speech. The essence of speech is ṛc. The essence of ṛc is sāma. The essence of sāma is udgītha (OM).' The three Vedas form a <em>hierarchy of essence</em> — each distilling the previous into a more concentrated form."}
+      {
+        "q": "🔍 Culture and cosmos from one source",
+        "a": "This mantra makes a remarkable claim: not only the <strong>physical universe</strong> (elements, celestial bodies, biological life) but also the <strong>cultural-ritual universe</strong> (Vedas, sacrifices, calendar) originates from the Puruṣa: <strong>Physical creations</strong> (mantras 3-5): prāṇa, mind, senses, five elements, fire, sun, moon, rain, herbs, biological reproduction. <strong>Cultural-ritual creations</strong> (this mantra): the three Vedas (Ṛg, Sāma, Yajur), initiation (dīkṣā), sacrifices (yajña), ritual acts (kratu), priestly fees (dakṣiṇā), the year (saṁvatsara), the sacrificer (yajamāna), the worlds (lokāḥ). <strong>The implication</strong>: there is no nature-culture divide. The laws of physics and the laws of ritual are both expressions of one reality. The year is simultaneously a <em>physical</em> phenomenon (the earth's orbit) and a <em>ritual</em> phenomenon (the calendar of sacred observances). The sun is simultaneously a <em>cosmic</em> object and a <em>ritual</em> fire. <strong>Nothing is secular</strong>: if everything — from the Vedas to the priestly fees — originates from the Puruṣa, then nothing is 'merely human.' Even the economic dimension of religion (dakṣiṇā) has a cosmic origin. This is a radically unified worldview: one source, one process, one reality, manifesting as both physics and culture."
+      },
+      {
+        "q": "🔍 The three Vedas as expressions of the Puruṣa",
+        "a": "The mantra lists the three Vedas — <strong>ṛcaḥ, sāma, yajūṁṣi</strong> — as emanations from the Puruṣa: <strong>Ṛc (ṛcaḥ)</strong>: the hymns of praise — stanzas addressed to the gods, expressing knowledge (jñāna) and vision (dṛṣṭi). The Ṛg Veda is the Veda of <em>seeing</em> — the ṛṣis 'saw' these hymns. <strong>Sāma (sāma)</strong>: the melodies — the Ṛg Vedic hymns set to music for chanting during the Soma sacrifice. The Sāma Veda is the Veda of <em>singing</em> — adding beauty (rasa) and emotional power (bhāva) to knowledge. <strong>Yajus (yajūṁṣi)</strong>: the sacrificial formulae — prose instructions for ritual performance. The Yajur Veda is the Veda of <em>doing</em> — the manual of action (karma). <strong>Together</strong>: seeing (Ṛg) + singing (Sāma) + doing (Yajur) = the complete human response to the divine: know it, celebrate it, enact it. <strong>The Chāndogya's teaching</strong> (1.1.10): 'The essence of all beings is earth. The essence of earth is water. The essence of water is plants. The essence of plants is the person. The essence of the person is speech. The essence of speech is ṛc. The essence of ṛc is sāma. The essence of sāma is udgītha (OM).' The three Vedas form a <em>hierarchy of essence</em> — each distilling the previous into a more concentrated form."
+      }
     ]
   },
   {
@@ -248,14 +412,34 @@
     "hi": "उससे (पुरुष से) देवता (gods) बहुधा (in many forms) सम्प्रसूत (born forth) हुए; साध्य (celestial beings), मनुष्य (humans), पशु (animals), वयांसि (birds); प्राण-अपान (inhalation-exhalation), व्रीहि-यव (rice and barley), तपस् (austerity), श्रद्धा (faith), सत्य (truth), ब्रह्मचर्य (celibacy/studentship), और विधि (injunction/rule)।",
     "en": "From Him are born (samprasūtāḥ) in many ways (bahudhā): gods (devāḥ), celestial beings (sādhyāḥ), humans (manuṣyāḥ), animals (paśavaḥ), birds (vayāṁsi); inhalation and exhalation (prāṇa-apānau), rice and barley (vrīhi-yavau), austerity (tapas), faith (śraddhā), truth (satya), celibacy (brahmacarya), and injunction (vidhi).",
     "ws": [
-      {"s": "साध्याः (sādhyāḥ)", "h": "साध्य / एक प्रकार के देवगण", "e": "the Sādhyas — a class of celestial beings; 'those to be propitiated'; minor deities associated with ritual performance"},
-      {"s": "पशवः (paśavaḥ)", "h": "पशु / जानवर / animals", "e": "animals — domesticated and wild; from √paś (to see); the animal kingdom"},
-      {"s": "वयांसि (vayāṁsi)", "h": "पक्षी / birds", "e": "birds — from vayas (bird/age); the avian kingdom; the category of flying creatures"},
-      {"s": "व्रीहियवौ (vrīhi-yavau)", "h": "चावल और जौ", "e": "rice and barley — the two staple grains of Vedic India; vrīhi = rice (the principal crop of eastern India); yava = barley (the principal crop of northern/western India)"},
-      {"s": "ब्रह्मचर्यम् (brahmacaryam)", "h": "ब्रह्मचर्य / ब्रह्म-अध्ययन / celibacy / studentship", "e": "celibacy / Vedic studentship — brahma + carya (conduct); the first of the four āśramas; the period of disciplined study, self-restraint, and service to the guru"}
+      {
+        "s": "साध्याः",
+        "h": "साध्य / एक प्रकार के देवगण",
+        "e": "the Sādhyas"
+      },
+      {
+        "s": "पशवः",
+        "h": "पशु / जानवर / animals",
+        "e": "animals"
+      },
+      {
+        "s": "वयांसि",
+        "h": "पक्षी / birds",
+        "e": "birds"
+      },
+      {
+        "s": "व्रीहियवौ",
+        "h": "चावल और जौ",
+        "e": "rice and barley"
+      },
+      {
+        "s": "ब्रह्मचर्यम्",
+        "h": "ब्रह्मचर्य / ब्रह्म-अध्ययन / celibacy / studentship",
+        "e": "celibacy / Vedic studentship"
+      }
     ],
     "gr": "<strong>The complete enumeration of creation</strong>: from the Puruṣa emerge: (1) beings — gods, celestial beings, humans, animals, birds; (2) biological functions — inhalation, exhalation; (3) sustenance — rice, barley; (4) virtues — tapas, śraddhā, satya, brahmacarya, vidhi. <strong>The remarkable inclusion of virtues</strong>: not just physical beings and biological processes but <em>moral and spiritual values</em> (tapas, śraddhā, satya, brahmacarya) originate from the Puruṣa. This means the moral order is not a human invention but has a <em>cosmic origin</em>. Truth, faith, austerity, and self-discipline are woven into the fabric of reality, not imposed upon it. <strong>vrīhi-yavau</strong> — 'rice and barley': the two staple grains represent <em>sustenance</em> — the food that keeps all beings alive. Even food has a cosmic origin. <strong>The scope</strong>: this mantra, combined with mantras 3-6, covers: physical elements, biological life, the ritual system, beings of all classes, bodily functions, food, and moral values. <em>Nothing</em> is excluded from the Puruṣa's creation.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.7 — The inclusion of moral virtues (tapas, śraddhā, satya, brahmacarya) in the creation-list is philosophically significant — it implies that dharma (cosmic moral order) is as fundamental as physics. The Ṛg Veda (10.190.1) similarly states: 'ṛtaṁ ca satyaṁ cābhīddhāt tapaso 'dhyajāyata' — 'From blazing tapas, ṛta (cosmic order) and satya (truth) were born.' The pair 'vrīhi-yava' (rice and barley) is a standard Vedic merism for grain/food; the Taittirīya Saṁhitā and Śatapatha Brāhmaṇa frequently mention both together. The Sādhyas are a minor class of deities mentioned in the Ṛg Veda and later texts as 'those who have been accomplished' or 'those to be propitiated.'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -277,8 +461,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Moral values as cosmic realities", "a": "The inclusion of <strong>tapas, śraddhā, satya, brahmacarya, and vidhi</strong> in the creation-list is philosophically revolutionary: <strong>The claim</strong>: moral and spiritual values — austerity, faith, truth, celibacy, and sacred law — are not human inventions but <em>cosmic emanations</em> from the Puruṣa. They are as fundamental to reality as the five elements, as biological life, as the sun and moon. <strong>Why this matters</strong>: (1) <em>Morality is not conventional</em>: if truth and faith originate from the Puruṣa, they are not social constructs that can be arbitrarily changed. They are woven into the structure of reality. (2) <em>Morality is natural</em>: just as it is 'natural' for fire to burn and water to flow, it is 'natural' for conscious beings to seek truth, practise faith, and observe discipline. These are not impositions but expressions of our deepest nature (which is Brahman-nature). (3) <em>The universe has a moral dimension</em>: the cosmos is not a morally neutral machine. It has truth (satya), faith (śraddhā), and order (vidhi) built into it — just as it has space, air, and fire. <strong>The Vedic precedent</strong>: the Ṛg Veda (10.190.1) says: 'From blazing tapas, ṛta (cosmic order) and satya (truth) were born.' Ṛta — the cosmic moral and natural order — is not separate from the physical order but <em>the same thing</em> seen from a different angle. Physics and dharma are two faces of one reality."},
-      {"q": "🔍 The hierarchy of beings: gods, celestial beings, humans, animals, birds", "a": "This mantra lists <strong>five categories of beings</strong>, forming a hierarchy: <strong>(1) Devāḥ (gods)</strong>: the celestial deities — Indra, Agni, Varuṇa, etc. They inhabit the higher worlds, have greater power and longer lives, but are still within creation (not identical with Brahman). <strong>(2) Sādhyāḥ (celestial beings)</strong>: a minor class of deities, 'those who have been accomplished' — they are associated with ritual and exist in the intermediate regions between gods and humans. <strong>(3) Manuṣyāḥ (humans)</strong>: human beings — unique because they alone can seek and attain brahma-vidyā. The gods are too comfortable (too much pleasure), animals are too driven (too much instinct) — only humans have the right balance of suffering and intelligence to seek liberation. <strong>(4) Paśavaḥ (animals)</strong>: domesticated and wild animals — driven primarily by instinct (hunger, fear, reproduction). <strong>(5) Vayāṁsi (birds)</strong>: the avian kingdom — singled out, perhaps because birds occupy a unique position: they traverse both earth and sky, symbolising the soul's ability to rise above the material plane. <strong>All from one source</strong>: the point is not the hierarchy itself but the fact that <em>all</em> these beings — from the highest gods to the smallest birds — originate from one Puruṣa. The variety of creation does not imply a variety of sources. One consciousness, many expressions."}
+      {
+        "q": "🔍 Moral values as cosmic realities",
+        "a": "The inclusion of <strong>tapas, śraddhā, satya, brahmacarya, and vidhi</strong> in the creation-list is philosophically revolutionary: <strong>The claim</strong>: moral and spiritual values — austerity, faith, truth, celibacy, and sacred law — are not human inventions but <em>cosmic emanations</em> from the Puruṣa. They are as fundamental to reality as the five elements, as biological life, as the sun and moon. <strong>Why this matters</strong>: (1) <em>Morality is not conventional</em>: if truth and faith originate from the Puruṣa, they are not social constructs that can be arbitrarily changed. They are woven into the structure of reality. (2) <em>Morality is natural</em>: just as it is 'natural' for fire to burn and water to flow, it is 'natural' for conscious beings to seek truth, practise faith, and observe discipline. These are not impositions but expressions of our deepest nature (which is Brahman-nature). (3) <em>The universe has a moral dimension</em>: the cosmos is not a morally neutral machine. It has truth (satya), faith (śraddhā), and order (vidhi) built into it — just as it has space, air, and fire. <strong>The Vedic precedent</strong>: the Ṛg Veda (10.190.1) says: 'From blazing tapas, ṛta (cosmic order) and satya (truth) were born.' Ṛta — the cosmic moral and natural order — is not separate from the physical order but <em>the same thing</em> seen from a different angle. Physics and dharma are two faces of one reality."
+      },
+      {
+        "q": "🔍 The hierarchy of beings: gods, celestial beings, humans, animals, birds",
+        "a": "This mantra lists <strong>five categories of beings</strong>, forming a hierarchy: <strong>(1) Devāḥ (gods)</strong>: the celestial deities — Indra, Agni, Varuṇa, etc. They inhabit the higher worlds, have greater power and longer lives, but are still within creation (not identical with Brahman). <strong>(2) Sādhyāḥ (celestial beings)</strong>: a minor class of deities, 'those who have been accomplished' — they are associated with ritual and exist in the intermediate regions between gods and humans. <strong>(3) Manuṣyāḥ (humans)</strong>: human beings — unique because they alone can seek and attain brahma-vidyā. The gods are too comfortable (too much pleasure), animals are too driven (too much instinct) — only humans have the right balance of suffering and intelligence to seek liberation. <strong>(4) Paśavaḥ (animals)</strong>: domesticated and wild animals — driven primarily by instinct (hunger, fear, reproduction). <strong>(5) Vayāṁsi (birds)</strong>: the avian kingdom — singled out, perhaps because birds occupy a unique position: they traverse both earth and sky, symbolising the soul's ability to rise above the material plane. <strong>All from one source</strong>: the point is not the hierarchy itself but the fact that <em>all</em> these beings — from the highest gods to the smallest birds — originate from one Puruṣa. The variety of creation does not imply a variety of sources. One consciousness, many expressions."
+      }
     ]
   },
   {
@@ -288,14 +478,34 @@
     "hi": "उससे (पुरुष से) सप्त प्राण (seven prāṇas) प्रभवन्ति (originate) हैं; सप्त अर्चिषः (seven flames), सप्त समिध (seven fuels), सप्त होम (seven offerings); सप्त इमे लोकाः (these seven worlds) — जिनमें प्राण चरन्ति (move) — गुहा-आशय (hidden in the cave [of the heart]) में निहिताः (placed) — सात-सात (सप्त सप्त)।",
     "en": "From Him originate (prabhavanti) the seven prāṇas (life-breaths), the seven flames (arciṣaḥ), the seven fuels (samidhaḥ), the seven offerings (homāḥ), [and] these seven worlds (lokāḥ) in which the prāṇas move (caranti) — placed (nihitāḥ) in the cave [of the heart] (guhā-āśayāḥ), seven and seven (sapta sapta).",
     "ws": [
-      {"s": "सप्त प्राणाः (sapta prāṇāḥ)", "h": "सात प्राण / सात जीवन-वायु", "e": "seven prāṇas — variously identified as: the two eyes, two ears, two nostrils, and the mouth (seven openings in the head); or five prāṇas + manas + buddhi"},
-      {"s": "सप्त अर्चिषः (sapta arciṣaḥ)", "h": "सात ज्वालाएँ / सात अग्निशिखाएँ", "e": "seven flames — connected to the seven tongues of fire (1.2.4); the seven flames of the inner fire that processes sensory experience"},
-      {"s": "सप्त समिधः (sapta samidhaḥ)", "h": "सात समिधाएँ / सात ईंधन", "e": "seven fuels — the seven sense-objects that 'fuel' the seven prāṇas; what the senses consume"},
-      {"s": "सप्त होमाः (sapta homāḥ)", "h": "सात आहुतियाँ / सात हवन", "e": "seven offerings — the seven acts of sensory experience; each perception is an 'offering' into the inner fire"},
-      {"s": "गुहाशयाः (guhā-āśayāḥ)", "h": "गुहा (गुफा / हृदय-गुहा) में आश्रित / निवासी", "e": "dwelling in the cave — guhā (cave) + āśaya (dwelling/resting); the 'cave of the heart' where the prāṇas and the Self reside; cf. Kaṭha 1.2.12: 'the Self, hidden in the cave'"}
+      {
+        "s": "सप्त प्राणाः",
+        "h": "सात प्राण / सात जीवन-वायु",
+        "e": "seven prāṇas"
+      },
+      {
+        "s": "सप्त अर्चिषः",
+        "h": "सात ज्वालाएँ / सात अग्निशिखाएँ",
+        "e": "seven flames"
+      },
+      {
+        "s": "सप्त समिधः",
+        "h": "सात समिधाएँ / सात ईंधन",
+        "e": "seven fuels"
+      },
+      {
+        "s": "सप्त होमाः",
+        "h": "सात आहुतियाँ / सात हवन",
+        "e": "seven offerings"
+      },
+      {
+        "s": "गुहाशयाः",
+        "h": "गुहा (गुफा / हृदय-गुहा) में आश्रित / निवासी",
+        "e": "dwelling in the cave"
+      }
     ],
     "gr": "<strong>The sevenfold microcosm</strong>: this mantra describes the individual (microcosm) as a sevenfold system mirroring the cosmic sevenfold structure. <strong>Seven sets of seven</strong>: (1) seven prāṇas (life-breaths/sense-openings), (2) seven flames (inner fires), (3) seven fuels (sense-objects), (4) seven offerings (acts of perception), (5) seven worlds (planes of experience). <strong>The identification of seven prāṇas</strong>: traditionally identified as the seven openings in the head — two eyes, two ears, two nostrils, one mouth. The Praśna Upanishad (3.5) lists a different set. <strong>guhā-āśayāḥ nihitāḥ</strong> — 'placed in the cave [of the heart]': the prāṇas are 'hidden' in the guhā (cave) — the interior of the body, specifically the heart-space. This echoes the Kaṭha (1.2.12): 'The Self, though hidden in all beings, is not manifest; but it is seen by the subtle seers through their sharp and subtle intellect.' <strong>sapta sapta</strong> — 'seven and seven': the repetition emphasises the pervasiveness of the sevenfold pattern — it applies at every level, macro and micro.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.8 — The 'seven prāṇas' are most commonly identified as the seven openings in the head (cf. Praśna Upanishad 4.8; Bṛhadāraṇyaka 4.2.2-4). The 'guhā' (cave) is one of the Upanishads' favourite images for the interior space where the Self resides — cf. Kaṭha 1.2.12 ('taṁ durdarśaṁ gūḍham anupraviṣṭam guhāhitam'), Śvetāśvatara 3.20, Taittirīya 2.1.1. The sevenfold pattern (sapta sapta) connects to the seven tongues of fire (1.2.4), the seven worlds (1.2.3), and the cosmic number seven throughout Vedic literature. The inner fire-offering imagery (prāṇas as flames, senses as fuel, perceptions as offerings) transforms the Vedic yajña from an external ritual into an internal contemplation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -317,8 +527,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The cave of the heart (guhā) — where the Self dwells", "a": "The <strong>guhā</strong> ('cave') is one of the Upanishads' most powerful and recurring images for the <em>interior space</em> where the Self resides: <strong>What is the guhā?</strong> Not the physical heart but the <em>innermost chamber of awareness</em> — the space behind all thoughts, emotions, and perceptions. It is 'hidden' (guhā = cave/secret) because it cannot be found by the senses or the mind — only by turning attention inward and going deeper than all mental activity. <strong>Upanishadic references</strong>: (1) <em>Kaṭha</em> (1.2.12): 'The Self, hard to see, hidden in the cave (guhāhitam), placed in the depth, ancient...' (2) <em>Kaṭha</em> (1.3.1): 'Two [the Self and the ego] drink the fruit of karma in the cave of the body...' (3) <em>Śvetāśvatara</em> (3.20): 'Smaller than the smallest, greater than the greatest, the Self is hidden in the cave of each being.' (4) <em>Taittirīya</em> (2.1.1): 'Brahman is in the cave (nihitaṁ guhāyām)...' <strong>Why 'cave'?</strong> (1) A cave is <em>hidden</em> — the Self is not on the surface of experience but in its depths. (2) A cave is <em>protected</em> — the Self is untouched by the storms of the outer world. (3) A cave must be <em>entered</em> — finding the Self requires going inward, deliberately, through contemplation. <strong>The seven prāṇas 'in the cave'</strong>: in this mantra, the seven prāṇas (sense-openings) are said to be 'placed in the cave' — meaning the senses have their <em>root</em> in the interior, not the exterior. Your eyes see outward, but the <em>seeing</em> originates from within."},
-      {"q": "🔍 The inner sacrifice — senses as ritual fire", "a": "This mantra transforms the <strong>external Vedic sacrifice</strong> into an <strong>internal contemplation</strong>: <strong>The correspondence</strong>: just as the external sacrifice has fires (agni), fuels (samidh), offerings (homa), and flames (arcis) — the inner person has sense-openings (prāṇas), sense-objects (fuels), perceptions (offerings), and inner fires (flames). <strong>Every act of perception is a sacrifice</strong>: when you see something, your eye (flame) 'consumes' the visual object (fuel) and produces the experience of seeing (offering). When you hear something, your ear (flame) 'consumes' the sound (fuel) and produces the experience of hearing (offering). This is the <em>inner agnihotra</em> — happening continuously, in every waking moment. <strong>The Praśna Upanishad parallel</strong> (4.3-4): 'In this city of Brahman (the body), the prāṇas are like fires... whatever a person sees, hears, smells, tastes, touches — these are the offerings.' <strong>The shift from outer to inner</strong>: the Muṇḍaka critiqued the <em>external</em> sacrifice (1.2) and pointed toward knowledge. Now it reveals that the <em>inner</em> sacrifice — the continuous offering of sensory experience — is happening all the time. You don't need to build a fire; you ARE a fire. You don't need to make an offering; every perception IS an offering."}
+      {
+        "q": "🔍 The cave of the heart (guhā) — where the Self dwells",
+        "a": "The <strong>guhā</strong> ('cave') is one of the Upanishads' most powerful and recurring images for the <em>interior space</em> where the Self resides: <strong>What is the guhā?</strong> Not the physical heart but the <em>innermost chamber of awareness</em> — the space behind all thoughts, emotions, and perceptions. It is 'hidden' (guhā = cave/secret) because it cannot be found by the senses or the mind — only by turning attention inward and going deeper than all mental activity. <strong>Upanishadic references</strong>: (1) <em>Kaṭha</em> (1.2.12): 'The Self, hard to see, hidden in the cave (guhāhitam), placed in the depth, ancient...' (2) <em>Kaṭha</em> (1.3.1): 'Two [the Self and the ego] drink the fruit of karma in the cave of the body...' (3) <em>Śvetāśvatara</em> (3.20): 'Smaller than the smallest, greater than the greatest, the Self is hidden in the cave of each being.' (4) <em>Taittirīya</em> (2.1.1): 'Brahman is in the cave (nihitaṁ guhāyām)...' <strong>Why 'cave'?</strong> (1) A cave is <em>hidden</em> — the Self is not on the surface of experience but in its depths. (2) A cave is <em>protected</em> — the Self is untouched by the storms of the outer world. (3) A cave must be <em>entered</em> — finding the Self requires going inward, deliberately, through contemplation. <strong>The seven prāṇas 'in the cave'</strong>: in this mantra, the seven prāṇas (sense-openings) are said to be 'placed in the cave' — meaning the senses have their <em>root</em> in the interior, not the exterior. Your eyes see outward, but the <em>seeing</em> originates from within."
+      },
+      {
+        "q": "🔍 The inner sacrifice — senses as ritual fire",
+        "a": "This mantra transforms the <strong>external Vedic sacrifice</strong> into an <strong>internal contemplation</strong>: <strong>The correspondence</strong>: just as the external sacrifice has fires (agni), fuels (samidh), offerings (homa), and flames (arcis) — the inner person has sense-openings (prāṇas), sense-objects (fuels), perceptions (offerings), and inner fires (flames). <strong>Every act of perception is a sacrifice</strong>: when you see something, your eye (flame) 'consumes' the visual object (fuel) and produces the experience of seeing (offering). When you hear something, your ear (flame) 'consumes' the sound (fuel) and produces the experience of hearing (offering). This is the <em>inner agnihotra</em> — happening continuously, in every waking moment. <strong>The Praśna Upanishad parallel</strong> (4.3-4): 'In this city of Brahman (the body), the prāṇas are like fires... whatever a person sees, hears, smells, tastes, touches — these are the offerings.' <strong>The shift from outer to inner</strong>: the Muṇḍaka critiqued the <em>external</em> sacrifice (1.2) and pointed toward knowledge. Now it reveals that the <em>inner</em> sacrifice — the continuous offering of sensory experience — is happening all the time. You don't need to build a fire; you ARE a fire. You don't need to make an offering; every perception IS an offering."
+      }
     ]
   },
   {
@@ -328,14 +544,34 @@
     "hi": "इससे (पुरुष से) सब समुद्र (oceans) और गिरि (mountains) हैं; इससे सर्वरूपा (of all forms) सिन्धवः (rivers) स्यन्दन्ते (flow); इससे सब ओषधियाँ (herbs) और रस (essence/sap) हैं — जिसके (रस के) द्वारा यह (अन्तरात्मा) भूतों (elements / subtle bodies) के साथ तिष्ठते (stands / exists) — वह अन्तरात्मा (inner Self) है।",
     "en": "From Him [come] all the oceans (samudrāḥ) and mountains (girayaḥ); from Him flow (syandante) the rivers (sindhavaḥ) of all forms (sarva-rūpāḥ); from Him [come] all the herbs (oṣadhayaḥ) and the essence (rasa); by which [essence] this [Self], the inner Self (antarātmā), abides (tiṣṭhate) with the elements (bhūtaiḥ).",
     "ws": [
-      {"s": "समुद्राः (samudrāḥ)", "h": "समुद्र / सागर / oceans", "e": "oceans — the great bodies of water; from sam + udra (water/wave); the seven oceans of Vedic cosmology"},
-      {"s": "गिरयः (girayaḥ)", "h": "गिरि / पर्वत / mountains", "e": "mountains — the great ranges; giri = mountain; the Himalayas and other sacred ranges of Vedic geography"},
-      {"s": "स्यन्दन्ते (syandante)", "h": "बहती हैं / प्रवाहित होती हैं", "e": "flow — from √syand (to flow/run); the rivers flow continuously from the cosmic Puruṣa — creation is not a one-time event but an ongoing flow"},
-      {"s": "सिन्धवः (sindhavaḥ)", "h": "सिन्धु / नदियाँ / rivers", "e": "rivers — sindhu = river/stream; the rivers of all forms that flow across the earth; also refers to the great Vedic rivers (Sindhu/Indus, etc.)"},
-      {"s": "रसः (rasaḥ)", "h": "रस / सार / essence / sap", "e": "essence / sap / juice — from √ras (to taste/relish); the vital essence in plants and all living things; the subtle substrate that connects the inner Self to the physical body"}
+      {
+        "s": "समुद्राः",
+        "h": "समुद्र / सागर / oceans",
+        "e": "oceans"
+      },
+      {
+        "s": "गिरयः",
+        "h": "गिरि / पर्वत / mountains",
+        "e": "mountains"
+      },
+      {
+        "s": "स्यन्दन्ते",
+        "h": "बहती हैं / प्रवाहित होती हैं",
+        "e": "flow"
+      },
+      {
+        "s": "सिन्धवः",
+        "h": "सिन्धु / नदियाँ / rivers",
+        "e": "rivers"
+      },
+      {
+        "s": "रसः",
+        "h": "रस / सार / essence / sap",
+        "e": "essence / sap / juice"
+      }
     ],
     "gr": "<strong>The geographical creation</strong>: from the Puruṣa come the physical features of the earth — oceans, mountains, rivers, herbs, and the vital essence (rasa). <strong>The flow imagery</strong>: 'syandante sindhavaḥ sarva-rūpāḥ' — 'rivers of all forms flow' — creation is not a one-time act but an <em>ongoing flow</em>. Rivers flow continuously; creation flows continuously from the Puruṣa. <strong>rasa</strong> — 'essence/sap': rasa is the vital essence that sustains life — the sap in plants, the flavour in food, the vitality in the body. It is the <em>link</em> between the physical world and the inner Self. <strong>yena eṣa bhūtais tiṣṭhate antarātmā</strong> — 'by which this inner Self abides with the elements': the rasa (essence) is what enables the antarātmā (inner Self) to 'abide' with the bhūtas (elements/bodies). Without rasa, the Self would have no connection to the physical world. Rasa is the <em>bridge</em> between consciousness and matter.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.9 — The geographical creation (oceans, mountains, rivers) completes the picture: from the Puruṣa come not only the elements, living beings, rituals, and moral values but also the physical landscape. The concept of 'rasa' (essence) as the medium through which the Self connects to the body is elaborated in the Taittirīya (2.7.1): 'raso vai saḥ' — 'He (Brahman) is rasa (essence/delight).' The Chāndogya (1.1.2) states: 'The essence (rasa) of beings is earth; the essence of earth is water; the essence of water is plants; the essence of plants is the person...' — tracing the chain of essence from the cosmos to the individual.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -357,8 +593,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Rasa — the essence that connects Self to world", "a": "The concept of <strong>rasa</strong> ('essence/sap/juice') plays a crucial bridging role in Upanishadic thought: <strong>What is rasa?</strong> Rasa (from √ras, to taste/relish) means: (1) <em>Sap</em> — the vital juice in plants. (2) <em>Essence</em> — the concentrated core of anything. (3) <em>Taste/flavour</em> — the quality that gives food its character. (4) <em>Delight</em> — the Taittirīya (2.7.1) declares: 'raso vai saḥ' — 'He (Brahman) is rasa.' Brahman IS the essence, the sap, the delight that pervades all existence. <strong>Rasa as bridge</strong>: in this mantra, rasa is the medium through which the antarātmā (inner Self) 'abides with the elements' (bhūtaiḥ tiṣṭhate). Without rasa, the Self would be disconnected from the body. Rasa is the <em>interface</em> between consciousness and matter — the subtle substance that allows the non-material Self to inhabit a material body. <strong>The Chāndogya's rasa-chain</strong> (1.1.2-3): 'The essence of beings is earth. The essence of earth is water. The essence of water is plants. The essence of plants is the person. The essence of the person is speech. The essence of speech is ṛc. The essence of ṛc is sāma. The essence of sāma is udgītha (OM).' Each level distils into a more concentrated 'rasa' — from the gross (earth) to the subtlest (OM). <strong>The implication</strong>: the material world is not inert matter — it is <em>alive</em> with rasa (essence/delight). Every river, mountain, and herb contains the 'sap' of Brahman. The world is not a dead mechanism; it is a living, tasting, delighting expression of the divine."},
-      {"q": "🔍 Creation as continuous flow, not one-time event", "a": "The verb <strong>'syandante'</strong> ('they flow') reveals an important aspect of the Muṇḍaka's creation-theology: <strong>Creation is not past-tense</strong>: the rivers don't 'once flowed' from the Puruṣa — they <em>flow</em> (present tense). The oceans, mountains, and rivers are not products of a completed creation but <em>ongoing expressions</em> of the Puruṣa's creative activity. <strong>Creation is a process, not an event</strong>: the Puruṣa is not a watchmaker who built the clock and stepped back. The Puruṣa is the <em>flowing water itself</em> — continuously pouring forth as oceans, continuously rising as mountains, continuously branching as rivers. If the Puruṣa 'stopped' creating, everything would cease to exist — not because the world would 'break' but because the world IS the Puruṣa's continuous self-expression. <strong>The river-ocean simile</strong> (expanded in Muṇḍaka 3.2.8): later in the Muṇḍaka, rivers flowing into the ocean will symbolise the liberated soul merging into Brahman. Here, the reverse: rivers flowing <em>from</em> the Puruṣa symbolise creation emerging from Brahman. The same image works both ways — emergence and return, creation and dissolution."}
+      {
+        "q": "🔍 Rasa — the essence that connects Self to world",
+        "a": "The concept of <strong>rasa</strong> ('essence/sap/juice') plays a crucial bridging role in Upanishadic thought: <strong>What is rasa?</strong> Rasa (from √ras, to taste/relish) means: (1) <em>Sap</em> — the vital juice in plants. (2) <em>Essence</em> — the concentrated core of anything. (3) <em>Taste/flavour</em> — the quality that gives food its character. (4) <em>Delight</em> — the Taittirīya (2.7.1) declares: 'raso vai saḥ' — 'He (Brahman) is rasa.' Brahman IS the essence, the sap, the delight that pervades all existence. <strong>Rasa as bridge</strong>: in this mantra, rasa is the medium through which the antarātmā (inner Self) 'abides with the elements' (bhūtaiḥ tiṣṭhate). Without rasa, the Self would be disconnected from the body. Rasa is the <em>interface</em> between consciousness and matter — the subtle substance that allows the non-material Self to inhabit a material body. <strong>The Chāndogya's rasa-chain</strong> (1.1.2-3): 'The essence of beings is earth. The essence of earth is water. The essence of water is plants. The essence of plants is the person. The essence of the person is speech. The essence of speech is ṛc. The essence of ṛc is sāma. The essence of sāma is udgītha (OM).' Each level distils into a more concentrated 'rasa' — from the gross (earth) to the subtlest (OM). <strong>The implication</strong>: the material world is not inert matter — it is <em>alive</em> with rasa (essence/delight). Every river, mountain, and herb contains the 'sap' of Brahman. The world is not a dead mechanism; it is a living, tasting, delighting expression of the divine."
+      },
+      {
+        "q": "🔍 Creation as continuous flow, not one-time event",
+        "a": "The verb <strong>'syandante'</strong> ('they flow') reveals an important aspect of the Muṇḍaka's creation-theology: <strong>Creation is not past-tense</strong>: the rivers don't 'once flowed' from the Puruṣa — they <em>flow</em> (present tense). The oceans, mountains, and rivers are not products of a completed creation but <em>ongoing expressions</em> of the Puruṣa's creative activity. <strong>Creation is a process, not an event</strong>: the Puruṣa is not a watchmaker who built the clock and stepped back. The Puruṣa is the <em>flowing water itself</em> — continuously pouring forth as oceans, continuously rising as mountains, continuously branching as rivers. If the Puruṣa 'stopped' creating, everything would cease to exist — not because the world would 'break' but because the world IS the Puruṣa's continuous self-expression. <strong>The river-ocean simile</strong> (expanded in Muṇḍaka 3.2.8): later in the Muṇḍaka, rivers flowing into the ocean will symbolise the liberated soul merging into Brahman. Here, the reverse: rivers flowing <em>from</em> the Puruṣa symbolise creation emerging from Brahman. The same image works both ways — emergence and return, creation and dissolution."
+      }
     ]
   },
   {
@@ -368,14 +610,34 @@
     "hi": "पुरुष ही (एव) यह विश्व (universe) है — कर्म (action), तपस् (austerity), ब्रह्म (Veda / the Absolute) — परामृतम् (supreme immortality)। हे सोम्य (O gentle one)! जो यह (एतद्) गुहा (cave of the heart) में निहित (hidden / placed) जानता (वेद) है — वह इहैव (here, in this very life) अविद्या-ग्रन्थि (the knot of ignorance) को विकिरति (unties / scatters / destroys)।",
     "en": "The Puruṣa alone (eva) is all this (idaṁ viśvam) — karma (action), tapas (austerity), Brahman (the Absolute) — the supreme immortality (para-amṛta). He who knows (veda) this [Puruṣa] hidden (nihitam) in the cave [of the heart] (guhāyām) — he, O gentle one (somya), unties (vikiratī) the knot of ignorance (avidyā-granthi) here [in this very life] (iha).",
     "ws": [
-      {"s": "पुरुष एवेदं विश्वम् (puruṣa eva idaṁ viśvam)", "h": "पुरुष ही यह सब (विश्व) है", "e": "the Puruṣa alone is all this universe — eva (alone/indeed) is emphatic; the Puruṣa is not a part of the universe but IS the universe; there is nothing apart from the Puruṣa"},
-      {"s": "परामृतम् (para-amṛtam)", "h": "परम अमृत / सर्वोच्च अमरत्व", "e": "the supreme immortality — para (supreme) + amṛta (immortality/nectar); the highest, unconditioned immortality — not heavenly longevity but absolute freedom from death"},
-      {"s": "अविद्याग्रन्थिम् (avidyā-granthim)", "h": "अविद्या की ग्रन्थि (गाँठ)", "e": "the knot of ignorance — avidyā (ignorance) + granthi (knot); the 'knot' that binds the Self to saṁsāra; the fundamental misidentification that causes bondage"},
-      {"s": "विकिरति (vikiratī)", "h": "खोलता है / बिखेरता है / नष्ट करता है", "e": "unties / scatters / destroys — vi + √kṛ (to scatter); the knot is not merely loosened but completely scattered — ignorance is destroyed, not suppressed"},
-      {"s": "इह (iha)", "h": "यहीं / इसी जीवन में", "e": "here / in this very life — iha = here, now, in this embodiment; liberation is not post-mortem but achievable in THIS life (jīvan-mukti)"}
+      {
+        "s": "पुरुष एवेदं विश्वम्",
+        "h": "पुरुष ही यह सब (विश्व) है",
+        "e": "the Puruṣa alone is all this universe"
+      },
+      {
+        "s": "परामृतम्",
+        "h": "परम अमृत / सर्वोच्च अमरत्व",
+        "e": "the supreme immortality"
+      },
+      {
+        "s": "अविद्याग्रन्थिम्",
+        "h": "अविद्या की ग्रन्थि (गाँठ)",
+        "e": "the knot of ignorance"
+      },
+      {
+        "s": "विकिरति",
+        "h": "खोलता है / बिखेरता है / नष्ट करता है",
+        "e": "unties / scatters / destroys"
+      },
+      {
+        "s": "इह",
+        "h": "यहीं / इसी जीवन में",
+        "e": "here / in this very life"
+      }
     ],
     "gr": "<strong>The climactic declaration</strong>: this is the grand summation of Mundaka 2, Khanda 1 — tying together the entire cosmic creation-vision with the promise of liberation. <strong>puruṣa eva idaṁ viśvam</strong> — 'the Puruṣa alone is all this': the simplest and most radical statement. There is nothing that is not the Puruṣa. The universe, karma, tapas, Brahman, immortality — all are the Puruṣa. <strong>avidyā-granthi</strong> — 'the knot of ignorance': the image of a 'knot' (granthi) is powerful. A knot ties two things together that should be separate (or separates what should be united). The knot of ignorance <em>binds</em> the Self to the body-mind complex, creating the illusion of limitation and mortality. Untying this knot = liberation. <strong>vikiratī iha</strong> — 'unties it HERE': the crucial word is <em>iha</em> — 'here,' 'in this very life.' Liberation is not a post-mortem event; it is achievable <em>here and now</em> (jīvan-mukti). The one who knows the Puruṣa in the cave of the heart is liberated while still living. <strong>somya</strong> — 'O gentle one': the section ends, as it began (mantra 1), with the tender address 'somya' — framing the entire teaching in an atmosphere of affection.",
-    "mt": "REVIEW_NEEDED: mundaka_upanishad_2.1.10 — This mantra contains two signature concepts: (1) 'avidyā-granthi' (knot of ignorance) — a term that becomes central in later Vedānta; Shankara discusses the three 'knots' (granthis) of the heart in his commentary on the Chāndogya. The Muṇḍaka itself returns to this image in 2.2.8: 'bhidyate hṛdaya-granthiḥ' — 'the knot of the heart is cut.' (2) 'iha' (here, in this life) — the assertion that liberation is possible within this lifetime (jīvan-mukti), not only after death (videha-mukti). This is a defining position of the Advaita tradition. The phrase 'puruṣa eva idaṁ viśvam' echoes the Ṛg Veda's Puruṣa Sūkta (10.90.2): 'puruṣa evedaṁ sarvam' — 'the Puruṣa alone is all this.' The Muṇḍaka directly quotes this ancient hymn, bringing the Vedic vision full circle.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -397,8 +659,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 The knot of ignorance (avidyā-granthi)", "a": "The <strong>avidyā-granthi</strong> ('knot of ignorance') is one of the Muṇḍaka's most important images — it will return in 2.2.8 ('bhidyate hṛdaya-granthiḥ' — 'the knot of the heart is cut'): <strong>What is the knot?</strong> A knot ties together things that should be separate (or binds what should be free). The 'knot of ignorance' is the <em>fundamental misidentification</em> that binds the Self to the body-mind complex: (1) 'I am this body' (deha-ātma-bhāva — body-Self confusion). (2) 'I was born and will die' (treating the eternal Self as mortal). (3) 'I am the doer and the enjoyer' (attributing agency and experience to the Self, which is actually the witness). <strong>Three knots in later tradition</strong>: the later Vedāntic tradition identifies three 'knots' (granthis) in the heart: (1) <em>Brahmā-granthi</em> — attachment to the physical world (creation, possession, survival). (2) <em>Viṣṇu-granthi</em> — attachment to the emotional world (relationships, pleasures, identity). (3) <em>Rudra-granthi</em> — attachment to the intellectual/spiritual world (knowledge, powers, attainment). All three must be cut for complete liberation. <strong>How the knot is untied</strong>: through knowledge — 'etat yo veda nihitaṁ guhāyām' — 'he who knows this, hidden in the cave.' The knowing is not intellectual understanding but <em>direct realisation</em> — the Self recognising itself in the cave of the heart. When the Self sees itself, the knot has nothing to tie — it falls away."},
-      {"q": "🔍 Liberation here and now — 'iha' (in this very life)", "a": "The word <strong>'iha'</strong> ('here') makes a revolutionary claim: <strong>Liberation is not posthumous</strong>: the Muṇḍaka does not say 'he will be liberated after death.' It says 'he unties the knot of ignorance <em>iha</em>' — <em>here</em>, in this very life, in this very body. This is the doctrine of <strong>jīvan-mukti</strong> — 'liberation while living': <strong>What jīvan-mukti means</strong>: (1) The knower of Brahman is liberated <em>now</em> — not in some future state. (2) The body may continue to function (eating, walking, speaking), but the <em>identification</em> with the body has been severed. The body is like a potter's wheel that continues to spin after the potter has stopped pushing — it runs on residual momentum (prārabdha-karma). (3) The jīvan-mukta sees the Puruṣa everywhere — in all beings, in all elements, in the cosmos and in the cave of the heart. The separation between 'self' and 'world' has dissolved. <strong>The Muṇḍaka's later confirmation</strong> (3.2.9): 'brahma-vid brahmaiva bhavati' — 'the knower of Brahman becomes Brahman itself.' Not 'will become' but 'becomes' — present tense. <strong>The practical implication</strong>: you don't need to die, go to heaven, or wait for a cosmic event. The knot can be untied right now, in the cave of your own heart, through the knowledge of the Puruṣa who IS all this."}
+      {
+        "q": "🔍 The knot of ignorance (avidyā-granthi)",
+        "a": "The <strong>avidyā-granthi</strong> ('knot of ignorance') is one of the Muṇḍaka's most important images — it will return in 2.2.8 ('bhidyate hṛdaya-granthiḥ' — 'the knot of the heart is cut'): <strong>What is the knot?</strong> A knot ties together things that should be separate (or binds what should be free). The 'knot of ignorance' is the <em>fundamental misidentification</em> that binds the Self to the body-mind complex: (1) 'I am this body' (deha-ātma-bhāva — body-Self confusion). (2) 'I was born and will die' (treating the eternal Self as mortal). (3) 'I am the doer and the enjoyer' (attributing agency and experience to the Self, which is actually the witness). <strong>Three knots in later tradition</strong>: the later Vedāntic tradition identifies three 'knots' (granthis) in the heart: (1) <em>Brahmā-granthi</em> — attachment to the physical world (creation, possession, survival). (2) <em>Viṣṇu-granthi</em> — attachment to the emotional world (relationships, pleasures, identity). (3) <em>Rudra-granthi</em> — attachment to the intellectual/spiritual world (knowledge, powers, attainment). All three must be cut for complete liberation. <strong>How the knot is untied</strong>: through knowledge — 'etat yo veda nihitaṁ guhāyām' — 'he who knows this, hidden in the cave.' The knowing is not intellectual understanding but <em>direct realisation</em> — the Self recognising itself in the cave of the heart. When the Self sees itself, the knot has nothing to tie — it falls away."
+      },
+      {
+        "q": "🔍 Liberation here and now — 'iha' (in this very life)",
+        "a": "The word <strong>'iha'</strong> ('here') makes a revolutionary claim: <strong>Liberation is not posthumous</strong>: the Muṇḍaka does not say 'he will be liberated after death.' It says 'he unties the knot of ignorance <em>iha</em>' — <em>here</em>, in this very life, in this very body. This is the doctrine of <strong>jīvan-mukti</strong> — 'liberation while living': <strong>What jīvan-mukti means</strong>: (1) The knower of Brahman is liberated <em>now</em> — not in some future state. (2) The body may continue to function (eating, walking, speaking), but the <em>identification</em> with the body has been severed. The body is like a potter's wheel that continues to spin after the potter has stopped pushing — it runs on residual momentum (prārabdha-karma). (3) The jīvan-mukta sees the Puruṣa everywhere — in all beings, in all elements, in the cosmos and in the cave of the heart. The separation between 'self' and 'world' has dissolved. <strong>The Muṇḍaka's later confirmation</strong> (3.2.9): 'brahma-vid brahmaiva bhavati' — 'the knower of Brahman becomes Brahman itself.' Not 'will become' but 'becomes' — present tense. <strong>The practical implication</strong>: you don't need to die, go to heaven, or wait for a cosmic event. The knot can be untied right now, in the cave of your own heart, through the knowledge of the Puruṣa who IS all this."
+      }
     ]
   }
 ]

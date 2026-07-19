@@ -34,7 +34,7 @@
       {
         "s": "प्राणः प्रथमः",
         "h": "प्रथम प्राण",
-        "e": "the first/chief vital force — prāṇa is primary among five"
+        "e": "the first/chief vital force"
       },
       {
         "s": "प्रैति",
@@ -44,7 +44,7 @@
       {
         "s": "युक्तः",
         "h": "जोता हुआ",
-        "e": "yoked, set to work — past passive of yuj, root of yoga"
+        "e": "yoked, set to work"
       },
       {
         "s": "वाचम् इमाम्",
@@ -54,7 +54,7 @@
       {
         "s": "क उ देवः",
         "h": "कौन-सा देव?",
-        "e": "what luminous being? — u is Vedic emphatic; deva from div, to shine"
+        "e": "what luminous being?"
       },
       {
         "s": "युनक्ति",
@@ -63,7 +63,7 @@
       }
     ],
     "gr": "<strong>केन</strong> (instrumental of kim, 'by whom') — the opening word repeated three times across two lines: the very repetition IS the teaching, driving inquiry into every faculty at once. <strong>इषितम्</strong> and <strong>प्रेषितम्</strong> are both past passive participles of iṣ (to impel) — the first suggests an inner impulse, the second an outward directing, together covering the full range of mental and vital movement. <strong>प्रैति</strong> = pra + eti, 'goes forth with force.' <strong>क उ देवः</strong> — the final line shifts from the instrumental 'kena' to the nominative 'kaḥ' and introduces <strong>देवः</strong> (from div, to shine) — not merely an external deity, but the luminous inner principle that makes seeing and hearing possible. <strong>युनक्ति</strong> (from युज्, root of yoga) — the senses are yoked, not self-propelling: something else puts them to work.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — surface count of pada 1 gives ~12 syllables, suggesting Jagati or irregular Trishtubh; some scholars class Kena 1.1–1.2 as Trishtubh (11 syl/pada). Verify from Gambhirananda or Radhakrishnan before finalising · Samaveda, Talavakāra Brāhmaṇa",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -109,46 +109,46 @@
       {
         "s": "श्रोत्रस्य श्रोत्रम्",
         "h": "कान का कान",
-        "e": "ear of the ear — genitive chain: the ground that enables hearing, not the hearing itself"
+        "e": "ear of the ear"
       },
       {
         "s": "मनसो मनः",
         "h": "मन का मन",
-        "e": "mind of the mind — the awareness that knows mental activity without itself being a mental event"
+        "e": "mind of the mind"
       },
       {
         "s": "वाचः वाचम्",
         "h": "वाणी की वाणी",
-        "e": "speech of speech — the animating power behind articulation"
+        "e": "speech of speech"
       },
       {
         "s": "स उ प्राणस्य प्राणः",
         "h": "वही प्राण का भी प्राण है",
-        "e": "that very one (sa) indeed (u) is the life of life — u is the Vedic emphatic particle singling out one referent across all faculties"
+        "e": "that very one (sa) indeed (u) is the life of life"
       },
       {
         "s": "अतिमुच्य",
         "h": "पूरी तरह मुक्त होकर",
-        "e": "freeing oneself completely — gerund of ati+muc; the prefix ati intensifies into a crossing-over, not partial detachment"
+        "e": "freeing oneself completely"
       },
       {
         "s": "धीराः",
         "h": "धीर / स्थिरबुद्धि",
-        "e": "the steadfast wise — from dhī, the organ of discerning insight; those whose intellect is unwavering, turned to the source not the surface"
+        "e": "the steadfast wise"
       },
       {
         "s": "प्रेत्य",
         "h": "इस लोक से विदा होकर",
-        "e": "having departed — gerund of pra+i, going forth; here: departing from identification with this instrument-world"
+        "e": "having departed"
       },
       {
         "s": "अमृताः",
         "h": "अमृत / मृत्यु से परे",
-        "e": "immortal — a-mṛta, not subject to death; the state of being established in the deathless ground"
+        "e": "immortal"
       }
     ],
     "gr": "<strong>श्रोत्रस्य श्रोत्रम्</strong> — the genitive-chain construction (X of X) repeats across five faculties in two pādas: ear, mind, speech, life, eye. This is the mantra's central teaching device: Brahman is not the faculty itself but its inner enabler, the 'hearing behind the heard.' <strong>स उ</strong> — 'that very one also' — the Vedic emphatic u singles out Brahman as the one principle behind every listed faculty without exception. <strong>अतिमुच्य</strong> (gerund of ati+muc) — 'having released completely' — ati lifts the release into a total crossing-over, distinguishing insight from mere renunciation. <strong>धीराः</strong> (from dhī, the Vedic organ of discerning insight) — not any wise person, but one whose intelligence has turned steadily inward to its own source. <strong>प्रेत्य</strong> (pra+i) — 'having gone forth from this world' — not physical departure but the inner departure from exclusive identification with sensory instruments.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — four pādas with unequal syllable counts (approx. 10-11-10-11) suggest Trishtubh-like structure; some editors class Kena 1.2 as irregular Trishtubh. Verify from Gambhirananda or Radhakrishnan before finalising · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.2",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -194,7 +194,7 @@
       {
         "s": "न तत्र",
         "h": "वहाँ नहीं",
-        "e": "not there — tatra is an adverb of place; perceiving is treated as movement toward a location, and Brahman has no such location"
+        "e": "not there"
       },
       {
         "s": "चक्षुः",
@@ -204,36 +204,36 @@
       {
         "s": "गच्छति",
         "h": "जाता है / पहुँचता है",
-        "e": "goes, reaches — the verb frames perception as directed movement toward an object; Brahman cannot be such an object"
+        "e": "goes, reaches"
       },
       {
         "s": "वाक्",
         "h": "वाणी",
-        "e": "speech — the power of articulation, not merely sound"
+        "e": "speech"
       },
       {
         "s": "नो मनः",
         "h": "और न मन",
-        "e": "nor the mind — no is encliticised na + u, adding emphasis to the third negation"
+        "e": "nor the mind"
       },
       {
         "s": "न विद्मः",
         "h": "हम नहीं जानते",
-        "e": "we do not know — 1st plural of vid; bare recognition; the teacher acknowledges the limit of ordinary acquaintance"
+        "e": "we do not know"
       },
       {
         "s": "न विजानीमः",
         "h": "हम नहीं समझते",
-        "e": "we do not comprehend — vi+jñā intensifies: even deep analytical grasp does not reach Brahman"
+        "e": "we do not comprehend"
       },
       {
         "s": "अनुशिष्यात्",
         "h": "अनुक्रम से सिखाया जाए",
-        "e": "may be taught in regular succession — optative of anu+śiṣ; anu signals the step-by-step guru-śiṣya transmission that is the normal mode of learning"
+        "e": "may be taught in regular succession"
       }
     ],
     "gr": "<strong>न तत्र चक्षुः गच्छति</strong> — 'there the eye does not go.' The verb <strong>गच्छति</strong> frames perception as movement toward an object; since Brahman cannot be objectified, the eye literally has nowhere to go — the grammar enacts the teaching. <strong>नो</strong> (= na + u, enclitic) continues the negation for manas with added Vedic emphasis. <strong>न विद्मः</strong> and <strong>न विजानीमः</strong> — two distinct verbs: vid (bare recognition, knowing-that) and vi-jñā (full analytical comprehension, knowing-how). The teacher denies both levels. <strong>अनुशिष्यात्</strong> (optative of anu+śiṣ) — 'may be taught in succession' — anu ('following, step by step') names the sequential guru-śiṣya transmission: grammar, ritual, and philosophy are all anuśāsana. What exceeds this mode requires a different transmission entirely.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — two-pāda structure with approximately 16 syllables per pāda suggests Anuṣṭubh variant or prose-verse transition; verify from Gambhirananda or Radhakrishnan commentary · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.3",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -279,51 +279,51 @@
       {
         "s": "अन्यद् एव",
         "h": "निश्चय ही अन्य / पृथक्",
-        "e": "indeed other — eva is emphatic, making the distinction categorical and absolute, not merely relative"
+        "e": "indeed other"
       },
       {
         "s": "तत्",
         "h": "वह (ब्रह्म)",
-        "e": "that — the pronoun points to the subject of inquiry from mantra 1; the whole inquiry converges here"
+        "e": "that"
       },
       {
         "s": "विदितात्",
         "h": "ज्ञात से",
-        "e": "from the known — ablative of vidita (past passive of vid); the entire category of objects already grasped by mind"
+        "e": "from the known"
       },
       {
         "s": "अथो",
         "h": "और भी / तथा",
-        "e": "and also — Vedic conjunction adding a second and equally total differentiation"
+        "e": "and also"
       },
       {
         "s": "अविदितात्",
         "h": "अज्ञात से",
-        "e": "from the unknown — ablative of a-vidita; the whole category of things beyond current cognition"
+        "e": "from the unknown"
       },
       {
         "s": "अधि",
         "h": "परे / ऊपर",
-        "e": "beyond, above — postposition governing the ablative; Brahman is placed above even the unknown so ignorance cannot shelter it"
+        "e": "beyond, above"
       },
       {
         "s": "शुश्रुम",
         "h": "हमने सुना",
-        "e": "we have heard — perfect of śru; marks received oral tradition, not personal discovery or inference"
+        "e": "we have heard"
       },
       {
         "s": "पूर्वेषाम्",
         "h": "पूर्व आचार्यों से",
-        "e": "from the ancients — genitive plural of pūrva; the teacher appeals to an unbroken lineage"
+        "e": "from the ancients"
       },
       {
         "s": "व्याचचक्षिरे",
         "h": "व्याख्या की / प्रकाशित किया",
-        "e": "they expounded — vi+ā+cakṣ (perfect); cakṣ means to make visible; they did not merely transmit words but illuminated the truth"
+        "e": "they expounded"
       }
     ],
     "gr": "<strong>अन्यद् एव</strong> — the emphatic eva makes the distinction absolute: categorically other, not merely different in degree. <strong>विदितात्</strong> and <strong>अविदितात्</strong> — both ablatives, signalling movement 'away from' each category toward something that exceeds it; this dismantles the assumption that known and unknown exhaust reality. <strong>अधि</strong> places Brahman 'above' even the unknown, closing the escape route: one cannot hide Brahman in ignorance and call that humility. <strong>शुश्रुम</strong> — perfect of śru — the teacher does not claim personal discovery but appeals to received lineage. <strong>व्याचचक्षिरे</strong> — from cakṣ, to make visible — the ancients illuminated, not merely transmitted: they made a truth visible that language alone cannot carry.",
-    "mt": "REVIEW_NEEDED: Metre unconfirmed — each pāda runs approximately 16 syllables; may be Anuṣṭubh variant or elongated Anuṣṭubh; verify from Gambhirananda or Radhakrishnan commentary · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.4",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -369,17 +369,17 @@
       {
         "s": "यस्य",
         "h": "जिसके लिए / जिसका",
-        "e": "by whom — genitive of ya (relative pronoun), here used instrumentally"
+        "e": "by whom"
       },
       {
         "s": "अमतम्",
         "h": "न जाना हुआ / अज्ञात",
-        "e": "not thought/known — a-mata, past passive of man (to think, to know); not the opinion but the direct cognition"
+        "e": "not thought/known"
       },
       {
         "s": "तस्य मतम्",
         "h": "उसके लिए जाना हुआ है",
-        "e": "by him it is known — genitive of tad; the paradox pivots on mata vs a-mata"
+        "e": "by him it is known"
       },
       {
         "s": "मतम् यस्य",
@@ -389,31 +389,31 @@
       {
         "s": "न वेद सः",
         "h": "वह नहीं जानता",
-        "e": "he does not know — veda is perfect of vid; the one who 'knows' Brahman as an object does not truly know"
+        "e": "he does not know"
       },
       {
         "s": "अविज्ञातम्",
         "h": "अज्ञात / न जाना हुआ",
-        "e": "unknown — a + vi-jñāta; vi-jñā is deeper analytical knowing, not bare acquaintance"
+        "e": "unknown"
       },
       {
         "s": "विजानताम्",
         "h": "जानने वालों के लिए",
-        "e": "to those who know — genitive plural of vijānat (present participle)"
+        "e": "to those who know"
       },
       {
         "s": "विज्ञातम्",
         "h": "ज्ञात / जाना हुआ",
-        "e": "known — vi-jñāta; past passive participle; fully grasped"
+        "e": "known"
       },
       {
         "s": "अविजानताम्",
         "h": "न जानने वालों के लिए",
-        "e": "to those who do not know — genitive plural of a-vijānat"
+        "e": "to those who do not know"
       }
     ],
     "gr": "<strong>यस्यामतं तस्य मतम्</strong> — the mantra opens with a chiasmus (crossed structure): A-mata / mata / mata / na veda. This is not wordplay but a precise epistemological statement. <strong>अमतम्</strong> (a-mata, from man, to think/intend) and <strong>विज्ञातम्</strong> (from vi-jñā, analytical comprehension) are two different levels of knowing — both are denied for the true knower. <strong>न वेद सः</strong> — veda is perfect tense of vid, the oldest verb for knowing; the perfect tense implies completed and certain knowledge of an object. Brahman cannot be an object of such knowing. <strong>विजानताम् / अविजानताम्</strong> — present participle genitives; 'those who are in the act of knowing' vs 'those who are not' — the paradox holds even in present cognition.",
-    "mt": "REVIEW_NEEDED: Anushtubh (8 syllables per pada) — four padas with 8-8-8-8 count; appears metrically regular but verify pada boundaries from Gambhirananda or Radhakrishnan · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.5",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -459,51 +459,51 @@
       {
         "s": "प्रतिबोध",
         "h": "प्रत्येक बोध / जागरण-क्षण",
-        "e": "each act of cognition, each moment of awareness — prati (at each) + bodha (awakening, consciousness); every time awareness flashes, Brahman is the ground"
+        "e": "each act of cognition, each moment of awareness"
       },
       {
         "s": "विदितम्",
         "h": "जाना हुआ / पहचाना हुआ",
-        "e": "known, recognized — past passive of vid; here used in a special sense: Brahman recognized as the background, not grasped as foreground"
+        "e": "known, recognized"
       },
       {
         "s": "मतम्",
         "h": "सच्चा मत / सच्चा ज्ञान",
-        "e": "the true knowing — mata, past passive of man; here: the recognition that constitutes genuine knowledge of Brahman"
+        "e": "the true knowing"
       },
       {
         "s": "अमृतत्वम्",
         "h": "अमरत्व / मोक्ष",
-        "e": "immortality — a-mṛta + tva (abstract suffix); not mere deathlessness but the state of being established in the deathless"
+        "e": "immortality"
       },
       {
         "s": "हि",
         "h": "निश्चय ही / वास्तव में",
-        "e": "indeed — Vedic emphatic particle; affirms the causal link between pratibodha-knowledge and immortality"
+        "e": "indeed"
       },
       {
         "s": "विन्दते",
         "h": "पाता है / प्राप्त करता है",
-        "e": "gains, finds — present of vid (to find/obtain); same root as Veda; gains not by earning but by recognition"
+        "e": "gains, finds"
       },
       {
         "s": "आत्मना",
         "h": "आत्मा के द्वारा",
-        "e": "through/by the Self — instrumental of ātman; the Self is both the means and the end"
+        "e": "through/by the Self"
       },
       {
         "s": "वीर्यम्",
         "h": "वीर्य / शक्ति / बल",
-        "e": "strength, vitality — from vīra (hero); not merely physical but the power that comes from being rooted in one's true nature"
+        "e": "strength, vitality"
       },
       {
         "s": "विद्यया",
         "h": "विद्या के द्वारा",
-        "e": "through knowledge — instrumental of vidyā; here specifically Brahma-vidyā, knowledge of Brahman as one's own Self"
+        "e": "through knowledge"
       }
     ],
     "gr": "<strong>प्रतिबोधविदितम्</strong> — a compound: prati ('at each, against') + bodha ('awakening, cognition') + vidita ('known'). This is the key philosophical term of the mantra: Brahman is not known as an object of a specific cognition but as the luminous ground that makes each cognition possible. <strong>मतम्</strong> picks up from mantra 5 — the 'true knowing' that mantra 5 described as paradoxical is now specified: it is pratibodha-vidita, recognised at each flash of awareness. <strong>आत्मना विन्दते वीर्यम्</strong> — two distinct rewards: vīrya (strength/vitality) comes from ātman (even preliminary self-recognition builds inner power), and amṛta (immortality) comes only from vidyā (full Brahma-knowledge). The progression is deliberate.",
-    "mt": "REVIEW_NEEDED: Anushtubh (8-8-8-8) — verify pada boundaries; some editions print as two long lines rather than four short ones · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.6",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -549,51 +549,51 @@
       {
         "s": "इह",
         "h": "यहाँ / इसी जीवन में",
-        "e": "here — in this world, in this body, in this lifetime; the urgency is in iha: not after death, but now"
+        "e": "here"
       },
       {
         "s": "चेत् अवेदीत्",
         "h": "यदि जान लिया",
-        "e": "if he knew/knows — ced (if) + avedīt (aorist of vid, 'to know'); aorist marks a specific decisive act of knowing"
+        "e": "if he knew/knows"
       },
       {
         "s": "अथ सत्यम् अस्ति",
         "h": "तो सत्य है / तो वह जीवन सत्य है",
-        "e": "then it is true/real — satyam: the life in which this knowledge occurs is a truly real life; without it, it is a kind of unreality"
+        "e": "then it is true/real"
       },
       {
         "s": "महती विनष्टिः",
         "h": "महान् विनाश / भारी हानि",
-        "e": "great destruction/loss — mahatī (feminine of mahat, great) + vinaṣṭiḥ (from vi+naś, to perish, be lost); not punishment but the natural consequence of missing the point of human birth"
+        "e": "great destruction/loss"
       },
       {
         "s": "भूतेषु भूतेषु",
         "h": "प्रत्येक प्राणी में / हर सत्ता में",
-        "e": "in every being — repetition of bhūteṣu (locative plural of bhūta, existing being) is a Vedic emphatic reduplication meaning 'in each and every being without exception'"
+        "e": "in every being"
       },
       {
         "s": "विचित्य",
         "h": "पहचानकर / खोजकर",
-        "e": "having discerned/recognised — gerund of vi+ci (to sift, distinguish, recognise); implies active discernment, not passive stumbling"
+        "e": "having discerned/recognised"
       },
       {
         "s": "धीराः",
         "h": "धीर / स्थिरबुद्धि",
-        "e": "the steadfast wise — as in mantra 2; those whose dhī (discerning insight) is unwavering"
+        "e": "the steadfast wise"
       },
       {
         "s": "प्रेत्य",
         "h": "इस लोक से जाने के बाद",
-        "e": "having departed from this world — gerund of pra+i; the recognition happens in life but the full fruit (immortality) is confirmed at departure"
+        "e": "having departed from this world"
       },
       {
         "s": "अमृताः भवन्ति",
         "h": "अमृत हो जाते हैं",
-        "e": "become immortal — as in mantra 2; bhavanti (present of bhū) + amṛtāḥ (nominative plural); the becoming is real, not merely symbolic"
+        "e": "become immortal"
       }
     ],
     "gr": "<strong>इह चेत् / न चेत्</strong> — a direct conditional pair (if / if not), creating stark urgency. The Upanishad does not speak of next lives or future opportunities: iha (here, now) is the arena of liberation. <strong>महती विनष्टिः</strong> — vinaṣṭiḥ (from vi+naś) is stronger than mere 'loss'; it implies complete dissolution of the opportunity. The adjective mahatī (feminine, agreeing with vinaṣṭiḥ) magnifies the stakes. <strong>भूतेषु भूतेषु</strong> — the reduplication of the locative is a Vedic idiom for universality: 'in each single being.' The dhīra does not recognise Brahman only in sacred spaces but in every existential encounter. <strong>विचित्य</strong> (from vi+ci) carries the sense of careful sifting, like separating gold from dross — an active contemplative practice, not a passive insight.",
-    "mt": "REVIEW_NEEDED: The metre is clearly not Anushtubh — each line is significantly longer. Possibly Jagati (12 syllables per pada) or Trishtubh variant; verify from Gambhirananda or Radhakrishnan · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.7",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -639,17 +639,17 @@
       {
         "s": "स यदि",
         "h": "यदि वह / जब वह",
-        "e": "if one — yadi marks the conditional; sa (he/one) is the subject"
+        "e": "if one"
       },
       {
         "s": "प्राणस्य प्राणम्",
         "h": "प्राण का प्राण",
-        "e": "the life of life — genitive chain as in mantra 2; adds prāṇa to the list"
+        "e": "the life of life"
       },
       {
         "s": "अन्नस्य अन्नम्",
         "h": "अन्न का अन्न",
-        "e": "the food of food — anna (food/matter) is here for the first time; Brahman sustains even the material ground"
+        "e": "the food of food"
       },
       {
         "s": "मनसो मनः",
@@ -659,26 +659,26 @@
       {
         "s": "विदुः",
         "h": "जानते हैं",
-        "e": "they know — 3rd plural perfect of vid; the perfect tense implies firm established knowledge"
+        "e": "they know"
       },
       {
         "s": "ते निचिक्युः",
         "h": "उन्होंने पहचाना / उन्होंने जाना",
-        "e": "they have recognised — nicikyu, perfect of ni+ci (to discern clearly, to recognise by discrimination); the same root as vicikitsā (doubt-free discrimination)"
+        "e": "they have recognised"
       },
       {
         "s": "ब्रह्म पुराणम्",
         "h": "पुरातन ब्रह्म",
-        "e": "Brahman, the ancient — purāṇa: that which existed before (pura) anything; the primordial ground"
+        "e": "Brahman, the ancient"
       },
       {
         "s": "अग्र्यम्",
         "h": "सर्वश्रेष्ठ / अग्रणी",
-        "e": "the foremost, the first — from agra (front, first); Brahman is first in the order of being, not merely first among equals"
+        "e": "the foremost, the first"
       }
     ],
     "gr": "<strong>अन्नस्य अन्नम्</strong> — the inclusion of anna (food/matter) in the genitive chain of mantra 2 is significant. Mantra 2 had ear, mind, speech, life, eye; here anna is added. Taittiriya 3 will later identify anna itself as Brahman ('annaṃ brahma'). Brahman is not just consciousness — it grounds matter too. <strong>निचिक्युः</strong> (perfect of ni+ci) — a rare perfect used here for its sense of completed, irreversible recognition: they have sifted through, discriminated, and firmly recognised. Unlike the imperfect or present, the perfect marks a state that does not revert. <strong>पुराणम् अग्र्यम्</strong> — two epithets: pūrāṇa (ancient, primordial) and agrya (foremost, primary). Together they place Brahman before and above everything in the chain of being — not as a remote first cause but as the living ground of the present moment.",
-    "mt": "REVIEW_NEEDED: This mantra appears to be in a different metre from the preceding ones — possibly a longer prose-verse transition form; some editions place this at the end of the verse section and others at the start of the prose; verify from Gambhirananda · Samaveda, Talavakāra Brāhmaṇa, Kena Upanishad 1.8",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "शंकराचार्य · Adi Shankaracharya",
@@ -722,38 +722,38 @@
     "en": "For Brahman indeed won this victory in battle. The gods became puffed up with pride in Brahman's victory. They thought: 'This victory is ours alone; this glory is ours alone.'",
     "ws": [
       {
-        "s": "ब्रह्मणः (brahmaṇaḥ)",
+        "s": "ब्रह्मणः",
         "h": "ब्रह्म के लिए / ब्रह्म की",
         "e": "of/for Brahman — genitive singular neuter"
       },
       {
-        "s": "युद्धे (yuddhe)",
+        "s": "युद्धे",
         "h": "युद्ध में",
-        "e": "in battle — locative singular neuter (< √yudh, to fight)"
+        "e": "in battle"
       },
       {
-        "s": "जयम् आयन् (jayam āyan)",
+        "s": "जयम् आयन्",
         "h": "जय प्राप्त हुई",
-        "e": "won victory — imperfect 3rd pl. of √i ('to attain')"
+        "e": "won victory"
       },
       {
-        "s": "अमहीयन्त (amahīyanta)",
+        "s": "अमहीयन्त",
         "h": "अभिमान से फूल उठे",
-        "e": "became puffed up — imperfect passive of √mah ('to magnify, be great')"
+        "e": "became puffed up"
       },
       {
-        "s": "ऐक्षन्त (aikṣanta)",
+        "s": "ऐक्षन्त",
         "h": "सोचने लगे",
-        "e": "they thought/perceived — imperfect middle of √īkṣ ('to see, think')"
+        "e": "they thought/perceived"
       },
       {
-        "s": "महिमा (mahimā)",
+        "s": "महिमा",
         "h": "महानता, गौरव",
-        "e": "greatness, glory — nominative singular masculine (< √mah)"
+        "e": "greatness, glory"
       }
     ],
     "gr": "<strong>brahmaṇo vā</strong> — 'for Brahman indeed': vā is an affirmative particle here, not a disjunction ('or'). <strong>tasyai brahmaṇo jaye</strong> — 'in that victory of Brahman': tasyai is locative feminine agreeing with jaye (locative of jaya, victory). <strong>amahīyanta</strong> — imperfect passive of √mah: the gods 'caused themselves to be magnified,' i.e., became inflated. <strong>aikṣanta</strong> — imperfect of √īkṣ in middle: 'they beheld within themselves,' i.e., thought.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_2.1 — Opens the prose narrative. The battle won by Brahman's power becomes the occasion for the gods' pride — the central spiritual obstacle this section teaches against.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -793,28 +793,28 @@
     "en": "Brahman perceived this in them. It appeared before them. They did not recognise it. 'What is this spirit (yakṣa)?'",
     "ws": [
       {
-        "s": "विजज्ञौ (vijajñau)",
+        "s": "विजज्ञौ",
         "h": "भलीभाँति जान लिया",
-        "e": "perceived clearly — perfect 3rd sg. of vi+√jñā ('to discern fully')"
+        "e": "perceived clearly"
       },
       {
-        "s": "प्रादुर्बभूव (prādurbabhūva)",
+        "s": "प्रादुर्बभूव",
         "h": "प्रकट हुआ",
-        "e": "appeared, became manifest — perfect of prādus+√bhū ('to come into view')"
+        "e": "appeared, became manifest"
       },
       {
-        "s": "न व्यजानत (na vyajānata)",
+        "s": "न व्यजानत",
         "h": "पहचाना नहीं",
-        "e": "did not recognise — imperfect negative of vi+√jñā ('to recognise, distinguish')"
+        "e": "did not recognise"
       },
       {
-        "s": "यक्ष (yakṣa)",
+        "s": "यक्ष",
         "h": "रहस्यमय अपूर्व सत्ता",
-        "e": "mysterious wonderful being — from √yakṣ (to be wondrous) or √yaj (to worship)"
+        "e": "mysterious wonderful being"
       }
     ],
     "gr": "<strong>tad dha</strong> — 'tad' refers back to the gods' pride; 'ha' is a narrative emphatic particle. <strong>vijajñau</strong> — perfect singular of vi+√jñā: vi- ('thoroughly') intensifies — Brahman 'fully discerned' the gods' state. <strong>prādurbabhūva</strong> — prādus (into the open) + babhūva (became): a standard Upanishadic compound for divine manifestation. <strong>kim idaṁ yakṣam</strong> — a nominal sentence: 'What is this [being]?' — the gods' question to each other.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_2.2 — Brahman's appearance as Yaksha is the pivot of the narrative. Non-recognition by the gods enacts the teaching of Part 1: the faculty that sees cannot see what enables it to see.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -854,28 +854,28 @@
     "en": "They said to Agni: 'O Jātaveda, find out what this spirit (yakṣa) is.' He replied: 'So be it.'",
     "ws": [
       {
-        "s": "अब्रुवन् (abruvan)",
+        "s": "अब्रुवन्",
         "h": "कहा, बोले",
         "e": "they said — imperfect 3rd pl. of √brū ('to speak')"
       },
       {
-        "s": "जातवेद (jātaveda)",
+        "s": "जातवेद",
         "h": "जातवेद — अग्नि का नाम",
-        "e": "O Jātaveda — vocative; epithet of Agni: 'knower of all that is born'"
+        "e": "O Jātaveda"
       },
       {
-        "s": "विजानीहि (vijānīhi)",
+        "s": "विजानीहि",
         "h": "जानो, पता लगाओ",
-        "e": "find out! — imperative 2nd sg. of vi+√jñā ('to discern thoroughly')"
+        "e": "find out!"
       },
       {
-        "s": "तथा इति (tathā iti)",
+        "s": "तथा इति",
         "h": "ठीक है, ऐसा ही होगा",
-        "e": "'So be it' — tathā (so, thus) + iti (quotation marker); the Vedic formula of assent"
+        "e": "'So be it'"
       }
     ],
     "gr": "<strong>jātaveda</strong> — vocative of jātavedas, Agni's most celebrated Vedic epithet: 'knowing (vedas) all that is born (jāta).' As fire, Agni is present at every birth, sacrifice, and death — the universal witness of temporal existence. <strong>vijānīhi</strong> — vi + jānīhi: the prefix vi- ('thoroughly, completely') intensifies the imperative: 'find out fully, investigate completely.' <strong>tathā iti</strong> — the formulaic Vedic response of assent.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_2.3 — Agni is the foremost of the gods, first responder in sacrifice and cosmic affairs. His failure will be the most dramatic possible refutation: even comprehensive worldly knowledge cannot know Brahman.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -915,33 +915,33 @@
     "en": "He (Agni) rushed toward it (the Yaksha). It addressed him: 'Who are you?' He replied: 'I am Agni, I am Jātaveda.'",
     "ws": [
       {
-        "s": "अभ्यद्रवत् (abhyadravat)",
+        "s": "अभ्यद्रवत्",
         "h": "दौड़ा, तेज़ी से गया",
-        "e": "rushed toward — imperfect of abhi+√dru ('to run toward')"
+        "e": "rushed toward"
       },
       {
-        "s": "अभ्यवदत् (abhyavadat)",
+        "s": "अभ्यवदत्",
         "h": "उससे बोला",
-        "e": "addressed him — imperfect of abhi+ava+√vad ('to speak to')"
+        "e": "addressed him"
       },
       {
-        "s": "कः असि (kaḥ asi)",
+        "s": "कः असि",
         "h": "तुम कौन हो",
-        "e": "'Who are you?' — kaḥ (who, nominative interrogative) + asi (you are, 2nd sg. of √as-)"
+        "e": "'Who are you?'"
       },
       {
-        "s": "अग्निः (agniḥ)",
+        "s": "अग्निः",
         "h": "अग्नि",
-        "e": "Agni — nominative singular; god of fire, sacrifice, and speech"
+        "e": "Agni"
       },
       {
-        "s": "जातवेदाः (jātavedāḥ)",
+        "s": "जातवेदाः",
         "h": "जातवेद — अग्नि का वैदिक नाम",
-        "e": "Jātaveda — 'knower of all born'; nominative singular, second epithet"
+        "e": "Jātaveda"
       }
     ],
     "gr": "<strong>abhyadravat</strong> — abhi ('toward') + dru ('to run'): the imperfect records confident, urgent motion. <strong>abhyavadat</strong> — the Yaksha speaks first: abhi+ava+vad, 'to address from before.' <strong>ko'sīti</strong> — sandhi of kaḥ + asi + iti: the Yaksha's single question. <strong>agnir vā aham asmi</strong> — 'vā' is emphatic here ('indeed, certainly'), not disjunctive. The double identification — Agni, then Jātaveda — underlines Agni's confidence in his identity.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_2.4 — The Yaksha's first question 'Who are you?' inverts the expected encounter. Agni was sent to identify the Yaksha; instead the Yaksha asks Agni to identify himself — the classic Upanishadic turn from outer inquiry to self-inquiry.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -981,28 +981,28 @@
     "en": "'What power is in you?' asked the Yaksha. 'I can burn all this that exists on earth,' replied Agni.",
     "ws": [
       {
-        "s": "वीर्यम् (vīryam)",
+        "s": "वीर्यम्",
         "h": "शक्ति, बल, पराक्रम",
-        "e": "power, heroic capacity — neuter nominative; from √vīr ('to be strong')"
+        "e": "power, heroic capacity"
       },
       {
-        "s": "दहेयम् (daheyam)",
+        "s": "दहेयम्",
         "h": "जला सकता हूँ",
-        "e": "I could burn — potential (liṅ) 1st sg. of √dah ('to burn, consume')"
+        "e": "I could burn"
       },
       {
-        "s": "सर्वम् (sarvam)",
+        "s": "सर्वम्",
         "h": "सब कुछ",
-        "e": "all, everything — accusative singular neuter; with idaṁ = 'all this'"
+        "e": "all, everything"
       },
       {
-        "s": "पृथिव्याम् (pṛthivyām)",
+        "s": "पृथिव्याम्",
         "h": "पृथ्वी पर",
-        "e": "on earth — locative singular feminine (< pṛthivī, 'the broad one')"
+        "e": "on earth"
       }
     ],
     "gr": "<strong>tasmin tvayī kim vīryam</strong> — 'in you, in that [power] of yours, what capacity?' The locative 'tasmin tvayī' asks about inherent potential. <strong>daheyam</strong> — potential mood (optative/liṅ): 'I could burn' — a claim of capability, not past action. <strong>yad idaṁ pṛthivyām</strong> — 'whatever this is on earth': yad (relative pronoun) + idaṁ (this) + pṛthivyām (locative) — a sweeping universal claim.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_2.5 — The power-exchange (vīrya-praśna) sets up the grass test. Agni's claim — 'I can burn everything on earth' — is the ego's natural response to challenge: maximum assertion of capability.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1042,38 +1042,38 @@
     "en": "The Yaksha placed a blade of grass before him, saying: 'Burn this.' He rushed at it with full speed. He was unable to burn it. He returned from that very spot: 'I could not find out what this spirit (yakṣa) is.'",
     "ws": [
       {
-        "s": "तृणम् (tṛṇam)",
+        "s": "तृणम्",
         "h": "तृण, घास का तिनका",
-        "e": "blade of grass — neuter accusative; the simplest, most trivial object"
+        "e": "blade of grass"
       },
       {
-        "s": "निदधौ (nidadhau)",
+        "s": "निदधौ",
         "h": "रखा, स्थापित किया",
-        "e": "placed — perfect 3rd sg. of ni+√dhā ('to lay down, place')"
+        "e": "placed"
       },
       {
-        "s": "सर्वेण जवेन (sarveṇa javena)",
+        "s": "सर्वेण जवेन",
         "h": "पूरी गति से",
-        "e": "with full speed — instrumental of sarva (all) + java (swiftness, velocity)"
+        "e": "with full speed"
       },
       {
-        "s": "न शशाक (na śaśāka)",
+        "s": "न शशाक",
         "h": "नहीं कर सका",
-        "e": "was unable — negative perfect of √śak ('to be able, to have power')"
+        "e": "was unable"
       },
       {
-        "s": "दग्धुम् (dagdhum)",
+        "s": "दग्धुम्",
         "h": "जलाने को",
         "e": "to burn — infinitive of √dah"
       },
       {
-        "s": "निववृते (nivavṛte)",
+        "s": "निववृते",
         "h": "लौट आया",
         "e": "returned — perfect of ni+√vṛt ('to turn back')"
       }
     ],
     "gr": "<strong>tṛṇaṁ nidadhau</strong> — 'placed a blade of grass': tṛṇa is the most insignificant object possible, chosen deliberately. <strong>etad daha iti</strong> — bare imperative: 'Burn this!' <strong>sarveṇa javena</strong> — instrumental of manner showing maximum effort. <strong>na śaśāka dagdhum</strong> — perfect of √śak with infinitive: 'was not able to burn.' <strong>tata eva nivavṛte</strong> — 'from that very spot returned': eva (emphatic) shows Agni turned back immediately, without proceeding further.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_2.6 — The grass-test is among the most memorable moments in all of Vedanta: the mightiest cosmic power — fire itself — cannot burn a single blade of grass when Brahman withholds its enabling presence.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1113,23 +1113,23 @@
     "en": "Then they said to Vayu: 'O Vayu, find out what this spirit (yakṣa) is.' 'So be it.' He (Vayu) rushed toward it. It addressed him: 'Who are you?' He replied: 'I am Vayu, I am Mātariśvan.'",
     "ws": [
       {
-        "s": "अथ (atha)",
+        "s": "अथ",
         "h": "तत्पश्चात्, इसके बाद",
-        "e": "then, thereupon — transitional particle marking the shift to the second test"
+        "e": "then, thereupon"
       },
       {
-        "s": "वायु (vāyu)",
+        "s": "वायु",
         "h": "वायु, पवन, प्राण-शक्ति",
-        "e": "Vayu — god of wind, breath, and cosmic life-force (< √vā, to blow)"
+        "e": "Vayu"
       },
       {
-        "s": "मातरिश्वा (mātariśvā)",
+        "s": "मातरिश्वा",
         "h": "मातरिश्वन् — वायु का वैदिक नाम",
-        "e": "Mātariśvan — Vedic epithet of Vayu: 'he who swelled or grew in the cosmic mother (atmosphere)'"
+        "e": "Mātariśvan"
       }
     ],
     "gr": "<strong>atha</strong> — marks the narrative transition from Agni's failure to Vayu's attempt. <strong>vāyo</strong> — vocative of vāyu: 'O Vayu!' <strong>mātariśvā</strong> — voc./nom. of mātariśvan, a Vedic epithet of Vayu meaning 'the breath that fills the cosmic atmosphere (mātari = in the mother).' Like Agni's 'Jātaveda,' this is Vayu's grandest title. <strong>vā aham asmi</strong> — emphatic 'I am indeed': the same pattern as Agni's double self-identification.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_2.7–2.8 — The repetition is deliberate: a second cosmic power is tested using the identical pattern. Repetition confirms the teaching is structural, not incidental to Agni alone.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1169,23 +1169,23 @@
     "en": "'What power is in you?' 'I can carry away all this that exists on earth.' The Yaksha placed a blade of grass before him: 'Carry this away.' He rushed at it with full speed. He was unable to move it. He returned from that very spot: 'I could not find out what this spirit (yakṣa) is.'",
     "ws": [
       {
-        "s": "आददीय (ādadīya)",
+        "s": "आददीय",
         "h": "उठा सकता हूँ, ले जा सकता हूँ",
-        "e": "I could carry away — potential (liṅ) 1st sg. of ā+√dā ('to take up, carry away')"
+        "e": "I could carry away"
       },
       {
-        "s": "आददस्व (ādadasva)",
+        "s": "आददस्व",
         "h": "इसे उठाओ",
-        "e": "carry this away! — imperative 2nd sg. middle of ā+√dā"
+        "e": "carry this away!"
       },
       {
-        "s": "नाशकम् आदातुम् (nāśakam ādātum)",
+        "s": "नाशकम् आदातुम्",
         "h": "उड़ा / हिला नहीं सका",
-        "e": "was unable to carry — na + aśakam (neg. aorist of √śak) + ādātum (infinitive of ā+√dā)"
+        "e": "was unable to carry"
       }
     ],
     "gr": "<strong>ādadīya</strong> — potential mood (liṅ) of ā+√dā: mirrors Agni's 'daheyam' exactly — the same grammatical form, a parallel claim of capability. <strong>ādadasva</strong> — imperative middle 2nd sg.: 'pick it up for yourself!' Contrasts with Agni's 'daha' (active imperative): the grammar subtly varies while the test is identical. <strong>nāśakam ādātum</strong> — same defeat formula as Agni's 'na śaśāka dagdhum': unable to carry, just as Agni was unable to burn.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.1 (begins Third Khanda) — Vayu's failure mirrors Agni's precisely. The double failure of fire and wind establishes beyond doubt that Brahman's enabling presence is the ground of all natural power. The next movement: Indra approaches the Yaksha — and it vanishes.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1225,33 +1225,33 @@
     "en": "Then they said to Indra: 'O Maghavan, find out what this spirit (yakṣa) is.' He replied: 'So be it.'",
     "ws": [
       {
-        "s": "अथ (atha)",
+        "s": "अथ",
         "h": "तत्पश्चात्, तब",
-        "e": "then — transitional particle; marks the shift to the third and final test"
+        "e": "then"
       },
       {
-        "s": "इन्द्रम् (indram)",
+        "s": "इन्द्रम्",
         "h": "इन्द्र को",
-        "e": "to Indra — accusative singular; king of the gods, lord of the mind-faculty"
+        "e": "to Indra"
       },
       {
-        "s": "मघवन् (maghavan)",
+        "s": "मघवन्",
         "h": "हे उदार, हे मघवन्!",
-        "e": "O bountiful one! — vocative of maghavat, Indra's epithet meaning 'the generous, the mighty'"
+        "e": "O bountiful one!"
       },
       {
-        "s": "विजानीहि (vijānīhi)",
+        "s": "विजानीहि",
         "h": "पता लगाओ, विशेष रूप से जानो",
-        "e": "find out! — imperative 2nd sg. of vi+√jñā ('to discern thoroughly')"
+        "e": "find out!"
       },
       {
-        "s": "तथा इति (tathā iti)",
+        "s": "तथा इति",
         "h": "ऐसा ही होगा",
-        "e": "'So be it' — the formulaic Vedic assent, same as Agni's and Vayu's"
+        "e": "'So be it'"
       }
     ],
     "gr": "<strong>atha</strong> — the third 'atha' in the narrative (Agni, Vayu, now Indra), each introducing a new test. <strong>maghavan</strong> — vocative of maghavat; unlike Agni's 'Jātaveda' and Vayu's 'Vāyo,' this epithet means 'the bountiful, the generous giver' — emphasising Indra's role as the lord who bestows. <strong>vijānīhi</strong> — identical imperative as given to Agni and Vayu: the test-format is structurally the same, which will make Indra's different outcome all the more significant.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.1 — The third sending follows the identical pattern as Agni and Vayu, but the outcome will diverge: the Yaksha vanishes before Indra can even speak to it. The mind (Indra) comes closest but cannot arrive at Brahman through its own investigation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1291,23 +1291,23 @@
     "en": "He (Indra) rushed toward it. It vanished from before him.",
     "ws": [
       {
-        "s": "अभ्यद्रवत् (abhyadravat)",
+        "s": "अभ्यद्रवत्",
         "h": "दौड़ा, तीव्र गति से गया",
-        "e": "rushed toward — imperfect of abhi+√dru ('to run toward'); same verb used for Agni and Vayu"
+        "e": "rushed toward"
       },
       {
-        "s": "तस्मात् (tasmāt)",
+        "s": "तस्मात्",
         "h": "उसके (इन्द्र के) सम्मुख से",
-        "e": "from before him — ablative singular: 'away from him'"
+        "e": "from before him"
       },
       {
-        "s": "तिरोदधे (tirodadhe)",
+        "s": "तिरोदधे",
         "h": "अन्तर्धान हो गया, छिप गया",
-        "e": "vanished — perfect middle of tiras+√dhā ('to place beyond sight, make invisible')"
+        "e": "vanished"
       }
     ],
     "gr": "<strong>abhyadravat</strong> — the same verb used for Agni (mantra 12) and Vayu (mantra 15): the narrative structure is identical up to this exact point. <strong>tirodadhe</strong> — tiras ('across, beyond') + √dhā ('to place'): literally 'placed itself beyond.' The middle voice indicates the Yaksha removes itself. This is the narrative rupture — where Agni and Vayu received a challenge ('Burn this!' / 'Carry this!'), Indra receives absence.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.2 — The shortest and most profound moment of the entire narrative. The Yaksha's vanishing is the teaching itself: Brahman cannot be an object of the investigating mind. Where Agni and Vayu were tested and failed, Indra is denied even the opportunity to be tested.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1347,33 +1347,33 @@
     "en": "In that very space he came upon a woman of exceeding radiance — Uma Haimavati.",
     "ws": [
       {
-        "s": "तस्मिन् एव आकाशे (tasmin eva ākāśe)",
+        "s": "तस्मिन् एव आकाशे",
         "h": "उसी आकाश/रिक्त स्थान में",
-        "e": "in that very space — locative: the same place where the Yaksha stood and vanished"
+        "e": "in that very space"
       },
       {
-        "s": "स्त्रियम् (striyam)",
+        "s": "स्त्रियम्",
         "h": "स्त्री को, एक नारी को",
-        "e": "a woman — accusative singular feminine (< strī, 'woman')"
+        "e": "a woman"
       },
       {
-        "s": "आजगाम (ājagāma)",
+        "s": "आजगाम",
         "h": "उसने प्राप्त किया, उसे पाया",
-        "e": "he came upon, encountered — perfect of ā+√gam ('to come to, arrive at')"
+        "e": "he came upon, encountered"
       },
       {
-        "s": "बहुशोभमानाम् (bahuśobhamānām)",
+        "s": "बहुशोभमानाम्",
         "h": "अत्यन्त शोभायमान, अतिसुन्दर",
-        "e": "exceedingly radiant — accusative feminine present participle of bahu+√śubh ('to shine greatly')"
+        "e": "exceedingly radiant"
       },
       {
-        "s": "उमाम् हैमवतीम् (umām haimavatīm)",
+        "s": "उमाम् हैमवतीम्",
         "h": "उमा हैमवती — हिमालय की पुत्री",
-        "e": "Uma Haimavati — accusative; daughter of Himavat (the Himalayas); identified with Brahmavidyā (knowledge of Brahman)"
+        "e": "Uma Haimavati"
       }
     ],
     "gr": "<strong>tasmin eva ākāśe</strong> — 'in that very space': the 'eva' is emphatic — the exact space where the Yaksha stood. Ākāśa here means both 'open space' and 'the space of consciousness.' <strong>bahuśobhamānām</strong> — present participle of bahu+√śubh: 'shining greatly, exceedingly radiant.' The active participle (-mānā) means her radiance is ongoing, self-luminous — not a reflected beauty. <strong>umām haimavatīm</strong> — two accusatives in apposition: 'Uma' (her name, possibly from √u = 'Oh!', a cry of illumination) and 'Haimavati' (patronymic: 'daughter of Himavat, the snow-mountain').",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.3 — This is the pivotal verse of the entire Kena Upanishad: in the space where Brahman-as-object vanished, Brahman-as-grace appears in the form of Uma Haimavati. The commentarial traditions diverge sharply on who Uma is — Shankara sees Brahmavidyā personified, Ramanuja sees Lakshmi/Shakti, Aurobindo sees the intuitive consciousness beyond mind.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1417,23 +1417,23 @@
     "en": "He (Indra) said to her: 'What was that spirit (yakṣa)?'",
     "ws": [
       {
-        "s": "ताम् (tām)",
+        "s": "ताम्",
         "h": "उनसे (उमा से)",
-        "e": "to her — accusative singular feminine pronoun, referring to Uma"
+        "e": "to her"
       },
       {
-        "s": "ह उवाच (ha uvāca)",
+        "s": "ह उवाच",
         "h": "उसने कहा",
-        "e": "he said — ha (emphatic particle) + uvāca (perfect of √vac, 'to speak'); narrative formula"
+        "e": "he said"
       },
       {
-        "s": "किम् एतद् यक्षम् (kim etad yakṣam)",
+        "s": "किम् एतद् यक्षम्",
         "h": "वह यक्ष क्या था?",
-        "e": "'What was this Yaksha?' — etad (demonstrative: 'this/that') shows Indra refers to the being that was present and has now vanished"
+        "e": "'What was this Yaksha?'"
       }
     ],
     "gr": "<strong>tāṁ ha uvāca</strong> — the standard Upanishadic narrative formula for introducing a question: 'to her, verily, he said.' <strong>kim etad yakṣam</strong> — identical question to the gods' original in mantra 10, but now asked by Indra alone, and not to the Yaksha but to Uma. The shift in addressee is the entire story: the mind that sought Brahman directly now asks the mediating power of knowledge.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.4 — Indra's question is the hinge between ignorance and knowledge. He asks the right question ('What was that Yaksha?') to the right person (Uma/brahmavidyā). The shift from investigating an object to asking a teacher is the movement from upāsanā to jñāna.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1473,28 +1473,28 @@
     "en": "She said: 'It was Brahman.'",
     "ws": [
       {
-        "s": "सा (sā)",
+        "s": "सा",
         "h": "उन्होंने (उमा ने)",
-        "e": "she — nominative singular feminine pronoun, referring to Uma Haimavati"
+        "e": "she"
       },
       {
-        "s": "ब्रह्म (brahma)",
+        "s": "ब्रह्म",
         "h": "ब्रह्म — परम सत्ता",
-        "e": "Brahman — nominative/accusative neuter; the Absolute, the ultimate Reality"
+        "e": "Brahman"
       },
       {
-        "s": "इति (iti)",
+        "s": "इति",
         "h": "ऐसा (उद्धरण-चिह्न)",
         "e": "'thus' — quotation marker closing Uma's statement"
       },
       {
-        "s": "ह उवाच (ha uvāca)",
+        "s": "ह उवाच",
         "h": "कहा",
-        "e": "she said — narrative formula (ha = emphatic; uvāca = perfect of √vac)"
+        "e": "she said"
       }
     ],
     "gr": "<strong>sā brahma iti ha uvāca</strong> — the entire mantra is four words, the most compressed revelation in the Upanishads. <strong>sā</strong> — 'she': Uma speaks with authority; the subject comes first. <strong>brahma iti</strong> — 'It is Brahman': no elaboration, no qualification, no proof offered. The bare nominative 'brahma' is the answer — not 'a form of Brahman' or 'related to Brahman' but simply, absolutely: Brahman.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.5 — The most compact and decisive statement in the Kena Upanishad: 'sā brahma iti ha uvāca.' In four words Uma Haimavati reveals what no god could discover through investigation — the identity of the Yaksha as Brahman itself.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1534,28 +1534,28 @@
     "en": "'In Brahman's victory indeed you became great.'",
     "ws": [
       {
-        "s": "ब्रह्मणः (brahmaṇaḥ)",
+        "s": "ब्रह्मणः",
         "h": "ब्रह्म की",
-        "e": "of Brahman — genitive singular neuter; the victory belongs to Brahman, not to the gods"
+        "e": "of Brahman"
       },
       {
-        "s": "विजये (vijaye)",
+        "s": "विजये",
         "h": "विजय में",
-        "e": "in the victory — locative singular masculine (< vi+√ji, 'to conquer completely')"
+        "e": "in the victory"
       },
       {
-        "s": "महीयध्वम् (mahīyadhvam)",
+        "s": "महीयध्वम्",
         "h": "तुम महान् हुए, तुमने गौरव प्राप्त किया",
-        "e": "you became exalted — imperative/injunctive 2nd pl. middle of √mah ('to be great'); or interpreted as past indicative: 'you gloried'"
+        "e": "you became exalted"
       },
       {
-        "s": "वा (vā)",
+        "s": "वा",
         "h": "निश्चय ही",
         "e": "indeed — emphatic particle (not disjunctive 'or')"
       }
     ],
     "gr": "<strong>brahmaṇo vijaye</strong> — 'in Brahman's victory': the genitive 'brahmaṇaḥ' attributes the victory entirely to Brahman. This directly corrects the gods' original claim in mantra 9: 'asmākam eva ayaṁ vijayaḥ' ('this victory is ours alone'). <strong>mahīyadhvam</strong> — 2nd pl. middle: 'you (all) became great / gloried' — Uma addresses all the gods through Indra, not Indra alone. The word echoes 'amahīyanta' from mantra 9, closing the circle: the gods 'puffed themselves up' (amahīyanta); Uma says 'you were made great' (mahīyadhvam) — by Brahman, not by yourselves.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.6 — Uma's second statement completes her teaching: not only identifying the Yaksha as Brahman but correcting the gods' fundamental error. The victory was Brahman's; the greatness was Brahman's gift; the pride was misattribution.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1595,28 +1595,28 @@
     "en": "From that (Uma's words) alone, he (Indra) knew it was Brahman.",
     "ws": [
       {
-        "s": "ततः (tataḥ)",
+        "s": "ततः",
         "h": "उससे, उसी से",
-        "e": "from that — ablative: 'from that statement / from that teaching'"
+        "e": "from that"
       },
       {
-        "s": "ह एव (ha eva)",
+        "s": "ह एव",
         "h": "निश्चय ही",
-        "e": "indeed, certainly — double emphatic: 'truly, from that alone'"
+        "e": "indeed, certainly"
       },
       {
-        "s": "विदांचकार (vidāṁcakāra)",
+        "s": "विदांचकार",
         "h": "जान लिया, बोध हुआ",
-        "e": "he knew — periphrastic perfect of √vid ('to know'); a formal, weighty expression of completed knowledge"
+        "e": "he knew"
       },
       {
-        "s": "ब्रह्म इति (brahma iti)",
+        "s": "ब्रह्म इति",
         "h": "'यह ब्रह्म है' ऐसा",
-        "e": "'It is Brahman' — the content of Indra's realisation, echoing Uma's own words"
+        "e": "'It is Brahman'"
       }
     ],
     "gr": "<strong>tataḥ ha eva</strong> — 'from that alone, indeed': the double emphasis (ha + eva) stresses that Uma's teaching was the sole and sufficient cause of Indra's knowledge. <strong>vidāṁcakāra</strong> — periphrastic perfect of √vid: 'vidām' (knowledge-accusative) + 'cakāra' (made) = 'he made knowledge,' i.e., 'he came to know fully.' This is a strong, formal expression — not a tentative understanding but a completed act of knowing. <strong>brahma iti</strong> — the content of the knowledge is identical to Uma's statement: Indra does not reinterpret or elaborate; he receives it as given.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.7 — The moment of realisation: Indra knows Brahman — not through his own investigation but through Uma's teaching (śabda-pramāṇa). The periphrastic perfect 'vidāṁcakāra' signals completed, final knowledge.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1656,28 +1656,28 @@
     "en": "Therefore these gods — Agni, Vayu, and Indra — somewhat surpass the other gods.",
     "ws": [
       {
-        "s": "तस्मात् (tasmāt)",
+        "s": "तस्मात्",
         "h": "इसलिए",
-        "e": "therefore — ablative used as causal conjunction: 'because of that'"
+        "e": "therefore"
       },
       {
-        "s": "अतितराम् (atitarām)",
+        "s": "अतितराम्",
         "h": "अधिक, विशेष रूप से",
-        "e": "exceedingly, more — comparative adverb (< ati, beyond)"
+        "e": "exceedingly, more"
       },
       {
-        "s": "इव (iva)",
+        "s": "इव",
         "h": "मानो, जैसे, कुछ-कुछ",
-        "e": "'as it were, somewhat' — a softening particle; the surpassing is 'as it were,' not absolute"
+        "e": "'as it were, somewhat'"
       },
       {
-        "s": "अन्यान् देवान् (anyān devān)",
+        "s": "अन्यान् देवान्",
         "h": "अन्य देवताओं को",
-        "e": "the other gods — accusative plural; the gods who did not approach the Yaksha at all"
+        "e": "the other gods"
       }
     ],
     "gr": "<strong>tasmād vā</strong> — causal 'therefore': drawing the consequence from the narrative. <strong>atitarām iva</strong> — 'as it were, somewhat more': the 'iva' softens the comparison — Shankara reads it as indicating a relative, not absolute, superiority. <strong>yad agnir vāyur indraḥ</strong> — 'namely Agni, Vayu, and Indra': yad here means 'that is to say'; the three are named together as a group distinguished from the rest of the gods.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.8 — The Upanishad draws the first moral: proximity to Brahman (even failed proximity) elevates. The three gods who approached the Yaksha are greater than those who never tried. The qualifier 'iva' (as it were) prevents this from becoming a rigid hierarchy.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1717,43 +1717,43 @@
     "en": "For they touched it (Brahman) nearest. For they first knew: 'It is Brahman.'",
     "ws": [
       {
-        "s": "ते (te)",
+        "s": "ते",
         "h": "वे (अग्नि, वायु, इन्द्र)",
-        "e": "they — nominative plural: the three gods named in the previous mantra"
+        "e": "they"
       },
       {
-        "s": "हि (hi)",
+        "s": "हि",
         "h": "क्योंकि",
-        "e": "for, because — causal particle explaining why they surpass"
+        "e": "for, because"
       },
       {
-        "s": "एनत् (enat)",
+        "s": "एनत्",
         "h": "इसे (ब्रह्म को)",
         "e": "it (Brahman) — accusative singular neuter pronoun"
       },
       {
-        "s": "नेदिष्ठम् (nediṣṭham)",
+        "s": "नेदिष्ठम्",
         "h": "सबसे निकट",
-        "e": "nearest — superlative of neda ('near'); 'most closely'"
+        "e": "nearest"
       },
       {
-        "s": "पस्पर्शुः (pasparśuḥ)",
+        "s": "पस्पर्शुः",
         "h": "स्पर्श किया, छुआ",
-        "e": "they touched — perfect 3rd pl. of √spṛś ('to touch, come into contact with')"
+        "e": "they touched"
       },
       {
-        "s": "प्रथमाः (prathamāḥ)",
+        "s": "प्रथमाः",
         "h": "सबसे पहले",
-        "e": "first — nominative plural adjective; they were the first among all gods"
+        "e": "first"
       },
       {
-        "s": "विदांचक्रुः (vidāṁcakruḥ)",
+        "s": "विदांचक्रुः",
         "h": "जाना, बोध किया",
-        "e": "they knew — periphrastic perfect 3rd pl. of √vid ('to know'); plural of vidāṁcakāra from mantra 23"
+        "e": "they knew"
       }
     ],
     "gr": "<strong>nediṣṭham pasparśuḥ</strong> — 'they touched nearest': nediṣṭham is the superlative of neda; pasparśuḥ is the perfect of √spṛś. The metaphor of 'touching' rather than 'seeing' or 'hearing' implies direct, unmediated contact. <strong>prathamā vidāṁcakruḥ</strong> — 'they first knew': the same periphrastic perfect as Indra's 'vidāṁcakāra' (mantra 23) but in the plural, extending the knowledge to all three. <strong>brahma iti</strong> — the knowledge-content is identical in every case: 'Brahman' — no variation, no personal interpretation.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.9–3.10 — Two reasons for the three gods' eminence: proximity (sparśa, touch) and priority (prathama, first). Both are relational, not intrinsic — they are great because of their relation to Brahman, not in themselves.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1793,23 +1793,23 @@
     "en": "Therefore Indra somewhat surpasses the other gods even more.",
     "ws": [
       {
-        "s": "तस्मात् (tasmāt)",
+        "s": "तस्मात्",
         "h": "इसलिए",
-        "e": "therefore — causal ablative, drawing a further conclusion"
+        "e": "therefore"
       },
       {
-        "s": "इन्द्रः (indraḥ)",
+        "s": "इन्द्रः",
         "h": "इन्द्र",
-        "e": "Indra — nominative singular; now singled out from the triad"
+        "e": "Indra"
       },
       {
-        "s": "अतितराम् इव (atitarām iva)",
+        "s": "अतितराम् इव",
         "h": "और भी अधिक, मानो",
-        "e": "'somewhat more, as it were' — same softened comparative as mantra 24, but now applied to Indra alone"
+        "e": "'somewhat more, as it were'"
       }
     ],
     "gr": "<strong>tasmād vā indraḥ</strong> — 'therefore Indra': the argument narrows from the triad (Agni-Vayu-Indra) to Indra alone. <strong>atitarām iva anyān devān</strong> — same construction as mantra 24, but now Indra surpasses even Agni and Vayu, not just the unnamed other gods. The 'iva' again softens the claim — Indra's pre-eminence is 'as it were,' relative, not absolute.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.11 — Within the triad, Indra is singled out as the highest. The next mantra will explain why — he touched Brahman nearest and knew it first. This establishes the mind (Indra) as the faculty closest to Brahman-realisation, even though it cannot reach Brahman by its own power.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1849,33 +1849,33 @@
     "en": "For he touched it (Brahman) nearest.",
     "ws": [
       {
-        "s": "सः (saḥ)",
+        "s": "सः",
         "h": "उसने (इन्द्र ने)",
-        "e": "he — nominative singular masculine, referring to Indra alone (not the triad)"
+        "e": "he"
       },
       {
-        "s": "हि (hi)",
+        "s": "हि",
         "h": "क्योंकि",
         "e": "for, because — causal particle"
       },
       {
-        "s": "एनत् (enat)",
+        "s": "एनत्",
         "h": "इसे (ब्रह्म को)",
-        "e": "it — accusative neuter pronoun referring to Brahman"
+        "e": "it"
       },
       {
-        "s": "नेदिष्ठम् (nediṣṭham)",
+        "s": "नेदिष्ठम्",
         "h": "सबसे निकट",
-        "e": "nearest — superlative of neda; same word as mantra 25 but now referring to Indra alone"
+        "e": "nearest"
       },
       {
-        "s": "पस्पृशे (paspṛśe)",
+        "s": "पस्पृशे",
         "h": "स्पर्श किया",
-        "e": "he touched — perfect middle 3rd sg. of √spṛś ('to touch, contact'); middle voice suggests intimacy of contact"
+        "e": "he touched"
       }
     ],
     "gr": "<strong>sa hi enat nediṣṭhaṁ paspṛśe</strong> — almost identical to the plural in mantra 25 ('te hi enat nediṣṭhaṁ pasparśuḥ'), but with two changes: the subject shifts from plural (te, they) to singular (sa, he = Indra), and the verb shifts from active perfect (pasparśuḥ) to <em>middle</em> perfect (paspṛśe). The middle voice subtly suggests that Indra's touching was more intimate, more inward — an experience that affected him at his core, not merely a contact from the outside.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.12a — The shift from active voice (for the triad) to middle voice (for Indra alone) is a grammatical marker of deeper intimacy. Indra's 'touch' of Brahman was transformative: not just contact but participation.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1915,33 +1915,33 @@
     "en": "For he first knew: 'It is Brahman.'",
     "ws": [
       {
-        "s": "सः (saḥ)",
+        "s": "सः",
         "h": "उसने (इन्द्र ने)",
         "e": "he — nominative singular, Indra"
       },
       {
-        "s": "हि (hi)",
+        "s": "हि",
         "h": "क्योंकि",
         "e": "for, because — causal particle"
       },
       {
-        "s": "प्रथमः (prathamaḥ)",
+        "s": "प्रथमः",
         "h": "सबसे पहले",
-        "e": "first — nominative singular (not plural prathamāḥ as in mantra 25); Indra alone, not the triad"
+        "e": "first"
       },
       {
-        "s": "विदांचकार (vidāṁcakāra)",
+        "s": "विदांचकार",
         "h": "जाना",
-        "e": "he knew — periphrastic perfect of √vid; the third time this decisive verb appears (mantras 23, 25, 28)"
+        "e": "he knew"
       },
       {
-        "s": "ब्रह्म इति (brahma iti)",
+        "s": "ब्रह्म इति",
         "h": "'यह ब्रह्म है'",
-        "e": "'It is Brahman' — the unchanged content of the revelation"
+        "e": "'It is Brahman'"
       }
     ],
     "gr": "<strong>sa hi enat prathamaḥ vidāṁcakāra brahma iti</strong> — the closing statement of Part 3, recapitulating Indra's primacy. <strong>prathamaḥ</strong> — singular, not plural: Indra alone is 'first.' The verb <strong>vidāṁcakāra</strong> appears for the third time in this Part: first for Indra alone (mantra 23), then for all three gods (mantra 25, plural vidāṁcakruḥ), now again for Indra alone (mantra 28). The Part opens with 'tathā iti' (Indra's assent to search) and closes with 'brahma iti' (Indra's knowledge of what he sought) — a complete arc from ignorance through failure to recognition.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_3.12b — The closing of Part 3. The triple repetition of 'vidāṁcakāra brahma iti' (mantras 23, 25, 28) functions as a mantra within the prose — drumming the essential teaching: Brahman was known, first, by Indra, through grace. Part 4 will draw out the practical implications.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -1981,38 +1981,38 @@
     "en": "Its teaching is this: it is as if lightning flashed — Ah! It is as if the eye winked — Ah! This is with reference to the gods (adhidaivatam).",
     "ws": [
       {
-        "s": "आदेशः (ādeśaḥ)",
+        "s": "आदेशः",
         "h": "शिक्षा, निर्देश, उपदेश",
-        "e": "teaching, illustration, pointer — from ā+√diś ('to point out'); the analogy that teaches"
+        "e": "teaching, illustration, pointer"
       },
       {
-        "s": "विद्युतः (vidyutaḥ)",
+        "s": "विद्युतः",
         "h": "विद्युत् की, बिजली की",
-        "e": "of lightning — genitive singular feminine (< vidyut, lightning)"
+        "e": "of lightning"
       },
       {
-        "s": "व्यद्युतत् (vyadyutat)",
+        "s": "व्यद्युतत्",
         "h": "चमकी, दीप्त हुई",
-        "e": "flashed — aorist 3rd sg. of vi+√dyut ('to flash, blaze forth')"
+        "e": "flashed"
       },
       {
-        "s": "आ (ā)",
+        "s": "आ",
         "h": "आ! — विस्मय-बोधक",
-        "e": "'Ah!' — exclamation of sudden wonder; the sound of instantaneous recognition"
+        "e": "'Ah!'"
       },
       {
-        "s": "निमिषत् (nimiṣat)",
+        "s": "निमिषत्",
         "h": "झपकी, पलक मारी",
-        "e": "winked — present participle or aorist of ni+√miṣ ('to close the eyes, wink')"
+        "e": "winked"
       },
       {
-        "s": "अधिदैवतम् (adhidaivatam)",
+        "s": "अधिदैवतम्",
         "h": "देवताओं के सन्दर्भ में",
-        "e": "with reference to the gods — adverbial: the cosmic/divine application of the analogy"
+        "e": "with reference to the gods"
       }
     ],
     "gr": "<strong>ādeśaḥ</strong> — from ā+√diś ('to point toward'): not a definition but a pointer, an analogy that directs attention toward something that cannot be directly described. <strong>vyadyutat</strong> — aorist of vi+√dyut: the aorist tense captures the instantaneous, once-and-done flash — not a sustained glow but a single strike. <strong>ā</strong> — the exclamation is part of the teaching: the 'Ah!' of sudden illumination is itself the experience of recognising Brahman. <strong>in nimiṣat</strong> — 'in' is a Vedic particle (emphatic); nimiṣat from ni+√miṣ: the wink is involuntary, instantaneous — like the lightning, it happens before deliberation.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.1 — The lightning-and-wink metaphor opens Part 4 with two analogies for how Brahman is 'known': not through sustained reasoning but through a sudden flash of recognition — instantaneous, self-luminous, gone before the mind can grasp it.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -2052,33 +2052,33 @@
     "en": "Now with reference to the Self (adhyātmam): that by which the mind seems to go to Brahman again and again — and by this will one constantly remembers it — that intention (saṁkalpa).",
     "ws": [
       {
-        "s": "अध्यात्मम् (adhyātmam)",
+        "s": "अध्यात्मम्",
         "h": "आत्मा / व्यक्ति के सन्दर्भ में",
-        "e": "with reference to the Self — the individual/subjective counterpart of the cosmic analogy"
+        "e": "with reference to the Self"
       },
       {
-        "s": "गच्छति इव (gacchati iva)",
+        "s": "गच्छति इव",
         "h": "जैसे जाता है",
-        "e": "'seems to go' — iva (as if) softens: the mind does not literally travel to Brahman but moves toward it as toward a magnet"
+        "e": "'seems to go'"
       },
       {
-        "s": "उपस्मरति (upasmarati)",
+        "s": "उपस्मरति",
         "h": "स्मरण करता है, याद करता है",
-        "e": "remembers — present 3rd sg. of upa+√smṛ ('to recall, bring to mind'); constant recollection"
+        "e": "remembers"
       },
       {
-        "s": "अभीक्ष्णम् (abhīkṣṇam)",
+        "s": "अभीक्ष्णम्",
         "h": "बार-बार, निरन्तर",
-        "e": "constantly, repeatedly — adverb indicating unbroken continuity of remembrance"
+        "e": "constantly, repeatedly"
       },
       {
-        "s": "संकल्पः (saṁkalpaḥ)",
+        "s": "संकल्पः",
         "h": "संकल्प, दिव्य निश्चय",
-        "e": "will, intention, resolve — the faculty of repeated turning toward Brahman; the inner analogue of lightning"
+        "e": "will, intention, resolve"
       }
     ],
     "gr": "<strong>adhyātmam</strong> — the cosmic/divine analogy (adhidaivatam) of mantra 29 is now paired with its subjective counterpart. <strong>gacchati iva</strong> — 'seems to go': the 'iva' is crucial — Brahman is not a destination the mind literally travels to; rather, the mind's natural orientation is toward Brahman as its own source, and this orientation <em>feels like</em> approaching. <strong>abhīkṣṇaṁ saṁkalpaḥ</strong> — 'constant intention/will': saṁkalpa here is not ordinary willpower but the deep orientation of consciousness toward its source — each act of recollection is a flash, like the lightning of mantra 29.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.2 — The subjective counterpart to the cosmic lightning: within the individual, the Brahman-experience manifests as the mind's repeated turning toward its source and the constant remembrance (abhīkṣṇaṁ upasmarati) that arises from this turning.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -2118,23 +2118,23 @@
     "en": "That Brahman is known by the name 'Tadvana' — the adorable, the longed-for. As 'Tadvana' it is to be meditated upon.",
     "ws": [
       {
-        "s": "तद्वनम् (tadvanam)",
+        "s": "तद्वनम्",
         "h": "तद्वन — सबका प्रिय, सबकी अभिलाषा",
-        "e": "Tadvana — 'the adorable,' from tad (that) + vana (desire, longing, or delight); 'that which all desire'"
+        "e": "Tadvana"
       },
       {
-        "s": "नाम (nāma)",
+        "s": "नाम",
         "h": "नाम से",
-        "e": "by name — instrumental/adverbial: 'it is known by the name…'"
+        "e": "by name"
       },
       {
-        "s": "उपासितव्यम् (upāsitavyam)",
+        "s": "उपासितव्यम्",
         "h": "उपासना करनी चाहिए",
-        "e": "is to be meditated upon — gerundive of upa+√ās ('to sit near, worship, meditate'); prescriptive: 'must be meditated upon'"
+        "e": "is to be meditated upon"
       }
     ],
     "gr": "<strong>tad vanam</strong> — two readings are traditional: (1) tad + vana (desire/longing) = 'that which is desired by all,' 'the adorable'; (2) tad + vana (forest/delight) = 'the delight of all.' Shankara prefers the first — Brahman is the ultimate object of all longing. <strong>upāsitavyam</strong> — gerundive of upa+√ās: a prescriptive statement — the Upanishad moves from description to instruction. This is the first direct practice-instruction in the entire Kena: 'meditate on Brahman as Tadvana.'",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.3a — The Upanishad gives Brahman a name — Tadvana — and prescribes meditation on it. This is the transition from pure knowledge to practice: the seeker is told not just what Brahman is but how to orient toward it.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -2174,28 +2174,28 @@
     "en": "He who knows it (Brahman as Tadvana) thus — all beings long for him.",
     "ws": [
       {
-        "s": "एवम् वेद (evaṁ veda)",
+        "s": "एवम् वेद",
         "h": "इस प्रकार जानता है",
-        "e": "'knows thus' — evaṁ (thus, in this way) + veda (perfect of √vid, 'to know'); 'knows in the manner described'"
+        "e": "'knows thus'"
       },
       {
-        "s": "अभि (abhi)",
+        "s": "अभि",
         "h": "की ओर",
-        "e": "toward — directional prefix showing movement toward the knower"
+        "e": "toward"
       },
       {
-        "s": "सर्वाणि भूतानि (sarvāṇi bhūtāni)",
+        "s": "सर्वाणि भूतानि",
         "h": "समस्त प्राणी, सब जीव",
-        "e": "all beings — accusative plural neuter; every creature without exception"
+        "e": "all beings"
       },
       {
-        "s": "संवाञ्छन्ति (saṁvāñchanti)",
+        "s": "संवाञ्छन्ति",
         "h": "अभिलाषा करते हैं, चाहते हैं",
-        "e": "they long for, desire — present 3rd pl. of sam+√vāñch ('to desire intensely, long for')"
+        "e": "they long for, desire"
       }
     ],
     "gr": "<strong>sa yaḥ etad evaṁ veda</strong> — the standard Upanishadic formula for declaring the fruit of knowledge: 'he who knows this thus.' <strong>abhi saṁvāñchanti</strong> — 'they long toward him': abhi directs the longing toward the knower; saṁvāñchanti (sam+√vāñch) is an intensified desire — not casual interest but deep, magnetic attraction. <strong>sarvāṇi bhūtāni</strong> — 'all beings': without qualification — every being is drawn to the one who has realised Brahman as Tadvana.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.3b — The phala-śruti (fruit-of-knowledge statement): the knower of Brahman-as-Tadvana becomes the natural magnet for all beings. This is not a worldly reward but an ontological consequence — one who embodies the universal longing becomes the object of that longing.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -2235,38 +2235,38 @@
     "en": "'Sir, teach me the Upanishad.' — 'The Upanishad has been told to you. We have told you the Upanishad of Brahman (brāhmī upaniṣad).'",
     "ws": [
       {
-        "s": "उपनिषदम् (upaniṣadam)",
+        "s": "उपनिषदम्",
         "h": "उपनिषद्, रहस्य-विद्या",
-        "e": "the Upanishad — the secret/esoteric teaching; accusative object of brūhi"
+        "e": "the Upanishad"
       },
       {
-        "s": "भो (bho)",
+        "s": "भो",
         "h": "हे (आदरसूचक सम्बोधन)",
-        "e": "Sir! O revered one! — polite vocative particle used by a student addressing a teacher"
+        "e": "Sir! O revered one!"
       },
       {
-        "s": "ब्रूहि (brūhi)",
+        "s": "ब्रूहि",
         "h": "बताइए, कहिए",
-        "e": "tell, teach! — imperative 2nd sg. of √brū ('to speak, tell')"
+        "e": "tell, teach!"
       },
       {
-        "s": "उक्ता (uktā)",
+        "s": "उक्ता",
         "h": "बता दी गई",
-        "e": "has been told — past passive participle of √vac ('to speak'); feminine agreeing with upaniṣat"
+        "e": "has been told"
       },
       {
-        "s": "ब्राह्मीम् (brāhmīm)",
+        "s": "ब्राह्मीम्",
         "h": "ब्रह्म-सम्बन्धी",
-        "e": "of Brahman — feminine adjective qualifying upaniṣadam; 'the Upanishad that pertains to Brahman'"
+        "e": "of Brahman"
       },
       {
-        "s": "अब्रूम (abrūma)",
+        "s": "अब्रूम",
         "h": "हमने बताया",
-        "e": "we have told — imperfect 1st pl. of √brū; the teacher uses the plural ('we') for gravitas"
+        "e": "we have told"
       }
     ],
     "gr": "<strong>upaniṣadaṁ bho brūhi</strong> — the student's request: 'Sir, teach me the Upanishad!' The word 'upaniṣad' here means the esoteric, secret teaching — the student asks for the hidden knowledge. <strong>uktā ta upaniṣat</strong> — 'the Upanishad has been told to you': past passive — it is already done, not something yet to come. <strong>brāhmīm upaniṣadam abrūma</strong> — 'we have told you the brāhmī upaniṣad': the teacher confirms the teaching is complete. The first-person plural 'abrūma' (we) may be a royal plural or may include the lineage of teachers.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.4 — A meta-textual moment: the student asks for the teaching and is told the teaching is already complete. The Kena Upanishad declares itself finished — what follows (mantras 34-35) are the foundations and fruit of the teaching, not new content.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -2306,43 +2306,43 @@
     "en": "Its (the Upanishad's) foundation is tapas (austerity), dama (self-control), and karma (right action). The Vedas are all its limbs. Truth is its abode.",
     "ws": [
       {
-        "s": "तपः (tapaḥ)",
+        "s": "तपः",
         "h": "तपस्या, तपस्",
-        "e": "austerity, inner heat — from √tap ('to heat, burn'); spiritual discipline, concentrated effort"
+        "e": "austerity, inner heat"
       },
       {
-        "s": "दमः (damaḥ)",
+        "s": "दमः",
         "h": "इन्द्रिय-संयम, आत्म-नियन्त्रण",
-        "e": "self-control, restraint of the senses — from √dam ('to tame, subdue')"
+        "e": "self-control, restraint of the senses"
       },
       {
-        "s": "कर्म (karma)",
+        "s": "कर्म",
         "h": "कर्म, सम्यक् कर्म",
-        "e": "action, right action, ritual action — from √kṛ ('to do'); here: the performance of one's dharmic duties"
+        "e": "action, right action, ritual action"
       },
       {
-        "s": "प्रतिष्ठा (pratiṣṭhā)",
+        "s": "प्रतिष्ठा",
         "h": "आधार, नींव",
-        "e": "foundation, basis, support — from prati+√sthā ('to stand firmly'); what the teaching rests upon"
+        "e": "foundation, basis, support"
       },
       {
-        "s": "सर्वाङ्गानि (sarvāṅgāni)",
+        "s": "सर्वाङ्गानि",
         "h": "सब अंग",
-        "e": "all limbs — sarva (all) + aṅga (limb); the Vedas are the body of this knowledge"
+        "e": "all limbs"
       },
       {
-        "s": "सत्यम् (satyam)",
+        "s": "सत्यम्",
         "h": "सत्य",
-        "e": "Truth — from √as ('to be'); 'that which truly is'; the ultimate ground"
+        "e": "Truth"
       },
       {
-        "s": "आयतनम् (āyatanam)",
+        "s": "आयतनम्",
         "h": "निवास, आश्रय, स्थान",
-        "e": "abode, resting place, home — from ā+√yat or ā+√i ('to rest in'); where this knowledge dwells permanently"
+        "e": "abode, resting place, home"
       }
     ],
     "gr": "<strong>tasyai pratiṣṭhā</strong> — 'its foundation': tasyai is genitive/dative feminine referring to the brāhmī upaniṣad. Three foundations are named: <strong>tapaḥ</strong> (inner heat/austerity), <strong>damaḥ</strong> (sense-control), <strong>karma</strong> (right action). <strong>vedāḥ sarvāṅgāni</strong> — 'the Vedas are all its limbs': the body-metaphor — the Vedas are the organic structure through which this knowledge lives and moves. <strong>satyam āyatanam</strong> — 'Truth is its abode': the final, most fundamental ground — the entire edifice of practice, knowledge, and scripture rests on satya.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.5 — The most practically oriented verse of the entire Kena Upanishad: a three-tiered architecture of spiritual life. Foundation = ethical-ascetic practice. Body = scriptural knowledge. Home = Truth itself. This verse is the Upanishad's answer to 'What do I do now?'",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -2382,38 +2382,38 @@
     "en": "He who knows this thus, having shaken off evil, is established in the infinite, heavenly, supreme world. He is established.",
     "ws": [
       {
-        "s": "अपहत्य (apahatya)",
+        "s": "अपहत्य",
         "h": "दूर करके, नष्ट करके",
-        "e": "having shaken off, cast away — absolutive of apa+√han ('to strike away, remove'); implies active removal, not gradual fading"
+        "e": "having shaken off, cast away"
       },
       {
-        "s": "पाप्मानम् (pāpmānam)",
+        "s": "पाप्मानम्",
         "h": "पाप को, बुराई को",
-        "e": "evil, sin — accusative singular of pāpman; the accumulated impediments of ignorance"
+        "e": "evil, sin"
       },
       {
-        "s": "अनन्ते (anante)",
+        "s": "अनन्ते",
         "h": "अनन्त, सीमारहित",
         "e": "infinite — locative of ananta; 'in the boundless'"
       },
       {
-        "s": "स्वर्गे (svarge)",
+        "s": "स्वर्गे",
         "h": "स्वर्गीय, दिव्य",
-        "e": "heavenly — locative of svarga; 'in the luminous realm'"
+        "e": "heavenly"
       },
       {
-        "s": "ज्येये (jyeye)",
+        "s": "ज्येये",
         "h": "सर्वश्रेष्ठ, ज्येष्ठ",
-        "e": "supreme, greatest — locative of jyeya (superlative of jya, 'superior'); 'in the highest'"
+        "e": "supreme, greatest"
       },
       {
-        "s": "प्रतितिष्ठति (pratitiṣṭhati)",
+        "s": "प्रतितिष्ठति",
         "h": "प्रतिष्ठित होता है, स्थिर होता है",
-        "e": "is firmly established — present 3rd sg. of prati+√sthā ('to stand firmly, be established')"
+        "e": "is firmly established"
       }
     ],
     "gr": "<strong>apahatya pāpmānam</strong> — absolutive + accusative: 'having struck away evil' — the gesture is violent and decisive, not a gentle letting-go. <strong>anante svarge loke jyeye</strong> — four locatives stacked in apposition, each qualifying the same destination: infinite, heavenly, supreme. The accumulation of adjectives conveys that no single word can capture the state. <strong>pratitiṣṭhati pratitiṣṭhati</strong> — the final word of the Upanishad is repeated: 'he is established; he is established.' The repetition is the Vedic convention for closure (samāpti) — it marks the end of the teaching and simultaneously emphasises the finality and irreversibility of the realisation.",
-    "mt": "REVIEW_NEEDED: kena_upanishad_4.6–4.9 — The closing phala-śruti (fruit-statement) and the samāpti (formal conclusion) of the Kena Upanishad. The doubled 'pratitiṣṭhati' is the text's last word — the seeker is established, finally, irrevocably, in the infinite.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
