@@ -880,13 +880,23 @@ function toggleSp(){
 }
 let _spChunks=[],_spIdx=0,_spVoice=null,_spLang='hi-IN';
 function _splitChunks(text){
-  const parts=text.split(/([।\n,;|]+\s*)/);
-  const chunks=[];let cur='';
-  for(let i=0;i<parts.length;i++){
-    cur+=parts[i];
-    if(cur.length>40||(i%2===1&&cur.length>10)){chunks.push(cur.trim());cur='';}
+  const segs=text.split(/([।\n,;|]+\s*)/);
+  const raw=[];let cur='';
+  for(let i=0;i<segs.length;i++){
+    cur+=segs[i];
+    if(cur.length>30||(i%2===1&&cur.length>10)){raw.push(cur.trim());cur='';}
   }
-  if(cur.trim())chunks.push(cur.trim());
+  if(cur.trim())raw.push(cur.trim());
+  const chunks=[];
+  for(const r of raw){
+    if(r.length<=60){chunks.push(r);continue;}
+    const words=r.split(/\s+/);let c='';
+    for(const w of words){
+      if(c.length+w.length+1>60){if(c)chunks.push(c);c=w;}
+      else{c=c?c+' '+w:w;}
+    }
+    if(c)chunks.push(c);
+  }
   return chunks.filter(c=>c.length>0);
 }
 function _speakNext(){
