@@ -530,12 +530,7 @@ async function init(){
     const p=gP(),tot=Object.values(p).reduce((a,b)=>a+b,0);
     document.getElementById('tr').textContent=tot;
   }catch(e){}
-  try{
-    if(HAS_SPEECH){
-      speechSynthesis.getVoices();
-      speechSynthesis.onvoiceschanged=()=>{ try{speechSynthesis.getVoices();}catch(ex){} };
-    }
-  }catch(e){}
+  try{ if(HAS_SPEECH) _loadVoices(); }catch(e){}
 }
 
 function renderCards(){
@@ -865,16 +860,20 @@ function renderBody(m){
 
 // ── SPEECH — safe wrapper ──
 const HAS_SPEECH = (typeof window !== 'undefined') && ('speechSynthesis' in window);
+let _voices=[];
+let _resumeInt=null;
+function _loadVoices(){try{_voices=speechSynthesis.getVoices();}catch(e){}}
+if(HAS_SPEECH){_loadVoices();speechSynthesis.onvoiceschanged=_loadVoices;}
 
 function initSp(t){
   CST=t; SP=false;
   try{ if(HAS_SPEECH && speechSynthesis.speaking) speechSynthesis.cancel(); }catch(e){}
-  updBtn(false); stopWv();
+  updBtn(false); stopWv(); _clearResume();
 }
 function toggleSp(){
   if(!HAS_SPEECH){
     const el=document.getElementById('aps');
-    if(el) el.textContent='Speech not available in this browser';
+    if(el) el.textContent='इस ब्राउज़र में उपलब्ध नहीं · Not available';
     return;
   }
   SP ? stopSp() : startSp();
@@ -882,25 +881,25 @@ function toggleSp(){
 function startSp(){
   if(!HAS_SPEECH) return;
   try{ if(speechSynthesis.speaking) speechSynthesis.cancel(); }catch(e){}
-  setTimeout(()=>{
-    try{
-      const u=new SpeechSynthesisUtterance(CST);
-      u.rate=SS; u.pitch=0.82; u.volume=1.0;
-      const vs=speechSynthesis.getVoices();
-      const hv=vs.find(v=>v.lang==='hi-IN')||vs.find(v=>v.lang.startsWith('hi'))||null;
-      if(hv){u.voice=hv;u.lang='hi-IN';const el=document.getElementById('aph2');if(el)el.textContent='Voice: '+hv.name;}
-      else{u.lang='hi-IN';const el=document.getElementById('aph2');if(el)el.textContent='Hindi voice — open in Chrome for best results';}
-      u.onstart=()=>{SP=true;updBtn(true);startWv();const s=document.getElementById('aps');if(s)s.textContent='पाठ हो रहा है · Chanting…';const h=document.getElementById('ahl');if(h){h.classList.add('on');h.textContent=CST.replace(/\n/g,' · ');}};
-      u.onboundary=(e)=>{try{const w=CST.substring(e.charIndex).split(/\s+/)[0];const h=document.getElementById('ahl');if(h&&w)h.textContent=w;}catch(ex){}};
-      u.onend=()=>{SP=false;updBtn(false);stopWv();const s=document.getElementById('aps');if(s)s.textContent='पूर्ण · Completed ✓';const h=document.getElementById('ahl');if(h)h.classList.remove('on');if(SR)setTimeout(startSp,1500);};
-      u.onerror=()=>{SP=false;updBtn(false);stopWv();const s=document.getElementById('aps');if(s)s.textContent='Open file in Chrome browser for audio';};
-      speechSynthesis.speak(u);
-    }catch(e){SP=false;updBtn(false);stopWv();const s=document.getElementById('aps');if(s)s.textContent='Open in Chrome for audio';}
-  },150);
+  try{
+    if(!_voices.length)_loadVoices();
+    const u=new SpeechSynthesisUtterance(CST);
+    u.rate=SS; u.pitch=0.82; u.volume=1.0;
+    const hv=_voices.find(v=>v.lang==='hi-IN')||_voices.find(v=>v.lang.startsWith('hi'))||null;
+    if(hv){u.voice=hv;u.lang='hi-IN';const el=document.getElementById('aph2');if(el)el.textContent='Voice: '+hv.name;}
+    else{u.lang='hi-IN';const el=document.getElementById('aph2');if(el)el.textContent='Hindi voice — Chrome में सबसे अच्छा काम करता है';}
+    u.onstart=()=>{SP=true;updBtn(true);startWv();const s=document.getElementById('aps');if(s)s.textContent='पाठ हो रहा है · Chanting…';const h=document.getElementById('ahl');if(h){h.classList.add('on');h.textContent=CST.replace(/\n/g,' · ');}};
+    u.onboundary=(e)=>{try{const w=CST.substring(e.charIndex).split(/\s+/)[0];const h=document.getElementById('ahl');if(h&&w)h.textContent=w;}catch(ex){}};
+    u.onend=()=>{SP=false;updBtn(false);stopWv();_clearResume();const s=document.getElementById('aps');if(s)s.textContent='पूर्ण · Completed ✓';const h=document.getElementById('ahl');if(h)h.classList.remove('on');if(SR)setTimeout(startSp,1500);};
+    u.onerror=(e)=>{SP=false;updBtn(false);stopWv();_clearResume();const s=document.getElementById('aps');if(s)s.textContent='पुनः प्रयास करें · Tap again';};
+    speechSynthesis.speak(u);
+    _resumeInt=setInterval(()=>{if(speechSynthesis.speaking&&!speechSynthesis.paused)speechSynthesis.pause();speechSynthesis.resume();},10000);
+  }catch(e){SP=false;updBtn(false);stopWv();const s=document.getElementById('aps');if(s)s.textContent='Chrome ब्राउज़र में खोलें';}
 }
+function _clearResume(){if(_resumeInt){clearInterval(_resumeInt);_resumeInt=null;}}
 function stopSp(){
   try{ if(HAS_SPEECH) speechSynthesis.cancel(); }catch(e){}
-  SP=false; updBtn(false); stopWv();
+  SP=false; updBtn(false); stopWv(); _clearResume();
   const s=document.getElementById('aps'); if(s) s.textContent='रोका गया · Stopped';
   const h=document.getElementById('ahl'); if(h) h.classList.remove('on');
 }

@@ -1,4 +1,4 @@
-const CACHE_SHELL = "upanishad-shell-v7";
+const CACHE_SHELL = "upanishad-shell-v8";
 const CACHE_DATA = "upanishad-data-v1";
 
 const SHELL_FILES = [
