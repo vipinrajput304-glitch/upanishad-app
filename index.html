@@ -889,22 +889,41 @@ function startSp(){
     const u=new SpeechSynthesisUtterance(CST);
     u.rate=SS; u.pitch=0.82; u.volume=1.0; u.lang='hi-IN';
     const hv=_voices.find(v=>v.lang==='hi-IN')||_voices.find(v=>v.lang.startsWith('hi'));
+    let usedFallback=false;
     if(hv){u.voice=hv;if(h2)h2.textContent='Voice: '+hv.name;}
-    else if(h2){h2.textContent=_voices.length?'Hindi voice not found ('+_voices.length+' available)':'Loading voices… tap again';}
+    else{
+      usedFallback=true;
+      const fallback=_voices.find(v=>v.lang.startsWith('en'))||_voices[0];
+      if(fallback){u.voice=fallback;u.lang=fallback.lang;}
+      if(h2)h2.textContent=_voices.length?'Using fallback voice (no Hindi TTS installed)':'Loading voices… tap again';
+    }
+    let _spStart=0;
     u.onstart=()=>{
+      _spStart=Date.now();
       SP=true;updBtn(true);startWv();
       if(s)s.textContent='पाठ हो रहा है · Chanting…';
       const hl=document.getElementById('ahl');if(hl){hl.classList.add('on');hl.textContent=CST.replace(/\n/g,' · ');}
       _resumeInt=setInterval(()=>{try{if(speechSynthesis.speaking){speechSynthesis.pause();speechSynthesis.resume();}}catch(ex){}},8000);
     };
     u.onboundary=(e)=>{try{const w=CST.substring(e.charIndex).split(/\s+/)[0];const hl=document.getElementById('ahl');if(hl&&w)hl.textContent=w;}catch(ex){}};
-    u.onend=()=>{SP=false;updBtn(false);stopWv();_clearResume();if(s)s.textContent='पूर्ण · Completed ✓';const hl=document.getElementById('ahl');if(hl)hl.classList.remove('on');if(SR)setTimeout(startSp,1500);};
+    u.onend=()=>{
+      SP=false;updBtn(false);stopWv();_clearResume();
+      const hl=document.getElementById('ahl');if(hl)hl.classList.remove('on');
+      const dur=Date.now()-_spStart;
+      if(dur<2000&&CST.length>20){
+        if(s)s.textContent='⚠ Voice could not speak this text';
+        if(h2)h2.textContent='Install Hindi TTS: Settings → System → Language → Text-to-Speech → Download Hindi';
+      }else{
+        if(s)s.textContent='पूर्ण · Completed ✓';
+        if(SR)setTimeout(startSp,1500);
+      }
+    };
     u.onerror=(ev)=>{SP=false;updBtn(false);stopWv();_clearResume();if(s)s.textContent='त्रुटि · Error: '+(ev.error||'unknown');};
     speechSynthesis.speak(u);
     setTimeout(()=>{
-      if(!SP&&!speechSynthesis.speaking){
+      if(!SP&&!speechSynthesis.speaking&&!_spStart){
         if(s)s.textContent='पुनः टैप करें · Tap ▶ again';
-        if(h2)h2.textContent='Voices: '+_voices.length+' | If silent, check phone TTS settings';
+        if(h2)h2.textContent='Install Hindi TTS: Settings → System → Language → Text-to-Speech → Download Hindi';
       }
     },3000);
   }catch(e){SP=false;updBtn(false);stopWv();if(s)s.textContent='Error: '+e.message;}
