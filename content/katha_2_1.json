@@ -6,16 +6,44 @@
     "hi": "अज (अजन्मा परमात्मा) की — जिसकी चेतना सरल (ऋजु, वक्र-रहित) है — एकादश-द्वार (ग्यारह द्वारों) वाली पुरी (नगरी/शरीर) का ध्यान करके साधक शोक नहीं करता; वह विमुक्त होता है और पूर्णतः मुक्त हो जाता है। यही वह (ब्रह्म) है।",
     "en": "The city of the unborn (Self), whose consciousness is free from crookedness, has eleven gates. By meditating upon it, one grieves no more; one is liberated and is fully set free. This, verily, is That.",
     "ws": [
-      {"s": "पुरम् (puram)", "h": "पुरी, नगरी — शरीर", "e": "city — the body as a fortified city; cognate with Greek polis; the body is a dwelling-place of the Self"},
-      {"s": "एकादशद्वारम् (ekādaśa-dvāram)", "h": "ग्यारह द्वारों वाली", "e": "having eleven gates — the eleven openings of the body: 2 eyes, 2 ears, 2 nostrils, mouth, navel, crown (brahma-randhra), and 2 lower apertures"},
-      {"s": "अजस्य (ajasya)", "h": "अजन्मा (परमात्मा) की", "e": "of the unborn — aja: a (not) + ja (born); the Self that was never born and never dies"},
-      {"s": "अवक्रचेतसः (avakra-cetasaḥ)", "h": "ऋजु (सरल) चेतना वाले", "e": "whose consciousness is not crooked — avakra (straight, uncurved) + cetas (mind/consciousness); the Self's awareness is direct and undistorted"},
-      {"s": "अनुष्ठाय (anuṣṭhāya)", "h": "ध्यान/उपासना करके", "e": "having meditated upon — absolutive of anu + √sthā; by contemplating, by taking one's stand in"},
-      {"s": "विमुक्तः (vimuktaḥ)", "h": "मुक्त हुआ", "e": "liberated — freed from bondage; past participle of vi + √muc"},
-      {"s": "विमुच्यते (vimucyate)", "h": "पूर्णतः मुक्त हो जाता है", "e": "is fully released — passive present; the repetition (vimuktaḥ ca vimucyate) emphasises complete and irreversible liberation"}
+      {
+        "s": "पुरम्",
+        "h": "पुरी, नगरी — शरीर",
+        "e": "city"
+      },
+      {
+        "s": "एकादशद्वारम्",
+        "h": "ग्यारह द्वारों वाली",
+        "e": "having eleven gates"
+      },
+      {
+        "s": "अजस्य",
+        "h": "अजन्मा (परमात्मा) की",
+        "e": "of the unborn"
+      },
+      {
+        "s": "अवक्रचेतसः",
+        "h": "ऋजु (सरल) चेतना वाले",
+        "e": "whose consciousness is not crooked"
+      },
+      {
+        "s": "अनुष्ठाय",
+        "h": "ध्यान/उपासना करके",
+        "e": "having meditated upon"
+      },
+      {
+        "s": "विमुक्तः",
+        "h": "मुक्त हुआ",
+        "e": "liberated"
+      },
+      {
+        "s": "विमुच्यते",
+        "h": "पूर्णतः मुक्त हो जाता है",
+        "e": "is fully released"
+      }
     ],
-    "gr": "<strong>puram ekādaśa-dvāram</strong> — 'city with eleven gates': the body conceived as a fortified city with eleven openings. This image recurs in the Bhagavad Gītā (5.13). <strong>ajasya avakra-cetasaḥ</strong> — genitive: 'of the unborn whose consciousness is straight'; the city belongs to the Self, not the other way around. <strong>vimuktaḥ ca vimucyate</strong> — emphatic doubling: 'liberated, he is set free' — liberation is both a state and an ongoing release. <strong>etat vai tat</strong> — 'this verily is That': the refrain linking each teaching back to the ultimate reality Nachiketa seeks.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.1 — This verse opens Adhyaya 2 with the famous 'city of eleven gates' metaphor. The Bhagavad Gītā (5.13) echoes this directly: 'sarva-karmāṇi manasā sannyasyāste sukhaṁ vaśī, nava-dvāre pure dehī' — there Kṛṣṇa says 'nine gates' (counting only the visible openings), while the Upanishad counts eleven (adding brahma-randhra and navel).",
+    "gr": "<strong>शरीर 'एकादश-द्वार' वाली पुरी है; 'अजस्य अवक्रचेतसः' षष्ठी विभक्ति — पुरी आत्मा की है; 'विमुक्तः च विमुच्यते' में बलात् द्वैत — मुक्ति अवस्था भी है और प्रक्रिया भी; 'एतद्वै तत्' — प्रत्येक शिक्षा को परम सत्य से जोड़ने वाला अनुवर्तन।</strong><br><strong>puram ekādaśa-dvāram</strong> — 'city with eleven gates': the body conceived as a fortified city with eleven openings. This image recurs in the Bhagavad Gītā (5.13). <strong>ajasya avakra-cetasaḥ</strong> — genitive: 'of the unborn whose consciousness is straight'; the city belongs to the Self, not the other way around. <strong>vimuktaḥ ca vimucyate</strong> — emphatic doubling: 'liberated, he is set free' — liberation is both a state and an ongoing release. <strong>etat vai tat</strong> — 'this verily is That': the refrain linking each teaching back to the ultimate reality Nachiketa seeks.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -37,8 +65,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What are the eleven gates of the body-city?", "a": "The <strong>ekādaśa-dvāra</strong> (eleven gates) are the eleven openings of the human body through which consciousness interacts with the external world. The standard enumeration is: (1-2) <strong>two eyes</strong> — gates of sight; (3-4) <strong>two ears</strong> — gates of hearing; (5-6) <strong>two nostrils</strong> — gates of smell and breath; (7) <strong>mouth</strong> — gate of speech, taste, and food; (8) <strong>navel</strong> — gate of vital energy (prāṇa distribution); (9) <strong>brahma-randhra</strong> (crown aperture) — gate through which the soul departs at death; (10-11) <strong>two lower apertures</strong> — gates of excretion and reproduction. The Bhagavad Gītā (5.13) uses a slightly different count of <strong>nine gates</strong> (nava-dvāra), omitting the navel and brahma-randhra. The metaphor conveys that the Self dwells <em>within</em> this city but is not identical with it — like a king who rules from within the city walls but whose identity is not the walls themselves."},
-      {"q": "🔍 Why does liberation require 'no grief' (na śocati)?", "a": "The phrase <strong>na śocati</strong> (does not grieve) points to grief as the hallmark of bondage. The Upanishads consistently identify grief (śoka) with ignorance — the failure to recognise one's true nature as the deathless Self. In the <strong>Chāndogya Upanishad (7.1.3)</strong>, Nārada says to Sanatkumāra: '<em>śrutaṁ hy eva me bhagavad-dṛśebhyaḥ, tarati śokam ātmavit</em>' — 'I have heard from teachers like you that the knower of the Self crosses beyond grief.' And the <strong>Mundaka (2.2.8)</strong> declares: '<em>bhidyate hṛdaya-granthiḥ, chidyante sarva-saṁśayāḥ</em>' — 'the knot of the heart is cut, all doubts are destroyed.' Grief arises from identification with what is perishable — body, relationships, possessions. When one meditates on the body as merely a 'city' inhabited by the eternal Self, the cause of grief dissolves. The Self was never born, never dies, and never loses anything — so what is there to grieve?"}
+      {
+        "q": "🔍 ग्यारह द्वार वाली देह-नगरी क्या है? · What are the eleven gates of the body-city?",
+        "a": "The <strong>ekādaśa-dvāra</strong> (eleven gates) are the eleven openings of the human body through which consciousness interacts with the external world. The standard enumeration is: (1-2) <strong>two eyes</strong> — gates of sight; (3-4) <strong>two ears</strong> — gates of hearing; (5-6) <strong>two nostrils</strong> — gates of smell and breath; (7) <strong>mouth</strong> — gate of speech, taste, and food; (8) <strong>navel</strong> — gate of vital energy (prāṇa distribution); (9) <strong>brahma-randhra</strong> (crown aperture) — gate through which the soul departs at death; (10-11) <strong>two lower apertures</strong> — gates of excretion and reproduction. The Bhagavad Gītā (5.13) uses a slightly different count of <strong>nine gates</strong> (nava-dvāra), omitting the navel and brahma-randhra. The metaphor conveys that the Self dwells <em>within</em> this city but is not identical with it — like a king who rules from within the city walls but whose identity is not the walls themselves."
+      },
+      {
+        "q": "🔍 मुक्ति के लिए 'शोकहीनता' (न शोचति) क्यों आवश्यक है? · Why does liberation require 'no grief' (na śocati)?",
+        "a": "The phrase <strong>na śocati</strong> (does not grieve) points to grief as the hallmark of bondage. The Upanishads consistently identify grief (śoka) with ignorance — the failure to recognise one's true nature as the deathless Self. In the <strong>Chāndogya Upanishad (7.1.3)</strong>, Nārada says to Sanatkumāra: '<em>śrutaṁ hy eva me bhagavad-dṛśebhyaḥ, tarati śokam ātmavit</em>' — 'I have heard from teachers like you that the knower of the Self crosses beyond grief.' And the <strong>Mundaka (2.2.8)</strong> declares: '<em>bhidyate hṛdaya-granthiḥ, chidyante sarva-saṁśayāḥ</em>' — 'the knot of the heart is cut, all doubts are destroyed.' Grief arises from identification with what is perishable — body, relationships, possessions. When one meditates on the body as merely a 'city' inhabited by the eternal Self, the cause of grief dissolves. The Self was never born, never dies, and never loses anything — so what is there to grieve?"
+      }
     ]
   },
   {
@@ -48,15 +82,39 @@
     "hi": "वह (आत्मा) हंस (सूर्य) है, शुचि (अग्नि/प्रकाश) में स्थित; वसु (वायु) है, अन्तरिक्ष में स्थित; होता (पुरोहित) है, वेदी पर स्थित; अतिथि है, गृह में स्थित; मनुष्यों में स्थित, श्रेष्ठ में स्थित, ऋत (सत्य) में स्थित, आकाश (व्योम) में स्थित — जल से उत्पन्न, किरणों से उत्पन्न, ऋत (सत्य) से उत्पन्न, पर्वतों से उत्पन्न — वह विराट ऋत (कॉस्मिक ऑर्डर) है।",
     "en": "He is the sun (haṁsa) dwelling in the bright sky; the wind (vasu) dwelling in the mid-region; the priest (hotā) seated at the altar; the guest seated in the house; dwelling among men, in the noble, in cosmic order, in space — born of water, born of light, born of truth, born of rock — He is the great cosmic Truth (ṛtam bṛhat).",
     "ws": [
-      {"s": "हंसः (haṁsaḥ)", "h": "हंस — सूर्य / आत्मा", "e": "the swan/sun — haṁsa literally means 'swan' but denotes the sun moving across the sky; also the Self that 'migrates' through states of consciousness"},
-      {"s": "शुचिषत् (śuciṣat)", "h": "प्रकाश/शुद्धता में स्थित", "e": "dwelling in the bright — śuci (pure/bright, i.e., the sky of light) + sat (dwelling); the sun's station"},
-      {"s": "वसुः (vasuḥ)", "h": "वसु — वायु", "e": "vasu — wind; one of the eight Vasus (elemental deities), here meaning the wind as life-breath of the cosmos"},
-      {"s": "होता (hotā)", "h": "होतृ — यज्ञ का पुरोहित", "e": "the invoking priest — hotṛ, the chief priest who recites mantras at the altar"},
-      {"s": "अतिथिः (atithiḥ)", "h": "अतिथि — अग्नि/गृहस्थ अग्नि", "e": "the guest — atithi (without a fixed date, hence 'guest'); the sacred fire is the perpetual guest in every household"},
-      {"s": "ऋतम् बृहत् (ṛtaṁ bṛhat)", "h": "विराट सत्य / कॉस्मिक ऑर्डर", "e": "the great Truth — ṛta (cosmic order) + bṛhat (vast/great); the all-pervading principle of order"}
+      {
+        "s": "हंसः",
+        "h": "हंस — सूर्य / आत्मा",
+        "e": "the swan/sun"
+      },
+      {
+        "s": "शुचिषत्",
+        "h": "प्रकाश/शुद्धता में स्थित",
+        "e": "dwelling in the bright"
+      },
+      {
+        "s": "वसुः",
+        "h": "वसु — वायु",
+        "e": "vasu"
+      },
+      {
+        "s": "होता",
+        "h": "होतृ — यज्ञ का पुरोहित",
+        "e": "the invoking priest"
+      },
+      {
+        "s": "अतिथिः",
+        "h": "अतिथि — अग्नि/गृहस्थ अग्नि",
+        "e": "the guest"
+      },
+      {
+        "s": "ऋतम् बृहत्",
+        "h": "विराट सत्य / कॉस्मिक ऑर्डर",
+        "e": "the great Truth"
+      }
     ],
-    "gr": "<strong>haṁsaḥ</strong> — 'swan/sun': the word haṁsa has a profound double meaning — it is both the sun that 'migrates' across the sky and the Self (so'ham = sa + aham = 'I am He' reversed as haṁ-sa). <strong>The eight epithets</strong> (śuciṣat, antarikṣa-sat, etc.) show that the Self pervades every level of existence: sky, mid-region, ritual altar, home, humanity, cosmic law, and space. <strong>abjāḥ gojāḥ ṛtajāḥ adrijāḥ</strong> — four 'births' or origins: water, light-rays, truth, and mountains — showing the Self as the source of all elements. <strong>ṛtaṁ bṛhat</strong> — the climactic declaration: the Self IS the vast cosmic order itself.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.2 — This verse is identical to Rig Veda 4.40.5 and also appears in the Vājasaneyi Saṁhitā. It is one of the most celebrated cosmic hymns, showing the One Self pervading all forms and functions — sun, wind, fire, priest, guest, truth. The identification of ātman with ṛtaṁ bṛhat is the Upanishad's way of saying: the Self is not just a personal principle but the cosmic order itself.",
+    "gr": "<strong>'हंस' का द्विअर्थ — सूर्य और सो'हम्; आठ विशेषण (शुचिषत् आदि) आत्मा की सर्वव्यापकता दर्शाते हैं; चार 'जन्म' (अब्जा, गोजा, ऋतजा, अद्रिजा) आत्मा को सभी तत्त्वों का स्रोत सिद्ध करते हैं; 'ऋतं बृहत्' — चरमोत्कर्ष घोषणा।</strong><br><strong>haṁsaḥ</strong> — 'swan/sun': the word haṁsa has a profound double meaning — it is both the sun that 'migrates' across the sky and the Self (so'ham = sa + aham = 'I am He' reversed as haṁ-sa). <strong>The eight epithets</strong> (śuciṣat, antarikṣa-sat, etc.) show that the Self pervades every level of existence: sky, mid-region, ritual altar, home, humanity, cosmic law, and space. <strong>abjāḥ gojāḥ ṛtajāḥ adrijāḥ</strong> — four 'births' or origins: water, light-rays, truth, and mountains — showing the Self as the source of all elements. <strong>ṛtaṁ bṛhat</strong> — the climactic declaration: the Self IS the vast cosmic order itself.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -78,8 +136,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What is the significance of the word 'haṁsa'?", "a": "The word <strong>haṁsa</strong> is one of the most layered terms in Sanskrit. On the surface it means <strong>'swan'</strong> — the bird that migrates across great distances. By extension it means the <strong>sun</strong>, which 'migrates' across the sky daily. But the deepest meaning is esoteric: <strong>haṁsa = haṁ + sa = 'I am He'</strong>, a reversal of the mahāvākya <strong>so'ham</strong> (sa + aham = 'He am I'). With every breath, the scriptures say, the jīva unconsciously chants 'haṁ-sa, haṁ-sa' — the inhalation sounds 'haṁ' and the exhalation 'sa.' The <strong>paramahaṁsa</strong> (supreme swan) is one who has realised this identity consciously. The swan also has the legendary ability to separate milk from water (viveka) — hence haṁsa symbolises <strong>discriminative wisdom</strong>. In this Katha verse, haṁsa refers primarily to the sun — the visible symbol of the Self's light pervading the cosmos."},
-      {"q": "🔍 How does this verse connect the ritual and the cosmic?", "a": "This verse is remarkable because it <strong>bridges the Vedic ritual world and the Upanishadic cosmic vision</strong> in a single breath. The eight 'dwelling-places' form an ascending scale: (1) <strong>śuciṣat</strong> — in the bright sky (physical cosmos); (2) <strong>antarikṣa-sat</strong> — in the mid-region (atmospheric); (3) <strong>vediṣat</strong> — at the ritual altar (sacred ritual); (4) <strong>duroṇa-sat</strong> — in the home (domestic life); (5) <strong>nṛṣat</strong> — among men (social); (6) <strong>vara-sat</strong> — in the noble/excellent (ethical); (7) <strong>ṛta-sat</strong> — in cosmic order (metaphysical); (8) <strong>vyoma-sat</strong> — in space (absolute). The message is that the Self is not only the <em>transcendent</em> reality beyond the world — it is equally the <em>immanent</em> presence within every level of existence, from the humblest home to the vastest space. The four 'births' (water, light, truth, rock) reinforce this: the Self is the origin of every element, not just the 'spiritual' ones."}
+      {
+        "q": "🔍 'हंस' शब्द का क्या महत्त्व है? · What is the significance of the word 'haṁsa'?",
+        "a": "The word <strong>haṁsa</strong> is one of the most layered terms in Sanskrit. On the surface it means <strong>'swan'</strong> — the bird that migrates across great distances. By extension it means the <strong>sun</strong>, which 'migrates' across the sky daily. But the deepest meaning is esoteric: <strong>haṁsa = haṁ + sa = 'I am He'</strong>, a reversal of the mahāvākya <strong>so'ham</strong> (sa + aham = 'He am I'). With every breath, the scriptures say, the jīva unconsciously chants 'haṁ-sa, haṁ-sa' — the inhalation sounds 'haṁ' and the exhalation 'sa.' The <strong>paramahaṁsa</strong> (supreme swan) is one who has realised this identity consciously. The swan also has the legendary ability to separate milk from water (viveka) — hence haṁsa symbolises <strong>discriminative wisdom</strong>. In this Katha verse, haṁsa refers primarily to the sun — the visible symbol of the Self's light pervading the cosmos."
+      },
+      {
+        "q": "🔍 यह मन्त्र यज्ञीय और ब्रह्माण्डीय को कैसे जोड़ता है? · How does this verse connect the ritual and the cosmic?",
+        "a": "This verse is remarkable because it <strong>bridges the Vedic ritual world and the Upanishadic cosmic vision</strong> in a single breath. The eight 'dwelling-places' form an ascending scale: (1) <strong>śuciṣat</strong> — in the bright sky (physical cosmos); (2) <strong>antarikṣa-sat</strong> — in the mid-region (atmospheric); (3) <strong>vediṣat</strong> — at the ritual altar (sacred ritual); (4) <strong>duroṇa-sat</strong> — in the home (domestic life); (5) <strong>nṛṣat</strong> — among men (social); (6) <strong>vara-sat</strong> — in the noble/excellent (ethical); (7) <strong>ṛta-sat</strong> — in cosmic order (metaphysical); (8) <strong>vyoma-sat</strong> — in space (absolute). The message is that the Self is not only the <em>transcendent</em> reality beyond the world — it is equally the <em>immanent</em> presence within every level of existence, from the humblest home to the vastest space. The four 'births' (water, light, truth, rock) reinforce this: the Self is the origin of every element, not just the 'spiritual' ones."
+      }
     ]
   },
   {
@@ -89,15 +153,39 @@
     "hi": "वह (आत्मा) प्राण को ऊपर ले जाता है और अपान को नीचे फेंकता है। मध्य में (हृदय में) बैठे हुए उस वामन (लघु-आकार, पूजनीय) को सभी देवता उपासना करते हैं।",
     "en": "He leads the prāṇa upward and casts the apāna downward. All the gods worship that adorable one (vāmana), who sits in the centre (of the body).",
     "ws": [
-      {"s": "ऊर्ध्वम् (ūrdhvam)", "h": "ऊपर की ओर", "e": "upward — the direction of prāṇa (inhalation, ascending vital breath)"},
-      {"s": "प्राणम् उन्नयति (prāṇam unnayati)", "h": "प्राण को ऊपर ले जाता है", "e": "leads the prāṇa upward — the Self governs the ascending breath"},
-      {"s": "अपानम् प्रत्यक् अस्यति (apānaṁ pratyag asyati)", "h": "अपान को नीचे/भीतर फेंकता है", "e": "casts the apāna downward/inward — the Self governs the descending breath; pratyak (inward) + √as (to throw)"},
-      {"s": "वामनम् (vāmanam)", "h": "वामन — लघु/पूजनीय", "e": "the adorable one / the dwarf — vāmana from √vam (to be worthy of worship) or 'small in form'; the Self is 'thumb-sized' (aṅguṣṭha-mātra) yet infinite"},
-      {"s": "विश्वे देवाः (viśve devāḥ)", "h": "सभी देवता", "e": "all the gods — the cosmic deities and also the sense-faculties (indriyas), which serve the Self"},
-      {"s": "उपासते (upāsate)", "h": "उपासना करते हैं", "e": "worship — upa + √ās (to sit near, to attend upon); the gods/senses attend upon the Self as servants attend a king"}
+      {
+        "s": "ऊर्ध्वम्",
+        "h": "ऊपर की ओर",
+        "e": "upward"
+      },
+      {
+        "s": "प्राणम् उन्नयति",
+        "h": "प्राण को ऊपर ले जाता है",
+        "e": "leads the prāṇa upward"
+      },
+      {
+        "s": "अपानम् प्रत्यक् अस्यति",
+        "h": "अपान को नीचे/भीतर फेंकता है",
+        "e": "casts the apāna downward/inward"
+      },
+      {
+        "s": "वामनम्",
+        "h": "वामन — लघु/पूजनीय",
+        "e": "the adorable one / the dwarf"
+      },
+      {
+        "s": "विश्वे देवाः",
+        "h": "सभी देवता",
+        "e": "all the gods"
+      },
+      {
+        "s": "उपासते",
+        "h": "उपासना करते हैं",
+        "e": "worship"
+      }
     ],
-    "gr": "<strong>ūrdhvaṁ prāṇam unnayati, apānaṁ pratyag asyati</strong> — the Self is the governor of the two primary vital breaths: prāṇa (ascending) and apāna (descending). This shows the Self as the <em>controller</em> of life-functions, not a passive witness. <strong>vāmanam</strong> — 'the adorable one' or 'the dwarf': connects to the Vedic Vāmana (Viṣṇu's dwarf-avatāra who fills three worlds in three steps) and to the 'thumb-sized Self' (aṅguṣṭha-mātra puruṣa) described later in this Valli. <strong>viśve devāḥ upāsate</strong> — 'all gods worship': the indriyas (sense-faculties) are the 'gods' who serve the central Self.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.3 — The verse presents the Self as the controller of prāṇa and apāna — the two fundamental directions of vital breath. This connects to prāṇāyāma practices in yoga. The 'vāmana' sitting in the centre foreshadows the 'thumb-sized puruṣa' (aṅguṣṭha-mātra) described in mantras 12-13.",
+    "gr": "<strong>आत्मा प्राण-अपान का सक्रिय नियन्ता है, निष्क्रिय साक्षी नहीं; 'वामन' — पूजनीय एवं लघुआकार (अंगुष्ठमात्र पुरुष से सम्बन्ध); 'विश्वे देवाः' — इन्द्रियरूपी देवता जो केन्द्रस्थ आत्मा की सेवा करते हैं।</strong><br><strong>ūrdhvaṁ prāṇam unnayati, apānaṁ pratyag asyati</strong> — the Self is the governor of the two primary vital breaths: prāṇa (ascending) and apāna (descending). This shows the Self as the <em>controller</em> of life-functions, not a passive witness. <strong>vāmanam</strong> — 'the adorable one' or 'the dwarf': connects to the Vedic Vāmana (Viṣṇu's dwarf-avatāra who fills three worlds in three steps) and to the 'thumb-sized Self' (aṅguṣṭha-mātra puruṣa) described later in this Valli. <strong>viśve devāḥ upāsate</strong> — 'all gods worship': the indriyas (sense-faculties) are the 'gods' who serve the central Self.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -119,8 +207,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What are prāṇa and apāna, and why does the Self govern them?", "a": "In Vedic physiology, <strong>prāṇa</strong> and <strong>apāna</strong> are the two primary directions of vital energy. <strong>Prāṇa</strong> moves <em>upward</em> (ūrdhva) — governing inhalation, speech, and the ascending functions of life. <strong>Apāna</strong> moves <em>downward</em> (pratyak/adhah) — governing exhalation, excretion, and the descending functions. Together they create the basic rhythm of life: intake and output, assimilation and release. The verse says the Self <strong>governs</strong> both — 'unnayati' (leads up) and 'asyati' (casts down). This is significant because it means the Self is not a passive observer but the <strong>active controller</strong> of the life-process. Without the Self's presence, the prāṇas would have no organising principle — the body would be dead matter. This understanding is the basis of <strong>prāṇāyāma</strong> in yoga: by consciously regulating the breath, the yogin aligns with the Self's governing activity and gains mastery over the vital forces."},
-      {"q": "🔍 Who is the 'vāmana' in the centre?", "a": "The word <strong>vāmana</strong> has two related meanings: (1) From <strong>√vam</strong> — 'to be worthy of worship' — it means 'the adorable one.' (2) As a common noun it means 'dwarf' — something small in form. Both meanings converge in the image of the Self as <strong>infinitely worthy yet infinitely subtle</strong> — small enough to dwell in the heart, yet worshipped by all the gods. This connects to the famous <strong>Vāmana avatāra</strong> of Viṣṇu, who appeared as a dwarf-boy and then expanded to fill three worlds in three steps — the message being that what appears small contains the infinite. Later in this Valli (mantras 12-13), the Self is described as <strong>aṅguṣṭha-mātra puruṣa</strong> — the 'thumb-sized person' in the heart. This is the same 'vāmana' — a concentrated point of infinite consciousness. The 'all the gods worship' (viśve devāḥ upāsate) means the indriyas (senses and faculties) function only because they attend upon this central Self."}
+      {
+        "q": "🔍 प्राण और अपान क्या हैं, और आत्मा उन्हें क्यों नियन्त्रित करता है? · What are prāṇa and apāna, and why does the Self govern them?",
+        "a": "In Vedic physiology, <strong>prāṇa</strong> and <strong>apāna</strong> are the two primary directions of vital energy. <strong>Prāṇa</strong> moves <em>upward</em> (ūrdhva) — governing inhalation, speech, and the ascending functions of life. <strong>Apāna</strong> moves <em>downward</em> (pratyak/adhah) — governing exhalation, excretion, and the descending functions. Together they create the basic rhythm of life: intake and output, assimilation and release. The verse says the Self <strong>governs</strong> both — 'unnayati' (leads up) and 'asyati' (casts down). This is significant because it means the Self is not a passive observer but the <strong>active controller</strong> of the life-process. Without the Self's presence, the prāṇas would have no organising principle — the body would be dead matter. This understanding is the basis of <strong>prāṇāyāma</strong> in yoga: by consciously regulating the breath, the yogin aligns with the Self's governing activity and gains mastery over the vital forces."
+      },
+      {
+        "q": "🔍 मध्य में बैठा 'वामन' कौन है? · Who is the 'vāmana' in the centre?",
+        "a": "The word <strong>vāmana</strong> has two related meanings: (1) From <strong>√vam</strong> — 'to be worthy of worship' — it means 'the adorable one.' (2) As a common noun it means 'dwarf' — something small in form. Both meanings converge in the image of the Self as <strong>infinitely worthy yet infinitely subtle</strong> — small enough to dwell in the heart, yet worshipped by all the gods. This connects to the famous <strong>Vāmana avatāra</strong> of Viṣṇu, who appeared as a dwarf-boy and then expanded to fill three worlds in three steps — the message being that what appears small contains the infinite. Later in this Valli (mantras 12-13), the Self is described as <strong>aṅguṣṭha-mātra puruṣa</strong> — the 'thumb-sized person' in the heart. This is the same 'vāmana' — a concentrated point of infinite consciousness. The 'all the gods worship' (viśve devāḥ upāsate) means the indriyas (senses and faculties) function only because they attend upon this central Self."
+      }
     ]
   },
   {
@@ -130,15 +224,39 @@
     "hi": "जब यह शरीर में स्थित देही (आत्मा) — जब यह शरीर विघटित होता है, जब देह से मुक्त होता है — तब यहाँ (इस शरीर में) क्या शेष रहता है? यही वह (ब्रह्म) है।",
     "en": "When this embodied Self, dwelling in the body — when the body falls apart and is released from the body — what remains here? This, verily, is That.",
     "ws": [
-      {"s": "विस्रंसमानस्य (visraṁsamānasya)", "h": "विघटित/विनष्ट होते हुए (शरीर) का", "e": "of that which is falling apart — present participle of vi + √sraṁs (to slip, to disintegrate); the body disintegrating at death"},
-      {"s": "शरीरस्थस्य (śarīra-sthasya)", "h": "शरीर में स्थित", "e": "dwelling in the body — śarīra (body) + stha (standing/dwelling); the Self's temporary residence"},
-      {"s": "देहिनः (dehinaḥ)", "h": "देही — शरीरधारी आत्मा", "e": "the embodied one — dehin: one who has a body (deha); the Self as body-bearer"},
-      {"s": "विमुच्यमानस्य (vimucyamānasya)", "h": "मुक्त होते हुए", "e": "being released from — passive present participle of vi + √muc; the Self departing from the body"},
-      {"s": "किम् अत्र परिशिष्यते (kim atra pariśiṣyate)", "h": "यहाँ क्या शेष रहता है?", "e": "what remains here? — pariśiṣyate: 'is left over' from pari + √śiṣ (to leave, to remain); a rhetorical question"},
-      {"s": "एतद्वै तत् (etat vai tat)", "h": "यही वह है", "e": "this verily is That — the recurring refrain affirming that this teaching points to the ultimate reality"}
+      {
+        "s": "विस्रंसमानस्य",
+        "h": "विघटित/विनष्ट होते हुए (शरीर) का",
+        "e": "of that which is falling apart"
+      },
+      {
+        "s": "शरीरस्थस्य",
+        "h": "शरीर में स्थित",
+        "e": "dwelling in the body"
+      },
+      {
+        "s": "देहिनः",
+        "h": "देही — शरीरधारी आत्मा",
+        "e": "the embodied one"
+      },
+      {
+        "s": "विमुच्यमानस्य",
+        "h": "मुक्त होते हुए",
+        "e": "being released from"
+      },
+      {
+        "s": "किम् अत्र परिशिष्यते",
+        "h": "यहाँ क्या शेष रहता है?",
+        "e": "what remains here?"
+      },
+      {
+        "s": "एतद्वै तत्",
+        "h": "यही वह है",
+        "e": "this verily is That"
+      }
     ],
-    "gr": "<strong>visraṁsamānasya</strong> — present middle participle: 'of that which is falling apart'; the body is described in the very process of disintegrating. <strong>dehinaḥ</strong> — genitive singular: 'of the embodied one'; the Self is called 'dehin' (body-bearer) to show that it <em>carries</em> the body, the body does not carry it. <strong>kim atra pariśiṣyate</strong> — rhetorical question: 'what remains here?'. The answer is: <em>nothing</em> that matters remains in the body — what matters (the Self) departs. The body is the residue, not the essence.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.4 — This verse asks the central question of the entire Upanishad from a different angle: not 'does the Self exist after death?' (Nachiketa's original question in 1.1.20) but 'what remains when the Self departs?'. The answer is implicit: the Self takes everything of value when it leaves. The body without the Self is meaningless — like a city without its king. Compare Bhagavad Gītā 2.13: 'dehino'smin yathā dehe.'",
+    "gr": "<strong>'विस्रंसमानस्य' — वर्तमान कर्मणि कृदन्त (विघटन की चलती प्रक्रिया); 'देहिनः' षष्ठी विभक्ति — आत्मा देह धारण करता है, देह आत्मा को नहीं; 'किम् अत्र परिशिष्यते' — आलंकारिक प्रश्न जिसका उत्तर है: शरीर अवशेष है, सार नहीं।</strong><br><strong>visraṁsamānasya</strong> — present middle participle: 'of that which is falling apart'; the body is described in the very process of disintegrating. <strong>dehinaḥ</strong> — genitive singular: 'of the embodied one'; the Self is called 'dehin' (body-bearer) to show that it <em>carries</em> the body, the body does not carry it. <strong>kim atra pariśiṣyate</strong> — rhetorical question: 'what remains here?'. The answer is: <em>nothing</em> that matters remains in the body — what matters (the Self) departs. The body is the residue, not the essence.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -160,8 +278,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is the Self called 'dehin' (body-bearer)?", "a": "The term <strong>dehin</strong> (from deha, 'body') literally means 'the one who has a body' — the body-bearer. This seemingly simple term carries profound philosophical weight. It implies that the <strong>Self possesses the body</strong>, not the other way around. The body does not 'have a soul' — the <strong>soul has a body</strong>. This reversal of common perception is the core teaching. The Bhagavad Gītā (2.13) uses the same term: '<em>dehino'smin yathā dehe kaumāraṁ yauvanaṁ jarā</em>' — 'Just as the embodied one (dehin) passes through childhood, youth, and old age in this body, so too does it pass into another body.' The implication is that the Self <em>wears</em> bodies like garments (Gītā 2.22: <em>vāsāṁsi jīrṇāni</em>). The term 'dehin' always signals this teaching: you are not a body with a soul — you are a soul with a body."},
-      {"q": "🔍 What is the implied answer to 'what remains here'?", "a": "The question <strong>'kim atra pariśiṣyate?'</strong> (what remains here?) is <em>rhetorical</em> — the expected answer is: <strong>nothing of essence</strong>. When the Self departs, what remains is mere matter — the five elements returning to their source. The body without the Self has no consciousness, no awareness, no personhood. This is why the verse concludes with <strong>'etat vai tat'</strong> (this verily is That) — the 'This' that is 'That' (Brahman) is the Self that departs, NOT the body that remains. The Upanishad is making a radical claim: <strong>everything you value about a person — their awareness, their love, their intelligence, their identity — is the Self</strong>, and it departs completely. The body, which we tend to treat as 'the person', is the leftover, the husk. This understanding is meant to shift the disciple's centre of identity from body to Self."}
+      {
+        "q": "🔍 आत्मा को 'देही' (शरीरधारी) क्यों कहा गया है? · Why is the Self called 'dehin' (body-bearer)?",
+        "a": "The term <strong>dehin</strong> (from deha, 'body') literally means 'the one who has a body' — the body-bearer. This seemingly simple term carries profound philosophical weight. It implies that the <strong>Self possesses the body</strong>, not the other way around. The body does not 'have a soul' — the <strong>soul has a body</strong>. This reversal of common perception is the core teaching. The Bhagavad Gītā (2.13) uses the same term: '<em>dehino'smin yathā dehe kaumāraṁ yauvanaṁ jarā</em>' — 'Just as the embodied one (dehin) passes through childhood, youth, and old age in this body, so too does it pass into another body.' The implication is that the Self <em>wears</em> bodies like garments (Gītā 2.22: <em>vāsāṁsi jīrṇāni</em>). The term 'dehin' always signals this teaching: you are not a body with a soul — you are a soul with a body."
+      },
+      {
+        "q": "🔍 'यहाँ क्या शेष रहता है?' का निहित उत्तर क्या है? · What is the implied answer to 'what remains here'?",
+        "a": "The question <strong>'kim atra pariśiṣyate?'</strong> (what remains here?) is <em>rhetorical</em> — the expected answer is: <strong>nothing of essence</strong>. When the Self departs, what remains is mere matter — the five elements returning to their source. The body without the Self has no consciousness, no awareness, no personhood. This is why the verse concludes with <strong>'etat vai tat'</strong> (this verily is That) — the 'This' that is 'That' (Brahman) is the Self that departs, NOT the body that remains. The Upanishad is making a radical claim: <strong>everything you value about a person — their awareness, their love, their intelligence, their identity — is the Self</strong>, and it departs completely. The body, which we tend to treat as 'the person', is the leftover, the husk. This understanding is meant to shift the disciple's centre of identity from body to Self."
+      }
     ]
   },
   {
@@ -171,13 +295,29 @@
     "hi": "कोई भी मनुष्य न प्राण से जीता है और न अपान से। वे तो किसी अन्य (आत्मा) के आश्रय से जीते हैं — जिसमें ये दोनों (प्राण और अपान) आश्रित हैं।",
     "en": "No mortal lives by the prāṇa (inbreath) or by the apāna (outbreath). They live by something else (the Self), in which these two (breaths) have their support.",
     "ws": [
-      {"s": "न प्राणेन न अपानेन (na prāṇena na apānena)", "h": "न प्राण से, न अपान से", "e": "not by prāṇa, not by apāna — the two main breaths are not the ultimate cause of life"},
-      {"s": "मर्त्यः (martyaḥ)", "h": "मनुष्य, नश्वर प्राणी", "e": "a mortal — one subject to death; from √mṛ (to die)"},
-      {"s": "इतरेण (itareṇa)", "h": "अन्य (तत्त्व) से", "e": "by another — itara (other/different); the Self, which is distinct from the prāṇas"},
-      {"s": "उपाश्रितौ (upāśritau)", "h": "आश्रित, निर्भर", "e": "having their support in — dual nominative: both prāṇa and apāna 'rest upon' the Self; upa + ā + √śri (to lean upon)"}
+      {
+        "s": "न प्राणेन न अपानेन",
+        "h": "न प्राण से, न अपान से",
+        "e": "not by prāṇa, not by apāna"
+      },
+      {
+        "s": "मर्त्यः",
+        "h": "मनुष्य, नश्वर प्राणी",
+        "e": "a mortal — one subject to death; from √mṛ (to die)"
+      },
+      {
+        "s": "इतरेण",
+        "h": "अन्य (तत्त्व) से",
+        "e": "by another"
+      },
+      {
+        "s": "उपाश्रितौ",
+        "h": "आश्रित, निर्भर",
+        "e": "having their support in"
+      }
     ],
-    "gr": "<strong>na prāṇena na apānena</strong> — emphatic double negation: neither the inbreath nor the outbreath is the cause of life. <strong>itareṇa tu</strong> — 'but by another': this 'other' is left unnamed, forcing the listener to inquire — <em>what is it?</em> The answer is the Self (ātman). <strong>yasmin etau upāśritau</strong> — 'in which these two are supported': the prāṇas depend on the Self, not the Self on the prāṇas. The Self is the foundation of all life-functions.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.5 — This verse challenges the Prāṇa-vāda (the doctrine that prāṇa is the ultimate reality), which appears in the Prashna Upanishad and Chāndogya. Here the Katha asserts that prāṇa is itself dependent on something deeper — the Self. This establishes a hierarchy: body < prāṇa < Self.",
+    "gr": "<strong>'न प्राणेन न अपानेन' — बलपूर्वक द्विनिषेध; 'इतरेण तु' — वह 'अन्य' (आत्मा) जानबूझकर अनामित छोड़ा गया है; 'यस्मिन् एतौ उपाश्रितौ' — प्राण आत्मा पर आश्रित हैं, आत्मा प्राण पर नहीं।</strong><br><strong>na prāṇena na apānena</strong> — emphatic double negation: neither the inbreath nor the outbreath is the cause of life. <strong>itareṇa tu</strong> — 'but by another': this 'other' is left unnamed, forcing the listener to inquire — <em>what is it?</em> The answer is the Self (ātman). <strong>yasmin etau upāśritau</strong> — 'in which these two are supported': the prāṇas depend on the Self, not the Self on the prāṇas. The Self is the foundation of all life-functions.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -199,8 +339,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 If breath doesn't sustain life, what does?", "a": "This verse makes a startling claim: <strong>breath (prāṇa and apāna) is not the cause of life</strong>. Modern biology equates life with biological functions — metabolism, respiration, cellular activity. But the Upanishad is pointing to something more fundamental. Consider: <strong>why does the breath stop at death?</strong> No physical disease need be present — sometimes the body is perfectly intact, yet the person dies. The Upanishad's answer is that <strong>consciousness (ātman) is the foundation of life</strong>, and the prāṇas (vital breaths) are merely the instruments through which consciousness operates the body. They are like the electricity that runs through a machine — real and necessary, but themselves dependent on a source. When the source (the Self) withdraws, the instruments (the prāṇas) collapse. This establishes a clear hierarchy: <strong>body < prāṇa < Self</strong>. The body depends on prāṇa; prāṇa depends on the Self; the Self depends on nothing."},
-      {"q": "🔍 How does this verse challenge the Prāṇa-vāda?", "a": "Several Upanishads — notably the <strong>Prashna Upanishad</strong> (Question 2) and <strong>Chāndogya</strong> (1.2, 5.1) — contain passages that seem to elevate <strong>prāṇa</strong> to the status of the ultimate principle. In the Chāndogya's famous 'contest of faculties,' prāṇa is declared the supreme faculty because when it begins to depart, all other faculties (speech, sight, hearing, mind) are dragged along with it. This led to the <strong>Prāṇa-vāda</strong> — the view that prāṇa (vital force) is the highest reality. The Katha Upanishad here <em>corrects</em> this view: prāṇa is indeed supreme among the bodily faculties, but it is <em>not</em> the ultimate reality. There is something <em>itara</em> (other) — the Self — in which even prāṇa and apāna 'have their support' (upāśritau). This 'other' is consciousness itself — not a force but the <em>ground of all forces</em>. The Katha thus establishes the Self, not prāṇa, as the final substratum."}
+      {
+        "q": "🔍 यदि प्राण जीवन का कारण नहीं, तो कारण क्या है? · If breath doesn't sustain life, what does?",
+        "a": "This verse makes a startling claim: <strong>breath (prāṇa and apāna) is not the cause of life</strong>. Modern biology equates life with biological functions — metabolism, respiration, cellular activity. But the Upanishad is pointing to something more fundamental. Consider: <strong>why does the breath stop at death?</strong> No physical disease need be present — sometimes the body is perfectly intact, yet the person dies. The Upanishad's answer is that <strong>consciousness (ātman) is the foundation of life</strong>, and the prāṇas (vital breaths) are merely the instruments through which consciousness operates the body. They are like the electricity that runs through a machine — real and necessary, but themselves dependent on a source. When the source (the Self) withdraws, the instruments (the prāṇas) collapse. This establishes a clear hierarchy: <strong>body < prāṇa < Self</strong>. The body depends on prāṇa; prāṇa depends on the Self; the Self depends on nothing."
+      },
+      {
+        "q": "🔍 यह मन्त्र प्राण-वाद को कैसे चुनौती देता है? · How does this verse challenge the Prāṇa-vāda?",
+        "a": "Several Upanishads — notably the <strong>Prashna Upanishad</strong> (Question 2) and <strong>Chāndogya</strong> (1.2, 5.1) — contain passages that seem to elevate <strong>prāṇa</strong> to the status of the ultimate principle. In the Chāndogya's famous 'contest of faculties,' prāṇa is declared the supreme faculty because when it begins to depart, all other faculties (speech, sight, hearing, mind) are dragged along with it. This led to the <strong>Prāṇa-vāda</strong> — the view that prāṇa (vital force) is the highest reality. The Katha Upanishad here <em>corrects</em> this view: prāṇa is indeed supreme among the bodily faculties, but it is <em>not</em> the ultimate reality. There is something <em>itara</em> (other) — the Self — in which even prāṇa and apāna 'have their support' (upāśritau). This 'other' is consciousness itself — not a force but the <em>ground of all forces</em>. The Katha thus establishes the Self, not prāṇa, as the final substratum."
+      }
     ]
   },
   {
@@ -210,15 +356,39 @@
     "hi": "हे गौतम (नचिकेता)! सुनो, मैं तुम्हें वह गुह्य (रहस्यमय) सनातन ब्रह्म बताऊँगा — और यह भी कि मृत्यु को प्राप्त होकर आत्मा क्या होता है।",
     "en": "Listen! I shall tell you, O Gautama (Nachiketa), this secret, the eternal Brahman — and also what happens to the Self after death.",
     "ws": [
-      {"s": "हन्त (hanta)", "h": "सुनो! (ध्यान दो)", "e": "listen! / come! — an exclamatory particle calling attention; marks an important revelation"},
-      {"s": "प्रवक्ष्यामि (pravakṣyāmi)", "h": "मैं बताऊँगा", "e": "I shall declare — future tense of pra + √vac (to speak); Yama's promise to reveal"},
-      {"s": "गुह्यम् (guhyam)", "h": "गुह्य, रहस्यमय", "e": "secret, hidden — from √guh (to hide); this teaching is concealed from ordinary perception"},
-      {"s": "सनातनम् (sanātanam)", "h": "सनातन, शाश्वत", "e": "eternal, ancient — sanātana: existing from beginningless time; a key attribute of Brahman"},
-      {"s": "मरणम् प्राप्य (maraṇaṁ prāpya)", "h": "मृत्यु को प्राप्त होकर", "e": "having reached death — maraṇa (death) + prāpya (absolutive: having attained); what happens at the moment of death"},
-      {"s": "गौतम (gautama)", "h": "गौतम — नचिकेता का गोत्र नाम", "e": "O Gautama — Nachiketa's gotra (clan) name; he is of the Gautama lineage"}
+      {
+        "s": "हन्त",
+        "h": "सुनो! (ध्यान दो)",
+        "e": "listen! / come!"
+      },
+      {
+        "s": "प्रवक्ष्यामि",
+        "h": "मैं बताऊँगा",
+        "e": "I shall declare"
+      },
+      {
+        "s": "गुह्यम्",
+        "h": "गुह्य, रहस्यमय",
+        "e": "secret, hidden"
+      },
+      {
+        "s": "सनातनम्",
+        "h": "सनातन, शाश्वत",
+        "e": "eternal, ancient"
+      },
+      {
+        "s": "मरणम् प्राप्य",
+        "h": "मृत्यु को प्राप्त होकर",
+        "e": "having reached death"
+      },
+      {
+        "s": "गौतम",
+        "h": "गौतम — नचिकेता का गोत्र नाम",
+        "e": "O Gautama"
+      }
     ],
-    "gr": "<strong>hanta</strong> — an emphatic particle: 'Come now! Listen!' — signalling that a major revelation follows. <strong>guhyaṁ brahma sanātanam</strong> — 'the secret eternal Brahman': two attributes of Brahman — it is guhya (hidden, esoteric) and sanātana (eternal, without beginning or end). <strong>yathā ca maraṇaṁ prāpya ātmā bhavati</strong> — 'and how the Self becomes after reaching death': this directly answers Nachiketa's original question from Valli 1 (1.1.20): 'What happens to a person after death?'.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.6 — This verse marks a transition: Yama is about to reveal the destinations of the Self after death (mantras 7-8), which explain the mechanics of rebirth. The address 'Gautama' (Nachiketa's gotra name) adds a personal touch — Yama is speaking directly to his disciple. This verse connects back to the original question that opened the entire Upanishad.",
+    "gr": "<strong>'हन्त' — सम्बोधनात्मक अव्यय, महत्त्वपूर्ण रहस्योद्घाटन का संकेत; ब्रह्म के दो विशेषण — गुह्य (इन्द्रिय-अगोचर) और सनातन (कालातीत); यह मन्त्र नचिकेता के मूल प्रश्न (१.१.२०) का सीधा उत्तर है।</strong><br><strong>hanta</strong> — an emphatic particle: 'Come now! Listen!' — signalling that a major revelation follows. <strong>guhyaṁ brahma sanātanam</strong> — 'the secret eternal Brahman': two attributes of Brahman — it is guhya (hidden, esoteric) and sanātana (eternal, without beginning or end). <strong>yathā ca maraṇaṁ prāpya ātmā bhavati</strong> — 'and how the Self becomes after reaching death': this directly answers Nachiketa's original question from Valli 1 (1.1.20): 'What happens to a person after death?'.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -240,8 +410,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is Nachiketa addressed as 'Gautama'?", "a": "Nachiketa is addressed by his <strong>gotra (clan) name</strong> — Gautama. His father is <strong>Vājaśravasa</strong> (also called Uddālaka Āruṇi in some recensions), who belongs to the <strong>Gautama lineage</strong>. The use of the gotra name rather than the personal name is significant: it is a formal mode of address in teacher-student dialogue, acknowledging the student's lineage and thus his eligibility (adhikāra) to receive the teaching. By calling him 'Gautama,' Yama is essentially saying: 'You come from a noble lineage of seekers — you are worthy of this secret teaching.' This is also a literary marker signalling the transition from general philosophical discussion to a <strong>specific esoteric revelation</strong> — Yama is about to disclose what happens at death, the very question Nachiketa asked in Valli 1."},
-      {"q": "🔍 What makes Brahman both 'guhya' and 'sanātana'?", "a": "<strong>Guhya</strong> (secret/hidden) and <strong>sanātana</strong> (eternal) describe Brahman's two fundamental characteristics. <strong>Guhya</strong> — Brahman is hidden not because someone deliberately conceals it, but because it is <em>beyond the reach of the senses and ordinary mind</em>. The eyes see forms, the ears hear sounds — but Brahman is formless and soundless. It is 'hidden' the way space is hidden — it is everywhere, but you cannot point to it or grasp it. The Kena Upanishad (1.3) says: '<em>na tatra cakṣur gacchati, na vāg gacchati, no manaḥ</em>' — 'The eye does not go there, nor speech, nor the mind.' <strong>Sanātana</strong> — Brahman is eternal not in the sense of lasting a very long time, but in the sense of being <em>outside time altogether</em>. It was not created and will not be destroyed because it never entered the stream of time. Past, present, and future are categories of the mind; Brahman is the ground on which the mind (and therefore time) operates. Together, these two qualities explain why Brahman must be <em>revealed</em> (pravakṣyāmi — 'I shall declare') rather than discovered — what is hidden and eternal cannot be found by ordinary search; it must be shown by one who knows."}
+      {
+        "q": "🔍 नचिकेता को 'गौतम' क्यों सम्बोधित किया गया? · Why is Nachiketa addressed as 'Gautama'?",
+        "a": "Nachiketa is addressed by his <strong>gotra (clan) name</strong> — Gautama. His father is <strong>Vājaśravasa</strong> (also called Uddālaka Āruṇi in some recensions), who belongs to the <strong>Gautama lineage</strong>. The use of the gotra name rather than the personal name is significant: it is a formal mode of address in teacher-student dialogue, acknowledging the student's lineage and thus his eligibility (adhikāra) to receive the teaching. By calling him 'Gautama,' Yama is essentially saying: 'You come from a noble lineage of seekers — you are worthy of this secret teaching.' This is also a literary marker signalling the transition from general philosophical discussion to a <strong>specific esoteric revelation</strong> — Yama is about to disclose what happens at death, the very question Nachiketa asked in Valli 1."
+      },
+      {
+        "q": "🔍 ब्रह्म 'गुह्य' और 'सनातन' दोनों कैसे है? · What makes Brahman both 'guhya' and 'sanātana'?",
+        "a": "<strong>Guhya</strong> (secret/hidden) and <strong>sanātana</strong> (eternal) describe Brahman's two fundamental characteristics. <strong>Guhya</strong> — Brahman is hidden not because someone deliberately conceals it, but because it is <em>beyond the reach of the senses and ordinary mind</em>. The eyes see forms, the ears hear sounds — but Brahman is formless and soundless. It is 'hidden' the way space is hidden — it is everywhere, but you cannot point to it or grasp it. The Kena Upanishad (1.3) says: '<em>na tatra cakṣur gacchati, na vāg gacchati, no manaḥ</em>' — 'The eye does not go there, nor speech, nor the mind.' <strong>Sanātana</strong> — Brahman is eternal not in the sense of lasting a very long time, but in the sense of being <em>outside time altogether</em>. It was not created and will not be destroyed because it never entered the stream of time. Past, present, and future are categories of the mind; Brahman is the ground on which the mind (and therefore time) operates. Together, these two qualities explain why Brahman must be <em>revealed</em> (pravakṣyāmi — 'I shall declare') rather than discovered — what is hidden and eternal cannot be found by ordinary search; it must be shown by one who knows."
+      }
     ]
   },
   {
@@ -251,16 +427,44 @@
     "hi": "कुछ देही (आत्माएँ) पुनः शरीर प्राप्त करने के लिए योनि (गर्भ) में प्रवेश करते हैं; अन्य स्थावर (वृक्ष आदि) में जाते हैं — अपने-अपने कर्म और ज्ञान के अनुसार।",
     "en": "Some embodied souls enter a womb to gain a body again; others pass into stationary forms (like trees and plants) — according to their karma and according to their knowledge.",
     "ws": [
-      {"s": "योनिम् (yonim)", "h": "गर्भ/योनि", "e": "womb — yoni: the point of origin; here specifically the womb, indicating rebirth as a moving (jaṅgama) being"},
-      {"s": "प्रपद्यन्ते (prapadyante)", "h": "प्रवेश करते हैं", "e": "they enter — pra + √pad (to go forth into); they take birth"},
-      {"s": "शरीरत्वाय (śarīratvāya)", "h": "शरीर प्राप्ति के लिए", "e": "for the purpose of embodiment — dative of purpose: 'in order to have a body'"},
-      {"s": "स्थाणुम् (sthāṇum)", "h": "स्थावर — वृक्ष, पर्वत आदि", "e": "stationary forms — sthāṇu: immovable beings like trees, plants, rocks; a lower form of birth"},
-      {"s": "अनुसंयन्ति (anusaṁyanti)", "h": "प्राप्त होते हैं", "e": "they pass into — anu + sam + √yā (to go along with); they attain that form"},
-      {"s": "यथाकर्म (yathā-karma)", "h": "कर्म के अनुसार", "e": "according to their karma — yathā (as per) + karma (action); the quality of past actions determines the next birth"},
-      {"s": "यथाश्रुतम् (yathā-śrutam)", "h": "ज्ञान/श्रवण के अनुसार", "e": "according to their knowledge — yathā (as per) + śruta (what was heard/learned); spiritual understanding also determines destiny"}
+      {
+        "s": "योनिम्",
+        "h": "गर्भ/योनि",
+        "e": "womb"
+      },
+      {
+        "s": "प्रपद्यन्ते",
+        "h": "प्रवेश करते हैं",
+        "e": "they enter"
+      },
+      {
+        "s": "शरीरत्वाय",
+        "h": "शरीर प्राप्ति के लिए",
+        "e": "for the purpose of embodiment"
+      },
+      {
+        "s": "स्थाणुम्",
+        "h": "स्थावर — वृक्ष, पर्वत आदि",
+        "e": "stationary forms"
+      },
+      {
+        "s": "अनुसंयन्ति",
+        "h": "प्राप्त होते हैं",
+        "e": "they pass into"
+      },
+      {
+        "s": "यथाकर्म",
+        "h": "कर्म के अनुसार",
+        "e": "according to their karma"
+      },
+      {
+        "s": "यथाश्रुतम्",
+        "h": "ज्ञान/श्रवण के अनुसार",
+        "e": "according to their knowledge"
+      }
     ],
-    "gr": "<strong>anye ... anye</strong> — 'some ... others': a contrast between two types of post-death destinations. <strong>yonim prapadyante</strong> — entering a womb: rebirth as a sentient, mobile being (human, animal, etc.). <strong>sthāṇum anusaṁyanti</strong> — passing into stationary forms: rebirth as a tree, plant, or mineral — considered a lower birth due to restricted consciousness. <strong>yathā-karma yathā-śrutam</strong> — two factors determine the destination: (1) karma — accumulated actions; (2) śruta — knowledge acquired. Both matter — action without knowledge and knowledge without action both have consequences.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.7 — This verse answers the question posed in mantra 6: what happens to the Self after death. The doctrine of karma and rebirth is stated concisely. The dual criterion — yathā-karma AND yathā-śrutam — shows that the Upanishad values both ethical action and spiritual knowledge. Compare Brihadaranyaka 4.4.5: 'sa yathā-karmī yathā-vidyī tathā bhavati' — 'as is his action, as is his knowledge, so does he become.'",
+    "gr": "<strong>'अन्ये...अन्ये' — दो मरणोत्तर गतियों का वैषम्य; 'योनिम्' (चर/सचेतन जन्म) बनाम 'स्थाणुम्' (अचर/स्थावर); गति-निर्धारण के दो कारक — कर्म (क्रिया) और श्रुत (ज्ञान) — दोनों सह-निर्धारक हैं।</strong><br><strong>anye ... anye</strong> — 'some ... others': a contrast between two types of post-death destinations. <strong>yonim prapadyante</strong> — entering a womb: rebirth as a sentient, mobile being (human, animal, etc.). <strong>sthāṇum anusaṁyanti</strong> — passing into stationary forms: rebirth as a tree, plant, or mineral — considered a lower birth due to restricted consciousness. <strong>yathā-karma yathā-śrutam</strong> — two factors determine the destination: (1) karma — accumulated actions; (2) śruta — knowledge acquired. Both matter — action without knowledge and knowledge without action both have consequences.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -282,8 +486,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What determines the destination of the soul after death?", "a": "The verse gives <strong>two factors</strong> that determine where the soul goes: <strong>yathā-karma</strong> (according to action) and <strong>yathā-śrutam</strong> (according to knowledge). These are not alternatives but <strong>co-determinants</strong>. <strong>Karma</strong> includes all accumulated actions — physical, verbal, and mental. Good karma leads to higher births (human or divine); bad karma leads to lower births (animal or stationary). But karma alone does not explain everything — the Brihadaranyaka (4.4.5) adds '<em>yathā-vidyī</em>' (according to knowledge), showing that understanding also shapes destiny. <strong>Śruta</strong> (literally 'what was heard') refers to spiritual knowledge — the Vedas, the Upanishads, the teachings of a guru. Knowledge can <em>override</em> karma: even with some residual karma, a person with deep spiritual knowledge can attain liberation. Conversely, good karma without knowledge leads to heavenly rewards that <em>eventually expire</em>, sending the soul back to rebirth. The ideal combination is <strong>both</strong>: righteous action AND spiritual knowledge."},
-      {"q": "🔍 What are 'stationary forms' (sthāṇu) and why are they significant?", "a": "The word <strong>sthāṇu</strong> (from √sthā, 'to stand') refers to <strong>immovable living beings</strong> — trees, plants, and by extension minerals and rocks. In the Indian classification of life, beings are divided into <strong>jaṅgama</strong> (mobile: humans, animals, birds) and <strong>sthāvara</strong> (stationary: trees, plants). Birth as a sthāvara is considered a <strong>lower birth</strong> because consciousness is highly restricted — a tree cannot move, speak, think, or seek liberation. It is a form of <strong>near-complete dormancy</strong> of consciousness. The Manu Smṛti (1.46-50) describes a hierarchy: plants < insects < animals < humans < celestials. Going 'into a sthāṇu' means the soul's consciousness has contracted to a minimal level due to the weight of tamasic karma and absence of knowledge. This is not eternal damnation — even from the lowest form, the soul eventually works its way back up through the cycle. But the message is sobering: <strong>without knowledge and right action, consciousness can regress, not just stagnate</strong>."}
+      {
+        "q": "🔍 मृत्यु के बाद आत्मा की गति किससे निर्धारित होती है? · What determines the destination of the soul after death?",
+        "a": "The verse gives <strong>two factors</strong> that determine where the soul goes: <strong>yathā-karma</strong> (according to action) and <strong>yathā-śrutam</strong> (according to knowledge). These are not alternatives but <strong>co-determinants</strong>. <strong>Karma</strong> includes all accumulated actions — physical, verbal, and mental. Good karma leads to higher births (human or divine); bad karma leads to lower births (animal or stationary). But karma alone does not explain everything — the Brihadaranyaka (4.4.5) adds '<em>yathā-vidyī</em>' (according to knowledge), showing that understanding also shapes destiny. <strong>Śruta</strong> (literally 'what was heard') refers to spiritual knowledge — the Vedas, the Upanishads, the teachings of a guru. Knowledge can <em>override</em> karma: even with some residual karma, a person with deep spiritual knowledge can attain liberation. Conversely, good karma without knowledge leads to heavenly rewards that <em>eventually expire</em>, sending the soul back to rebirth. The ideal combination is <strong>both</strong>: righteous action AND spiritual knowledge."
+      },
+      {
+        "q": "🔍 'स्थावर योनि' (स्थाणु) क्या है और इसका क्या महत्त्व है? · What are 'stationary forms' (sthāṇu) and why are they significant?",
+        "a": "The word <strong>sthāṇu</strong> (from √sthā, 'to stand') refers to <strong>immovable living beings</strong> — trees, plants, and by extension minerals and rocks. In the Indian classification of life, beings are divided into <strong>jaṅgama</strong> (mobile: humans, animals, birds) and <strong>sthāvara</strong> (stationary: trees, plants). Birth as a sthāvara is considered a <strong>lower birth</strong> because consciousness is highly restricted — a tree cannot move, speak, think, or seek liberation. It is a form of <strong>near-complete dormancy</strong> of consciousness. The Manu Smṛti (1.46-50) describes a hierarchy: plants < insects < animals < humans < celestials. Going 'into a sthāṇu' means the soul's consciousness has contracted to a minimal level due to the weight of tamasic karma and absence of knowledge. This is not eternal damnation — even from the lowest form, the soul eventually works its way back up through the cycle. But the message is sobering: <strong>without knowledge and right action, consciousness can regress, not just stagnate</strong>."
+      }
     ]
   },
   {
@@ -293,16 +503,44 @@
     "hi": "जो यह पुरुष (आत्मा) सोने वालों में (सभी प्राणियों के सोने पर भी) जागता रहता है, और इच्छा-इच्छा (विविध कामनाओं) को निर्मित (shape) करता है — वही शुक्र (शुद्ध प्रकाश) है, वही ब्रह्म है, वही अमृत कहा जाता है। सभी लोक (worlds) उसी में आश्रित हैं; उसे कोई भी अतिक्रमण (transcend) नहीं कर सकता। यही वह (ब्रह्म) है।",
     "en": "This Puruṣa who wakes while all beings sleep, shaping desire after desire — He alone is the Pure (Light), He is Brahman, He alone is called the Immortal. All worlds rest in Him; none can go beyond Him. This, verily, is That.",
     "ws": [
-      {"s": "सुप्तेषु (supteṣu)", "h": "सोने वालों में", "e": "among those who sleep — locative plural; all beings are 'asleep' in ignorance; also the dream-state where the Self alone remains awake"},
-      {"s": "जागर्ति (jāgarti)", "h": "जागता है", "e": "wakes / keeps vigil — the Self is the eternal witness, never unconscious"},
-      {"s": "कामम् कामम् (kāmaṁ kāmam)", "h": "एक-एक कामना, विविध इच्छाएँ", "e": "desire after desire — the repetition indicates multiplicity; the Self projects the dream-world of desires"},
-      {"s": "निर्मिमाणः (nirmimāṇaḥ)", "h": "निर्माण करता हुआ, रचता हुआ", "e": "shaping / fashioning — present participle of nir + √mā (to measure out, to create); the Self creates the dream-experience"},
-      {"s": "शुक्रम् (śukram)", "h": "शुद्ध, शुक्ल, प्रकाशमान", "e": "the pure / the radiant — śukra: bright, white, pure; the Self's essential nature is luminous purity"},
-      {"s": "अमृतम् (amṛtam)", "h": "अमृत, अमर", "e": "the immortal — a (not) + mṛta (dead); deathlessness, the nectar of immortality"},
-      {"s": "न अत्येति कश्चन (na atyeti kaścana)", "h": "कोई भी अतिक्रमण नहीं करता", "e": "none goes beyond — na atyeti: does not surpass; Brahman is the unsurpassable limit of reality"}
+      {
+        "s": "सुप्तेषु",
+        "h": "सोने वालों में",
+        "e": "among those who sleep"
+      },
+      {
+        "s": "जागर्ति",
+        "h": "जागता है",
+        "e": "wakes / keeps vigil"
+      },
+      {
+        "s": "कामम् कामम्",
+        "h": "एक-एक कामना, विविध इच्छाएँ",
+        "e": "desire after desire"
+      },
+      {
+        "s": "निर्मिमाणः",
+        "h": "निर्माण करता हुआ, रचता हुआ",
+        "e": "shaping / fashioning"
+      },
+      {
+        "s": "शुक्रम्",
+        "h": "शुद्ध, शुक्ल, प्रकाशमान",
+        "e": "the pure / the radiant"
+      },
+      {
+        "s": "अमृतम्",
+        "h": "अमृत, अमर",
+        "e": "the immortal"
+      },
+      {
+        "s": "न अत्येति कश्चन",
+        "h": "कोई भी अतिक्रमण नहीं करता",
+        "e": "none goes beyond"
+      }
     ],
-    "gr": "<strong>supteṣu jāgarti</strong> — 'wakes among the sleeping': the Self is the one constant awareness that persists through waking, dream, and deep sleep. When the body sleeps, the Self is awake. <strong>kāmaṁ kāmaṁ nirmimāṇaḥ</strong> — 'fashioning desire after desire': in the dream-state, the Self projects an entire world of experiences out of stored impressions (vāsanās). <strong>śukraṁ ... brahma ... amṛtam</strong> — three names for the same reality: the Pure, Brahman, the Immortal. <strong>tasmin lokāḥ śritāḥ sarve</strong> — 'all worlds rest in Him': Brahman is not within the worlds — the worlds are within Brahman.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.8 — This is one of the most important verses in the Katha, identifying the Self with the dreamer who creates the dream-world. The verse appears identically in Rig Veda 10.? (adapted). The three-fold identification (śukra + brahma + amṛta) and the phrase 'tadu nātyeti kaścana' (none surpasses Him) establish Brahman as the absolute ceiling of reality. Compare Taittirīya 2.1: 'satyaṁ jñānam anantaṁ brahma.'",
+    "gr": "<strong>'सुप्तेषु जागर्ति' — आत्मा शाश्वत साक्षी है; 'कामं कामं निर्मिमाणः' — स्वप्न में आत्मा वासनाओं से दृश्य रचता है; शुक्र, ब्रह्म, अमृत — एक ही सत्ता के तीन नाम; 'तस्मिन् लोकाः श्रिताः' — लोक ब्रह्म में हैं, ब्रह्म लोकों में नहीं।</strong><br><strong>supteṣu jāgarti</strong> — 'wakes among the sleeping': the Self is the one constant awareness that persists through waking, dream, and deep sleep. When the body sleeps, the Self is awake. <strong>kāmaṁ kāmaṁ nirmimāṇaḥ</strong> — 'fashioning desire after desire': in the dream-state, the Self projects an entire world of experiences out of stored impressions (vāsanās). <strong>śukraṁ ... brahma ... amṛtam</strong> — three names for the same reality: the Pure, Brahman, the Immortal. <strong>tasmin lokāḥ śritāḥ sarve</strong> — 'all worlds rest in Him': Brahman is not within the worlds — the worlds are within Brahman.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -324,8 +562,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 How does the Self 'wake while others sleep'?", "a": "The phrase <strong>'supteṣu jāgarti'</strong> operates on two levels. <strong>Literally</strong>: when the body and mind fall asleep, the Self remains awake — it is the awareness that <em>knows</em> sleep is happening. You wake up and say 'I slept well' — who registered that quality of sleep? Not the sleeping mind, which was inactive. It was the Self, the constant witness that never sleeps. <strong>Metaphorically</strong>: all beings are 'asleep' in the sense of being ignorant of their true nature. They go through life without recognising the Self within. But the Self is fully 'awake' — fully conscious — even while the beings it inhabits are unaware of it. The dream-state is the most vivid illustration: when the external senses shut down and the mind turns inward, the Self <strong>creates an entire experiential world</strong> out of its own substance — 'kāmaṁ kāmaṁ nirmimāṇaḥ' (fashioning desire after desire). This creative activity in dreams is evidence that consciousness is <em>prior to</em> the external world, not derived from it."},
-      {"q": "🔍 What does 'none can go beyond Him' (na atyeti kaścana) mean?", "a": "The phrase <strong>'tad u nātyeti kaścana'</strong> — 'none whatsoever goes beyond That' — establishes Brahman as the <strong>absolute limit of reality</strong>. There is nothing higher, nothing beyond, nothing outside. This is not a claim of magnitude ('He is very big') but of <strong>totality</strong> — Brahman is the <em>ground</em> of all existence, and you cannot go beyond the ground on which you stand. The statement echoes the Katha's own teaching from 1.3.11: the hierarchy of being ascends from senses → mind → buddhi → mahān ātmā → avyakta → puruṣa, and then: '<em>puruṣān na paraṁ kiñcit — sā kāṣṭhā sā parā gatiḥ</em>' — 'There is nothing beyond the Puruṣa — that is the limit, that is the highest goal.' 'All worlds rest in Him' (tasmin lokāḥ śritāḥ sarve) completes the picture: Brahman is not <em>in</em> the universe — the universe is <em>in</em> Brahman. To 'go beyond' Brahman would mean stepping outside reality itself — which is logically impossible."}
+      {
+        "q": "🔍 आत्मा 'सबकी निद्रा में' कैसे जागता है? · How does the Self 'wake while others sleep'?",
+        "a": "The phrase <strong>'supteṣu jāgarti'</strong> operates on two levels. <strong>Literally</strong>: when the body and mind fall asleep, the Self remains awake — it is the awareness that <em>knows</em> sleep is happening. You wake up and say 'I slept well' — who registered that quality of sleep? Not the sleeping mind, which was inactive. It was the Self, the constant witness that never sleeps. <strong>Metaphorically</strong>: all beings are 'asleep' in the sense of being ignorant of their true nature. They go through life without recognising the Self within. But the Self is fully 'awake' — fully conscious — even while the beings it inhabits are unaware of it. The dream-state is the most vivid illustration: when the external senses shut down and the mind turns inward, the Self <strong>creates an entire experiential world</strong> out of its own substance — 'kāmaṁ kāmaṁ nirmimāṇaḥ' (fashioning desire after desire). This creative activity in dreams is evidence that consciousness is <em>prior to</em> the external world, not derived from it."
+      },
+      {
+        "q": "🔍 'उसे कोई अतिक्रमण नहीं कर सकता' (न अत्येति कश्चन) का क्या अर्थ है? · What does 'none can go beyond Him' (na atyeti kaścana) mean?",
+        "a": "The phrase <strong>'tad u nātyeti kaścana'</strong> — 'none whatsoever goes beyond That' — establishes Brahman as the <strong>absolute limit of reality</strong>. There is nothing higher, nothing beyond, nothing outside. This is not a claim of magnitude ('He is very big') but of <strong>totality</strong> — Brahman is the <em>ground</em> of all existence, and you cannot go beyond the ground on which you stand. The statement echoes the Katha's own teaching from 1.3.11: the hierarchy of being ascends from senses → mind → buddhi → mahān ātmā → avyakta → puruṣa, and then: '<em>puruṣān na paraṁ kiñcit — sā kāṣṭhā sā parā gatiḥ</em>' — 'There is nothing beyond the Puruṣa — that is the limit, that is the highest goal.' 'All worlds rest in Him' (tasmin lokāḥ śritāḥ sarve) completes the picture: Brahman is not <em>in</em> the universe — the universe is <em>in</em> Brahman. To 'go beyond' Brahman would mean stepping outside reality itself — which is logically impossible."
+      }
     ]
   },
   {
@@ -335,14 +579,34 @@
     "hi": "जैसे एक ही अग्नि संसार में प्रविष्ट होकर प्रत्येक रूप के अनुसार (प्रतिरूप) बन जाती है — वैसे ही एक ही सर्वभूतान्तरात्मा (सभी प्राणियों का भीतरी आत्मा) प्रत्येक रूप के अनुसार बनता है और (सबके) बाहर भी है।",
     "en": "Just as the one fire, having entered the world, takes on the form of each shape (it burns in) — so the one inner Self of all beings takes the form of each form, and is also beyond (them all).",
     "ws": [
-      {"s": "अग्निः यथा एकः (agniḥ yathā ekaḥ)", "h": "जैसे एक ही अग्नि", "e": "just as the one fire — fire is one universal element, but it takes different shapes in different fuels"},
-      {"s": "भुवनम् प्रविष्टः (bhuvanaṁ praviṣṭaḥ)", "h": "संसार में प्रविष्ट होकर", "e": "having entered the world — the fire enters the world and manifests in different forms"},
-      {"s": "रूपम् रूपम् प्रतिरूपः (rūpaṁ rūpaṁ pratirūpaḥ)", "h": "प्रत्येक रूप के अनुरूप", "e": "conforming to each form — pratirūpa: counter-form, matching form; fire in wood looks different from fire in oil"},
-      {"s": "सर्वभूतान्तरात्मा (sarva-bhūta-antarātmā)", "h": "सभी प्राणियों का अन्तरात्मा", "e": "the inner Self of all beings — the compound: sarva (all) + bhūta (beings) + antar (inner) + ātmā (Self)"},
-      {"s": "बहिः च (bahiḥ ca)", "h": "और बाहर भी", "e": "and also outside — bahis (outside); the Self is both immanent and transcendent"}
+      {
+        "s": "अग्निः यथा एकः",
+        "h": "जैसे एक ही अग्नि",
+        "e": "just as the one fire"
+      },
+      {
+        "s": "भुवनम् प्रविष्टः",
+        "h": "संसार में प्रविष्ट होकर",
+        "e": "having entered the world"
+      },
+      {
+        "s": "रूपम् रूपम् प्रतिरूपः",
+        "h": "प्रत्येक रूप के अनुरूप",
+        "e": "conforming to each form"
+      },
+      {
+        "s": "सर्वभूतान्तरात्मा",
+        "h": "सभी प्राणियों का अन्तरात्मा",
+        "e": "the inner Self of all beings"
+      },
+      {
+        "s": "बहिः च",
+        "h": "और बाहर भी",
+        "e": "and also outside"
+      }
     ],
-    "gr": "<strong>agniḥ yathā ekaḥ</strong> — the fire-analogy: one fire, many shapes. The fire that burns in a lamp, a forest, and a kitchen is the same fire — but it looks different in each. <strong>rūpaṁ rūpaṁ pratirūpaḥ</strong> — 'matching form after form': the Self takes on the appearance of each being it inhabits, just as fire takes on the shape of what it burns. <strong>sarva-bhūta-antarātmā</strong> — a magnificent compound: 'the inner Self of all beings'; this is the Self not as a personal possession but as the universal presence within everything. <strong>bahiḥ ca</strong> — 'and outside too': the Self is not confined to the interior — it also transcends all forms. This adds the dimension of transcendence to immanence.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.9 — This verse (and the following four) present a series of analogies for the Self's simultaneous immanence and transcendence. The fire-analogy is the first. Compare Shvetashvatara 6.11: 'eko devaḥ sarva-bhūteṣu gūḍhaḥ' — 'the one God hidden in all beings.' The Bhagavad Gītā (13.16) echoes: 'bahir antaś ca bhūtānām' — 'inside and outside of all beings.'",
+    "gr": "<strong>अग्नि-उपमा — एक अग्नि अनेक आकृतियों में; 'रूपं रूपं प्रतिरूपः' — आत्मा प्रत्येक पात्र के अनुरूप प्रकट होता है; 'सर्वभूतान्तरात्मा' — भव्य षष्ठी-तत्पुरुष समास; 'बहिश्च' — अन्तर्व्यापकता के साथ-साथ अतिक्रमणशीलता।</strong><br><strong>agniḥ yathā ekaḥ</strong> — the fire-analogy: one fire, many shapes. The fire that burns in a lamp, a forest, and a kitchen is the same fire — but it looks different in each. <strong>rūpaṁ rūpaṁ pratirūpaḥ</strong> — 'matching form after form': the Self takes on the appearance of each being it inhabits, just as fire takes on the shape of what it burns. <strong>sarva-bhūta-antarātmā</strong> — a magnificent compound: 'the inner Self of all beings'; this is the Self not as a personal possession but as the universal presence within everything. <strong>bahiḥ ca</strong> — 'and outside too': the Self is not confined to the interior — it also transcends all forms. This adds the dimension of transcendence to immanence.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -364,8 +628,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is fire chosen as the analogy for the Self?", "a": "<strong>Fire (agni)</strong> is perhaps the most apt analogy for the Self because it shares several key properties: (1) <strong>One yet many</strong>: there is one 'fire-principle' but it manifests differently in a candle, a forest fire, a kitchen stove, and the sun — just as one Self manifests differently in an ant, a human, and a deity. (2) <strong>Transforms but is not consumed</strong>: fire transforms fuel but remains fire — the Self inhabits bodies but remains unchanged. (3) <strong>Hidden until manifested</strong>: fire is latent in wood (as friction-fire) and becomes visible when drawn out — the Self is latent in beings and becomes 'visible' through spiritual practice. (4) <strong>Luminous</strong>: fire is self-luminous (svayaṁ-prakāśa) — it reveals other things without needing to be revealed itself, just as consciousness illuminates experience without needing another consciousness to illumine it. The Vedas consistently use fire (Agni) as the primary symbol of the divine — the very first word of the Rig Veda is 'agnim.'"},
-      {"q": "🔍 What does 'bahiḥ ca' (and outside too) add to the teaching?", "a": "The phrase <strong>'bahiḥ ca'</strong> (and outside too) prevents a common misunderstanding: that the Self is <em>only</em> immanent — only inside things. If the Self were only internal, it would be <em>limited by</em> the forms it inhabits — just as water in a glass is shaped and bounded by the glass. By adding 'bahiḥ ca,' the Upanishad asserts that the Self is also <strong>transcendent</strong> — it exceeds every form it inhabits. The Self in a human body is not confined to that body; it also exists beyond it, pervading space itself. This is the doctrine of <strong>simultaneous immanence and transcendence</strong> — the Self is fully present in every being AND fully beyond every being at the same time. The Bhagavad Gītā (9.4-5) expresses this paradox directly: '<em>mayā tatam idaṁ sarvaṁ jagat avyakta-mūrtinā; mat-sthāni sarva-bhūtāni, na cāhaṁ teṣv avasthitaḥ</em>' — 'I pervade this entire world in My unmanifest form; all beings are in Me, yet I am not in them.' This is the mystery: the infinite can be fully in the finite without being reduced to it."}
+      {
+        "q": "🔍 आत्मा के लिए अग्नि की उपमा क्यों चुनी गई? · Why is fire chosen as the analogy for the Self?",
+        "a": "<strong>Fire (agni)</strong> is perhaps the most apt analogy for the Self because it shares several key properties: (1) <strong>One yet many</strong>: there is one 'fire-principle' but it manifests differently in a candle, a forest fire, a kitchen stove, and the sun — just as one Self manifests differently in an ant, a human, and a deity. (2) <strong>Transforms but is not consumed</strong>: fire transforms fuel but remains fire — the Self inhabits bodies but remains unchanged. (3) <strong>Hidden until manifested</strong>: fire is latent in wood (as friction-fire) and becomes visible when drawn out — the Self is latent in beings and becomes 'visible' through spiritual practice. (4) <strong>Luminous</strong>: fire is self-luminous (svayaṁ-prakāśa) — it reveals other things without needing to be revealed itself, just as consciousness illuminates experience without needing another consciousness to illumine it. The Vedas consistently use fire (Agni) as the primary symbol of the divine — the very first word of the Rig Veda is 'agnim.'"
+      },
+      {
+        "q": "🔍 'बहिश्च' (और बाहर भी) शिक्षा में क्या जोड़ता है? · What does 'bahiḥ ca' (and outside too) add to the teaching?",
+        "a": "The phrase <strong>'bahiḥ ca'</strong> (and outside too) prevents a common misunderstanding: that the Self is <em>only</em> immanent — only inside things. If the Self were only internal, it would be <em>limited by</em> the forms it inhabits — just as water in a glass is shaped and bounded by the glass. By adding 'bahiḥ ca,' the Upanishad asserts that the Self is also <strong>transcendent</strong> — it exceeds every form it inhabits. The Self in a human body is not confined to that body; it also exists beyond it, pervading space itself. This is the doctrine of <strong>simultaneous immanence and transcendence</strong> — the Self is fully present in every being AND fully beyond every being at the same time. The Bhagavad Gītā (9.4-5) expresses this paradox directly: '<em>mayā tatam idaṁ sarvaṁ jagat avyakta-mūrtinā; mat-sthāni sarva-bhūtāni, na cāhaṁ teṣv avasthitaḥ</em>' — 'I pervade this entire world in My unmanifest form; all beings are in Me, yet I am not in them.' This is the mystery: the infinite can be fully in the finite without being reduced to it."
+      }
     ]
   },
   {
@@ -375,14 +645,34 @@
     "hi": "जैसे एक ही वायु संसार में प्रविष्ट होकर प्रत्येक रूप के अनुसार बन जाती है — वैसे ही एक ही सर्वभूतान्तरात्मा (सभी प्राणियों का भीतरी आत्मा) प्रत्येक रूप के अनुसार बनता है और (सबके) बाहर भी है।",
     "en": "Just as the one wind (vāyu), having entered the world, takes on the form of each shape — so the one inner Self of all beings takes the form of each form, and is also beyond (them all).",
     "ws": [
-      {"s": "वायुः (vāyuḥ)", "h": "वायु, पवन", "e": "wind — vāyu: the universal air/wind; one element that takes different forms (breeze, storm, breath)"},
-      {"s": "भुवनम् प्रविष्टः (bhuvanaṁ praviṣṭaḥ)", "h": "संसार में प्रविष्ट होकर", "e": "having entered the world — the wind enters and pervades the world"},
-      {"s": "रूपम् रूपम् प्रतिरूपः (rūpaṁ rūpaṁ pratirūpaḥ)", "h": "प्रत्येक रूप के अनुरूप", "e": "conforming to each form — wind in a flute sounds different from wind in a storm, yet it is the same air"},
-      {"s": "सर्वभूतान्तरात्मा (sarva-bhūta-antarātmā)", "h": "सभी प्राणियों का अन्तरात्मा", "e": "the inner Self of all beings — same compound as the previous verse; the one universal Self"},
-      {"s": "बहिः च (bahiḥ ca)", "h": "और बाहर भी", "e": "and also outside — the Self transcends all forms even while pervading them"}
+      {
+        "s": "वायुः",
+        "h": "वायु, पवन",
+        "e": "wind"
+      },
+      {
+        "s": "भुवनम् प्रविष्टः",
+        "h": "संसार में प्रविष्ट होकर",
+        "e": "having entered the world"
+      },
+      {
+        "s": "रूपम् रूपम् प्रतिरूपः",
+        "h": "प्रत्येक रूप के अनुरूप",
+        "e": "conforming to each form"
+      },
+      {
+        "s": "सर्वभूतान्तरात्मा",
+        "h": "सभी प्राणियों का अन्तरात्मा",
+        "e": "the inner Self of all beings"
+      },
+      {
+        "s": "बहिः च",
+        "h": "और बाहर भी",
+        "e": "and also outside"
+      }
     ],
-    "gr": "<strong>vāyuḥ yathā ekaḥ</strong> — the wind-analogy: structurally identical to the fire-analogy (mantra 9), but using wind instead of fire. Wind is formless, invisible, and all-pervading — an even more apt image for the Self. <strong>rūpaṁ rūpaṁ pratirūpaḥ</strong> — wind takes on the 'form' of whatever it passes through: a gentle breeze through trees, a howling gale in a canyon, the breath in human lungs — yet it is the same air. <strong>bahiḥ ca</strong> — again emphasising transcendence alongside immanence.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.10 — This verse is structurally identical to mantra 9, substituting vāyu (wind) for agni (fire). The pair agni-vāyu represents two of the three great cosmic forces in Vedic thought (the third being āditya/sun). Wind adds the quality of invisibility — unlike fire, you cannot see wind, only its effects. This makes it an even better analogy for the invisible Self.",
+    "gr": "<strong>वायु-उपमा — मन्त्र ९ की अग्नि-उपमा के समान संरचना; वायु निराकार एवं अदृश्य है — आत्मा की अगोचरता के लिए अधिक सटीक; 'बहिश्च' — पुनः अन्तर्व्यापकता एवं पारगामिता पर बल।</strong><br><strong>vāyuḥ yathā ekaḥ</strong> — the wind-analogy: structurally identical to the fire-analogy (mantra 9), but using wind instead of fire. Wind is formless, invisible, and all-pervading — an even more apt image for the Self. <strong>rūpaṁ rūpaṁ pratirūpaḥ</strong> — wind takes on the 'form' of whatever it passes through: a gentle breeze through trees, a howling gale in a canyon, the breath in human lungs — yet it is the same air. <strong>bahiḥ ca</strong> — again emphasising transcendence alongside immanence.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -404,8 +694,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why does the Upanishad repeat the same structure with different elements?", "a": "Mantras 9-12 form a <strong>series of analogies</strong> with nearly identical structure but different elements — fire (9), wind (10), sun (11), and space (implied). This is a <strong>deliberate pedagogical technique</strong>: by repeating the same truth through different images, the teacher ensures the student grasps the <em>principle</em> rather than getting attached to any single metaphor. Each element adds a new dimension: <strong>Fire</strong> (mantra 9) — highlights <em>luminosity and transformation</em>; the Self illuminates and transforms. <strong>Wind</strong> (mantra 10) — highlights <em>invisibility and pervasion</em>; the Self is unseen yet felt everywhere. The upcoming sun-analogy (mantra 11) will highlight <em>independence from contact</em>. By stacking these analogies, the Upanishad builds a multi-dimensional understanding of the Self that no single metaphor could provide."},
-      {"q": "🔍 What does wind add that fire does not?", "a": "Wind (vāyu) complements fire (agni) by adding the quality of <strong>formlessness and invisibility</strong>. Fire, while luminous, is <em>visible</em> — you can point to a flame, photograph it, measure its heat. Wind is <em>invisible</em> — you know it only through its <strong>effects</strong>: rustling leaves, moving clouds, the sensation on your skin. This makes wind a superior analogy for the Self in one crucial respect: the Self, like wind, is <strong>never directly perceived by the senses</strong>. You cannot see it, hear it, touch it, taste it, or smell it (as Katha 1.3.15 stated: 'aśabdam asparśam arūpam'). Yet its effects are everywhere — consciousness, life, intelligence, awareness. The wind-analogy also adds <strong>universality of access</strong>: wind enters every crack, every space, every crevice — nothing is sealed against it. Similarly, the Self pervades every being without exception, from the largest to the smallest, from the highest to the lowest."}
+      {
+        "q": "🔍 उपनिषद् एक ही संरचना को भिन्न तत्त्वों के साथ क्यों दोहराता है? · Why does the Upanishad repeat the same structure with different elements?",
+        "a": "Mantras 9-12 form a <strong>series of analogies</strong> with nearly identical structure but different elements — fire (9), wind (10), sun (11), and space (implied). This is a <strong>deliberate pedagogical technique</strong>: by repeating the same truth through different images, the teacher ensures the student grasps the <em>principle</em> rather than getting attached to any single metaphor. Each element adds a new dimension: <strong>Fire</strong> (mantra 9) — highlights <em>luminosity and transformation</em>; the Self illuminates and transforms. <strong>Wind</strong> (mantra 10) — highlights <em>invisibility and pervasion</em>; the Self is unseen yet felt everywhere. The upcoming sun-analogy (mantra 11) will highlight <em>independence from contact</em>. By stacking these analogies, the Upanishad builds a multi-dimensional understanding of the Self that no single metaphor could provide."
+      },
+      {
+        "q": "🔍 वायु-उपमा अग्नि-उपमा में क्या नया जोड़ती है? · What does wind add that fire does not?",
+        "a": "Wind (vāyu) complements fire (agni) by adding the quality of <strong>formlessness and invisibility</strong>. Fire, while luminous, is <em>visible</em> — you can point to a flame, photograph it, measure its heat. Wind is <em>invisible</em> — you know it only through its <strong>effects</strong>: rustling leaves, moving clouds, the sensation on your skin. This makes wind a superior analogy for the Self in one crucial respect: the Self, like wind, is <strong>never directly perceived by the senses</strong>. You cannot see it, hear it, touch it, taste it, or smell it (as Katha 1.3.15 stated: 'aśabdam asparśam arūpam'). Yet its effects are everywhere — consciousness, life, intelligence, awareness. The wind-analogy also adds <strong>universality of access</strong>: wind enters every crack, every space, every crevice — nothing is sealed against it. Similarly, the Self pervades every being without exception, from the largest to the smallest, from the highest to the lowest."
+      }
     ]
   },
   {
@@ -415,15 +711,39 @@
     "hi": "जैसे सूर्य — जो समस्त संसार की आँख है — बाहरी नेत्र-दोषों (जैसे अन्धापन, मोतियाबिन्द) से लिप्त (दूषित) नहीं होता — वैसे ही एक सर्वभूतान्तरात्मा संसार के दुःख से लिप्त नहीं होता — वह (सबसे) बाह्य (बाहर/परे) है।",
     "en": "Just as the sun — the eye of the whole world — is not tainted by the external defects of the eyes (that see it) — so the one inner Self of all beings is not tainted by the suffering of the world, for He is beyond (it all).",
     "ws": [
-      {"s": "सूर्यः (sūryaḥ)", "h": "सूर्य", "e": "the sun — the universal source of light; analogy for the Self as the illuminator of all experience"},
-      {"s": "सर्वलोकस्य चक्षुः (sarva-lokasya cakṣuḥ)", "h": "समस्त संसार की आँख", "e": "the eye of the whole world — the sun makes sight possible; without it, nothing is visible"},
-      {"s": "न लिप्यते (na lipyate)", "h": "लिप्त/दूषित नहीं होता", "e": "is not tainted — from √lip (to smear, to stain); the sun is untouched by what it illuminates"},
-      {"s": "चाक्षुषैः बाह्यदोषैः (cākṣuṣaiḥ bāhya-doṣaiḥ)", "h": "बाहरी नेत्र-दोषों से", "e": "by external defects of the eye — cākṣuṣa (pertaining to the eye) + bāhya (external) + doṣa (fault); cataracts, blindness, etc. are defects of the eye, not of the sun"},
-      {"s": "लोकदुःखेन (loka-duḥkhena)", "h": "संसार के दुःख से", "e": "by the suffering of the world — the totality of worldly pain and sorrow"},
-      {"s": "बाह्यः (bāhyaḥ)", "h": "बाहर/परे", "e": "external / beyond — the Self stands outside worldly suffering; it is transcendent"}
+      {
+        "s": "सूर्यः",
+        "h": "सूर्य",
+        "e": "the sun"
+      },
+      {
+        "s": "सर्वलोकस्य चक्षुः",
+        "h": "समस्त संसार की आँख",
+        "e": "the eye of the whole world"
+      },
+      {
+        "s": "न लिप्यते",
+        "h": "लिप्त/दूषित नहीं होता",
+        "e": "is not tainted"
+      },
+      {
+        "s": "चाक्षुषैः बाह्यदोषैः",
+        "h": "बाहरी नेत्र-दोषों से",
+        "e": "by external defects of the eye"
+      },
+      {
+        "s": "लोकदुःखेन",
+        "h": "संसार के दुःख से",
+        "e": "by the suffering of the world"
+      },
+      {
+        "s": "बाह्यः",
+        "h": "बाहर/परे",
+        "e": "external / beyond"
+      }
     ],
-    "gr": "<strong>sūryaḥ yathā sarva-lokasya cakṣuḥ</strong> — the sun as 'the world's eye' (cakṣuḥ) — a Vedic image. The sun enables all seeing, but the defects of individual eyes do not affect the sun. <strong>na lipyate</strong> — 'is not smeared/tainted': the Self is untouched by the suffering of the beings it inhabits. <strong>cākṣuṣaiḥ bāhya-doṣaiḥ</strong> — a blind person's blindness is a defect of their eye, not of the sun — similarly, a being's suffering is a condition of their body/mind, not of the Self. <strong>bāhyaḥ</strong> — 'external/beyond': the Self transcends worldly suffering, even while pervading the world.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.11 — This sun-analogy is the most important of the series because it addresses the problem of suffering: if the Self is in all beings, is it tainted by their suffering? The answer is no — just as the sun is untainted by defective eyes. This verse appears nearly identically in the Shvetashvatara Upanishad (6.11) and is echoed in the Bhagavad Gītā (13.33): 'yathā sarva-gataṁ saukṣmyād ākāśaṁ nopalipyate.'",
+    "gr": "<strong>सूर्य 'संसार का नेत्र' (चक्षुः) — वैदिक बिम्ब; 'न लिप्यते' — आत्मा प्राणियों के दुःख से अस्पृष्ट; नेत्र-दोष (अन्धापन आदि) सूर्य का नहीं — वैसे ही शरीर-दुःख आत्मा का नहीं; 'बाह्यः' — आत्मा सांसारिक दुःख से पर है।</strong><br><strong>sūryaḥ yathā sarva-lokasya cakṣuḥ</strong> — the sun as 'the world's eye' (cakṣuḥ) — a Vedic image. The sun enables all seeing, but the defects of individual eyes do not affect the sun. <strong>na lipyate</strong> — 'is not smeared/tainted': the Self is untouched by the suffering of the beings it inhabits. <strong>cākṣuṣaiḥ bāhya-doṣaiḥ</strong> — a blind person's blindness is a defect of their eye, not of the sun — similarly, a being's suffering is a condition of their body/mind, not of the Self. <strong>bāhyaḥ</strong> — 'external/beyond': the Self transcends worldly suffering, even while pervading the world.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -445,8 +765,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 How can the Self be 'in' all beings yet untouched by suffering?", "a": "This is one of the most profound questions in philosophy: if God/the Self is present in every being, does it <em>suffer</em> along with them? The Katha's answer, via the <strong>sun-analogy</strong>, is a clear <strong>no</strong>. The logic is precise: a person with <strong>cataracts</strong> sees the world blurred, but the <strong>sun</strong> is not blurred — the defect is in the <em>receiving instrument</em> (the eye), not in the <em>source</em> (the sun). Similarly, suffering occurs in the <em>body-mind complex</em> (the receiving instrument), not in the <em>Self</em> (the source of consciousness). The Self <strong>illuminates</strong> suffering — it is the light by which you <em>know</em> you are suffering — but it is not itself suffering. Think of it this way: a mirror reflects a fire, but the mirror does not burn. The Self reflects all experiences — pleasure, pain, grief, joy — without being affected by any of them. This is what Advaita Vedānta calls <strong>sākṣi-caitanya</strong> — witness-consciousness: the Self that sees all without being touched by what it sees."},
-      {"q": "🔍 What is the relationship between this verse and the Bhagavad Gītā?", "a": "This verse resonates strongly with several Gītā passages. <strong>Gītā 13.33</strong> uses a nearly identical analogy: '<em>yathā sarva-gataṁ saukṣmyād ākāśaṁ nopalipyate, sarvatrāvasthito dehe tathātmā nopalipyate</em>' — 'Just as the all-pervading space, due to its subtlety, is not tainted, so the Self, though dwelling everywhere in the body, is not tainted.' <strong>Gītā 5.15</strong>: '<em>nādatte kasyacit pāpaṁ na caiva sukṛtaṁ vibhuḥ</em>' — 'The all-pervading Lord does not take anyone's sin or merit.' <strong>Gītā 13.32</strong>: '<em>anāditvān nirguṇatvāt paramātmā'yam avyayaḥ, śarīra-stho'pi kaunteya na karoti na lipyate</em>' — 'Being beginningless and without guṇas, this imperishable supreme Self, though dwelling in the body, neither acts nor is tainted.' The Katha's sun-analogy is the original source that Kṛṣṇa's teaching draws upon. Both texts make the same radical claim: <strong>the Self is IN the body but not OF the body</strong> — it is present without being implicated."}
+      {
+        "q": "🔍 आत्मा सभी प्राणियों 'में' रहकर भी दुःख से अस्पृष्ट कैसे है? · How can the Self be 'in' all beings yet untouched by suffering?",
+        "a": "This is one of the most profound questions in philosophy: if God/the Self is present in every being, does it <em>suffer</em> along with them? The Katha's answer, via the <strong>sun-analogy</strong>, is a clear <strong>no</strong>. The logic is precise: a person with <strong>cataracts</strong> sees the world blurred, but the <strong>sun</strong> is not blurred — the defect is in the <em>receiving instrument</em> (the eye), not in the <em>source</em> (the sun). Similarly, suffering occurs in the <em>body-mind complex</em> (the receiving instrument), not in the <em>Self</em> (the source of consciousness). The Self <strong>illuminates</strong> suffering — it is the light by which you <em>know</em> you are suffering — but it is not itself suffering. Think of it this way: a mirror reflects a fire, but the mirror does not burn. The Self reflects all experiences — pleasure, pain, grief, joy — without being affected by any of them. This is what Advaita Vedānta calls <strong>sākṣi-caitanya</strong> — witness-consciousness: the Self that sees all without being touched by what it sees."
+      },
+      {
+        "q": "🔍 इस मन्त्र और भगवद्गीता में क्या सम्बन्ध है? · What is the relationship between this verse and the Bhagavad Gītā?",
+        "a": "This verse resonates strongly with several Gītā passages. <strong>Gītā 13.33</strong> uses a nearly identical analogy: '<em>yathā sarva-gataṁ saukṣmyād ākāśaṁ nopalipyate, sarvatrāvasthito dehe tathātmā nopalipyate</em>' — 'Just as the all-pervading space, due to its subtlety, is not tainted, so the Self, though dwelling everywhere in the body, is not tainted.' <strong>Gītā 5.15</strong>: '<em>nādatte kasyacit pāpaṁ na caiva sukṛtaṁ vibhuḥ</em>' — 'The all-pervading Lord does not take anyone's sin or merit.' <strong>Gītā 13.32</strong>: '<em>anāditvān nirguṇatvāt paramātmā'yam avyayaḥ, śarīra-stho'pi kaunteya na karoti na lipyate</em>' — 'Being beginningless and without guṇas, this imperishable supreme Self, though dwelling in the body, neither acts nor is tainted.' The Katha's sun-analogy is the original source that Kṛṣṇa's teaching draws upon. Both texts make the same radical claim: <strong>the Self is IN the body but not OF the body</strong> — it is present without being implicated."
+      }
     ]
   },
   {
@@ -456,16 +782,44 @@
     "hi": "एक, वशी (सबके नियन्ता), सर्वभूतान्तरात्मा — जो अपने एक रूप को बहुधा (अनेक रूपों में) बनाता है — जो धीर (बुद्धिमान) उसे आत्मस्थ (अपने आत्मा में स्थित) देखते हैं, उनको शाश्वत सुख है — दूसरों को नहीं।",
     "en": "The one controller, the inner Self of all beings, who makes His one form manifold — the wise who see Him established in their own Self, to them belongs eternal bliss, and to no others.",
     "ws": [
-      {"s": "एकः वशी (ekaḥ vaśī)", "h": "एक, सबका नियन्ता", "e": "the one controller — eka (one) + vaśin (having mastery, from √vaś 'to will/control'); the Self rules all from within"},
-      {"s": "एकम् रूपम् बहुधा करोति (ekaṁ rūpaṁ bahudhā karoti)", "h": "एक रूप को अनेक बनाता है", "e": "makes the one form manifold — the Self multiplies its single nature into countless forms; the creative power of Brahman"},
-      {"s": "आत्मस्थम् (ātma-stham)", "h": "आत्मा में स्थित", "e": "established in the Self — ātma (Self) + stha (standing); the Self is found within one's own being"},
-      {"s": "अनुपश्यन्ति (anupaśyanti)", "h": "देखते हैं, अनुभव करते हैं", "e": "they see / they perceive — anu + √paś (to see); meditative perception, not ordinary seeing"},
-      {"s": "धीराः (dhīrāḥ)", "h": "धीर — बुद्धिमान, स्थिर-बुद्धि", "e": "the wise / the steadfast — dhīra: one with stable intelligence; those who can sustain contemplation"},
-      {"s": "शाश्वतम् सुखम् (śāśvataṁ sukham)", "h": "शाश्वत (अनन्त) सुख", "e": "eternal bliss — śāśvata (perpetual) + sukha (happiness); not temporary pleasure but permanent fulfilment"},
-      {"s": "न इतरेषाम् (na itareṣām)", "h": "दूसरों को नहीं", "e": "not to others — itara (other); those who do not see the Self are excluded from eternal bliss"}
+      {
+        "s": "एकः वशी",
+        "h": "एक, सबका नियन्ता",
+        "e": "the one controller"
+      },
+      {
+        "s": "एकम् रूपम् बहुधा करोति",
+        "h": "एक रूप को अनेक बनाता है",
+        "e": "makes the one form manifold"
+      },
+      {
+        "s": "आत्मस्थम्",
+        "h": "आत्मा में स्थित",
+        "e": "established in the Self"
+      },
+      {
+        "s": "अनुपश्यन्ति",
+        "h": "देखते हैं, अनुभव करते हैं",
+        "e": "they see / they perceive"
+      },
+      {
+        "s": "धीराः",
+        "h": "धीर — बुद्धिमान, स्थिर-बुद्धि",
+        "e": "the wise / the steadfast"
+      },
+      {
+        "s": "शाश्वतम् सुखम्",
+        "h": "शाश्वत (अनन्त) सुख",
+        "e": "eternal bliss"
+      },
+      {
+        "s": "न इतरेषाम्",
+        "h": "दूसरों को नहीं",
+        "e": "not to others"
+      }
     ],
-    "gr": "<strong>ekaḥ vaśī</strong> — 'the one controller': the Self is not just a passive witness but an active sovereign. <strong>ekaṁ rūpaṁ bahudhā yaḥ karoti</strong> — 'who makes the one form manifold': the many forms of the world are the Self's own self-multiplication — not the creation of a separate material. <strong>ātma-stham</strong> — 'established in the Self': the search for the Self does not go outward but inward — the Self is found in one's own being. <strong>teṣāṁ sukhaṁ śāśvatam, na itareṣām</strong> — a sharp exclusion: eternal bliss belongs ONLY to those who see the Self, and to NO ONE ELSE.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.12 — This verse combines the ontological teaching (the Self makes one form into many) with the soteriological promise (those who see this gain eternal bliss). The phrase 'teṣāṁ sukhaṁ śāśvataṁ netareṣām' appears also in Shvetashvatara 6.12, nearly identical. The exclusion — 'not to others' — is not cruelty but a statement of natural law: only those who open their eyes can see the sun.",
+    "gr": "<strong>'एकः वशी' — आत्मा निष्क्रिय साक्षी नहीं, सक्रिय नियन्ता है; 'एकं रूपं बहुधा करोति' — विविधता आत्मा का स्व-बहुलीकरण है; 'आत्मस्थम्' — खोज बाहर नहीं, भीतर; 'न इतरेषाम्' — तीक्ष्ण बहिष्करण — शाश्वत सुख केवल द्रष्टा का।</strong><br><strong>ekaḥ vaśī</strong> — 'the one controller': the Self is not just a passive witness but an active sovereign. <strong>ekaṁ rūpaṁ bahudhā yaḥ karoti</strong> — 'who makes the one form manifold': the many forms of the world are the Self's own self-multiplication — not the creation of a separate material. <strong>ātma-stham</strong> — 'established in the Self': the search for the Self does not go outward but inward — the Self is found in one's own being. <strong>teṣāṁ sukhaṁ śāśvatam, na itareṣām</strong> — a sharp exclusion: eternal bliss belongs ONLY to those who see the Self, and to NO ONE ELSE.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -487,8 +841,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why is eternal bliss exclusive to the 'wise' (dhīra)?", "a": "The phrase <strong>'teṣāṁ sukhaṁ śāśvataṁ na itareṣām'</strong> — 'eternal bliss is theirs, not others'' — sounds exclusive, but it is descriptive, not prescriptive. It is not that the Self <em>refuses</em> bliss to the unwise — it is that <strong>bliss is the natural result of seeing the Self</strong>, and its absence is the natural result of not seeing it. An analogy: 'those who open their eyes see the sun; those who keep them shut do not' — this is not cruelty; it is the nature of seeing. The word <strong>dhīra</strong> (the wise, the steadfast) comes from <strong>dhī</strong> (intelligence, contemplative understanding). A dhīra is not someone who has memorised scriptures but someone who has developed the <strong>inner vision</strong> to perceive the Self within. The exclusion 'na itareṣām' is therefore an invitation, not a sentence: <em>become</em> a dhīra, and eternal bliss becomes yours. It is always available — the only barrier is the failure to look."},
-      {"q": "🔍 What does 'ātma-stham' (established in the Self) mean practically?", "a": "The compound <strong>ātma-stham</strong> (ātma + stha = 'standing in the Self') contains a crucial practical teaching: <strong>the Self is found within, not without</strong>. You do not need to go to a forest, a temple, or a mountain to find the Self — it is 'ātma-stha,' already established in your own being. Practically, this means the path to the Self is <strong>introspection, not exploration</strong>. The Upanishads describe this as a turning-inward of attention — what the Katha (1.3.12) calls the Self 'hidden in all beings, not manifest, seen by subtle seers with sharp and subtle intellect.' The practice is <strong>meditation</strong> — specifically, the withdrawal of attention from external objects and its redirection toward the source of awareness itself. 'Who is the one who sees? Who is aware?' — pursuing this question relentlessly leads to the discovery that the <strong>seeker IS the sought</strong>. The Self is not something you find at the end of a search — it is the one who is searching. To recognise this is to be 'established in the Self' (ātma-stha)."}
+      {
+        "q": "🔍 शाश्वत सुख केवल 'धीर' (बुद्धिमान) को ही क्यों? · Why is eternal bliss exclusive to the 'wise' (dhīra)?",
+        "a": "The phrase <strong>'teṣāṁ sukhaṁ śāśvataṁ na itareṣām'</strong> — 'eternal bliss is theirs, not others'' — sounds exclusive, but it is descriptive, not prescriptive. It is not that the Self <em>refuses</em> bliss to the unwise — it is that <strong>bliss is the natural result of seeing the Self</strong>, and its absence is the natural result of not seeing it. An analogy: 'those who open their eyes see the sun; those who keep them shut do not' — this is not cruelty; it is the nature of seeing. The word <strong>dhīra</strong> (the wise, the steadfast) comes from <strong>dhī</strong> (intelligence, contemplative understanding). A dhīra is not someone who has memorised scriptures but someone who has developed the <strong>inner vision</strong> to perceive the Self within. The exclusion 'na itareṣām' is therefore an invitation, not a sentence: <em>become</em> a dhīra, and eternal bliss becomes yours. It is always available — the only barrier is the failure to look."
+      },
+      {
+        "q": "🔍 'आत्मस्थम्' (आत्मा में स्थित) का व्यावहारिक अर्थ क्या है? · What does 'ātma-stham' (established in the Self) mean practically?",
+        "a": "The compound <strong>ātma-stham</strong> (ātma + stha = 'standing in the Self') contains a crucial practical teaching: <strong>the Self is found within, not without</strong>. You do not need to go to a forest, a temple, or a mountain to find the Self — it is 'ātma-stha,' already established in your own being. Practically, this means the path to the Self is <strong>introspection, not exploration</strong>. The Upanishads describe this as a turning-inward of attention — what the Katha (1.3.12) calls the Self 'hidden in all beings, not manifest, seen by subtle seers with sharp and subtle intellect.' The practice is <strong>meditation</strong> — specifically, the withdrawal of attention from external objects and its redirection toward the source of awareness itself. 'Who is the one who sees? Who is aware?' — pursuing this question relentlessly leads to the discovery that the <strong>seeker IS the sought</strong>. The Self is not something you find at the end of a search — it is the one who is searching. To recognise this is to be 'established in the Self' (ātma-stha)."
+      }
     ]
   },
   {
@@ -498,15 +858,39 @@
     "hi": "अनित्यों में नित्य, चेतनों में (परम) चेतन, जो एक होकर बहुतों की कामनाओं को पूर्ण करता है — जो धीर (बुद्धिमान) उसे आत्मस्थ (अपने आत्मा में स्थित) देखते हैं, उनकी शान्ति शाश्वती (शाश्वत) है — दूसरों की नहीं।",
     "en": "The Eternal among the ephemeral, the Conscious among the conscious, the One who fulfils the desires of the many — the wise who see Him established in their own Self, to them belongs eternal peace, and to no others.",
     "ws": [
-      {"s": "नित्यः अनित्यानाम् (nityaḥ anityānām)", "h": "अनित्यों में (वह) नित्य", "e": "the Eternal among the non-eternal — nitya (permanent) among anitya (impermanent); the Self alone is changeless amid the changing world"},
-      {"s": "चेतनः चेतनानाम् (cetanaḥ cetanānām)", "h": "चेतनों में (परम) चेतन", "e": "the Conscious among the conscious — cetana (sentient/aware); the Self is the consciousness that makes all other consciousnesses conscious"},
-      {"s": "एकः बहूनाम् (ekaḥ bahūnām)", "h": "बहुतों में एक", "e": "the One among the many — one Self provides for the many individual souls"},
-      {"s": "विदधाति कामान् (vidadhāti kāmān)", "h": "कामनाओं को पूर्ण करता है", "e": "fulfils desires — vi + √dhā (to place, to grant); the Self is the ultimate bestower of all that beings desire"},
-      {"s": "शान्तिः शाश्वती (śāntiḥ śāśvatī)", "h": "शाश्वत शान्ति", "e": "eternal peace — śānti (peace) + śāśvatī (perpetual, feminine); not temporary tranquillity but permanent freedom from disturbance"},
-      {"s": "न इतरेषाम् (na itareṣām)", "h": "दूसरों को नहीं", "e": "not to others — same exclusion as mantra 12; peace belongs only to those who see the Self"}
+      {
+        "s": "नित्यः अनित्यानाम्",
+        "h": "अनित्यों में (वह) नित्य",
+        "e": "the Eternal among the non-eternal"
+      },
+      {
+        "s": "चेतनः चेतनानाम्",
+        "h": "चेतनों में (परम) चेतन",
+        "e": "the Conscious among the conscious"
+      },
+      {
+        "s": "एकः बहूनाम्",
+        "h": "बहुतों में एक",
+        "e": "the One among the many"
+      },
+      {
+        "s": "विदधाति कामान्",
+        "h": "कामनाओं को पूर्ण करता है",
+        "e": "fulfils desires"
+      },
+      {
+        "s": "शान्तिः शाश्वती",
+        "h": "शाश्वत शान्ति",
+        "e": "eternal peace"
+      },
+      {
+        "s": "न इतरेषाम्",
+        "h": "दूसरों को नहीं",
+        "e": "not to others"
+      }
     ],
-    "gr": "<strong>nityaḥ anityānām</strong> — 'the Eternal among the non-eternal': a paradox that defines the Self — it is the one unchanging reality amid the ceaseless flux of phenomena. <strong>cetanaḥ cetanānām</strong> — 'the Conscious among the conscious': not merely conscious but the SOURCE of consciousness in all conscious beings. <strong>ekaḥ bahūnāṁ yaḥ vidadhāti kāmān</strong> — 'the One who fulfils the desires of the many': the Self, being the substratum of all, is the ultimate provider. <strong>śāntiḥ śāśvatī</strong> — note the shift from 'sukham' (bliss) in mantra 12 to 'śāntiḥ' (peace) here — deepening the promise: not just bliss (positive) but peace (absence of all disturbance).",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.13 — This verse is a companion to mantra 12, nearly identical in the second half but with a different first half. The three paradoxical definitions — nitya/anitya, cetana/cetana, eka/bahu — are among the most quoted in Vedāntic literature. This verse also appears in the Shvetashvatara Upanishad (6.13). The shift from 'sukham' to 'śāntiḥ' shows two aspects of liberation: positive bliss AND absence of suffering.",
+    "gr": "<strong>'नित्योऽनित्यानाम्' — आत्मा को परिभाषित करने वाला विरोधाभास; 'चेतनश्चेतनानाम्' — आत्मा चेतन ही नहीं, चेतना का मूल स्रोत है; मन्त्र १२ के 'सुखम्' से 'शान्तिः' में परिवर्तन — सकारात्मक आनन्द से सर्व-अशान्ति-निवृत्ति तक गहराई।</strong><br><strong>nityaḥ anityānām</strong> — 'the Eternal among the non-eternal': a paradox that defines the Self — it is the one unchanging reality amid the ceaseless flux of phenomena. <strong>cetanaḥ cetanānām</strong> — 'the Conscious among the conscious': not merely conscious but the SOURCE of consciousness in all conscious beings. <strong>ekaḥ bahūnāṁ yaḥ vidadhāti kāmān</strong> — 'the One who fulfils the desires of the many': the Self, being the substratum of all, is the ultimate provider. <strong>śāntiḥ śāśvatī</strong> — note the shift from 'sukham' (bliss) in mantra 12 to 'śāntiḥ' (peace) here — deepening the promise: not just bliss (positive) but peace (absence of all disturbance).",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -528,8 +912,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What do 'nityaḥ anityānām' and 'cetanaḥ cetanānām' mean?", "a": "These two phrases are among the most celebrated definitions of the Self in all of Vedānta. <strong>'Nityaḥ anityānām'</strong> — 'the Eternal among the non-eternal' — means the Self is the <em>one unchanging reality</em> in a world of ceaseless change. Everything around us — bodies, relationships, civilisations, stars — arises and passes away. But the Self neither arises nor passes away; it is the permanent substrate on which the drama of impermanence plays out. <strong>'Cetanaḥ cetanānām'</strong> — 'the Conscious among the conscious' — is even more profound. It does not say 'cetanaḥ acetanānām' (conscious among the unconscious) — it says conscious among the <em>conscious</em>. This means: even the consciousness of sentient beings (humans, animals, gods) is <em>derived from</em> a deeper consciousness — the Self. Your awareness is not self-generated — it is a ray from the Sun of consciousness. The Self is not merely 'another conscious being among many' — it is the <strong>source</strong> from which all other consciousnesses draw their light."},
-      {"q": "🔍 Why does the verse shift from 'sukham' (mantra 12) to 'śāntiḥ' (peace)?", "a": "The shift from <strong>sukham</strong> (bliss/happiness) in mantra 12 to <strong>śāntiḥ</strong> (peace) in mantra 13 is deliberate and significant. <strong>Sukham</strong> is a <em>positive</em> experience — the presence of joy, fulfilment, contentment. <strong>Śāntiḥ</strong> is the <em>absence</em> of disturbance — no agitation, no craving, no conflict, no fear. Together, they describe two complementary aspects of liberation: (1) You <em>gain</em> something — eternal bliss (sukham śāśvatam); (2) You <em>lose</em> something — all suffering and disturbance (śāntiḥ śāśvatī). The Taittirīya Upanishad (2.7) expresses the positive side: '<em>raso vai saḥ, rasaṁ hy evāyaṁ labdhvā ānandī bhavati</em>' — 'He is rasa (essence/bliss); having obtained this essence, one becomes blissful.' The triple śānti at the end of every Upanishad prayer (<em>oṁ śāntiḥ śāntiḥ śāntiḥ</em>) invokes the negative side: peace from the three sources of suffering — ādhidaivika (cosmic), ādhibhautika (environmental), ādhyātmika (personal). True liberation is both — not just the presence of bliss but the permanent absence of all disturbance."}
+      {
+        "q": "🔍 'नित्योऽनित्यानाम्' और 'चेतनश्चेतनानाम्' का क्या अर्थ है? · What do 'nityaḥ anityānām' and 'cetanaḥ cetanānām' mean?",
+        "a": "These two phrases are among the most celebrated definitions of the Self in all of Vedānta. <strong>'Nityaḥ anityānām'</strong> — 'the Eternal among the non-eternal' — means the Self is the <em>one unchanging reality</em> in a world of ceaseless change. Everything around us — bodies, relationships, civilisations, stars — arises and passes away. But the Self neither arises nor passes away; it is the permanent substrate on which the drama of impermanence plays out. <strong>'Cetanaḥ cetanānām'</strong> — 'the Conscious among the conscious' — is even more profound. It does not say 'cetanaḥ acetanānām' (conscious among the unconscious) — it says conscious among the <em>conscious</em>. This means: even the consciousness of sentient beings (humans, animals, gods) is <em>derived from</em> a deeper consciousness — the Self. Your awareness is not self-generated — it is a ray from the Sun of consciousness. The Self is not merely 'another conscious being among many' — it is the <strong>source</strong> from which all other consciousnesses draw their light."
+      },
+      {
+        "q": "🔍 मन्त्र १२ के 'सुखम्' से 'शान्तिः' में परिवर्तन क्यों? · Why does the verse shift from 'sukham' (mantra 12) to 'śāntiḥ' (peace)?",
+        "a": "The shift from <strong>sukham</strong> (bliss/happiness) in mantra 12 to <strong>śāntiḥ</strong> (peace) in mantra 13 is deliberate and significant. <strong>Sukham</strong> is a <em>positive</em> experience — the presence of joy, fulfilment, contentment. <strong>Śāntiḥ</strong> is the <em>absence</em> of disturbance — no agitation, no craving, no conflict, no fear. Together, they describe two complementary aspects of liberation: (1) You <em>gain</em> something — eternal bliss (sukham śāśvatam); (2) You <em>lose</em> something — all suffering and disturbance (śāntiḥ śāśvatī). The Taittirīya Upanishad (2.7) expresses the positive side: '<em>raso vai saḥ, rasaṁ hy evāyaṁ labdhvā ānandī bhavati</em>' — 'He is rasa (essence/bliss); having obtained this essence, one becomes blissful.' The triple śānti at the end of every Upanishad prayer (<em>oṁ śāntiḥ śāntiḥ śāntiḥ</em>) invokes the negative side: peace from the three sources of suffering — ādhidaivika (cosmic), ādhibhautika (environmental), ādhyātmika (personal). True liberation is both — not just the presence of bliss but the permanent absence of all disturbance."
+      }
     ]
   },
   {
@@ -539,15 +929,39 @@
     "hi": "यह वह है — ऐसा (ज्ञानी) मानते हैं — वह अनिर्देश्य (अवर्णनीय), परम सुख। मैं उसे कैसे जानूँ? क्या वह (स्वयं) प्रकाशित है, या (किसी अन्य से) प्रकाशमान होता है?",
     "en": "'This is That' — so they recognise the indescribable, supreme bliss. How then may I know it? Does it shine (of its own light), or does it shine (by reflected light)?",
     "ws": [
-      {"s": "अनिर्देश्यम् (anirdeśyam)", "h": "अवर्णनीय, निर्देश-योग्य नहीं", "e": "indescribable — a (not) + nirdeśya (that which can be pointed out/described); Brahman cannot be captured in words"},
-      {"s": "परमम् सुखम् (paramaṁ sukham)", "h": "परम सुख", "e": "supreme bliss — parama (highest) + sukha (happiness); not any ordinary pleasure but the ultimate fulfilment"},
-      {"s": "कथम् (katham)", "h": "कैसे", "e": "how — the seeker's question: by what means can this be known?"},
-      {"s": "विजानीयाम् (vijānīyām)", "h": "मैं जान सकूँ", "e": "may I know — optative first person singular of vi + √jñā; expressing earnest aspiration to know"},
-      {"s": "भाति (bhāti)", "h": "प्रकाशित होता है (स्वयं)", "e": "does it shine — √bhā (to shine); does Brahman shine by its own light?"},
-      {"s": "विभाति (vibhāti)", "h": "विशेष रूप से प्रकाशित", "e": "does it shine forth / does it shine differently — vi + √bhā; an alternative reading: does it shine reflected/variously?"}
+      {
+        "s": "अनिर्देश्यम्",
+        "h": "अवर्णनीय, निर्देश-योग्य नहीं",
+        "e": "indescribable"
+      },
+      {
+        "s": "परमम् सुखम्",
+        "h": "परम सुख",
+        "e": "supreme bliss"
+      },
+      {
+        "s": "कथम्",
+        "h": "कैसे",
+        "e": "how"
+      },
+      {
+        "s": "विजानीयाम्",
+        "h": "मैं जान सकूँ",
+        "e": "may I know"
+      },
+      {
+        "s": "भाति",
+        "h": "प्रकाशित होता है (स्वयं)",
+        "e": "does it shine"
+      },
+      {
+        "s": "विभाति",
+        "h": "विशेष रूप से प्रकाशित",
+        "e": "does it shine forth / does it shine differently"
+      }
     ],
-    "gr": "<strong>tat etat iti manyante</strong> — 'they think: this is That' — the wise recognise Brahman as 'this' (etat, the immediate experience) being identical with 'that' (tat, the ultimate reality). <strong>anirdeśyam</strong> — 'indescribable': Brahman cannot be pointed to, named, or defined in ordinary language. <strong>kathaṁ nu tat vijānīyām</strong> — 'how may I know That?' — a question within the teaching, expressing the paradox of knowing the unknowable. <strong>kim u bhāti vibhāti vā</strong> — 'does it shine or does it shine variously?': the question is about the source of Brahman's luminosity — is it self-luminous or illuminated by something else? The answer follows in mantra 15.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.14 — This verse poses the epistemological question: how can the indescribable be known? The question 'kim u bhāti vibhāti vā' sets up the magnificent answer in mantra 15 about Brahman's self-luminosity. The phrase 'anirdeśyam' echoes the Taittirīya (2.4): 'yato vāco nivartante aprāpya manasā saha' — 'from which words return, together with the mind, unable to reach it.'",
+    "gr": "<strong>'तदेतदिति मन्यन्ते' — ज्ञानी 'तत्' (परम) को 'एतत्' (प्रत्यक्ष अनुभव) में पहचानते हैं; 'अनिर्देश्यम्' — ब्रह्म शब्दों से निर्दिष्ट नहीं हो सकता; 'किम् उ भाति विभाति वा' — ब्रह्म स्वयंप्रकाश है या पर-प्रकाश? उत्तर मन्त्र १५ में।</strong><br><strong>tat etat iti manyante</strong> — 'they think: this is That' — the wise recognise Brahman as 'this' (etat, the immediate experience) being identical with 'that' (tat, the ultimate reality). <strong>anirdeśyam</strong> — 'indescribable': Brahman cannot be pointed to, named, or defined in ordinary language. <strong>kathaṁ nu tat vijānīyām</strong> — 'how may I know That?' — a question within the teaching, expressing the paradox of knowing the unknowable. <strong>kim u bhāti vibhāti vā</strong> — 'does it shine or does it shine variously?': the question is about the source of Brahman's luminosity — is it self-luminous or illuminated by something else? The answer follows in mantra 15.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -569,8 +983,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 What does 'anirdeśya' (indescribable) mean for spiritual knowledge?", "a": "The term <strong>anirdeśya</strong> (a + nirdeśya = 'that which cannot be pointed out or described') is one of the most important epistemological terms in the Upanishads. It does <em>not</em> mean that Brahman is unknowable — it means Brahman is <strong>unknowable by the ordinary means of knowledge</strong> (perception, inference, and verbal testimony as normally understood). Words work by distinguishing one thing from another — 'the cow is not a horse.' But Brahman, being all-inclusive, cannot be distinguished from anything, because there is nothing outside it. You cannot say 'Brahman is X' without implying 'Brahman is not Y' — but Brahman is also Y. The Taittirīya (2.4) captures this: '<em>yato vāco nivartante aprāpya manasā saha</em>' — 'From which words turn back, together with the mind, unable to reach.' Yet the Upanishads <em>do</em> teach about Brahman — through <strong>negation</strong> (neti neti — 'not this, not this'), through <strong>analogy</strong> (fire, wind, sun), through <strong>paradox</strong> (smaller than the smallest, greater than the greatest), and through <strong>direct pointing</strong> (tat tvam asi — 'You are That'). The word anirdeśya is itself a description — a finger pointing beyond all fingers."},
-      {"q": "🔍 What is the question 'does it shine or does it shine forth'?", "a": "The question <strong>'kim u bhāti vibhāti vā'</strong> asks whether Brahman is <strong>self-luminous</strong> (svayaṁ-prakāśa) or <strong>illuminated by something else</strong> (para-prakāśa). This is a foundational question in epistemology. If Brahman shines by its own light — it needs no external source and is therefore the ultimate reality. If it is illuminated by something else — then that 'something else' would be the ultimate reality. The answer comes in the next verse (mantra 15): '<em>na tatra sūryo bhāti na candra-tārakaṁ</em>' — 'The sun does not shine there, nor the moon, nor the stars.' Brahman is the <strong>light by which all other lights shine</strong>. The sun does not illuminate Brahman; Brahman illuminates the sun. This is the doctrine of <strong>svayaṁ-prakāśatva</strong> (self-luminosity) — consciousness is not revealed by anything else; it is the revealer of all things. You see objects by the light of the sun; you see the sun by the light of consciousness. But you do not see consciousness by any light — consciousness IS the light."}
+      {
+        "q": "🔍 'अनिर्देश्य' (अवर्णनीय) का आध्यात्मिक ज्ञान के लिए क्या अर्थ है? · What does 'anirdeśya' (indescribable) mean for spiritual knowledge?",
+        "a": "The term <strong>anirdeśya</strong> (a + nirdeśya = 'that which cannot be pointed out or described') is one of the most important epistemological terms in the Upanishads. It does <em>not</em> mean that Brahman is unknowable — it means Brahman is <strong>unknowable by the ordinary means of knowledge</strong> (perception, inference, and verbal testimony as normally understood). Words work by distinguishing one thing from another — 'the cow is not a horse.' But Brahman, being all-inclusive, cannot be distinguished from anything, because there is nothing outside it. You cannot say 'Brahman is X' without implying 'Brahman is not Y' — but Brahman is also Y. The Taittirīya (2.4) captures this: '<em>yato vāco nivartante aprāpya manasā saha</em>' — 'From which words turn back, together with the mind, unable to reach.' Yet the Upanishads <em>do</em> teach about Brahman — through <strong>negation</strong> (neti neti — 'not this, not this'), through <strong>analogy</strong> (fire, wind, sun), through <strong>paradox</strong> (smaller than the smallest, greater than the greatest), and through <strong>direct pointing</strong> (tat tvam asi — 'You are That'). The word anirdeśya is itself a description — a finger pointing beyond all fingers."
+      },
+      {
+        "q": "🔍 'क्या वह स्वयं चमकता है या भिन्न प्रकार से?' — इस प्रश्न का क्या तात्पर्य है? · What is the question 'does it shine or does it shine forth'?",
+        "a": "The question <strong>'kim u bhāti vibhāti vā'</strong> asks whether Brahman is <strong>self-luminous</strong> (svayaṁ-prakāśa) or <strong>illuminated by something else</strong> (para-prakāśa). This is a foundational question in epistemology. If Brahman shines by its own light — it needs no external source and is therefore the ultimate reality. If it is illuminated by something else — then that 'something else' would be the ultimate reality. The answer comes in the next verse (mantra 15): '<em>na tatra sūryo bhāti na candra-tārakaṁ</em>' — 'The sun does not shine there, nor the moon, nor the stars.' Brahman is the <strong>light by which all other lights shine</strong>. The sun does not illuminate Brahman; Brahman illuminates the sun. This is the doctrine of <strong>svayaṁ-prakāśatva</strong> (self-luminosity) — consciousness is not revealed by anything else; it is the revealer of all things. You see objects by the light of the sun; you see the sun by the light of consciousness. But you do not see consciousness by any light — consciousness IS the light."
+      }
     ]
   },
   {
@@ -580,15 +1000,39 @@
     "hi": "वहाँ (ब्रह्म में) न सूर्य प्रकाशित होता है, न चन्द्र और तारे, न ये विद्युत् (बिजली) चमकती हैं — तो यह अग्नि (सांसारिक अग्नि) कहाँ से (चमक सकती है)? उसी के प्रकाशित होने पर सब कुछ अनुप्रकाशित (प्रकाशित) होता है; उसकी ज्योति से यह सब विभाति (चमकता) है।",
     "en": "The sun does not shine there, nor the moon and stars, nor these lightnings — how then this (ordinary) fire? Him alone shining, everything shines after; by His light, all this shines forth.",
     "ws": [
-      {"s": "न तत्र सूर्यः भाति (na tatra sūryaḥ bhāti)", "h": "वहाँ सूर्य नहीं चमकता", "e": "the sun does not shine there — tatra: in that (Brahman); the sun's light is derivative, not original"},
-      {"s": "न चन्द्रतारकम् (na candra-tārakam)", "h": "न चन्द्रमा और तारे", "e": "nor the moon and stars — the greatest celestial lights are dim before Brahman"},
-      {"s": "न इमाः विद्युतः (na imāḥ vidyutaḥ)", "h": "न ये बिजलियाँ", "e": "nor these lightnings — even the most dramatic natural light cannot illuminate Brahman"},
-      {"s": "कुतः अयम् अग्निः (kutaḥ ayam agniḥ)", "h": "तो यह अग्नि कहाँ से?", "e": "how then this fire? — a rhetorical escalation: if sun/moon/lightning can't shine there, what chance has ordinary fire?"},
-      {"s": "तम् एव भान्तम् अनुभाति सर्वम् (tam eva bhāntam anubhāti sarvam)", "h": "उसी के चमकने पर सब कुछ चमकता है", "e": "Him alone shining, everything shines after — anubhāti: shines after (anu = following); all light is derivative of Brahman's light"},
-      {"s": "तस्य भासा (tasya bhāsā)", "h": "उसकी ज्योति/प्रभा से", "e": "by His light — bhāsā: instrumental of bhās (light/lustre); Brahman's light is the source of all illumination"}
+      {
+        "s": "न तत्र सूर्यः भाति",
+        "h": "वहाँ सूर्य नहीं चमकता",
+        "e": "the sun does not shine there"
+      },
+      {
+        "s": "न चन्द्रतारकम्",
+        "h": "न चन्द्रमा और तारे",
+        "e": "nor the moon and stars"
+      },
+      {
+        "s": "न इमाः विद्युतः",
+        "h": "न ये बिजलियाँ",
+        "e": "nor these lightnings"
+      },
+      {
+        "s": "कुतः अयम् अग्निः",
+        "h": "तो यह अग्नि कहाँ से?",
+        "e": "how then this fire?"
+      },
+      {
+        "s": "तम् एव भान्तम् अनुभाति सर्वम्",
+        "h": "उसी के चमकने पर सब कुछ चमकता है",
+        "e": "Him alone shining, everything shines after"
+      },
+      {
+        "s": "तस्य भासा",
+        "h": "उसकी ज्योति/प्रभा से",
+        "e": "by His light"
+      }
     ],
-    "gr": "<strong>na tatra sūryaḥ bhāti</strong> — 'the sun does not shine there': this does not mean the sun literally goes dark in the presence of Brahman — it means the sun's capacity to illuminate is <em>itself derived from</em> Brahman. The sun is a secondary light, not a primary one. <strong>kutaḥ ayam agniḥ</strong> — a rhetorical climax: if even the sun, moon, stars, and lightning cannot illuminate Brahman, how can ordinary fire? <strong>tam eva bhāntam anubhāti sarvam</strong> — 'everything shines AFTER Him alone shining': the key word is <em>anu</em> (after/following) — all light follows from and depends on Brahman's self-luminosity. <strong>tasya bhāsā sarvam idaṁ vibhāti</strong> — 'by His light all this shines': the conclusive statement — Brahman is the ultimate source of all light, physical and conscious.",
-    "mt": "REVIEW_NEEDED: katha_upanishad_2.1.15 — One of the most celebrated verses in all of Indian philosophy. It appears nearly identically in the Mundaka Upanishad (2.2.10), the Shvetashvatara Upanishad (6.14), and is echoed in the Bhagavad Gītā (15.6 and 15.12). This verse answers the question of mantra 14 ('does it shine?') with a resounding declaration of Brahman's absolute self-luminosity. It also establishes the Vedāntic doctrine that consciousness is the primary light from which all physical light derives.",
+    "gr": "<strong>'न तत्र सूर्यो भाति' — सूर्य का प्रकाश ब्रह्म-व्युत्पन्न है, स्वतन्त्र नहीं; 'कुतः अयम् अग्निः' — आलंकारिक चरमोत्कर्ष; 'अनुभाति' में 'अनु' उपसर्ग — सब प्रकाश ब्रह्म के बाद है; ब्रह्म ही समस्त प्रकाश का परम स्रोत है।</strong><br><strong>na tatra sūryaḥ bhāti</strong> — 'the sun does not shine there': this does not mean the sun literally goes dark in the presence of Brahman — it means the sun's capacity to illuminate is <em>itself derived from</em> Brahman. The sun is a secondary light, not a primary one. <strong>kutaḥ ayam agniḥ</strong> — a rhetorical climax: if even the sun, moon, stars, and lightning cannot illuminate Brahman, how can ordinary fire? <strong>tam eva bhāntam anubhāti sarvam</strong> — 'everything shines AFTER Him alone shining': the key word is <em>anu</em> (after/following) — all light follows from and depends on Brahman's self-luminosity. <strong>tasya bhāsā sarvam idaṁ vibhāti</strong> — 'by His light all this shines': the conclusive statement — Brahman is the ultimate source of all light, physical and conscious.",
+    "mt": "",
     "cm": {
       "advaita": {
         "a": "आदि शंकराचार्य · Adi Shankaracharya",
@@ -610,8 +1054,14 @@
       }
     },
     "dp": [
-      {"q": "🔍 Why can't the sun, moon, or fire illuminate Brahman?", "a": "This verse makes a radical claim: the <strong>greatest sources of physical light — sun, moon, stars, lightning, fire — cannot illuminate Brahman</strong>. This is because all these lights are <em>secondary</em> — they derive their capacity to illuminate from Brahman itself. Consider: the <strong>sun</strong> illuminates objects, making them visible. But what makes the sun <em>itself</em> 'visible'? It is <strong>consciousness</strong> — without a conscious observer, the sun illuminates nothing. The sun does not know it shines; only a conscious being knows the sun shines. Therefore consciousness (= Brahman) is the <em>prior</em> light that makes all other lights meaningful. This is the doctrine of <strong>svayaṁ-prakāśatva</strong>: consciousness is <strong>self-luminous</strong> — it reveals itself by itself, without needing any external light to reveal it. You know you are conscious — but by what light do you know this? Not by the sun's light; not by any physical light. Consciousness knows itself by its own light. This makes it the <strong>ultimate source</strong> of all illumination."},
-      {"q": "🔍 How does this verse appear across different scriptures?", "a": "This verse — or near-identical versions of it — appears in at least <strong>four major texts</strong>, making it one of the most frequently quoted verses in the entire Hindu scriptural tradition. (1) <strong>Katha Upanishad 2.1.15</strong> — the version here. (2) <strong>Mundaka Upanishad 2.2.10</strong> — virtually identical: '<em>na tatra sūryo bhāti na candra-tārakaṁ nemā vidyuto bhānti kuto'yam agniḥ</em>.' (3) <strong>Shvetashvatara Upanishad 6.14</strong> — same content with minor variations. (4) <strong>Bhagavad Gītā 15.6</strong>: '<em>na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ; yad gatvā na nivartante tad dhāma paramaṁ mama</em>' — 'Neither sun nor moon nor fire illuminates that; having gone there, one does not return — that is My supreme abode.' And <strong>Gītā 15.12</strong>: '<em>yad āditya-gataṁ tejo jagad bhāsayate'khilam</em>' — 'The light in the sun that illuminates the whole world — know that light to be Mine.' This widespread repetition shows the verse was considered one of the most essential declarations about the nature of the Absolute across the Upanishadic and post-Upanishadic traditions."}
+      {
+        "q": "🔍 सूर्य, चन्द्र या अग्नि ब्रह्म को प्रकाशित क्यों नहीं कर सकते? · Why can't the sun, moon, or fire illuminate Brahman?",
+        "a": "This verse makes a radical claim: the <strong>greatest sources of physical light — sun, moon, stars, lightning, fire — cannot illuminate Brahman</strong>. This is because all these lights are <em>secondary</em> — they derive their capacity to illuminate from Brahman itself. Consider: the <strong>sun</strong> illuminates objects, making them visible. But what makes the sun <em>itself</em> 'visible'? It is <strong>consciousness</strong> — without a conscious observer, the sun illuminates nothing. The sun does not know it shines; only a conscious being knows the sun shines. Therefore consciousness (= Brahman) is the <em>prior</em> light that makes all other lights meaningful. This is the doctrine of <strong>svayaṁ-prakāśatva</strong>: consciousness is <strong>self-luminous</strong> — it reveals itself by itself, without needing any external light to reveal it. You know you are conscious — but by what light do you know this? Not by the sun's light; not by any physical light. Consciousness knows itself by its own light. This makes it the <strong>ultimate source</strong> of all illumination."
+      },
+      {
+        "q": "🔍 यह मन्त्र विभिन्न शास्त्रों में कैसे प्रकट होता है? · How does this verse appear across different scriptures?",
+        "a": "This verse — or near-identical versions of it — appears in at least <strong>four major texts</strong>, making it one of the most frequently quoted verses in the entire Hindu scriptural tradition. (1) <strong>Katha Upanishad 2.1.15</strong> — the version here. (2) <strong>Mundaka Upanishad 2.2.10</strong> — virtually identical: '<em>na tatra sūryo bhāti na candra-tārakaṁ nemā vidyuto bhānti kuto'yam agniḥ</em>.' (3) <strong>Shvetashvatara Upanishad 6.14</strong> — same content with minor variations. (4) <strong>Bhagavad Gītā 15.6</strong>: '<em>na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ; yad gatvā na nivartante tad dhāma paramaṁ mama</em>' — 'Neither sun nor moon nor fire illuminates that; having gone there, one does not return — that is My supreme abode.' And <strong>Gītā 15.12</strong>: '<em>yad āditya-gataṁ tejo jagad bhāsayate'khilam</em>' — 'The light in the sun that illuminates the whole world — know that light to be Mine.' This widespread repetition shows the verse was considered one of the most essential declarations about the nature of the Absolute across the Upanishadic and post-Upanishadic traditions."
+      }
     ]
   }
 ]
