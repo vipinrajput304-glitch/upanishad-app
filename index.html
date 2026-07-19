@@ -880,21 +880,34 @@ function toggleSp(){
 }
 function startSp(){
   if(!HAS_SPEECH) return;
-  try{ if(speechSynthesis.speaking) speechSynthesis.cancel(); }catch(e){}
+  try{ speechSynthesis.cancel(); }catch(e){}
+  if(!_voices.length)_loadVoices();
+  const s=document.getElementById('aps');
+  const h2=document.getElementById('aph2');
+  if(s)s.textContent='आरंभ हो रहा है · Starting…';
   try{
-    if(!_voices.length)_loadVoices();
     const u=new SpeechSynthesisUtterance(CST);
-    u.rate=SS; u.pitch=0.82; u.volume=1.0;
-    const hv=_voices.find(v=>v.lang==='hi-IN')||_voices.find(v=>v.lang.startsWith('hi'))||null;
-    if(hv){u.voice=hv;u.lang='hi-IN';const el=document.getElementById('aph2');if(el)el.textContent='Voice: '+hv.name;}
-    else{u.lang='hi-IN';const el=document.getElementById('aph2');if(el)el.textContent='Hindi voice — Chrome में सबसे अच्छा काम करता है';}
-    u.onstart=()=>{SP=true;updBtn(true);startWv();const s=document.getElementById('aps');if(s)s.textContent='पाठ हो रहा है · Chanting…';const h=document.getElementById('ahl');if(h){h.classList.add('on');h.textContent=CST.replace(/\n/g,' · ');}};
-    u.onboundary=(e)=>{try{const w=CST.substring(e.charIndex).split(/\s+/)[0];const h=document.getElementById('ahl');if(h&&w)h.textContent=w;}catch(ex){}};
-    u.onend=()=>{SP=false;updBtn(false);stopWv();_clearResume();const s=document.getElementById('aps');if(s)s.textContent='पूर्ण · Completed ✓';const h=document.getElementById('ahl');if(h)h.classList.remove('on');if(SR)setTimeout(startSp,1500);};
-    u.onerror=(e)=>{SP=false;updBtn(false);stopWv();_clearResume();const s=document.getElementById('aps');if(s)s.textContent='पुनः प्रयास करें · Tap again';};
+    u.rate=SS; u.pitch=0.82; u.volume=1.0; u.lang='hi-IN';
+    const hv=_voices.find(v=>v.lang==='hi-IN')||_voices.find(v=>v.lang.startsWith('hi'));
+    if(hv){u.voice=hv;if(h2)h2.textContent='Voice: '+hv.name;}
+    else if(h2){h2.textContent=_voices.length?'Hindi voice not found ('+_voices.length+' available)':'Loading voices… tap again';}
+    u.onstart=()=>{
+      SP=true;updBtn(true);startWv();
+      if(s)s.textContent='पाठ हो रहा है · Chanting…';
+      const hl=document.getElementById('ahl');if(hl){hl.classList.add('on');hl.textContent=CST.replace(/\n/g,' · ');}
+      _resumeInt=setInterval(()=>{try{if(speechSynthesis.speaking){speechSynthesis.pause();speechSynthesis.resume();}}catch(ex){}},8000);
+    };
+    u.onboundary=(e)=>{try{const w=CST.substring(e.charIndex).split(/\s+/)[0];const hl=document.getElementById('ahl');if(hl&&w)hl.textContent=w;}catch(ex){}};
+    u.onend=()=>{SP=false;updBtn(false);stopWv();_clearResume();if(s)s.textContent='पूर्ण · Completed ✓';const hl=document.getElementById('ahl');if(hl)hl.classList.remove('on');if(SR)setTimeout(startSp,1500);};
+    u.onerror=(ev)=>{SP=false;updBtn(false);stopWv();_clearResume();if(s)s.textContent='त्रुटि · Error: '+(ev.error||'unknown');};
     speechSynthesis.speak(u);
-    _resumeInt=setInterval(()=>{if(speechSynthesis.speaking&&!speechSynthesis.paused)speechSynthesis.pause();speechSynthesis.resume();},10000);
-  }catch(e){SP=false;updBtn(false);stopWv();const s=document.getElementById('aps');if(s)s.textContent='Chrome ब्राउज़र में खोलें';}
+    setTimeout(()=>{
+      if(!SP&&!speechSynthesis.speaking){
+        if(s)s.textContent='पुनः टैप करें · Tap ▶ again';
+        if(h2)h2.textContent='Voices: '+_voices.length+' | If silent, check phone TTS settings';
+      }
+    },3000);
+  }catch(e){SP=false;updBtn(false);stopWv();if(s)s.textContent='Error: '+e.message;}
 }
 function _clearResume(){if(_resumeInt){clearInterval(_resumeInt);_resumeInt=null;}}
 function stopSp(){
