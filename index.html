@@ -861,7 +861,6 @@ function renderBody(m){
 // ── SPEECH — safe wrapper ──
 const HAS_SPEECH = (typeof window !== 'undefined') && ('speechSynthesis' in window);
 let _voices=[];
-let _resumeInt=null;
 function _loadVoices(){try{_voices=speechSynthesis.getVoices();}catch(e){}}
 if(HAS_SPEECH){_loadVoices();speechSynthesis.onvoiceschanged=_loadVoices;}
 
@@ -878,63 +877,21 @@ function toggleSp(){
   }
   SP ? stopSp() : startSp();
 }
-let _spChunks=[],_spIdx=0,_spVoice=null,_spLang='hi-IN';
-function _splitChunks(text){
-  const segs=text.split(/([।\n,;|]+\s*)/);
-  const raw=[];let cur='';
-  for(let i=0;i<segs.length;i++){
-    cur+=segs[i];
-    if(cur.length>30||(i%2===1&&cur.length>10)){raw.push(cur.trim());cur='';}
+let _spVoice=null,_spLang='hi-IN',_spWdog=null;
+function _splitWords(text){
+  const words=text.split(/\s+/).filter(w=>w.length>0);
+  const chunks=[];let cur='';
+  for(const w of words){
+    if(cur.length+w.length+1>50){if(cur)chunks.push(cur);cur=w;}
+    else{cur=cur?cur+' '+w:w;}
   }
-  if(cur.trim())raw.push(cur.trim());
-  const chunks=[];
-  for(const r of raw){
-    if(r.length<=60){chunks.push(r);continue;}
-    const words=r.split(/\s+/);let c='';
-    for(const w of words){
-      if(c.length+w.length+1>60){if(c)chunks.push(c);c=w;}
-      else{c=c?c+' '+w:w;}
-    }
-    if(c)chunks.push(c);
-  }
-  return chunks.filter(c=>c.length>0);
-}
-function _speakNext(){
-  const s=document.getElementById('aps');
-  const hl=document.getElementById('ahl');
-  if(_spIdx>=_spChunks.length){
-    SP=false;updBtn(false);stopWv();_clearResume();
-    if(hl)hl.classList.remove('on');
-    if(s)s.textContent='पूर्ण · Completed ✓';
-    if(SR)setTimeout(startSp,1500);
-    return;
-  }
-  const chunk=_spChunks[_spIdx];
-  const u=new SpeechSynthesisUtterance(chunk);
-  u.rate=SS;u.pitch=0.82;u.volume=1.0;u.lang=_spLang;
-  if(_spVoice)u.voice=_spVoice;
-  if(hl)hl.textContent=chunk;
-  let cStart=Date.now();
-  u.onstart=()=>{cStart=Date.now();};
-  u.onend=()=>{
-    const dur=Date.now()-cStart;
-    if(dur<500&&chunk.length>15){
-      SP=false;updBtn(false);stopWv();_clearResume();
-      if(hl)hl.classList.remove('on');
-      if(s)s.textContent='⚠ Voice could not speak this text';
-      const h2=document.getElementById('aph2');
-      if(h2)h2.textContent='Install Hindi TTS: Settings → System → Language → Text-to-Speech → Download Hindi';
-      return;
-    }
-    _spIdx++;
-    _speakNext();
-  };
-  u.onerror=()=>{_spIdx++;_speakNext();};
-  speechSynthesis.speak(u);
+  if(cur)chunks.push(cur);
+  return chunks;
 }
 function startSp(){
   if(!HAS_SPEECH) return;
   try{ speechSynthesis.cancel(); }catch(e){}
+  if(_spWdog){clearInterval(_spWdog);_spWdog=null;}
   if(!_voices.length)_loadVoices();
   const s=document.getElementById('aps');
   const h2=document.getElementById('aph2');
@@ -947,21 +904,43 @@ function startSp(){
       _spVoice=fallback||null;_spLang=fallback?fallback.lang:'hi-IN';
       if(h2)h2.textContent=_voices.length?'Using fallback voice (no Hindi TTS installed)':'Loading voices… tap again';
     }
-    _spChunks=_splitChunks(CST);
-    _spIdx=0;
+    const chunks=_splitWords(CST);
+    let done=0;
+    chunks.forEach((chunk,i)=>{
+      const u=new SpeechSynthesisUtterance(chunk);
+      u.rate=SS;u.pitch=0.82;u.volume=1.0;u.lang=_spLang;
+      if(_spVoice)u.voice=_spVoice;
+      u.onstart=()=>{
+        const hl=document.getElementById('ahl');
+        if(hl)hl.textContent=chunk;
+      };
+      u.onend=()=>{
+        done++;
+        if(done>=chunks.length){
+          SP=false;updBtn(false);stopWv();if(_spWdog){clearInterval(_spWdog);_spWdog=null;}
+          const hl=document.getElementById('ahl');if(hl)hl.classList.remove('on');
+          if(s)s.textContent='पूर्ण · Completed ✓';
+          if(SR)setTimeout(startSp,1500);
+        }
+      };
+      u.onerror=()=>{done++;};
+      speechSynthesis.speak(u);
+    });
     SP=true;updBtn(true);startWv();
     if(s)s.textContent='पाठ हो रहा है · Chanting…';
     const hl=document.getElementById('ahl');if(hl){hl.classList.add('on');hl.textContent=CST.replace(/\n/g,' · ');}
-    _speakNext();
+    _spWdog=setInterval(()=>{
+      try{if(speechSynthesis.speaking){speechSynthesis.pause();speechSynthesis.resume();}}catch(ex){}
+    },5000);
     setTimeout(()=>{
-      if(!SP&&!speechSynthesis.speaking&&_spIdx===0){
-        if(s)s.textContent='पुनः टैप करें · Tap ▶ again';
+      if(!SP&&!speechSynthesis.speaking){
+        if(s)s.textContent='⚠ Voice could not speak this text';
         if(h2)h2.textContent='Install Hindi TTS: Settings → System → Language → Text-to-Speech → Download Hindi';
       }
     },3000);
   }catch(e){SP=false;updBtn(false);stopWv();if(s)s.textContent='Error: '+e.message;}
 }
-function _clearResume(){if(_resumeInt){clearInterval(_resumeInt);_resumeInt=null;}}
+function _clearResume(){if(_spWdog){clearInterval(_spWdog);_spWdog=null;}}
 function stopSp(){
   try{ if(HAS_SPEECH) speechSynthesis.cancel(); }catch(e){}
   SP=false; updBtn(false); stopWv(); _clearResume();
