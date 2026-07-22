@@ -7,9 +7,39 @@
     "en": "Then Bhārgava Vaidarbhi asked him: 'Bhagavan! How many gods (devāḥ) support (vidhārayante) the creature (prajā)? Which of them illuminate (prakāśayante) it? And who among them is the greatest (variṣṭha)?'",
     "ws": [
       {
-        "s": "भार्गवो वैदर्भिः",
-        "h": "भार्गव वैदर्भि — दूसरे प्रश्नकर्ता शिष्य",
-        "e": "Bhārgava Vaidarbhi"
+        "s": "अथ",
+        "h": "अब / तत्पश्चात्",
+        "e": "then / now"
+      },
+      {
+        "s": "ह एनम्",
+        "h": "उनसे (पिप्पलाद से)",
+        "e": "him (Pippalāda)"
+      },
+      {
+        "s": "भार्गवः वैदर्भिः",
+        "h": "भार्गव वैदर्भि — दूसरा प्रश्नकर्ता शिष्य",
+        "e": "Bhārgava Vaidarbhi — the second questioner"
+      },
+      {
+        "s": "पप्रच्छ",
+        "h": "पूछा (लिट् लकार)",
+        "e": "asked (perfect tense)"
+      },
+      {
+        "s": "भगवन्",
+        "h": "भगवन् — हे पूज्य",
+        "e": "O Venerable One"
+      },
+      {
+        "s": "कति",
+        "h": "कितने",
+        "e": "how many"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चित रूप से",
+        "e": "exactly / indeed"
       },
       {
         "s": "देवाः",
@@ -17,9 +47,19 @@
         "e": "gods / divine powers"
       },
       {
+        "s": "प्रजाम्",
+        "h": "प्रजा — प्राणी / शरीर",
+        "e": "creature / the embodied being"
+      },
+      {
         "s": "विधारयन्ते",
         "h": "धारण करते हैं / सहारा देते हैं",
         "e": "support / sustain"
+      },
+      {
+        "s": "कतरः",
+        "h": "कौन-कौन / उनमें से कौन",
+        "e": "which ones"
       },
       {
         "s": "प्रकाशयन्ते",
@@ -32,7 +72,7 @@
         "e": "greatest / most excellent"
       }
     ],
-    "gr": "<strong>kati eva devāḥ</strong> — 'how many gods exactly?' The word <em>eva</em> (exactly, indeed) shows Bhārgava wants a precise count, not a vague answer. <strong>Three-part question</strong>: (1) kati devāḥ vidhārayante — how many gods sustain the creature? (2) katare prakāśayante — which ones illuminate it? (3) kaḥ variṣṭhaḥ — who is the greatest? The first asks about number, the second about function, the third about hierarchy. <strong>prajā</strong> — literally 'offspring/creature', here meaning the embodied being (the body-mind complex supported by various divine faculties). <strong>devāḥ</strong> — in the Upanishadic context, 'gods' often refers to the sense-faculties and vital powers (indriyas and prāṇas) that operate within the body, each identified with a cosmic deity (Agni with speech, Āditya with sight, etc.).",
+    "gr": "<strong>व्याकरण:</strong> <em>कति एव देवाः</em> — 'ठीक कितने देवता?' — <em>एव</em> (ठीक/निश्चित) शब्द दर्शाता है कि भार्गव अनुमान नहीं, सटीक संख्या चाहते हैं। <em>तीन भाग वाला प्रश्न</em>: (1) कति देवाः विधारयन्ते — कितने देवता शरीर को धारण करते हैं? (संख्या) (2) कतरे प्रकाशयन्ते — उनमें कौन चेतन बनाते हैं? (कार्य) (3) कः वरिष्ठः — सर्वश्रेष्ठ कौन? (पदानुक्रम)। <em>प्रजा</em> — शाब्दिक 'सन्तान/प्राणी', यहाँ अर्थ है देहधारी जीव (शरीर-मन समूह जो विभिन्न दिव्य शक्तियों द्वारा पोषित है)। <em>देवाः</em> — उपनिषदीय सन्दर्भ में 'देवता' प्रायः इन्द्रिय-शक्तियों और प्राणों को कहते हैं — प्रत्येक एक ब्रह्माण्डीय देवता से पहचाना जाता है (अग्नि = वाक्, आदित्य = चक्षु आदि)।<br><em>Eng:</em> 'Kati eva devāḥ' — the word eva demands a precise count. Three-part question: (1) how many gods sustain the creature? (2) which ones illuminate it? (3) who is greatest? 'Prajā' = the embodied being. 'Devāḥ' in Upanishadic context = sense-faculties and vital powers identified with cosmic deities.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -57,11 +97,11 @@
     "dp": [
       {
         "q": "🔍 What are the 'gods' (devāḥ) in the body?",
-        "a": "In Vedic thought, every cosmic deity has a <strong>bodily counterpart</strong> — this is the <em>adhidaiva-adhyātma</em> (macrocosm-microcosm) correspondence. The 'gods' that sustain the creature are: <strong>Prāṇa</strong> (vital breath, corresponds to Vāyu/Wind), <strong>Vāk</strong> (speech, corresponds to Agni/Fire), <strong>Cakṣus</strong> (sight, corresponds to Āditya/Sun), <strong>Śrotra</strong> (hearing, corresponds to Diś/Directions), <strong>Manas</strong> (mind, corresponds to Candra/Moon), plus <strong>Ākāśa</strong> (space), <strong>Āp</strong> (water), <strong>Pṛthivī</strong> (earth), and <strong>Tejas</strong> (fire). The Upanishad will identify these in the next mantra and then determine which is <em>variṣṭha</em> (greatest) through the famous departure test. The total is traditionally given as <strong>five prāṇas + five sense-organs + five action-organs + mind</strong>, though this passage focuses on the most prominent ones."
+        "a": "वैदिक चिन्तन में प्रत्येक ब्रह्माण्डीय देवता का एक <strong>शारीरिक प्रतिरूप</strong> है — यही <em>अधिदैव-अध्यात्म</em> (ब्रह्माण्ड-शरीर) सम्बन्ध है। शरीर को धारण करने वाले 'देवता' हैं: <strong>प्राण</strong> (श्वास — वायु/पवन से तुल्य), <strong>वाक्</strong> (वाणी — अग्नि से), <strong>चक्षु</strong> (दृष्टि — आदित्य/सूर्य से), <strong>श्रोत्र</strong> (श्रवण — दिशाओं से), <strong>मन</strong> (मानसिक शक्ति — चन्द्र से), तथा <strong>आकाश</strong>, <strong>जल</strong>, <strong>पृथ्वी</strong>, और <strong>तेज</strong> (अग्नि)। उपनिषद् अगले मन्त्र में इनकी पहचान करेगा और फिर प्रसिद्ध उत्क्रमण-परीक्षण (departure test) द्वारा निर्धारित करेगा कि <em>वरिष्ठ</em> (श्रेष्ठ) कौन है। कुल संख्या परम्परागत रूप से <strong>पंचप्राण + पंचज्ञानेन्द्रिय + पंचकर्मेन्द्रिय + मन</strong> मानी जाती है, परन्तु यह अंश सर्वाधिक प्रमुख शक्तियों पर केन्द्रित है।<br><br><em>Eng:</em> In Vedic thought, every cosmic deity has a <strong>bodily counterpart</strong> — this is the <em>adhidaiva-adhyātma</em> (macrocosm-microcosm) correspondence. The 'gods' that sustain the creature are: <strong>Prāṇa</strong> (vital breath, corresponds to Vāyu/Wind), <strong>Vāk</strong> (speech, corresponds to Agni/Fire), <strong>Cakṣus</strong> (sight, corresponds to Āditya/Sun), <strong>Śrotra</strong> (hearing, corresponds to Diś/Directions), <strong>Manas</strong> (mind, corresponds to Candra/Moon), plus <strong>Ākāśa</strong> (space), <strong>Āp</strong> (water), <strong>Pṛthivī</strong> (earth), and <strong>Tejas</strong> (fire). The Upanishad will identify these in the next mantra and then determine which is <em>variṣṭha</em> (greatest) through the famous departure test. The total is traditionally given as <strong>five prāṇas + five sense-organs + five action-organs + mind</strong>, though this passage focuses on the most prominent ones."
       },
       {
         "q": "🔍 Why does the question use three sub-parts?",
-        "a": "Bhārgava's question is methodically structured: <strong>(1) kati</strong> — 'how many?' establishes the <em>count</em> of divine powers operating in the body. <strong>(2) katare prakāśayante</strong> — 'which ones illuminate?' distinguishes the <em>active</em> powers (those that produce conscious awareness) from the <em>passive</em> elements (like ākāśa and earth, which support but don't 'shine'). <strong>(3) kaḥ variṣṭhaḥ</strong> — 'who is greatest?' seeks the <em>hierarchy</em>. This three-part structure mirrors the Sāṅkhya method of analysis: enumerate, classify, rank. The question is not merely philosophical — it has <strong>practical yogic implications</strong>. If you know which faculty is supreme, you know where to concentrate your meditation. The answer (Prāṇa) is why <em>prāṇāyāma</em> (breath-control) became the central practice in yoga."
+        "a": "भार्गव का प्रश्न व्यवस्थित रूप से तीन भागों में संरचित है: <strong>(1) कति</strong> — 'कितने?' — शरीर में कार्यरत दिव्य शक्तियों की <em>गणना</em> (count) स्थापित करता है। <strong>(2) कतरे प्रकाशयन्ते</strong> — 'कौन-कौन प्रकाशित करते हैं?' — <em>सक्रिय</em> (active) शक्तियों (जो चैतन्य-अनुभव उत्पन्न करती हैं) को <em>निष्क्रिय</em> तत्त्वों (जैसे आकाश, पृथ्वी — जो आधार देते हैं पर 'चमकते' नहीं) से पृथक् करता है। <strong>(3) कः वरिष्ठः</strong> — 'सर्वश्रेष्ठ कौन?' — <em>पदानुक्रम</em> (hierarchy) खोजता है। यह त्रिभागी संरचना सांख्य-विश्लेषण-पद्धति का अनुकरण करती है: गणना, वर्गीकरण, श्रेणीकरण। प्रश्न केवल दार्शनिक नहीं — इसके <strong>व्यावहारिक योगिक तात्पर्य</strong> हैं: यदि ज्ञात हो कि कौन-सी इन्द्रिय सर्वोपरि है, तो ध्यान कहाँ केन्द्रित करना है यह भी ज्ञात हो जाता है। उत्तर (प्राण) इसीलिए <em>प्राणायाम</em> (श्वास-नियन्त्रण) योग का केन्द्रीय अभ्यास बना।<br><br><em>Eng:</em> Bhārgava's question is methodically structured: <strong>(1) kati</strong> — 'how many?' establishes the <em>count</em> of divine powers operating in the body. <strong>(2) katare prakāśayante</strong> — 'which ones illuminate?' distinguishes the <em>active</em> powers (those that produce conscious awareness) from the <em>passive</em> elements (like ākāśa and earth, which support but don't 'shine'). <strong>(3) kaḥ variṣṭhaḥ</strong> — 'who is greatest?' seeks the <em>hierarchy</em>. This three-part structure mirrors the Sāṅkhya method of analysis: enumerate, classify, rank. The question is not merely philosophical — it has <strong>practical yogic implications</strong>. If you know which faculty is supreme, you know where to concentrate your meditation. The answer (Prāṇa) is why <em>prāṇāyāma</em> (breath-control) became the central practice in yoga."
       }
     ]
   },
@@ -73,9 +113,39 @@
     "en": "To him he (Pippalāda) said: 'Space (ākāśa), air (vāyu), fire (agni), water (āpaḥ), earth (pṛthivī) — and speech (vāk), mind (manas), sight (cakṣuḥ), and hearing (śrotra) — these are the gods. Having manifested (their glory), they declare: \"We, supporting this body (bāṇa), sustain it.\"'",
     "ws": [
       {
+        "s": "तस्मै",
+        "h": "उसको / उसके लिए (भार्गव को)",
+        "e": "to him"
+      },
+      {
+        "s": "होवाच",
+        "h": "बोला / कहा",
+        "e": "said / spoke"
+      },
+      {
         "s": "आकाशः",
         "h": "आकाश / अन्तरिक्ष / व्योम",
         "e": "space / ether"
+      },
+      {
+        "s": "वायुः",
+        "h": "वायु / पवन",
+        "e": "air / wind"
+      },
+      {
+        "s": "अग्निः",
+        "h": "अग्नि / आग",
+        "e": "fire"
+      },
+      {
+        "s": "आपः",
+        "h": "जल / पानी",
+        "e": "water"
+      },
+      {
+        "s": "पृथिवी",
+        "h": "पृथ्वी / भूमि",
+        "e": "earth"
       },
       {
         "s": "वाक्",
@@ -88,17 +158,37 @@
         "e": "mind"
       },
       {
+        "s": "चक्षुः",
+        "h": "चक्षु / दृष्टि / नेत्र",
+        "e": "sight / eye"
+      },
+      {
+        "s": "श्रोत्रम्",
+        "h": "श्रोत्र / श्रवण-शक्ति / कान",
+        "e": "hearing / ear"
+      },
+      {
+        "s": "प्रकाश्य अभिवदन्ति",
+        "h": "(अपनी महिमा) प्रकट करके कहते हैं / दावा करते हैं",
+        "e": "having manifested (their glory), they declare"
+      },
+      {
         "s": "बाणम्",
-        "h": "शरीर / स्तम्भ (बाण = सरकण्डा / शरीर का रूपक)",
-        "e": "body (literally 'reed-shaft' or 'arrow')"
+        "h": "शरीर / स्तम्भ (बाण = सरकण्डा — शरीर का रूपक)",
+        "e": "body (lit. 'reed-shaft' — metaphor for body)"
       },
       {
         "s": "अवष्टभ्य",
         "h": "थामकर / सहारा देकर",
         "e": "having supported / propped up"
+      },
+      {
+        "s": "विधारयामः",
+        "h": "हम धारण करते हैं",
+        "e": "we sustain"
       }
     ],
-    "gr": "<strong>Nine devas</strong> are enumerated: five elements (ākāśa, vāyu, agni, āpaḥ, pṛthivī) + four faculties (vāk, manas, cakṣuḥ, śrotra). This is not the standard list of five jñānendriyas; it mixes elements and faculties to show the <em>adhidaiva-adhyātma</em> unity. <strong>bāṇam</strong> — a striking metaphor: the body is a bāṇa (reed-shaft, arrow, or hollow stalk). Just as a reed stands only because its fibres support it from within, the body stands only because multiple divine powers hold it together from inside. <strong>abhivadanti</strong> — 'they declare/boast': each god claims credit for sustaining the body. This sets up the contest in the next mantra — all claim supremacy, but only one will prove it. <strong>prakāśya</strong> — absolutive of pra-√kāś: 'having illuminated / manifested their glory'. The gods first demonstrate their power and then make their claim.",
+    "gr": "<strong>व्याकरण:</strong> <em>नौ देवताओं</em> की गणना: पाँच महाभूत (आकाश, वायु, अग्नि, जल, पृथ्वी) + चार इन्द्रियाँ (वाक्, मन, चक्षु, श्रोत्र)। यह सूची मानक पंचज्ञानेन्द्रिय-सूची नहीं है; यह तत्त्वों और इन्द्रियों को मिलाकर <em>अधिदैव-अध्यात्म</em> (ब्रह्माण्ड-शरीर) एकता दिखाती है। <em>बाणम्</em> — शरीर का अत्यन्त सटीक रूपक: शरीर एक बाण (सरकण्डा/hollow reed) है — बाहर से ठोस दिखता है परन्तु भीतर से खोखला — पूर्णतः उन शक्तियों पर निर्भर जो उसे भीतर से थामती हैं। <em>अभिवदन्ति</em> — 'वे घोषणा/दावा करते हैं': प्रत्येक देव अपनी श्रेष्ठता का दावा करता है — यह अगले मन्त्र में प्रतिस्पर्धा (contest) की भूमिका तैयार करता है। <em>प्रकाश्य</em> — प्र-√काश् का पूर्वकालिक: 'अपनी महिमा प्रकट करके'।<br><em>Eng:</em> Nine devas: five elements + four faculties. This mixing illustrates adhidaiva-adhyātma unity. 'Bāṇam' — the body as a hollow reed, sustained entirely by internal powers. 'Abhivadanti' — each god boasts, setting up the contest. 'Prakāśya' — absolutive of pra-√kāś, 'having illuminated their glory.'",
     "mt": "",
     "cm": {
       "advaita": {
@@ -123,11 +213,11 @@
     "dp": [
       {
         "q": "🔍 Why are five elements and four faculties listed together?",
-        "a": "The Upanishad deliberately mixes <strong>cosmic elements</strong> (ākāśa, vāyu, agni, āpaḥ, pṛthivī) with <strong>cognitive faculties</strong> (vāk, manas, cakṣuḥ, śrotra) to illustrate the <em>adhidaiva-adhyātma</em> principle: every cosmic power has a bodily counterpart. <strong>Space</strong> manifests in the body as the cavities (ears, nostrils, throat). <strong>Air</strong> manifests as Prāṇa. <strong>Fire</strong> manifests as body-heat and digestion. <strong>Water</strong> manifests as blood, lymph, and fluids. <strong>Earth</strong> manifests as bone, flesh, and solid tissue. The four faculties represent the <strong>conscious</strong> aspect: without speech, mind, sight, and hearing, the body would be alive but not aware. Together, the nine cover both <em>existence</em> (the elements keep the body materially intact) and <em>experience</em> (the faculties make consciousness possible). The question 'who is greatest?' thus asks: is existence more fundamental than experience, or vice versa?"
+        "a": "उपनिषद् जानबूझकर <strong>ब्रह्माण्डीय तत्त्वों</strong> (आकाश, वायु, अग्नि, जल, पृथ्वी) को <strong>संज्ञानात्मक इन्द्रियों</strong> (वाक्, मन, चक्षु, श्रोत्र) के साथ मिलाता है ताकि <em>अधिदैव-अध्यात्म</em> सिद्धान्त स्पष्ट हो: प्रत्येक ब्रह्माण्डीय शक्ति का एक शारीरिक प्रतिरूप है। <strong>आकाश</strong> = शरीर के गुहा-स्थान (कान, नासिका, कण्ठ)। <strong>वायु</strong> = प्राण। <strong>अग्नि</strong> = शरीर-ताप और पाचन। <strong>जल</strong> = रक्त, लसीका, और शारीरिक तरल। <strong>पृथ्वी</strong> = अस्थि, मांस, ठोस ऊतक। चार इन्द्रियाँ <strong>चैतन्य</strong> पक्ष प्रस्तुत करती हैं: वाणी, मन, दृष्टि, श्रवण के बिना शरीर जीवित तो रहे पर सचेतन न हो। मिलकर नौ = <em>अस्तित्व</em> (तत्त्व शरीर को भौतिक रूप से बनाए रखते हैं) + <em>अनुभव</em> (इन्द्रियाँ चेतना सम्भव बनाती हैं)। प्रश्न 'कौन श्रेष्ठ?' — तो पूछता है: अस्तित्व अधिक मूलभूत है या अनुभव?<br><br><em>Eng:</em> The Upanishad deliberately mixes <strong>cosmic elements</strong> (ākāśa, vāyu, agni, āpaḥ, pṛthivī) with <strong>cognitive faculties</strong> (vāk, manas, cakṣuḥ, śrotra) to illustrate the <em>adhidaiva-adhyātma</em> principle: every cosmic power has a bodily counterpart. <strong>Space</strong> manifests in the body as the cavities (ears, nostrils, throat). <strong>Air</strong> manifests as Prāṇa. <strong>Fire</strong> manifests as body-heat and digestion. <strong>Water</strong> manifests as blood, lymph, and fluids. <strong>Earth</strong> manifests as bone, flesh, and solid tissue. The four faculties represent the <strong>conscious</strong> aspect: without speech, mind, sight, and hearing, the body would be alive but not aware. Together, the nine cover both <em>existence</em> (the elements keep the body materially intact) and <em>experience</em> (the faculties make consciousness possible). The question 'who is greatest?' thus asks: is existence more fundamental than experience, or vice versa?"
       },
       {
         "q": "🔍 What is the 'bāṇa' (body-as-reed) metaphor?",
-        "a": "The word <strong>bāṇa</strong> literally means 'reed-shaft' or 'arrow'. The body is compared to a hollow reed (<em>veṇu</em> or <em>śara</em>) — a structure that appears solid but is actually <strong>empty inside</strong>, sustained entirely by the forces that pass through it. This is a profound metaphor: <strong>(1) Fragility</strong>: a reed breaks easily. The body, for all its apparent strength, collapses the moment its sustaining powers withdraw. <strong>(2) Hollowness</strong>: the body has no self-sustaining substance; it depends entirely on the 'gods' (elements and faculties) that fill and support it. <strong>(3) Musicality</strong>: a reed (veṇu) becomes a flute when breath passes through it. Similarly, the body becomes a living, conscious being only when Prāṇa (life-breath) passes through it. Without Prāṇa, the body is a silent, dead reed. This sets up the answer to 'who is variṣṭha?' — it is the breath that makes the reed sing."
+        "a": "<strong>बाण</strong> शब्द का अर्थ 'सरकण्डा' (reed-shaft) या 'बाण' (arrow) है। शरीर की तुलना एक खोखले सरकण्डे (<em>वेणु</em> या <em>शर</em>) से — जो बाहर से ठोस दिखता है परन्तु भीतर से <strong>खाली</strong> है, पूर्णतः उन शक्तियों पर निर्भर जो उसमें से गुज़रती हैं। यह गहन रूपक है: <strong>(1) क्षणभंगुरता</strong>: सरकण्डा सहज ही टूट जाता है — शरीर भी, सब शक्तिमत्ता के बावजूद, जिस क्षण उसकी पोषक शक्तियाँ हटतीं, ढह जाता है। <strong>(2) खोखलापन</strong>: शरीर में कोई आत्मनिर्भर सार (self-sustaining substance) नहीं; वह पूर्णतः उन 'देवों' पर निर्भर है जो उसे भरते और थामते हैं। <strong>(3) संगीतात्मकता</strong>: सरकण्डा (वेणु) बाँसुरी बनता है जब श्वास उसमें से गुज़रती है — वैसे ही शरीर सजीव, सचेतन प्राणी तभी बनता है जब प्राण (जीवन-श्वास) उसमें से बहता है। बिना प्राण, शरीर मूक, मृत सरकण्डा। यह 'वरिष्ठ कौन?' का उत्तर तैयार करता है — <strong>वही श्वास जो सरकण्डे को बाँसुरी बनाती है</strong>।<br><br><em>Eng:</em> The word <strong>bāṇa</strong> literally means 'reed-shaft' or 'arrow'. The body is compared to a hollow reed (<em>veṇu</em> or <em>śara</em>) — a structure that appears solid but is actually <strong>empty inside</strong>, sustained entirely by the forces that pass through it. This is a profound metaphor: <strong>(1) Fragility</strong>: a reed breaks easily. The body, for all its apparent strength, collapses the moment its sustaining powers withdraw. <strong>(2) Hollowness</strong>: the body has no self-sustaining substance; it depends entirely on the 'gods' (elements and faculties) that fill and support it. <strong>(3) Musicality</strong>: a reed (veṇu) becomes a flute when breath passes through it. Similarly, the body becomes a living, conscious being only when Prāṇa (life-breath) passes through it. Without Prāṇa, the body is a silent, dead reed. This sets up the answer to 'who is variṣṭha?' — it is the breath that makes the reed sing."
       }
     ]
   },
@@ -139,14 +229,34 @@
     "en": "To them the greatest (variṣṭha), Prāṇa, said: 'Do not fall into delusion! I alone, having divided myself fivefold (pañcadhā), support and sustain this body (bāṇa).' But they became disbelieving (aśraddadhānāḥ).",
     "ws": [
       {
+        "s": "तान्",
+        "h": "उनसे / उन (देवों) को",
+        "e": "to them"
+      },
+      {
         "s": "वरिष्ठः प्राणः",
         "h": "सबसे श्रेष्ठ प्राण",
         "e": "the greatest, Prāṇa"
       },
       {
-        "s": "मोहम्",
-        "h": "भ्रम / मोह / भ्रान्ति",
-        "e": "delusion / confusion"
+        "s": "उवाच",
+        "h": "बोला / कहा",
+        "e": "said"
+      },
+      {
+        "s": "मा",
+        "h": "मत / नहीं (निषेधार्थक)",
+        "e": "do not"
+      },
+      {
+        "s": "मोहम् आपद्यथ",
+        "h": "मोह (भ्रम) में मत पड़ो",
+        "e": "do not fall into delusion"
+      },
+      {
+        "s": "अहम् एव",
+        "h": "मैं ही",
+        "e": "I alone"
       },
       {
         "s": "पञ्चधा",
@@ -154,17 +264,32 @@
         "e": "fivefold"
       },
       {
-        "s": "प्रविभज्य",
-        "h": "विभाजित करके / बाँटकर",
-        "e": "having divided"
+        "s": "आत्मानम् प्रविभज्य",
+        "h": "अपने आपको विभाजित करके",
+        "e": "having divided myself"
+      },
+      {
+        "s": "एतत् बाणम्",
+        "h": "इस शरीर (बाण) को",
+        "e": "this body (reed)"
+      },
+      {
+        "s": "अवष्टभ्य विधारयामि",
+        "h": "थामकर धारण करता हूँ",
+        "e": "I support and sustain"
       },
       {
         "s": "अश्रद्दधानाः",
         "h": "श्रद्धाहीन / विश्वास न करने वाले",
         "e": "disbelieving / without faith"
+      },
+      {
+        "s": "बभूवुः",
+        "h": "हो गए (भू धातु लिट् लकार)",
+        "e": "they became"
       }
     ],
-    "gr": "<strong>variṣṭhaḥ prāṇaḥ uvāca</strong> — the narrator already calls Prāṇa 'the greatest' (variṣṭha) before the proof is given — a literary technique that previews the outcome. <strong>pañcadhā ātmānaṁ pravibhajya</strong> — 'having divided myself fivefold': the five prāṇas (prāṇa, apāna, vyāna, udāna, samāna) are not five separate entities but <em>one</em> Prāṇa operating in five modes. This is significant — it means the 'support' of the body is not distributed among independent powers but is a <em>single unified force</em> manifesting in five directions. <strong>aśraddadhānāḥ</strong> — the gods 'became disbelieving'. This incredulity is dramatically necessary: it sets up the departure-test in the next mantra. If they had believed, there would be no demonstration.",
+    "gr": "<strong>व्याकरण:</strong> <em>वरिष्ठः प्राणः उवाच</em> — वर्णनकार प्रमाण देने से पहले ही प्राण को 'वरिष्ठ' (श्रेष्ठ) कहता है — साहित्यिक तकनीक जो परिणाम का पूर्वाभास देती है। <em>पञ्चधा आत्मानम् प्रविभज्य</em> — 'अपने आपको पाँच भागों में विभाजित करके': पाँच प्राण (प्राण, अपान, व्यान, उदान, समान) पाँच अलग-अलग सत्ताएँ नहीं बल्कि <em>एक</em> प्राण पाँच विधियों (modes) में कार्यरत। यह महत्त्वपूर्ण है — शरीर का आधार स्वतंत्र शक्तियों में बँटा नहीं बल्कि एक एकीकृत बल (unified force) पाँच दिशाओं में प्रकट। <em>अश्रद्दधानाः</em> — देव 'अविश्वासी हो गए' — यह अविश्वास नाटकीय रूप से आवश्यक है: यह अगले मन्त्र के उत्क्रमण-परीक्षण (departure-test) की भूमिका बनाता है।<br><em>Eng:</em> 'Variṣṭhaḥ prāṇaḥ' — the narrator previews the outcome. 'Pañcadhā ātmānaṁ pravibhajya' — five prāṇas are ONE force in five modes, not five separate entities. 'Aśraddadhānāḥ' — the gods' disbelief is dramatically necessary, setting up the departure-test.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -189,11 +314,11 @@
     "dp": [
       {
         "q": "🔍 What are the five forms of Prāṇa?",
-        "a": "The <strong>pañca-prāṇa</strong> (five vital breaths) are: <strong>(1) Prāṇa</strong> (capital-P) — the forward/upward-moving breath, governing inhalation, swallowing, and sensory intake; seated in the chest and head; associated with the <em>face</em> (mukha-prāṇa). <strong>(2) Apāna</strong> — the downward-moving breath, governing excretion, urination, reproduction, and exhalation's final phase; seated below the navel. <strong>(3) Samāna</strong> — the 'equalising' breath, governing digestion and assimilation; it distributes the essence of food throughout the body; seated in the abdomen near the navel-fire (jāṭharāgni). <strong>(4) Udāna</strong> — the upward-moving breath, governing speech, effort, and the departure of the soul at death; seated in the throat. <strong>(5) Vyāna</strong> — the 'pervading' breath, governing circulation of blood and nutrients throughout the entire body; it has no single seat but pervades all limbs. Together, these five are not separate substances but <em>five modes of one Prāṇa</em> — like five currents in one river."
+        "a": "पाँच प्राण (<strong>पञ्चप्राण</strong>) हैं: <strong>(1) प्राण</strong> (बड़ा P) — आगे/ऊपर चलने वाला श्वास; श्वसन (inhalation), निगलना, और इन्द्रिय-ग्रहण का संचालक; छाती और सिर में स्थित; मुख-प्राण कहलाता है। <strong>(2) अपान</strong> — नीचे चलने वाला श्वास; मल-त्याग, मूत्र-विसर्जन, प्रजनन, और निःश्वसन के अन्तिम चरण का संचालक; नाभि से नीचे स्थित। <strong>(3) समान</strong> — 'समान करने वाला' श्वास; पाचन और आत्मसातीकरण (assimilation) का संचालक; अन्न-सार को सम्पूर्ण शरीर में वितरित करता है; नाभि के निकट जठराग्नि क्षेत्र में। <strong>(4) उदान</strong> — ऊपर चलने वाला श्वास; वाणी, प्रयत्न, और मृत्यु-काल में आत्मा के निर्गमन का संचालक; कण्ठ में स्थित। <strong>(5) व्यान</strong> — 'व्यापक' श्वास; रक्त और पोषक तत्त्वों के सम्पूर्ण शरीर में संचालन का संचालक; कोई एक स्थान नहीं, सब अंगों में व्याप्त। ये पाँचों पृथक् पदार्थ नहीं बल्कि <em>एक प्राण की पाँच विधियाँ</em> (modes) हैं — एक नदी में पाँच धाराओं की तरह।<br><br><em>Eng:</em> The <strong>pañca-prāṇa</strong> (five vital breaths) are: <strong>(1) Prāṇa</strong> (capital-P) — the forward/upward-moving breath, governing inhalation, swallowing, and sensory intake; seated in the chest and head; associated with the <em>face</em> (mukha-prāṇa). <strong>(2) Apāna</strong> — the downward-moving breath, governing excretion, urination, reproduction, and exhalation's final phase; seated below the navel. <strong>(3) Samāna</strong> — the 'equalising' breath, governing digestion and assimilation; it distributes the essence of food throughout the body; seated in the abdomen near the navel-fire (jāṭharāgni). <strong>(4) Udāna</strong> — the upward-moving breath, governing speech, effort, and the departure of the soul at death; seated in the throat. <strong>(5) Vyāna</strong> — the 'pervading' breath, governing circulation of blood and nutrients throughout the entire body; it has no single seat but pervades all limbs. Together, these five are not separate substances but <em>five modes of one Prāṇa</em> — like five currents in one river."
       },
       {
         "q": "🔍 Why do the other gods disbelieve Prāṇa?",
-        "a": "The <strong>disbelief</strong> (aśraddhā) of the other gods is both a narrative device and a philosophical point. <strong>Narratively</strong>, their disbelief forces Prāṇa to <em>demonstrate</em> its supremacy through the departure-test (mantra 4) — making the proof dramatic and irrefutable. <strong>Philosophically</strong>, each faculty genuinely experiences itself as essential: speech 'knows' that without it the body cannot communicate, sight 'knows' that without it the body is blind, and so on. Each deity's experience of its own importance is <em>real but partial</em>. The error is mistaking a <em>partial</em> truth for the <em>whole</em> truth — the classic Vedāntic definition of <strong>avidyā</strong> (ignorance). This mirrors the human condition: each organ of knowledge thinks it is the most important, just as each individual ego thinks it is the centre of the universe. Only the departure of Prāṇa reveals the dependency that all other faculties have on it."
+        "a": "अन्य देवों का <strong>अविश्वास</strong> (अश्रद्धा) कथात्मक (narrative) और दार्शनिक दोनों दृष्टि से महत्त्वपूर्ण है। <strong>कथात्मक</strong>: उनका अविश्वास प्राण को अपनी श्रेष्ठता <em>प्रमाणित</em> करने पर विवश करता है — उत्क्रमण-परीक्षण (मन्त्र 4) के माध्यम से — जिससे प्रमाण नाटकीय और अखण्डनीय बनता है। <strong>दार्शनिक</strong>: प्रत्येक इन्द्रिय ईमानदारी से स्वयं को अनिवार्य अनुभव करती है: वाणी 'जानती' है कि उसके बिना शरीर संवाद-अक्षम; दृष्टि 'जानती' है कि उसके बिना शरीर अन्ध; इत्यादि। प्रत्येक देवता का अपनी महत्ता का अनुभव <em>वास्तविक पर आंशिक</em> है। भूल यह है कि <em>आंशिक</em> सत्य को <em>सम्पूर्ण</em> सत्य मान लिया — वेदान्त में <strong>अविद्या</strong> (अज्ञान) की यही परिभाषा है। यह मानव-स्थिति का दर्पण है: प्रत्येक ज्ञान-अंग स्वयं को सर्वाधिक महत्त्वपूर्ण समझता है, जैसे प्रत्येक व्यक्तिगत अहंकार स्वयं को ब्रह्माण्ड का केन्द्र मानता है।<br><br><em>Eng:</em> The <strong>disbelief</strong> (aśraddhā) of the other gods is both a narrative device and a philosophical point. <strong>Narratively</strong>, their disbelief forces Prāṇa to <em>demonstrate</em> its supremacy through the departure-test (mantra 4) — making the proof dramatic and irrefutable. <strong>Philosophically</strong>, each faculty genuinely experiences itself as essential: speech 'knows' that without it the body cannot communicate, sight 'knows' that without it the body is blind, and so on. Each deity's experience of its own importance is <em>real but partial</em>. The error is mistaking a <em>partial</em> truth for the <em>whole</em> truth — the classic Vedāntic definition of <strong>avidyā</strong> (ignorance). This mirrors the human condition: each organ of knowledge thinks it is the most important, just as each individual ego thinks it is the centre of the universe. Only the departure of Prāṇa reveals the dependency that all other faculties have on it."
       }
     ]
   },
@@ -205,14 +330,29 @@
     "en": "When he (Prāṇa) made as if to depart, he drew all of them out (utkrāmayate). When he settled back (pratiṣṭhamāna), he re-established them all. Just as when the queen-bee (madhukara-rājāna) departs, all the bees depart, and when she settles, all settle — so speech, mind, sight, and hearing, delighted, praised Prāṇa.",
     "ws": [
       {
-        "s": "उत्क्रामन्",
-        "h": "ऊपर उठकर जाने वाला / निकलने वाला",
-        "e": "departing / rising up to leave"
+        "s": "उत्क्रामन् इव",
+        "h": "निकलने को उद्यत / जाने को तैयार-सा",
+        "e": "as if departing"
+      },
+      {
+        "s": "तान् सर्वान् उत्क्रामयते",
+        "h": "उन सबको भी निकाल ले गया / उखाड़ लिया",
+        "e": "he drew all of them out"
       },
       {
         "s": "प्रतिष्ठमानः",
         "h": "पुनः स्थापित होने वाला / ठहरने वाला",
-        "e": "settling back / becoming established"
+        "e": "settling back"
+      },
+      {
+        "s": "तान् सर्वान् प्रतिष्ठापयति",
+        "h": "उन सबको भी पुनः स्थापित कर दिया",
+        "e": "he re-established them all"
+      },
+      {
+        "s": "यथा",
+        "h": "जैसे (उपमा)",
+        "e": "just as"
       },
       {
         "s": "मक्षिकाः",
@@ -222,7 +362,32 @@
       {
         "s": "मधुकरराजानम्",
         "h": "मधुमक्खियों का राजा / रानी मक्खी",
-        "e": "king of the bees / queen-bee"
+        "e": "king/queen of the bees"
+      },
+      {
+        "s": "उत्क्रामन्तम्",
+        "h": "उड़ जाने पर / निकलने पर",
+        "e": "departing"
+      },
+      {
+        "s": "सर्वाः एव उत्क्रामन्ति",
+        "h": "सब उड़ जाती हैं",
+        "e": "all depart"
+      },
+      {
+        "s": "प्रतिष्ठमाने",
+        "h": "बैठ जाने पर / ठहरने पर",
+        "e": "when (the queen) settles"
+      },
+      {
+        "s": "सर्वाः एव प्रतितिष्ठन्ते",
+        "h": "सब बैठ जाती हैं",
+        "e": "all settle"
+      },
+      {
+        "s": "प्रीताः",
+        "h": "प्रसन्न / सन्तुष्ट",
+        "e": "delighted / pleased"
       },
       {
         "s": "स्तुन्वन्ति",
@@ -230,7 +395,7 @@
         "e": "they praise"
       }
     ],
-    "gr": "<strong>utkrāmann iva</strong> — 'as if departing': the <em>iva</em> (as if) is significant. Prāṇa did not fully depart — it merely <em>began to leave</em>, and that was enough to pull all other faculties with it. This is the 'departure test' found in parallel at Bṛhadāraṇyaka 6.1.7-14 and Chāndogya 5.1.6-15. <strong>madhukara-rājānam</strong> — the bee-queen simile is memorable and precise: bees don't decide individually to follow the queen; they are <em>compelled</em> by her pheromones. Similarly, the sense-faculties don't choose to follow Prāṇa — they are <em>constitutively dependent</em> on it. Without Prāṇa, they literally cannot function. <strong>prītāḥ prāṇaṁ stunvanti</strong> — 'delighted, they praised Prāṇa': the vindication of Prāṇa leads directly to the hymn of praise that occupies mantras 5-12. The word <em>prītāḥ</em> (delighted) suggests that recognition of truth brings joy, not humiliation.",
+    "gr": "<strong>व्याकरण:</strong> <em>उत्क्रामन्न् इव</em> — 'जाने को तैयार-सा हुआ': <em>इव</em> (जैसे) महत्त्वपूर्ण है — प्राण पूर्णतः नहीं गया, केवल <em>जाने लगा</em> — और इतना पर्याप्त था सब इन्द्रियों को खींच लेने के लिए। यही 'उत्क्रान्ति-परीक्षा' (departure-test) है जो बृहदारण्यक (6.1.7-14) और छान्दोग्य (5.1.6-15) में समानान्तर रूप में मिलती है। <em>मधुकरराजानम्</em> — मधुमक्खी-रानी का रूपक सटीक और स्मरणीय है: मक्खियाँ व्यक्तिगत निर्णय से रानी का अनुसरण नहीं करतीं — उनकी निर्भरता <em>संरचनात्मक</em> (structural) है, ऐच्छिक (voluntary) नहीं। वैसे ही इन्द्रियाँ प्राण पर संरचनात्मक रूप से निर्भर हैं। <em>प्रीताः प्राणम् स्तुन्वन्ति</em> — 'प्रसन्न होकर प्राण की स्तुति करने लगे': सत्य की स्वीकृति आनन्द लाती है, अपमान नहीं।<br><em>Eng:</em> 'Utkrāmann iva' — Prāṇa merely began to leave, and that sufficed. The bee-queen simile captures structural dependence, not voluntary following. 'Prītāḥ' — recognition of truth brings joy, not humiliation. This sets up the hymn of praise (mantras 5-13).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -255,11 +420,11 @@
     "dp": [
       {
         "q": "🔍 The departure-test in Vedic literature",
-        "a": "The <strong>departure test</strong> (utkrānti-parīkṣā) appears in three major Upanishads: <strong>(1) Bṛhadāraṇyaka 6.1.7-14</strong>: Speech departs for a year — the body continues, mute but alive. Sight departs — the body continues, blind but alive. Hearing, mind, and seed each depart in turn — the body survives. But when Prāṇa begins to leave, it uproots all the others 'as a great horse might pull up the pegs to which it is tethered.' The faculties then acknowledge: 'You are the greatest; do not depart!' <strong>(2) Chāndogya 5.1.6-15</strong>: Nearly identical, adding that the gods 'tremble' when Prāṇa stirs. The conclusion: 'They do not call them speech-deities or sight-deities; they call them prāṇa-deities, for Prāṇa alone is all of these.' <strong>(3) Prashna 2.4</strong> (this mantra): The most compact version. Instead of year-long departures, Prāṇa merely 'makes as if to leave' (<em>utkrāmann iva</em>) — a single moment suffices. The unique bee-queen simile replaces the horse-peg metaphor. All three versions reach the same conclusion: <strong>Prāṇa is variṣṭha</strong> — the supreme vital force on which all other faculties depend."
+        "a": "<strong>उत्क्रान्ति-परीक्षा</strong> (departure-test) तीन प्रमुख उपनिषदों में मिलती है: <strong>(1) बृहदारण्यक 6.1.7-14</strong>: वाणी एक वर्ष के लिए शरीर छोड़ती है — शरीर मूक पर जीवित रहता है। दृष्टि जाती है — अन्ध पर जीवित। श्रोत्र, मन, बीज — प्रत्येक जाता है, शरीर बचा रहता है। परन्तु जब प्राण जाने लगता है, वह सबको उखाड़ लेता है 'जैसे एक विशाल अश्व अपने खूँटों को उखाड़ ले।' <strong>(2) छान्दोग्य 5.1.6-15</strong>: लगभग समान; जब प्राण हिलता है तो देवता 'काँपते' हैं। निष्कर्ष: 'उन्हें वाग्-देवता या चक्षु-देवता नहीं कहते; <em>प्राण-देवता</em> कहते हैं, क्योंकि प्राण ही ये सब है।' <strong>(3) प्रश्न 2.4</strong> (यह मन्त्र): सर्वाधिक संक्षिप्त संस्करण — एक-वर्षीय विरहों के बजाय प्राण केवल '<em>जाने को तैयार हुआ</em>' (<em>उत्क्रामन्न् इव</em>) — एक क्षण पर्याप्त। अद्वितीय मधुमक्खी-रानी रूपक अश्व-खूँटे के रूपक का स्थान लेता है। तीनों संस्करण एक ही निष्कर्ष पर पहुँचते हैं: <strong>प्राण वरिष्ठ है</strong>।<br><br><em>Eng:</em> The <strong>departure test</strong> (utkrānti-parīkṣā) appears in three major Upanishads: <strong>(1) Bṛhadāraṇyaka 6.1.7-14</strong>: Speech departs for a year — the body continues, mute but alive. Sight departs — the body continues, blind but alive. Hearing, mind, and seed each depart in turn — the body survives. But when Prāṇa begins to leave, it uproots all the others 'as a great horse might pull up the pegs to which it is tethered.' The faculties then acknowledge: 'You are the greatest; do not depart!' <strong>(2) Chāndogya 5.1.6-15</strong>: Nearly identical, adding that the gods 'tremble' when Prāṇa stirs. The conclusion: 'They do not call them speech-deities or sight-deities; they call them prāṇa-deities, for Prāṇa alone is all of these.' <strong>(3) Prashna 2.4</strong> (this mantra): The most compact version. Instead of year-long departures, Prāṇa merely 'makes as if to leave' (<em>utkrāmann iva</em>) — a single moment suffices. The unique bee-queen simile replaces the horse-peg metaphor. All three versions reach the same conclusion: <strong>Prāṇa is variṣṭha</strong> — the supreme vital force on which all other faculties depend."
       },
       {
         "q": "🔍 Why the bee-queen simile?",
-        "a": "The <strong>bee-queen simile</strong> (madhukara-rājan) is unique to the Prashna Upanishad and captures several features of the Prāṇa-faculty relationship: <strong>(1) Automatic dependence</strong>: bees don't decide to follow the queen — they are <em>compelled</em> by her presence. Similarly, the faculties don't choose to depend on Prāṇa; their dependence is structural, not voluntary. <strong>(2) Collective collapse</strong>: when the queen leaves, the entire hive disperses — not gradually, but all at once. Similarly, when Prāṇa departs, all faculties cease simultaneously (death). <strong>(3) Invisible leadership</strong>: in a hive, the queen is hidden deep inside. She doesn't 'appear' to lead. Similarly, Prāṇa operates below the level of conscious awareness — you don't 'see' it the way you see sight or 'hear' it the way you hear hearing. Its supremacy is invisible but absolute. The metaphor also carries an evolutionary resonance: the hive is a <em>superorganism</em>, and the body is a superorganism of faculties. The queen-bee is the organising principle that turns a swarm of independent insects into a unified whole — just as Prāṇa turns a collection of sense-organs into a living being."
+        "a": "<strong>मधुमक्खी-रानी रूपक</strong> (मधुकरराजन्) प्रश्नोपनिषद् का विशिष्ट है और प्राण-इन्द्रिय सम्बन्ध के अनेक पहलू पकड़ता है: <strong>(1) स्वचालित निर्भरता</strong>: मक्खियाँ रानी का अनुसरण करने का <em>निर्णय</em> नहीं लेतीं — उसकी उपस्थिति से <em>विवश</em> हैं। इन्द्रियों की प्राण पर निर्भरता संरचनात्मक है, ऐच्छिक नहीं। <strong>(2) सामूहिक पतन</strong>: रानी जाने पर पूरा छत्ता बिखर जाता है — क्रमशः नहीं, एक साथ। वैसे ही प्राण जाने पर सब इन्द्रियाँ एकसाथ समाप्त (मृत्यु)। <strong>(3) अदृश्य नेतृत्व</strong>: छत्ते में रानी गहरे भीतर छिपी होती है — बाहर 'नेतृत्व' नहीं दिखती। वैसे ही प्राण चेतन अवगाहन (conscious awareness) के नीचे कार्य करता है — आप दृष्टि को 'देखते' हैं, श्रवण को 'सुनते' हैं, परन्तु प्राण अदृश्य परन्तु निरपेक्ष (absolute) शासक है। रूपक में <strong>विकासवादी अनुनाद</strong> भी है: छत्ता एक 'महाजीव' (superorganism) है, और शरीर इन्द्रियों का महाजीव — रानी वह संगठन-सिद्धान्त है जो स्वतंत्र कीटों के झुण्ड को एकीकृत समूह बनाती है।<br><br><em>Eng:</em> The <strong>bee-queen simile</strong> (madhukara-rājan) is unique to the Prashna Upanishad and captures several features of the Prāṇa-faculty relationship: <strong>(1) Automatic dependence</strong>: bees don't decide to follow the queen — they are <em>compelled</em> by her presence. Similarly, the faculties don't choose to depend on Prāṇa; their dependence is structural, not voluntary. <strong>(2) Collective collapse</strong>: when the queen leaves, the entire hive disperses — not gradually, but all at once. Similarly, when Prāṇa departs, all faculties cease simultaneously (death). <strong>(3) Invisible leadership</strong>: in a hive, the queen is hidden deep inside. She doesn't 'appear' to lead. Similarly, Prāṇa operates below the level of conscious awareness — you don't 'see' it the way you see sight or 'hear' it the way you hear hearing. Its supremacy is invisible but absolute. The metaphor also carries an evolutionary resonance: the hive is a <em>superorganism</em>, and the body is a superorganism of faculties. The queen-bee is the organising principle that turns a swarm of independent insects into a unified whole — just as Prāṇa turns a collection of sense-organs into a living being."
       }
     ]
   },
@@ -271,37 +436,72 @@
     "en": "This (Prāṇa) is the fire that burns, this is the sun, this is the rain-god (Parjanya), this is Indra (Maghavān), this is the wind, this is the earth, this is matter (rayi), this is the god. That which is existent (sat) and non-existent (asat), and that which is immortal (amṛta) — all this is Prāṇa.",
     "ws": [
       {
-        "s": "पर्जन्यः",
-        "h": "वर्षा का देवता / मेघ",
-        "e": "Parjanya"
+        "s": "एषः",
+        "h": "यह / वही",
+        "e": "this / he"
+      },
+      {
+        "s": "अग्निः तपति",
+        "h": "अग्नि (रूप में) तपता है",
+        "e": "(as) fire it burns"
+      },
+      {
+        "s": "एषः सूर्यः",
+        "h": "यही सूर्य है",
+        "e": "this is the sun"
+      },
+      {
+        "s": "एषः पर्जन्यः",
+        "h": "यही पर्जन्य (वर्षा-देवता) है",
+        "e": "this is Parjanya (rain-god)"
       },
       {
         "s": "मघवान्",
-        "h": "इन्द्र / देवराज",
-        "e": "Maghavān"
+        "h": "इन्द्र / देवराज / उदार दाता",
+        "e": "Maghavān (Indra)"
+      },
+      {
+        "s": "एषः वायुः",
+        "h": "यही वायु है",
+        "e": "this is the wind"
+      },
+      {
+        "s": "एषः पृथिवी",
+        "h": "यही पृथ्वी है",
+        "e": "this is the earth"
       },
       {
         "s": "रयिः",
-        "h": "धन / द्रव्य / पदार्थ (matter)",
-        "e": "matter / wealth / substance"
+        "h": "रयि — धन / द्रव्य / पदार्थ-तत्त्व",
+        "e": "Rayi — matter / substance"
+      },
+      {
+        "s": "देवः",
+        "h": "देव / दिव्य शक्ति",
+        "e": "the god / divine power"
       },
       {
         "s": "सत्",
-        "h": "विद्यमान / व्यक्त / अस्तित्ववान्",
+        "h": "सत् — विद्यमान / व्यक्त / अस्तित्ववान्",
         "e": "the existent / manifest"
       },
       {
         "s": "असत्",
-        "h": "अव्यक्त / जो दृष्टि में न आए",
+        "h": "असत् — अव्यक्त / जो दृष्टि में न आए",
         "e": "the non-existent / unmanifest"
       },
       {
         "s": "अमृतम्",
-        "h": "अविनाशी / मृत्यु से परे",
-        "e": "the immortal"
+        "h": "अमृत — अविनाशी / मृत्यु से परे",
+        "e": "the immortal / deathless"
+      },
+      {
+        "s": "यत्",
+        "h": "जो कुछ भी",
+        "e": "whatever / that which"
       }
     ],
-    "gr": "<strong>eṣaḥ...eṣaḥ...eṣaḥ</strong> — the six-fold repetition of 'this is' creates a litany of identification: Prāṇa = fire = sun = rain = Indra = wind = earth. This is the Upanishadic method of <em>adhyāropa</em> (superimposition): identifying the microcosmic with the macrocosmic. <strong>sat-asat-amṛta</strong> — a three-fold ontological classification: (1) sat — the manifest, existent world; (2) asat — the unmanifest, potential, pre-creation state; (3) amṛta — the immortal, which transcends both existence and non-existence. By identifying Prāṇa with all three, the hymn elevates Prāṇa from a bodily function to a <em>cosmic principle</em>. <strong>rayiḥ devaḥ</strong> — 'matter and the divine': in Question 1, Prāṇa and Rayi were a duality (energy and matter); here Prāṇa absorbs Rayi into itself, resolving the duality into unity.",
+    "gr": "<strong>व्याकरण:</strong> <em>एषः...एषः...एषः</em> — 'यह है...यह है...यह है' — छः बार दुहराने से एक पहचान-पाठ (litany of identification) बनता है: प्राण = अग्नि = सूर्य = पर्जन्य = इन्द्र = वायु = पृथ्वी। यह उपनिषदीय <em>अध्यारोप</em> (superimposition) पद्धति है — सूक्ष्म (microcosmic) को स्थूल (macrocosmic) से पहचानना। <em>सत्-असत्-अमृत</em> — त्रिविध तत्त्वमीमांसा: (1) सत् — व्यक्त, अस्तित्ववान् जगत्; (2) असत् — अव्यक्त, बीज-अवस्था, सृष्टि-पूर्व; (3) अमृत — जो अस्तित्व-अनस्तित्व दोनों से परे अमर तत्त्व है। प्राण को तीनों से पहचानकर स्तुति प्राण को शारीरिक क्रिया से <em>ब्रह्माण्डीय तत्त्व</em> तक ऊपर उठाती है। <em>रयिः देवः</em> — 'पदार्थ और दिव्यता': प्रश्न 1 में प्राण और रयि द्वैत (duality) थे; यहाँ प्राण रयि को स्वयं में समाहित कर लेता है — द्वैत एकत्व में विलीन।<br><em>Eng:</em> The sixfold 'eṣaḥ' creates a litany of identification — the Upanishadic adhyāropa method. Sat-asat-amṛta is a threefold ontological classification. Prāṇa absorbs Rayi into itself, resolving the Question 1 duality into unity.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -326,11 +526,11 @@
     "dp": [
       {
         "q": "🔍 How does Prāṇa become cosmic?",
-        "a": "The hymn of praise (mantras 5-12) performs a remarkable expansion: Prāṇa begins as a <em>bodily</em> vital force (the breath that sustains the body) and is progressively identified with every <em>cosmic</em> power. The logic follows the Vedic <strong>bandhutā</strong> (correspondence) principle: <strong>Breath ↔ Wind</strong>: the air inside the body (prāṇa) is the same substance as the wind outside (vāyu). <strong>Body-heat ↔ Fire/Sun</strong>: the digestive fire (jāṭharāgni) in the body is a miniature sun. <strong>Bodily fluids ↔ Rain</strong>: water in the body corresponds to Parjanya (rain). <strong>Bodily solids ↔ Earth</strong>: bone and flesh correspond to pṛthivī. By the end of the litany, Prāṇa has absorbed <em>sat</em> (all that exists), <em>asat</em> (all that is latent/potential), and <em>amṛta</em> (the deathless ground of reality). This is the Upanishadic ascent from physiology to metaphysics — the same move that turns 'the breath in your nostrils' into 'the ground of all being'."
+        "a": "स्तुति (मन्त्र 5-13) एक उल्लेखनीय विस्तार करती है: प्राण <em>शारीरिक</em> प्राण-शक्ति (जो शरीर को धारण करता है) से आरम्भ होकर क्रमशः प्रत्येक <em>ब्रह्माण्डीय</em> शक्ति से पहचाना जाता है। तर्क वैदिक <strong>बन्धुता</strong> (correspondence) सिद्धान्त पर आधारित: <strong>श्वास ↔ वायु</strong>: शरीर के भीतर का वायु (प्राण) बाहर के पवन (वायु) जैसा ही पदार्थ। <strong>शरीर-ताप ↔ अग्नि/सूर्य</strong>: जठराग्नि = लघु सूर्य। <strong>शारीरिक तरल ↔ वर्षा</strong>: शरीर का जल = पर्जन्य (वर्षा)। <strong>शारीरिक ठोस ↔ पृथ्वी</strong>: अस्थि-मांस = पृथ्वी। पाठ के अन्त तक प्राण ने <em>सत्</em> (जो कुछ अस्तित्ववान्), <em>असत्</em> (जो कुछ अव्यक्त/सम्भाव्य), और <em>अमृत</em> (अमर आधार) — सबको आत्मसात् कर लिया। यह उपनिषदीय उत्थान है — शरीर-विज्ञान (physiology) से तत्त्वमीमांसा (metaphysics) तक — 'आपकी नासिका का श्वास' = 'सम्पूर्ण अस्तित्व का आधार'।<br><br><em>Eng:</em> The hymn of praise (mantras 5-12) performs a remarkable expansion: Prāṇa begins as a <em>bodily</em> vital force (the breath that sustains the body) and is progressively identified with every <em>cosmic</em> power. The logic follows the Vedic <strong>bandhutā</strong> (correspondence) principle: <strong>Breath ↔ Wind</strong>: the air inside the body (prāṇa) is the same substance as the wind outside (vāyu). <strong>Body-heat ↔ Fire/Sun</strong>: the digestive fire (jāṭharāgni) in the body is a miniature sun. <strong>Bodily fluids ↔ Rain</strong>: water in the body corresponds to Parjanya (rain). <strong>Bodily solids ↔ Earth</strong>: bone and flesh correspond to pṛthivī. By the end of the litany, Prāṇa has absorbed <em>sat</em> (all that exists), <em>asat</em> (all that is latent/potential), and <em>amṛta</em> (the deathless ground of reality). This is the Upanishadic ascent from physiology to metaphysics — the same move that turns 'the breath in your nostrils' into 'the ground of all being'."
       },
       {
         "q": "🔍 What do sat, asat, and amṛta mean here?",
-        "a": "This triad appears across Vedic literature with consistent meaning: <strong>Sat</strong> (सत्) — literally 'being', 'the existent'. In this context: the manifest world, everything that can be perceived, named, and known. The universe as we experience it. <strong>Asat</strong> (असत्) — literally 'non-being', 'the non-existent'. Not mere nothingness, but the <em>unmanifest</em> — the potential, the seed-state from which the manifest world emerges. The Nāsadīya Sūkta (RV 10.129) asks: 'There was neither sat nor asat in the beginning.' <strong>Amṛta</strong> (अमृत) — literally 'not-dead', 'the immortal'. That which transcends both existence and non-existence — the eternal ground. In Advaita, this is <em>nirguṇa Brahman</em>. By saying Prāṇa encompasses all three, the hymn asserts that Prāṇa is not just a force within reality — it <em>is</em> reality in all its dimensions: manifest, unmanifest, and eternal."
+        "a": "यह त्रय (triad) वैदिक साहित्य में सुसंगत अर्थ के साथ प्रकट होता है: <strong>सत्</strong> (सत्) — शाब्दिक 'होना', 'विद्यमान'। यहाँ: व्यक्त जगत्, जो कुछ दृश्य, नाम-योग्य, ज्ञेय है — अनुभवगम्य ब्रह्माण्ड। <strong>असत्</strong> (असत्) — शाब्दिक 'अविद्यमान'। शून्यता (nothingness) नहीं, अपितु <em>अव्यक्त</em> — सम्भाव्य (potential), बीज-अवस्था, सृष्टि-पूर्व। नासदीय सूक्त (ऋ.वे. 10.129): 'आदि में न सत् था न असत्।' <strong>अमृत</strong> (अमृत) — शाब्दिक 'अ-मृत', 'अमर'। जो अस्तित्व-अनस्तित्व दोनों से परे — शाश्वत आधार। अद्वैत में यह <em>निर्गुण ब्रह्म</em>। प्राण को तीनों में व्याप्त बताकर स्तुति कहती है: प्राण यथार्थ (reality) के भीतर कोई बल नहीं — वह यथार्थ <em>है</em>, अपने सब आयामों में: व्यक्त, अव्यक्त, और शाश्वत।<br><br><em>Eng:</em> This triad appears across Vedic literature with consistent meaning: <strong>Sat</strong> (सत्) — literally 'being', 'the existent'. In this context: the manifest world, everything that can be perceived, named, and known. The universe as we experience it. <strong>Asat</strong> (असत्) — literally 'non-being', 'the non-existent'. Not mere nothingness, but the <em>unmanifest</em> — the potential, the seed-state from which the manifest world emerges. The Nāsadīya Sūkta (RV 10.129) asks: 'There was neither sat nor asat in the beginning.' <strong>Amṛta</strong> (अमृत) — literally 'not-dead', 'the immortal'. That which transcends both existence and non-existence — the eternal ground. In Advaita, this is <em>nirguṇa Brahman</em>. By saying Prāṇa encompasses all three, the hymn asserts that Prāṇa is not just a force within reality — it <em>is</em> reality in all its dimensions: manifest, unmanifest, and eternal."
       }
     ]
   },
@@ -343,8 +543,13 @@
     "ws": [
       {
         "s": "अराः",
-        "h": "अरे / पहिये की तीलियाँ",
+        "h": "अरे / पहिये की तीलियाँ (spokes)",
         "e": "spokes"
+      },
+      {
+        "s": "इव",
+        "h": "जैसे / की तरह (उपमा)",
+        "e": "like / as"
       },
       {
         "s": "रथनाभौ",
@@ -352,18 +557,38 @@
         "e": "in the hub of a chariot-wheel"
       },
       {
+        "s": "प्राणे",
+        "h": "प्राण में",
+        "e": "in Prāṇa"
+      },
+      {
+        "s": "सर्वम् प्रतिष्ठितम्",
+        "h": "सब कुछ प्रतिष्ठित / स्थापित है",
+        "e": "everything is established"
+      },
+      {
         "s": "ऋचः",
         "h": "ऋग्वेद की ऋचाएँ / स्तुति-मन्त्र",
-        "e": "Ṛk verses"
+        "e": "Ṛk verses (Ṛg Veda)"
       },
       {
         "s": "यजूंषि",
         "h": "यजुर्वेद के मन्त्र / यज्ञ-सूत्र",
-        "e": "Yajus formulae"
+        "e": "Yajus formulae (Yajur Veda)"
+      },
+      {
+        "s": "सामानि",
+        "h": "सामवेद के गान / सामगान",
+        "e": "Sāman chants (Sāma Veda)"
+      },
+      {
+        "s": "यज्ञः",
+        "h": "यज्ञ / हवन / बलिदान",
+        "e": "sacrifice"
       },
       {
         "s": "क्षत्रम्",
-        "h": "क्षत्रिय-शक्ति / राजशक्ति",
+        "h": "क्षत्रिय-शक्ति / राजशक्ति / लौकिक सत्ता",
         "e": "warrior-power / temporal authority"
       },
       {
@@ -372,7 +597,7 @@
         "e": "priestly-wisdom / sacred knowledge"
       }
     ],
-    "gr": "<strong>arāḥ iva ratha-nābhau</strong> — the wheel-hub simile is one of the most celebrated in Upanishadic literature (cf. Muṇḍaka 2.2.6, Bṛhadāraṇyaka 2.5.15). The hub is the <em>centre</em> that holds all spokes in place; remove the hub and the wheel collapses. Similarly, Prāṇa is the centre on which all of reality (Vedas, sacrifice, social order) depends. <strong>ṛcaḥ yajūṁṣi sāmāni</strong> — the three Vedas represent the totality of sacred knowledge. <strong>yajñaḥ</strong> — sacrifice, the central institution of Vedic religion. <strong>kṣatraṁ brahma ca</strong> — temporal power and spiritual authority — the two pillars of Vedic society. By saying all these depend on Prāṇa, the hymn asserts that without the vital force, neither knowledge, nor ritual, nor society can exist.",
+    "gr": "<strong>व्याकरण:</strong> <em>अराः इव रथनाभौ</em> — रथ-नाभि (wheel-hub) का रूपक उपनिषदीय साहित्य का सर्वाधिक प्रसिद्ध रूपकों में से एक है (तुलना: मुण्डक 2.2.6, बृहदारण्यक 2.5.15)। नाभि (hub) वह <em>केन्द्र</em> है जो सब अरों (spokes) को स्थिर रखता है; नाभि हटा दो तो पहिया बिखर जाता है। वैसे ही प्राण वह केन्द्र है जिस पर समस्त यथार्थ (वेद, यज्ञ, सामाजिक व्यवस्था) निर्भर है। <em>ऋचः यजूंषि सामानि</em> — तीन वेद = समग्र पवित्र ज्ञान। <em>यज्ञः</em> — यज्ञ = वैदिक धर्म की केन्द्रीय संस्था। <em>क्षत्रम् ब्रह्म च</em> — लौकिक शक्ति और आध्यात्मिक अधिकार — वैदिक समाज के दो स्तम्भ। सबको प्राण पर निर्भर बताकर स्तुति घोषित करती है: बिना प्राण-शक्ति (जीवन-बल) के न ज्ञान, न कर्मकाण्ड, न समाज — कुछ भी अस्तित्व में नहीं रह सकता।<br><em>Eng:</em> The wheel-hub simile (cf. Muṇḍaka 2.2.6, BU 2.5.15). The hub holds all spokes; remove it, the wheel collapses. The three Vedas, sacrifice, and the two pillars of society (kṣatra and brahma) all depend on Prāṇa.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -397,11 +622,11 @@
     "dp": [
       {
         "q": "🔍 The wheel-hub simile across the Upanishads",
-        "a": "The <strong>ratha-nābhi</strong> (chariot-wheel hub) simile is one of the most enduring images in Upanishadic philosophy. It appears in: <strong>Bṛhadāraṇyaka 2.5.15</strong>: 'As all spokes are held together in the hub and rim of a wheel, so in this Self (Ātman) all beings, all gods, all worlds, all breaths are held together.' <strong>Muṇḍaka 2.2.6</strong>: 'In him the channels (nāḍīs) are fixed like spokes in a hub — meditate on the Self as OM.' <strong>Praśna 2.6</strong> (this mantra): Prāṇa is the hub; the Vedas, sacrifice, and social order are the spokes. The hub is chosen deliberately over other possible centres (like the axle or the charioteer) because it has a unique property: every spoke <em>meets</em> at the hub. It is the <strong>convergence point</strong> — the one place where all diversity resolves into unity. This is the core Upanishadic insight: behind the multiplicity of knowledge-systems, rituals, and social structures, there is <em>one</em> sustaining reality."
+        "a": "<strong>रथ-नाभि</strong> (chariot-wheel hub) रूपक उपनिषदीय दर्शन के सबसे स्थायी बिम्बों में से एक है। यह अनेक स्थानों पर मिलता है: <strong>बृहदारण्यक 2.5.15</strong>: 'जैसे सब अरे नाभि और नेमि (rim) में जुड़े हैं, वैसे इस आत्मन् में सब प्राणी, सब देवता, सब लोक, सब प्राण जुड़े हैं।' <strong>मुण्डक 2.2.6</strong>: 'जिसमें नाड़ियाँ अरों की तरह नाभि में स्थित हैं — उस आत्मा का ॐ के रूप में ध्यान करो।' <strong>प्रश्न 2.6</strong> (यह मन्त्र): प्राण = नाभि; वेद, यज्ञ, सामाजिक व्यवस्था = अरे। नाभि अन्य सम्भव केन्द्रों (धुरी, सारथि) पर इसलिए चुनी गई क्योंकि उसका एक अद्वितीय गुण है: प्रत्येक अरा नाभि पर <em>मिलता</em> है। यह <strong>अभिसरण-बिन्दु</strong> (convergence point) है — वह एकमात्र स्थान जहाँ सब विविधता एकत्व में विलीन होती है। यही उपनिषदीय मूल अन्तर्दृष्टि है: ज्ञान-व्यवस्थाओं, कर्मकाण्डों, और सामाजिक संरचनाओं की बहुलता के पीछे <em>एक</em> पोषक यथार्थ है।<br><br><em>Eng:</em> The <strong>ratha-nābhi</strong> (chariot-wheel hub) simile is one of the most enduring images in Upanishadic philosophy. It appears in: <strong>Bṛhadāraṇyaka 2.5.15</strong>: 'As all spokes are held together in the hub and rim of a wheel, so in this Self (Ātman) all beings, all gods, all worlds, all breaths are held together.' <strong>Muṇḍaka 2.2.6</strong>: 'In him the channels (nāḍīs) are fixed like spokes in a hub — meditate on the Self as OM.' <strong>Praśna 2.6</strong> (this mantra): Prāṇa is the hub; the Vedas, sacrifice, and social order are the spokes. The hub is chosen deliberately over other possible centres (like the axle or the charioteer) because it has a unique property: every spoke <em>meets</em> at the hub. It is the <strong>convergence point</strong> — the one place where all diversity resolves into unity. This is the core Upanishadic insight: behind the multiplicity of knowledge-systems, rituals, and social structures, there is <em>one</em> sustaining reality."
       },
       {
         "q": "🔍 Why include kṣatra and brahma?",
-        "a": "The mention of <strong>kṣatra</strong> (temporal/warrior power) and <strong>brahma</strong> (spiritual/priestly power) alongside the three Vedas and sacrifice is significant. In Vedic society, kṣatra and brahma were the two pillars of social order — the <em>rājan</em> (king) and the <em>brāhmaṇa</em> (priest) each depended on the other. By saying both are 'established in Prāṇa', the Upanishad makes a radical claim: <strong>neither political power nor spiritual authority is self-grounding</strong>. Both depend on the vital force — on <em>life itself</em>. A dead king has no kṣatra; a dead priest has no brahma. This is not a cynical reductionism ('everything is just biology') but an Upanishadic elevation: the life-force (Prāṇa) that sustains king and priest alike is itself a manifestation of Brahman. The message: before you claim authority — whether political or spiritual — recognise that your authority rests on a power you did not create and cannot control."
+        "a": "<strong>क्षत्र</strong> (लौकिक/योद्धा शक्ति) और <strong>ब्रह्म</strong> (आध्यात्मिक/पुरोहित शक्ति) का तीन वेदों और यज्ञ के साथ उल्लेख महत्त्वपूर्ण है। वैदिक समाज में क्षत्र और ब्रह्म दो स्तम्भ थे — <em>राजन्</em> (राजा) और <em>ब्राह्मण</em> (पुरोहित) परस्पर निर्भर। दोनों को 'प्राण में प्रतिष्ठित' बताकर उपनिषद् एक क्रान्तिकारी दावा करता है: <strong>न राजनैतिक शक्ति न आध्यात्मिक अधिकार — कोई भी आत्मनिर्भर (self-grounding) नहीं है</strong>। दोनों प्राण-शक्ति — <em>जीवन ही</em> — पर निर्भर हैं। मृत राजा का कोई क्षत्र नहीं; मृत पुरोहित का कोई ब्रह्म नहीं। यह नकारात्मक न्यूनीकरण ('सब बस जीव-विज्ञान है') नहीं, अपितु उपनिषदीय उन्नयन (elevation) है: जीवन-शक्ति (प्राण) जो राजा और पुरोहित दोनों को पोषित करती है, स्वयं ब्रह्म की अभिव्यक्ति है।<br><br><em>Eng:</em> The mention of <strong>kṣatra</strong> (temporal/warrior power) and <strong>brahma</strong> (spiritual/priestly power) alongside the three Vedas and sacrifice is significant. In Vedic society, kṣatra and brahma were the two pillars of social order — the <em>rājan</em> (king) and the <em>brāhmaṇa</em> (priest) each depended on the other. By saying both are 'established in Prāṇa', the Upanishad makes a radical claim: <strong>neither political power nor spiritual authority is self-grounding</strong>. Both depend on the vital force — on <em>life itself</em>. A dead king has no kṣatra; a dead priest has no brahma. This is not a cynical reductionism ('everything is just biology') but an Upanishadic elevation: the life-force (Prāṇa) that sustains king and priest alike is itself a manifestation of Brahman. The message: before you claim authority — whether political or spiritual — recognise that your authority rests on a power you did not create and cannot control."
       }
     ]
   },
@@ -414,8 +639,13 @@
     "ws": [
       {
         "s": "प्रजापतिः",
-        "h": "प्रजापति / सृष्टिकर्ता / सब प्राणियों का स्वामी",
-        "e": "Prajāpati"
+        "h": "प्रजापति / सृष्टिकर्ता",
+        "e": "Prajāpati / the Lord of Creatures"
+      },
+      {
+        "s": "चरसि",
+        "h": "विचरण करता है / चलता है",
+        "e": "you move / you wander"
       },
       {
         "s": "गर्भे",
@@ -423,22 +653,42 @@
         "e": "in the womb"
       },
       {
+        "s": "त्वम् एव",
+        "h": "तू ही",
+        "e": "you yourself"
+      },
+      {
         "s": "प्रतिजायसे",
-        "h": "पुनः जन्म लेता है / प्रत्येक प्राणी में उत्पन्न होता है",
+        "h": "पुनः जन्म लेता है / फिर उत्पन्न होता है",
         "e": "you are born again"
       },
       {
-        "s": "बलिम्",
-        "h": "बलि / नैवेद्य / भेंट",
-        "e": "offering / tribute"
+        "s": "तुभ्यम्",
+        "h": "तुझे / तेरे लिए",
+        "e": "to you / for you"
       },
       {
-        "s": "हरन्ति",
-        "h": "ले जाते हैं / अर्पित करते हैं",
-        "e": "they bring / offer"
+        "s": "प्रजाः",
+        "h": "प्रजाएँ / सब प्राणी",
+        "e": "creatures / beings"
+      },
+      {
+        "s": "बलिम् हरन्ति",
+        "h": "बलि (भेंट/नैवेद्य) अर्पित करते हैं",
+        "e": "they bring offerings"
+      },
+      {
+        "s": "प्राणैः",
+        "h": "(अन्य) प्राणों (इन्द्रियों) के साथ",
+        "e": "with the (other) vital breaths"
+      },
+      {
+        "s": "प्रतितिष्ठसि",
+        "h": "स्थित रहता है / प्रतिष्ठित है",
+        "e": "you remain established"
       }
     ],
-    "gr": "<strong>prajāpatiḥ carasi garbhe</strong> — Prāṇa is now identified with Prajāpati, the Vedic creator-god. The claim is startling: the same breath that sustains <em>your</em> body is the same creative force that animates every embryo in every womb. <strong>pratijāyase</strong> — 'you are born again': Prāṇa is not born once — it is reborn in every birth. This echoes the Gītā's 'the unborn, eternal Self' that enters body after body. <strong>baliṁ haranti</strong> — 'they bring offerings': eating is reframed as a sacred act — every meal is a bali (tribute) to Prāṇa. This idea is developed extensively in the prāṇāgnihotra (offering into the fire of the vital breath), a daily Vedic practice. <strong>prāṇaiḥ pratitiṣṭhasi</strong> — 'you dwell with the vital breaths': even the five sub-prāṇas depend on the one chief Prāṇa.",
+    "gr": "<strong>व्याकरण:</strong> <em>प्रजापतिः चरसि गर्भे</em> — प्राण को अब प्रजापति (सृष्टिकर्ता) से पहचाना गया — जो श्वास आपके शरीर को चलाता है, वही सृजन-शक्ति प्रत्येक गर्भ में प्रत्येक भ्रूण को सजीव करती है। <em>प्रतिजायसे</em> — 'तू पुनः जन्म लेता है': प्राण एक बार नहीं, प्रत्येक जन्म में पुनर्जन्म लेता है — गीता के 'अजन्मा, शाश्वत आत्मा' की प्रतिध्वनि जो शरीर-शरीर प्रवेश करता है। <em>बलिम् हरन्ति</em> — 'बलि अर्पित करते हैं': भोजन करना = एक पवित्र कृत्य — प्रत्येक भोजन प्राण के लिए बलि (tribute) है। यही प्राणाग्निहोत्र (प्राण-अग्नि में आहुति) की अवधारणा है। <em>प्राणैः प्रतितिष्ठसि</em> — 'प्राणों के साथ स्थित': पाँच उप-प्राण भी मुख्य प्राण पर निर्भर हैं।<br><em>Eng:</em> Prāṇa = Prajāpati — the same breath sustaining your body is the creative force animating every embryo. 'Pratijāyase' — Prāṇa is reborn in every birth. 'Baliṁ haranti' — eating reframed as sacred offering (prāṇāgnihotra). Even the five sub-prāṇas depend on the chief Prāṇa.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -463,11 +713,11 @@
     "dp": [
       {
         "q": "🔍 What is the prāṇāgnihotra?",
-        "a": "The <strong>prāṇāgnihotra</strong> (offering into the fire of the vital breath) is a Vedic practice that transforms the mundane act of eating into a sacred ritual. The principle: every meal is an <strong>oblation</strong> (āhuti) poured into the fire of Prāṇa. The five morsels of food correspond to the five prāṇas: the first morsel is offered to <em>prāṇa</em> ('prāṇāya svāhā'), the second to <em>vyāna</em>, the third to <em>apāna</em>, the fourth to <em>samāna</em>, the fifth to <em>udāna</em>. This practice is described in <strong>Chāndogya 5.19-24</strong> (the pañcāgni-vidyā context) and codified in <strong>Manu-smṛti 3.84-86</strong>. Its significance: it converts <em>every</em> householder's meal into a Vedic sacrifice — no altar, no priest, no fire needed. The eater is the priest, the food is the offering, and the body's digestive fire (jāṭharāgni) is the sacred fire. This democratises sacrifice: anyone who eats mindfully is performing a yajña."
+        "a": "<strong>प्राणाग्निहोत्र</strong> (प्राण-अग्नि में आहुति) वैदिक अभ्यास है जो भोजन के सामान्य कृत्य को पवित्र अनुष्ठान में रूपान्तरित करता है। सिद्धान्त: प्रत्येक भोजन प्राण-अग्नि में डाली गई <strong>आहुति</strong> (oblation) है। भोजन के पाँच ग्रास पाँच प्राणों से सम्बन्धित: पहला ग्रास <em>प्राण</em> को ('प्राणाय स्वाहा'), दूसरा <em>व्यान</em> को, तीसरा <em>अपान</em> को, चौथा <em>समान</em> को, पाँचवाँ <em>उदान</em> को। यह अभ्यास <strong>छान्दोग्य 5.19-24</strong> (पञ्चाग्निविद्या सन्दर्भ) में वर्णित और <strong>मनुस्मृति 3.84-86</strong> में संहिताबद्ध है। इसका महत्त्व: यह <em>प्रत्येक</em> गृहस्थ के भोजन को वैदिक यज्ञ में बदल देता है — न वेदी चाहिए, न पुरोहित, न अग्नि। खाने वाला = पुरोहित, अन्न = आहुति, शरीर की जठराग्नि = पवित्र अग्नि।<br><br><em>Eng:</em> The <strong>prāṇāgnihotra</strong> (offering into the fire of the vital breath) is a Vedic practice that transforms the mundane act of eating into a sacred ritual. The principle: every meal is an <strong>oblation</strong> (āhuti) poured into the fire of Prāṇa. The five morsels of food correspond to the five prāṇas: the first morsel is offered to <em>prāṇa</em> ('prāṇāya svāhā'), the second to <em>vyāna</em>, the third to <em>apāna</em>, the fourth to <em>samāna</em>, the fifth to <em>udāna</em>. This practice is described in <strong>Chāndogya 5.19-24</strong> (the pañcāgni-vidyā context) and codified in <strong>Manu-smṛti 3.84-86</strong>. Its significance: it converts <em>every</em> householder's meal into a Vedic sacrifice — no altar, no priest, no fire needed. The eater is the priest, the food is the offering, and the body's digestive fire (jāṭharāgni) is the sacred fire. This democratises sacrifice: anyone who eats mindfully is performing a yajña."
       },
       {
         "q": "🔍 How is Prāṇa both creator and creature?",
-        "a": "The mantra makes a paradoxical claim: Prāṇa is <strong>Prajāpati</strong> (the creator who moves in the womb) and also the creature that is <strong>born again</strong> (pratijāyase). This paradox is central to Upanishadic thought: <strong>the creator enters its own creation</strong>. In Vedāntic terms: Brahman (the Absolute) is both the <em>nimitta-kāraṇa</em> (efficient cause — the potter) and the <em>upādāna-kāraṇa</em> (material cause — the clay). It doesn't create from outside; it becomes the creation. Each birth is not a new Prāṇa being manufactured but the <em>same</em> cosmic Prāṇa re-entering a new form — like the same ocean-water filling a new wave. This dissolves the creator-creature duality: the breath in you is not a <em>gift</em> from God — it <em>is</em> God, operating at the vital level. The Taittirīya Upanishad (2.6) expresses this identically: 'Having created, He entered into it (tat sṛṣṭvā tad evānuprāviśat).'"
+        "a": "मन्त्र एक विरोधाभासी (paradoxical) दावा करता है: प्राण <strong>प्रजापति</strong> (सृष्टिकर्ता जो गर्भ में विचरण करता है) भी है और वह <strong>प्राणी</strong> भी जो <strong>पुनः जन्म लेता है</strong> (प्रतिजायसे)। यह विरोधाभास उपनिषदीय चिन्तन के केन्द्र में है: <strong>सृष्टिकर्ता अपनी सृष्टि में प्रवेश करता है</strong>। वेदान्तिक भाषा में: ब्रह्म (परम सत्ता) <em>निमित्त-कारण</em> (कुशल कारण — कुम्हार) और <em>उपादान-कारण</em> (पदार्थ कारण — मिट्टी) — दोनों है। वह बाहर से नहीं रचता; वह सृष्टि <em>बनता</em> है। प्रत्येक जन्म नया प्राण नहीं 'बनता' बल्कि वही ब्रह्माण्डीय प्राण नए रूप में प्रवेश करता है — जैसे वही समुद्री जल नई लहर भरता है। यह सृष्टिकर्ता-सृष्टि द्वैत विलीन करता है: आपकी श्वास ईश्वर की <em>भेंट</em> नहीं — वह ईश्वर <em>है</em>, प्राण-स्तर पर कार्यरत। तैत्तिरीय (2.6): '<em>तत् सृष्ट्वा तदेवानुप्राविशत्</em>' — 'उसे रचकर उसी में प्रवेश किया।'<br><br><em>Eng:</em> The mantra makes a paradoxical claim: Prāṇa is <strong>Prajāpati</strong> (the creator who moves in the womb) and also the creature that is <strong>born again</strong> (pratijāyase). This paradox is central to Upanishadic thought: <strong>the creator enters its own creation</strong>. In Vedāntic terms: Brahman (the Absolute) is both the <em>nimitta-kāraṇa</em> (efficient cause — the potter) and the <em>upādāna-kāraṇa</em> (material cause — the clay). It doesn't create from outside; it becomes the creation. Each birth is not a new Prāṇa being manufactured but the <em>same</em> cosmic Prāṇa re-entering a new form — like the same ocean-water filling a new wave. This dissolves the creator-creature duality: the breath in you is not a <em>gift</em> from God — it <em>is</em> God, operating at the vital level. The Taittirīya Upanishad (2.6) expresses this identically: 'Having created, He entered into it (tat sṛṣṭvā tad evānuprāviśat).'"
       }
     ]
   },
@@ -479,27 +729,47 @@
     "en": "You are the foremost carrier (vahnitama) of the gods, the first oblation (svadhā) to the ancestors (pitṛs), the true practice (caritaṁ satyam) of the seers (ṛṣis), and you belong to the Atharvan-Aṅgiras tradition.",
     "ws": [
       {
+        "s": "देवानाम्",
+        "h": "देवताओं का",
+        "e": "of the gods"
+      },
+      {
         "s": "वह्नितमः",
-        "h": "सर्वोत्तम वाहक / सबसे श्रेष्ठ अग्नि",
-        "e": "the foremost carrier"
+        "h": "सर्वोत्तम वाहक / सबसे श्रेष्ठ अग्नि (हव्यवाहक)",
+        "e": "the foremost carrier / supreme fire"
       },
       {
-        "s": "स्वधा",
-        "h": "पितृ-तर्पण की आहुति / पितरों को दी जाने वाली भेंट",
-        "e": "svadhā"
+        "s": "पितृणाम्",
+        "h": "पितरों का / पूर्वजों का",
+        "e": "of the ancestors"
       },
       {
-        "s": "चरितम्",
-        "h": "आचरण / व्रत / अनुष्ठान",
-        "e": "practice / conduct"
+        "s": "प्रथमा स्वधा",
+        "h": "प्रथम स्वधा / पहली पितृ-आहुति",
+        "e": "the first svadhā-offering"
+      },
+      {
+        "s": "ऋषीणाम्",
+        "h": "ऋषियों का / मुनियों का",
+        "e": "of the seers"
+      },
+      {
+        "s": "चरितम् सत्यम्",
+        "h": "सत्य-आचरण / सत्य-व्रत",
+        "e": "the true practice / truthful conduct"
       },
       {
         "s": "अथर्वाङ्गिरसाम्",
-        "h": "अथर्ववेद के ऋषियों का / अथर्वन् और अङ्गिरस् परंपरा का",
+        "h": "अथर्ववेद के ऋषियों (अथर्वन् + अङ्गिरस्) का",
         "e": "of the Atharvans and Aṅgirases"
+      },
+      {
+        "s": "असि",
+        "h": "तू है",
+        "e": "you are"
       }
     ],
-    "gr": "<strong>devānām vahnitamaḥ</strong> — Prāṇa is the supreme vahni (fire/carrier) of the gods. The word <em>vahni</em> has a double meaning: (1) fire (agni), which carries oblations upward to the gods; (2) carrier/bearer. In both senses, Prāṇa is the medium through which offerings reach the divine realm. <strong>pitṝṇāṁ prathamā svadhā</strong> — 'the first svadhā to the ancestors': svadhā is the exclamation accompanying ancestral offerings. Prāṇa is called the 'first' svadhā because the vital breath must exist before any ritual offering can be made. <strong>ṛṣīṇāṁ caritaṁ satyam</strong> — 'the true practice of the seers': the ṛṣis' tapas (austerity) and satya (truth) are both sustained by Prāṇa. Without the vital breath, there is no tapas, no truth, no seer. <strong>atharva-aṅgirasām</strong> — this phrase anchors the Prashna Upanishad in the Atharva Veda tradition. The Atharvans and Aṅgirases were priestly families specialising in healing, protective rites, and esoteric knowledge.",
+    "gr": "<strong>व्याकरण:</strong> <em>देवानाम् वह्नितमः</em> — प्राण देवताओं का सर्वोच्च वह्नि (अग्नि/वाहक) है। <em>वह्नि</em> शब्द में दोहरा अर्थ: (1) अग्नि — जो आहुतियों को ऊपर देवों तक ले जाती है; (2) वाहक — जो भेंट पहुँचाता है। दोनों अर्थों में, प्राण वह माध्यम है जिससे अर्पण दिव्य लोक तक पहुँचते हैं। <em>पितृणाम् प्रथमा स्वधा</em> — 'पितरों की प्रथम स्वधा': स्वधा = पितृ-तर्पण के साथ बोला जाने वाला उद्गार। प्राण 'प्रथम' कहलाता है क्योंकि किसी भी कर्मकाण्डीय अर्पण से पहले श्वास का अस्तित्व आवश्यक है। <em>ऋषीणाम् चरितम् सत्यम्</em> — ऋषियों का तप और सत्य दोनों प्राण-आधारित हैं। <em>अथर्वाङ्गिरसाम्</em> — प्रश्नोपनिषद् को अथर्ववेद-परम्परा में स्थापित करता है — अथर्वन् और अङ्गिरस् ऋषि-कुल।<br><em>Eng:</em> Prāṇa is vahnitama — the supreme carrier/fire of the gods, with the double meaning of fire and bearer. 'Prathamā svadhā' — Prāṇa is the 'first' offering because breath must exist before any ritual. 'Atharva-aṅgirasām' anchors the Prashna in its Atharva Veda lineage.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -524,11 +794,11 @@
     "dp": [
       {
         "q": "🔍 What are the three ritual domains?",
-        "a": "The mantra identifies Prāṇa with three fundamental Vedic ritual domains: <strong>(1) Deva-yajña</strong> (sacrifice to the gods): Prāṇa is <em>vahnitama</em> — the supreme fire/carrier. In Vedic ritual, <strong>Agni</strong> (fire) carries oblations to the gods. Prāṇa is identified with this carrying function — the breath is the internal fire that 'carries' all worship upward. <strong>(2) Pitṛ-yajña</strong> (offering to the ancestors): Prāṇa is <em>prathamā svadhā</em> — the first offering to the departed. 'Svadhā!' is the exclamation accompanying ancestral rites (cf. 'svāhā!' for divine offerings). Prāṇa is called 'first' because without the breath, no ritual can be performed at all — the living must breathe before they can honour the dead. <strong>(3) Ṛṣi-practice</strong>: Prāṇa is <em>caritaṁ satyam</em> — the true practice of the seers. The ṛṣis' authority rests not on learning but on <em>tapas</em> (austerity) — sustained effort powered by the vital breath. These three domains together cover the entire Vedic universe: the gods above, the ancestors below, and the sages who mediate between the two."
+        "a": "मन्त्र प्राण को तीन मूलभूत वैदिक कर्मकाण्डीय क्षेत्रों से पहचानता है: <strong>(1) देवयज्ञ</strong> (देवताओं को अर्पण): प्राण = <em>वह्नितम</em> — सर्वोच्च अग्नि/वाहक। वैदिक कर्मकाण्ड में <strong>अग्नि</strong> आहुतियों को देवों तक ले जाती है। प्राण इस वहन-कार्य से पहचाना जाता है — श्वास वह आन्तरिक अग्नि है जो सब उपासना को ऊपर 'ले जाती' है। <strong>(2) पितृयज्ञ</strong> (पूर्वजों को अर्पण): प्राण = <em>प्रथमा स्वधा</em> — पितरों की प्रथम आहुति। 'स्वधा!' — पितृ-कर्मों के साथ बोला जाने वाला उद्गार। प्राण 'प्रथम' कहलाता है क्योंकि किसी भी अनुष्ठान से पहले श्वास का होना अनिवार्य — जीवितों को श्वास लेना होगा इससे पहले कि मृतों का सम्मान कर सकें। <strong>(3) ऋषि-अभ्यास</strong>: प्राण = <em>चरितम् सत्यम्</em> — ऋषियों का सत्याचरण। ऋषियों का अधिकार विद्वत्ता पर नहीं बल्कि <em>तप</em> (तपस्या) पर टिका है — जो प्राण-शक्ति द्वारा सतत प्रयास से चलती है। ये तीन क्षेत्र मिलकर सम्पूर्ण वैदिक ब्रह्माण्ड को आच्छादित करते हैं: ऊपर देवता, नीचे पितर, और बीच में मध्यस्थता करने वाले ऋषि।<br><br><em>Eng:</em> The mantra identifies Prāṇa with three fundamental Vedic ritual domains: <strong>(1) Deva-yajña</strong> (sacrifice to the gods): Prāṇa is <em>vahnitama</em> — the supreme fire/carrier. In Vedic ritual, <strong>Agni</strong> (fire) carries oblations to the gods. Prāṇa is identified with this carrying function — the breath is the internal fire that 'carries' all worship upward. <strong>(2) Pitṛ-yajña</strong> (offering to the ancestors): Prāṇa is <em>prathamā svadhā</em> — the first offering to the departed. 'Svadhā!' is the exclamation accompanying ancestral rites (cf. 'svāhā!' for divine offerings). Prāṇa is called 'first' because without the breath, no ritual can be performed at all — the living must breathe before they can honour the dead. <strong>(3) Ṛṣi-practice</strong>: Prāṇa is <em>caritaṁ satyam</em> — the true practice of the seers. The ṛṣis' authority rests not on learning but on <em>tapas</em> (austerity) — sustained effort powered by the vital breath. These three domains together cover the entire Vedic universe: the gods above, the ancestors below, and the sages who mediate between the two."
       },
       {
         "q": "🔍 Why mention Atharva-Aṅgiras?",
-        "a": "The phrase <strong>atharva-aṅgirasām asi</strong> ('you are of the Atharvans and Aṅgirases') serves two purposes: <strong>Lineage-marker</strong>: the Prashna Upanishad belongs to the <strong>Atharva Veda</strong>, and this phrase anchors it in its parent tradition. The Atharvans (from ṛṣi Atharvan) and Aṅgirases (from ṛṣi Aṅgiras) were the two founding priestly families of this Veda. <strong>Content-marker</strong>: the Atharva Veda is the Veda of <em>practical knowledge</em> — healing, protection, and the study of the vital forces (prāṇa-vidyā). By identifying Prāṇa with this tradition, the hymn claims that <strong>prāṇa-vidyā is the Atharva Veda's central teaching</strong>. This is historically significant: while the Ṛg Veda centres on hymns, the Yajur Veda on sacrifice, and the Sāma Veda on chant, the Atharva Veda's distinctive contribution to Indian thought is its focus on the <em>vital</em> and the <em>embodied</em> — healing, longevity, and the forces that sustain life."
+        "a": "'<strong>अथर्वाङ्गिरसाम् असि</strong>' ('तू अथर्वन्-अङ्गिरस् का है') दो उद्देश्य पूरा करता है: <strong>वंश-चिह्न</strong>: प्रश्नोपनिषद् <strong>अथर्ववेद</strong> से सम्बन्धित है, और यह पद उसे उसकी मूल परम्परा में स्थापित करता है। अथर्वन् (ऋषि अथर्वन् से) और अङ्गिरस् (ऋषि अङ्गिरस् से) इस वेद के दो संस्थापक ऋषि-कुल थे। <strong>विषय-चिह्न</strong>: अथर्ववेद <em>व्यावहारिक ज्ञान</em> का वेद है — चिकित्सा, रक्षा, और प्राण-शक्तियों (prāṇa-vidyā) का अध्ययन। प्राण को इस परम्परा से पहचानकर स्तुति दावा करती है कि <strong>प्राण-विद्या ही अथर्ववेद की केन्द्रीय शिक्षा</strong> है। यह ऐतिहासिक रूप से महत्त्वपूर्ण है: जहाँ ऋग्वेद स्तुतियों पर, यजुर्वेद यज्ञ पर, सामवेद गान पर केन्द्रित हैं, वहाँ अथर्ववेद का विशिष्ट योगदान भारतीय चिन्तन में <em>प्राणमय</em> और <em>देहगत</em> (embodied) विषयों — चिकित्सा, दीर्घायु, और जीवन-शक्ति के अध्ययन — पर केन्द्रित है।<br><br><em>Eng:</em> The phrase <strong>atharva-aṅgirasām asi</strong> ('you are of the Atharvans and Aṅgirases') serves two purposes: <strong>Lineage-marker</strong>: the Prashna Upanishad belongs to the <strong>Atharva Veda</strong>, and this phrase anchors it in its parent tradition. The Atharvans (from ṛṣi Atharvan) and Aṅgirases (from ṛṣi Aṅgiras) were the two founding priestly families of this Veda. <strong>Content-marker</strong>: the Atharva Veda is the Veda of <em>practical knowledge</em> — healing, protection, and the study of the vital forces (prāṇa-vidyā). By identifying Prāṇa with this tradition, the hymn claims that <strong>prāṇa-vidyā is the Atharva Veda's central teaching</strong>. This is historically significant: while the Ṛg Veda centres on hymns, the Yajur Veda on sacrifice, and the Sāma Veda on chant, the Atharva Veda's distinctive contribution to Indian thought is its focus on the <em>vital</em> and the <em>embodied</em> — healing, longevity, and the forces that sustain life."
       }
     ]
   },
@@ -542,7 +812,17 @@
       {
         "s": "इन्द्रः",
         "h": "इन्द्र / देवराज / शक्ति का देवता",
-        "e": "Indra"
+        "e": "Indra — king of the gods"
+      },
+      {
+        "s": "त्वम्",
+        "h": "तू",
+        "e": "you"
+      },
+      {
+        "s": "प्राण",
+        "h": "हे प्राण!",
+        "e": "O Prāṇa!"
       },
       {
         "s": "तेजसा",
@@ -551,21 +831,41 @@
       },
       {
         "s": "रुद्रः",
-        "h": "रुद्र / शिव / संहार करने वाला",
-        "e": "Rudra"
+        "h": "रुद्र / शिव / संहारक देवता",
+        "e": "Rudra — the fierce/destroying god"
+      },
+      {
+        "s": "असि",
+        "h": "तू है",
+        "e": "you are"
       },
       {
         "s": "परिरक्षिता",
-        "h": "सब ओर से रक्षा करने वाला",
-        "e": "protector"
+        "h": "सब ओर से रक्षा करने वाला / संरक्षक",
+        "e": "protector / guardian"
       },
       {
-        "s": "ज्योतिषां पतिः",
+        "s": "अन्तरिक्षे",
+        "h": "अन्तरिक्ष में / वायुमण्डल में",
+        "e": "in the mid-space / atmosphere"
+      },
+      {
+        "s": "चरसि",
+        "h": "विचरण करता है",
+        "e": "you move"
+      },
+      {
+        "s": "सूर्यः",
+        "h": "सूर्य",
+        "e": "the sun"
+      },
+      {
+        "s": "ज्योतिषाम् पतिः",
         "h": "सब ज्योतियों / प्रकाशों का स्वामी",
-        "e": "lord of lights"
+        "e": "lord of all lights"
       }
     ],
-    "gr": "<strong>indraḥ tvaṁ tejasā</strong> — Prāṇa is identified with Indra (the king of gods) specifically through <em>tejas</em> (splendour, fiery power). In the body, Prāṇa is the mightiest force — just as Indra is mightiest among gods. <strong>rudraḥ asi parirakṣitā</strong> — Prāṇa is Rudra, the fierce one (from √rud, to cry/roar). But Rudra is also <em>parirakṣitā</em> (protector) — the same force that destroys (at death) also protects (during life). This dual nature (destroyer-protector) is characteristic of both Rudra and Prāṇa. <strong>antarikṣe carasi</strong> — 'you move in the mid-space': the antarikṣa (atmospheric space) is Vāyu's (wind's) domain. Prāṇa = Vāyu, the cosmic wind. <strong>jyotiṣāṁ patiḥ</strong> — 'lord of lights': Prāṇa = Sūrya (sun), the source from which all lesser lights derive.",
+    "gr": "<strong>व्याकरण:</strong> <em>इन्द्रः त्वम् तेजसा</em> — प्राण को इन्द्र (देवराज) से विशेष रूप से <em>तेजस्</em> (प्रताप, अग्नि-शक्ति) के कारण पहचाना गया। शरीर में प्राण सर्वाधिक शक्तिशाली बल है — जैसे इन्द्र देवों में। <em>रुद्रः असि परिरक्षिता</em> — प्राण रुद्र (√रुद् = रोना/गरजना, भयंकर) है, किन्तु साथ ही <em>परिरक्षिता</em> (रक्षक) भी — जो मारता है वही बचाता भी है। यह द्वैत-स्वभाव (destroyer-protector) रुद्र और प्राण दोनों का लक्षण है। <em>अन्तरिक्षे चरसि</em> — 'अन्तरिक्ष में विचरण करता है': अन्तरिक्ष = वायु का क्षेत्र; प्राण = वायु। <em>ज्योतिषाम् पतिः</em> — 'ज्योतियों का स्वामी': प्राण = सूर्य — जिससे सब अन्य प्रकाश व्युत्पन्न (derived) हैं।<br><em>Eng:</em> Prāṇa = Indra by tejas (power). Prāṇa = Rudra — both destroyer and protector, the same force that kills at death sustains during life. 'Antarikṣe carasi' = Vāyu's domain. 'Jyotiṣāṁ patiḥ' = Sūrya, source of all light.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -590,11 +890,11 @@
     "dp": [
       {
         "q": "🔍 Prāṇa as Rudra: destroyer and protector",
-        "a": "The identification of Prāṇa with <strong>Rudra</strong> is especially rich because Rudra embodies a <strong>paradox</strong>: he is both the destroyer and the protector. The same quality applies to Prāṇa: <strong>As destroyer</strong>: when Prāṇa departs the body (death), it destroys the entire organism. The faculties, the senses, the mind — all cease. In this role, Prāṇa <em>is</em> the god of death. <strong>As protector</strong>: while Prāṇa remains in the body, it guards against death. It maintains body temperature, circulates nutrients, fights infection (through immune response), and sustains consciousness. In this role, Prāṇa <em>is</em> the guardian deity. This dual nature is captured in the mantra's juxtaposition: <em>rudraḥ asi parirakṣitā</em> — 'you are Rudra, the protector.' The destroyer <em>is</em> the protector. This is not a contradiction but a recognition that the same force that ends life is the force that sustains it — just as the same fire that warms you can burn you. The Śvetāśvatara Upanishad (3.2-4) develops this Rudra-Prāṇa identification further, eventually identifying Rudra with the supreme Brahman."
+        "a": "प्राण की <strong>रुद्र</strong> से पहचान विशेष रूप से समृद्ध है क्योंकि रुद्र एक <strong>विरोधाभास</strong> (paradox) मूर्तिमान् करता है: वह विनाशक भी है और रक्षक भी। वही गुण प्राण पर लागू होता है: <strong>विनाशक रूप में</strong>: जब प्राण शरीर छोड़ता है (मृत्यु), वह सम्पूर्ण जीव-तन्त्र को नष्ट कर देता है — इन्द्रियाँ, बोध, मन — सब समाप्त। इस भूमिका में प्राण <em>ही</em> मृत्यु-देवता है। <strong>रक्षक रूप में</strong>: जब तक प्राण शरीर में रहता है, वह मृत्यु से बचाता है — शरीर-ताप बनाए रखता है, पोषक तत्त्व संचारित करता है, रोग-प्रतिरोधक तन्त्र चलाता है, चेतना धारण करता है। इस भूमिका में प्राण <em>ही</em> रक्षक देवता है। मन्त्र में यह द्वैत-स्वभाव सन्निहित: <em>रुद्रः असि परिरक्षिता</em> — 'तू रुद्र है, रक्षक है।' विनाशक <em>ही</em> रक्षक है — यह विरोधाभास नहीं, बल्कि यह स्वीकृति कि जो शक्ति जीवन समाप्त करती है, वही उसे टिकाती है — जैसे वही अग्नि जो सेंकती है, जला भी सकती है। श्वेताश्वतर उपनिषद् (3.2-4) इस रुद्र-प्राण पहचान को और विकसित करता है, अन्ततः रुद्र को परम ब्रह्म से पहचानता है।<br><br><em>Eng:</em> The identification of Prāṇa with <strong>Rudra</strong> is especially rich because Rudra embodies a <strong>paradox</strong>: he is both the destroyer and the protector. The same quality applies to Prāṇa: <strong>As destroyer</strong>: when Prāṇa departs the body (death), it destroys the entire organism. The faculties, the senses, the mind — all cease. In this role, Prāṇa <em>is</em> the god of death. <strong>As protector</strong>: while Prāṇa remains in the body, it guards against death. It maintains body temperature, circulates nutrients, fights infection (through immune response), and sustains consciousness. In this role, Prāṇa <em>is</em> the guardian deity. This dual nature is captured in the mantra's juxtaposition: <em>rudraḥ asi parirakṣitā</em> — 'you are Rudra, the protector.' The destroyer <em>is</em> the protector. This is not a contradiction but a recognition that the same force that ends life is the force that sustains it — just as the same fire that warms you can burn you. The Śvetāśvatara Upanishad (3.2-4) develops this Rudra-Prāṇa identification further, eventually identifying Rudra with the supreme Brahman."
       },
       {
         "q": "🔍 The three cosmic planes in this verse",
-        "a": "The mantra maps Prāṇa onto the <strong>Vedic trikāṇḍa</strong> (three-realm cosmology): <strong>(1) Dyu-loka (heaven)</strong>: Prāṇa = <em>Indra</em> (king of the gods) and <em>Sūrya</em> (lord of lights). These are celestial powers. <strong>(2) Antarikṣa (mid-space/atmosphere)</strong>: 'You move in the antarikṣa' — Prāṇa = <em>Vāyu</em> (wind). The atmosphere is the domain of the wind-god. <strong>(3) Pṛthivī (earth)</strong>: implied through <em>Rudra</em> as <em>parirakṣitā</em> (protector of earthly beings). The hymn systematically claims every cosmic level for Prāṇa: it rules in heaven (as Indra/Sun), moves through the atmosphere (as Vāyu), and protects on earth (as Rudra). This total coverage — heaven, atmosphere, earth — means there is no realm where Prāṇa is absent. The same structure appears in the Gāyatrī mantra's three pādas (bhūr, bhuvaḥ, svaḥ) and in the Puruṣa Sūkta's description of the Cosmic Person spanning all three worlds."
+        "a": "मन्त्र प्राण को <strong>वैदिक त्रिकाण्ड</strong> (तीन-लोक ब्रह्माण्ड-विद्या) पर प्रक्षेपित करता है: <strong>(1) द्युलोक (स्वर्ग)</strong>: प्राण = <em>इन्द्र</em> (देवराज) और <em>सूर्य</em> (ज्योतियों का पति) — ये दिव्य/स्वर्गीय शक्तियाँ हैं। <strong>(2) अन्तरिक्ष (मध्यलोक/वायुमण्डल)</strong>: 'तू अन्तरिक्ष में विचरण करता है' — प्राण = <em>वायु</em> (पवन)। अन्तरिक्ष वायुदेव का क्षेत्र है। <strong>(3) पृथ्वी (भूलोक)</strong>: <em>रुद्र</em> = <em>परिरक्षिता</em> (पार्थिव प्राणियों का रक्षक) के माध्यम से सूचित। स्तुति व्यवस्थित रूप से प्रत्येक ब्रह्माण्डीय स्तर का प्राण-अधिकार घोषित करती है: स्वर्ग में (इन्द्र/सूर्य), वायुमण्डल में (वायु), पृथ्वी पर (रुद्र)। यही संरचना गायत्री मन्त्र के तीन पदों (भूः, भुवः, स्वः) और पुरुषसूक्त के ब्रह्माण्डीय पुरुष तीनों लोकों में व्याप्त होने के वर्णन में भी मिलती है।<br><br><em>Eng:</em> The mantra maps Prāṇa onto the <strong>Vedic trikāṇḍa</strong> (three-realm cosmology): <strong>(1) Dyu-loka (heaven)</strong>: Prāṇa = <em>Indra</em> (king of the gods) and <em>Sūrya</em> (lord of lights). These are celestial powers. <strong>(2) Antarikṣa (mid-space/atmosphere)</strong>: 'You move in the antarikṣa' — Prāṇa = <em>Vāyu</em> (wind). The atmosphere is the domain of the wind-god. <strong>(3) Pṛthivī (earth)</strong>: implied through <em>Rudra</em> as <em>parirakṣitā</em> (protector of earthly beings). The hymn systematically claims every cosmic level for Prāṇa: it rules in heaven (as Indra/Sun), moves through the atmosphere (as Vāyu), and protects on earth (as Rudra). This total coverage — heaven, atmosphere, earth — means there is no realm where Prāṇa is absent. The same structure appears in the Gāyatrī mantra's three pādas (bhūr, bhuvaḥ, svaḥ) and in the Puruṣa Sūkta's description of the Cosmic Person spanning all three worlds."
       }
     ]
   },
@@ -606,14 +906,44 @@
     "en": "When you pour rain (abhivarṣasi), O Prāṇa, then these creatures of yours become filled with joy (ānanda-rūpāḥ), thinking: 'Food will come according to our desire (kāma).'",
     "ws": [
       {
+        "s": "यदा",
+        "h": "जब",
+        "e": "when"
+      },
+      {
+        "s": "त्वम्",
+        "h": "तू",
+        "e": "you"
+      },
+      {
         "s": "अभिवर्षसि",
         "h": "वर्षा करता है / बरसाता है",
         "e": "you rain / you pour down"
       },
       {
+        "s": "अथ",
+        "h": "तब",
+        "e": "then"
+      },
+      {
+        "s": "इमाः प्रजाः",
+        "h": "ये प्रजाएँ / ये प्राणी",
+        "e": "these creatures"
+      },
+      {
+        "s": "ते",
+        "h": "तेरी / तुम्हारी",
+        "e": "your"
+      },
+      {
         "s": "आनन्दरूपाः",
-        "h": "आनन्द से भरी हुई / प्रसन्नता-स्वरूप",
-        "e": "filled with joy / having the form of bliss"
+        "h": "आनन्द से भरी / प्रसन्नता-स्वरूप",
+        "e": "filled with joy / bliss-formed"
+      },
+      {
+        "s": "तिष्ठन्ति",
+        "h": "रहती हैं / स्थित होती हैं",
+        "e": "they remain / they stand"
       },
       {
         "s": "कामाय",
@@ -621,12 +951,17 @@
         "e": "for desire / according to wish"
       },
       {
-        "s": "अन्नम्",
-        "h": "अन्न / भोजन / खाद्य पदार्थ",
-        "e": "food"
+        "s": "अन्नम् भविष्यति",
+        "h": "अन्न (भोजन) प्राप्त होगा / मिलेगा",
+        "e": "food will come / food will be available"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा (सोचकर)",
+        "e": "thus (thinking)"
       }
     ],
-    "gr": "<strong>abhivarṣasi</strong> — 'you rain': this directly connects to Question 1 where Prāṇa was identified with the sun and Rayi with the moon/matter. Here the cycle completes: Prāṇa (as sun) draws up water, then (as Parjanya) pours it down as rain. <strong>ānanda-rūpāḥ</strong> — 'filled with joy': the compound is striking — creatures don't just <em>feel</em> joy, they <em>become</em> joy (rūpa = form/essence). Rain transforms the emotional state of all living beings. <strong>kāmāya annaṁ bhaviṣyati</strong> — 'food will come as desired': the thought inside creatures' minds. This is the Vedic understanding of happiness: it rests on the assurance of food. Anna (food) is the base of the Taittirīya hierarchy: anna → prāṇa → manas → vijñāna → ānanda.",
+    "gr": "<strong>व्याकरण:</strong> <em>अभिवर्षसि</em> — 'तू वर्षा करता है': यह सीधे प्रश्न 1 से जुड़ता है जहाँ प्राण को सूर्य और रयि को चन्द्रमा/पदार्थ से पहचाना गया था। यहाँ चक्र पूर्ण होता है: प्राण (सूर्य-रूप में) जल खींचता है, फिर (पर्जन्य-रूप में) वर्षा बरसाता है। <em>आनन्दरूपाः</em> — 'आनन्द-स्वरूप': यह संयोजन (compound) महत्त्वपूर्ण है — प्राणी आनन्द <em>अनुभव</em> नहीं करते, बल्कि आनन्द <em>बन</em> जाते हैं (रूप = स्वरूप/सार)। वर्षा सब प्राणियों की भावदशा को रूपान्तरित कर देती है। <em>कामाय अन्नम् भविष्यति</em> — 'इच्छानुसार अन्न मिलेगा': प्राणियों के मन का आन्तरिक विचार। वैदिक सुख-बोध: सुख अन्न-प्राप्ति के आश्वासन पर टिका है — अन्न तैत्तिरीय पदानुक्रम (अन्न → प्राण → मन → विज्ञान → आनन्द) का आधार है।<br><em>Eng:</em> 'Abhivarṣasi' connects to Question 1's Prāṇa-sun cycle. 'Ānanda-rūpāḥ' — creatures become joy, not merely feel it. Rain transforms the emotional state. 'Kāmāya annaṁ bhaviṣyati' — the Vedic understanding: happiness rests on assurance of food.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -651,11 +986,11 @@
     "dp": [
       {
         "q": "🔍 The rain-food-joy chain in Vedic thought",
-        "a": "The Vedic tradition identifies a <strong>cosmic cycle</strong> linking rain, food, and joy: <strong>Sun (Prāṇa)</strong> evaporates water → <strong>Rain (Parjanya)</strong> falls → <strong>Food (anna)</strong> grows → <strong>Creatures (prajā)</strong> eat → <strong>Joy (ānanda)</strong> arises. This chain is codified across the Upanishads: <strong>Taittirīya 2.2</strong>: 'From food, creatures are born; by food, once born, they grow; food is eaten by beings and in turn eats them.' <strong>Chāndogya 7.10</strong>: 'Food is greater than water' — in the ascending meditation on the Infinite. <strong>Bhagavad Gītā 3.14-15</strong>: 'From food beings are born; from rain food is produced; from sacrifice rain arises; sacrifice springs from action (karma).' The Upanishadic insight is that <strong>joy is not an accident</strong> but the natural result of a cosmic chain that begins with Prāṇa (the sun) and ends with ānanda (bliss). When any link breaks — drought, famine, disease — joy vanishes. The sages concluded: maintain the chain through sacrifice and right living, and joy is assured."
+        "a": "वैदिक परम्परा एक <strong>ब्रह्माण्डीय चक्र</strong> पहचानती है जो वर्षा, अन्न, और आनन्द को जोड़ता है: <strong>सूर्य (प्राण)</strong> जल वाष्पित करता है → <strong>वर्षा (पर्जन्य)</strong> गिरती है → <strong>अन्न</strong> उगता है → <strong>प्राणी (प्रजा)</strong> खाते हैं → <strong>आनन्द</strong> उत्पन्न होता है। यह शृंखला उपनिषदों में संहिताबद्ध: <strong>तैत्तिरीय 2.2</strong>: 'अन्न से प्राणी उत्पन्न होते हैं; अन्न से जन्मे बढ़ते हैं; अन्न प्राणियों द्वारा खाया जाता है और बदले में उन्हें खाता है।' <strong>छान्दोग्य 7.10</strong>: 'अन्न जल से बड़ा है।' <strong>भगवद्गीता 3.14-15</strong>: 'अन्न से भूत उत्पन्न होते हैं; पर्जन्य से अन्न; यज्ञ से पर्जन्य; कर्म से यज्ञ।' उपनिषदीय अन्तर्दृष्टि: <strong>आनन्द दुर्घटना नहीं</strong> बल्कि ब्रह्माण्डीय शृंखला का स्वाभाविक परिणाम है जो प्राण (सूर्य) से आरम्भ होकर आनन्द (bliss) पर समाप्त होती है। जब कोई कड़ी टूटती है — सूखा, अकाल, रोग — आनन्द लुप्त हो जाता है।<br><br><em>Eng:</em> The Vedic tradition identifies a <strong>cosmic cycle</strong> linking rain, food, and joy: <strong>Sun (Prāṇa)</strong> evaporates water → <strong>Rain (Parjanya)</strong> falls → <strong>Food (anna)</strong> grows → <strong>Creatures (prajā)</strong> eat → <strong>Joy (ānanda)</strong> arises. This chain is codified across the Upanishads: <strong>Taittirīya 2.2</strong>: 'From food, creatures are born; by food, once born, they grow; food is eaten by beings and in turn eats them.' <strong>Chāndogya 7.10</strong>: 'Food is greater than water' — in the ascending meditation on the Infinite. <strong>Bhagavad Gītā 3.14-15</strong>: 'From food beings are born; from rain food is produced; from sacrifice rain arises; sacrifice springs from action (karma).' The Upanishadic insight is that <strong>joy is not an accident</strong> but the natural result of a cosmic chain that begins with Prāṇa (the sun) and ends with ānanda (bliss). When any link breaks — drought, famine, disease — joy vanishes. The sages concluded: maintain the chain through sacrifice and right living, and joy is assured."
       },
       {
         "q": "🔍 What does ānanda-rūpa mean?",
-        "a": "The compound <strong>ānanda-rūpa</strong> (आनन्दरूप) literally means 'having bliss as one's form' or 'bliss-shaped'. This is stronger than saying creatures 'feel' joy — it says they <strong>become</strong> joy. The distinction matters in Vedāntic philosophy: <strong>External joy</strong> (viṣayānanda) comes from outside and is temporary — you feel happy when you get what you want, but the happiness fades. <strong>Intrinsic joy</strong> (svarūpānanda) is your natural state — it doesn't come from outside but is <em>uncovered</em> when external anxiety is removed. The Taittirīya Upanishad (2.5) describes <strong>ānandamaya kośa</strong> (the bliss-sheath) as the innermost layer of the self — deeper than body, breath, mind, and intellect. When rain falls and creatures become ānanda-rūpa, the Upanishad suggests that the removal of food-anxiety doesn't <em>create</em> joy but <em>reveals</em> the bliss that was always the core of their being. This is the Upanishadic theory of happiness: you are not a body that sometimes feels happy; you are bliss (ānanda) that sometimes feels afraid."
+        "a": "संयोजन <strong>आनन्दरूप</strong> (आनन्द + रूप) का शाब्दिक अर्थ 'जिसका स्वरूप/सार आनन्द है' — अर्थात् 'आनन्द-आकृति'। यह प्राणियों के आनन्द 'अनुभव करने' से अधिक सशक्त दावा है — प्राणी आनन्द <strong>बन</strong> जाते हैं। वेदान्तिक दर्शन में यह अन्तर महत्त्वपूर्ण: <strong>बाह्य आनन्द</strong> (विषयानन्द) बाहर से आता है और अस्थायी — इच्छित वस्तु प्राप्त होने पर सुख, फिर लुप्त। <strong>आन्तरिक आनन्द</strong> (स्वरूपानन्द) स्वाभाविक अवस्था — बाहर से नहीं आता, बल्कि बाह्य चिन्ता हटने पर <em>उजागर</em> होता है। तैत्तिरीय उपनिषद् (2.5) <strong>आनन्दमय कोश</strong> (आनन्द-आवरण) को आत्मा का अन्तरतम स्तर बताता है — शरीर, प्राण, मन, विज्ञान से भी गहरा। जब वर्षा गिरती है और प्राणी आनन्दरूप बनते हैं, उपनिषद् सुझाता है कि अन्न-चिन्ता का हटना आनन्द <em>निर्मित</em> नहीं करता बल्कि वह आनन्द <em>प्रकट</em> करता है जो सदा उनके स्वभाव (core) में था।<br><br><em>Eng:</em> The compound <strong>ānanda-rūpa</strong> (आनन्दरूप) literally means 'having bliss as one's form' or 'bliss-shaped'. This is stronger than saying creatures 'feel' joy — it says they <strong>become</strong> joy. The distinction matters in Vedāntic philosophy: <strong>External joy</strong> (viṣayānanda) comes from outside and is temporary — you feel happy when you get what you want, but the happiness fades. <strong>Intrinsic joy</strong> (svarūpānanda) is your natural state — it doesn't come from outside but is <em>uncovered</em> when external anxiety is removed. The Taittirīya Upanishad (2.5) describes <strong>ānandamaya kośa</strong> (the bliss-sheath) as the innermost layer of the self — deeper than body, breath, mind, and intellect. When rain falls and creatures become ānanda-rūpa, the Upanishad suggests that the removal of food-anxiety doesn't <em>create</em> joy but <em>reveals</em> the bliss that was always the core of their being. This is the Upanishadic theory of happiness: you are not a body that sometimes feels happy; you are bliss (ānanda) that sometimes feels afraid."
       }
     ]
   },
@@ -668,8 +1003,18 @@
     "ws": [
       {
         "s": "व्रात्यः",
-        "h": "व्रात्य — संस्कार-रहित / दीक्षा-रहित / स्वतंत्र विचरण करने वाला",
-        "e": "Vrātya"
+        "h": "व्रात्य — दीक्षा/संस्कार-रहित / स्वतंत्र विचरण करने वाला",
+        "e": "Vrātya — the unconsecrated wanderer"
+      },
+      {
+        "s": "त्वम्",
+        "h": "तू",
+        "e": "you"
+      },
+      {
+        "s": "प्राण",
+        "h": "हे प्राण!",
+        "e": "O Prāṇa!"
       },
       {
         "s": "एकर्षिः",
@@ -678,8 +1023,13 @@
       },
       {
         "s": "अत्ता",
-        "h": "भक्षण करने वाला / खाने वाला",
-        "e": "the devourer / eater"
+        "h": "भक्षण करने वाला / सब का खाने वाला",
+        "e": "the devourer / eater of all"
+      },
+      {
+        "s": "विश्वस्य",
+        "h": "विश्व का / समस्त ब्रह्माण्ड का",
+        "e": "of the universe / of all"
       },
       {
         "s": "सत्पतिः",
@@ -687,12 +1037,27 @@
         "e": "lord of the existent / true lord"
       },
       {
+        "s": "वयम्",
+        "h": "हम (अन्य देव)",
+        "e": "we (the other gods)"
+      },
+      {
+        "s": "आद्यस्य दातारः",
+        "h": "भोज्य पदार्थ देने वाले",
+        "e": "givers of what is to be eaten"
+      },
+      {
+        "s": "पिता",
+        "h": "पिता / जनक",
+        "e": "father"
+      },
+      {
         "s": "मातरिश्वन्",
-        "h": "वायु / वायुदेव (जो माता/अन्तरिक्ष में श्वसन करता है)",
-        "e": "Mātariśvan"
+        "h": "मातरिश्वन् — वायु (जो अन्तरिक्ष/माता में श्वसन करता है)",
+        "e": "Mātariśvan — the Wind"
       }
     ],
-    "gr": "<strong>vrātyaḥ</strong> — this is the most surprising epithet. A Vrātya was a person <em>outside</em> the Vedic ritual system — uninitiated, convention-free. The Atharva Veda (book 15, Vrātya-kāṇḍa) identifies the supreme Vrātya with Prajāpati and ultimately with the Absolute. Calling Prāṇa a Vrātya means: Prāṇa is <em>beyond</em> all ritual categories; it cannot be contained by any system. <strong>eka-ṛṣiḥ</strong> — 'the sole seer': all other seers (ṛṣis) see through the power of Prāṇa; Prāṇa alone sees independently. <strong>attā viśvasya</strong> — 'devourer of all': at death, Prāṇa 'eats' the body and all its faculties. This echoes Kaṭha 1.2.25: 'Brahman is the food of death; who knows that death is the condiment?' <strong>mātariśvan</strong> — an ancient Vedic name for Vāyu (Wind), etymologically 'who breathes in the mother (atmosphere)'. By calling Prāṇa 'father' and 'Mātariśvan', the hymn makes Prāṇa the parent of all creatures.",
+    "gr": "<strong>व्याकरण:</strong> <em>व्रात्यः</em> — यह सर्वाधिक आश्चर्यजनक विशेषण है। व्रात्य = वैदिक दीक्षा-व्यवस्था से बाहर का व्यक्ति — संस्कारहीन, परम्परामुक्त। अथर्ववेद (पुस्तक 15, व्रात्यकाण्ड) इस सामाजिक बहिष्कृत को ब्रह्माण्डीय तत्त्व में रूपान्तरित करता है: 'व्रात्य स्थित रहा; उसने तप किया; उसने प्रजापति को रचा।' प्राण को व्रात्य कहने का अर्थ: प्राण सब कर्मकाण्डीय वर्गीकरणों (categories) से <em>परे</em> है; कोई व्यवस्था उसे सीमित नहीं कर सकती। <em>एकर्षिः</em> — 'एकमात्र द्रष्टा': अन्य सब ऋषि प्राण की शक्ति से देखते हैं; केवल प्राण स्वतंत्र रूप से देखता है। <em>अत्ता विश्वस्य</em> — 'सबका भक्षक': मृत्यु के समय प्राण शरीर और सब इन्द्रियों को 'खा' लेता है (कठोपनिषद् 1.2.25 की प्रतिध्वनि)। <em>मातरिश्वन्</em> — वायु का प्राचीन वैदिक नाम; 'माता (अन्तरिक्ष) में श्वसन करने वाला।'<br><em>Eng:</em> 'Vrātya' — the most surprising epithet: Prāṇa is beyond all ritual categories. AV 15 transforms the social outsider into a cosmic principle. 'Eka-ṛṣi' — the sole independent seer. 'Attā viśvasya' — at death Prāṇa devours all. 'Mātariśvan' — ancient Vedic name for Wind.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -717,11 +1082,11 @@
     "dp": [
       {
         "q": "🔍 Who is the Vrātya?",
-        "a": "The <strong>Vrātya</strong> (व्रात्य) is one of the most enigmatic figures in Vedic literature. In social terms, a vrātya was an <em>outsider</em> — a person who had not undergone Vedic initiation (upanayana) and therefore stood outside the varṇa system. Vrātyas were wandering ascetics, warriors, or ecstatics who followed their own path. The <strong>Atharva Veda book 15</strong> (Vrātya-kāṇḍa) transforms this social outsider into a <em>cosmic principle</em>: 'The Vrātya stood; He performed tapas; He created Prajāpati... He encompasses the worlds... He is this all.' The Vrātya becomes <strong>the supreme Being who existed before creation, before ritual, before the Vedas themselves</strong>. By calling Prāṇa 'Vrātya', the Prashna Upanishad makes a profound statement: the vital force that sustains your body is the <strong>same trans-conventional, pre-ritual, category-defying reality</strong> that the Atharva Veda hymns celebrate. Prāṇa is not bound by the Vedic system — it is prior to the system. Without Prāṇa, there would be no Vedas, no rituals, no initiations. The breath was there before the first hymn was composed."
+        "a": "<strong>व्रात्य</strong> (व्रात्य) वैदिक साहित्य की सर्वाधिक रहस्यमयी आकृतियों में से एक है। सामाजिक दृष्टि से, व्रात्य एक <em>बहिष्कृत</em> (outsider) था — जिसने वैदिक दीक्षा (उपनयन) नहीं ली थी और इसलिए वर्ण-व्यवस्था से बाहर था। व्रात्य भ्रमणशील तपस्वी, योद्धा, या उन्मत्त-भक्त (ecstatic) थे जो अपना स्वतंत्र मार्ग अनुसरण करते थे। <strong>अथर्ववेद पुस्तक 15</strong> (व्रात्यकाण्ड) इस सामाजिक बहिष्कृत को <em>ब्रह्माण्डीय तत्त्व</em> में रूपान्तरित करता है: 'व्रात्य स्थित रहा; उसने तप किया; उसने प्रजापति रचा... वह लोकों को आच्छादित करता है... वह यह सब है।' व्रात्य = <strong>वह परम सत्ता जो सृष्टि, कर्मकाण्ड, स्वयं वेदों से पहले विद्यमान थी</strong>। प्राण को 'व्रात्य' कहकर प्रश्नोपनिषद् गम्भीर कथन करता है: आपके शरीर को पोषित करने वाली प्राण-शक्ति वही <strong>परम्परा-मुक्त, कर्मकाण्ड-पूर्व, वर्गीकरण-अतीत यथार्थ</strong> है। प्राण वैदिक व्यवस्था से बँधा नहीं — वह व्यवस्था से पूर्ववर्ती है। श्वास प्रथम स्तुति रचे जाने से पहले विद्यमान थी।<br><br><em>Eng:</em> The <strong>Vrātya</strong> (व्रात्य) is one of the most enigmatic figures in Vedic literature. In social terms, a vrātya was an <em>outsider</em> — a person who had not undergone Vedic initiation (upanayana) and therefore stood outside the varṇa system. Vrātyas were wandering ascetics, warriors, or ecstatics who followed their own path. The <strong>Atharva Veda book 15</strong> (Vrātya-kāṇḍa) transforms this social outsider into a <em>cosmic principle</em>: 'The Vrātya stood; He performed tapas; He created Prajāpati... He encompasses the worlds... He is this all.' The Vrātya becomes <strong>the supreme Being who existed before creation, before ritual, before the Vedas themselves</strong>. By calling Prāṇa 'Vrātya', the Prashna Upanishad makes a profound statement: the vital force that sustains your body is the <strong>same trans-conventional, pre-ritual, category-defying reality</strong> that the Atharva Veda hymns celebrate. Prāṇa is not bound by the Vedic system — it is prior to the system. Without Prāṇa, there would be no Vedas, no rituals, no initiations. The breath was there before the first hymn was composed."
       },
       {
         "q": "🔍 What does 'devourer of all' (attā viśvasya) mean?",
-        "a": "The epithet <strong>attā viśvasya</strong> ('eater/devourer of all') has multiple layers: <strong>(1) Death</strong>: at the moment of death, Prāṇa 'devours' the body — all faculties collapse into it and are absorbed. The Kaṭha Upanishad (1.2.25) says: 'For this great Brahman, death is the condiment.' Everything ends up as food for the vital force. <strong>(2) Cosmic dissolution</strong> (pralaya): at the end of a cosmic cycle, all beings dissolve back into the primal force — Prāṇa 'eats' the entire universe. <strong>(3) Metabolic process</strong>: Prāṇa literally 'eats' food — digestion is the process by which the vital breath converts food into energy. The Taittirīya (3.2) celebrates this: 'I am the eater of food! I eat the eater of food! I have overcome the whole world!' <strong>(4) Experiential absorption</strong>: every experience — sight, sound, thought — is 'consumed' by consciousness through Prāṇa. Without the vital breath, no experience can be processed. The 'devourer' is not destructive but <em>transformative</em>: it converts the raw material of the world (food, experience, matter) into life, consciousness, and eventually spirit."
+        "a": "<strong>अत्ता विश्वस्य</strong> ('सबका भक्षक') विशेषण के अनेक स्तर हैं: <strong>(1) मृत्यु</strong>: मृत्यु के क्षण प्राण शरीर को 'खा' लेता है — सब इन्द्रियाँ उसमें विलीन। कठोपनिषद् (1.2.25): 'इस विराट ब्रह्म के लिए मृत्यु चटनी है।' सब कुछ अन्ततः प्राण-शक्ति का भोजन बनता है। <strong>(2) ब्रह्माण्डीय प्रलय</strong>: ब्रह्माण्डीय चक्र के अन्त में सब प्राणी मूल-शक्ति में विलीन — प्राण सम्पूर्ण ब्रह्माण्ड को 'खाता' है। <strong>(3) चयापचय प्रक्रिया</strong> (metabolism): प्राण शाब्दिक रूप से अन्न 'खाता' है — पाचन वह प्रक्रिया है जिसमें प्राण-शक्ति अन्न को ऊर्जा में परिवर्तित करती है। तैत्तिरीय (3.2): 'मैं अन्न का भक्षक हूँ! मैं अन्न-भक्षक का भक्षक हूँ! मैंने सम्पूर्ण जगत् जीत लिया है!' <strong>(4) अनुभवगत अवशोषण</strong>: प्रत्येक अनुभव — दृश्य, ध्वनि, विचार — प्राण के माध्यम से चेतना द्वारा 'ग्रहण' (consumed) किया जाता है। 'भक्षक' विनाशक नहीं बल्कि <em>रूपान्तरकारी</em> है: यह संसार के कच्चे माल (अन्न, अनुभव, पदार्थ) को जीवन, चेतना, और अन्ततः आत्म-तत्त्व में परिवर्तित करता है।<br><br><em>Eng:</em> The epithet <strong>attā viśvasya</strong> ('eater/devourer of all') has multiple layers: <strong>(1) Death</strong>: at the moment of death, Prāṇa 'devours' the body — all faculties collapse into it and are absorbed. The Kaṭha Upanishad (1.2.25) says: 'For this great Brahman, death is the condiment.' Everything ends up as food for the vital force. <strong>(2) Cosmic dissolution</strong> (pralaya): at the end of a cosmic cycle, all beings dissolve back into the primal force — Prāṇa 'eats' the entire universe. <strong>(3) Metabolic process</strong>: Prāṇa literally 'eats' food — digestion is the process by which the vital breath converts food into energy. The Taittirīya (3.2) celebrates this: 'I am the eater of food! I eat the eater of food! I have overcome the whole world!' <strong>(4) Experiential absorption</strong>: every experience — sight, sound, thought — is 'consumed' by consciousness through Prāṇa. Without the vital breath, no experience can be processed. The 'devourer' is not destructive but <em>transformative</em>: it converts the raw material of the world (food, experience, matter) into life, consciousness, and eventually spirit."
       }
     ]
   },
@@ -733,27 +1098,62 @@
     "en": "That form (tanū) of yours which is established in speech, which is in hearing, which is in sight, and which pervades (santatā) the mind — make it auspicious (śiva)! Do not depart (mā utkrāmīḥ)!",
     "ws": [
       {
+        "s": "या",
+        "h": "जो (स्त्रीलिंग)",
+        "e": "which / that which"
+      },
+      {
+        "s": "ते",
+        "h": "तेरी / तुम्हारी",
+        "e": "your"
+      },
+      {
         "s": "तनूः",
-        "h": "शरीर / रूप / आत्म-रूप",
+        "h": "तनु — शरीर / रूप / आत्म-प्रकटीकरण",
         "e": "form / body / self-manifestation"
       },
       {
+        "s": "वाचि प्रतिष्ठिता",
+        "h": "वाणी में प्रतिष्ठित / स्थापित",
+        "e": "established in speech"
+      },
+      {
+        "s": "श्रोत्रे",
+        "h": "श्रोत्र (कान) में",
+        "e": "in hearing"
+      },
+      {
+        "s": "चक्षुषि",
+        "h": "चक्षु (नेत्र) में",
+        "e": "in sight"
+      },
+      {
+        "s": "मनसि",
+        "h": "मन में",
+        "e": "in the mind"
+      },
+      {
         "s": "सन्तता",
-        "h": "फैली हुई / व्याप्त / सर्वत्र विस्तृत",
-        "e": "pervading / extended"
+        "h": "सन्तत — फैली हुई / व्याप्त / सर्वत्र विस्तृत",
+        "e": "pervading / extended throughout"
       },
       {
         "s": "शिवाम्",
-        "h": "शुभ / मंगलकारी / कल्याणकारी",
+        "h": "शिव — शुभ / मंगलकारी / कल्याणकारी",
         "e": "auspicious / benevolent"
       },
       {
-        "s": "मोत्क्रामीः",
-        "h": "मत जा / (शरीर से) उत्क्रमण मत कर",
+        "s": "ताम् कुरु",
+        "h": "उसे बना / उसे कर (रख)",
+        "e": "make it / keep it"
+      },
+      {
+        "s": "मा उत्क्रामीः",
+        "h": "मत जा! (शरीर से) उत्क्रमण मत कर!",
         "e": "do not depart!"
       }
     ],
-    "gr": "<strong>yā te tanūḥ vāci...śrotre...cakṣuṣi...manasi</strong> — Prāṇa has a 'tanū' (form/aspect) in each faculty: speech, hearing, sight, and mind. These four are the gateways of conscious experience. <strong>santatā</strong> — 'pervading/stretched through': Prāṇa's form is not localised in one faculty but runs through all of them like a continuous thread. <strong>śivāṁ tāṁ kuru</strong> — 'make it auspicious': a prayer-formula. The gods, having recognised Prāṇa's supremacy, now request that its presence remain benign. This is significant: a force that can sustain can also destroy (cf. mantra 9: 'rudraḥ asi'). The gods ask for the śiva (gentle/auspicious) aspect, not the rudra (fierce) aspect. <strong>mā utkrāmīḥ</strong> — 'do not depart!': the most poignant line in the hymn. Having seen what happens when Prāṇa begins to leave (mantra 4), the gods plead: stay. This is, at its core, a prayer against death.",
+    "gr": "<strong>व्याकरण:</strong> <em>या ते तनूः वाचि...श्रोत्रे...चक्षुषि...मनसि</em> — प्राण की एक 'तनू' (रूप/शक्ति) प्रत्येक इन्द्रिय में विद्यमान है: वाणी, श्रवण, दृष्टि, और मन — ये चार चैतन्य-अनुभव के द्वार हैं। <em>सन्तता</em> — 'व्याप्त/विस्तृत': प्राण किसी एक इन्द्रिय में स्थानीकृत (localised) नहीं बल्कि सबमें एक सतत सूत्र (continuous thread) की तरह पिरोया हुआ। <em>शिवाम् ताम् कुरु</em> — 'उसे शुभ/मंगल बना रख': प्रार्थना-सूत्र — देवताओं ने प्राण की श्रेष्ठता मान ली, अब विनती करते हैं कि उसकी उपस्थिति कल्याणकारी बनी रहे। जो शक्ति धारण करती है वही विनाश भी कर सकती है (मन्त्र 9: 'रुद्रः असि'); देव शिव-पक्ष (कल्याणकारी) की प्रार्थना करते हैं, रुद्र-पक्ष (भयंकर) की नहीं। <em>मा उत्क्रामीः</em> — 'मत जा!': स्तुति की सर्वाधिक मर्मस्पर्शी पंक्ति — मन्त्र 4 में देखा कि प्राण के जाने पर क्या होता है; अब देव विनती करते हैं: रुक जा। यह मूलतः मृत्यु के विरुद्ध प्रार्थना है।<br><em>Eng:</em> Prāṇa has a 'tanū' in each faculty — speech, hearing, sight, mind. 'Santatā' — pervading like a continuous thread. 'Śivāṁ tāṁ kuru' — a prayer for the benign aspect (śiva vs rudra). 'Mā utkrāmīḥ' — the most poignant line: a prayer against death.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -778,11 +1178,11 @@
     "dp": [
       {
         "q": "🔍 Why 'make it śiva' (auspicious)?",
-        "a": "The prayer <strong>śivāṁ tāṁ kuru</strong> ('make that form auspicious') acknowledges something crucial: <strong>Prāṇa has both benign and terrible aspects</strong>. In mantra 9, Prāṇa was called <em>Rudra</em> — the fierce, destructive aspect. In this mantra, the gods ask for the <em>śiva</em> aspect — the gentle, life-sustaining form. The word <strong>śiva</strong> here is pre-Shaiva — it simply means 'auspicious, kindly, benevolent' (as opposed to rudra/ugra = fierce). The prayer recognises that the <em>same force</em> that keeps you alive is the force that will kill you: Prāṇa sustains the body moment by moment, but when it departs, death is instantaneous. The gods' prayer is: let the force remain in its <strong>sustaining</strong> mode, not its <strong>destroying</strong> mode. In later Hindu theology, this duality becomes the <strong>Rudra-Śiva</strong> polarity — the same god who destroys the universe (Rudra) is also the most compassionate protector (Śiva). The Prashna's usage shows this polarity already present at the Upanishadic level."
+        "a": "'<strong>शिवाम् ताम् कुरु</strong>' ('उस रूप को शुभ बना रख') की प्रार्थना एक महत्त्वपूर्ण तथ्य स्वीकार करती है: <strong>प्राण में कल्याणकारी और भयंकर दोनों पहलू हैं</strong>। मन्त्र 9 में प्राण को <em>रुद्र</em> — भयंकर, विनाशक — कहा गया। इस मन्त्र में देवता <em>शिव</em> — सौम्य, जीवनदायक — पहलू की प्रार्थना करते हैं। यहाँ <strong>शिव</strong> पूर्व-शैव अर्थ में है — केवल 'शुभ, कल्याणकारी' (rudra/ugra = भयंकर के विलोम)। प्रार्थना स्वीकार करती है कि <em>जो शक्ति जीवित रखती है, वही मारती है</em>: प्राण क्षण-क्षण शरीर को बनाए रखता है, परन्तु जब जाता है, मृत्यु तत्काल। देवताओं की प्रार्थना: यह शक्ति अपनी <strong>पालक</strong> विधि में रहे, <strong>विनाशक</strong> विधि में न बदले। परवर्ती हिन्दू धर्मशास्त्र में यही द्वैत <strong>रुद्र-शिव</strong> ध्रुवता (polarity) बनता है — वही देव जो ब्रह्माण्ड का संहार करता है (रुद्र) सर्वाधिक करुणामय रक्षक (शिव) भी है।<br><br><em>Eng:</em> The prayer <strong>śivāṁ tāṁ kuru</strong> ('make that form auspicious') acknowledges something crucial: <strong>Prāṇa has both benign and terrible aspects</strong>. In mantra 9, Prāṇa was called <em>Rudra</em> — the fierce, destructive aspect. In this mantra, the gods ask for the <em>śiva</em> aspect — the gentle, life-sustaining form. The word <strong>śiva</strong> here is pre-Shaiva — it simply means 'auspicious, kindly, benevolent' (as opposed to rudra/ugra = fierce). The prayer recognises that the <em>same force</em> that keeps you alive is the force that will kill you: Prāṇa sustains the body moment by moment, but when it departs, death is instantaneous. The gods' prayer is: let the force remain in its <strong>sustaining</strong> mode, not its <strong>destroying</strong> mode. In later Hindu theology, this duality becomes the <strong>Rudra-Śiva</strong> polarity — the same god who destroys the universe (Rudra) is also the most compassionate protector (Śiva). The Prashna's usage shows this polarity already present at the Upanishadic level."
       },
       {
         "q": "🔍 'Do not depart!' — the universal prayer against death",
-        "a": "The plea <strong>mā utkrāmīḥ</strong> ('do not depart!') is one of the most emotionally resonant lines in the Upanishads. It distils the human condition into three words: <strong>we want to live</strong>. The Bṛhadāraṇyaka (1.3.28) expresses the same yearning: <em>mṛtyor mā amṛtaṁ gamaya</em> — 'Lead me from death to immortality.' The Vedic tradition does not deny or suppress the fear of death; it addresses it head-on. The departure-test (mantra 4) showed what death <em>looks like</em> — all faculties collapsing when Prāṇa leaves. Now, having seen that preview, the faculties pray: <strong>don't let it happen</strong>. At the deepest level, however, the Upanishads answer this prayer not by granting biological immortality but by revealing that the <em>true Self</em> (Ātman) never departs. As Shankara notes: Prāṇa (= Brahman) never actually 'leaves' — what falls away is the body (upādhi). The prayer 'do not depart' is ultimately fulfilled not by Prāṇa staying in the body forever, but by the seeker realising that he <em>is</em> Prāṇa — and Prāṇa, being Brahman, can never die."
+        "a": "'<strong>मा उत्क्रामीः</strong>' ('मत जा!') की विनती उपनिषदों की सर्वाधिक भावनात्मक पंक्तियों में से एक है। यह मानव-स्थिति को तीन शब्दों में सार-रूप देती है: <strong>हम जीना चाहते हैं</strong>। बृहदारण्यक (1.3.28) वही आकांक्षा व्यक्त करता है: '<em>मृत्योर्मा अमृतं गमय</em>' — 'मृत्यु से अमृत की ओर ले चल।' वैदिक परम्परा मृत्यु-भय को नकारती या दबाती नहीं — सीधे सम्बोधित करती है। उत्क्रमण-परीक्षण (मन्त्र 4) ने दिखाया कि मृत्यु <em>कैसी दिखती है</em> — प्राण जाने पर सब इन्द्रियों का पतन। अब, वह पूर्वावलोकन (preview) देखने के बाद, इन्द्रियाँ प्रार्थना करती हैं: <strong>ऐसा न हो</strong>। गहनतम स्तर पर उपनिषद् इस प्रार्थना का उत्तर जैविक अमरत्व देकर नहीं, बल्कि यह प्रकट करके देता है कि <em>सच्चा आत्मा</em> (आत्मन्) कभी जाता ही नहीं। शंकर कहते हैं: प्राण (= ब्रह्म) वास्तव में कभी 'जाता' नहीं — जो गिरती है वह उपाधि (शरीर-सीमा) है। 'मत जा' की प्रार्थना अन्ततः इस बोध से पूर्ण होती है कि साधक स्वयं प्राण <em>है</em> — और प्राण, ब्रह्म होने के कारण, कभी मर नहीं सकता।<br><br><em>Eng:</em> The plea <strong>mā utkrāmīḥ</strong> ('do not depart!') is one of the most emotionally resonant lines in the Upanishads. It distils the human condition into three words: <strong>we want to live</strong>. The Bṛhadāraṇyaka (1.3.28) expresses the same yearning: <em>mṛtyor mā amṛtaṁ gamaya</em> — 'Lead me from death to immortality.' The Vedic tradition does not deny or suppress the fear of death; it addresses it head-on. The departure-test (mantra 4) showed what death <em>looks like</em> — all faculties collapsing when Prāṇa leaves. Now, having seen that preview, the faculties pray: <strong>don't let it happen</strong>. At the deepest level, however, the Upanishads answer this prayer not by granting biological immortality but by revealing that the <em>true Self</em> (Ātman) never departs. As Shankara notes: Prāṇa (= Brahman) never actually 'leaves' — what falls away is the body (upādhi). The prayer 'do not depart' is ultimately fulfilled not by Prāṇa staying in the body forever, but by the seeker realising that he <em>is</em> Prāṇa — and Prāṇa, being Brahman, can never die."
       }
     ]
   },
@@ -794,32 +1194,62 @@
     "en": "All this is in the power (vaśa) of Prāṇa — whatever is established in the three heavens (tridiva). Protect us as a mother (mātā) protects her children (putrān). Grant us prosperity (śrī) and wisdom (prajñā). — Thus (ends the hymn of praise).",
     "ws": [
       {
-        "s": "वशे",
-        "h": "वश में / अधीन / नियंत्रण में",
-        "e": "in the power of / under the control of"
+        "s": "प्राणस्य",
+        "h": "प्राण के",
+        "e": "of Prāṇa"
+      },
+      {
+        "s": "इदम् वशे",
+        "h": "यह सब वश (अधीन/नियंत्रण) में",
+        "e": "this all is in the power of"
+      },
+      {
+        "s": "सर्वम्",
+        "h": "सब कुछ",
+        "e": "everything"
       },
       {
         "s": "त्रिदिवे",
-        "h": "तीन लोकों में / स्वर्गलोक में",
-        "e": "in the three heavens / in the triple world"
+        "h": "तीन लोकों में / त्रिलोकी में",
+        "e": "in the three heavens / triple world"
       },
       {
-        "s": "मातेव",
-        "h": "माता की तरह / माँ के समान",
+        "s": "यत् प्रतिष्ठितम्",
+        "h": "जो कुछ प्रतिष्ठित / स्थापित है",
+        "e": "whatever is established"
+      },
+      {
+        "s": "माता इव",
+        "h": "माता के समान / माँ की तरह",
         "e": "like a mother"
       },
       {
+        "s": "पुत्रान् रक्षस्व",
+        "h": "पुत्रों (सन्तानों) की रक्षा कर",
+        "e": "protect (your) children"
+      },
+      {
         "s": "श्रीः",
-        "h": "समृद्धि / ऐश्वर्य / लक्ष्मी",
-        "e": "prosperity / splendour / wealth"
+        "h": "श्री — समृद्धि / ऐश्वर्य / लक्ष्मी",
+        "e": "prosperity / splendour"
       },
       {
         "s": "प्रज्ञाम्",
-        "h": "प्रज्ञा / ज्ञान / विवेक-बुद्धि",
+        "h": "प्रज्ञा — ज्ञान / विवेक-बुद्धि",
         "e": "wisdom / discernment"
+      },
+      {
+        "s": "विधेहि नः",
+        "h": "हमें प्रदान कर / हमें दे",
+        "e": "grant us / bestow upon us"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार (स्तुति समाप्त)",
+        "e": "thus (end of the hymn)"
       }
     ],
-    "gr": "<strong>prāṇasya vaśe sarvam</strong> — 'everything is in Prāṇa's power': the culminating declaration. After the hymn has identified Prāṇa with every cosmic force, this sentence sums up: nothing escapes its sovereignty. <strong>mātā iva putrān rakṣasva</strong> — 'protect us as a mother protects her children': the maternal simile is deliberately chosen over the paternal (though mantra 11 called Prāṇa 'pitā'). The mother-protection is <em>unconditional</em> — a mother does not protect her children based on merit or conduct. This is the Upanishadic understanding of grace: Prāṇa sustains all creatures without discrimination. <strong>śrīś ca prajñāṁ ca</strong> — the twin boons: śrī (material prosperity) and prajñā (spiritual wisdom). The Upanishad does not ask for one at the expense of the other; it asks for both — the complete human life: successful in the world (śrī) and awake within (prajñā). <strong>iti</strong> — 'thus': marks the end of the hymn of praise (mantras 5-13).",
+    "gr": "<strong>व्याकरण:</strong> <em>प्राणस्य वशे सर्वम्</em> — 'सब कुछ प्राण के वश में है': चरम घोषणा — स्तुति ने प्राण को प्रत्येक ब्रह्माण्डीय शक्ति से पहचाना; यह वाक्य सारांश देता है: कुछ भी उसकी सत्ता से बाहर नहीं। <em>माता इव पुत्रान् रक्षस्व</em> — 'माता की तरह पुत्रों की रक्षा कर': मातृ-रूपक जानबूझकर पितृ-रूपक (मन्त्र 11 में 'पिता') पर चुना गया। माता की रक्षा <em>निर्हेतुक</em> (unconditional) होती है — माता योग्यता या आचरण देखकर नहीं बचाती। यह उपनिषदीय कृपा (grace) की समझ है। <em>श्रीः च प्रज्ञाम् च</em> — दो वरदान: श्री (भौतिक समृद्धि) और प्रज्ञा (आध्यात्मिक ज्ञान)। उपनिषद् एक के लिए दूसरे की बलि नहीं माँगता — दोनों चाहता है: पूर्ण मानव-जीवन। <em>इति</em> — 'इस प्रकार': स्तुति-गान (मन्त्र 5-13) की समाप्ति।<br><em>Eng:</em> 'Prāṇasya vaśe sarvam' — the culminating declaration. 'Mātā iva' — the maternal simile: unconditional protection. 'Śrīś ca prajñāṁ ca' — the twin boons: material prosperity AND spiritual wisdom — the Upanishad asks for both. 'Iti' marks the end of the hymn of praise.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -844,11 +1274,11 @@
     "dp": [
       {
         "q": "🔍 Why ask for both śrī and prajñā?",
-        "a": "The dual prayer for <strong>śrī</strong> (prosperity) and <strong>prajñā</strong> (wisdom) is a hallmark of the Upanishadic worldview, which rejects the false choice between material success and spiritual illumination. <strong>Śrī</strong> encompasses material well-being: health, wealth, social standing, and the ability to perform one's duties (dharma). Without śrī, the body cannot be sustained, and the seeker cannot practice. <strong>Prajñā</strong> encompasses spiritual discernment: the ability to distinguish the real from the unreal, the Self from the not-Self. Without prajñā, śrī becomes bondage. The <strong>Isha Upanishad</strong> (mantras 9-11) makes the same point: 'Into blind darkness enter those who worship avidyā (works/ignorance); into still greater darkness those who worship vidyā (knowledge) alone. He who knows both together crosses death through avidyā and attains immortality through vidyā.' The message is clear: you need <em>both</em>. A life of wisdom without material capacity is ineffective; a life of material success without wisdom is purposeless. The complete human life integrates śrī (the capacity to act in the world) with prajñā (the light to see where you're going)."
+        "a": "<strong>श्री</strong> (समृद्धि) और <strong>प्रज्ञा</strong> (ज्ञान) — दोनों की द्वैत-प्रार्थना उपनिषदीय दृष्टिकोण की विशेषता है जो भौतिक सफलता और आध्यात्मिक प्रकाश के बीच मिथ्या चुनाव (false choice) अस्वीकार करता है। <strong>श्री</strong> में भौतिक कल्याण सम्मिलित: स्वास्थ्य, धन, सामाजिक प्रतिष्ठा, और कर्तव्य-पालन (धर्म) की सामर्थ्य। श्री के बिना शरीर टिक नहीं सकता, साधक अभ्यास नहीं कर सकता। <strong>प्रज्ञा</strong> में आध्यात्मिक विवेक: वास्तविक-अवास्तविक, आत्मा-अनात्मा का भेद। प्रज्ञा के बिना श्री बन्धन बन जाती है। <strong>ईशोपनिषद्</strong> (मन्त्र 9-11) वही बात कहता है: 'जो केवल अविद्या (कर्म/अज्ञान) की उपासना करते हैं, वे अन्ध अन्धकार में जाते हैं; जो केवल विद्या (ज्ञान) की, वे और भी गहरे अन्धकार में। जो दोनों को साथ जानता है, अविद्या से मृत्यु पार करता है और विद्या से अमृत प्राप्त करता है।' सन्देश स्पष्ट: <em>दोनों</em> चाहिए। बिना भौतिक सामर्थ्य ज्ञान अप्रभावी; बिना ज्ञान भौतिक सफलता निरर्थक। पूर्ण मानव-जीवन श्री (संसार में कार्य की सामर्थ्य) और प्रज्ञा (मार्ग देखने का प्रकाश) का एकीकरण करता है।<br><br><em>Eng:</em> The dual prayer for <strong>śrī</strong> (prosperity) and <strong>prajñā</strong> (wisdom) is a hallmark of the Upanishadic worldview, which rejects the false choice between material success and spiritual illumination. <strong>Śrī</strong> encompasses material well-being: health, wealth, social standing, and the ability to perform one's duties (dharma). Without śrī, the body cannot be sustained, and the seeker cannot practice. <strong>Prajñā</strong> encompasses spiritual discernment: the ability to distinguish the real from the unreal, the Self from the not-Self. Without prajñā, śrī becomes bondage. The <strong>Isha Upanishad</strong> (mantras 9-11) makes the same point: 'Into blind darkness enter those who worship avidyā (works/ignorance); into still greater darkness those who worship vidyā (knowledge) alone. He who knows both together crosses death through avidyā and attains immortality through vidyā.' The message is clear: you need <em>both</em>. A life of wisdom without material capacity is ineffective; a life of material success without wisdom is purposeless. The complete human life integrates śrī (the capacity to act in the world) with prajñā (the light to see where you're going)."
       },
       {
         "q": "🔍 The mother simile in Vedic literature",
-        "a": "The simile <strong>mātā iva putrān rakṣasva</strong> ('protect us as a mother protects her children') is one of the most emotionally powerful images in the Upanishads. While the Vedas frequently use <em>paternal</em> imagery for the divine (Dyaus Pitā = Father Sky; Prajāpati = Lord of Creatures), the <strong>maternal</strong> image carries a different force: <strong>(1) Unconditional protection</strong>: a father's protection may be conditional on conduct or obedience; a mother's protection is <em>absolute</em>. She protects the weak child even more than the strong one. <strong>(2) Intimate, embodied care</strong>: the mother doesn't protect from a distance — she holds, feeds, and shelters with her own body. Similarly, Prāṇa doesn't protect the faculties from afar; it <em>pervades</em> them (santatā, mantra 12). <strong>(3) Non-judgmental</strong>: the mother doesn't ask whether the child 'deserves' protection. This models the Upanishadic understanding of grace: Prāṇa sustains the body without regard to the body's merit. The Śvetāśvatara (4.3) and the Gītā (9.17) similarly use parental imagery: 'I am the father, the mother, the sustainer.' But the Prashna's 'mātā iva' remains unique in its directness and tenderness."
+        "a": "'<strong>माता इव पुत्रान् रक्षस्व</strong>' ('माता की तरह पुत्रों की रक्षा कर') उपनिषदों के सर्वाधिक भावनात्मक शक्तिशाली बिम्बों में से एक है। जहाँ वेद बार-बार <em>पितृ</em>-बिम्ब प्रयोग करते हैं (द्यौष्पिता = पिता आकाश; प्रजापति = प्रजाओं का स्वामी), <strong>मातृ</strong>-बिम्ब एक भिन्न शक्ति वहन करता है: <strong>(1) निर्हेतुक रक्षा</strong>: पिता की रक्षा आचरण या आज्ञापालन पर सशर्त हो सकती है; माता की रक्षा <em>निरपेक्ष</em> है। वह दुर्बल सन्तान की बलवान् से भी अधिक रक्षा करती है। <strong>(2) सान्निध्यपूर्ण, देहगत देखभाल</strong>: माता दूर से नहीं बचाती — अपने शरीर से धारण, पोषण, आश्रय देती है। वैसे ही प्राण इन्द्रियों की दूर से नहीं, उनमें <em>व्याप्त</em> (सन्तत, मन्त्र 12) होकर रक्षा करता है। <strong>(3) निर्विवाद</strong>: माता नहीं पूछती कि सन्तान 'योग्य' है या नहीं। यह उपनिषदीय कृपा (grace) का प्रतिमान है: प्राण शरीर को बिना शरीर की योग्यता देखे पोषित करता है। श्वेताश्वतर (4.3) और गीता (9.17) में समान पितृ-मातृ बिम्ब: 'मैं पिता हूँ, माता हूँ, धाता हूँ।' परन्तु प्रश्नोपनिषद् का 'माता इव' अपनी सीधी सादगी और कोमलता में अद्वितीय है।<br><br><em>Eng:</em> The simile <strong>mātā iva putrān rakṣasva</strong> ('protect us as a mother protects her children') is one of the most emotionally powerful images in the Upanishads. While the Vedas frequently use <em>paternal</em> imagery for the divine (Dyaus Pitā = Father Sky; Prajāpati = Lord of Creatures), the <strong>maternal</strong> image carries a different force: <strong>(1) Unconditional protection</strong>: a father's protection may be conditional on conduct or obedience; a mother's protection is <em>absolute</em>. She protects the weak child even more than the strong one. <strong>(2) Intimate, embodied care</strong>: the mother doesn't protect from a distance — she holds, feeds, and shelters with her own body. Similarly, Prāṇa doesn't protect the faculties from afar; it <em>pervades</em> them (santatā, mantra 12). <strong>(3) Non-judgmental</strong>: the mother doesn't ask whether the child 'deserves' protection. This models the Upanishadic understanding of grace: Prāṇa sustains the body without regard to the body's merit. The Śvetāśvatara (4.3) and the Gītā (9.17) similarly use parental imagery: 'I am the father, the mother, the sustainer.' But the Prashna's 'mātā iva' remains unique in its directness and tenderness."
       }
     ]
   }
