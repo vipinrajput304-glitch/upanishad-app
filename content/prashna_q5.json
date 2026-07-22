@@ -7,9 +7,29 @@
     "en": "Then Shaibya Satyakāma asked him: 'Bhagavan! He among men who meditates on (abhidhyāyīta) the syllable OM (oṁkāra) until death (prāyaṇa-anta) — which world (katama loka) does he win (jayati) by that?'",
     "ws": [
       {
+        "s": "अथ",
+        "h": "तब / इसके पश्चात्",
+        "e": "then / thereupon"
+      },
+      {
         "s": "शैब्यः सत्यकामः",
         "h": "शैब्य सत्यकाम — पाँचवें प्रश्नकर्ता शिष्य",
-        "e": "Shaibya Satyakāma"
+        "e": "Shaibya Satyakāma — the fifth questioner"
+      },
+      {
+        "s": "पप्रच्छ",
+        "h": "पूछा / प्रश्न किया",
+        "e": "asked"
+      },
+      {
+        "s": "भगवन्",
+        "h": "भगवन् / पूज्य गुरुदेव",
+        "e": "O revered Lord"
+      },
+      {
+        "s": "मनुष्येषु",
+        "h": "मनुष्यों में",
+        "e": "among men"
       },
       {
         "s": "प्रायणान्तम्",
@@ -27,12 +47,22 @@
         "e": "should meditate on"
       },
       {
+        "s": "कतमम्",
+        "h": "किस / कौन-सा",
+        "e": "which"
+      },
+      {
+        "s": "लोकम्",
+        "h": "लोक / संसार / विश्व",
+        "e": "world"
+      },
+      {
         "s": "जयति",
         "h": "जीतता है / प्राप्त करता है",
         "e": "wins / conquers"
       }
     ],
-    "gr": "<strong>The question</strong>: Satyakāma asks a practical question — not about metaphysics but about <em>sādhana</em> (spiritual practice): what is the fruit (phala) of meditating on OM? The question assumes lifelong practice (<em>prāyaṇa-antam</em> — 'until death'). <strong>oṁkāra</strong>: the syllable OM (also called Praṇava, 'that which makes new' or 'that which pervades'). It is the sonic representation of Brahman — the Māṇḍūkya Upanishad opens with 'OM ity etad akṣaram idaṁ sarvam' ('OM — this syllable is all this'). <strong>katamam lokam jayati</strong> — 'which world does he win?': the verb <em>jayati</em> (conquers) rather than <em>prāpnoti</em> (obtains) suggests active mastery, not passive reception. The answer will reveal that the 'world' depends on the <em>depth</em> of meditation — one, two, or three mātrās of OM.",
+    "gr": "<strong>व्याकरण:</strong> 'अथ' — अनुवृत्ति-सूचक, नया प्रश्न प्रारम्भ। 'शैब्यः सत्यकामः पप्रच्छ' — शैब्य गोत्र के सत्यकाम ने पिप्पलाद से पूछा; 'पप्रच्छ' = √प्रच्छ् (पूछना) का लिट् लकार। 'प्रायणान्तम्' = प्रायण (मृत्यु / अन्तिम यात्रा) + अन्तम् (तक) — 'जीवन-भर'। 'ओंकारम् अभिध्यायीत' = ॐ का अभिध्यान (गहन ध्यान) करे; 'अभिध्यायीत' = √ध्यै (ध्यान करना) का विधिलिङ्, अभि उपसर्ग सहित। 'कतमं लोकं जयति' = किस लोक को जीतता (प्राप्त करता) है; 'जयति' = √जि (जीतना) का लट् लकार — यहाँ 'प्राप्नोति' (obtains) अर्थ से श्रेष्ठ, क्योंकि 'जयति' में सक्रिय विजय (active mastery) का भाव है।<br><em>Eng:</em> 'atha' marks a new question. 'papraccha' = perfect tense of √prach (to ask). 'prāyaṇa-antam' = until the final journey (death). 'abhidhyāyīta' = optative of √dhyai with abhi — deep meditation. 'jayati' (conquers) rather than 'prāpnoti' (obtains) implies active mastery.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -57,11 +87,11 @@
     "dp": [
       {
         "q": "🔍 What is OM (Praṇava)?",
-        "a": "The syllable <strong>OM</strong> (also written AUM, also called <strong>Praṇava</strong>) is the most sacred sound in the Vedic tradition. It holds multiple layers of meaning: <strong>Linguistic structure</strong>: OM is composed of three <em>mātrās</em> (measures/components): <strong>A</strong> (अ), <strong>U</strong> (उ), and <strong>M</strong> (म). In Sanskrit phonetics, A + U naturally fuse into O (by the rule of <em>guṇa-sandhi</em>), so AUM becomes OM. Some traditions count a fourth element — the <em>silence</em> (amātra) after the M fades. <strong>Cosmological meaning</strong>: the Māṇḍūkya Upanishad identifies OM with all of reality: 'oṁ ity etad akṣaram idaṁ sarvam' — 'OM, this syllable, is all this.' The three mātrās are mapped to the three states of consciousness (A = waking, U = dream, M = deep sleep) and the three Vedas (Ṛg, Yajur, Sāma). The silence after M = <em>turīya</em>, the Fourth. <strong>Theological meaning</strong>: OM is the sound-form (<em>śabda-brahman</em>) of the formless Brahman. The Kaṭha (1.2.15-17) says: 'This syllable is indeed Brahman; this syllable is the Supreme. Knowing this syllable, one obtains whatever one desires.' <strong>Practical meaning</strong>: OM is the universal seed-mantra (<em>bīja</em>) used at the beginning and end of all Vedic recitation, all prayers, and all meditation. It is the 'doorway' through which consciousness passes from the mundane to the sacred."
+        "a": "ॐ (ओंकार, प्रणव) वैदिक परम्परा की सबसे पवित्र ध्वनि है। इसके अनेक स्तर हैं: <strong>भाषाई संरचना</strong>: ॐ तीन मात्राओं (components) से बना है — अ (A), उ (U), म (M)। संस्कृत उच्चारण में अ + उ = ओ (गुण-सन्धि), अतः अउम् = ॐ। कुछ परम्पराएँ चौथा तत्त्व मानती हैं — म के बाद का मौन (अमात्रा)। <strong>ब्रह्माण्डीय अर्थ</strong>: माण्डूक्य उपनिषद् ॐ को सम्पूर्ण सत्ता के साथ अभिन्न मानता है — 'ॐ इत्येतदक्षरमिदं सर्वम्'। तीन मात्राएँ = तीन अवस्थाएँ (जागृति, स्वप्न, सुषुप्ति) और तीन वेद (ऋग्, यजुः, साम)। म के बाद का मौन = तुरीय (चौथी अवस्था)। <strong>आध्यात्मिक अर्थ</strong>: ॐ निराकार ब्रह्म का शब्द-स्वरूप (शब्द-ब्रह्म) है। कठ (1.2.15-17): 'यह अक्षर ही ब्रह्म है; यह अक्षर ही परम है।' <strong>व्यावहारिक अर्थ</strong>: ॐ सार्वभौमिक बीज-मन्त्र है — सभी वैदिक पाठ, प्रार्थना और ध्यान के आरम्भ-अन्त में प्रयुक्त — चेतना को लौकिक से पवित्र में ले जाने का 'द्वार'।<br><br><em>Eng:</em> The syllable <strong>OM</strong> (also written AUM, also called <strong>Praṇava</strong>) is the most sacred sound in the Vedic tradition. It holds multiple layers of meaning: <strong>Linguistic structure</strong>: OM is composed of three <em>mātrās</em> (measures/components): <strong>A</strong> (अ), <strong>U</strong> (उ), and <strong>M</strong> (म). In Sanskrit phonetics, A + U naturally fuse into O (by the rule of <em>guṇa-sandhi</em>), so AUM becomes OM. Some traditions count a fourth element — the <em>silence</em> (amātra) after the M fades. <strong>Cosmological meaning</strong>: the Māṇḍūkya Upanishad identifies OM with all of reality: 'oṁ ity etad akṣaram idaṁ sarvam' — 'OM, this syllable, is all this.' The three mātrās are mapped to the three states of consciousness (A = waking, U = dream, M = deep sleep) and the three Vedas (Ṛg, Yajur, Sāma). The silence after M = <em>turīya</em>, the Fourth. <strong>Theological meaning</strong>: OM is the sound-form (<em>śabda-brahman</em>) of the formless Brahman. The Kaṭha (1.2.15-17) says: 'This syllable is indeed Brahman; this syllable is the Supreme. Knowing this syllable, one obtains whatever one desires.' <strong>Practical meaning</strong>: OM is the universal seed-mantra (<em>bīja</em>) used at the beginning and end of all Vedic recitation, all prayers, and all meditation. It is the 'doorway' through which consciousness passes from the mundane to the sacred."
       },
       {
         "q": "🔍 Why does the question specify 'until death'?",
-        "a": "The phrase <strong>prāyaṇa-antam</strong> ('until death' / 'until the final departure') is significant. It specifies <strong>lifelong</strong> practice — not casual or occasional meditation. This distinguishes three levels of spiritual practice in the Upanishadic framework: <strong>(1) Occasional practice (naimittika)</strong>: meditation performed on special occasions — festivals, eclipses, pilgrimages. This yields limited fruit. <strong>(2) Regular practice (nitya)</strong>: daily meditation as part of one's routine. This yields greater fruit. <strong>(3) Lifelong practice (prāyaṇa-anta)</strong>: unbroken meditation from initiation until death. This yields the highest fruit. The specification 'until death' also connects to the teaching on the <em>last thought</em> at the moment of death. The Bhagavad Gītā (8.5-6) echoes this: 'Whoever at the time of death, departing the body, remembers Me alone — he attains My being; of that there is no doubt. Whatever being one remembers at the time of leaving the body, to that very being one goes.' By meditating on OM lifelong, the practitioner ensures that OM is naturally the <em>last thought</em> at the moment of death — and the destination is determined by that last thought. The depth of lifelong practice determines the depth of the final meditation, which determines the 'world' attained."
+        "a": "'प्रायणान्तम्' (मृत्यु-पर्यन्त / अन्तिम यात्रा तक) का विशेष महत्त्व है — यह <strong>आजीवन साधना</strong> को निर्दिष्ट करता है, न कि सामयिक या प्रासंगिक ध्यान को। उपनिषदीय ढाँचे में तीन स्तर हैं: <strong>(1) नैमित्तिक साधना</strong> — विशेष अवसरों (पर्व, ग्रहण, तीर्थयात्रा) पर ध्यान — सीमित फल। <strong>(2) नित्य साधना</strong> — दैनिक ध्यान — अधिक फल। <strong>(3) प्रायणान्त साधना</strong> — दीक्षा से मृत्यु तक अखण्ड ध्यान — सर्वोच्च फल। 'मृत्यु-पर्यन्त' का सम्बन्ध मृत्यु-काल के अन्तिम विचार (last thought) से भी है। भगवद्गीता (8.5-6): 'जो अन्तकाल में मुझे स्मरण करता हुआ शरीर त्यागता है, वह मेरे स्वरूप को प्राप्त होता है।' जीवन-भर ॐ-ध्यान से मृत्यु-काल में स्वाभाविक रूप से ॐ ही अन्तिम विचार बनता है — और गन्तव्य उसी अन्तिम विचार से निर्धारित होता है। आजीवन साधना की गहराई ही अन्तिम ध्यान की गहराई निर्धारित करती है, जो प्राप्य लोक निर्धारित करती है।<br><br><em>Eng:</em> The phrase <strong>prāyaṇa-antam</strong> ('until death' / 'until the final departure') is significant. It specifies <strong>lifelong</strong> practice — not casual or occasional meditation. This distinguishes three levels of spiritual practice in the Upanishadic framework: <strong>(1) Occasional practice (naimittika)</strong>: meditation performed on special occasions — festivals, eclipses, pilgrimages. This yields limited fruit. <strong>(2) Regular practice (nitya)</strong>: daily meditation as part of one's routine. This yields greater fruit. <strong>(3) Lifelong practice (prāyaṇa-anta)</strong>: unbroken meditation from initiation until death. This yields the highest fruit. The specification 'until death' also connects to the teaching on the <em>last thought</em> at the moment of death. The Bhagavad Gītā (8.5-6) echoes this: 'Whoever at the time of death, departing the body, remembers Me alone — he attains My being; of that there is no doubt. Whatever being one remembers at the time of leaving the body, to that very being one goes.' By meditating on OM lifelong, the practitioner ensures that OM is naturally the <em>last thought</em> at the moment of death — and the destination is determined by that last thought. The depth of lifelong practice determines the depth of the final meditation, which determines the 'world' attained."
       }
     ]
   },
@@ -73,6 +103,21 @@
     "en": "To him he said: 'O Satyakāma! This syllable OM (oṁkāra) is indeed both the higher (para) and the lower (apara) Brahman. Therefore the knower (vidvān), through this very support (āyatana), reaches one or the other (ekataram).'",
     "ws": [
       {
+        "s": "तस्मै",
+        "h": "उसे / उनसे",
+        "e": "to him"
+      },
+      {
+        "s": "उवाच",
+        "h": "बोले / कहा",
+        "e": "said / spoke"
+      },
+      {
+        "s": "सत्यकाम",
+        "h": "हे सत्यकाम (सम्बोधन)",
+        "e": "O Satyakāma"
+      },
+      {
         "s": "परम्",
         "h": "पर / श्रेष्ठ / निर्गुण (transcendent)",
         "e": "the higher"
@@ -83,9 +128,19 @@
         "e": "the lower"
       },
       {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम सत्ता",
+        "e": "Brahman / the Absolute"
+      },
+      {
         "s": "ओंकारः",
         "h": "ॐ / प्रणव / ओंकार",
         "e": "the syllable OM"
+      },
+      {
+        "s": "विद्वान्",
+        "h": "विद्वान् / ज्ञानी / जानने वाला",
+        "e": "the knower / the wise one"
       },
       {
         "s": "आयतनेन",
@@ -96,9 +151,14 @@
         "s": "एकतरम्",
         "h": "दोनों में से एक को",
         "e": "one or the other"
+      },
+      {
+        "s": "अन्वेति",
+        "h": "प्राप्त करता है / अनुगमन करता है",
+        "e": "reaches / follows"
       }
     ],
-    "gr": "<strong>paraṁ ca aparaṁ ca brahma</strong> — 'both the higher and the lower Brahman': Pippalāda's answer is remarkable — OM is not merely a symbol of Brahman but <em>is</em> Brahman in its dual aspect. <strong>Para Brahman</strong> = the unconditioned Absolute (nirguṇa), without qualities, beyond description. <strong>Apara Brahman</strong> = the conditioned Brahman (saguṇa), manifest in creation as Hiraṇyagarbha/Īśvara, with qualities. OM bridges both because it has both structure (the three mātrās A-U-M = apara, the conditioned) and silence (the amātra after M = para, the unconditioned). <strong>vidvān etena āyatanena ekataram anveti</strong> — 'the knower, through this support, reaches one or the other': the destination depends on the meditator's depth — partial understanding (one or two mātrās) reaches apara Brahman (higher worlds); complete understanding (all three mātrās with silence) reaches para Brahman (liberation). The following mantras (3-5) detail the three levels.",
+    "gr": "<strong>व्याकरण:</strong> 'एतत् वै सत्यकाम' — 'हे सत्यकाम! यह वास्तव में...' — पिप्पलाद का उत्तर। 'परं च अपरं च ब्रह्म यत् ओंकारः' — ओंकार जो है, वह पर (निर्गुण / transcendent) और अपर (सगुण / immanent) दोनों ब्रह्म है। 'पर' = निर्गुण, निराकार, अविकारी ब्रह्म; 'अपर' = सगुण, साकार, हिरण्यगर्भ/ईश्वर। 'तस्मात् विद्वान् एतेन एव आयतनेन एकतरम् अन्वेति' — इसलिए विद्वान् (ज्ञानी) इसी आयतन (आश्रय/माध्यम) से दोनों में से एक (एकतरम्) को प्राप्त करता है (अन्वेति = √इ + अनु, अनुगमन करता है)। ध्यान की गहराई यह निर्धारित करती है कि साधक किसे प्राप्त करेगा — अपर ब्रह्म (उच्च लोक) या पर ब्रह्म (मोक्ष)।<br><em>Eng:</em> 'paraṁ ca aparaṁ ca brahma' — OM is both higher (nirguṇa) and lower (saguṇa) Brahman. 'āyatanena' = by means of this support/vehicle. 'ekataram anveti' = reaches one or the other — depth of meditation determines whether apara (higher worlds) or para (liberation) is attained.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -123,11 +183,11 @@
     "dp": [
       {
         "q": "🔍 Para Brahman and Apara Brahman",
-        "a": "The distinction between <strong>para</strong> (higher) and <strong>apara</strong> (lower) Brahman is one of the most important in Vedāntic philosophy: <strong>Para Brahman</strong> (परब्रह्म): the <em>unconditioned</em> Absolute. It is <em>nirguṇa</em> (without attributes), <em>nirākāra</em> (formless), <em>nirvikalpa</em> (without mental constructs). It cannot be described in positive terms — only through <em>neti neti</em> ('not this, not this'). It is pure consciousness-existence-bliss (sat-cit-ānanda) without any qualification. It is the subject of <em>parā vidyā</em> (higher knowledge) in Muṇḍaka 1.1.5. <strong>Apara Brahman</strong> (अपरब्रह्म): Brahman as <em>conditioned</em> by attributes — the cosmic Lord (Īśvara/Hiraṇyagarbha) who creates, sustains, and dissolves the universe. It is <em>saguṇa</em> (with attributes), accessible through worship, meditation, and devotion. It is the subject of <em>aparā vidyā</em> (lower knowledge) in Muṇḍaka 1.1.4. <strong>How OM bridges both</strong>: the three mātrās (A-U-M) represent the <em>conditioned</em> aspect — creation (A), preservation (U), dissolution (M). The <em>silence</em> (amātra) after M represents the <em>unconditioned</em> aspect — the Absolute beyond creation. Together, the sound and the silence constitute the complete Brahman. <strong>How the schools interpret this</strong>: <em>Advaita</em> — para Brahman alone is ultimately real; apara Brahman is a provisional description for the unenlightened. <em>Vishishtadvaita</em> — both are aspects of the same Lord; there is no 'lower' Brahman, only Brahman viewed from different angles. <em>Sri Aurobindo</em> — para is the transcendent pole and apara the immanent pole of one reality; evolution bridges them."
+        "a": "<strong>पर ब्रह्म</strong> (परब्रह्म) और <strong>अपर ब्रह्म</strong> (अपरब्रह्म) का भेद वेदान्त दर्शन में सबसे महत्त्वपूर्ण है: <strong>पर ब्रह्म</strong> = अनिर्बन्ध (unconditioned) परम सत्ता — निर्गुण (गुण-रहित), निराकार, निर्विकल्प (mental constructs से परे)। इसका वर्णन केवल 'नेति नेति' (यह नहीं, यह नहीं) से सम्भव — शुद्ध सत्-चित्-आनन्द। मुण्डक (1.1.5) में परा विद्या का विषय। <strong>अपर ब्रह्म</strong> = गुणों से सविशेष (conditioned) ब्रह्म — सगुण, ईश्वर/हिरण्यगर्भ जो सृष्टि रचता, पालता, संहारता है। उपासना, भक्ति और ध्यान से सुलभ। मुण्डक (1.1.4) में अपरा विद्या। <strong>ॐ दोनों को कैसे जोड़ता है</strong>: तीन मात्राएँ (अ-उ-म) = सविशेष पक्ष (सृष्टि-स्थिति-संहार); म के बाद का मौन (अमात्रा) = निर्गुण पक्ष (परम सत्ता)। ध्वनि + मौन = सम्पूर्ण ब्रह्म। <strong>विभिन्न सम्प्रदायों की व्याख्या</strong>: अद्वैत — केवल पर ब्रह्म वास्तविक; अपर ब्रह्म अज्ञानियों के लिए अनन्तिम वर्णन। विशिष्टाद्वैत — दोनों एक ही भगवान् के पक्ष; कोई 'निम्न' ब्रह्म नहीं। श्री अरविन्द — पर = अतिक्रान्त (transcendent) ध्रुव, अपर = अन्तर्निहित (immanent) ध्रुव; विकास (evolution) दोनों को जोड़ता है।<br><br><em>Eng:</em> The distinction between <strong>para</strong> (higher) and <strong>apara</strong> (lower) Brahman is one of the most important in Vedāntic philosophy: <strong>Para Brahman</strong> (परब्रह्म): the <em>unconditioned</em> Absolute. It is <em>nirguṇa</em> (without attributes), <em>nirākāra</em> (formless), <em>nirvikalpa</em> (without mental constructs). It cannot be described in positive terms — only through <em>neti neti</em> ('not this, not this'). It is pure consciousness-existence-bliss (sat-cit-ānanda) without any qualification. It is the subject of <em>parā vidyā</em> (higher knowledge) in Muṇḍaka 1.1.5. <strong>Apara Brahman</strong> (अपरब्रह्म): Brahman as <em>conditioned</em> by attributes — the cosmic Lord (Īśvara/Hiraṇyagarbha) who creates, sustains, and dissolves the universe. It is <em>saguṇa</em> (with attributes), accessible through worship, meditation, and devotion. It is the subject of <em>aparā vidyā</em> (lower knowledge) in Muṇḍaka 1.1.4. <strong>How OM bridges both</strong>: the three mātrās (A-U-M) represent the <em>conditioned</em> aspect — creation (A), preservation (U), dissolution (M). The <em>silence</em> (amātra) after M represents the <em>unconditioned</em> aspect — the Absolute beyond creation. Together, the sound and the silence constitute the complete Brahman. <strong>How the schools interpret this</strong>: <em>Advaita</em> — para Brahman alone is ultimately real; apara Brahman is a provisional description for the unenlightened. <em>Vishishtadvaita</em> — both are aspects of the same Lord; there is no 'lower' Brahman, only Brahman viewed from different angles. <em>Sri Aurobindo</em> — para is the transcendent pole and apara the immanent pole of one reality; evolution bridges them."
       },
       {
         "q": "🔍 OM as āyatana (support/vehicle)",
-        "a": "The word <strong>āyatana</strong> (आयतन) means 'resting-place', 'support', 'abode', or 'medium'. Calling OM an <em>āyatana</em> means it serves as the <strong>vehicle</strong> through which consciousness ascends to Brahman. This has practical implications: <strong>How OM works as a vehicle</strong>: (1) <em>Sound anchors attention</em>: the mind naturally follows sound. By focussing on OM, the mind is withdrawn from external distractions and stabilised on a single point (ekāgratā). (2) <em>The mātrās structure the ascent</em>: meditating on A alone reaches one level; A+U reaches a higher level; A+U+M+silence reaches the highest. The syllable itself is a 'ladder' of consciousness. (3) <em>Vibration alters consciousness</em>: the Vedic tradition holds that sound (śabda) is not merely heard but <em>experienced</em> — it has a transformative effect on the meditator's inner state. OM's particular vibration resonates with the fundamental vibration of reality (nāda-brahman). <strong>Why OM and not another mantra?</strong> The Māṇḍūkya (1) explains: 'OM is all this' — it is the universal sound that encompasses all other sounds. In Sanskrit phonetics, A is the first vowel (produced at the back of the throat) and M is the last consonant (produced at the lips). A-U-M therefore spans the entire range of human speech — it is the <em>sound of all sounds</em>. Any other mantra is a partial expression; OM is the totality."
+        "a": "शब्द <strong>आयतन</strong> (āyatana) का अर्थ है 'विश्राम-स्थान', 'आश्रय', 'आधार', या 'माध्यम'। ॐ को आयतन कहने का अर्थ है कि यह वह <strong>वाहन</strong> (vehicle) है जिसके द्वारा चेतना ब्रह्म तक आरोहण करती है। इसके व्यावहारिक निहितार्थ: <strong>ॐ वाहन के रूप में कैसे कार्य करता है</strong>: (1) <em>ध्वनि ध्यान को स्थिर करती है</em> — मन स्वाभाविक रूप से ध्वनि का अनुसरण करता है; ॐ पर ध्यान केन्द्रित करने से मन बाह्य विक्षेपों से हटकर एकाग्र (एकाग्रता) होता है। (2) <em>मात्राएँ आरोहण की संरचना देती हैं</em> — केवल 'अ' से एक स्तर, 'अ+उ' से उच्चतर, 'अ+उ+म+मौन' से सर्वोच्च — अक्षर स्वयं 'सीढ़ी' है। (3) <em>कम्पन (vibration) चेतना को रूपान्तरित करता है</em> — वैदिक परम्परा के अनुसार शब्द केवल सुना नहीं जाता, अनुभव किया जाता है — ॐ का विशेष कम्पन सत्ता के मूल-कम्पन (नाद-ब्रह्म) से अनुनादित होता है। <strong>ॐ ही क्यों, कोई अन्य मन्त्र क्यों नहीं?</strong> माण्डूक्य (1): 'ॐ यह सब कुछ है' — यह सार्वभौमिक ध्वनि है। संस्कृत उच्चारण में 'अ' पहला स्वर (कण्ठ से) और 'म' अन्तिम व्यञ्जन (ओष्ठों से) — अ-उ-म मानव वाणी का सम्पूर्ण विस्तार है — 'सभी ध्वनियों की ध्वनि'।<br><br><em>Eng:</em> The word <strong>āyatana</strong> (आयतन) means 'resting-place', 'support', 'abode', or 'medium'. Calling OM an <em>āyatana</em> means it serves as the <strong>vehicle</strong> through which consciousness ascends to Brahman. This has practical implications: <strong>How OM works as a vehicle</strong>: (1) <em>Sound anchors attention</em>: the mind naturally follows sound. By focussing on OM, the mind is withdrawn from external distractions and stabilised on a single point (ekāgratā). (2) <em>The mātrās structure the ascent</em>: meditating on A alone reaches one level; A+U reaches a higher level; A+U+M+silence reaches the highest. The syllable itself is a 'ladder' of consciousness. (3) <em>Vibration alters consciousness</em>: the Vedic tradition holds that sound (śabda) is not merely heard but <em>experienced</em> — it has a transformative effect on the meditator's inner state. OM's particular vibration resonates with the fundamental vibration of reality (nāda-brahman). <strong>Why OM and not another mantra?</strong> The Māṇḍūkya (1) explains: 'OM is all this' — it is the universal sound that encompasses all other sounds. In Sanskrit phonetics, A is the first vowel (produced at the back of the throat) and M is the last consonant (produced at the lips). A-U-M therefore spans the entire range of human speech — it is the <em>sound of all sounds</em>. Any other mantra is a partial expression; OM is the totality."
       }
     ]
   },
@@ -141,7 +201,12 @@
       {
         "s": "एकमात्रम्",
         "h": "एक मात्रा / केवल 'अ'-कार",
-        "e": "one mātrā"
+        "e": "one mātrā / the letter A alone"
+      },
+      {
+        "s": "अभिध्यायीत",
+        "h": "ध्यान करे / उपासना करे",
+        "e": "should meditate on"
       },
       {
         "s": "संवेदितः",
@@ -159,9 +224,39 @@
         "e": "on the earth"
       },
       {
+        "s": "अभिसम्पद्यते",
+        "h": "प्राप्त होता है / पुनर्जन्म लेता है",
+        "e": "is reborn / attains"
+      },
+      {
         "s": "ऋचः",
         "h": "ऋग्वेद के मन्त्र / ऋचाएँ",
         "e": "the Ṛg Vedic hymns"
+      },
+      {
+        "s": "मनुष्यलोकम्",
+        "h": "मनुष्य-लोक / मानव संसार",
+        "e": "the world of men"
+      },
+      {
+        "s": "उपनयन्ते",
+        "h": "ले जाती हैं / पहुँचाती हैं",
+        "e": "lead / conduct"
+      },
+      {
+        "s": "तपसा",
+        "h": "तप से / तपस्या से",
+        "e": "by austerity"
+      },
+      {
+        "s": "ब्रह्मचर्येण",
+        "h": "ब्रह्मचर्य से / संयम से",
+        "e": "by continence / celibacy"
+      },
+      {
+        "s": "श्रद्धया",
+        "h": "श्रद्धा से / विश्वास से",
+        "e": "by faith"
       },
       {
         "s": "महिमानम्",
@@ -169,7 +264,7 @@
         "e": "greatness"
       }
     ],
-    "gr": "<strong>eka-mātram = A-kāra</strong>: the first mātrā of OM, the letter A (अ). In Sanskrit, A is the most fundamental vowel — all other vowels and consonants presuppose it. Meditating on A alone is the <em>shallowest</em> level of OM-meditation. <strong>tūrṇam jagatyām abhisampadyate</strong> — 'quickly returns to earth': the result of one-mātrā meditation is a <em>quick rebirth on earth</em> — not a prolonged stay in higher worlds. However, the rebirth is elevated: the meditator returns endowed with tapas (austerity), brahmacarya (celibacy/continence), and śraddhā (faith). <strong>ṛcaḥ upanayante</strong> — 'the Ṛg verses lead him': each mātrā is associated with one of the three Vedas: A = Ṛg Veda, U = Yajur Veda, M = Sāma Veda. The Ṛg Veda's domain is the earth (bhūḥ), so A-kāra meditation leads to the earth. <strong>mahimānam anubhavati</strong> — 'experiences greatness': the same word <em>mahimā</em> used for the mind's creative power in dreams (4.5). Here it means an elevated human life — spiritual greatness in the earthly realm.",
+    "gr": "<strong>व्याकरण:</strong> 'एक-मात्रम् अभिध्यायीत' — एक मात्रा ('अ'-कार) का ध्यान करे। 'अ'-कार संस्कृत का सबसे मूलभूत स्वर — सभी वर्णों में निहित। 'संवेदितः' = √विद् (जानना) का कर्मणि भूतकृदन्त + सम् उपसर्ग — 'जिसे ज्ञान हो गया / प्रबुद्ध'। 'तूर्णम् जगत्याम् अभिसम्पद्यते' — शीघ्र (तूर्णम्) पृथ्वी-लोक (जगती) में पुनर्जन्म लेता है। 'ऋचः मनुष्यलोकम् उपनयन्ते' — ऋग्वेद की ऋचाएँ उसे मनुष्य-लोक में ले जाती हैं (उपनयन्ते = √नी + उप, बहुवचन)। प्रत्येक मात्रा एक वेद से सम्बद्ध: अ = ऋग्वेद, उ = यजुर्वेद, म = सामवेद। 'तपसा ब्रह्मचर्येण श्रद्धया सम्पन्नः' — तप, ब्रह्मचर्य, श्रद्धा — ये तीन आध्यात्मिक स्तम्भ; तृतीया विभक्ति (करण कारक)। 'महिमानम् अनुभवति' — महिमा (गरिमा/श्रेष्ठता) का अनुभव करता है।<br><em>Eng:</em> 'eka-mātram' = one mātrā (A-kāra). 'saṁveditaḥ' = passive past participle of √vid — enlightened. 'tūrṇam' = quickly. 'ṛcaḥ upanayante' = Ṛg verses lead him (each mātrā corresponds to one Veda: A=Ṛg, U=Yajur, M=Sāma). 'tapasā brahmacaryeṇa śraddhayā' — instrumental case — endowed with austerity, continence, faith.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -194,11 +289,11 @@
     "dp": [
       {
         "q": "🔍 The three mātrās and their cosmic correspondences",
-        "a": "The Prashna Upanishad maps the three mātrās (components) of OM to three ascending levels: <strong>(1) A-kāra (अ) — first mātrā</strong>: corresponds to the <em>Ṛg Veda</em>, the <em>earth</em> (bhūḥ), the <em>waking state</em>, and the <em>world of men</em> (manuṣya-loka). The letter A is the most basic vowel — it is present in the pronunciation of every other letter. It represents the <em>foundation</em> — the material, the manifest, the beginning. Meditating on A alone yields an <strong>elevated human rebirth</strong>. <strong>(2) U-kāra (उ) — second mātrā</strong>: corresponds to the <em>Yajur Veda</em>, the <em>mid-region</em> (bhuvaḥ/antarikṣa), the <em>dream state</em>, and the <em>lunar world</em> (soma-loka/candra-loka). U is the intermediary vowel — higher than A but not the pinnacle. It represents the <em>subtle</em>, the transitional, the interior. Meditating on A+U yields <strong>ascent to the lunar world</strong> with eventual return. <strong>(3) M-kāra (म) — third mātrā</strong>: corresponds to the <em>Sāma Veda</em>, the <em>heaven</em> (svaḥ), the <em>deep sleep state</em>, and the <em>solar world</em> (sūrya-loka/brahma-loka). M is the terminal consonant — the closing of the lips, the culmination. It represents the <em>causal</em>, the complete, the resolution. Meditating on all three mātrās together yields <strong>ascent to the world of Brahman</strong> with the possibility of full liberation. These correspondences are not arbitrary but follow the phonetic progression of OM: A (throat-open, expansive) → U (throat-narrowing, ascending) → M (lips-closing, culminating) → silence (beyond sound, transcendent)."
+        "a": "प्रश्नोपनिषद् ॐ की तीन मात्राओं को तीन आरोही स्तरों से जोड़ता है: <strong>(1) अ-कार — प्रथम मात्रा</strong>: ऋग्वेद, पृथ्वी (भूः), जागृत अवस्था, और मनुष्य-लोक से सम्बद्ध। 'अ' सबसे मूलभूत स्वर — प्रत्येक अन्य वर्ण के उच्चारण में विद्यमान — आधार, भौतिक, आरम्भ का प्रतीक। केवल 'अ' का ध्यान → <strong>उन्नत मनुष्य-पुनर्जन्म</strong>। <strong>(2) उ-कार — द्वितीय मात्रा</strong>: यजुर्वेद, अन्तरिक्ष (भुवः), स्वप्न अवस्था, और सोम-लोक (चन्द्र-लोक) से सम्बद्ध। 'उ' मध्यवर्ती स्वर — 'अ' से ऊँचा किन्तु शिखर नहीं — सूक्ष्म, संक्रमणकारी, आन्तरिक का प्रतीक। अ+उ का ध्यान → <strong>सोम-लोक आरोहण</strong>, किन्तु अन्ततः लौटना। <strong>(3) म-कार — तृतीय मात्रा</strong>: सामवेद, स्वर्ग (स्वः), सुषुप्ति अवस्था, और सूर्य-लोक/ब्रह्म-लोक से सम्बद्ध। 'म' अन्तिम व्यञ्जन — ओष्ठों का बन्द होना, परिसमापन — कारण, पूर्ण, समाधान का प्रतीक। तीनों मात्राओं का ध्यान → <strong>ब्रह्म-लोक</strong>, पूर्ण मुक्ति की सम्भावना। ये सम्बन्ध ॐ के ध्वन्यात्मक क्रम का अनुसरण करते हैं: अ (कण्ठ खुला, विस्तारशील) → उ (कण्ठ सँकरा, आरोही) → म (ओष्ठ बन्द, पूर्ण) → मौन (ध्वनि से परे, अतिक्रान्त)।<br><br><em>Eng:</em> The Prashna Upanishad maps the three mātrās (components) of OM to three ascending levels: <strong>(1) A-kāra (अ) — first mātrā</strong>: corresponds to the <em>Ṛg Veda</em>, the <em>earth</em> (bhūḥ), the <em>waking state</em>, and the <em>world of men</em> (manuṣya-loka). The letter A is the most basic vowel — it is present in the pronunciation of every other letter. It represents the <em>foundation</em> — the material, the manifest, the beginning. Meditating on A alone yields an <strong>elevated human rebirth</strong>. <strong>(2) U-kāra (उ) — second mātrā</strong>: corresponds to the <em>Yajur Veda</em>, the <em>mid-region</em> (bhuvaḥ/antarikṣa), the <em>dream state</em>, and the <em>lunar world</em> (soma-loka/candra-loka). U is the intermediary vowel — higher than A but not the pinnacle. It represents the <em>subtle</em>, the transitional, the interior. Meditating on A+U yields <strong>ascent to the lunar world</strong> with eventual return. <strong>(3) M-kāra (म) — third mātrā</strong>: corresponds to the <em>Sāma Veda</em>, the <em>heaven</em> (svaḥ), the <em>deep sleep state</em>, and the <em>solar world</em> (sūrya-loka/brahma-loka). M is the terminal consonant — the closing of the lips, the culmination. It represents the <em>causal</em>, the complete, the resolution. Meditating on all three mātrās together yields <strong>ascent to the world of Brahman</strong> with the possibility of full liberation. These correspondences are not arbitrary but follow the phonetic progression of OM: A (throat-open, expansive) → U (throat-narrowing, ascending) → M (lips-closing, culminating) → silence (beyond sound, transcendent)."
       },
       {
         "q": "🔍 Tapas, Brahmacharya, and Shraddha — the three spiritual foundations",
-        "a": "The mantra lists three qualities that characterise the elevated human rebirth attained by A-kāra meditation: <strong>(1) Tapas (तपस्)</strong> — austerity, inner heat, disciplined effort. From √tap (to heat/burn). Not mere physical penance but the <strong>focused intensity</strong> of spiritual practice. Tapas burns away impurities (kleśas) and generates the 'heat' that transforms the practitioner. The Taittirīya (3.2-6) identifies tapas as the method by which Bhṛgu discovers the five sheaths of Brahman. <strong>(2) Brahmacharya (ब्रह्मचर्य)</strong> — literally 'walking in Brahman' or 'conduct befitting Brahman'. Conventionally, it means celibacy/sexual continence, but in its deeper sense it means <strong>directing all energy toward Brahman</strong> rather than dissipating it in sensory indulgence. The Upanishadic student (brahmacārin) lives with the teacher, studies the Vedas, and channels all vitality into learning. <strong>(3) Śraddhā (श्रद्धा)</strong> — faith, trust, conviction. Not blind belief but <strong>deep confidence</strong> in the reality of what the Upanishads teach — confidence that Brahman exists, that the Self is Brahman, and that meditation leads to realisation. The Chāndogya (7.19) says: 'When one has śraddhā, one meditates; without śraddhā, one does not meditate.' These three form a <strong>spiritual triangle</strong>: tapas provides the energy, brahmacharya provides the discipline, and śraddhā provides the direction. Together, they make the human life a <em>preparation</em> for higher attainment in future lives."
+        "a": "यह मन्त्र तीन गुणों का उल्लेख करता है जो अ-कार ध्यान से प्राप्त उन्नत मनुष्य-जन्म की विशेषताएँ हैं: <strong>(1) तप (तपस्)</strong> — तपस्या, आन्तरिक ऊष्मा, अनुशासित प्रयास। √तप् (तपना/जलना) से। केवल शारीरिक तपस्या नहीं, बल्कि आध्यात्मिक साधना की <strong>केन्द्रित तीव्रता</strong>। तप अशुद्धियों (क्लेशों) को जलाता है और साधक को रूपान्तरित करने वाली 'ऊष्मा' उत्पन्न करता है। तैत्तिरीय (3.2-6) में भृगु तप द्वारा ब्रह्म के पाँच कोशों की खोज करते हैं। <strong>(2) ब्रह्मचर्य</strong> — शाब्दिक: 'ब्रह्म में विचरण' या 'ब्रह्म-योग्य आचरण'। सामान्यतः संयम/ब्रह्मचर्य, किन्तु गहरे अर्थ में सम्पूर्ण ऊर्जा को इन्द्रिय-भोग में बिखेरने के बजाय <strong>ब्रह्म की ओर निर्देशित करना</strong>। <strong>(3) श्रद्धा</strong> — विश्वास, आस्था, दृढ़ निश्चय। अन्धविश्वास नहीं, बल्कि उपनिषदीय शिक्षाओं की सत्यता में <strong>गहन विश्वास</strong>। छान्दोग्य (7.19): 'जब श्रद्धा होती है, तब ध्यान करता है; बिना श्रद्धा, ध्यान नहीं।' ये तीन मिलकर <strong>आध्यात्मिक त्रिकोण</strong> बनाते हैं: तप = ऊर्जा, ब्रह्मचर्य = अनुशासन, श्रद्धा = दिशा।<br><br><em>Eng:</em> The mantra lists three qualities that characterise the elevated human rebirth attained by A-kāra meditation: <strong>(1) Tapas (तपस्)</strong> — austerity, inner heat, disciplined effort. From √tap (to heat/burn). Not mere physical penance but the <strong>focused intensity</strong> of spiritual practice. Tapas burns away impurities (kleśas) and generates the 'heat' that transforms the practitioner. The Taittirīya (3.2-6) identifies tapas as the method by which Bhṛgu discovers the five sheaths of Brahman. <strong>(2) Brahmacharya (ब्रह्मचर्य)</strong> — literally 'walking in Brahman' or 'conduct befitting Brahman'. Conventionally, it means celibacy/sexual continence, but in its deeper sense it means <strong>directing all energy toward Brahman</strong> rather than dissipating it in sensory indulgence. The Upanishadic student (brahmacārin) lives with the teacher, studies the Vedas, and channels all vitality into learning. <strong>(3) Śraddhā (श्रद्धा)</strong> — faith, trust, conviction. Not blind belief but <strong>deep confidence</strong> in the reality of what the Upanishads teach — confidence that Brahman exists, that the Self is Brahman, and that meditation leads to realisation. The Chāndogya (7.19) says: 'When one has śraddhā, one meditates; without śraddhā, one does not meditate.' These three form a <strong>spiritual triangle</strong>: tapas provides the energy, brahmacharya provides the discipline, and śraddhā provides the direction. Together, they make the human life a <em>preparation</em> for higher attainment in future lives."
       }
     ]
   },
@@ -215,6 +310,16 @@
         "e": "with two mātrās"
       },
       {
+        "s": "मनसि",
+        "h": "मन में / मानस में",
+        "e": "in the mind"
+      },
+      {
+        "s": "सम्पद्यते",
+        "h": "सम्पन्न होता है / प्राप्त करता है",
+        "e": "is accomplished / attains"
+      },
+      {
         "s": "अन्तरिक्षम्",
         "h": "अन्तरिक्ष / मध्यलोक / आकाश",
         "e": "the mid-region"
@@ -223,6 +328,11 @@
         "s": "यजुर्भिः",
         "h": "यजुर्वेद के मन्त्रों द्वारा",
         "e": "by the Yajur Vedic formulae"
+      },
+      {
+        "s": "उन्नीयते",
+        "h": "ऊपर ले जाया जाता है / उन्नत किया जाता है",
+        "e": "is led upward / elevated"
       },
       {
         "s": "सोमलोकम्",
@@ -235,12 +345,17 @@
         "e": "divine glory / majesty"
       },
       {
+        "s": "अनुभूय",
+        "h": "अनुभव करके / भोगकर",
+        "e": "having experienced"
+      },
+      {
         "s": "पुनरावर्तते",
         "h": "पुनः लौटता है / वापस आता है",
         "e": "returns again"
       }
     ],
-    "gr": "<strong>dvi-mātreṇa = A + U</strong>: the first two mātrās of OM. When A and U combine by sandhi, they produce the O-sound. This is a deeper level of meditation than A alone. <strong>soma-loka</strong>: the lunar world — associated with the <em>pitṛyāna</em> (path of the ancestors) described in Prashna 1.9 and Chāndogya 5.10. The meditator on two mātrās reaches the moon-world (a higher realm than earth) but <em>returns</em> (punar āvartate). <strong>punar āvartate — 'returns again'</strong>: the crucial limitation. Two-mātrā meditation is insufficient for liberation. The meditator enjoys divine glory (vibhūti) in the soma-loka but eventually exhausts the merit and returns to the cycle of birth-death-rebirth. This echoes the Bhagavad Gītā (9.21): 'Having enjoyed the vast heavenly world, they return to the mortal realm when their merit is exhausted.' <strong>yajurbhiḥ</strong>: the Yajur Veda 'conducts' the meditator upward, just as the Ṛg Veda conducted the one-mātrā meditator to earth. The association is: Ṛg = earth, Yajur = mid-region, Sāma = heaven.",
+    "gr": "<strong>व्याकरण:</strong> 'द्वि-मात्रेण मनसि सम्पद्यते' — दो मात्राओं (अ + उ) से मन में ध्यान सम्पन्न करे; संस्कृत सन्धि में अ + उ = ओ (गुण-सन्धि)। 'अन्तरिक्षं यजुर्भिः उन्नीयते सोमलोकम्' — यजुर्वेद के मन्त्रों द्वारा अन्तरिक्ष (मध्यलोक) में ऊपर ले जाया जाता है, सोम-लोक (चन्द्र-लोक) को; 'उन्नीयते' = √नी + उत् (ऊपर ले जाना) का कर्मणि वर्तमान। 'सोमलोके विभूतिम् अनुभूय' — सोम-लोक में विभूति (दिव्य ऐश्वर्य) का अनुभव करके; 'अनुभूय' = √भू + अनु का ल्यबन्त। 'पुनः आवर्तते' — पुनः (फिर) लौटता है; 'आवर्तते' = √वृत् + आ (लौटना) का लट् आत्मनेपद — संसार-चक्र में पुनरागमन। यह पितृयाण मार्ग (path of ancestors) का वर्णन है — शुभ कर्म का फल अस्थायी है।<br><em>Eng:</em> 'dvi-mātreṇa' = with two mātrās (A+U → O by guṇa-sandhi). 'unnīyate' = passive present of √nī + ut — 'is led upward'. 'soma-loka' = lunar world. 'vibhūtim anubhūya' = having experienced divine glory (lyabanta/absolutive). 'punar āvartate' = returns again — the pitṛyāna path; merit is temporary.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -265,11 +380,11 @@
     "dp": [
       {
         "q": "🔍 What is Soma-loka?",
-        "a": "The <strong>soma-loka</strong> (world of the moon / lunar sphere) is one of the most frequently mentioned celestial destinations in the Upanishads: <strong>Cosmological location</strong>: in Vedic cosmology, the soma-loka is the <em>mid-region</em> (antarikṣa) between earth (bhūḥ) and heaven (svaḥ). The moon (Soma/Candra) presides over this realm. It is higher than the earth but lower than the sun (sūrya-loka / brahma-loka). <strong>Who goes there?</strong> Those who follow the <em>pitṛyāna</em> ('path of the ancestors'): people who have performed good karma — rituals, charity, public service — but have not attained the liberating knowledge of Brahman. In the Prashna's framework, those who meditate on two mātrās of OM. <strong>What happens there?</strong> The soul enjoys the <em>vibhūti</em> (divine glory) accumulated through its good deeds. This enjoyment is real but <em>finite</em> — it lasts only as long as the accumulated merit (puṇya) lasts. <strong>The return</strong>: when the merit is exhausted, the soul 'returns' (punar āvartate) — it descends through rain, enters food, enters a new body, and is reborn. This process is described in detail in Chāndogya 5.10.5-6: 'From the ether (ākāśa) they pass to air (vāyu), from air to rain (varṣa), from rain to earth (pṛthivī), from earth to food (anna), from food to semen (retas), from semen to a new body.' <strong>The lesson</strong>: the soma-loka is <em>good</em> but not <em>ultimate</em>. It is a temporary reward, not liberation. Only the three-mātrā meditation (the full OM with silence) leads to non-return."
+        "a": "<strong>सोम-लोक</strong> (चन्द्र-लोक) उपनिषदों में सबसे अधिक उल्लिखित दिव्य गन्तव्यों में से एक है: <strong>ब्रह्माण्डीय स्थिति</strong>: वैदिक ब्रह्माण्ड-विद्या में सोम-लोक पृथ्वी (भूः) और स्वर्ग (स्वः) के बीच का मध्य-लोक (अन्तरिक्ष) है। चन्द्रमा (सोम/चन्द्र) इस लोक के अधिष्ठाता हैं। पृथ्वी से ऊँचा किन्तु सूर्य-लोक (ब्रह्म-लोक) से नीचा। <strong>कौन जाता है?</strong> पितृयाण ('पितरों का मार्ग') के अनुयायी — जिन्होंने शुभ कर्म (यज्ञ, दान, लोकसेवा) किए हैं किन्तु ब्रह्म-ज्ञान प्राप्त नहीं किया। प्रश्नोपनिषद् के अनुसार, दो मात्राओं से ध्यान करने वाले। <strong>वहाँ क्या होता है?</strong> आत्मा शुभ कर्मों से संचित विभूति (दिव्य ऐश्वर्य) का भोग करती है — वास्तविक किन्तु <em>सीमित</em>। <strong>लौटना</strong>: पुण्य समाप्त होने पर आत्मा 'लौटती' है (पुनरावर्तते) — आकाश से वायु, वायु से वर्षा, वर्षा से पृथ्वी, पृथ्वी से अन्न, अन्न से रेतस्, रेतस् से नवीन शरीर (छान्दोग्य 5.10.5-6)। <strong>शिक्षा</strong>: सोम-लोक अच्छा है किन्तु अन्तिम नहीं — अस्थायी पुरस्कार, मोक्ष नहीं। केवल त्रि-मात्रा ध्यान (सम्पूर्ण ॐ + मौन) ही अपुनरावृत्ति (non-return) का मार्ग है।<br><br><em>Eng:</em> The <strong>soma-loka</strong> (world of the moon / lunar sphere) is one of the most frequently mentioned celestial destinations in the Upanishads: <strong>Cosmological location</strong>: in Vedic cosmology, the soma-loka is the <em>mid-region</em> (antarikṣa) between earth (bhūḥ) and heaven (svaḥ). The moon (Soma/Candra) presides over this realm. It is higher than the earth but lower than the sun (sūrya-loka / brahma-loka). <strong>Who goes there?</strong> Those who follow the <em>pitṛyāna</em> ('path of the ancestors'): people who have performed good karma — rituals, charity, public service — but have not attained the liberating knowledge of Brahman. In the Prashna's framework, those who meditate on two mātrās of OM. <strong>What happens there?</strong> The soul enjoys the <em>vibhūti</em> (divine glory) accumulated through its good deeds. This enjoyment is real but <em>finite</em> — it lasts only as long as the accumulated merit (puṇya) lasts. <strong>The return</strong>: when the merit is exhausted, the soul 'returns' (punar āvartate) — it descends through rain, enters food, enters a new body, and is reborn. This process is described in detail in Chāndogya 5.10.5-6: 'From the ether (ākāśa) they pass to air (vāyu), from air to rain (varṣa), from rain to earth (pṛthivī), from earth to food (anna), from food to semen (retas), from semen to a new body.' <strong>The lesson</strong>: the soma-loka is <em>good</em> but not <em>ultimate</em>. It is a temporary reward, not liberation. Only the three-mātrā meditation (the full OM with silence) leads to non-return."
       },
       {
         "q": "🔍 Why 'punar āvartate' (returns again)?",
-        "a": "The phrase <strong>punar āvartate</strong> ('returns again') is one of the most significant in Upanishadic soteriology. It marks the <strong>boundary between temporary attainment and permanent liberation</strong>: <strong>The problem of return</strong>: in the Vedic worldview, even the highest heavenly worlds are <em>temporary</em>. Good karma takes you up; when the karma is exhausted, you come back down. The Bhagavad Gītā (8.16) states this definitively: 'From the world of Brahmā downward, all worlds are subject to return, O Arjuna. But having attained Me, there is no rebirth.' <strong>Why does the two-mātrā meditator return?</strong> Because two-mātrā meditation reaches <em>apara Brahman</em> (the conditioned, qualified Brahman) — a realm of glory and power, but still within the domain of creation. Anything within creation is subject to time, change, and dissolution. Only <em>para Brahman</em> (the unconditioned Absolute) is beyond time — and reaching it requires the complete three-mātrā meditation with the understanding of silence. <strong>The hierarchy of non-return</strong>: (1) One mātrā → earth (manuṣya-loka) → returns quickly. (2) Two mātrās → moon (soma-loka) → returns after enjoying vibhūti. (3) Three mātrās → sun (brahma-loka) → does NOT return (described in next mantra). <strong>The practical implication</strong>: partial practice yields partial results. The Upanishad is not discouraging partial practice — even one mātrā yields an elevated rebirth — but it is encouraging the aspirant to go all the way. The full syllable, fully understood, is the only path to non-return."
+        "a": "'<strong>पुनरावर्तते</strong>' (पुनः लौटता है) उपनिषदीय मोक्ष-शास्त्र (soteriology) के सबसे महत्त्वपूर्ण पदों में से एक है — यह <strong>अस्थायी प्राप्ति और स्थायी मुक्ति के बीच की सीमा-रेखा</strong> अंकित करता है: <strong>लौटने की समस्या</strong>: वैदिक दृष्टि में उच्चतम स्वर्गीय लोक भी अस्थायी हैं — शुभ कर्म ऊपर ले जाता है, कर्म-क्षय पर नीचे लौटना पड़ता है। गीता (8.16): 'ब्रह्म-लोक से नीचे सभी लोक पुनरावर्ती हैं।' <strong>द्वि-मात्रा साधक क्यों लौटता है?</strong> क्योंकि द्वि-मात्रा ध्यान अपर ब्रह्म (सगुण, सविशेष) तक पहुँचता है — ऐश्वर्य और शक्ति का लोक, किन्तु सृष्टि के भीतर। सृष्टि के भीतर जो कुछ भी है, वह काल, परिवर्तन और विलय के अधीन है। केवल पर ब्रह्म (निर्गुण) ही काल से परे है — और उस तक पहुँचने के लिए सम्पूर्ण त्रि-मात्रा ध्यान + मौन की समझ आवश्यक है। <strong>अपुनरावृत्ति का क्रम</strong>: एक मात्रा → पृथ्वी — शीघ्र लौटना; दो मात्राएँ → चन्द्र-लोक — विभूति-भोग के बाद लौटना; तीन मात्राएँ → ब्रह्म-लोक — लौटना नहीं (अगला मन्त्र)। <strong>व्यावहारिक सन्देश</strong>: आंशिक साधना → आंशिक फल। उपनिषद् आंशिक साधना को हतोत्साहित नहीं करता — एक मात्रा भी उन्नत पुनर्जन्म देती है — किन्तु पूर्ण साधना को प्रोत्साहित करता है।<br><br><em>Eng:</em> The phrase <strong>punar āvartate</strong> ('returns again') is one of the most significant in Upanishadic soteriology. It marks the <strong>boundary between temporary attainment and permanent liberation</strong>: <strong>The problem of return</strong>: in the Vedic worldview, even the highest heavenly worlds are <em>temporary</em>. Good karma takes you up; when the karma is exhausted, you come back down. The Bhagavad Gītā (8.16) states this definitively: 'From the world of Brahmā downward, all worlds are subject to return, O Arjuna. But having attained Me, there is no rebirth.' <strong>Why does the two-mātrā meditator return?</strong> Because two-mātrā meditation reaches <em>apara Brahman</em> (the conditioned, qualified Brahman) — a realm of glory and power, but still within the domain of creation. Anything within creation is subject to time, change, and dissolution. Only <em>para Brahman</em> (the unconditioned Absolute) is beyond time — and reaching it requires the complete three-mātrā meditation with the understanding of silence. <strong>The hierarchy of non-return</strong>: (1) One mātrā → earth (manuṣya-loka) → returns quickly. (2) Two mātrās → moon (soma-loka) → returns after enjoying vibhūti. (3) Three mātrās → sun (brahma-loka) → does NOT return (described in next mantra). <strong>The practical implication</strong>: partial practice yields partial results. The Upanishad is not discouraging partial practice — even one mātrā yields an elevated rebirth — but it is encouraging the aspirant to go all the way. The full syllable, fully understood, is the only path to non-return."
       }
     ]
   },
@@ -286,9 +401,19 @@
         "e": "with three mātrās"
       },
       {
+        "s": "अक्षरेण",
+        "h": "अक्षर से / अविनाशी ध्वनि से",
+        "e": "by the syllable / the imperishable"
+      },
+      {
         "s": "परं पुरुषम्",
         "h": "पर पुरुष / सर्वोच्च पुरुष / परमात्मा",
         "e": "the Supreme Person"
+      },
+      {
+        "s": "तेजसि सूर्ये",
+        "h": "तेज (प्रकाश) में, सूर्य में",
+        "e": "in the light, in the sun"
       },
       {
         "s": "पादोदरः",
@@ -297,12 +422,27 @@
       },
       {
         "s": "त्वचा विनिर्मुच्यते",
-        "h": "त्वचा (केंचुली) से छूट जाता है / मुक्त हो जाता है",
+        "h": "त्वचा (केंचुली) से छूट जाता है",
         "e": "is freed from the skin"
       },
       {
+        "s": "पाप्मना विनिर्मुक्तः",
+        "h": "पाप से मुक्त / पाप-रहित",
+        "e": "freed from sin"
+      },
+      {
+        "s": "सामभिः",
+        "h": "सामवेद के मन्त्रों द्वारा",
+        "e": "by the Sāma Vedic hymns"
+      },
+      {
+        "s": "ब्रह्मलोकम्",
+        "h": "ब्रह्म-लोक / ब्रह्मा का लोक",
+        "e": "the world of Brahman"
+      },
+      {
         "s": "जीवघनात्",
-        "h": "जीवों के समूह/घन से / शरीर-बद्ध जीवों के सम्मिलन से",
+        "h": "जीवों के समूह/घन से / शरीर-बद्ध जीवों से",
         "e": "from the mass of living beings"
       },
       {
@@ -312,11 +452,16 @@
       },
       {
         "s": "पुरिशयम्",
-        "h": "पुर (शरीर-नगर) में शयन करने वाला / निवास करने वाला",
-        "e": "dwelling in the city"
+        "h": "पुर (शरीर-नगर) में शयन करने वाला",
+        "e": "dwelling in the city (body)"
+      },
+      {
+        "s": "ईक्षते",
+        "h": "देखता है / दर्शन करता है",
+        "e": "sees / perceives"
       }
     ],
-    "gr": "<strong>tri-mātreṇa = A + U + M</strong>: the complete OM — all three mātrās meditated upon as one syllable directed toward the Supreme Person (para puruṣa). This is the deepest level of meditation. <strong>The snake-skin simile</strong>: <em>pādodaraḥ tvacā vinirmucyate</em> — 'as a snake is freed from its skin'. The snake doesn't fight its old skin — it simply grows beyond it, and the old skin falls away. Similarly, the three-mātrā meditator doesn't 'fight' sin — he grows beyond it, and sin falls away naturally. <strong>sāmabhiḥ unnīyate brahma-lokam</strong> — 'led by Sāma hymns to brahma-loka': completing the Vedic correspondence — A/Ṛg/earth, U/Yajur/antarikṣa, M/Sāma/brahma-loka. The Sāma Veda, associated with chanting and melody, leads to the highest realm. <strong>jīva-ghanāt parāt-paraṁ puriśayaṁ puruṣam īkṣate</strong> — 'from the mass of jīvas, he sees the Supreme Person who dwells in the city': the culminating vision. The liberated one rises above the aggregate of embodied souls and perceives the <em>parāt-para puruṣa</em> — the Supreme beyond the supreme — who dwells in the 'city' (pura = body). <strong>puriśaya</strong> = 'city-dweller' — an etymology of 'puruṣa' (puri + śaya = one who lies in the city/body).",
+    "gr": "<strong>व्याकरण:</strong> 'त्रि-मात्रेण ओम् इति एतेन अक्षरेण परं पुरुषम् अभिध्यायीत' — तीनों मात्राओं (अ+उ+म) से, इस अक्षर (OM) से, पर पुरुष (Supreme Person) का ध्यान करे। 'तेजसि सूर्ये सम्पन्नः' — तेज (प्रकाश) में, सूर्य में सम्पन्न (united/established)। 'यथा पादोदरः त्वचा विनिर्मुच्यते' — जैसे साँप (पादोदर = पाद + उदर, 'पेट से चलने वाला') अपनी त्वचा (केंचुली) से मुक्त होता है; 'विनिर्मुच्यते' = √मुच् + वि + निर् (पूर्ण मुक्ति) कर्मणि। 'पाप्मना विनिर्मुक्तः' — पाप से सम्पूर्ण मुक्त। 'सामभिः उन्नीयते ब्रह्मलोकम्' — सामवेद द्वारा ब्रह्म-लोक को। 'जीवघनात् परात्परं पुरिशयं पुरुषम् ईक्षते' — जीव-घन (जीवों के समूह) से ऊपर उठकर परात्पर (par + āt + para = परम से भी परम) पुरिशय (पुरि + शय = शरीर-नगर में निवास करने वाला — यह 'पुरुष' शब्द की व्युत्पत्ति है) पुरुष को देखता (ईक्षते = √ईक्ष्, दर्शन करना) है।<br><em>Eng:</em> 'tri-mātreṇa' = with all three mātrās. 'pādodaraḥ' = snake (pāda+udara, 'belly-footed'). 'tvacā vinirmucyate' = freed from the skin — passive of √muc. 'jīva-ghanāt' = from the mass of jīvas. 'parāt-param' = supreme beyond the supreme. 'puriśayam' = dwelling in the city (puri+śaya) — an etymology of 'puruṣa'. 'īkṣate' = sees (√īkṣ).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -341,11 +486,11 @@
     "dp": [
       {
         "q": "🔍 The snake-skin simile for liberation",
-        "a": "The <strong>snake-skin simile</strong> (pādodara-upamā) is one of the most elegant images for liberation in the Upanishads: <strong>The image</strong>: a snake (pādodara, literally 'belly-footed') naturally sheds its old skin as it grows. The old skin doesn't need to be 'fought' or 'destroyed' — the snake simply outgrows it, and it falls away. The new snake emerges clean, glistening, renewed. <strong>The application</strong>: the meditator who practises the full three-mātrā OM doesn't need to 'fight' sin (pāpman). Through deep meditation, he <em>outgrows</em> sin — the old karmic residue falls away naturally, like the old skin. This is significant because it presents liberation not as a <em>battle</em> but as a <em>natural growth process</em>. You don't defeat sin; you transcend it. <strong>Why a snake?</strong> The snake is a powerful symbol in Indian tradition: (1) It <em>renews</em> itself — shedding skin suggests immortality (the snake appears to be 'reborn'). (2) It is <em>close to the earth</em> — the 'belly-footed' creature represents the soul bound to the material world. (3) The shedding is <em>complete</em> — the old skin comes off in one piece, leaving nothing behind. Similarly, liberation is total — not partial cleaning but complete freedom. <strong>Other Upanishadic occurrences</strong>: The Chāndogya (5.10.10) uses the same image in the context of the devayāna path, and the Bṛhadāraṇyaka (4.4.7) uses a similar image of the Self shedding the body at death."
+        "a": "साँप-केंचुली उपमा (पादोदर-उपमा) मुक्ति के लिए उपनिषदों की सबसे सुन्दर छवियों में से एक है: <strong>छवि</strong>: साँप (पादोदर, 'पेट से चलने वाला') बढ़ते हुए स्वाभाविक रूप से अपनी पुरानी त्वचा (केंचुली) उतार देता है — पुरानी त्वचा से 'लड़ने' या 'नष्ट करने' की आवश्यकता नहीं — साँप बस उससे बड़ा हो जाता है, और वह अपने-आप गिर जाती है। नया साँप स्वच्छ, चमकदार, नवीकृत निकलता है। <strong>प्रयोग</strong>: सम्पूर्ण त्रि-मात्रा ॐ का साधक पाप (पाप्मन्) से 'लड़ता' नहीं — गहन ध्यान से वह पाप से <em>बड़ा हो जाता है</em> — पुराना कार्मिक अवशेष स्वाभाविक रूप से गिर जाता है, जैसे पुरानी केंचुली। यह महत्त्वपूर्ण है क्योंकि मुक्ति को <em>युद्ध</em> नहीं बल्कि <em>स्वाभाविक विकास-प्रक्रिया</em> के रूप में प्रस्तुत करता है। <strong>साँप क्यों?</strong> (1) <em>नवीकरण</em> — केंचुली-मोचन 'पुनर्जन्म' का प्रतीक। (2) <em>पृथ्वी से निकटता</em> — 'पेट से चलने वाला' प्राणी भौतिक जगत् से बँधी आत्मा का प्रतीक। (3) <em>पूर्ण मुक्ति</em> — पुरानी त्वचा एक ही टुकड़े में उतरती है — मुक्ति भी सम्पूर्ण है, आंशिक शुद्धि नहीं।<br><br><em>Eng:</em> The <strong>snake-skin simile</strong> (pādodara-upamā) is one of the most elegant images for liberation in the Upanishads: <strong>The image</strong>: a snake (pādodara, literally 'belly-footed') naturally sheds its old skin as it grows. The old skin doesn't need to be 'fought' or 'destroyed' — the snake simply outgrows it, and it falls away. The new snake emerges clean, glistening, renewed. <strong>The application</strong>: the meditator who practises the full three-mātrā OM doesn't need to 'fight' sin (pāpman). Through deep meditation, he <em>outgrows</em> sin — the old karmic residue falls away naturally, like the old skin. This is significant because it presents liberation not as a <em>battle</em> but as a <em>natural growth process</em>. You don't defeat sin; you transcend it. <strong>Why a snake?</strong> The snake is a powerful symbol in Indian tradition: (1) It <em>renews</em> itself — shedding skin suggests immortality (the snake appears to be 'reborn'). (2) It is <em>close to the earth</em> — the 'belly-footed' creature represents the soul bound to the material world. (3) The shedding is <em>complete</em> — the old skin comes off in one piece, leaving nothing behind. Similarly, liberation is total — not partial cleaning but complete freedom. <strong>Other Upanishadic occurrences</strong>: The Chāndogya (5.10.10) uses the same image in the context of the devayāna path, and the Bṛhadāraṇyaka (4.4.7) uses a similar image of the Self shedding the body at death."
       },
       {
         "q": "🔍 Brahma-loka and the hierarchy of destinations",
-        "a": "The Prashna Upanishad establishes a clear <strong>three-tier hierarchy of destinations</strong> based on the depth of OM-meditation: <strong>Tier 1: Manuṣya-loka (world of men)</strong> — attained by <em>one-mātrā</em> (A) meditation. The meditator returns to earth quickly, reborn with spiritual qualities (tapas, brahmacharya, śraddhā). This is a <em>good</em> human life but still within saṁsāra. Associated with the Ṛg Veda. <strong>Tier 2: Soma-loka (world of the moon)</strong> — attained by <em>two-mātrā</em> (A+U) meditation. The meditator experiences divine glory (vibhūti) in the lunar sphere but <em>returns</em> (punar āvartate) when the merit is exhausted. This corresponds to the pitṛyāna (path of the ancestors). Associated with the Yajur Veda. <strong>Tier 3: Brahma-loka (world of Brahman)</strong> — attained by <em>three-mātrā</em> (A+U+M) meditation. The meditator is freed from sin (pāpman), reaches the solar sphere, and sees the Supreme Person (parāt-para puruṣa). From brahma-loka there is <em>no return</em>. This corresponds to the devayāna (path of the gods). Associated with the Sāma Veda. <strong>Is brahma-loka the same as liberation?</strong> There are two views: (1) <em>Krama-mukti</em> (gradual liberation): the soul reaches brahma-loka and attains final liberation there at the end of the cosmic cycle (pralaya), without returning to earth. This is Rāmānuja's view. (2) <em>Sadyo-mukti</em> (immediate liberation): the three-mātrā meditation, when combined with true knowledge (jñāna), leads directly to liberation, with brahma-loka being a metaphor for the liberated state. This is Shankara's preferred interpretation for the fully enlightened."
+        "a": "प्रश्नोपनिषद् ॐ-ध्यान की गहराई के आधार पर <strong>गन्तव्यों का स्पष्ट तीन-स्तरीय क्रम</strong> स्थापित करता है: <strong>स्तर 1: मनुष्य-लोक</strong> — <em>एक-मात्रा</em> (अ) ध्यान से। साधक शीघ्र पृथ्वी पर लौटता है, आध्यात्मिक गुणों (तप, ब्रह्मचर्य, श्रद्धा) से सम्पन्न। ऋग्वेद से सम्बद्ध। <strong>स्तर 2: सोम-लोक</strong> — <em>द्वि-मात्रा</em> (अ+उ) ध्यान से। दिव्य विभूति का अनुभव किन्तु पुण्य-क्षय पर <em>लौटना</em> (पुनरावर्तते)। पितृयाण मार्ग। यजुर्वेद से सम्बद्ध। <strong>स्तर 3: ब्रह्म-लोक</strong> — <em>त्रि-मात्रा</em> (अ+उ+म) ध्यान से। पाप से मुक्ति, सूर्य-मण्डल में स्थिति, परात्पर पुरुष का दर्शन। <em>लौटना नहीं</em>। देवयाण मार्ग। सामवेद से सम्बद्ध। <strong>क्या ब्रह्म-लोक = मोक्ष?</strong> दो मत: (1) <em>क्रम-मुक्ति</em> — आत्मा ब्रह्म-लोक पहुँचकर ब्रह्माण्ड-प्रलय पर अन्तिम मुक्ति प्राप्त करती है (रामानुज)। (2) <em>सद्यो-मुक्ति</em> — त्रि-मात्रा ध्यान + ज्ञान से सीधे मोक्ष; ब्रह्म-लोक मुक्त अवस्था का रूपक (शंकर)।<br><br><em>Eng:</em> The Prashna Upanishad establishes a clear <strong>three-tier hierarchy of destinations</strong> based on the depth of OM-meditation: <strong>Tier 1: Manuṣya-loka (world of men)</strong> — attained by <em>one-mātrā</em> (A) meditation. The meditator returns to earth quickly, reborn with spiritual qualities (tapas, brahmacharya, śraddhā). This is a <em>good</em> human life but still within saṁsāra. Associated with the Ṛg Veda. <strong>Tier 2: Soma-loka (world of the moon)</strong> — attained by <em>two-mātrā</em> (A+U) meditation. The meditator experiences divine glory (vibhūti) in the lunar sphere but <em>returns</em> (punar āvartate) when the merit is exhausted. This corresponds to the pitṛyāna (path of the ancestors). Associated with the Yajur Veda. <strong>Tier 3: Brahma-loka (world of Brahman)</strong> — attained by <em>three-mātrā</em> (A+U+M) meditation. The meditator is freed from sin (pāpman), reaches the solar sphere, and sees the Supreme Person (parāt-para puruṣa). From brahma-loka there is <em>no return</em>. This corresponds to the devayāna (path of the gods). Associated with the Sāma Veda. <strong>Is brahma-loka the same as liberation?</strong> There are two views: (1) <em>Krama-mukti</em> (gradual liberation): the soul reaches brahma-loka and attains final liberation there at the end of the cosmic cycle (pralaya), without returning to earth. This is Rāmānuja's view. (2) <em>Sadyo-mukti</em> (immediate liberation): the three-mātrā meditation, when combined with true knowledge (jñāna), leads directly to liberation, with brahma-loka being a metaphor for the liberated state. This is Shankara's preferred interpretation for the fully enlightened."
       }
     ]
   },
@@ -357,9 +502,19 @@
     "en": "The three mātrās, when employed separately, are subject to death (mṛtyu-matyaḥ). But when joined together — mutually connected (anyonya-saktāḥ) and unseparated (anaviprayuktāḥ) — and rightly employed (samyak prayuktāsu) in the three activities — external (bāhya), internal (abhyantara), and intermediate (madhyama) — then the knower (jña) is not shaken (na kampate).",
     "ws": [
       {
+        "s": "तिस्रः मात्राः",
+        "h": "तीन मात्राएँ / अ-उ-म",
+        "e": "the three mātrās"
+      },
+      {
         "s": "मृत्युमत्यः",
         "h": "मृत्यु-संयुक्त / मृत्यु के अधीन",
         "e": "subject to death"
+      },
+      {
+        "s": "प्रयुक्ताः",
+        "h": "प्रयुक्त / प्रयोग की गई",
+        "e": "employed / used"
       },
       {
         "s": "अन्योन्यसक्ताः",
@@ -369,20 +524,35 @@
       {
         "s": "अनविप्रयुक्ताः",
         "h": "अविच्छिन्न / पृथक् न की गई",
-        "e": "not separated"
+        "e": "not separated / unseparated"
+      },
+      {
+        "s": "क्रियासु",
+        "h": "क्रियाओं में / कर्मों में",
+        "e": "in activities / actions"
       },
       {
         "s": "बाह्याभ्यन्तरमध्यमासु",
         "h": "बाह्य, आभ्यन्तर और मध्यम (क्रियाओं) में",
-        "e": "in the external, internal, and intermediate activities"
+        "e": "in external, internal, and intermediate activities"
       },
       {
-        "s": "न कम्पते ज्ञः",
-        "h": "ज्ञानी कम्पित (विचलित) नहीं होता",
-        "e": "the knower is not shaken"
+        "s": "सम्यक्प्रयुक्तासु",
+        "h": "सम्यक् (ठीक से) प्रयुक्त होने पर",
+        "e": "when rightly employed"
+      },
+      {
+        "s": "न कम्पते",
+        "h": "कम्पित (विचलित) नहीं होता",
+        "e": "is not shaken"
+      },
+      {
+        "s": "ज्ञः",
+        "h": "ज्ञानी / जानने वाला",
+        "e": "the knower"
       }
     ],
-    "gr": "<strong>mṛtyu-matyaḥ prayuktāḥ</strong> — 'when employed separately, subject to death': if A, U, and M are meditated upon individually (as in mantras 3-5), the results are mortal — rebirth on earth (A) or in soma-loka (A+U). Only the <em>complete, unified</em> OM leads beyond death. <strong>anyonya-saktāḥ anaviprayuktāḥ</strong> — 'mutually connected and unseparated': the three mātrās must be understood as <em>one indivisible whole</em>, not three separate components. This echoes the Māṇḍūkya's treatment: A, U, M are not three syllables but three 'feet' (pāda) of one reality. <strong>bāhya-abhyantara-madhyama</strong> — three domains of practice: (1) <em>bāhya</em> (external) = Vedic recitation (uccāraṇa), physical posture, ritual; (2) <em>abhyantara</em> (internal) = mental meditation, contemplation; (3) <em>madhyama</em> (intermediate) = prāṇāyāma, breath-regulation — which bridges the physical and the mental. <strong>na kampate jñaḥ</strong> — 'the knower is not shaken': the culminating statement. When OM is practised as a unified whole across all three domains, the knower becomes <em>acala</em> (immovable) — established in Brahman, undisturbed by life's changes.",
+    "gr": "<strong>व्याकरण:</strong> 'तिस्रः मात्राः मृत्युमत्यः प्रयुक्ताः' — तीन मात्राएँ, जब पृथक्-पृथक् प्रयुक्त (employed) हों, तो मृत्यु-मत्यः (मृत्यु + मतुप् = मृत्यु से युक्त / मृत्यु के अधीन) हैं। 'अन्योन्यसक्ताः अनविप्रयुक्ताः' — अन्योन्य (परस्पर) + सक्ताः (जुड़ी हुई) और अन् + वि + प्रयुक्ताः (पृथक् न की गई) — जब तीनों एक अखण्ड ओंकार के रूप में ध्यान की जाएँ। 'क्रियासु बाह्य-आभ्यन्तर-मध्यमासु' — तीन प्रकार की क्रियाओं में: बाह्य (external = वैदिक उच्चारण, शारीरिक अभ्यास), आभ्यन्तर (internal = मानसिक ध्यान, चिन्तन), मध्यम (intermediate = प्राणायाम, श्वास-नियमन — शरीर और मन का सेतु)। 'सम्यक् प्रयुक्तासु' — सम्यक् (ठीक से / पूर्णतः) प्रयुक्त होने पर। 'न कम्पते ज्ञः' — ज्ञ (ज्ञानी, √ज्ञा से) कम्पित (विचलित) नहीं होता — ब्रह्म में स्थिर हो जाता है।<br><em>Eng:</em> 'mṛtyu-matyaḥ' = possessing death (matup suffix) — subject to death when used separately. 'anyonya-saktāḥ' = mutually attached. 'anaviprayuktāḥ' = not separated. 'bāhya-abhyantara-madhyama' = external (recitation), internal (contemplation), intermediate (prāṇāyāma). 'na kampate jñaḥ' = the knower is not shaken — established in Brahman.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -407,11 +577,11 @@
     "dp": [
       {
         "q": "🔍 Why is separate meditation 'subject to death'?",
-        "a": "The phrase <strong>mṛtyu-matyaḥ prayuktāḥ</strong> ('when employed separately, subject to death') teaches a crucial lesson about the nature of spiritual practice: <strong>The principle</strong>: partial practice yields partial results — and all partial results are temporary (mortal). Only <em>complete</em> practice yields complete results (liberation from death). <strong>Why?</strong> When A is meditated upon alone, the meditator connects with one level of reality (the physical/earth). When A+U are meditated upon, the meditator connects with two levels (physical + subtle/moon). But reality is not fragmented — Brahman is an <em>indivisible whole</em>. To connect with reality as it truly is, one must meditate on the <em>whole</em> OM — all three mātrās plus the silence. A fragmented meditation connects with a fragmented reality — and any fragment of reality is within creation, within time, within death. <strong>The three domains</strong>: the verse also insists that OM be 'rightly employed' (samyak prayuktāsu) in three domains: (1) <em>Bāhya</em> (external) — physical chanting, ritual, posture. The body participates. (2) <em>Abhyantara</em> (internal) — mental contemplation, understanding the meaning, meditating on Brahman. The mind participates. (3) <em>Madhyama</em> (intermediate) — breath-regulation (prāṇāyāma), linking body and mind. The vital breath participates. When all three domains are unified under one practice — the knower (jña) 'is not shaken' (na kampate). This is the Upanishadic equivalent of <em>integral practice</em> — body, breath, and mind working together."
+        "a": "'<strong>मृत्युमत्यः प्रयुक्ताः</strong>' (पृथक् प्रयुक्त होने पर मृत्यु के अधीन) — यह आध्यात्मिक साधना की प्रकृति का महत्त्वपूर्ण पाठ है: <strong>सिद्धान्त</strong>: आंशिक साधना → आंशिक फल — और सभी आंशिक फल अस्थायी (मर्त्य) हैं। केवल <em>पूर्ण</em> साधना ही पूर्ण फल (मृत्यु से मुक्ति) देती है। <strong>क्यों?</strong> जब अ का पृथक् ध्यान हो, तो साधक सत्ता के एक स्तर (भौतिक/पृथ्वी) से जुड़ता है। जब अ+उ हो, तो दो स्तरों (भौतिक + सूक्ष्म) से। किन्तु सत्ता खण्डित नहीं — ब्रह्म <em>अखण्ड समग्रता</em> है। सत्ता से यथार्थ रूप में जुड़ने के लिए <em>सम्पूर्ण</em> ॐ — तीनों मात्राएँ + मौन — का ध्यान आवश्यक। खण्डित ध्यान → खण्डित सत्ता से जुड़ाव — और सत्ता का कोई भी खण्ड सृष्टि, काल, मृत्यु के भीतर है। <strong>तीन क्षेत्र</strong>: बाह्य (external) = वैदिक उच्चारण, शारीरिक अभ्यास — शरीर भाग लेता है; आभ्यन्तर (internal) = मानसिक ध्यान, चिन्तन — मन भाग लेता है; मध्यम (intermediate) = प्राणायाम, श्वास-नियमन — शरीर-मन का सेतु। तीनों क्षेत्रों में एकीकृत अभ्यास = ज्ञानी 'विचलित नहीं होता' (न कम्पते)। यह उपनिषदीय <em>समग्र साधना</em> (integral practice) है — शरीर, श्वास, मन एक साथ।<br><br><em>Eng:</em> The phrase <strong>mṛtyu-matyaḥ prayuktāḥ</strong> ('when employed separately, subject to death') teaches a crucial lesson about the nature of spiritual practice: <strong>The principle</strong>: partial practice yields partial results — and all partial results are temporary (mortal). Only <em>complete</em> practice yields complete results (liberation from death). <strong>Why?</strong> When A is meditated upon alone, the meditator connects with one level of reality (the physical/earth). When A+U are meditated upon, the meditator connects with two levels (physical + subtle/moon). But reality is not fragmented — Brahman is an <em>indivisible whole</em>. To connect with reality as it truly is, one must meditate on the <em>whole</em> OM — all three mātrās plus the silence. A fragmented meditation connects with a fragmented reality — and any fragment of reality is within creation, within time, within death. <strong>The three domains</strong>: the verse also insists that OM be 'rightly employed' (samyak prayuktāsu) in three domains: (1) <em>Bāhya</em> (external) — physical chanting, ritual, posture. The body participates. (2) <em>Abhyantara</em> (internal) — mental contemplation, understanding the meaning, meditating on Brahman. The mind participates. (3) <em>Madhyama</em> (intermediate) — breath-regulation (prāṇāyāma), linking body and mind. The vital breath participates. When all three domains are unified under one practice — the knower (jña) 'is not shaken' (na kampate). This is the Upanishadic equivalent of <em>integral practice</em> — body, breath, and mind working together."
       },
       {
         "q": "🔍 The unshakeable knower (na kampate jñaḥ)",
-        "a": "The image of the <strong>unshakeable knower</strong> (na kampate jñaḥ) represents the culmination of OM-meditation: <strong>What 'shakes' a person?</strong> In ordinary life, a person is shaken by: pleasure and pain (sukha-duḥkha), praise and blame (yaśa-apayaśa), gain and loss (lābha-alābha), birth and death (janma-mṛtyu). These are the 'pairs of opposites' (dvandva) that keep consciousness oscillating. <strong>What makes the knower unshakeable?</strong> The complete OM-meditation establishes the knower in the <em>ground of all three states</em> — waking (A), dream (U), deep sleep (M), and the silence beyond (turīya). One who is established in the ground cannot be shaken by what happens in any particular state — just as the earth is not shaken by the weather that passes over it. <strong>Parallel concepts</strong>: (1) The Bhagavad Gītā's <em>sthita-prajña</em> (person of steady wisdom, 2.56): 'He whose mind is undisturbed in sorrows and free from desire in pleasures, from whom passion, fear, and anger have departed — he is called a sage of steady wisdom.' (2) The Kaṭha's (2.3.1) <em>aśvattha-vṛkṣa</em> (eternal fig tree) rooted in Brahman — unshakeable because its root is the Absolute. (3) The Yogic <em>samādhi</em> — the state where consciousness is so firmly established in its object that it cannot be disturbed. The 'unshakeable knower' is not stoic or emotionless — he is simply <em>rooted</em>. Events happen, emotions arise, but his centre does not move because his centre is Brahman."
+        "a": "<strong>अकम्प ज्ञानी</strong> (न कम्पते ज्ञः) की छवि ॐ-ध्यान की पराकाष्ठा है: <strong>क्या 'कम्पित' करता है?</strong> सामान्य जीवन में मनुष्य को विचलित करते हैं: सुख-दुःख, यश-अपयश, लाभ-हानि, जन्म-मृत्यु — ये 'द्वन्द्व' (pairs of opposites) चेतना को डोलाते रहते हैं। <strong>ज्ञानी अकम्प क्यों?</strong> सम्पूर्ण ॐ-ध्यान ज्ञानी को <em>तीनों अवस्थाओं के आधार</em> में स्थापित करता है — जागृति (अ), स्वप्न (उ), सुषुप्ति (म), और उनसे परे मौन (तुरीय)। जो आधार में स्थित है, वह किसी विशेष अवस्था की घटनाओं से कम्पित नहीं होता — जैसे पृथ्वी उस पर गुज़रने वाले मौसम से नहीं कँपती। <strong>समानान्तर अवधारणाएँ</strong>: (1) गीता का <em>स्थितप्रज्ञ</em> (2.56): 'दुःखों में जिसका मन अविचलित, सुखों में जो निःस्पृह, राग-भय-क्रोध से मुक्त — वह स्थितप्रज्ञ मुनि है।' (2) कठ (2.3.1) का अश्वत्थ वृक्ष — ब्रह्म में जड़ित — अकम्प। (3) योग का समाधि — चेतना इतनी दृढ़ता से अपने विषय में स्थित कि विचलित न हो सके। अकम्प ज्ञानी भावना-शून्य नहीं — बस <em>जड़ित</em> (rooted) है। घटनाएँ होती हैं, भावनाएँ उठती हैं, किन्तु उसका केन्द्र नहीं हिलता — क्योंकि उसका केन्द्र ब्रह्म है।<br><br><em>Eng:</em> The image of the <strong>unshakeable knower</strong> (na kampate jñaḥ) represents the culmination of OM-meditation: <strong>What 'shakes' a person?</strong> In ordinary life, a person is shaken by: pleasure and pain (sukha-duḥkha), praise and blame (yaśa-apayaśa), gain and loss (lābha-alābha), birth and death (janma-mṛtyu). These are the 'pairs of opposites' (dvandva) that keep consciousness oscillating. <strong>What makes the knower unshakeable?</strong> The complete OM-meditation establishes the knower in the <em>ground of all three states</em> — waking (A), dream (U), deep sleep (M), and the silence beyond (turīya). One who is established in the ground cannot be shaken by what happens in any particular state — just as the earth is not shaken by the weather that passes over it. <strong>Parallel concepts</strong>: (1) The Bhagavad Gītā's <em>sthita-prajña</em> (person of steady wisdom, 2.56): 'He whose mind is undisturbed in sorrows and free from desire in pleasures, from whom passion, fear, and anger have departed — he is called a sage of steady wisdom.' (2) The Kaṭha's (2.3.1) <em>aśvattha-vṛkṣa</em> (eternal fig tree) rooted in Brahman — unshakeable because its root is the Absolute. (3) The Yogic <em>samādhi</em> — the state where consciousness is so firmly established in its object that it cannot be disturbed. The 'unshakeable knower' is not stoic or emotionless — he is simply <em>rooted</em>. Events happen, emotions arise, but his centre does not move because his centre is Brahman."
       }
     ]
   },
@@ -423,9 +593,49 @@
     "en": "By the Ṛg verses — this (earth); by the Yajur verses — the mid-region (antarikṣa); by the Sāma verses — that which the seers (kavayaḥ) know. Through the syllable OM alone — through this support (āyatana) — the knower (vidvān) reaches that which is peaceful (śānta), ageless (ajara), immortal (amṛta), fearless (abhaya), and supreme (para).",
     "ws": [
       {
+        "s": "ऋग्भिः",
+        "h": "ऋचाओं से / ऋग्वेद के मन्त्रों से",
+        "e": "by the Ṛg verses"
+      },
+      {
+        "s": "यजुर्भिः",
+        "h": "यजुर्वेद के मन्त्रों से",
+        "e": "by the Yajur verses"
+      },
+      {
+        "s": "अन्तरिक्षम्",
+        "h": "अन्तरिक्ष / मध्यलोक",
+        "e": "the mid-region"
+      },
+      {
+        "s": "सामभिः",
+        "h": "सामवेद के मन्त्रों से",
+        "e": "by the Sāma verses"
+      },
+      {
         "s": "कवयः",
         "h": "कवि / ऋषि / दार्शनिक मनीषी",
         "e": "the seers / sages"
+      },
+      {
+        "s": "वेदयन्ते",
+        "h": "जानते हैं / अनुभव करते हैं",
+        "e": "know / experience"
+      },
+      {
+        "s": "ओंकारेण",
+        "h": "ओंकार से / ॐ द्वारा",
+        "e": "through OM"
+      },
+      {
+        "s": "आयतनेन",
+        "h": "आश्रय / आधार / माध्यम द्वारा",
+        "e": "by means of this support"
+      },
+      {
+        "s": "विद्वान्",
+        "h": "विद्वान् / ज्ञानी",
+        "e": "the knower / the wise one"
       },
       {
         "s": "शान्तम्",
@@ -453,7 +663,7 @@
         "e": "supreme"
       }
     ],
-    "gr": "<strong>The concluding verse</strong>: this mantra summarises the entire teaching of Question 5. The three Vedas lead to three worlds: Ṛg → earth, Yajur → mid-region, Sāma → that which the seers know (brahma-loka). But <em>OM alone</em> — as the unified āyatana (support) — leads to the <em>ultimate</em> reality. <strong>Five attributes of Brahman</strong>: (1) <em>śānta</em> (peaceful) — beyond all disturbance; (2) <em>ajara</em> (ageless) — beyond time; (3) <em>amṛta</em> (immortal) — beyond death; (4) <em>abhaya</em> (fearless) — beyond all fear; (5) <em>para</em> (supreme) — beyond everything else. This five-fold description is a classic Upanishadic way of describing Brahman by <em>negating</em> the qualities of saṁsāric existence: saṁsāra is agitated → Brahman is śānta; saṁsāra involves aging → Brahman is ajara; saṁsāra ends in death → Brahman is amṛta; saṁsāra is pervaded by fear → Brahman is abhaya; saṁsāra is limited → Brahman is para. <strong>kavayaḥ vedayante</strong> — 'the seers know': Brahman is known not by logical argument or sensory observation but by <em>direct seeing</em> (sākṣātkāra). The kavi is not a philosopher but a <em>seer</em> — one whose inner eye has opened.",
+    "gr": "<strong>व्याकरण:</strong> यह समापन श्लोक है। 'ऋग्भिः एतं, यजुर्भिः अन्तरिक्षं, सामभिः यत् तत्' — ऋचाओं से इस (पृथ्वी) को, यजुर्वेद से अन्तरिक्ष को, सामवेद से जो उस (ब्रह्म-लोक) को; तृतीया विभक्ति बहुवचन (करण कारक)। 'कवयः वेदयन्ते' — कवि (ऋषि/मनीषी) जानते हैं; 'वेदयन्ते' = √विद् (जानना) का ण्यन्त (causative) आत्मनेपद — 'अनुभव से जानते हैं'। 'तम् ओंकारेण एव आयतनेन अन्वेति विद्वान्' — उसे (ब्रह्म को) ओंकार-रूपी आयतन (आश्रय/वाहन) से ही विद्वान् प्राप्त करता है। 'यत् तत् शान्तम् अजरम् अमृतम् अभयं परं च' — जो वह शान्त (निर्विकार), अजर (जरा-रहित), अमृत (मृत्यु-रहित), अभय (भय-रहित), और पर (सर्वोच्च) है — ये ब्रह्म के पाँच विशेषण हैं, प्रत्येक संसारिक दुःख का निषेध: अशान्ति→शान्ति, जरा→अजर, मृत्यु→अमृत, भय→अभय, सीमितता→पर।<br><em>Eng:</em> Concluding verse. 'kavayaḥ vedayante' = the seers know (causative ātmanepada of √vid — know by experience). Five attributes of Brahman: śānta (peaceful), ajara (ageless), amṛta (immortal), abhaya (fearless), para (supreme) — each negates a feature of saṁsāric existence.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -478,11 +688,11 @@
     "dp": [
       {
         "q": "🔍 The five attributes of Brahman in this verse",
-        "a": "The closing verse describes Brahman through <strong>five attributes</strong>, each negating a feature of conditioned existence: <strong>(1) Śānta (शान्त) — Peaceful</strong>: Brahman is beyond all agitation (<em>vikṣepa</em>). In saṁsāra, the mind is constantly disturbed — by desire, aversion, restlessness. Brahman is the source of all peace — not the peace of exhaustion but the peace of <em>fullness</em>. The Māṇḍūkya (7) uses this word to describe turīya: 'śāntaṁ śivam advaitam' — peaceful, auspicious, non-dual. <strong>(2) Ajara (अजर) — Ageless</strong>: Brahman does not age or decay. Everything in creation moves from birth to decay to death. Brahman is beyond this sequence — it is <em>kāla-atīta</em> (beyond time). The body ages because it is in time; the Self does not age because it is not in time. <strong>(3) Amṛta (अमृत) — Immortal</strong>: Brahman is deathless. Not 'living forever' (that would still be within time) but <em>beyond the category of death</em>. The Kaṭha (1.2.18) says: 'The Self is not born, nor does it die.' <strong>(4) Abhaya (अभय) — Fearless</strong>: Brahman is free from fear. Fear arises from <em>duality</em> — from the perception that there is something 'other' that could threaten you. The Bṛhadāraṇyaka (1.4.2) explains: 'Fear arises from a second entity.' Since Brahman is non-dual, there is no 'other' — hence no fear. The Taittirīya (2.7) says: 'When one finds the fearless foundation in the Invisible, Bodiless, Undefined, Un-based — then one has reached fearlessness.' <strong>(5) Para (पर) — Supreme</strong>: Brahman is the highest reality — there is nothing beyond it, nothing above it. It is the <em>ultimate ground</em> of everything that exists."
+        "a": "समापन श्लोक ब्रह्म का वर्णन <strong>पाँच विशेषणों</strong> से करता है, प्रत्येक सांसारिक अस्तित्व के एक लक्षण का निषेध: <strong>(1) शान्त</strong> — ब्रह्म सभी विक्षेप (agitation) से परे। संसार में मन सदा अशान्त — काम, द्वेष, चञ्चलता। ब्रह्म समस्त शान्ति का स्रोत — थकान की शान्ति नहीं, <em>पूर्णता</em> की शान्ति। माण्डूक्य (7): 'शान्तं शिवम् अद्वैतम्' — शान्त, मंगलमय, अद्वैत। <strong>(2) अजर</strong> — ब्रह्म जरा-रहित। सृष्टि में सब कुछ जन्म से जरा से मृत्यु की ओर — ब्रह्म इस क्रम से परे, काल-अतीत। <strong>(3) अमृत</strong> — ब्रह्म मृत्यु-रहित। 'सदा जीवित रहना' नहीं (वह भी काल में) बल्कि <em>मृत्यु की श्रेणी से ही परे</em>। कठ (1.2.18): 'आत्मा न जन्मता है, न मरता है।' <strong>(4) अभय</strong> — ब्रह्म भय-मुक्त। भय <em>द्वैत</em> से उपजता है — कोई 'अन्य' है जो खतरा हो सकता है। बृहदारण्यक (1.4.2): 'द्वितीय से भय होता है।' ब्रह्म अद्वैत, अतः कोई 'अन्य' नहीं — भय नहीं। <strong>(5) पर</strong> — ब्रह्म सर्वोच्च — इससे परे कुछ नहीं — सभी अस्तित्व का <em>अन्तिम आधार</em>।<br><br><em>Eng:</em> The closing verse describes Brahman through <strong>five attributes</strong>, each negating a feature of conditioned existence: <strong>(1) Śānta (शान्त) — Peaceful</strong>: Brahman is beyond all agitation (<em>vikṣepa</em>). In saṁsāra, the mind is constantly disturbed — by desire, aversion, restlessness. Brahman is the source of all peace — not the peace of exhaustion but the peace of <em>fullness</em>. The Māṇḍūkya (7) uses this word to describe turīya: 'śāntaṁ śivam advaitam' — peaceful, auspicious, non-dual. <strong>(2) Ajara (अजर) — Ageless</strong>: Brahman does not age or decay. Everything in creation moves from birth to decay to death. Brahman is beyond this sequence — it is <em>kāla-atīta</em> (beyond time). The body ages because it is in time; the Self does not age because it is not in time. <strong>(3) Amṛta (अमृत) — Immortal</strong>: Brahman is deathless. Not 'living forever' (that would still be within time) but <em>beyond the category of death</em>. The Kaṭha (1.2.18) says: 'The Self is not born, nor does it die.' <strong>(4) Abhaya (अभय) — Fearless</strong>: Brahman is free from fear. Fear arises from <em>duality</em> — from the perception that there is something 'other' that could threaten you. The Bṛhadāraṇyaka (1.4.2) explains: 'Fear arises from a second entity.' Since Brahman is non-dual, there is no 'other' — hence no fear. The Taittirīya (2.7) says: 'When one finds the fearless foundation in the Invisible, Bodiless, Undefined, Un-based — then one has reached fearlessness.' <strong>(5) Para (पर) — Supreme</strong>: Brahman is the highest reality — there is nothing beyond it, nothing above it. It is the <em>ultimate ground</em> of everything that exists."
       },
       {
         "q": "🔍 Summary of Question 5's teaching",
-        "a": "Question 5 of the Prashna Upanishad presents a <strong>complete teaching on OM-meditation</strong> in seven mantras: <strong>Mantra 1 — The question</strong>: Satyakāma asks: what world does the lifelong OM-meditator reach? <strong>Mantra 2 — The framework</strong>: Pippalāda reveals that OM encompasses both para (higher) and apara (lower) Brahman. The depth of meditation determines which is reached. <strong>Mantra 3 — One mātrā (A)</strong>: meditation on A alone → quick rebirth on earth with spiritual qualities (tapas, brahmacharya, śraddhā). Led by the Ṛg Veda. <strong>Mantra 4 — Two mātrās (A+U)</strong>: meditation on A+U → ascent to soma-loka (lunar world), experience of vibhūti (divine glory), but eventual <em>return</em> (punar āvartate). Led by the Yajur Veda. <strong>Mantra 5 — Three mātrās (A+U+M)</strong>: meditation on the complete OM → liberation from sin (snake-skin simile), ascent to brahma-loka, vision of the Supreme Person (parāt-para puruṣa). Led by the Sāma Veda. No return. <strong>Mantra 6 — The integration principle</strong>: separate mātrās are 'mortal'; only the unified OM, rightly practised in all three domains (external, internal, intermediate), makes the knower unshakeable. <strong>Mantra 7 — The culmination</strong>: OM is the sole vehicle to the ultimate Brahman — śānta, ajara, amṛta, abhaya, para. The seers know this; the knower reaches this through OM. <strong>The teaching's structure</strong>: three ascending levels (earth → moon → Brahman) mirroring three Vedas (Ṛg → Yajur → Sāma), three mātrās (A → U → M), and three cosmic regions (bhūḥ → bhuvaḥ → svaḥ). The integration principle (mantra 6) transcends all three levels."
+        "a": "प्रश्न 5 सात मन्त्रों में <strong>ॐ-ध्यान की सम्पूर्ण शिक्षा</strong> प्रस्तुत करता है: <strong>मन्त्र 1 — प्रश्न</strong>: सत्यकाम पूछता है — आजीवन ॐ-साधक किस लोक को प्राप्त करता है? <strong>मन्त्र 2 — ढाँचा</strong>: पिप्पलाद बताते हैं — ॐ पर (निर्गुण) और अपर (सगुण) दोनों ब्रह्म है; ध्यान की गहराई गन्तव्य निर्धारित करती है। <strong>मन्त्र 3 — एक मात्रा (अ)</strong>: केवल अ-कार → पृथ्वी पर शीघ्र पुनर्जन्म, तप-ब्रह्मचर्य-श्रद्धा से सम्पन्न। ऋग्वेद से नेतृत्व। <strong>मन्त्र 4 — दो मात्राएँ (अ+उ)</strong>: अ+उ → सोम-लोक (चन्द्र), विभूति-अनुभव, किन्तु <em>पुनरावर्तते</em> (लौटना)। यजुर्वेद से। <strong>मन्त्र 5 — तीन मात्राएँ (अ+उ+म)</strong>: सम्पूर्ण ॐ → पाप से मुक्ति (साँप-केंचुली उपमा), ब्रह्म-लोक, परात्पर पुरुष का दर्शन। सामवेद से। लौटना नहीं। <strong>मन्त्र 6 — एकीकरण सिद्धान्त</strong>: पृथक् मात्राएँ 'मृत्युमत्' — केवल एकीकृत ॐ, तीनों क्षेत्रों (बाह्य, आन्तरिक, मध्यम) में सम्यक् प्रयुक्त, ज्ञानी को अकम्प बनाता है। <strong>मन्त्र 7 — परिसमापन</strong>: ॐ ही शान्त-अजर-अमृत-अभय-पर ब्रह्म का एकमात्र वाहन। तीन आरोही स्तर (पृथ्वी → चन्द्र → ब्रह्म) = तीन वेद (ऋग् → यजुः → साम) = तीन मात्राएँ (अ → उ → म) = तीन लोक (भूः → भुवः → स्वः)। एकीकरण सिद्धान्त (मन्त्र 6) तीनों स्तरों को अतिक्रमित करता है।<br><br><em>Eng:</em> Question 5 of the Prashna Upanishad presents a <strong>complete teaching on OM-meditation</strong> in seven mantras: <strong>Mantra 1 — The question</strong>: Satyakāma asks: what world does the lifelong OM-meditator reach? <strong>Mantra 2 — The framework</strong>: Pippalāda reveals that OM encompasses both para (higher) and apara (lower) Brahman. The depth of meditation determines which is reached. <strong>Mantra 3 — One mātrā (A)</strong>: meditation on A alone → quick rebirth on earth with spiritual qualities (tapas, brahmacharya, śraddhā). Led by the Ṛg Veda. <strong>Mantra 4 — Two mātrās (A+U)</strong>: meditation on A+U → ascent to soma-loka (lunar world), experience of vibhūti (divine glory), but eventual <em>return</em> (punar āvartate). Led by the Yajur Veda. <strong>Mantra 5 — Three mātrās (A+U+M)</strong>: meditation on the complete OM → liberation from sin (snake-skin simile), ascent to brahma-loka, vision of the Supreme Person (parāt-para puruṣa). Led by the Sāma Veda. No return. <strong>Mantra 6 — The integration principle</strong>: separate mātrās are 'mortal'; only the unified OM, rightly practised in all three domains (external, internal, intermediate), makes the knower unshakeable. <strong>Mantra 7 — The culmination</strong>: OM is the sole vehicle to the ultimate Brahman — śānta, ajara, amṛta, abhaya, para. The seers know this; the knower reaches this through OM. <strong>The teaching's structure</strong>: three ascending levels (earth → moon → Brahman) mirroring three Vedas (Ṛg → Yajur → Sāma), three mātrās (A → U → M), and three cosmic regions (bhūḥ → bhuvaḥ → svaḥ). The integration principle (mantra 6) transcends all three levels."
       }
     ]
   }
