@@ -89,19 +89,13 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 
 .meaning-section{margin-bottom:14px;}
 .trad-card{display:block!important;margin-bottom:12px;}
-.wnote{background:var(--b3);border:1px solid rgba(214,168,79,.16);border-radius:16px;padding:14px;margin-bottom:12px;}
-.wgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;}
-.wcard{background:rgba(214,168,79,.04);border:1px solid rgba(214,168,79,.12);border-radius:12px;padding:10px 12px;transition:border-color .2s;}
-.wcard:active{border-color:rgba(214,168,79,.3);}
-.wcard-sk{font-family:'Noto Sans Devanagari',serif;font-size:16px;color:var(--gl);font-weight:500;margin-bottom:4px;line-height:1.4;}
-.wcard-hi{font-family:'Noto Sans Devanagari',serif;font-size:13px;color:var(--t);line-height:1.5;margin-bottom:2px;}
-.wcard-en{font-family:'EB Garamond',serif;font-size:13px;color:var(--td);line-height:1.45;}
-.wflow{font-family:'Noto Sans Devanagari',serif;font-size:15px;line-height:2;color:var(--t);}
-.wflow.en{font-family:'EB Garamond',serif;font-size:16px;line-height:1.9;color:var(--td);}
-.wpair{display:inline;}
-.wpair strong{font-family:'Noto Sans Devanagari',serif;color:var(--gl);font-weight:600;}
-.dash{color:var(--tf);}
-.sep{color:rgba(214,168,79,.42);padding:0 7px;}
+.wnote{background:var(--b3);border:1px solid rgba(214,168,79,.16);border-radius:16px;padding:16px 18px;margin-bottom:12px;}
+.ws-hi{font-family:'Noto Sans Devanagari',serif;font-size:15px;line-height:2.1;color:var(--td);margin-bottom:14px;padding-bottom:14px;border-bottom:1px solid rgba(214,168,79,.10);}
+.ws-hi .ws-sk{color:var(--gl);font-weight:500;}
+.ws-en{font-family:'EB Garamond',serif;font-size:14.5px;line-height:2;color:var(--tf);font-style:italic;}
+.ws-en .ws-sk{color:var(--td);font-style:normal;font-weight:500;}
+.ws-eq{color:var(--gd);margin:0 1px;}
+.ws-sep{color:var(--tf);margin:0 4px 0 2px;}
 
 .gn{padding:14px;background:rgba(201,168,76,0.06);border:1px solid rgba(201,168,76,0.15);border-radius:14px;margin-top:4px;position:relative;}
 .gnl{font-size:10px;letter-spacing:2px;color:var(--tf);text-transform:uppercase;margin-bottom:8px;}
@@ -775,8 +769,6 @@ function renderMV(){
   renderBody(m);
 }
 
-function cleanSk(s){return s.replace(/\s*\([^)]*\)\s*/g,'').trim();}
-function truncWe(e){if(!e)return'';const plain=e.replace(/<[^>]+>/g,'');if(plain.length<=40)return e;const cut=plain.substring(0,plain.indexOf(' ',30)||40);return cut+'…';}
 function togGn(){const w=document.getElementById('gnw'),f=document.getElementById('gnf'),b=document.getElementById('gnt');if(!w)return;const ex=w.classList.toggle('expanded');b.textContent=ex?'कम देखें · Show less ▴':'और देखें · Show more ▾';if(f)f.style.opacity=ex?'0':'1';}
 
 function renderBody(m){
@@ -822,10 +814,10 @@ function renderBody(m){
     <div class="lbl" style="padding-top:2px">शब्दार्थ · WORD MEANINGS</div>
     ${m.ws&&m.ws.length?`
     <div class="wnote">
-      <div class="gnl">संस्कृत → हिंदी · English</div>
-      <div class="wgrid">
-        ${m.ws.map(w=>`<div class="wcard"><div class="wcard-sk">${cleanSk(w.s)}</div><div class="wcard-hi">${w.h}</div><div class="wcard-en">${truncWe(w.e)}</div></div>`).join('')}
-      </div>
+      <div class="gnl">हिंदी शब्दार्थ</div>
+      <div class="ws-hi">${m.ws.map((w,i)=>`<span class="ws-sk">${w.s}</span><span class="ws-eq">=</span>${w.h}${i<m.ws.length-1?'<span class="ws-sep">;</span>':''}`).join('')}</div>
+      <div class="gnl">English Word Meanings</div>
+      <div class="ws-en">${m.ws.map((w,i)=>`<span class="ws-sk">${w.s}</span><span class="ws-eq">=</span>${w.e}${i<m.ws.length-1?'<span class="ws-sep">;</span>':''}`).join('')}</div>
     </div>`:''}
   </div>
   <div class="meaning-section">
