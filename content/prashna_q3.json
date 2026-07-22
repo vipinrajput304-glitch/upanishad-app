@@ -7,9 +7,24 @@
     "en": "Then Kausalya Āshvalāyana asked him: 'Bhagavan! Whence (kutaḥ) is this Prāṇa born? How does it come into this body? How does it establish itself after dividing itself? By what does it depart? How does it sustain the external (bāhya)? And how the internal (adhyātma)?'",
     "ws": [
       {
+        "s": "अथ",
+        "h": "तब / उसके पश्चात्",
+        "e": "then / after that"
+      },
+      {
         "s": "कौसल्यः आश्वलायनः",
         "h": "कौसल्य आश्वलायन — तीसरे प्रश्नकर्ता शिष्य",
-        "e": "Kausalya Āshvalāyana"
+        "e": "Kausalya Āshvalāyana — the third questioner"
+      },
+      {
+        "s": "पप्रच्छ",
+        "h": "पूछा / प्रश्न किया",
+        "e": "asked / questioned"
+      },
+      {
+        "s": "भगवन्",
+        "h": "हे भगवन् / पूज्य गुरुदेव",
+        "e": "O Bhagavan / revered master"
       },
       {
         "s": "कुतः",
@@ -17,9 +32,29 @@
         "e": "whence / from what source"
       },
       {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-शक्ति",
+        "e": "Prāṇa / life-force"
+      },
+      {
+        "s": "जायते",
+        "h": "उत्पन्न होता है / जन्म लेता है",
+        "e": "is born / arises"
+      },
+      {
+        "s": "कथम् आयाति",
+        "h": "कैसे आता है / किस प्रकार प्रवेश करता है",
+        "e": "how does it come / enter"
+      },
+      {
         "s": "प्रविभज्य",
         "h": "विभाजित करके / बाँटकर",
-        "e": "having divided"
+        "e": "having divided / after splitting"
+      },
+      {
+        "s": "प्रतितिष्ठते",
+        "h": "प्रतिष्ठित होता है / स्थापित होता है",
+        "e": "is established / is stationed"
       },
       {
         "s": "उत्क्रमते",
@@ -32,12 +67,17 @@
         "e": "the external"
       },
       {
+        "s": "अभिधत्ते",
+        "h": "धारण करता है / सहारा देता है",
+        "e": "sustains / supports"
+      },
+      {
         "s": "अध्यात्मम्",
         "h": "आन्तरिक / शरीर-सम्बन्धी / आत्म-विषयक",
         "e": "the internal / pertaining to the self"
       }
     ],
-    "gr": "<strong>Six sub-questions</strong>: Kausalya's question is the most methodical of all six — he asks six specific sub-questions: (1) <em>kutaḥ jāyate</em> — whence is it born? (origin); (2) <em>katham āyāti</em> — how does it come into the body? (entry); (3) <em>ātmānaṁ pravibhajya kathaṁ pratitiṣṭhate</em> — how does it establish itself after self-division? (fivefold differentiation); (4) <em>kena utkramate</em> — by what means does it depart? (death); (5) <em>kathaṁ bāhyam abhidhatte</em> — how does it sustain the external? (macrocosmic function); (6) <em>katham adhyātmam</em> — how does it sustain the internal? (microcosmic function). This systematic structure produces the most 'scientific' answer in the Prashna Upanishad — a complete physiology of the vital breath.",
+    "gr": "<strong>व्याकरण:</strong> कौसल्य के प्रश्न में छह उप-प्रश्न हैं — सबसे व्यवस्थित प्रश्न-शैली: (1) <em>कुतः जायते</em> — उत्पत्ति (origin); (2) <em>कथम् आयाति</em> — शरीर में प्रवेश (entry); (3) <em>आत्मानं प्रविभज्य कथं प्रतितिष्ठते</em> — पंचविभाजन और स्थापना (fivefold differentiation); (4) <em>केन उत्क्रमते</em> — मृत्यु-काल में उत्क्रमण (departure); (5) <em>कथं बाह्यम् अभिधत्ते</em> — बाह्य जगत् का पोषण (macrocosmic function); (6) <em>कथम् अध्यात्मम्</em> — आन्तरिक शरीर का पोषण (microcosmic function)। यह सुव्यवस्थित संरचना प्रश्नोपनिषद् में सबसे 'वैज्ञानिक' उत्तर उत्पन्न करती है।<br><em>Eng:</em> Six sub-questions making this the most methodical question: origin, entry, fivefold division, departure, external function, internal function. Produces the most 'scientific' answer in the Prashna Upanishad.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -62,11 +102,11 @@
     "dp": [
       {
         "q": "🔍 Why is this the most 'scientific' question?",
-        "a": "Kausalya's question is structured like a scientific inquiry — it asks six precise sub-questions covering the <strong>complete lifecycle</strong> of Prāṇa: <strong>(1) Origin</strong> (kutaḥ jāyate): where does Prāṇa come from? What is its ultimate source? <strong>(2) Entry</strong> (katham āyāti): how does it enter a specific body? What is the mechanism of embodiment? <strong>(3) Differentiation</strong> (ātmānaṁ pravibhajya kathaṁ pratitiṣṭhate): how does one Prāṇa become five? What governs the division? <strong>(4) Departure</strong> (kena utkramate): what causes Prāṇa to leave? Through which channel does it depart? <strong>(5) External function</strong> (kathaṁ bāhyam abhidhatte): how does Prāṇa connect the individual to the external world? <strong>(6) Internal function</strong> (katham adhyātmam): how does it operate within the body? This systematic approach distinguishes Question 3 from the more philosophical Questions 1-2. The answer that follows (mantras 2-12) reads almost like a <strong>physiological treatise</strong>, describing channels (nāḍīs), energy centres, and the mechanisms of digestion, circulation, and death — making it a precursor to the detailed prāṇa-analysis in the <em>Yoga Sūtra</em> (2.49-53) and <em>Haṭha Yoga Pradīpikā</em>."
+        "a": "कौसल्य का प्रश्न वैज्ञानिक अनुसन्धान जैसा सुव्यवस्थित है — वह प्राण के <strong>सम्पूर्ण जीवन-चक्र</strong> पर छह सटीक उप-प्रश्न पूछते हैं: <strong>(1) उत्पत्ति</strong> (कुतः जायते): प्राण कहाँ से आता है? <strong>(2) प्रवेश</strong> (कथम् आयाति): शरीर में कैसे आता है? <strong>(3) विभाजन</strong> (प्रविभज्य प्रतितिष्ठते): एक प्राण पाँच कैसे बनता है? <strong>(4) उत्क्रमण</strong> (केन उत्क्रमते): प्राण शरीर कैसे छोड़ता है? <strong>(5) बाह्य कार्य</strong> (बाह्यम् अभिधत्ते): बाहरी जगत् से कैसे जुड़ता है? <strong>(6) आन्तरिक कार्य</strong> (अध्यात्मम्): शरीर के भीतर कैसे काम करता है? यह प्रश्न 3 को प्रश्न 1-2 की दार्शनिकता से अलग करता है और एक शरीर-विज्ञान ग्रन्थ जैसा उत्तर उत्पन्न करता है।<br><br><em>Eng:</em> Kausalya's question is structured like a scientific inquiry — it asks six precise sub-questions covering the <strong>complete lifecycle</strong> of Prāṇa: <strong>(1) Origin</strong> (kutaḥ jāyate): where does Prāṇa come from? What is its ultimate source? <strong>(2) Entry</strong> (katham āyāti): how does it enter a specific body? What is the mechanism of embodiment? <strong>(3) Differentiation</strong> (ātmānaṁ pravibhajya kathaṁ pratitiṣṭhate): how does one Prāṇa become five? What governs the division? <strong>(4) Departure</strong> (kena utkramate): what causes Prāṇa to leave? Through which channel does it depart? <strong>(5) External function</strong> (kathaṁ bāhyam abhidhatte): how does Prāṇa connect the individual to the external world? <strong>(6) Internal function</strong> (katham adhyātmam): how does it operate within the body? This systematic approach distinguishes Question 3 from the more philosophical Questions 1-2. The answer that follows (mantras 2-12) reads almost like a <strong>physiological treatise</strong>, describing channels (nāḍīs), energy centres, and the mechanisms of digestion, circulation, and death — making it a precursor to the detailed prāṇa-analysis in the <em>Yoga Sūtra</em> (2.49-53) and <em>Haṭha Yoga Pradīpikā</em>."
       },
       {
         "q": "🔍 How do the six questions in this Upanishad differ?",
-        "a": "Each of the six questions in the Prashna Upanishad addresses a different dimension of reality, progressively deepening: <strong>Q1 (Kabandhī)</strong>: Cosmology — 'Whence are creatures born?' The macrocosmic level: Prāṇa and Rayi as cosmic duality. <strong>Q2 (Bhārgava)</strong>: Physiology of consciousness — 'How many gods support a creature?' The microcosmic hierarchy: Prāṇa as supreme among bodily faculties. <strong>Q3 (Kausalya, this question)</strong>: Mechanics of the vital force — 'Whence is Prāṇa born?' The technical details: origin, channels, division, departure. <strong>Q4 (Sauryāyaṇī)</strong>: States of consciousness — 'What sleeps, what wakes?' The psychology: waking, dreaming, deep sleep. <strong>Q5 (Shaibya)</strong>: Meditation — 'What is gained by meditating on OM?' The practice: technique and fruits of contemplation. <strong>Q6 (Sukesha)</strong>: The Absolute — 'Where is the sixteen-part Person?' The metaphysics: the supreme Puruṣa and dissolution of the parts. The movement is from the <em>outer</em> (cosmos) to the <em>inner</em> (vital mechanics → consciousness → meditation → the Absolute). Question 3 is the pivot — it bridges the external (Q1-2) and the internal (Q4-6)."
+        "a": "प्रश्नोपनिषद् के छह प्रश्न वास्तविकता के विभिन्न आयामों को उत्तरोत्तर गहराई से सम्बोधित करते हैं: <strong>प्रश्न 1 (कबन्धी)</strong>: सृष्टिविज्ञान — 'प्रजा कहाँ से उत्पन्न होती है?' <strong>प्रश्न 2 (भार्गव)</strong>: शारीरिक चेतना — 'कितने देवता प्राणी को धारण करते हैं?' <strong>प्रश्न 3 (कौसल्य)</strong>: प्राण-यन्त्रविद्या — 'प्राण कहाँ से उत्पन्न होता है?' <strong>प्रश्न 4 (सौर्यायणी)</strong>: चेतना की अवस्थाएँ — 'क्या सोता है, क्या जागता है?' <strong>प्रश्न 5 (शैब्य)</strong>: ध्यान — 'ओंकार के ध्यान से क्या प्राप्त होता है?' <strong>प्रश्न 6 (सुकेश)</strong>: परमतत्त्व — 'षोडशकल पुरुष कहाँ है?' गति बाह्य (ब्रह्माण्ड) से आन्तरिक (प्राण → चेतना → ध्यान → परमतत्त्व) की ओर है। प्रश्न 3 सेतु है — बाह्य (प्रश्न 1-2) और आन्तरिक (प्रश्न 4-6) को जोड़ता है।<br><br><em>Eng:</em> Each of the six questions in the Prashna Upanishad addresses a different dimension of reality, progressively deepening: <strong>Q1 (Kabandhī)</strong>: Cosmology — 'Whence are creatures born?' The macrocosmic level: Prāṇa and Rayi as cosmic duality. <strong>Q2 (Bhārgava)</strong>: Physiology of consciousness — 'How many gods support a creature?' The microcosmic hierarchy: Prāṇa as supreme among bodily faculties. <strong>Q3 (Kausalya, this question)</strong>: Mechanics of the vital force — 'Whence is Prāṇa born?' The technical details: origin, channels, division, departure. <strong>Q4 (Sauryāyaṇī)</strong>: States of consciousness — 'What sleeps, what wakes?' The psychology: waking, dreaming, deep sleep. <strong>Q5 (Shaibya)</strong>: Meditation — 'What is gained by meditating on OM?' The practice: technique and fruits of contemplation. <strong>Q6 (Sukesha)</strong>: The Absolute — 'Where is the sixteen-part Person?' The metaphysics: the supreme Puruṣa and dissolution of the parts. The movement is from the <em>outer</em> (cosmos) to the <em>inner</em> (vital mechanics → consciousness → meditation → the Absolute). Question 3 is the pivot — it bridges the external (Q1-2) and the internal (Q4-6)."
       }
     ]
   },
@@ -78,17 +118,62 @@
     "en": "To him he (Pippalāda) said: 'You ask transcendent questions (atiprāśnān). You are most devoted to Brahman (brahmiṣṭha). Therefore I tell you.'",
     "ws": [
       {
+        "s": "तस्मै",
+        "h": "उनसे / उनके लिए",
+        "e": "to him"
+      },
+      {
+        "s": "सः",
+        "h": "वह (पिप्पलाद)",
+        "e": "he (Pippalāda)"
+      },
+      {
+        "s": "उवाच",
+        "h": "बोला / कहा",
+        "e": "said / spoke"
+      },
+      {
         "s": "अतिप्रश्नान्",
         "h": "अत्यन्त गहन/कठिन प्रश्न",
         "e": "transcendent questions / questions that go beyond"
       },
       {
+        "s": "पृच्छसि",
+        "h": "पूछ रहे हो / प्रश्न कर रहे हो",
+        "e": "you ask / you are questioning"
+      },
+      {
         "s": "ब्रह्मिष्ठः",
         "h": "ब्रह्म में सर्वाधिक स्थित / ब्रह्म-ज्ञान में श्रेष्ठ",
         "e": "most devoted to Brahman / most established in Brahman"
+      },
+      {
+        "s": "असि",
+        "h": "हो / तुम हो",
+        "e": "you are"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "इसलिए / उस कारण से",
+        "e": "therefore / for that reason"
+      },
+      {
+        "s": "ते",
+        "h": "तुझे / तुम्हें",
+        "e": "to you"
+      },
+      {
+        "s": "अहम्",
+        "h": "मैं",
+        "e": "I"
+      },
+      {
+        "s": "ब्रवीमि",
+        "h": "बताता हूँ / कहता हूँ",
+        "e": "I tell / I declare"
       }
     ],
-    "gr": "<strong>atiprśnān pṛcchasi</strong> — 'you ask questions that go beyond (ati)': Pippalāda acknowledges that this question surpasses the earlier two. Questions 1-2 asked about Prāṇa's <em>effects</em> (cosmological role, bodily supremacy); Question 3 asks about its <em>cause</em> — which is the deeper inquiry. <strong>brahmiṣṭhaḥ asi</strong> — 'you are brahmiṣṭha': the superlative form. Not just brahma-parā (devoted to Brahman, like the six seekers in 1.1) but brahmiṣṭha — <em>the most</em> devoted. This praise justifies why Pippalāda answers: only the most qualified student deserves the deepest teaching. <strong>tasmāt te ahaṁ bravīmi</strong> — 'therefore I tell you': the causal link is explicit — <em>because</em> you are brahmiṣṭha, <em>therefore</em> I teach. Knowledge is not withheld out of selfishness but released according to the student's readiness.",
+    "gr": "<strong>व्याकरण:</strong> <em>अतिप्रश्नान् पृच्छसि</em> — 'तू ऐसे प्रश्न पूछ रहा है जो परे (अति) जाते हैं': पिप्पलाद स्वीकार करते हैं कि यह प्रश्न पहले दो से श्रेष्ठ है। प्रश्न 1-2 प्राण के <em>कार्य</em> (effects) पूछते थे; प्रश्न 3 उसके <em>कारण</em> (cause) को पूछता है। <em>ब्रह्मिष्ठः असि</em> — 'तू ब्रह्मिष्ठ है' — यह उत्तमतम (superlative) रूप है। <em>तस्मात् ते अहं ब्रवीमि</em> — 'इसलिए मैं तुझे बताता हूँ' — कारण-सम्बन्ध स्पष्ट है: <em>क्योंकि</em> तू ब्रह्मिष्ठ है, <em>इसलिए</em> मैं सिखाता हूँ। ज्ञान स्वार्थ से नहीं रोका जाता, अपितु शिष्य की योग्यता (adhikāra) के अनुसार दिया जाता है।<br><em>Eng:</em> 'Atiprśnān pṛcchasi' — transcendent questions. 'Brahmiṣṭha' — superlative devotion to Brahman. Knowledge is released according to student's readiness (adhikāra).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -113,11 +198,11 @@
     "dp": [
       {
         "q": "🔍 What does 'atiprśna' (transcendent question) mean?",
-        "a": "The word <strong>atiprśna</strong> (अतिप्रश्न) — literally 'beyond-question' or 'transcendent question' — is unique to the Prashna Upanishad. It signals that Kausalya's inquiry exceeds ordinary philosophical discussion. <strong>Questions 1-2</strong> asked about Prāṇa's <em>effects</em>: its cosmic role (Q1) and its bodily supremacy (Q2). These are observable and demonstrable. <strong>Question 3</strong> asks about Prāṇa's <em>cause</em> — its ultimate origin. This is a fundamentally different type of inquiry because: <strong>(1)</strong> The cause of Prāṇa cannot be observed through the senses (you can feel breath but not its source). <strong>(2)</strong> The answer — 'from Ātman' — requires a leap from the physical to the metaphysical. <strong>(3)</strong> Understanding the origin of Prāṇa means understanding the origin of <em>life itself</em> — which is the deepest question any tradition can ask. The prefix <em>ati-</em> (beyond, across) is the same prefix in <em>atīndriya</em> (beyond the senses) and <em>atīva</em> (exceedingly). It marks this question as belonging to a higher order of inquiry."
+        "a": "<strong>अतिप्रश्न</strong> (अतिप्रश्न) — शाब्दिक अर्थ 'प्रश्न से परे' या 'अलौकिक प्रश्न' — प्रश्नोपनिषद् में अद्वितीय है। यह संकेत करता है कि कौसल्य की जिज्ञासा सामान्य दार्शनिक चर्चा से परे है। <strong>प्रश्न 1-2</strong> प्राण के <em>कार्यों</em> (effects) पर थे: ब्रह्माण्डीय भूमिका और शारीरिक श्रेष्ठता — ये अवलोकनीय (observable) हैं। <strong>प्रश्न 3</strong> प्राण के <em>कारण</em> (cause) को पूछता है — उसका परम स्रोत। यह मूलतः भिन्न जिज्ञासा है क्योंकि: (1) प्राण का कारण इन्द्रियों से अगोचर है; (2) उत्तर — 'आत्मा से' — भौतिक से आध्यात्मिक की छलांग है; (3) प्राण का मूल जानना = <em>जीवन</em> का मूल जानना। <em>अति-</em> उपसर्ग ('परे') वही है जो <em>अतीन्द्रिय</em> (इन्द्रियातीत) में है।<br><br><em>Eng:</em> The word <strong>atiprśna</strong> (अतिप्रश्न) — literally 'beyond-question' or 'transcendent question' — is unique to the Prashna Upanishad. It signals that Kausalya's inquiry exceeds ordinary philosophical discussion. <strong>Questions 1-2</strong> asked about Prāṇa's <em>effects</em>: its cosmic role (Q1) and its bodily supremacy (Q2). These are observable and demonstrable. <strong>Question 3</strong> asks about Prāṇa's <em>cause</em> — its ultimate origin. This is a fundamentally different type of inquiry because: <strong>(1)</strong> The cause of Prāṇa cannot be observed through the senses (you can feel breath but not its source). <strong>(2)</strong> The answer — 'from Ātman' — requires a leap from the physical to the metaphysical. <strong>(3)</strong> Understanding the origin of Prāṇa means understanding the origin of <em>life itself</em> — which is the deepest question any tradition can ask. The prefix <em>ati-</em> (beyond, across) is the same prefix in <em>atīndriya</em> (beyond the senses) and <em>atīva</em> (exceedingly). It marks this question as belonging to a higher order of inquiry."
       },
       {
         "q": "🔍 Why does the guru commend the student before answering?",
-        "a": "The guru's commendation of the student — <em>brahmiṣṭho'si</em>, 'you are the most devoted to Brahman' — before giving the teaching is a standard Upanishadic pattern. It appears in: <strong>Muṇḍaka 1.2.13</strong>: 'To that student who has duly approached, whose mind is calm, whose senses are controlled...' <strong>Kaṭha 1.2.13</strong>: Yama commends Nachiketa: 'You have rejected all pleasures; I consider you a worthy seeker.' <strong>Chāndogya 4.9.3</strong>: The fires commend Satyakāma: 'You are a truth-speaker; we will teach you.' The purpose is not flattery but <strong>adhikāra-nirṇaya</strong> — the determination of qualification. In the Vedic tradition, knowledge is not freely given to anyone; it is given to those who are <em>ready</em>. The commendation is the guru's public declaration that the student meets the prerequisites: tapas (austerity), brahmacarya (discipline), śraddhā (faith), and most importantly, viveka (the discrimination to ask the right question). Pippalāda's 'you are brahmiṣṭha' is not a compliment — it is a <strong>clearance</strong>."
+        "a": "गुरु का शिष्य की प्रशंसा — <em>ब्रह्मिष्ठोऽसि</em> — शिक्षा देने से पहले, एक उपनिषदीय प्रतिमान है: <strong>मुण्डक 1.2.13</strong>: 'उस शिष्य को जो विधिपूर्वक आया, जिसका मन शान्त, इन्द्रियाँ संयमित...' <strong>कठ 1.2.13</strong>: यम नचिकेता की प्रशंसा करते हैं। <strong>छान्दोग्य 4.9.3</strong>: अग्नियाँ सत्यकाम की प्रशंसा करती हैं। यह चापलूसी नहीं, <strong>अधिकार-निर्णय</strong> (qualification-determination) है। वैदिक परम्परा में ज्ञान सभी को नहीं दिया जाता; केवल <em>तैयार</em> शिष्य को दिया जाता है। पिप्पलाद का 'तू ब्रह्मिष्ठ है' प्रशंसा नहीं — यह <strong>अनुमति-पत्र</strong> (clearance) है।<br><br><em>Eng:</em> The guru's commendation of the student — <em>brahmiṣṭho'si</em>, 'you are the most devoted to Brahman' — before giving the teaching is a standard Upanishadic pattern. It appears in: <strong>Muṇḍaka 1.2.13</strong>: 'To that student who has duly approached, whose mind is calm, whose senses are controlled...' <strong>Kaṭha 1.2.13</strong>: Yama commends Nachiketa: 'You have rejected all pleasures; I consider you a worthy seeker.' <strong>Chāndogya 4.9.3</strong>: The fires commend Satyakāma: 'You are a truth-speaker; we will teach you.' The purpose is not flattery but <strong>adhikāra-nirṇaya</strong> — the determination of qualification. In the Vedic tradition, knowledge is not freely given to anyone; it is given to those who are <em>ready</em>. The commendation is the guru's public declaration that the student meets the prerequisites: tapas (austerity), brahmacarya (discipline), śraddhā (faith), and most importantly, viveka (the discrimination to ask the right question). Pippalāda's 'you are brahmiṣṭha' is not a compliment — it is a <strong>clearance</strong>."
       }
     ]
   },
@@ -134,9 +219,39 @@
         "e": "from the Ātman / from the Self"
       },
       {
+        "s": "एषः",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-शक्ति",
+        "e": "Prāṇa / the life-force"
+      },
+      {
+        "s": "जायते",
+        "h": "उत्पन्न होता है / प्रकट होता है",
+        "e": "is born / arises"
+      },
+      {
+        "s": "यथा",
+        "h": "जैसे / जिस प्रकार",
+        "e": "just as / in the manner that"
+      },
+      {
+        "s": "पुरुषे",
+        "h": "पुरुष (व्यक्ति) में",
+        "e": "in a person"
+      },
+      {
         "s": "छाया",
         "h": "छाया / परछाईं / प्रतिबिम्ब",
         "e": "shadow"
+      },
+      {
+        "s": "एतस्मिन्",
+        "h": "इसमें (आत्मा में)",
+        "e": "in this (in the Ātman)"
       },
       {
         "s": "आततम्",
@@ -147,9 +262,19 @@
         "s": "मनोकृतेन",
         "h": "मन के कर्म/संकल्प द्वारा",
         "e": "by the activity of mind"
+      },
+      {
+        "s": "आयाति",
+        "h": "आता है / प्रवेश करता है",
+        "e": "comes / enters"
+      },
+      {
+        "s": "शरीरे",
+        "h": "शरीर में / देह में",
+        "e": "in the body"
       }
     ],
-    "gr": "<strong>ātmanaḥ eṣaḥ prāṇaḥ jāyate</strong> — 'from the Ātman this Prāṇa is born': the fundamental answer. Prāṇa does not arise from matter, from the elements, or from any external source — it arises from the Self. This establishes Ātman as the cause (kāraṇa) and Prāṇa as the effect (kārya). <strong>chāyā</strong> — the shadow-simile: just as a shadow is (1) inseparable from the person, (2) dependent on the person, and (3) not identical with the person — so Prāṇa is inseparable from Ātman, dependent on it, but not identical with it. The shadow has no independent existence. <strong>mano-kṛtena āyāti</strong> — 'by the activity of mind it comes into this body': this is the mechanism of rebirth. The mind's past karma (mental impressions, desires, saṁskāras) determines which body Prāṇa enters. The body is chosen not randomly but by the force of accumulated mental tendencies.",
+    "gr": "<strong>व्याकरण:</strong> <em>आत्मनः एषः प्राणः जायते</em> — 'आत्मा से यह प्राण उत्पन्न होता है': मूलभूत उत्तर — प्राण पदार्थ, तत्त्वों या किसी बाह्य स्रोत से नहीं, स्वयं आत्मा से उत्पन्न होता है। <em>छाया-उपमा</em> — छाया (1) व्यक्ति से अभिन्न (inseparable), (2) उस पर निर्भर (dependent), (3) उससे अनभिन्न नहीं (not identical) — वैसे ही प्राण आत्मा से अभिन्न, निर्भर, किन्तु समान नहीं। <em>मनोकृतेन आयाति</em> — 'मन के कर्म द्वारा शरीर में आता है': यह पुनर्जन्म की क्रियाविधि है — पूर्वजन्म के मानसिक संस्कार (saṁskāras) निर्धारित करते हैं कि प्राण किस शरीर में प्रवेश करेगा।<br><em>Eng:</em> Prāṇa born from Ātman; shadow-simile shows dependence without identity; mano-kṛtena explains rebirth mechanism through past mental impressions.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -174,11 +299,11 @@
     "dp": [
       {
         "q": "🔍 What does the shadow (chāyā) simile teach?",
-        "a": "The <strong>shadow simile</strong> is one of the most philosophically precise analogies in the Upanishads. It teaches the relationship between Ātman and Prāṇa through five key properties of shadows: <strong>(1) Dependence</strong>: a shadow cannot exist without the person who casts it. Similarly, Prāṇa cannot exist without Ātman. Remove the Self, and the vital force vanishes. <strong>(2) Inseparability</strong>: wherever the person goes, the shadow follows. Ātman and Prāṇa are never found apart — wherever there is a Self, there is life. <strong>(3) Non-identity</strong>: the shadow is not the person. You can step on a shadow without hurting the person. Similarly, Prāṇa is not the Ātman — the vital force can be disturbed (illness, injury) without the Ātman being affected. <strong>(4) Derivation</strong>: the shadow derives its shape from the person. Similarly, Prāṇa's characteristics derive from the Ātman — it is conscious because the Ātman is conscious, it is active because the Ātman is active. <strong>(5) Insubstantiality</strong>: a shadow has no substance of its own — it is a play of light and form. Similarly, Prāṇa has no independent reality; it is a 'play' of the Ātman in the body. For Advaita, this simile is crucial: it positions Prāṇa as <em>vivarta</em> (apparent transformation), not <em>pariṇāma</em> (real transformation) — the Ātman doesn't actually change into Prāṇa; it merely appears to, like a person appearing to have a shadow."
+        "a": "<strong>छाया-उपमा</strong> उपनिषदों की सबसे दार्शनिक रूप से सटीक उपमाओं में से एक है। यह आत्मा-प्राण सम्बन्ध को छाया के पाँच गुणों से सिखाती है: <strong>(1) निर्भरता</strong>: छाया बिना व्यक्ति के नहीं रह सकती; प्राण बिना आत्मा के नहीं। <strong>(2) अविच्छेद्यता</strong>: व्यक्ति जहाँ जाता है, छाया वहीं। आत्मा-प्राण कभी अलग नहीं पाए जाते। <strong>(3) अनभिन्नता</strong>: छाया व्यक्ति नहीं है — छाया पर पैर रखने से व्यक्ति को चोट नहीं लगती; प्राण में विक्षोभ (बीमारी) से आत्मा प्रभावित नहीं होती। <strong>(4) व्युत्पत्ति</strong>: छाया का आकार व्यक्ति से आता है; प्राण के लक्षण आत्मा से आते हैं। <strong>(5) असारता</strong>: छाया का अपना कोई द्रव्य (substance) नहीं; प्राण की अपनी स्वतन्त्र सत्ता नहीं। अद्वैत के लिए यह निर्णायक है: प्राण <em>विवर्त</em> (apparent transformation) है, <em>परिणाम</em> (real transformation) नहीं।<br><br><em>Eng:</em> The <strong>shadow simile</strong> is one of the most philosophically precise analogies in the Upanishads. It teaches the relationship between Ātman and Prāṇa through five key properties of shadows: <strong>(1) Dependence</strong>: a shadow cannot exist without the person who casts it. Similarly, Prāṇa cannot exist without Ātman. Remove the Self, and the vital force vanishes. <strong>(2) Inseparability</strong>: wherever the person goes, the shadow follows. Ātman and Prāṇa are never found apart — wherever there is a Self, there is life. <strong>(3) Non-identity</strong>: the shadow is not the person. You can step on a shadow without hurting the person. Similarly, Prāṇa is not the Ātman — the vital force can be disturbed (illness, injury) without the Ātman being affected. <strong>(4) Derivation</strong>: the shadow derives its shape from the person. Similarly, Prāṇa's characteristics derive from the Ātman — it is conscious because the Ātman is conscious, it is active because the Ātman is active. <strong>(5) Insubstantiality</strong>: a shadow has no substance of its own — it is a play of light and form. Similarly, Prāṇa has no independent reality; it is a 'play' of the Ātman in the body. For Advaita, this simile is crucial: it positions Prāṇa as <em>vivarta</em> (apparent transformation), not <em>pariṇāma</em> (real transformation) — the Ātman doesn't actually change into Prāṇa; it merely appears to, like a person appearing to have a shadow."
       },
       {
         "q": "🔍 How does 'mano-kṛtena' explain rebirth?",
-        "a": "The phrase <strong>mano-kṛtena āyāti asmin śarīre</strong> ('by the mind's activity it comes into this body') is the Upanishadic explanation of <strong>how rebirth works</strong>. The mechanism: <strong>(1) During life</strong>: the mind generates <em>saṁskāras</em> (impressions) through every thought, desire, and action. These saṁskāras accumulate as the mind's <em>karma-residue</em>. <strong>(2) At death</strong>: the gross body (sthūla-śarīra) disintegrates, but the subtle body (sūkṣma-śarīra) — composed of the mind, prāṇas, and saṁskāras — departs through one of the nāḍīs (channels). <strong>(3) Between lives</strong>: the mind's accumulated tendencies (vāsanās) determine which body Prāṇa will next enter — 'mano-kṛtena' ('by the mind's making'). <strong>(4) At rebirth</strong>: Prāṇa enters a new body shaped by the mind's past activities. The body is not randomly assigned — it is <em>mano-kṛta</em> (mind-made). This doctrine appears across the Upanishads: <strong>Bṛhadāraṇyaka 4.4.5</strong>: 'As is one's desire, so is one's will; as is one's will, so is one's deed; as is one's deed, so is what one attains.' <strong>Chāndogya 3.14.1</strong>: 'Man is a creature of will (kratu). As he wills in this world, so does he become after death.' The mind is the architect of the next body. This is why the Upanishads emphasise <em>manas-śuddhi</em> (purification of the mind) — a pure mind leads to liberation; an impure mind leads to continued rebirth."
+        "a": "<em>मनोकृतेन आयाति अस्मिन् शरीरे</em> — यह उपनिषदीय <strong>पुनर्जन्म-क्रियाविधि</strong> का वर्णन है: <strong>(1) जीवनकाल में</strong>: मन प्रत्येक विचार, इच्छा और कर्म से <em>संस्कार</em> (impressions) उत्पन्न करता है। <strong>(2) मृत्यु-काल में</strong>: स्थूल शरीर नष्ट होता है, किन्तु सूक्ष्म शरीर (मन, प्राण, संस्कार) नाडियों में से निकलता है। <strong>(3) अन्तराल में</strong>: मन की संचित वासनाएँ निर्धारित करती हैं कि प्राण किस शरीर में प्रवेश करेगा। <strong>(4) पुनर्जन्म में</strong>: प्राण मन के पूर्वकर्मों द्वारा निर्मित नए शरीर में प्रवेश करता है। शरीर यादृच्छिक (random) नहीं — यह <em>मनोकृत</em> (mind-made) है। बृहदारण्यक 4.4.5: 'जैसी इच्छा, वैसा संकल्प; जैसा संकल्प, वैसा कर्म; जैसा कर्म, वैसा फल।' इसीलिए उपनिषद् <em>मनःशुद्धि</em> पर बल देते हैं।<br><br><em>Eng:</em> The phrase <strong>mano-kṛtena āyāti asmin śarīre</strong> ('by the mind's activity it comes into this body') is the Upanishadic explanation of <strong>how rebirth works</strong>. The mechanism: <strong>(1) During life</strong>: the mind generates <em>saṁskāras</em> (impressions) through every thought, desire, and action. These saṁskāras accumulate as the mind's <em>karma-residue</em>. <strong>(2) At death</strong>: the gross body (sthūla-śarīra) disintegrates, but the subtle body (sūkṣma-śarīra) — composed of the mind, prāṇas, and saṁskāras — departs through one of the nāḍīs (channels). <strong>(3) Between lives</strong>: the mind's accumulated tendencies (vāsanās) determine which body Prāṇa will next enter — 'mano-kṛtena' ('by the mind's making'). <strong>(4) At rebirth</strong>: Prāṇa enters a new body shaped by the mind's past activities. The body is not randomly assigned — it is <em>mano-kṛta</em> (mind-made). This doctrine appears across the Upanishads: <strong>Bṛhadāraṇyaka 4.4.5</strong>: 'As is one's desire, so is one's will; as is one's will, so is one's deed; as is one's deed, so is what one attains.' <strong>Chāndogya 3.14.1</strong>: 'Man is a creature of will (kratu). As he wills in this world, so does he become after death.' The mind is the architect of the next body. This is why the Upanishads emphasise <em>manas-śuddhi</em> (purification of the mind) — a pure mind leads to liberation; an impure mind leads to continued rebirth."
       }
     ]
   },
@@ -189,6 +314,11 @@
     "hi": "जैसे सम्राट् (चक्रवर्ती राजा) अधिकारियों (अधिकृतान्) को नियुक्त करता है — 'इन ग्रामों पर तू अधिकार कर, इन ग्रामों पर तू' — वैसे ही यह प्राण अन्य प्राणों (apāna, vyāna आदि) को पृथक्-पृथक् (अलग-अलग स्थानों पर) नियुक्त (सन्निधत्ते) करता है।",
     "en": "Just as an emperor (samrāṭ) appoints officers — 'Govern these villages, govern those villages' — so this Prāṇa stations the other vital breaths (itarān prāṇān), each in its own separate place (pṛthak pṛthak).",
     "ws": [
+      {
+        "s": "यथा",
+        "h": "जैसे / जिस प्रकार",
+        "e": "just as"
+      },
       {
         "s": "सम्राट्",
         "h": "सम्राट् / चक्रवर्ती / सार्वभौम राजा",
@@ -205,6 +335,26 @@
         "e": "appoints / assigns"
       },
       {
+        "s": "ग्रामान्",
+        "h": "ग्रामों को / गाँवों को",
+        "e": "villages"
+      },
+      {
+        "s": "अधितिष्ठस्व",
+        "h": "अधिकार करो / शासन करो",
+        "e": "govern / preside over"
+      },
+      {
+        "s": "एवम्",
+        "h": "इसी प्रकार / वैसे ही",
+        "e": "thus / in the same manner"
+      },
+      {
+        "s": "इतरान् प्राणान्",
+        "h": "अन्य प्राणों को (अपान, व्यान आदि)",
+        "e": "the other vital breaths"
+      },
+      {
         "s": "पृथक्पृथक्",
         "h": "अलग-अलग / भिन्न-भिन्न स्थानों पर",
         "e": "separately, each in its own place"
@@ -215,7 +365,7 @@
         "e": "stations / places"
       }
     ],
-    "gr": "<strong>samrāṭ</strong> — 'emperor': not merely a rājan (king) but a samrāṭ (sovereign over many kingdoms). This is the highest political title in Vedic literature. The metaphor says Prāṇa is not just a chief among equals (like a rājan) but an absolute sovereign (samrāṭ) whose authority is unquestionable. <strong>grāmān adhitiṣṭhasva</strong> — 'govern these villages': each sub-prāṇa is assigned a 'territory' (a region of the body) and told to govern it. This establishes a political metaphor for bodily physiology: the body is an empire, Prāṇa is the emperor, and the five sub-prāṇas are provincial governors. <strong>pṛthak pṛthak</strong> — the doubling of 'separately' emphasises that the five prāṇas occupy <em>distinct</em> regions — they are not mixed or interchangeable. The following mantras will specify each territory.",
+    "gr": "<strong>व्याकरण:</strong> <em>सम्राट्</em> — 'सम्राट्': यह केवल राजा (rājan) नहीं, अपितु सार्वभौम (sovereign) है — वैदिक साहित्य में सर्वोच्च राजनीतिक उपाधि। रूपक यह कहता है कि प्राण समानों में प्रथम नहीं, बल्कि निरंकुश अधिपति है। <em>ग्रामान् अधितिष्ठस्व</em> — 'इन ग्रामों पर शासन करो': प्रत्येक उप-प्राण को एक 'क्षेत्र' (शरीर का भाग) सौंपा जाता है। <em>पृथक् पृथक्</em> — 'अलग-अलग' का दोहराव इस बात पर बल देता है कि पाँचों प्राण <em>भिन्न</em> क्षेत्रों में रहते हैं — ये मिश्रित या विनिमेय (interchangeable) नहीं।<br><em>Eng:</em> Samrāṭ = sovereign (highest political title). Each sub-prāṇa gets a distinct body-territory. Pṛthak pṛthak (doubling) emphasises their non-interchangeable roles.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -240,11 +390,11 @@
     "dp": [
       {
         "q": "🔍 Why use a political metaphor for the body?",
-        "a": "The <strong>samrāṭ (emperor) metaphor</strong> is one of the Prashna Upanishad's most original contributions. It treats the body as a <strong>political system</strong>: an empire with a sovereign (Prāṇa), provincial governors (the five sub-prāṇas), and assigned territories (body regions). This metaphor works on several levels: <strong>(1) Hierarchy</strong>: just as an emperor outranks all officers, the chief Prāṇa outranks all sub-prāṇas. This was proved in Question 2 (the departure-test). <strong>(2) Delegation</strong>: the emperor doesn't govern every village personally — he delegates. Similarly, Prāṇa doesn't perform every bodily function directly — it assigns specific functions to apāna, samāna, vyāna, and udāna. <strong>(3) Order</strong>: when officers stay in their assigned territories, the empire prospers. When they overstep, chaos results. Similarly, when each prāṇa operates in its proper zone, health results. When they move out of position, disease follows — a principle that became foundational to <strong>Āyurveda</strong>. <strong>(4) Single authority</strong>: multiple officers, one sovereign. Multiple functions, one life-force. The political metaphor teaches unity-in-diversity: the body's many functions are not independent systems but expressions of one sovereign power."
+        "a": "<strong>सम्राट्-रूपक</strong> प्रश्नोपनिषद् का सबसे मौलिक योगदान है — शरीर को <strong>राजनीतिक व्यवस्था</strong> माना गया: सम्राट् (प्राण), प्रान्तीय शासक (पंच उप-प्राण), और नियत क्षेत्र (शरीर-भाग)। यह कई स्तरों पर काम करता है: <strong>(1) पदानुक्रम</strong>: जैसे सम्राट् सभी अधिकारियों से ऊपर, वैसे मुख्य प्राण सभी उप-प्राणों से ऊपर। <strong>(2) प्रत्यायोजन</strong>: सम्राट् हर गाँव स्वयं नहीं चलाता — वैसे ही प्राण हर शारीरिक कार्य स्वयं नहीं करता। <strong>(3) व्यवस्था</strong>: जब अधिकारी अपने क्षेत्रों में रहते हैं, राज्य सुखी; अन्यथा अराजकता — यही आयुर्वेद का मूल सिद्धान्त है। <strong>(4) एकाधिपत्य</strong>: अनेक अधिकारी, एक सम्राट् — अनेक कार्य, एक प्राण-शक्ति।<br><br><em>Eng:</em> The <strong>samrāṭ (emperor) metaphor</strong> is one of the Prashna Upanishad's most original contributions. It treats the body as a <strong>political system</strong>: an empire with a sovereign (Prāṇa), provincial governors (the five sub-prāṇas), and assigned territories (body regions). This metaphor works on several levels: <strong>(1) Hierarchy</strong>: just as an emperor outranks all officers, the chief Prāṇa outranks all sub-prāṇas. This was proved in Question 2 (the departure-test). <strong>(2) Delegation</strong>: the emperor doesn't govern every village personally — he delegates. Similarly, Prāṇa doesn't perform every bodily function directly — it assigns specific functions to apāna, samāna, vyāna, and udāna. <strong>(3) Order</strong>: when officers stay in their assigned territories, the empire prospers. When they overstep, chaos results. Similarly, when each prāṇa operates in its proper zone, health results. When they move out of position, disease follows — a principle that became foundational to <strong>Āyurveda</strong>. <strong>(4) Single authority</strong>: multiple officers, one sovereign. Multiple functions, one life-force. The political metaphor teaches unity-in-diversity: the body's many functions are not independent systems but expressions of one sovereign power."
       },
       {
         "q": "🔍 The five prāṇas and their 'territories'",
-        "a": "The emperor assigns five governors to five regions. The traditional <strong>territories of the five prāṇas</strong> are: <strong>(1) Prāṇa</strong> (capital-P) — governs the region from the <em>nose to the heart</em>. Functions: inhalation, swallowing, sensory intake. Direction: forward and upward. <strong>(2) Apāna</strong> — governs the region <em>below the navel</em>, specifically the organs of excretion and reproduction. Functions: excretion, urination, reproduction, downward-moving energy. Direction: downward. <strong>(3) Samāna</strong> — governs the <em>navel region</em> (the digestive fire zone). Functions: digestion, assimilation, equal distribution of nutrients. Direction: inward/centralising. <strong>(4) Udāna</strong> — governs the <em>throat and head</em>. Functions: speech, effort, vomiting, and the departure of the soul at death. Direction: upward. <strong>(5) Vyāna</strong> — pervades the <em>entire body</em>; it has no single seat. Functions: circulation of blood and nutrients through the nāḍīs (channels), movement of limbs. Direction: outward/diffusing. This fivefold division is foundational to <strong>Yoga</strong> (prāṇāyāma works by controlling these five) and <strong>Āyurveda</strong> (vāta-doṣa is classified by which prāṇa is disturbed)."
+        "a": "सम्राट् पाँच शासकों को पाँच क्षेत्र सौंपता है। <strong>पंचप्राण के क्षेत्र</strong>: <strong>(1) प्राण</strong> — नासिका से हृदय: श्वसन, निगलन, इन्द्रिय-ग्रहण; दिशा: आगे-ऊपर। <strong>(2) अपान</strong> — नाभि के नीचे: मलत्याग, मूत्रत्याग, प्रजनन; दिशा: नीचे। <strong>(3) समान</strong> — नाभि-प्रदेश: पाचन, अवशोषण, पोषक-वितरण; दिशा: भीतर/केन्द्रीकरण। <strong>(4) उदान</strong> — कण्ठ और मस्तक: वाणी, प्रयत्न, मृत्यु-काल में जीव का प्रस्थान; दिशा: ऊपर। <strong>(5) व्यान</strong> — सम्पूर्ण शरीर: रक्त-संचार, अंग-संचालन; दिशा: बाहर/व्यापक। यह पंचविभाजन <strong>योग</strong> (प्राणायाम) और <strong>आयुर्वेद</strong> (वात-दोष वर्गीकरण) का आधार है।<br><br><em>Eng:</em> The emperor assigns five governors to five regions. The traditional <strong>territories of the five prāṇas</strong> are: <strong>(1) Prāṇa</strong> (capital-P) — governs the region from the <em>nose to the heart</em>. Functions: inhalation, swallowing, sensory intake. Direction: forward and upward. <strong>(2) Apāna</strong> — governs the region <em>below the navel</em>, specifically the organs of excretion and reproduction. Functions: excretion, urination, reproduction, downward-moving energy. Direction: downward. <strong>(3) Samāna</strong> — governs the <em>navel region</em> (the digestive fire zone). Functions: digestion, assimilation, equal distribution of nutrients. Direction: inward/centralising. <strong>(4) Udāna</strong> — governs the <em>throat and head</em>. Functions: speech, effort, vomiting, and the departure of the soul at death. Direction: upward. <strong>(5) Vyāna</strong> — pervades the <em>entire body</em>; it has no single seat. Functions: circulation of blood and nutrients through the nāḍīs (channels), movement of limbs. Direction: outward/diffusing. This fivefold division is foundational to <strong>Yoga</strong> (prāṇāyāma works by controlling these five) and <strong>Āyurveda</strong> (vāta-doṣa is classified by which prāṇa is disturbed)."
       }
     ]
   },
@@ -266,9 +416,34 @@
         "e": "the organ of generation"
       },
       {
+        "s": "अपानम्",
+        "h": "अपान वायु / अधोगामी प्राण",
+        "e": "apāna / the downward breath"
+      },
+      {
+        "s": "चक्षुः",
+        "h": "नेत्र / आँख",
+        "e": "eye"
+      },
+      {
+        "s": "श्रोत्रे",
+        "h": "कान / श्रवणेन्द्रिय",
+        "e": "ear"
+      },
+      {
+        "s": "मुखनासिकाभ्याम्",
+        "h": "मुख और नासिका से / मुँह-नाक द्वारा",
+        "e": "through mouth and nostrils"
+      },
+      {
+        "s": "प्राणः स्वयम्",
+        "h": "प्राण स्वयं / मुख्य प्राण अपने आप",
+        "e": "Prāṇa itself"
+      },
+      {
         "s": "समानः",
         "h": "समान वायु / समान रूप से वितरण करने वाला प्राण",
-        "e": "samāna"
+        "e": "samāna / the equalising breath"
       },
       {
         "s": "हुतम्",
@@ -276,12 +451,22 @@
         "e": "offered / sacrificed"
       },
       {
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन / आहार",
+        "e": "food / nourishment"
+      },
+      {
+        "s": "समं नयति",
+        "h": "समान रूप से वितरित करता है / बराबर पहुँचाता है",
+        "e": "distributes equally"
+      },
+      {
         "s": "सप्त अर्चिषः",
         "h": "सात ज्वालाएँ / सात लपटें",
         "e": "seven flames"
       }
     ],
-    "gr": "<strong>Three territories assigned</strong>: (1) <em>Apāna</em> → pāyu and upastha (lower body); (2) <em>Prāṇa</em> → eyes, ears, mouth, nostrils (head region); (3) <em>Samāna</em> → the middle (navel/digestive zone). This is the spatial assignment the emperor-simile (mantra 4) promised. <strong>svayaṁ pratitiṣṭhate</strong> — 'itself is established': the chief Prāṇa personally governs the head region — the most important territory (the seat of consciousness). It doesn't delegate this to a sub-prāṇa. <strong>hutam annam samaṁ nayati</strong> — 'distributes the offered food equally': the word <em>huta</em> treats eating as a fire-sacrifice — food is 'offered' into the jāṭharāgni (digestive fire). Samāna's job is equal distribution (sama + √nī). <strong>sapta arciṣaḥ</strong> — 'seven flames': the seven openings of the head (2 eyes + 2 ears + 2 nostrils + 1 mouth = 7) through which Prāṇa's fire manifests — seeing, hearing, smelling, and tasting are all 'flames' of the vital fire.",
+    "gr": "<strong>व्याकरण:</strong> तीन क्षेत्रों का वर्णन: (1) <em>अपान</em> → पायु और उपस्थ (अधोभाग); (2) <em>प्राण</em> → चक्षु, श्रोत्र, मुख, नासिका (शिरोभाग); (3) <em>समान</em> → मध्यभाग (नाभि-प्रदेश)। <em>स्वयं प्रतितिष्ठते</em> — मुख्य प्राण स्वयं शिरोभाग (सर्वाधिक महत्त्वपूर्ण क्षेत्र — चेतना का केन्द्र) का शासन करता है। <em>हुतम् अन्नम् समं नयति</em> — भोजन को 'हुत' (अग्नि में अर्पित) कहा गया है — खाना एक यज्ञ है। समान का कार्य समान वितरण (sama + √nī) है। <em>सप्त अर्चिषः</em> — 'सात ज्वालाएँ': शिर के सात छिद्र (2 नेत्र + 2 कान + 2 नासिका + 1 मुख = 7) जिनसे प्राण की अग्नि प्रकट होती है।<br><em>Eng:</em> Three territories: apāna (lower), prāṇa (head), samāna (middle). Eating = sacrifice (huta). Seven flames = seven head-openings.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -306,11 +491,11 @@
     "dp": [
       {
         "q": "🔍 What are the 'seven flames' (sapta arciṣaḥ)?",
-        "a": "The <strong>seven flames</strong> (sapta arciṣaḥ) are the seven openings of the head: <strong>two eyes, two ears, two nostrils, and one mouth</strong> (2+2+2+1 = 7). These are called 'flames' because: <strong>(1)</strong> Each is a sensory <em>fire</em> that 'burns' incoming stimuli into conscious perception — sight converts light into vision, hearing converts vibrations into sound, etc. <strong>(2)</strong> The Muṇḍaka Upanishad (1.2.4) names seven tongues of the sacrificial fire: <em>Kālī, Karālī, Manojavā, Sulohitā, Sudhūmravarṇā, Sphuliṅginī, Viśvarūpī</em>. In the Prashna's internalised version, these seven tongues become the seven sensory openings. <strong>(3)</strong> In Āyurveda, the concept of <em>dhātu-agni</em> (tissue-fire) is related: each dhātu (tissue) has its own metabolic fire. The seven head-openings are the most visible sites where the body's internal fire meets the external world. The connection to digestion is made explicit: samāna distributes digested food, and the energy from that food fuels the seven sensory fires. Thus <strong>eating → digestion → distribution → sensory consciousness</strong> forms a single chain."
+        "a": "<strong>सप्त अर्चिषः</strong> (सात ज्वालाएँ) शिर के सात छिद्र हैं: <strong>दो नेत्र, दो कान, दो नासिका-छिद्र, एक मुख</strong> (2+2+2+1 = 7)। इन्हें 'ज्वालाएँ' इसलिए कहा गया क्योंकि: <strong>(1)</strong> प्रत्येक एक संवेदी <em>अग्नि</em> है जो आने वाली उत्तेजनाओं को सचेतन अनुभव में 'पचाती' है। <strong>(2)</strong> मुण्डक उपनिषद् (1.2.4) यज्ञ-अग्नि की सात जिह्वाएँ बताता है — प्रश्नोपनिषद् में इन्हें आन्तरिक रूप दिया गया है। <strong>(3)</strong> आयुर्वेद में <em>धात्वग्नि</em> (ऊतक-अग्नि) की अवधारणा सम्बन्धित है। पाचन → वितरण → संवेदी चेतना — एक शृंखला है।<br><br><em>Eng:</em> The <strong>seven flames</strong> (sapta arciṣaḥ) are the seven openings of the head: <strong>two eyes, two ears, two nostrils, and one mouth</strong> (2+2+2+1 = 7). These are called 'flames' because: <strong>(1)</strong> Each is a sensory <em>fire</em> that 'burns' incoming stimuli into conscious perception — sight converts light into vision, hearing converts vibrations into sound, etc. <strong>(2)</strong> The Muṇḍaka Upanishad (1.2.4) names seven tongues of the sacrificial fire: <em>Kālī, Karālī, Manojavā, Sulohitā, Sudhūmravarṇā, Sphuliṅginī, Viśvarūpī</em>. In the Prashna's internalised version, these seven tongues become the seven sensory openings. <strong>(3)</strong> In Āyurveda, the concept of <em>dhātu-agni</em> (tissue-fire) is related: each dhātu (tissue) has its own metabolic fire. The seven head-openings are the most visible sites where the body's internal fire meets the external world. The connection to digestion is made explicit: samāna distributes digested food, and the energy from that food fuels the seven sensory fires. Thus <strong>eating → digestion → distribution → sensory consciousness</strong> forms a single chain."
       },
       {
         "q": "🔍 How does Āyurveda use the five-prāṇa model?",
-        "a": "The <strong>five-prāṇa</strong> model described in this mantra became the foundation of <strong>Āyurvedic physiology</strong>: <strong>Prāṇa-vāyu</strong> (in the head): governs inhalation, swallowing, sneezing, and belching. Disorders: hiccups, asthma, respiratory problems. <strong>Apāna-vāyu</strong> (below the navel): governs defecation, urination, menstruation, childbirth, and ejaculation. Disorders: constipation, urinary problems, menstrual irregularities. <strong>Samāna-vāyu</strong> (navel region): governs digestion (agni), absorption, and nutrient distribution. Disorders: indigestion, malabsorption, metabolic imbalance. <strong>Udāna-vāyu</strong> (throat): governs speech, effort, memory, and vomiting. Disorders: speech problems, thyroid issues, loss of voice. <strong>Vyāna-vāyu</strong> (whole body): governs circulation, muscular movement, and joint function. Disorders: poor circulation, tremors, joint problems. In Āyurvedic diagnosis, the physician determines which prāṇa is <em>vitiated</em> (moved out of its territory) and prescribes treatment to <em>return it to its seat</em> — exactly as the emperor-simile suggests: health is when each governor stays in his assigned region."
+        "a": "इस मन्त्र में वर्णित <strong>पंचप्राण मॉडल</strong> <strong>आयुर्वेदीय शरीरविज्ञान</strong> का आधार बना: <strong>प्राण-वायु</strong> (शिर में): श्वसन, निगलन; विकार — हिचकी, दमा। <strong>अपान-वायु</strong> (नाभि के नीचे): मलत्याग, मूत्रत्याग, प्रजनन; विकार — कब्ज, मूत्र-समस्या। <strong>समान-वायु</strong> (नाभि-प्रदेश): पाचन, अवशोषण; विकार — अपच, चयापचय असन्तुलन। <strong>उदान-वायु</strong> (कण्ठ): वाणी, प्रयत्न; विकार — वाक्-विकार, थायरॉइड। <strong>व्यान-वायु</strong> (सम्पूर्ण शरीर): रक्तसंचार, अंग-संचालन; विकार — संचार-दुर्बलता, कम्पन। आयुर्वेदिक निदान में चिकित्सक यह निर्धारित करता है कि कौन-सा प्राण <em>विकृत</em> (displaced) है और उसे <em>स्वस्थान पर लौटाने</em> का उपचार करता है।<br><br><em>Eng:</em> The <strong>five-prāṇa</strong> model described in this mantra became the foundation of <strong>Āyurvedic physiology</strong>: <strong>Prāṇa-vāyu</strong> (in the head): governs inhalation, swallowing, sneezing, and belching. Disorders: hiccups, asthma, respiratory problems. <strong>Apāna-vāyu</strong> (below the navel): governs defecation, urination, menstruation, childbirth, and ejaculation. Disorders: constipation, urinary problems, menstrual irregularities. <strong>Samāna-vāyu</strong> (navel region): governs digestion (agni), absorption, and nutrient distribution. Disorders: indigestion, malabsorption, metabolic imbalance. <strong>Udāna-vāyu</strong> (throat): governs speech, effort, memory, and vomiting. Disorders: speech problems, thyroid issues, loss of voice. <strong>Vyāna-vāyu</strong> (whole body): governs circulation, muscular movement, and joint function. Disorders: poor circulation, tremors, joint problems. In Āyurvedic diagnosis, the physician determines which prāṇa is <em>vitiated</em> (moved out of its territory) and prescribes treatment to <em>return it to its seat</em> — exactly as the emperor-simile suggests: health is when each governor stays in his assigned region."
       }
     ]
   },
@@ -327,6 +512,11 @@
         "e": "in the heart"
       },
       {
+        "s": "एषः आत्मा",
+        "h": "यह आत्मा / यह जीवात्मा",
+        "e": "this Self / the Ātman"
+      },
+      {
         "s": "एकशतम्",
         "h": "एक सौ एक (101)",
         "e": "one hundred and one"
@@ -337,17 +527,42 @@
         "e": "of the channels"
       },
       {
+        "s": "शतं शतम्",
+        "h": "सौ-सौ / प्रत्येक में सौ शाखाएँ",
+        "e": "a hundred each / hundred branches"
+      },
+      {
+        "s": "एकैकस्याः",
+        "h": "प्रत्येक (नाडी) की",
+        "e": "of each one"
+      },
+      {
+        "s": "द्वासप्ततिः",
+        "h": "बहत्तर (72)",
+        "e": "seventy-two"
+      },
+      {
         "s": "प्रतिशाखा",
         "h": "उपशाखा / प्रत्येक शाखा की शाखा",
         "e": "sub-branches"
       },
       {
+        "s": "सहस्राणि",
+        "h": "हज़ारों / सहस्र",
+        "e": "thousands"
+      },
+      {
         "s": "व्यानः",
         "h": "व्यान वायु / सर्वव्यापी प्राण",
-        "e": "vyāna"
+        "e": "vyāna / the all-pervading breath"
+      },
+      {
+        "s": "चरति",
+        "h": "विचरण करता है / संचार करता है",
+        "e": "moves / circulates"
       }
     ],
-    "gr": "<strong>hṛdi ātmā</strong> — 'in the heart is the Self': the heart (hṛd) is the seat of the Ātman. This is stated across the Upanishads: Kaṭha 2.1.1 ('the Self, the size of a thumb, dwells in the heart'), Chāndogya 8.1.1 ('within the city of Brahman — the body — is a small lotus, the heart'). <strong>ekaśatam nāḍīnām</strong> — '101 nāḍīs': 101 principal channels radiate from the heart. The Chāndogya (8.6.6) and Kaṭha (2.3.16) also cite this number. <strong>The branching calculation</strong>: 101 × 100 × 72,000 = 727,200,000 sub-channels. This astronomical number symbolises the prāṇa's reach into every cell of the body. The exact figure is not meant as a literal count but as an expression of totality: Prāṇa reaches <em>everywhere</em>. <strong>vyānaḥ carati</strong> — 'vyāna moves (in these)': vyāna is the prāṇa assigned to the entire nāḍī system — the circulatory breath that pervades every channel.",
+    "gr": "<strong>व्याकरण:</strong> <em>हृदि आत्मा</em> — 'हृदय में आत्मा (निवास करता) है': सभी उपनिषदों में हृदय आत्मा का निवास-स्थान है (कठ 2.1.1, छान्दोग्य 8.1.1)। <em>एकशतम् नाडीनाम्</em> — '101 प्रमुख नाडियाँ' हृदय से निकलती हैं। <em>शाखा-गणना</em>: 101 × 100 × 72,000 = 72,72,00,000 उपनाडियाँ — यह विशाल संख्या प्राण की सर्वव्यापकता को व्यक्त करती है। <em>व्यानः चरति</em> — 'व्यान (इनमें) विचरण करता है': व्यान सम्पूर्ण नाडी-तन्त्र में संचारित होने वाला प्राण है — रक्त-संचार और पोषक-तत्त्वों का वितरण इसका कार्य है।<br><em>Eng:</em> Heart = seat of Ātman. 101 nāḍīs branch into 727 million sub-channels. Vyāna circulates through the entire network.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -372,11 +587,11 @@
     "dp": [
       {
         "q": "🔍 What are nāḍīs?",
-        "a": "The <strong>nāḍīs</strong> (नाड़ी, from √nad, 'to flow') are <strong>subtle energy channels</strong> through which prāṇa (life-force) circulates in the body. They are <em>not</em> identical with physical structures like nerves, blood vessels, or lymphatic channels — though there is functional overlap. Key points: <strong>Number</strong>: The Upanishads cite 101 principal nāḍīs (Praśna, Kaṭha, Chāndogya). Later Yoga texts (Haṭha Yoga Pradīpikā) standardise the sub-branch count at 72,000. <strong>Origin</strong>: All nāḍīs radiate from the heart (hṛd-padma, the heart-lotus). <strong>Three principal nāḍīs</strong>: (1) <em>Suṣumnā</em> — the central channel, running from the base of the spine to the crown of the head. The channel of spiritual ascent. (2) <em>Iḍā</em> — the left channel, associated with the moon, cooling energy, and the parasympathetic nervous system. (3) <em>Piṅgalā</em> — the right channel, associated with the sun, heating energy, and the sympathetic nervous system. <strong>Function</strong>: vyāna circulates through the entire nāḍī network, distributing nutrients and consciousness. When nāḍīs are blocked (by physical or mental impurities), prāṇa cannot flow freely — this causes disease. <strong>Yoga's goal</strong>: nāḍī-śodhana (channel-purification) through prāṇāyāma, so that prāṇa can enter the suṣumnā and ascend to higher states of consciousness."
+        "a": "<strong>नाडी</strong> (√नद्, 'बहना') <strong>सूक्ष्म ऊर्जा-मार्ग</strong> हैं जिनमें प्राण शरीर में संचारित होता है। ये भौतिक संरचनाओं (नसें, रक्तवाहिकाएँ) से <em>भिन्न</em> हैं, यद्यपि कार्यात्मक समानता है। <strong>संख्या</strong>: 101 प्रमुख नाडियाँ (प्रश्न, कठ, छान्दोग्य)। <strong>उद्गम</strong>: सभी हृदय-कमल (हृद्-पद्म) से निकलती हैं। <strong>तीन प्रमुख नाडियाँ</strong>: (1) <em>सुषुम्ना</em> — केन्द्रीय मार्ग (आध्यात्मिक उत्थान); (2) <em>इडा</em> — बायाँ मार्ग (चन्द्र, शीतल ऊर्जा); (3) <em>पिंगला</em> — दायाँ मार्ग (सूर्य, ऊष्ण ऊर्जा)। <strong>योग का लक्ष्य</strong>: नाडी-शोधन (प्राणायाम द्वारा मार्ग-शुद्धि) ताकि प्राण सुषुम्ना में प्रवेश करके उच्चतर चेतना तक पहुँचे।<br><br><em>Eng:</em> The <strong>nāḍīs</strong> (नाड़ी, from √nad, 'to flow') are <strong>subtle energy channels</strong> through which prāṇa (life-force) circulates in the body. They are <em>not</em> identical with physical structures like nerves, blood vessels, or lymphatic channels — though there is functional overlap. Key points: <strong>Number</strong>: The Upanishads cite 101 principal nāḍīs (Praśna, Kaṭha, Chāndogya). Later Yoga texts (Haṭha Yoga Pradīpikā) standardise the sub-branch count at 72,000. <strong>Origin</strong>: All nāḍīs radiate from the heart (hṛd-padma, the heart-lotus). <strong>Three principal nāḍīs</strong>: (1) <em>Suṣumnā</em> — the central channel, running from the base of the spine to the crown of the head. The channel of spiritual ascent. (2) <em>Iḍā</em> — the left channel, associated with the moon, cooling energy, and the parasympathetic nervous system. (3) <em>Piṅgalā</em> — the right channel, associated with the sun, heating energy, and the sympathetic nervous system. <strong>Function</strong>: vyāna circulates through the entire nāḍī network, distributing nutrients and consciousness. When nāḍīs are blocked (by physical or mental impurities), prāṇa cannot flow freely — this causes disease. <strong>Yoga's goal</strong>: nāḍī-śodhana (channel-purification) through prāṇāyāma, so that prāṇa can enter the suṣumnā and ascend to higher states of consciousness."
       },
       {
         "q": "🔍 Why is the heart (not the brain) the seat of the Self?",
-        "a": "The Upanishads consistently place the <strong>Ātman in the heart</strong> (hṛd-guha, 'heart-cave'), not in the brain. This is not anatomical ignorance — the Vedic tradition knew the brain existed — but a deliberate philosophical and yogic claim: <strong>(1) Experiential basis</strong>: meditators report that deep states of consciousness are 'felt' in the chest, not the head. The heart-centre (hṛd-padma) is the locus of the <em>anāhata</em> chakra in Yoga — the point where the individual self is experienced. <strong>(2) Philosophical reason</strong>: the brain is an organ of <em>processing</em> (it computes), but the heart is the seat of <em>being</em> (it is). Consciousness as <em>awareness</em> is located in the heart; consciousness as <em>thought</em> is located in the brain. The Upanishads are interested in awareness, not thought. <strong>(3) Textual consistency</strong>: Kaṭha 2.1.1: 'The Self, the size of a thumb, dwells in the heart.' Chāndogya 8.1.1: 'Within the body is a lotus called the heart; within that is a small space — as great as this universe.' Bṛhadāraṇyaka 2.1.17: 'The Self rests in the heart.' <strong>(4) Practical consequence</strong>: in meditation, one is instructed to focus on the heart-centre (hṛd-dhyāna), not the brain. Ramana Maharshi taught that self-enquiry ('Who am I?') naturally draws attention to the right side of the chest — the spiritual heart (hṛdayam)."
+        "a": "उपनिषद् <strong>आत्मा को हृदय में</strong> (हृद्-गुहा) स्थित बताते हैं, मस्तिष्क में नहीं। यह शारीरिक अज्ञान नहीं — एक सुविचारित दार्शनिक और योगिक दावा है: <strong>(1) अनुभवात्मक आधार</strong>: ध्यानियों का अनुभव है कि गहन चेतना-अवस्थाएँ छाती (हृदय-केन्द्र) में 'अनुभव' होती हैं, मस्तक में नहीं। <strong>(2) दार्शनिक कारण</strong>: मस्तिष्क <em>प्रसंस्करण</em> (processing) का अंग है; हृदय <em>अस्तित्व</em> (being) का केन्द्र। <strong>(3) शास्त्रीय संगति</strong>: कठ 2.1.1, छान्दोग्य 8.1.1, बृहदारण्यक 2.1.17 — सभी में आत्मा हृदय में। <strong>(4) व्यावहारिक परिणाम</strong>: ध्यान में हृदय-केन्द्र पर ध्यान केन्द्रित किया जाता है (हृद्-ध्यान), मस्तिष्क पर नहीं।<br><br><em>Eng:</em> The Upanishads consistently place the <strong>Ātman in the heart</strong> (hṛd-guha, 'heart-cave'), not in the brain. This is not anatomical ignorance — the Vedic tradition knew the brain existed — but a deliberate philosophical and yogic claim: <strong>(1) Experiential basis</strong>: meditators report that deep states of consciousness are 'felt' in the chest, not the head. The heart-centre (hṛd-padma) is the locus of the <em>anāhata</em> chakra in Yoga — the point where the individual self is experienced. <strong>(2) Philosophical reason</strong>: the brain is an organ of <em>processing</em> (it computes), but the heart is the seat of <em>being</em> (it is). Consciousness as <em>awareness</em> is located in the heart; consciousness as <em>thought</em> is located in the brain. The Upanishads are interested in awareness, not thought. <strong>(3) Textual consistency</strong>: Kaṭha 2.1.1: 'The Self, the size of a thumb, dwells in the heart.' Chāndogya 8.1.1: 'Within the body is a lotus called the heart; within that is a small space — as great as this universe.' Bṛhadāraṇyaka 2.1.17: 'The Self rests in the heart.' <strong>(4) Practical consequence</strong>: in meditation, one is instructed to focus on the heart-centre (hṛd-dhyāna), not the brain. Ramana Maharshi taught that self-enquiry ('Who am I?') naturally draws attention to the right side of the chest — the spiritual heart (hṛdayam)."
       }
     ]
   },
@@ -387,6 +602,11 @@
     "hi": "और एक (नाडी) से ऊर्ध्व (ऊपर) उदान (ले जाता है) — पुण्य (सत्कर्म) से पुण्य-लोक में, पाप (दुष्कर्म) से पाप-लोक में, और दोनों (पुण्य-पाप) के मिश्रण से मनुष्य-लोक में (ले जाता है)।",
     "en": "Then, through one (nāḍī), upward (ūrdhva), udāna leads — by merit (puṇya) to the meritorious world, by sin (pāpa) to the sinful world, and by both (ubhābhyām) to the human world (manuṣya-loka).",
     "ws": [
+      {
+        "s": "अथ",
+        "h": "और / तब / फिर",
+        "e": "then / and"
+      },
       {
         "s": "एकया",
         "h": "एक (नाडी) से / एक मार्ग से",
@@ -400,20 +620,45 @@
       {
         "s": "उदानः",
         "h": "उदान वायु / ऊपर ले जाने वाला प्राण",
-        "e": "udāna"
+        "e": "udāna / the ascending breath"
       },
       {
-        "s": "पुण्यम्",
-        "h": "पुण्य-लोक / सत्कर्म का फल-लोक",
-        "e": "the meritorious world"
+        "s": "पुण्येन",
+        "h": "पुण्य (सत्कर्म) से / शुभ कर्म द्वारा",
+        "e": "by merit / by good deeds"
+      },
+      {
+        "s": "पुण्यम् लोकम्",
+        "h": "पुण्य-लोक / सत्कर्म का फल-लोक / स्वर्ग",
+        "e": "the meritorious world / heaven"
+      },
+      {
+        "s": "पापेन",
+        "h": "पाप (दुष्कर्म) से / अशुभ कर्म द्वारा",
+        "e": "by sin / by evil deeds"
+      },
+      {
+        "s": "पापम्",
+        "h": "पाप-लोक / निम्न लोक / नरक",
+        "e": "the sinful world / lower realms"
+      },
+      {
+        "s": "उभाभ्याम्",
+        "h": "दोनों (पुण्य-पाप) के मिश्रण से",
+        "e": "by both (merit and sin)"
       },
       {
         "s": "मनुष्यलोकम्",
         "h": "मनुष्य-लोक / मानव-जन्म",
         "e": "the human world"
+      },
+      {
+        "s": "नयति",
+        "h": "ले जाता है / पहुँचाता है",
+        "e": "leads / takes"
       }
     ],
-    "gr": "<strong>ekayā ūrdhvaḥ</strong> — 'through one (nāḍī), upward': the one nāḍī is the <em>suṣumnā</em> — the central channel that runs from the heart to the crown of the head (brahma-randhra). At death, udāna draws the life-force upward through this channel. <strong>Three destinations based on karma</strong>: (1) puṇya → puṇya-loka (heaven/deva-loka); (2) pāpa → pāpa-loka (lower realms/naraka); (3) mixture of both → manuṣya-loka (human rebirth). This is the most concise statement of the karma-rebirth mechanism in the Upanishads. <strong>The role of udāna</strong>: udāna is the 'transporter' at death. It doesn't judge — it simply carries the jīva to the destination determined by the accumulated karma. The Bṛhadāraṇyaka (4.4.2) describes this in more detail: 'The tip of the heart lights up; by that light the Self departs, either through the eye, or the head, or other parts of the body.'",
+    "gr": "<strong>व्याकरण:</strong> <em>एकया ऊर्ध्वः</em> — 'एक (नाडी) से ऊपर': वह एक नाडी सुषुम्ना है — हृदय से ब्रह्मरन्ध्र (मस्तक-शीर्ष) तक जाने वाली केन्द्रीय नाडी। मृत्यु-काल में उदान इसी मार्ग से जीव को ऊपर ले जाता है। <em>कर्मानुसार तीन गन्तव्य</em>: (1) पुण्य → पुण्य-लोक (देव-लोक/स्वर्ग); (2) पाप → पाप-लोक (नरक/निम्न लोक); (3) मिश्रण → मनुष्य-लोक (मानव-पुनर्जन्म)। यह उपनिषदों में कर्म-पुनर्जन्म यन्त्र का सबसे संक्षिप्त वर्णन है। उदान न्यायाधीश नहीं है — यह केवल 'वाहक' (transporter) है।<br><em>Eng:</em> One nāḍī = suṣumnā. Three karma-destinations: heaven (merit), hell (sin), human world (mixed). Udāna transports, doesn't judge.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -438,11 +683,11 @@
     "dp": [
       {
         "q": "🔍 How does udāna determine the afterlife destination?",
-        "a": "The mantra describes a precise <strong>mechanism of post-mortem transit</strong>: <strong>Step 1</strong>: At death, the sub-prāṇas withdraw from their territories and converge on the chief Prāṇa in the heart. <strong>Step 2</strong>: Udāna (the upward-moving breath) then draws the life-force upward through one of the 101 nāḍīs — specifically the suṣumnā, the central channel. <strong>Step 3</strong>: The <em>karmic load</em> (the accumulated puṇya and pāpa) determines the exit-point and destination: <strong>Puṇya-dominant</strong> → exits through the upper openings (crown, eyes) → ascends to deva-loka (heaven). <strong>Pāpa-dominant</strong> → exits through the lower openings → descends to lower realms. <strong>Mixed (puṇya + pāpa)</strong> → returns to manuṣya-loka (human rebirth). The <strong>Bṛhadāraṇyaka (4.4.1-2)</strong> elaborates: 'The tip of the heart lights up; by that light the Self departs. When it departs through the eye, that is liberation; when through the head, that is heaven...' The <strong>Kaṭha (2.3.16)</strong> adds: 'One of the 101 nāḍīs goes to the crown; by that one goes to immortality. The others lead to various departures.' The practical implication: <strong>yoga prepares the suṣumnā</strong> so that at death, udāna can carry consciousness straight upward to liberation, bypassing the karma-determined detours."
+        "a": "मन्त्र में मृत्यु-पश्चात् यात्रा की सटीक <strong>क्रियाविधि</strong> है: <strong>चरण 1</strong>: मृत्यु-काल में उप-प्राण अपने क्षेत्रों से हटकर हृदय में मुख्य प्राण में एकत्र होते हैं। <strong>चरण 2</strong>: उदान जीव-शक्ति को 101 नाडियों में से एक — विशेषतः सुषुम्ना — द्वारा ऊपर खींचता है। <strong>चरण 3</strong>: <em>कर्म-भार</em> (पुण्य-पाप) निर्गम-बिन्दु और गन्तव्य निर्धारित करता है: <strong>पुण्य-प्रधान</strong> → ऊपरी छिद्रों से → देव-लोक; <strong>पाप-प्रधान</strong> → निचले छिद्रों से → निम्न लोक; <strong>मिश्रित</strong> → मनुष्य-लोक (पुनर्जन्म)। <strong>बृहदारण्यक 4.4.1-2</strong>: 'हृदय का अग्रभाग प्रकाशित होता है; उस प्रकाश से आत्मा प्रस्थान करती है।' <strong>व्यावहारिक निहितार्थ</strong>: योग सुषुम्ना को तैयार करता है ताकि मृत्यु-काल में उदान चेतना को सीधे ऊपर ले जा सके।<br><br><em>Eng:</em> The mantra describes a precise <strong>mechanism of post-mortem transit</strong>: <strong>Step 1</strong>: At death, the sub-prāṇas withdraw from their territories and converge on the chief Prāṇa in the heart. <strong>Step 2</strong>: Udāna (the upward-moving breath) then draws the life-force upward through one of the 101 nāḍīs — specifically the suṣumnā, the central channel. <strong>Step 3</strong>: The <em>karmic load</em> (the accumulated puṇya and pāpa) determines the exit-point and destination: <strong>Puṇya-dominant</strong> → exits through the upper openings (crown, eyes) → ascends to deva-loka (heaven). <strong>Pāpa-dominant</strong> → exits through the lower openings → descends to lower realms. <strong>Mixed (puṇya + pāpa)</strong> → returns to manuṣya-loka (human rebirth). The <strong>Bṛhadāraṇyaka (4.4.1-2)</strong> elaborates: 'The tip of the heart lights up; by that light the Self departs. When it departs through the eye, that is liberation; when through the head, that is heaven...' The <strong>Kaṭha (2.3.16)</strong> adds: 'One of the 101 nāḍīs goes to the crown; by that one goes to immortality. The others lead to various departures.' The practical implication: <strong>yoga prepares the suṣumnā</strong> so that at death, udāna can carry consciousness straight upward to liberation, bypassing the karma-determined detours."
       },
       {
         "q": "🔍 The three lokas and the karma balance",
-        "a": "The Prashna's <strong>three-destination scheme</strong> is the simplest version of the Upanishadic afterlife doctrine: <strong>(1) Puṇya-loka</strong> (meritorious world): deva-loka or svarga — attained by predominantly good karma. Enjoyable but <em>temporary</em> — when the merit is exhausted, the soul returns to earth (this is the pitṛyāṇa, the 'path of the fathers'). <strong>(2) Pāpa-loka</strong> (sinful world): naraka or lower realms — attained by predominantly bad karma. Painful but also <em>temporary</em> — when the sin is exhausted, the soul returns. <strong>(3) Manuṣya-loka</strong> (human world): rebirth as a human — attained by a <em>mixture</em> of puṇya and pāpa. The Gītā (6.41-45) describes this gracefully: the yogi who falls short of liberation is reborn in a family of 'the pure and prosperous' or 'the wise yogis' — a human birth with favourable conditions. The <strong>key insight</strong>: only manuṣya-loka allows <em>new</em> karma to be generated. In heaven and hell, the soul merely <em>consumes</em> past karma without creating new karma. This is why human birth is considered precious in Vedānta — it is the only state where liberation is possible, because only in the human state can one perform the conscious choice (viveka) that leads beyond karma altogether."
+        "a": "प्रश्नोपनिषद् की <strong>तीन-गन्तव्य योजना</strong> उपनिषदीय परलोक-सिद्धान्त का सरलतम रूप है: <strong>(1) पुण्य-लोक</strong>: देव-लोक/स्वर्ग — प्रधानतः शुभ कर्म से। सुखद किन्तु <em>अस्थायी</em> — पुण्य समाप्त होने पर जीव लौटता है (पितृयाण)। <strong>(2) पाप-लोक</strong>: नरक/निम्न लोक — प्रधानतः अशुभ कर्म से। कष्टकारी किन्तु <em>अस्थायी</em>। <strong>(3) मनुष्य-लोक</strong>: मानव-पुनर्जन्म — पुण्य-पाप के <em>मिश्रण</em> से। <strong>मूल अन्तर्दृष्टि</strong>: केवल मनुष्य-लोक में <em>नया</em> कर्म उत्पन्न हो सकता है — स्वर्ग-नरक में जीव केवल पूर्वकर्म <em>भोगता</em> है। इसीलिए वेदान्त में मानव-जन्म अमूल्य माना गया — केवल यहीं विवेक (conscious choice) से कर्म-बन्धन से परे जाना सम्भव है।<br><br><em>Eng:</em> The Prashna's <strong>three-destination scheme</strong> is the simplest version of the Upanishadic afterlife doctrine: <strong>(1) Puṇya-loka</strong> (meritorious world): deva-loka or svarga — attained by predominantly good karma. Enjoyable but <em>temporary</em> — when the merit is exhausted, the soul returns to earth (this is the pitṛyāṇa, the 'path of the fathers'). <strong>(2) Pāpa-loka</strong> (sinful world): naraka or lower realms — attained by predominantly bad karma. Painful but also <em>temporary</em> — when the sin is exhausted, the soul returns. <strong>(3) Manuṣya-loka</strong> (human world): rebirth as a human — attained by a <em>mixture</em> of puṇya and pāpa. The Gītā (6.41-45) describes this gracefully: the yogi who falls short of liberation is reborn in a family of 'the pure and prosperous' or 'the wise yogis' — a human birth with favourable conditions. The <strong>key insight</strong>: only manuṣya-loka allows <em>new</em> karma to be generated. In heaven and hell, the soul merely <em>consumes</em> past karma without creating new karma. This is why human birth is considered precious in Vedānta — it is the only state where liberation is possible, because only in the human state can one perform the conscious choice (viveka) that leads beyond karma altogether."
       }
     ]
   },
@@ -459,9 +704,19 @@
         "e": "the sun"
       },
       {
+        "s": "बाह्यः प्राणः",
+        "h": "बाहरी प्राण / बाह्य जीवन-शक्ति",
+        "e": "the external prāṇa"
+      },
+      {
+        "s": "उदयति",
+        "h": "उदय होता है / उगता है",
+        "e": "rises"
+      },
+      {
         "s": "चाक्षुषम्",
         "h": "चक्षु-सम्बन्धी / नेत्र-प्राण",
-        "e": "pertaining to the eye"
+        "e": "pertaining to the eye / eye-prāṇa"
       },
       {
         "s": "अनुगृह्णानः",
@@ -469,12 +724,47 @@
         "e": "supporting / favouring"
       },
       {
+        "s": "पृथिव्याम्",
+        "h": "पृथ्वी में / भूमि में",
+        "e": "in the earth"
+      },
+      {
+        "s": "देवता",
+        "h": "देवता / अधिष्ठात्री शक्ति",
+        "e": "deity / presiding power"
+      },
+      {
+        "s": "अपानम् अवष्टभ्य",
+        "h": "अपान को सहारा देकर / नियंत्रित करके",
+        "e": "supporting the apāna"
+      },
+      {
         "s": "अन्तरा",
         "h": "बीच में / मध्य में",
         "e": "in between"
+      },
+      {
+        "s": "आकाशः",
+        "h": "आकाश / अन्तरिक्ष",
+        "e": "space / ether"
+      },
+      {
+        "s": "समानः",
+        "h": "समान (वायु)",
+        "e": "samāna"
+      },
+      {
+        "s": "वायुः",
+        "h": "वायु / पवन",
+        "e": "wind"
+      },
+      {
+        "s": "व्यानः",
+        "h": "व्यान (वायु)",
+        "e": "vyāna"
       }
     ],
-    "gr": "<strong>This mantra answers the fifth sub-question</strong>: 'How does Prāṇa sustain the external (bāhyam)?' The answer maps the five internal prāṇas onto five external/cosmic counterparts: (1) <em>Prāṇa</em> ↔ <em>Āditya</em> (Sun); (2) <em>Apāna</em> ↔ <em>Pṛthivī-devatā</em> (Earth-deity); (3) <em>Samāna</em> ↔ <em>Ākāśa</em> (Space between); (4) <em>Vyāna</em> ↔ <em>Vāyu</em> (Wind); (5) <em>Udāna</em> ↔ <em>Tejas/Agni</em> (Fire — mentioned in the next mantra). This is the adhidaiva-adhyātma correspondence: every microcosmic function has a macrocosmic support. <strong>anugṛhṇānaḥ</strong> — the sun 'supports' the eye-prāṇa: without sunlight, the eye cannot see. The external and internal prāṇas are mutually dependent — the cosmic sustains the individual, and the individual participates in the cosmic.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र पाँचवें उप-प्रश्न ('बाह्यम् कैसे धारण करता है?') का उत्तर देता है। पाँच आन्तरिक प्राणों के पाँच बाह्य/ब्रह्माण्डीय प्रतिरूप: (1) प्राण ↔ आदित्य (सूर्य); (2) अपान ↔ पृथ्वी-देवता; (3) समान ↔ आकाश (मध्य); (4) व्यान ↔ वायु; (5) उदान ↔ तेजस्/अग्नि (अगले मन्त्र में)। यह अधिदैव-अध्यात्म सम्बन्ध है: प्रत्येक सूक्ष्म कार्य का एक स्थूल आधार है। <em>अनुगृह्णानः</em> — सूर्य नेत्र-प्राण का 'अनुग्रह' (support) करता है: बिना सूर्य-प्रकाश नेत्र नहीं देख सकता।<br><em>Eng:</em> Maps five internal prāṇas to five cosmic counterparts (Sun, Earth, Space, Wind, Fire). Adhidaiva-adhyātma correspondence — microcosm and macrocosm are mutually dependent.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -499,11 +789,11 @@
     "dp": [
       {
         "q": "🔍 The macrocosm-microcosm correspondence",
-        "a": "This mantra establishes one of the most important principles in Vedic thought: the <strong>adhidaiva-adhyātma</strong> (macrocosm-microcosm) correspondence. Every internal (bodily) function has an external (cosmic) support: <strong>Internal → External</strong>: Prāṇa (breath in the nose/eyes) → Āditya (Sun); Apāna (downward breath) → Pṛthivī (Earth); Samāna (digestive breath) → Ākāśa (Space); Vyāna (circulating breath) → Vāyu (Wind); Udāna (ascending breath) → Tejas/Agni (Fire). The correspondences are not arbitrary — they follow a <strong>functional logic</strong>: Sun provides light → eye-prāṇa needs light to see. Earth's gravity pulls downward → apāna governs downward-moving functions. Space occupies the middle → samāna operates in the middle of the body. Wind pervades everywhere → vyāna pervades the entire body. Fire rises upward → udāna moves upward at death. The <strong>practical implication</strong>: the individual is not a self-contained system but is <em>embedded</em> in the cosmos. Your prāṇa depends on the sun; your apāna depends on the earth. You cannot separate yourself from the universe — you are <em>woven into</em> it. This is the basis of Vedic ecology: harming the cosmos harms the individual, because they share the same vital infrastructure."
+        "a": "यह मन्त्र वैदिक विचार का सबसे महत्त्वपूर्ण सिद्धान्त — <strong>अधिदैव-अध्यात्म</strong> (बृहत्-सूक्ष्म) सम्बन्ध — स्थापित करता है। प्रत्येक आन्तरिक (शारीरिक) कार्य का एक बाह्य (ब्रह्माण्डीय) आधार है: <strong>प्राण → सूर्य</strong>; <strong>अपान → पृथ्वी</strong>; <strong>समान → आकाश</strong>; <strong>व्यान → वायु</strong>; <strong>उदान → अग्नि</strong>। ये सम्बन्ध <strong>कार्यात्मक तर्क</strong> पर आधारित हैं: सूर्य प्रकाश देता है → नेत्र-प्राण को प्रकाश चाहिए; पृथ्वी का गुरुत्वाकर्षण नीचे खींचता है → अपान अधोगामी। <strong>व्यावहारिक निहितार्थ</strong>: व्यक्ति स्वतन्त्र इकाई नहीं, ब्रह्माण्ड में <em>गुंथा</em> हुआ है — ब्रह्माण्ड को हानि = व्यक्ति को हानि। यही वैदिक पर्यावरण-विज्ञान का आधार है।<br><br><em>Eng:</em> This mantra establishes one of the most important principles in Vedic thought: the <strong>adhidaiva-adhyātma</strong> (macrocosm-microcosm) correspondence. Every internal (bodily) function has an external (cosmic) support: <strong>Internal → External</strong>: Prāṇa (breath in the nose/eyes) → Āditya (Sun); Apāna (downward breath) → Pṛthivī (Earth); Samāna (digestive breath) → Ākāśa (Space); Vyāna (circulating breath) → Vāyu (Wind); Udāna (ascending breath) → Tejas/Agni (Fire). The correspondences are not arbitrary — they follow a <strong>functional logic</strong>: Sun provides light → eye-prāṇa needs light to see. Earth's gravity pulls downward → apāna governs downward-moving functions. Space occupies the middle → samāna operates in the middle of the body. Wind pervades everywhere → vyāna pervades the entire body. Fire rises upward → udāna moves upward at death. The <strong>practical implication</strong>: the individual is not a self-contained system but is <em>embedded</em> in the cosmos. Your prāṇa depends on the sun; your apāna depends on the earth. You cannot separate yourself from the universe — you are <em>woven into</em> it. This is the basis of Vedic ecology: harming the cosmos harms the individual, because they share the same vital infrastructure."
       },
       {
         "q": "🔍 How does the sun 'support' the eye?",
-        "a": "The phrase <strong>cākṣuṣaṁ prāṇam anugṛhṇānaḥ</strong> ('supporting the prāṇa in the eye') describes a relationship that operates on multiple levels: <strong>Physical</strong>: the sun provides <em>light</em>, without which the eye cannot function. Vision requires both an internal capacity (the eye-prāṇa) and an external enabler (sunlight). Neither alone produces sight. <strong>Energetic</strong>: the sun's energy (photons) is absorbed by the eye's photoreceptors and converted into neural signals. The eye-prāṇa is the <em>vital capacity</em> that makes this conversion possible — a dead person's eye receives light but cannot see. <strong>Metaphysical</strong>: the sun is the external manifestation of the same consciousness (Prāṇa/Ātman) that operates as the eye's internal capacity. The sun doesn't just <em>help</em> the eye — it is the <em>cosmic version</em> of the same power. This understanding persists in Hindu ritual: the <strong>Sūrya-namaskāra</strong> (sun salutation) is performed facing the sun not merely for physical health but to <em>align</em> the internal prāṇa with its external source. The <strong>Gāyatrī mantra</strong> invokes the sun (Savitṛ) to 'illuminate our intellects' — the same principle: the cosmic light ignites the inner light."
+        "a": "<em>चाक्षुषं प्राणम् अनुगृह्णानः</em> — 'नेत्र-प्राण का अनुग्रह करता हुआ' — यह सम्बन्ध कई स्तरों पर है: <strong>भौतिक</strong>: सूर्य <em>प्रकाश</em> देता है — प्रकाश के बिना नेत्र नहीं देख सकता। <strong>ऊर्जात्मक</strong>: सूर्य की ऊर्जा (फोटॉन) नेत्र के ग्राहकों द्वारा अवशोषित होकर तंत्रिका-संकेत बनती है। <strong>आध्यात्मिक</strong>: सूर्य उसी चेतना (प्राण/आत्मा) की बाह्य अभिव्यक्ति है जो नेत्र में आन्तरिक शक्ति के रूप में काम करती है — ये एक ही शक्ति के दो पैमाने हैं। यही कारण है कि <strong>सूर्य-नमस्कार</strong> सूर्य के सम्मुख किया जाता है — आन्तरिक प्राण को उसके बाह्य स्रोत से <em>संरेखित</em> करने के लिए। <strong>गायत्री मन्त्र</strong> में भी सूर्य (सवितृ) से बुद्धि प्रकाशित करने की प्रार्थना है — वही सिद्धान्त।<br><br><em>Eng:</em> The phrase <strong>cākṣuṣaṁ prāṇam anugṛhṇānaḥ</strong> ('supporting the prāṇa in the eye') describes a relationship that operates on multiple levels: <strong>Physical</strong>: the sun provides <em>light</em>, without which the eye cannot function. Vision requires both an internal capacity (the eye-prāṇa) and an external enabler (sunlight). Neither alone produces sight. <strong>Energetic</strong>: the sun's energy (photons) is absorbed by the eye's photoreceptors and converted into neural signals. The eye-prāṇa is the <em>vital capacity</em> that makes this conversion possible — a dead person's eye receives light but cannot see. <strong>Metaphysical</strong>: the sun is the external manifestation of the same consciousness (Prāṇa/Ātman) that operates as the eye's internal capacity. The sun doesn't just <em>help</em> the eye — it is the <em>cosmic version</em> of the same power. This understanding persists in Hindu ritual: the <strong>Sūrya-namaskāra</strong> (sun salutation) is performed facing the sun not merely for physical health but to <em>align</em> the internal prāṇa with its external source. The <strong>Gāyatrī mantra</strong> invokes the sun (Savitṛ) to 'illuminate our intellects' — the same principle: the cosmic light ignites the inner light."
       }
     ]
   },
@@ -520,6 +810,16 @@
         "e": "fire / heat / lustre"
       },
       {
+        "s": "उदानः",
+        "h": "उदान वायु",
+        "e": "udāna"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "इसलिए / उस कारण से",
+        "e": "therefore"
+      },
+      {
         "s": "उपशान्ततेजाः",
         "h": "जिसका तेज शान्त (बुझ) हो गया है",
         "e": "one whose fire has been extinguished"
@@ -530,12 +830,22 @@
         "e": "rebirth / re-becoming"
       },
       {
+        "s": "इन्द्रियैः",
+        "h": "इन्द्रियों द्वारा / ज्ञानेन्द्रियों के",
+        "e": "with the senses"
+      },
+      {
+        "s": "मनसि",
+        "h": "मन में / मानस में",
+        "e": "in the mind"
+      },
+      {
         "s": "सम्पद्यमानैः",
         "h": "विलीन होते हुए / एकत्र होते हुए",
         "e": "dissolving / merging"
       }
     ],
-    "gr": "<strong>tejaḥ udānaḥ</strong> — 'fire is udāna': this completes the five-fold external correspondence: Prāṇa = Sun, Apāna = Earth, Samāna = Space, Vyāna = Wind, <em>Udāna = Fire</em>. Fire naturally rises (like udāna), and body-heat is the visible sign of udāna's presence. <strong>upaśānta-tejāḥ → punar-bhavam</strong> — 'when the fire is extinguished → rebirth': the death-process in sequence: (1) body-heat (tejas/udāna) ceases; (2) the senses (indriyas) withdraw from their objects and merge into the mind (manas); (3) the mind, carrying the senses and saṁskāras, departs for rebirth. <strong>indriyaiḥ manasi sampadyamānaiḥ</strong> — 'with the senses dissolving into the mind': at death, the five senses don't just 'switch off' — they are <em>absorbed</em> into manas, which carries them forward. This is why the next birth has the same faculties — they were preserved in the mind.",
+    "gr": "<strong>व्याकरण:</strong> <em>तेजः उदानः</em> — 'अग्नि ही उदान है': पंचविध बाह्य सम्बन्ध पूर्ण: प्राण = सूर्य, अपान = पृथ्वी, समान = आकाश, व्यान = वायु, <em>उदान = अग्नि</em>। अग्नि स्वभावतः ऊर्ध्वगामी है (उदान जैसे)। शारीरिक ऊष्मा (body-heat) उदान की उपस्थिति का दृश्य चिह्न है। <em>उपशान्ततेजाः → पुनर्भवम्</em> — मृत्यु-प्रक्रिया का क्रम: (1) शारीरिक ऊष्मा (तेज/उदान) समाप्त; (2) इन्द्रियाँ अपने विषयों से हटकर मन (मनस्) में विलीन; (3) मन, इन्द्रियों और संस्कारों सहित, पुनर्जन्म के लिए प्रस्थान करता है। इन्द्रियाँ मृत्यु-काल में 'बुझती' नहीं — वे मन में <em>संरक्षित</em> (preserved) होती हैं।<br><em>Eng:</em> Fire = udāna (completes five external correspondences). Death-sequence: body-heat ceases → senses dissolve into mind → mind departs for rebirth. Senses are preserved, not destroyed.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -560,11 +870,11 @@
     "dp": [
       {
         "q": "🔍 The Vedāntic process of death",
-        "a": "The Upanishads describe death as a <strong>sequential withdrawal</strong> (pratiloma-krama, 'reverse order') of the faculties: <strong>Step 1</strong>: The five senses (jñānendriyas) withdraw from their objects and merge into the <em>mind</em> (manas). Sight, hearing, touch, taste, and smell cease — but the mind still functions (hence dying persons may have mental activity even after sensory shutdown). <strong>Step 2</strong>: The mind merges into <em>prāṇa</em> (the vital breath). Mental activity ceases, but the breath continues briefly. <strong>Step 3</strong>: Prāṇa merges into <em>tejas</em> (body-heat/udāna). The breath stops, but residual warmth remains in the body. <strong>Step 4</strong>: Tejas merges into the <em>Ātman</em> (or into the subtle body that departs). Body-heat ceases — the body is now clinically dead. This process is described in <strong>Bṛhadāraṇyaka 4.4.1-2</strong>: 'The tip of the heart lights up; by that light the Self departs...' and <strong>Chāndogya 6.15.1-2</strong>: 'Speech merges into mind, mind into prāṇa, prāṇa into fire, fire into the supreme deity.' The <strong>key point</strong>: the senses don't simply vanish at death — they are <em>preserved</em> within the mind, which is preserved within the prāṇa, which departs as the subtle body. This is how the faculties are 'carried' to the next birth: they travel as <em>potentials</em> (saṁskāras) within the departing mind-prāṇa complex."
+        "a": "उपनिषद् मृत्यु को क्रमिक <strong>प्रत्यावर्तन</strong> (pratiloma-krama, 'विपरीत क्रम') बताते हैं: <strong>चरण 1</strong>: पंच ज्ञानेन्द्रियाँ अपने विषयों से हटकर <em>मन</em> में विलीन होती हैं — देखना, सुनना, छूना बन्द हो जाता है किन्तु मानसिक क्रिया बनी रहती है। <strong>चरण 2</strong>: मन <em>प्राण</em> में विलीन — मानसिक क्रिया रुकती है किन्तु श्वास कुछ और चलती है। <strong>चरण 3</strong>: प्राण <em>तेज</em> (शारीरिक ऊष्मा/उदान) में — श्वास रुकती है किन्तु शरीर कुछ देर गर्म रहता है। <strong>चरण 4</strong>: तेज <em>आत्मा</em> में (या प्रस्थान करने वाले सूक्ष्म शरीर में) — ऊष्मा समाप्त, शरीर मृत। <strong>मुख्य बिन्दु</strong>: इन्द्रियाँ मृत्यु-काल में लुप्त नहीं होतीं — वे मन में <em>संरक्षित</em> होकर सूक्ष्म शरीर में अगले जन्म तक <em>सम्भाव्यताओं</em> (potentials) के रूप में यात्रा करती हैं।<br><br><em>Eng:</em> The Upanishads describe death as a <strong>sequential withdrawal</strong> (pratiloma-krama, 'reverse order') of the faculties: <strong>Step 1</strong>: The five senses (jñānendriyas) withdraw from their objects and merge into the <em>mind</em> (manas). Sight, hearing, touch, taste, and smell cease — but the mind still functions (hence dying persons may have mental activity even after sensory shutdown). <strong>Step 2</strong>: The mind merges into <em>prāṇa</em> (the vital breath). Mental activity ceases, but the breath continues briefly. <strong>Step 3</strong>: Prāṇa merges into <em>tejas</em> (body-heat/udāna). The breath stops, but residual warmth remains in the body. <strong>Step 4</strong>: Tejas merges into the <em>Ātman</em> (or into the subtle body that departs). Body-heat ceases — the body is now clinically dead. This process is described in <strong>Bṛhadāraṇyaka 4.4.1-2</strong>: 'The tip of the heart lights up; by that light the Self departs...' and <strong>Chāndogya 6.15.1-2</strong>: 'Speech merges into mind, mind into prāṇa, prāṇa into fire, fire into the supreme deity.' The <strong>key point</strong>: the senses don't simply vanish at death — they are <em>preserved</em> within the mind, which is preserved within the prāṇa, which departs as the subtle body. This is how the faculties are 'carried' to the next birth: they travel as <em>potentials</em> (saṁskāras) within the departing mind-prāṇa complex."
       },
       {
         "q": "🔍 Why is fire (tejas) identified with udāna?",
-        "a": "The identification of <strong>udāna with tejas (fire)</strong> rests on several correspondences: <strong>(1) Direction</strong>: fire naturally rises (flames point upward). Udāna is the upward-moving breath. Both share the quality of <em>ūrdhva-gati</em> (ascending motion). <strong>(2) Visible sign</strong>: body-heat (<em>uṣman</em>) is the visible sign of udāna's presence. When a person is alive, the body is warm — when udāna departs, the body cools. The extinction of body-heat (upaśānta-tejas) is the medical sign of death. <strong>(3) Speech</strong>: speech (vāk) is powered by udāna (throat region) and is also associated with Agni (Fire) in Vedic thought — Agni is the deity of speech (Aitareya 1.2.4). <strong>(4) Ascent at death</strong>: fire carries offerings upward to the gods (havya-vāhana); udāna carries the jīva upward at death. Both are <em>vehicles of ascent</em>. <strong>(5) Cosmic fire</strong>: in the external-internal correspondence (mantra 8), all four other prāṇas were matched to cosmic elements (sun, earth, space, wind). Udāna = fire completes the set, mapping all five prāṇas to the <em>pañca-mahābhūta</em> (five great elements) of Sāṅkhya: Prāṇa-Sun (light), Apāna-Earth, Samāna-Space, Vyāna-Wind, Udāna-Fire."
+        "a": "<strong>उदान और तेज (अग्नि)</strong> के तादात्म्य के कई आधार हैं: <strong>(1) दिशा</strong>: अग्नि स्वभावतः ऊपर उठती है; उदान ऊर्ध्वगामी श्वास है — दोनों में <em>ऊर्ध्वगति</em> है। <strong>(2) दृश्य चिह्न</strong>: शारीरिक ऊष्मा उदान की उपस्थिति का प्रमाण है — जीवित व्यक्ति गर्म, मृत शरीर ठण्डा। <strong>(3) वाणी</strong>: वाक् (speech) उदान-शक्ति (कण्ठ-क्षेत्र) द्वारा चालित है और वैदिक विचार में अग्नि से सम्बद्ध — अग्नि वाणी का देवता (ऐतरेय 1.2.4)। <strong>(4) ऊर्ध्वारोहण</strong>: अग्नि हवि (offerings) को ऊपर देवताओं तक ले जाती है; उदान जीव को ऊपर ले जाता है — दोनों <em>ऊर्ध्वारोहण के वाहन</em> हैं। <strong>(5) ब्रह्माण्डीय अग्नि</strong>: अन्य चार प्राण पहले से तत्त्वों से जुड़ गए (सूर्य, पृथ्वी, आकाश, वायु) — उदान = अग्नि से पंचमहाभूत-सम्बन्ध पूर्ण होता है।<br><br><em>Eng:</em> The identification of <strong>udāna with tejas (fire)</strong> rests on several correspondences: <strong>(1) Direction</strong>: fire naturally rises (flames point upward). Udāna is the upward-moving breath. Both share the quality of <em>ūrdhva-gati</em> (ascending motion). <strong>(2) Visible sign</strong>: body-heat (<em>uṣman</em>) is the visible sign of udāna's presence. When a person is alive, the body is warm — when udāna departs, the body cools. The extinction of body-heat (upaśānta-tejas) is the medical sign of death. <strong>(3) Speech</strong>: speech (vāk) is powered by udāna (throat region) and is also associated with Agni (Fire) in Vedic thought — Agni is the deity of speech (Aitareya 1.2.4). <strong>(4) Ascent at death</strong>: fire carries offerings upward to the gods (havya-vāhana); udāna carries the jīva upward at death. Both are <em>vehicles of ascent</em>. <strong>(5) Cosmic fire</strong>: in the external-internal correspondence (mantra 8), all four other prāṇas were matched to cosmic elements (sun, earth, space, wind). Udāna = fire completes the set, mapping all five prāṇas to the <em>pañca-mahābhūta</em> (five great elements) of Sāṅkhya: Prāṇa-Sun (light), Apāna-Earth, Samāna-Space, Vyāna-Wind, Udāna-Fire."
       }
     ]
   },
@@ -576,9 +886,34 @@
     "en": "Whatever is in the mind (citta), by that one comes to Prāṇa. Prāṇa, united with fire (tejas/udāna), together with the individual self (ātman), leads (the departing soul) to whatever world was willed (yathā-saṅkalpita).",
     "ws": [
       {
+        "s": "यत्",
+        "h": "जो / जो कुछ",
+        "e": "whatever"
+      },
+      {
         "s": "चित्तः",
         "h": "चित्त / मन / अन्तःकरण में जो विचार-संस्कार हैं",
-        "e": "mind / consciousness / the totality of mental"
+        "e": "mind / consciousness / mental content"
+      },
+      {
+        "s": "तेन",
+        "h": "उसके द्वारा / उसी से",
+        "e": "by that"
+      },
+      {
+        "s": "प्राणम् आयाति",
+        "h": "प्राण में आता है / प्राण से जुड़ता है",
+        "e": "comes to Prāṇa / merges with Prāṇa"
+      },
+      {
+        "s": "तेजसा युक्तः",
+        "h": "तेज (अग्नि/उदान) से युक्त होकर",
+        "e": "united with fire"
+      },
+      {
+        "s": "सह आत्मना",
+        "h": "आत्मा (जीवात्मा) सहित",
+        "e": "together with the self"
       },
       {
         "s": "यथासंकल्पितम्",
@@ -586,17 +921,17 @@
         "e": "as willed / as determined by one's resolve"
       },
       {
-        "s": "तेजसा",
-        "h": "तेज (अग्नि/उदान) से युक्त होकर",
-        "e": "with fire"
-      },
-      {
         "s": "लोकम्",
         "h": "लोक / जन्म-स्थान / गति",
         "e": "world / realm / destination"
+      },
+      {
+        "s": "नयति",
+        "h": "ले जाता है / पहुँचाता है",
+        "e": "leads / takes"
       }
     ],
-    "gr": "<strong>yac-cittaḥ tena prāṇam āyāti</strong> — 'whatever is in the mind, by that one comes to Prāṇa': at death, the mind's contents (last thought, dominant desire, accumulated saṁskāras) merge into prāṇa and determine the direction of departure. <strong>yathā-saṅkalpitaṁ lokam</strong> — 'to the world as willed/resolved': the destination is not random but <em>saṅkalpa-determined</em>. The Gītā (8.6) makes this explicit: 'yaṁ yaṁ vāpi smaran bhāvaṁ tyajaty ante kalevaram / taṁ tam evaiti' — 'whatever state one remembers when leaving the body, to that state one goes.' <strong>prāṇaḥ tejasā yuktaḥ saha ātmanā</strong> — a three-part vehicle: Prāṇa (the engine), tejas/udāna (the fuel), and ātman (the passenger). The departing soul is not naked — it travels in a subtle vehicle composed of mind, prāṇa, and fire.",
+    "gr": "<strong>व्याकरण:</strong> <em>यच्चित्तः तेन प्राणम् आयाति</em> — 'मन में जो (संस्कार/विचार) हैं, उनके द्वारा प्राण में आता है': मृत्यु-काल में मन की सामग्री (अन्तिम विचार, प्रबल इच्छा, संचित संस्कार) प्राण में विलीन होकर प्रस्थान की दिशा निर्धारित करती है। <em>यथासंकल्पितं लोकम्</em> — 'जैसा संकल्प किया वैसे लोक में': गन्तव्य यादृच्छिक (random) नहीं, <em>संकल्प-निर्धारित</em> है। गीता (8.6): 'जिस भाव को स्मरण करते हुए शरीर छोड़ता है, उसी को प्राप्त होता है।' <em>प्राणः तेजसा युक्तः सह आत्मना</em> — तीन भागों का वाहन: प्राण (यन्त्र/engine), तेज/उदान (ईंधन/fuel), आत्मन् (यात्री/passenger)।<br><em>Eng:</em> Mind's content at death determines destination (yathā-saṅkalpita). Gītā 8.6 parallels this. Three-part vehicle: prāṇa (engine), tejas (fuel), ātman (passenger).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -621,11 +956,11 @@
     "dp": [
       {
         "q": "🔍 How does the 'last thought' determine rebirth?",
-        "a": "The doctrine of <strong>yathā-saṅkalpita</strong> ('as willed/intended') is one of the most practically important teachings in the Upanishads. It states that the <strong>mind's dominant content at death</strong> determines the next birth. This operates through several mechanisms: <strong>(1) Last-moment thought</strong>: the Gītā (8.6) states explicitly: 'Whatever state one remembers at the moment of leaving the body, to that state one goes, O Kaunteya, being always shaped by that state.' If you think of God at death, you go to God. If you think of your wealth, you return to pursue it. <strong>(2) Not arbitrary</strong>: the last thought is not random — it is the <em>summary</em> of a lifetime of mental habits. A person who has spent decades thinking about money will naturally think about money at death. A person who has practiced God-meditation will naturally think of God. <strong>(3) Saṅkalpa as karma</strong>: saṅkalpa (resolve/intention) is not just a wish — it is the <em>active force</em> of karma. The Bṛhadāraṇyaka (4.4.5) chain is: desire → will → deed → attainment. The saṅkalpa at death is the concentrated force of all prior desires. <strong>Practical implication</strong>: this is why the tradition recommends continuous God-remembrance (<em>smaraṇa</em>) during life — so that at the critical moment, the divine name surfaces naturally. The famous story of Ajāmila (Bhāgavata Purāṇa 6.1-3) illustrates this: a sinner who called his son's name 'Nārāyaṇa' at death was saved because the divine name was on his lips."
+        "a": "मृत्यु-काल में <strong>यथासंकल्पित</strong> ('जैसा संकल्प किया') सिद्धान्त उपनिषदों की सबसे व्यावहारिक शिक्षाओं में से है। <strong>(1) अन्तिम विचार</strong>: गीता (8.6) स्पष्ट कहती है: 'जिस भाव को स्मरण करते हुए शरीर त्यागता है, उसी को प्राप्त होता है।' भगवान् का स्मरण = भगवान् की प्राप्ति। <strong>(2) यादृच्छिक नहीं</strong>: अन्तिम विचार आकस्मिक नहीं — यह जीवनभर की मानसिक आदतों का <em>सारांश</em> है। जो दशकों धन-चिन्तन करता है, उसका अन्तिम विचार स्वभावतः धन होगा। <strong>(3) संकल्प = कर्म</strong>: बृहदारण्यक 4.4.5 की शृंखला: इच्छा → संकल्प → कर्म → फल। मृत्यु-काल का संकल्प सभी पूर्व इच्छाओं का केन्द्रित बल है। <strong>व्यावहारिक निहितार्थ</strong>: जीवनभर निरन्तर भगवत्-स्मरण (<em>सदा-स्मरण</em>) का अभ्यास करें ताकि अन्तिम क्षण में दिव्य नाम स्वभावतः उभरे।<br><br><em>Eng:</em> The doctrine of <strong>yathā-saṅkalpita</strong> ('as willed/intended') is one of the most practically important teachings in the Upanishads. It states that the <strong>mind's dominant content at death</strong> determines the next birth. This operates through several mechanisms: <strong>(1) Last-moment thought</strong>: the Gītā (8.6) states explicitly: 'Whatever state one remembers at the moment of leaving the body, to that state one goes, O Kaunteya, being always shaped by that state.' If you think of God at death, you go to God. If you think of your wealth, you return to pursue it. <strong>(2) Not arbitrary</strong>: the last thought is not random — it is the <em>summary</em> of a lifetime of mental habits. A person who has spent decades thinking about money will naturally think about money at death. A person who has practiced God-meditation will naturally think of God. <strong>(3) Saṅkalpa as karma</strong>: saṅkalpa (resolve/intention) is not just a wish — it is the <em>active force</em> of karma. The Bṛhadāraṇyaka (4.4.5) chain is: desire → will → deed → attainment. The saṅkalpa at death is the concentrated force of all prior desires. <strong>Practical implication</strong>: this is why the tradition recommends continuous God-remembrance (<em>smaraṇa</em>) during life — so that at the critical moment, the divine name surfaces naturally. The famous story of Ajāmila (Bhāgavata Purāṇa 6.1-3) illustrates this: a sinner who called his son's name 'Nārāyaṇa' at death was saved because the divine name was on his lips."
       },
       {
         "q": "🔍 The 'subtle vehicle' of the departing soul",
-        "a": "The mantra describes the departing soul's <strong>three-component vehicle</strong>: <strong>(1) Prāṇa</strong> — the engine that propels the journey. The life-force doesn't simply vanish at death; it carries the jīva to the next destination. <strong>(2) Tejas (fire/udāna)</strong> — the fuel. Udāna is the upward-moving force that lifts consciousness out of the body. It is 'united with' (yukta) prāṇa, providing the energy for departure. <strong>(3) Ātman (the individual self)</strong> — the passenger. The jīvātman, carrying its saṁskāras (impressions) and karma, rides this vehicle to its next embodiment. This three-part vehicle corresponds to what later Vedānta calls the <strong>sūkṣma-śarīra</strong> (subtle body) or <strong>liṅga-śarīra</strong> (marker-body). This subtle body consists of: the five prāṇas, the five sense-capacities (not the physical organs), the five action-capacities, manas (mind), buddhi (intellect), ahaṁkāra (ego), and citta (memory/impression-store). The <strong>subtle body persists across births</strong> — it is the vehicle of transmigration. Only when final liberation (mokṣa) is attained does the subtle body dissolve, and the Ātman stands free."
+        "a": "मन्त्र प्रस्थान करने वाले जीव के <strong>तीन-भागीय वाहन</strong> का वर्णन करता है: <strong>(1) प्राण</strong> — यन्त्र (engine) जो यात्रा को गति देता है। <strong>(2) तेज (अग्नि/उदान)</strong> — ईंधन (fuel) जो ऊर्ध्वगमन की ऊर्जा देता है। <strong>(3) आत्मन् (जीवात्मा)</strong> — यात्री (passenger) जो संस्कारों और कर्म सहित यात्रा करता है। यह तीन-भागीय वाहन उत्तर-वेदान्त के <strong>सूक्ष्म शरीर</strong> (liṅga-śarīra) के अनुरूप है: पंच प्राण, पंच ज्ञानेन्द्रिय, पंच कर्मेन्द्रिय, मन, बुद्धि, अहंकार, चित्त। <strong>सूक्ष्म शरीर जन्म-जन्मान्तर बना रहता है</strong> — यही संसरण (transmigration) का वाहन है। केवल मोक्ष-प्राप्ति पर सूक्ष्म शरीर विलीन होता है।<br><br><em>Eng:</em> The mantra describes the departing soul's <strong>three-component vehicle</strong>: <strong>(1) Prāṇa</strong> — the engine that propels the journey. The life-force doesn't simply vanish at death; it carries the jīva to the next destination. <strong>(2) Tejas (fire/udāna)</strong> — the fuel. Udāna is the upward-moving force that lifts consciousness out of the body. It is 'united with' (yukta) prāṇa, providing the energy for departure. <strong>(3) Ātman (the individual self)</strong> — the passenger. The jīvātman, carrying its saṁskāras (impressions) and karma, rides this vehicle to its next embodiment. This three-part vehicle corresponds to what later Vedānta calls the <strong>sūkṣma-śarīra</strong> (subtle body) or <strong>liṅga-śarīra</strong> (marker-body). This subtle body consists of: the five prāṇas, the five sense-capacities (not the physical organs), the five action-capacities, manas (mind), buddhi (intellect), ahaṁkāra (ego), and citta (memory/impression-store). The <strong>subtle body persists across births</strong> — it is the vehicle of transmigration. Only when final liberation (mokṣa) is attained does the subtle body dissolve, and the Ātman stands free."
       }
     ]
   },
@@ -637,14 +972,34 @@
     "en": "He who, knowing thus, knows Prāṇa — his offspring (prajā) does not perish, and he becomes immortal (amṛta). On this there is this verse (śloka) —",
     "ws": [
       {
+        "s": "यः",
+        "h": "जो (व्यक्ति)",
+        "e": "he who"
+      },
+      {
+        "s": "एवम्",
+        "h": "इस प्रकार / इस विधि से",
+        "e": "thus / in this manner"
+      },
+      {
         "s": "विद्वान्",
         "h": "जानने वाला / ज्ञानी",
-        "e": "the knower"
+        "e": "the knower / the wise one"
+      },
+      {
+        "s": "प्राणम् वेद",
+        "h": "प्राण को जानता है",
+        "e": "knows Prāṇa"
+      },
+      {
+        "s": "न",
+        "h": "नहीं",
+        "e": "not"
       },
       {
         "s": "प्रजा",
         "h": "सन्तान / वंश / सृजन",
-        "e": "offspring / progeny / creation"
+        "e": "offspring / progeny"
       },
       {
         "s": "हीयते",
@@ -654,15 +1009,20 @@
       {
         "s": "अमृतः",
         "h": "अमर / मृत्युरहित",
-        "e": "immortal"
+        "e": "immortal / deathless"
+      },
+      {
+        "s": "भवति",
+        "h": "हो जाता है / होता है",
+        "e": "becomes"
       },
       {
         "s": "श्लोकः",
         "h": "श्लोक / पद्य / छन्दोबद्ध वचन",
-        "e": "verse"
+        "e": "verse / metrical statement"
       }
     ],
-    "gr": "<strong>evaṁ vidvān</strong> — 'knowing thus': the <em>evaṁ</em> is critical — it means 'in this manner', referring to the entire teaching of Question 3 (origin from Ātman, shadow-simile, fivefold division, nāḍī-system, departure mechanism). Mere intellectual knowledge is not sufficient; one must know <em>in this specific manner</em> — with full understanding of the cause, mechanism, and implications. <strong>na prajā hīyate</strong> — 'his offspring does not perish': the Vedic blessing of continuity — not just biological reproduction but the endurance of one's works, lineage, and spiritual legacy. <strong>amṛto bhavati</strong> — 'he becomes immortal': the ultimate fruit of prāṇa-vidyā. By knowing the source of Prāṇa (Ātman), the knower identifies with the source itself — and the source is deathless. <strong>eṣaḥ ślokaḥ</strong> — 'there is this verse': a formulaic transition to a summary verse, common in Upanishadic prose-verse structure.",
+    "gr": "<strong>व्याकरण:</strong> <em>एवं विद्वान्</em> — 'इस प्रकार जानकर': <em>एवम्</em> अत्यन्त महत्त्वपूर्ण है — इसका अर्थ है 'इस विशिष्ट विधि से', अर्थात् प्रश्न 3 की सम्पूर्ण शिक्षा (आत्मा से उत्पत्ति, छाया-उपमा, पंचविभाजन, नाडी-तन्त्र, उत्क्रमण-विधि)। <em>न प्रजा हीयते</em> — 'उसकी सन्तान/सृजन क्षीण नहीं होती': वैदिक निरन्तरता का आशीर्वाद। <em>अमृतो भवति</em> — 'अमर हो जाता है': प्राण-विद्या का परम फल। प्राण के स्रोत (आत्मा) को जानकर, ज्ञानी स्रोत से एकरूप हो जाता है — और स्रोत मृत्युरहित है। <em>एषः श्लोकः</em> — 'यह श्लोक है': सारांश-पद्य का परिचय — उपनिषदीय गद्य-पद्य संरचना।<br><em>Eng:</em> 'Evaṁ vidvān' — knowing 'in this specific manner'. Prajā = continuity. Amṛta = immortality through knowing Prāṇa's source (Ātman). Transition to summary verse.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -687,11 +1047,11 @@
     "dp": [
       {
         "q": "🔍 What is 'prāṇa-vidyā' and its fruit?",
-        "a": "<strong>Prāṇa-vidyā</strong> (knowledge of Prāṇa) is one of the major meditation-disciplines (upāsanās) described in the Upanishads. Its components, as taught in Question 3, are: <strong>(1)</strong> Knowing Prāṇa's <em>origin</em> — from the Ātman (not from matter). <strong>(2)</strong> Knowing its <em>mechanism</em> — fivefold division, nāḍī-system, macrocosm-microcosm correspondence. <strong>(3)</strong> Knowing its <em>departure</em> — through udāna, determined by saṅkalpa and karma. <strong>The fruit</strong> (phala) is twofold: <strong>(a) na prajā hīyate</strong> — 'offspring does not perish': this is the Vedic blessing of <em>continuity</em>. At the practical level, it means the knower's lineage and legacy endure. At the deeper level, it means the knower's spiritual creation (his knowledge-transmission) continues through his students. <strong>(b) amṛto bhavati</strong> — 'he becomes immortal': the supreme fruit. By knowing that Prāṇa originates from the deathless Ātman, the knower <em>identifies</em> with the Ātman — and the Ātman is by definition amṛta (deathless). This is not a future event ('he will become immortal after death') but a present realisation ('he <em>is</em> immortal, right now, because he knows his true nature'). In Advaita terms, this is <strong>jīvanmukti</strong> — liberation while still embodied."
+        "a": "<strong>प्राण-विद्या</strong> (प्राण का ज्ञान) उपनिषदों में वर्णित प्रमुख ध्यान-अनुशासनों (उपासनाओं) में से एक है। इसके अंग (प्रश्न 3 के अनुसार): <strong>(1)</strong> प्राण की <em>उत्पत्ति</em> जानना — आत्मा से (पदार्थ से नहीं); <strong>(2)</strong> उसकी <em>क्रियाविधि</em> — पंचविभाजन, नाडी-तन्त्र, बृहत्-सूक्ष्म सम्बन्ध; <strong>(3)</strong> उसका <em>प्रस्थान</em> — उदान द्वारा, संकल्प और कर्म से निर्धारित। <strong>फल</strong> दोहरा है: <strong>(अ) न प्रजा हीयते</strong> — ज्ञानी की सन्तान/सृजन/ज्ञान-परम्परा अक्षुण्ण रहती है; <strong>(ब) अमृतो भवति</strong> — परम फल — प्राण के मृत्युहीन स्रोत (आत्मा) को जानकर ज्ञानी स्वयं आत्मा से <em>तादात्म्य</em> प्राप्त करता है। अद्वैत में यह <strong>जीवन्मुक्ति</strong> — शरीर में रहते हुए मुक्ति — है।<br><br><em>Eng:</em> <strong>Prāṇa-vidyā</strong> (knowledge of Prāṇa) is one of the major meditation-disciplines (upāsanās) described in the Upanishads. Its components, as taught in Question 3, are: <strong>(1)</strong> Knowing Prāṇa's <em>origin</em> — from the Ātman (not from matter). <strong>(2)</strong> Knowing its <em>mechanism</em> — fivefold division, nāḍī-system, macrocosm-microcosm correspondence. <strong>(3)</strong> Knowing its <em>departure</em> — through udāna, determined by saṅkalpa and karma. <strong>The fruit</strong> (phala) is twofold: <strong>(a) na prajā hīyate</strong> — 'offspring does not perish': this is the Vedic blessing of <em>continuity</em>. At the practical level, it means the knower's lineage and legacy endure. At the deeper level, it means the knower's spiritual creation (his knowledge-transmission) continues through his students. <strong>(b) amṛto bhavati</strong> — 'he becomes immortal': the supreme fruit. By knowing that Prāṇa originates from the deathless Ātman, the knower <em>identifies</em> with the Ātman — and the Ātman is by definition amṛta (deathless). This is not a future event ('he will become immortal after death') but a present realisation ('he <em>is</em> immortal, right now, because he knows his true nature'). In Advaita terms, this is <strong>jīvanmukti</strong> — liberation while still embodied."
       },
       {
         "q": "🔍 The phala-śruti tradition",
-        "a": "The <strong>phala-śruti</strong> (फलश्रुति, 'declaration of fruit') is a standard Upanishadic formula that states the benefit of a particular knowledge or practice. It typically follows the pattern: <em>'yaḥ evaṁ veda... amṛto bhavati'</em> — 'he who knows this thus... becomes immortal.' Examples across the Upanishads: <strong>Chāndogya 1.1.10</strong>: 'He who meditates on OM with this knowledge — whatever he desires, that is fulfilled.' <strong>Bṛhadāraṇyaka 1.4.10</strong>: 'He who knows \"I am Brahman\" — he becomes this All.' <strong>Kaṭha 2.3.18</strong>: 'Nachiketa, having gained this knowledge and the entire yoga-teaching from Death, attained Brahman and became free from passion and death.' The phala-śruti serves several functions: <strong>(1) Motivation</strong>: it incentivises the student to pursue the knowledge with full commitment. <strong>(2) Validation</strong>: it confirms that this knowledge leads to the highest goal (mokṣa). <strong>(3) Discrimination</strong>: it distinguishes between lower knowledge (which yields worldly fruits) and higher knowledge (which yields immortality). The promise of <em>amṛtatva</em> (immortality) is reserved for the highest knowledge — knowledge of the Self."
+        "a": "<strong>फलश्रुति</strong> (फल-घोषणा) एक मानक उपनिषदीय सूत्र है जो किसी ज्ञान या अभ्यास का लाभ बताती है। प्रतिमान: <em>'यः एवं वेद... अमृतो भवति'</em>। उदाहरण: <strong>छान्दोग्य 1.1.10</strong>: 'जो इस ज्ञान से ओम् का ध्यान करता है...' <strong>बृहदारण्यक 1.4.10</strong>: 'जो जानता है — अहं ब्रह्मास्मि...' <strong>कठ 2.3.18</strong>: 'नचिकेता ने मृत्यु से ज्ञान पाकर ब्रह्म प्राप्त किया।' फलश्रुति के कार्य: <strong>(1) प्रेरणा</strong>: शिष्य को पूर्ण समर्पण से ज्ञान-प्राप्ति के लिए प्रोत्साहित करती है; <strong>(2) प्रमाणीकरण</strong>: इस ज्ञान का परम लक्ष्य (मोक्ष) तक पहुँचना पुष्ट करती है; <strong>(3) विवेचन</strong>: निम्न ज्ञान (सांसारिक फल) और उच्च ज्ञान (अमृतत्व) के बीच भेद करती है। <em>अमृतत्व</em> का वचन सर्वोच्च ज्ञान — आत्म-ज्ञान — के लिए आरक्षित है।<br><br><em>Eng:</em> The <strong>phala-śruti</strong> (फलश्रुति, 'declaration of fruit') is a standard Upanishadic formula that states the benefit of a particular knowledge or practice. It typically follows the pattern: <em>'yaḥ evaṁ veda... amṛto bhavati'</em> — 'he who knows this thus... becomes immortal.' Examples across the Upanishads: <strong>Chāndogya 1.1.10</strong>: 'He who meditates on OM with this knowledge — whatever he desires, that is fulfilled.' <strong>Bṛhadāraṇyaka 1.4.10</strong>: 'He who knows \"I am Brahman\" — he becomes this All.' <strong>Kaṭha 2.3.18</strong>: 'Nachiketa, having gained this knowledge and the entire yoga-teaching from Death, attained Brahman and became free from passion and death.' The phala-śruti serves several functions: <strong>(1) Motivation</strong>: it incentivises the student to pursue the knowledge with full commitment. <strong>(2) Validation</strong>: it confirms that this knowledge leads to the highest goal (mokṣa). <strong>(3) Discrimination</strong>: it distinguishes between lower knowledge (which yields worldly fruits) and higher knowledge (which yields immortality). The promise of <em>amṛtatva</em> (immortality) is reserved for the highest knowledge — knowledge of the Self."
       }
     ]
   },
@@ -705,7 +1065,7 @@
       {
         "s": "उत्पत्तिम्",
         "h": "उत्पत्ति / मूल / उद्गम",
-        "e": "origin — from Ātman (mantra 3)"
+        "e": "origin"
       },
       {
         "s": "आयतिम्",
@@ -728,12 +1088,32 @@
         "e": "fivefold"
       },
       {
+        "s": "अध्यात्मम्",
+        "h": "आध्यात्मिक / आन्तरिक स्वरूप",
+        "e": "the internal / spiritual nature"
+      },
+      {
+        "s": "प्राणस्य",
+        "h": "प्राण का / प्राण के विषय में",
+        "e": "of Prāṇa / concerning Prāṇa"
+      },
+      {
+        "s": "विज्ञाय",
+        "h": "ठीक से जानकर / साक्षात्कार करके",
+        "e": "having known / having realised"
+      },
+      {
+        "s": "अमृतम्",
+        "h": "अमृत / अमरता / मोक्ष",
+        "e": "immortality / the deathless"
+      },
+      {
         "s": "अश्नुते",
         "h": "प्राप्त करता है / पहुँचता है",
         "e": "attains / reaches"
       }
     ],
-    "gr": "<strong>Five aspects of prāṇa-vidyā</strong> summarised: (1) <em>utpatti</em> — origin (from Ātman, mantra 3); (2) <em>āyati</em> — entry into the body (by mano-kṛtena, mantra 3); (3) <em>sthāna</em> — stations/seats (the five territories, mantras 5-6); (4) <em>vibhutva pañcadhā</em> — fivefold sovereignty (the five prāṇas and their cosmic correspondences, mantras 5-9); (5) <em>adhyātma</em> — internal nature (the nāḍī-system, heart-seat of Ātman, death-mechanism, mantras 6-10). <strong>vijñāya amṛtam aśnute</strong> — 'having known, one attains immortality': the verse repeats this phrase twice for emphasis — a common Upanishadic rhetorical device (cf. Kaṭha 2.3.18 double ending). The repetition of <em>vijñāya amṛtam aśnute</em> closes the third question with the same promise that opened it: the reward for this knowledge is deathlessness. <strong>iti</strong> — 'thus': marks the formal conclusion of Question 3.",
+    "gr": "<strong>व्याकरण:</strong> प्राण-विद्या के पाँच पहलुओं का सारांश: (1) <em>उत्पत्ति</em> — मूल (आत्मा से, मन्त्र 3); (2) <em>आयति</em> — शरीर में प्रवेश (मनोकृतेन, मन्त्र 3); (3) <em>स्थान</em> — पाँच क्षेत्र (मन्त्र 5-6); (4) <em>विभुत्व पञ्चधा</em> — पंचविध व्यापकता और ब्रह्माण्डीय सम्बन्ध (मन्त्र 5-9); (5) <em>अध्यात्म</em> — आन्तरिक स्वरूप (नाडी-तन्त्र, हृदयस्थ आत्मा, मृत्यु-यन्त्र, मन्त्र 6-10)। <em>विज्ञाय अमृतम् अश्नुते</em> — यह वाक्य दो बार दोहराया गया है — उपनिषदीय अलंकार (emphasis)। दोहराव इस वचन को ध्यान-बीज (meditation-seed) बनाता है। <em>इति</em> — तृतीय प्रश्न की औपचारिक समाप्ति।<br><em>Eng:</em> Five aspects summarised: origin, entry, station, fivefold sovereignty, inner nature. Double repetition of 'vijñāya amṛtam aśnute' for emphasis and as meditation-seed. Iti marks formal conclusion.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -758,11 +1138,11 @@
     "dp": [
       {
         "q": "🔍 How does Question 3 answer all six sub-questions?",
-        "a": "Kausalya asked six sub-questions (mantra 1). The concluding verse (mantra 12) maps the five-term summary back to those questions: <strong>(1) 'Whence is Prāṇa born?'</strong> → <em>utpatti</em> (origin) — from the Ātman, like a shadow from a person (mantra 3). <strong>(2) 'How does it enter the body?'</strong> → <em>āyati</em> (entry) — by mano-kṛtena, through the mind's past karma (mantra 3). <strong>(3) 'How does it establish itself after division?'</strong> → <em>sthāna</em> (station) — five prāṇas assigned to five body-zones (mantras 4-5). <strong>(4) 'By what does it depart?'</strong> → <em>vibhutva pañcadhā</em> (fivefold sovereignty) includes the departure mechanism: udāna exits through suṣumnā, carrying the jīva according to karma (mantras 7, 9-10). <strong>(5) 'How does it sustain the external?'</strong> → the cosmic correspondences: sun, earth, space, wind, fire (mantra 8). <strong>(6) 'How does it sustain the internal?'</strong> → <em>adhyātma</em> (internal nature) — the nāḍī-system, the heart-seat of the Ātman, vyāna's circulation (mantra 6). All six questions are answered, and the five-term summary provides a complete study-guide for meditation on Prāṇa."
+        "a": "कौसल्य ने छह उप-प्रश्न पूछे (मन्त्र 1) — समापन-श्लोक (मन्त्र 12) पाँच-पदीय सारांश को उन प्रश्नों से जोड़ता है: <strong>(1) 'प्राण कहाँ से उत्पन्न होता है?'</strong> → <em>उत्पत्ति</em> — आत्मा से, छाया की तरह (मन्त्र 3)। <strong>(2) 'शरीर में कैसे आता है?'</strong> → <em>आयति</em> — मनोकृतेन, पूर्वकर्म के मानसिक संस्कारों द्वारा (मन्त्र 3)। <strong>(3) 'विभाजित होकर कैसे प्रतिष्ठित होता है?'</strong> → <em>स्थान</em> — पंचप्राण, पाँच शारीरिक क्षेत्र (मन्त्र 4-5)। <strong>(4) 'किससे उत्क्रमण करता है?'</strong> → <em>विभुत्व पञ्चधा</em> में उत्क्रमण-विधि: उदान सुषुम्ना से, कर्मानुसार (मन्त्र 7, 9-10)। <strong>(5) 'बाह्य कैसे धारण करता है?'</strong> → ब्रह्माण्डीय सम्बन्ध: सूर्य, पृथ्वी, आकाश, वायु, अग्नि (मन्त्र 8)। <strong>(6) 'अध्यात्म कैसे?'</strong> → <em>अध्यात्म</em> — नाडी-तन्त्र, हृदयस्थ आत्मा, व्यान-संचार (मन्त्र 6)।<br><br><em>Eng:</em> Kausalya asked six sub-questions (mantra 1). The concluding verse (mantra 12) maps the five-term summary back to those questions: <strong>(1) 'Whence is Prāṇa born?'</strong> → <em>utpatti</em> (origin) — from the Ātman, like a shadow from a person (mantra 3). <strong>(2) 'How does it enter the body?'</strong> → <em>āyati</em> (entry) — by mano-kṛtena, through the mind's past karma (mantra 3). <strong>(3) 'How does it establish itself after division?'</strong> → <em>sthāna</em> (station) — five prāṇas assigned to five body-zones (mantras 4-5). <strong>(4) 'By what does it depart?'</strong> → <em>vibhutva pañcadhā</em> (fivefold sovereignty) includes the departure mechanism: udāna exits through suṣumnā, carrying the jīva according to karma (mantras 7, 9-10). <strong>(5) 'How does it sustain the external?'</strong> → the cosmic correspondences: sun, earth, space, wind, fire (mantra 8). <strong>(6) 'How does it sustain the internal?'</strong> → <em>adhyātma</em> (internal nature) — the nāḍī-system, the heart-seat of the Ātman, vyāna's circulation (mantra 6). All six questions are answered, and the five-term summary provides a complete study-guide for meditation on Prāṇa."
       },
       {
         "q": "🔍 Why is the promise of immortality repeated twice?",
-        "a": "The double repetition of <strong>vijñāya amṛtam aśnute</strong> ('having known, one attains immortality') is a deliberate Upanishadic rhetorical device with several functions: <strong>(1) Emphasis</strong>: repetition drives home the supreme importance of the teaching. This is not ordinary knowledge — it confers <em>amṛtatva</em> (deathlessness). <strong>(2) Closure</strong>: the repeated phrase acts as a <em>colophon</em> — a seal marking the end of the question. The listener knows the teaching is complete. <strong>(3) Meditation-seed</strong>: the repeated phrase is meant to be <em>memorised and recited</em> as a meditation formula. The student takes this phrase away and repeats it internally, reinforcing the knowledge. <strong>(4) Vedic convention</strong>: many Upanishadic sections end with doubled phrases. The Kaṭha Upanishad (2.3.18) ends similarly: 'Having received this knowledge given by Death, and the entire yoga-teaching, Nachiketa attained Brahman and became free from passion and death — <em>and so may anyone who knows this concerning the Self</em>.' The repetition transforms a teaching into a <strong>promise</strong> — the Upanishad is saying: this is guaranteed. Know this, and immortality is yours. Know this, and immortality is yours."
+        "a": "<strong>विज्ञाय अमृतम् अश्नुते</strong> का दोहराव एक सुविचारित उपनिषदीय अलंकार है जिसके कई उद्देश्य हैं: <strong>(1) बल (emphasis)</strong>: दोहराव शिक्षा के परम महत्त्व पर बल देता है — यह सामान्य ज्ञान नहीं, <em>अमृतत्व</em>-प्रदायक है। <strong>(2) समापन (closure)</strong>: दोहरा वाक्य एक <em>मुद्रा</em> (colophon) का काम करता है — श्रोता जानता है कि शिक्षा पूर्ण हुई। <strong>(3) ध्यान-बीज (meditation-seed)</strong>: दोहरा वाक्य <em>स्मरण और पाठ</em> के लिए है — शिष्य इसे ले जाकर आन्तरिक रूप से दोहराता है। <strong>(4) वैदिक परम्परा</strong>: कठ उपनिषद् (2.3.18) भी दोहरे वाक्य से समाप्त होता है। दोहराव शिक्षा को <strong>प्रतिज्ञा</strong> (promise) में बदलता है: यह जानो और अमृतत्व तुम्हारा है। यह जानो और अमृतत्व तुम्हारा है।<br><br><em>Eng:</em> The double repetition of <strong>vijñāya amṛtam aśnute</strong> ('having known, one attains immortality') is a deliberate Upanishadic rhetorical device with several functions: <strong>(1) Emphasis</strong>: repetition drives home the supreme importance of the teaching. This is not ordinary knowledge — it confers <em>amṛtatva</em> (deathlessness). <strong>(2) Closure</strong>: the repeated phrase acts as a <em>colophon</em> — a seal marking the end of the question. The listener knows the teaching is complete. <strong>(3) Meditation-seed</strong>: the repeated phrase is meant to be <em>memorised and recited</em> as a meditation formula. The student takes this phrase away and repeats it internally, reinforcing the knowledge. <strong>(4) Vedic convention</strong>: many Upanishadic sections end with doubled phrases. The Kaṭha Upanishad (2.3.18) ends similarly: 'Having received this knowledge given by Death, and the entire yoga-teaching, Nachiketa attained Brahman and became free from passion and death — <em>and so may anyone who knows this concerning the Self</em>.' The repetition transforms a teaching into a <strong>promise</strong> — the Upanishad is saying: this is guaranteed. Know this, and immortality is yours. Know this, and immortality is yours."
       }
     ]
   }
