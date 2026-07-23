@@ -7,9 +7,34 @@
     "en": "This is the truth: just as from a well-blazing fire (su-dīptāt pāvakāt) thousands (sahasraśaḥ) of sparks (visphuliṅgāḥ) spring forth (prabhavante), of the same nature (sa-rūpāḥ) [as the fire] — so, O gentle one (somya), from the Imperishable (akṣarāt) various (vividhāḥ) beings (bhāvāḥ) are born (prajāyante) — and they return (api yanti) to it (tatra) again.",
     "ws": [
       {
-        "s": "सुदीप्तात् पावकात्",
-        "h": "अच्छी तरह प्रज्ज्वलित अग्नि से",
-        "e": "from a well-blazing fire"
+        "s": "तत्",
+        "h": "वह",
+        "e": "that"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य / परम सत्य",
+        "e": "truth / the truth"
+      },
+      {
+        "s": "यथा",
+        "h": "जैसे",
+        "e": "just as"
+      },
+      {
+        "s": "सुदीप्तात्",
+        "h": "अच्छी तरह प्रज्ज्वलित",
+        "e": "well-blazing"
+      },
+      {
+        "s": "पावकात्",
+        "h": "अग्नि से / पावक से",
+        "e": "from fire"
       },
       {
         "s": "विस्फुलिङ्गाः",
@@ -22,22 +47,67 @@
         "e": "by the thousands / innumerably"
       },
       {
+        "s": "प्रभवन्ते",
+        "h": "उत्पन्न होती हैं / निकलती हैं",
+        "e": "spring forth / originate"
+      },
+      {
         "s": "सरूपाः",
         "h": "समान रूप वाले / अग्नि-स्वभाव वाले",
         "e": "of the same nature/form"
       },
       {
+        "s": "तथा",
+        "h": "वैसे ही",
+        "e": "so too / similarly"
+      },
+      {
+        "s": "अक्षरात्",
+        "h": "अक्षर (अविनाशी) से",
+        "e": "from the Imperishable"
+      },
+      {
+        "s": "विविधाः",
+        "h": "विविध / अनेक प्रकार के",
+        "e": "various / manifold"
+      },
+      {
         "s": "सोम्य",
-        "h": "हे सौम्य / हे प्रिय / हे सज्जन",
+        "h": "हे सौम्य / हे प्रिय",
         "e": "O gentle one"
       },
       {
         "s": "भावाः",
-        "h": "भाव / पदार्थ / सत्ताएँ / beings",
+        "h": "भाव / पदार्थ / सत्ताएँ",
         "e": "beings / entities / existences"
+      },
+      {
+        "s": "प्रजायन्ते",
+        "h": "उत्पन्न होते हैं / जन्म लेते हैं",
+        "e": "are born / come into being"
+      },
+      {
+        "s": "तत्र",
+        "h": "वहीं / उसी में",
+        "e": "there / into that"
+      },
+      {
+        "s": "च",
+        "h": "और",
+        "e": "and"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चय ही",
+        "e": "indeed / alone"
+      },
+      {
+        "s": "अपि यन्ति",
+        "h": "लौट जाते हैं / वापस जाते हैं",
+        "e": "return / go back"
       }
     ],
-    "gr": "<strong>The spark-fire simile</strong>: the second Muṇḍaka opens with one of the Upanishads' most famous analogies — sparks from fire. <strong>The analogy's logic</strong>: (1) The sparks come <em>from</em> the fire — they are not created from nothing. (2) The sparks are <em>sa-rūpa</em> (of the same nature) as the fire — they are fire, not something else. (3) The sparks eventually <em>return</em> to the fire — they are not permanently separate. Similarly: (1) All beings come from the akṣara (Imperishable). (2) All beings share the akṣara's nature (consciousness, being). (3) All beings return to the akṣara. <strong>sa-rūpāḥ</strong> — 'of the same nature': this is philosophically crucial. The sparks are not <em>different in kind</em> from the fire — they are fire in miniature. Similarly, created beings are not different in kind from Brahman — they are Brahman in individualised form. This supports the Upanishadic claim that knowing Brahman = knowing all beings (because all beings are Brahman-natured). <strong>tatra caivāpiyanti</strong> — 'and they return to it': the cycle is complete — emergence and return. The sparks fly out and fall back into the fire. Beings emerge from Brahman and dissolve back into Brahman.",
+    "gr": "<strong>व्याकरण:</strong> 'तत् एतत् सत्यम्' — 'वह यह सत्य है' — उपनिषद् का सत्य-घोषणा वाक्य। 'यथा...तथा' — उपमा अलंकार — स्फुलिंग-अग्नि उपमा। 'सुदीप्तात् पावकात्' — पञ्चमी विभक्ति (अपादान कारक) — 'प्रज्ज्वलित अग्नि से'। 'विस्फुलिङ्गाः' — प्रथमा बहुवचन — कर्ता। 'सरूपाः' — 'स + रूप' — बहुव्रीहि समास — 'समान रूप वाले'। 'प्रभवन्ते' — प्र + √भू — 'उत्पन्न होना'। 'अक्षरात्' — पञ्चमी एकवचन — 'अक्षर (न + क्षर = अविनाशी) से'। 'प्रजायन्ते' — प्र + √जन् — 'जन्म लेना'। 'अपि + यन्ति' — √इ गतौ — 'वापस जाना / लौटना'। यह उपमा तीन बिन्दु स्थापित करती है: (1) उत्पत्ति — स्फुलिंग अग्नि से निकलते हैं, (2) स्वरूप-साम्य — स्फुलिंग अग्नि-स्वभाव हैं (सरूपाः), (3) प्रत्यागमन — स्फुलिंग अग्नि में लौट जाते हैं।<br><em>Eng:</em> 'tat etat satyam' — 'that is this truth' — the Upanishad's truth-declaration. 'yathā...tathā' — simile construction. 'su-dīptāt pāvakāt' — ablative (fifth case) — 'from well-blazing fire'. 'visphuliṅgāḥ' — nominative plural, subject. 'sa-rūpāḥ' — bahuvrīhi compound — 'those having the same form'. 'prabhavante' — pra+√bhū — 'to originate'. 'akṣarāt' — ablative singular — 'from the Imperishable (a+kṣara)'. The simile establishes: (1) origin from fire, (2) identity of nature (sa-rūpa), (3) return to source.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -62,7 +132,7 @@
     "dp": [
       {
         "q": "🔍 The spark-fire simile and the nature of creation",
-        "a": "The <strong>spark-fire simile</strong> is one of the most important creation-analogies in the Upanishads: <strong>Three key features</strong>: (1) <strong>Origin</strong>: the sparks come <em>from</em> the fire — they are not created from nothing (ex nihilo) and not created from some other material. The fire is both the <em>efficient cause</em> (the agent that produces) and the <em>material cause</em> (the substance from which they are made). Similarly, Brahman is both the creator (efficient cause) and the substance (material cause) of the universe. (2) <strong>Identity of nature (sa-rūpa)</strong>: the sparks share the fire's essential nature — they are hot, luminous, and fire-constituted. No spark is made of water or earth; every spark is fire. Similarly, every being shares Brahman's essential nature — consciousness, being, bliss. This is the basis for 'tat tvam asi' (you are That). (3) <strong>Return</strong>: the sparks fly out and fall back into the fire. They don't disappear into void — they merge back into their source. Similarly, all beings eventually return to Brahman. <strong>Comparison with other similes</strong>: the Muṇḍaka uses three creation-similes: (a) <em>Spider-web</em> (1.1.7) — the spider produces the web from itself and draws it back; emphasises self-causation. (b) <em>Earth-herbs</em> (1.1.7) — the earth produces herbs from itself; emphasises the variety of creation from a single source. (c) <em>Spark-fire</em> (2.1.1) — emphasises identity of nature (sa-rūpa) and the cycle of emergence-return. Each simile highlights a different aspect of the Brahman-world relationship."
+        "a": "<strong>स्फुलिंग-अग्नि उपमा</strong> उपनिषदों की सबसे महत्त्वपूर्ण सृष्टि-उपमाओं में से एक है। <strong>तीन प्रमुख विशेषताएँ</strong>: (1) <strong>उत्पत्ति</strong>: स्फुलिंग अग्नि से निकलते हैं — शून्य से नहीं (ex nihilo नहीं) और किसी अन्य पदार्थ से भी नहीं। अग्नि = निमित्त कारण (efficient cause) और उपादान कारण (material cause) दोनों। इसी प्रकार ब्रह्म = सृष्टि का कर्ता भी और सृष्टि का उपादान भी। (2) <strong>स्वरूप-साम्य (सरूप)</strong>: स्फुलिंग अग्नि-स्वभाव हैं — उष्ण, प्रकाशमान, अग्नि-मय। कोई स्फुलिंग जल या मिट्टी से नहीं बना — प्रत्येक स्फुलिंग अग्नि ही है। इसी प्रकार सब प्राणी ब्रह्म-स्वभाव (चित्, सत्, आनन्द) हैं — यही 'तत् त्वम् असि' का आधार है। (3) <strong>प्रत्यागमन</strong>: स्फुलिंग उड़कर पुनः अग्नि में गिर जाते हैं — शून्य में नहीं। सब प्राणी अन्ततः ब्रह्म में लौट जाते हैं। <strong>अन्य सृष्टि-उपमाओं से तुलना</strong>: मुण्डक तीन उपमाएँ प्रयुक्त करता है — (अ) मकड़ी-जाल (1.1.7) — स्व-कारणत्व, (ब) पृथ्वी-ओषधि (1.1.7) — एक स्रोत से विविधता, (स) स्फुलिंग-अग्नि (2.1.1) — स्वरूप-साम्य और उदय-प्रत्यागमन चक्र।<br><br><em>Eng:</em> The <strong>spark-fire simile</strong> is one of the most important creation-analogies in the Upanishads: <strong>Three key features</strong>: (1) <strong>Origin</strong>: the sparks come <em>from</em> the fire — they are not created from nothing (ex nihilo) and not created from some other material. The fire is both the <em>efficient cause</em> (the agent that produces) and the <em>material cause</em> (the substance from which they are made). Similarly, Brahman is both the creator (efficient cause) and the substance (material cause) of the universe. (2) <strong>Identity of nature (sa-rūpa)</strong>: the sparks share the fire's essential nature — they are hot, luminous, and fire-constituted. No spark is made of water or earth; every spark is fire. Similarly, every being shares Brahman's essential nature — consciousness, being, bliss. This is the basis for 'tat tvam asi' (you are That). (3) <strong>Return</strong>: the sparks fly out and fall back into the fire. They don't disappear into void — they merge back into their source. Similarly, all beings eventually return to Brahman."
       },
       {
         "q": "🔍 'Somya' — the teacher's tender address",
@@ -83,13 +153,23 @@
         "e": "divine / self-luminous"
       },
       {
+        "s": "हि",
+        "h": "निश्चय ही / वस्तुतः",
+        "e": "indeed / verily"
+      },
+      {
         "s": "अमूर्तः",
-        "h": "मूर्ति-रहित / निराकार / formless",
+        "h": "मूर्ति-रहित / निराकार",
         "e": "formless"
       },
       {
+        "s": "पुरुषः",
+        "h": "पुरुष / परम सत्ता / the Person",
+        "e": "the Person / Supreme Being"
+      },
+      {
         "s": "सबाह्याभ्यन्तरः",
-        "h": "बाहर और भीतर (दोनों में) विद्यमान",
+        "h": "बाहर और भीतर दोनों में विद्यमान",
         "e": "existing both outside and inside"
       },
       {
@@ -98,17 +178,37 @@
         "e": "unborn"
       },
       {
+        "s": "अप्राणः",
+        "h": "प्राण-रहित / प्राण से परे",
+        "e": "without prāṇa / beyond life-breath"
+      },
+      {
+        "s": "अमनाः",
+        "h": "मन-रहित / मन से परे",
+        "e": "without mind / beyond mind"
+      },
+      {
         "s": "शुभ्रः",
         "h": "शुभ्र / शुद्ध / निर्मल / उज्ज्वल",
         "e": "pure / resplendent"
       },
       {
-        "s": "अक्षरात् परतः परः",
-        "h": "अक्षर से भी परे से परे / अविनाशी से भी ऊपर",
-        "e": "beyond even the Imperishable"
+        "s": "अक्षरात्",
+        "h": "अक्षर (अविनाशी) से",
+        "e": "from/than the Imperishable"
+      },
+      {
+        "s": "परतः",
+        "h": "परे / ऊपर / beyond",
+        "e": "beyond"
+      },
+      {
+        "s": "परः",
+        "h": "परम / सर्वोच्च / the supreme",
+        "e": "the supreme / beyond the beyond"
       }
     ],
-    "gr": "<strong>The Puruṣa beyond the akṣara</strong>: this mantra introduces a hierarchy — the Puruṣa is described as <em>beyond even the akṣara</em> (Imperishable). <strong>akṣarāt parataḥ paraḥ</strong> — 'beyond the beyond of the Imperishable': this is a startling claim. The akṣara (Imperishable) was presented in 1.1.5-6 as the supreme reality. Now the Muṇḍaka says there is something <em>beyond</em> even that — the Puruṣa. This suggests a hierarchy: manifest world → akṣara (unmanifest/imperishable) → Puruṣa (supreme). <strong>Seven attributes</strong>: (1) divya (self-luminous), (2) amūrta (formless), (3) sa-bāhya-abhyantara (both outside and inside), (4) aja (unborn), (5) aprāṇa (without prāṇa), (6) amanāḥ (without mind), (7) śubhra (pure/resplendent). <strong>The paradox</strong>: the Puruṣa is both 'outside' and 'inside' — it is not located in one place but pervades everything, both the outer world and the inner self. It is simultaneously transcendent (outside) and immanent (inside).",
+    "gr": "<strong>व्याकरण:</strong> 'दिव्यः' — √दिव् (प्रकाशित होना) — 'स्वयं-प्रकाशमान'। 'अमूर्तः' — 'अ + मूर्त' — नञ् समास — 'मूर्ति-रहित / निराकार'। 'सबाह्याभ्यन्तरः' — 'स + बाह्य + अभ्यन्तर' — बहुव्रीहि समास — 'जो बाहर और भीतर दोनों ओर है'। 'अजः' — 'अ + ज' — √जन् — 'जन्म न लेने वाला'। 'अप्राणः' — 'अ + प्राण' — 'प्राण से रहित' — अर्थात् प्राण से परे, प्राण-निर्भर नहीं। 'अमनाः' — 'अ + मनस्' — 'मन से रहित' — मानसिक क्रिया से परे। 'शुभ्रः' — √शुभ् — 'शुद्ध, निर्मल, उज्ज्वल'। 'अक्षरात् परतः परः' — तीन-स्तरीय संरचना: (1) क्षर = दृश्य जगत्, (2) अक्षर = अव्याकृत/अविनाशी, (3) पुरुष = दोनों से परे। 'हि' — अव्यय — 'निश्चय ही' — चार बार प्रयुक्त — प्रत्येक विशेषण पर बल देता है।<br><em>Eng:</em> 'divyaḥ' — √div (to shine) — 'self-luminous'. 'amūrtaḥ' — 'a+mūrta' — negative compound — 'formless'. 'sa-bāhya-abhyantaraḥ' — bahuvrīhi — 'existing both outside and inside'. 'ajaḥ' — 'a+ja' — 'unborn'. 'aprāṇaḥ/amanāḥ' — beyond prāṇa and mind. 'akṣarāt parataḥ paraḥ' — three-tier hierarchy: kṣara (manifest) → akṣara (imperishable) → Puruṣa (beyond both). 'hi' used four times for emphatic assertion.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -133,7 +233,7 @@
     "dp": [
       {
         "q": "🔍 'Beyond even the Imperishable' — the three-tier hierarchy",
-        "a": "The phrase <strong>'akṣarāt parataḥ paraḥ'</strong> ('beyond even the Imperishable') introduces a <strong>three-tier hierarchy</strong> of reality: <strong>Tier 1: Kṣara (the perishable)</strong> — the manifest world of names, forms, and change. Everything we perceive — bodies, objects, planets, time — belongs here. It is born, it changes, it perishes. <strong>Tier 2: Akṣara (the imperishable)</strong> — the unmanifest ground from which the manifest world arises. It is 'imperishable' because it does not undergo the changes that the manifest world does. In Shankara's reading, this is <em>avyākṛta</em> (the unmanifest māyā/prakṛti). In Ramanuja's reading, it is the collective of liberated souls or prakṛti in its unmanifest state. <strong>Tier 3: Puruṣa (beyond the imperishable)</strong> — the Supreme Person who transcends both the manifest and the unmanifest. This is the ultimate reality — not just undying but the <em>source</em> of both dying and undying. <strong>The Gītā parallel</strong> (15.16-18): Kṛṣṇa describes exactly this hierarchy: (1) kṣara puruṣa = all beings in the world, (2) akṣara puruṣa = the unmanifest, unchanging, (3) puruṣottama = 'the Supreme Person, other than these two, called the Supreme Self (Paramātmā), who pervades and sustains the three worlds.' The Muṇḍaka's 'akṣarāt parataḥ paraḥ' is the seed of the Gītā's Puruṣottama theology."
+        "a": "'<strong>अक्षरात् परतः परः</strong>' ('अविनाशी से भी परे') — यह वाक्य <strong>तीन-स्तरीय वास्तविकता</strong> का परिचय देता है: <strong>प्रथम स्तर — क्षर (नश्वर)</strong>: नामरूपात्मक दृश्य जगत् — शरीर, पदार्थ, ग्रह, काल — सब जन्मते, बदलते, और नष्ट होते हैं। <strong>द्वितीय स्तर — अक्षर (अविनाशी)</strong>: अव्यक्त आधार जिससे दृश्य जगत् प्रकट होता है — यह अक्षर है क्योंकि जगत् जैसे परिवर्तन इसे नहीं होते। शंकर के अनुसार यह अव्याकृत माया/प्रकृति है। <strong>तृतीय स्तर — पुरुष (अविनाशी से भी परे)</strong>: परम सत्ता जो व्यक्त और अव्यक्त दोनों से परे है — केवल अमर नहीं, बल्कि अमरत्व का भी स्रोत। <strong>गीता-समान्तर</strong> (15.16-18): कृष्ण ठीक यही पदानुक्रम बताते हैं — 'यस्मात् क्षरम् अतीतोऽहम् अक्षराद् अपि चोत्तमः, अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः।'<br><br><em>Eng:</em> The phrase <strong>'akṣarāt parataḥ paraḥ'</strong> introduces a <strong>three-tier hierarchy</strong>: <strong>Tier 1: Kṣara</strong> — the manifest world of names, forms, and change. <strong>Tier 2: Akṣara</strong> — the unmanifest ground; 'imperishable' because it does not undergo manifest-world changes. <strong>Tier 3: Puruṣa</strong> — beyond both manifest and unmanifest — not just undying but the source of both dying and undying. The Gītā parallel (15.16-18): Kṛṣṇa describes this same hierarchy — kṣara puruṣa, akṣara puruṣa, and puruṣottama."
       },
       {
         "q": "🔍 The paradox of 'both outside and inside' (sa-bāhya-abhyantara)",
@@ -149,19 +249,44 @@
     "en": "From Him (etasmāt) are born (jāyate): prāṇa (life-breath), manas (mind), and all the senses (sarva-indriyāṇi); and [the five elements:] space (kham), air (vāyu), fire/light (jyotiḥ), waters (āpaḥ), and earth (pṛthivī) — the supporter (dhāriṇī) of the universe (viśvasya).",
     "ws": [
       {
+        "s": "एतस्मात्",
+        "h": "इससे / इस (पुरुष) से",
+        "e": "from this (Puruṣa)"
+      },
+      {
+        "s": "जायते",
+        "h": "उत्पन्न होता है / जन्म लेता है",
+        "e": "is born / arises"
+      },
+      {
         "s": "प्राणः",
-        "h": "प्राण / जीवन-शक्ति / life-breath",
-        "e": "prāṇa"
+        "h": "प्राण / जीवन-शक्ति",
+        "e": "prāṇa / life-breath"
+      },
+      {
+        "s": "मनः",
+        "h": "मन / अन्तःकरण",
+        "e": "mind"
       },
       {
         "s": "सर्वेन्द्रियाणि",
-        "h": "सब इन्द्रियाँ / सभी ज्ञानेन्द्रियाँ और कर्मेन्द्रियाँ",
+        "h": "सब इन्द्रियाँ (ज्ञानेन्द्रियाँ + कर्मेन्द्रियाँ)",
         "e": "all the senses"
       },
       {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
+      },
+      {
         "s": "खम्",
-        "h": "आकाश / गगन / space",
+        "h": "आकाश / गगन",
         "e": "space / ether"
+      },
+      {
+        "s": "वायुः",
+        "h": "वायु / पवन",
+        "e": "air / wind"
       },
       {
         "s": "ज्योतिः",
@@ -169,12 +294,27 @@
         "e": "fire / light"
       },
       {
+        "s": "आपः",
+        "h": "जल / आपः",
+        "e": "waters"
+      },
+      {
+        "s": "पृथिवी",
+        "h": "पृथ्वी / भूमि",
+        "e": "earth"
+      },
+      {
+        "s": "विश्वस्य",
+        "h": "विश्व की / सम्पूर्ण जगत् की",
+        "e": "of the universe"
+      },
+      {
         "s": "धारिणी",
-        "h": "धारण करने वाली / आधार / supporter",
-        "e": "the supporter"
+        "h": "धारण करने वाली / आधार",
+        "e": "the supporter / sustainer"
       }
     ],
-    "gr": "<strong>The creation-sequence from the Puruṣa</strong>: from the Puruṣa emerge: (A) the subjective side — prāṇa, manas, senses; (B) the objective side — the five elements (space, air, fire, water, earth). <strong>Two categories</strong>: (1) <em>Inner</em> (adhyātma): prāṇa (life-energy), manas (mind), indriyāṇi (senses) — the instruments of individual experience. (2) <em>Outer</em> (adhibhūta): kham (space), vāyu (air), jyotiḥ (fire), āpaḥ (water), pṛthivī (earth) — the five mahābhūtas (great elements) from which the physical world is constituted. <strong>The descent from subtle to gross</strong>: the elements are listed from subtlest (space) to grossest (earth) — the standard Vedāntic creation-order. Space gives rise to air, air to fire, fire to water, water to earth. <strong>pṛthivī viśvasya dhāriṇī</strong> — 'earth, the supporter of the universe': earth is singled out as the <em>dhāriṇī</em> (supporter) — the element that 'holds' the physical world together. It is the grossest element — the final stage of manifestation — and yet it 'supports' everything above it.",
+    "gr": "<strong>व्याकरण:</strong> 'एतस्मात्' — 'एतद्' का पञ्चमी एकवचन — 'इससे' (अपादान कारक — उत्पत्ति-स्थान)। 'जायते' — √जन् (आत्मनेपद) — 'उत्पन्न होना'। 'प्राणः' — प्र + √अन् — 'आगे की ओर श्वास' — जीवन-शक्ति। 'सर्वेन्द्रियाणि' — 'सर्व + इन्द्रियाणि' — सन्धि — 'सभी इन्द्रियाँ'। 'खम्' — नपुंसक — आकाश (सबसे सूक्ष्म भूत)। सृष्टि-क्रम: सूक्ष्मतम (आकाश) → स्थूलतम (पृथ्वी): खम् → वायु → ज्योतिः → आपः → पृथिवी — यह वेदान्त का मानक सृष्टि-क्रम है। 'विश्वस्य धारिणी' — षष्ठी तत्पुरुष समास — 'विश्व की धारिणी' — पृथ्वी = सबसे स्थूल तत्त्व, फिर भी सब का आधार। दो श्रेणियाँ: (अ) आध्यात्मिक — प्राण, मन, इन्द्रियाँ; (ब) आधिभौतिक — पञ्चमहाभूत।<br><em>Eng:</em> 'etasmāt' — ablative singular of 'etad' — 'from this' (source). 'jāyate' — ātmanepada of √jan — 'is born'. 'sarvendriyāṇi' — sandhi of sarva+indriyāṇi. Creation order: subtle to gross — kham → vāyu → jyotiḥ → āpaḥ → pṛthivī. 'viśvasya dhāriṇī' — ṣaṣṭhī tatpuruṣa — 'supporter of the universe'. Two categories: (a) subjective (prāṇa, mind, senses), (b) objective (five elements).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -199,7 +339,7 @@
     "dp": [
       {
         "q": "🔍 The five great elements (pañca-mahābhūta)",
-        "a": "The <strong>five great elements</strong> (pañca-mahābhūta) are the building blocks of the physical world in Vedāntic cosmology: <strong>The five, from subtle to gross</strong>: (1) <strong>Ākāśa / Kham</strong> (space) — the subtlest element; the field in which all others operate; its quality is <em>śabda</em> (sound). (2) <strong>Vāyu</strong> (air) — the element of movement and touch; its quality is <em>sparśa</em> (touch). (3) <strong>Tejas / Jyotiḥ</strong> (fire/light) — the element of heat and visibility; its quality is <em>rūpa</em> (form/colour). (4) <strong>Āpas</strong> (water) — the element of fluidity and cohesion; its quality is <em>rasa</em> (taste). (5) <strong>Pṛthivī</strong> (earth) — the grossest element, providing solidity and support; its quality is <em>gandha</em> (smell). <strong>The creation-order</strong>: each element emerges from the previous one — space → air → fire → water → earth — from subtle to gross. This is the <em>sṛṣṭi-krama</em> (creation-order). The reverse — earth → water → fire → air → space — is the <em>laya-krama</em> (dissolution-order). <strong>Each element contains all previous ones</strong>: earth has the qualities of all five (sound, touch, form, taste, smell); water has four (sound, touch, form, taste); fire has three; air has two; space has only one (sound). This is why earth is the 'densest' and space the 'subtlest.'"
+        "a": "यह मन्त्र पुरुष से <strong>दो प्रकार की सृष्टि</strong> का वर्णन करता है — <strong>आध्यात्मिक (subjective)</strong> और <strong>आधिभौतिक (objective)</strong>: <strong>आध्यात्मिक पक्ष</strong>: प्राण (जीवन-शक्ति), मन, इन्द्रियाँ — ये व्यक्तिगत अनुभव के उपकरण हैं। इनके बिना कोई अनुभव-कर्ता नहीं। <strong>आधिभौतिक पक्ष</strong>: आकाश, वायु, अग्नि, जल, पृथ्वी — ये अनुभव-योग्य जगत् के घटक हैं। इनके बिना अनुभव का कोई विषय नहीं। <strong>मुण्डक का मूल बिन्दु</strong>: दोनों एक ही पुरुष से उत्पन्न हैं — अतः अनुभव-कर्ता और अनुभव-योग्य विश्व पृथक् सत्ताएँ नहीं — एक ही सत्य (ब्रह्म) के दो पहलू हैं। इसीलिए 'ब्रह्म को जानने से सब ज्ञात हो जाता है' (1.1.3) — क्योंकि ज्ञाता (प्राण, मन, इन्द्रियाँ) और ज्ञेय (पञ्चभूत) दोनों ब्रह्म की स्व-अभिव्यक्ति हैं।<br><br><em>Eng:</em> This mantra describes <strong>both the subjective and objective aspects of creation</strong> from the same source: <strong>Subjective</strong>: prāṇa, manas, indriyāṇi — instruments of individual experience. <strong>Objective</strong>: kham, vāyu, jyotiḥ, āpaḥ, pṛthivī — components of the experienced world. Both come from the same Puruṣa — the experiencer and the experienced are two aspects of one reality (Brahman). This is why 'knowing Brahman, all is known' (1.1.3)."
       },
       {
         "q": "🔍 The dual creation: subjective and objective",
@@ -215,9 +355,19 @@
     "en": "Fire (agni) is his head (mūrdhā); the moon and sun (candra-sūryau) are his two eyes (cakṣuṣī); the directions (diśaḥ) are his ears (śrotre); the Vedas are his revealed speech (vāk vivṛtāḥ); air (vāyu) is his prāṇa (life-breath); the universe (viśvam) is his heart (hṛdayam); from his feet (padbhyām) is the earth (pṛthivī) — he is the inner Self (antarātmā) of all beings (sarva-bhūta).",
     "ws": [
       {
+        "s": "अग्निः",
+        "h": "अग्नि / fire",
+        "e": "fire"
+      },
+      {
         "s": "मूर्धा",
-        "h": "शिर / सिर / head",
+        "h": "शिर / मस्तक / head",
         "e": "the head"
+      },
+      {
+        "s": "चक्षुषी",
+        "h": "दो नेत्र / दो आँखें",
+        "e": "the two eyes"
       },
       {
         "s": "चन्द्रसूर्यौ",
@@ -225,22 +375,77 @@
         "e": "moon and sun"
       },
       {
-        "s": "दिशः श्रोत्रे",
-        "h": "दिशाएँ (directions) उसके कान हैं",
-        "e": "the directions are his ears"
+        "s": "दिशः",
+        "h": "दिशाएँ / directions",
+        "e": "the directions"
       },
       {
-        "s": "वाक् विवृताः",
-        "h": "प्रकट / विवृत (revealed) वाणी",
-        "e": "revealed speech"
+        "s": "श्रोत्रे",
+        "h": "दो कान / श्रवण-इन्द्रिय",
+        "e": "the two ears"
+      },
+      {
+        "s": "वाक्",
+        "h": "वाणी / speech",
+        "e": "speech"
+      },
+      {
+        "s": "विवृताः",
+        "h": "प्रकट / विवृत / revealed",
+        "e": "revealed / opened forth"
+      },
+      {
+        "s": "वेदाः",
+        "h": "वेद / sacred texts",
+        "e": "the Vedas"
+      },
+      {
+        "s": "वायुः",
+        "h": "वायु / पवन",
+        "e": "air / wind"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-वायु",
+        "e": "life-breath"
+      },
+      {
+        "s": "हृदयम्",
+        "h": "हृदय / heart",
+        "e": "the heart"
+      },
+      {
+        "s": "विश्वम्",
+        "h": "विश्व / सम्पूर्ण जगत्",
+        "e": "the universe"
+      },
+      {
+        "s": "अस्य",
+        "h": "इसका / उसका",
+        "e": "his"
+      },
+      {
+        "s": "पद्भ्याम्",
+        "h": "दो पैरों से",
+        "e": "from the two feet"
+      },
+      {
+        "s": "पृथिवी",
+        "h": "पृथ्वी / भूमि",
+        "e": "the earth"
+      },
+      {
+        "s": "एषः",
+        "h": "यह / वह",
+        "e": "this / he"
       },
       {
         "s": "सर्वभूतान्तरात्मा",
-        "h": "सब भूतों (प्राणियों) का अन्तरात्मा / inner Self",
+        "h": "सब प्राणियों का अन्तरात्मा / inner Self of all beings",
         "e": "the inner Self of all beings"
       }
     ],
-    "gr": "<strong>The cosmic Person (Virāṭ Puruṣa)</strong>: this mantra maps the cosmic Person's body onto the universe — a classic Upanishadic and Vedic technique (cf. Puruṣa Sūkta, ṚV 10.90). <strong>The cosmic anatomy</strong>: head = fire (upward-rising element), eyes = sun and moon (the two great luminaries), ears = the directions (where sound travels), speech = the Vedas (the cosmic Person's 'words'), breath = wind (the cosmic prāṇa), heart = the universe (the centre of the cosmic Person), feet = the earth (the ground-level). <strong>The Puruṣa Sūkta parallel</strong> (ṚV 10.90.13-14): 'The moon was born from his mind; the sun from his eye; from his mouth, Indra and Agni; from his breath, Vāyu was born.' The Muṇḍaka's description follows the same model — the universe is the <em>body</em> of the cosmic Person. <strong>sarva-bhūta-antarātmā</strong> — 'the inner Self of all beings': the crucial conclusion. The cosmic Person is not just the universe (the macro-body) but also the inner Self (ātmā) of every being. He is simultaneously the largest and the smallest — both the universe as a whole and the consciousness within each creature.",
+    "gr": "<strong>व्याकरण:</strong> यह विराट् पुरुष (cosmic Person) का वर्णन है — ब्रह्म को विश्व-शरीर के रूप में। 'अग्निः मूर्धा' — कर्ता-कर्म-भाव — 'अग्नि [उसका] शिर है'। 'चक्षुषी' — द्विवचन — 'दो आँखें' — 'चन्द्रसूर्यौ' (द्विवचन) से मिलान। 'दिशः श्रोत्रे' — 'दिशाएँ [उसके] दो कान हैं'। 'वाक् विवृताः च वेदाः' — 'वेद [उसकी] प्रकट वाणी हैं' — विवृत = वि + √वृ — 'खुली हुई / प्रकट'। 'हृदयं विश्वम्' — 'विश्व [उसका] हृदय है' — सबसे अन्तरंग अंग = समस्त अस्तित्व। 'पद्भ्याम् पृथिवी' — '[उसके] पैरों से पृथ्वी [है]' — पुरुष-सूक्त (ऋ.वे. 10.90) की प्रतिध्वनि। 'सर्वभूतान्तरात्मा' — 'सर्व + भूत + अन्तर + आत्मा' — दीर्घ समास — 'सब प्राणियों का भीतरी आत्मा' — यह निष्कर्ष-पद है।<br><em>Eng:</em> Cosmic Person (Virāṭ Puruṣa) description — mapping body onto universe. 'cakṣuṣī' — dual, matching 'candra-sūryau' (dual). 'vāk vivṛtāḥ ca vedāḥ' — Vedas as revealed speech. 'hṛdayaṁ viśvam' — the universe as heart. 'padbhyām pṛthivī' — echoes Puruṣa Sūkta (ṚV 10.90). 'sarva-bhūta-antarātmā' — long compound — 'inner Self of all beings' — the concluding epithet.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -265,7 +470,7 @@
     "dp": [
       {
         "q": "🔍 The cosmic Person (Virāṭ Puruṣa) tradition",
-        "a": "The <strong>cosmic Person</strong> — whose body IS the universe — is one of the oldest and most enduring images in Indian thought: <strong>The Puruṣa Sūkta</strong> (ṚV 10.90): the foundational text. The Puruṣa (cosmic Person) is described as having 'a thousand heads, a thousand eyes, a thousand feet.' From his sacrifice, the entire universe is created: moon from his mind, sun from his eye, Indra and Agni from his mouth, Vāyu from his breath, space from his navel, heaven from his head, earth from his feet, the directions from his ears. <strong>The Muṇḍaka's version</strong>: follows the Puruṣa Sūkta's template but adds two crucial elements: (1) 'The Vedas are his speech' — the sacred texts are not separate from the cosmic Person but his <em>words</em>. (2) 'The universe is his heart' — the most intimate part of a person (the heart) is identified with the totality of existence. <strong>The Bhagavad Gītā's viśvarūpa</strong> (chapter 11): Arjuna sees Kṛṣṇa's universal form — 'many mouths and eyes, many arms, many bellies, many terrible teeth... wearing divine garlands and garments, anointed with divine fragrances, all-wonderful, resplendent, boundless, facing all directions.' <strong>The purpose of this meditation</strong>: to train the mind to see <em>divinity in everything</em>. When you look at the sun, see God's eye. When you feel the wind, feel God's breath. When you stand on the earth, stand on God's feet. This transforms the entire world from a collection of objects into a living, divine Presence."
+        "a": "<strong>विराट् पुरुष</strong> — जिसका शरीर ही विश्व है — भारतीय चिन्तन की प्राचीनतम और सबसे स्थायी कल्पनाओं में से एक है। <strong>विश्व-शारीरिक रूपक</strong>: शिर = अग्नि (ऊर्ध्वगामी तत्त्व), नेत्र = सूर्य-चन्द्र (दो महाज्योतियाँ), कान = दिशाएँ (जहाँ ध्वनि यात्रा करती है), वाणी = वेद (पुरुष के 'शब्द'), प्राण = वायु (विश्व-प्राण), हृदय = विश्व (पुरुष का केन्द्र), पैर = पृथ्वी (भू-स्तर)। <strong>पुरुष-सूक्त समान्तर</strong> (ऋ.वे. 10.90.13-14): 'उसके मन से चन्द्रमा, नेत्र से सूर्य, मुख से इन्द्र-अग्नि, प्राण से वायु।' <strong>'सर्वभूतान्तरात्मा'</strong> — निर्णायक निष्कर्ष — विराट् पुरुष केवल बाह्य विश्व (macro-body) नहीं, बल्कि प्रत्येक प्राणी का अन्तरात्मा भी है — वह एक साथ विशालतम (विश्व) और सूक्ष्मतम (प्रत्येक जीव की चेतना) है।<br><br><em>Eng:</em> The <strong>cosmic Person</strong> — whose body IS the universe — is one of the oldest images in Indian thought. <strong>Cosmic anatomy</strong>: head = fire, eyes = sun and moon, ears = directions, speech = Vedas, breath = wind, heart = the universe, feet = earth. <strong>Puruṣa Sūkta parallel</strong> (ṚV 10.90). <strong>'Sarva-bhūta-antarātmā'</strong> — the crucial conclusion: the cosmic Person is not just the universe but also the inner Self of every being — simultaneously the largest and the most intimate."
       },
       {
         "q": "🔍 'Sarva-bhūta-antarātmā' — the inner Self of all beings",
@@ -281,19 +486,54 @@
     "en": "From Him [comes] fire (agni), whose fuel (samidh) is the sun (sūrya). From the moon (soma), rain (parjanya); herbs (oṣadhayaḥ) [grow] on earth (pṛthivyām). The male (pumān) pours seed (retaḥ siñcati) in the female (yoṣitāyām). Thus many (bahvīḥ) offspring (prajāḥ) are born forth (samprasūtāḥ) from the Puruṣa.",
     "ws": [
       {
+        "s": "तस्मात्",
+        "h": "उससे / उस (पुरुष) से",
+        "e": "from Him"
+      },
+      {
+        "s": "अग्निः",
+        "h": "अग्नि / fire",
+        "e": "fire"
+      },
+      {
         "s": "समिधः",
-        "h": "समिधा / ईंधन / fuel",
+        "h": "समिधा / ईंधन",
         "e": "fuel"
       },
       {
-        "s": "सोमात् पर्जन्यः",
-        "h": "सोम (चन्द्रमा) से पर्जन्य (वर्षा / rain)",
-        "e": "from the moon, rain"
+        "s": "यस्य",
+        "h": "जिसकी / whose",
+        "e": "whose"
+      },
+      {
+        "s": "सूर्यः",
+        "h": "सूर्य / sun",
+        "e": "the sun"
+      },
+      {
+        "s": "सोमात्",
+        "h": "सोम (चन्द्रमा) से",
+        "e": "from soma (the moon)"
+      },
+      {
+        "s": "पर्जन्यः",
+        "h": "पर्जन्य / वर्षा / rain-cloud",
+        "e": "rain / rain-cloud"
       },
       {
         "s": "ओषधयः",
-        "h": "ओषधियाँ / जड़ी-बूटियाँ / plants",
+        "h": "ओषधियाँ / जड़ी-बूटियाँ / वनस्पतियाँ",
         "e": "herbs / plants"
+      },
+      {
+        "s": "पृथिव्याम्",
+        "h": "पृथ्वी पर / भूमि पर",
+        "e": "on the earth"
+      },
+      {
+        "s": "पुमान्",
+        "h": "पुरुष / नर / male",
+        "e": "the male"
       },
       {
         "s": "रेतः",
@@ -301,12 +541,37 @@
         "e": "seed / semen"
       },
       {
+        "s": "सिञ्चति",
+        "h": "सींचता है / डालता है",
+        "e": "pours / sheds"
+      },
+      {
+        "s": "योषितायाम्",
+        "h": "स्त्री में / योषिता में",
+        "e": "in the woman / female"
+      },
+      {
+        "s": "बह्वीः",
+        "h": "बहुत-सी / अनेक",
+        "e": "many"
+      },
+      {
+        "s": "प्रजाः",
+        "h": "सन्तानें / प्रजा / offspring",
+        "e": "offspring / creatures"
+      },
+      {
+        "s": "पुरुषात्",
+        "h": "पुरुष से",
+        "e": "from the Puruṣa"
+      },
+      {
         "s": "सम्प्रसूताः",
         "h": "उत्पन्न / जन्मी / born forth",
-        "e": "born forth"
+        "e": "born forth / created"
       }
     ],
-    "gr": "<strong>The cosmic food-chain</strong>: this mantra traces the chain of creation from the Puruṣa through cosmic cycles to biological reproduction. <strong>The chain</strong>: Puruṣa → fire (fuelled by sun) → moon → rain → herbs on earth → male-female union → many offspring. <strong>The cosmic cycle</strong>: fire (cosmic energy) → sun (fuel/light) → moon (cycles/rhythm) → rain (water) → plants (food) → animals/humans (reproduction) → many beings. This is not a linear creation but a <em>cycle</em> — the cosmic Person sustains an ongoing process of generation. <strong>somāt parjanyaḥ</strong> — 'from the moon, rain': in Vedic cosmology, the moon governs the water-cycle. Rain depends on lunar phases — a belief reflected in agricultural practice. The Chāndogya (5.10.4-6) describes how beings, after death, become rain and return to earth — the moon is the cosmic waystation. <strong>The point</strong>: the entire process of biological life — from cosmic fire to human reproduction — originates from and is sustained by the Puruṣa. Every baby born, every plant that grows, every rain that falls is an expression of the cosmic Person's creative power.",
+    "gr": "<strong>व्याकरण:</strong> 'तस्मात्' — 'तद्' का पञ्चमी एकवचन — 'उससे'। 'समिधः यस्य सूर्यः' — 'जिसकी समिधा (fuel) सूर्य है' — सम्बन्ध-वाक्य। 'सोमात् पर्जन्यः' — 'सोम (चन्द्र) से पर्जन्य (वर्षा)' — वैदिक ब्रह्माण्ड-विज्ञान में चन्द्रमा जल-चक्र का नियन्ता। 'ओषधयः' — स्त्रीलिंग बहुवचन — 'वनस्पतियाँ'। 'पुमान् रेतः सिञ्चति योषितायाम्' — 'पुरुष वीर्य स्त्री में सींचता है' — √सिच् (to pour/irrigate)। 'बह्वीः प्रजाः' — बहुवचन — 'अनेक सन्तानें'। 'सम्प्रसूताः' — सम् + प्र + √सू — 'सम्यक् प्रकार से उत्पन्न'। सृष्टि-श्रृंखला: पुरुष → अग्नि (सूर्य-ईंधन) → चन्द्र → वर्षा → वनस्पति → नर-नारी मिलन → सन्तान।<br><em>Eng:</em> 'tasmāt' — ablative of 'tad'. 'samidhaḥ yasya sūryaḥ' — relative clause — 'whose fuel is the sun'. 'somāt parjanyaḥ' — Vedic cosmology: moon governs water-cycle. 'siñcati' — √sic — 'to pour/irrigate'. 'samprasūtāḥ' — sam+pra+√sū — 'well-born-forth'. Creation chain: Puruṣa → fire → sun → moon → rain → herbs → male-female → offspring.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -331,7 +596,7 @@
     "dp": [
       {
         "q": "🔍 The cosmic food-chain and the pañcāgni-vidyā",
-        "a": "This mantra traces a <strong>cosmic food-chain</strong> from the Puruṣa to biological reproduction, paralleling one of the most important Upanishadic doctrines — the <strong>pañcāgni-vidyā</strong> (five-fire doctrine): <strong>The Muṇḍaka's chain</strong>: Puruṣa → fire (fuelled by sun) → moon → rain → herbs on earth → male-female union → offspring. <strong>The Chāndogya's five fires</strong> (5.4-9): (1) <em>Heaven is the fire</em> — the sun is the fuel; the oblation is faith (śraddhā); the result is soma (moon-essence). (2) <em>Parjanya (rain-cloud) is the fire</em> — the oblation is soma; the result is rain. (3) <em>Earth is the fire</em> — the oblation is rain; the result is food (anna). (4) <em>Man is the fire</em> — the oblation is food; the result is seed (retas). (5) <em>Woman is the fire</em> — the oblation is seed; the result is the embryo. <strong>The underlying principle</strong>: both accounts describe creation as a <em>cycle of transformation</em> — cosmic energy transforms step by step into biological life. The universe is not a static creation but a <em>living process</em> — each stage 'feeds' the next. <strong>The Puruṣa's role</strong>: the Muṇḍaka's conclusion — 'bahvīḥ prajāḥ puruṣāt samprasūtāḥ' (many offspring are born from the Puruṣa) — reminds us that the entire chain is ultimately an expression of one source."
+        "a": "यह मन्त्र पुरुष से जैविक प्रजनन तक की <strong>विश्व-आहार-श्रृंखला</strong> (cosmic food-chain) का वर्णन करता है, जो <strong>पञ्चाग्नि-विद्या</strong> से समान्तर है। <strong>मुण्डक की श्रृंखला</strong>: पुरुष → अग्नि (सूर्य-ईंधित) → चन्द्र → वर्षा → पृथ्वी पर वनस्पति → नर-नारी मिलन → सन्तान। <strong>छान्दोग्य की पञ्चाग्नि</strong> (5.4-9): (1) द्युलोक = अग्नि, (2) पर्जन्य = अग्नि, (3) पृथ्वी = अग्नि, (4) पुरुष = अग्नि, (5) स्त्री = अग्नि — प्रत्येक चरण में आहुति → परिणाम। <strong>मूल सिद्धान्त</strong>: दोनों वर्णन सृष्टि को <em>रूपान्तरण-चक्र</em> के रूप में प्रस्तुत करते हैं — विश्व-ऊर्जा चरणबद्ध रूप से जैविक जीवन में बदलती है। 'बह्वीः प्रजाः पुरुषात् सम्प्रसूताः' — समस्त श्रृंखला अन्ततः एक स्रोत (पुरुष) की अभिव्यक्ति है।<br><br><em>Eng:</em> This mantra traces a <strong>cosmic food-chain</strong> from the Puruṣa to biological reproduction, paralleling the <strong>pañcāgni-vidyā</strong>. The chain: Puruṣa → fire (fuelled by sun) → moon → rain → herbs on earth → male-female union → offspring. The Chāndogya's five fires (5.4-9) describe the same transformation cycle. The conclusion — 'bahvīḥ prajāḥ puruṣāt samprasūtāḥ' — reminds us the entire chain is one source's expression."
       },
       {
         "q": "🔍 The moon-rain connection in Vedic thought",
@@ -347,9 +612,24 @@
     "en": "From Him [come] the Ṛg verses (ṛcaḥ), the Sāma chants (sāma), the Yajur formulae (yajūṁṣi), initiation (dīkṣā), all sacrifices (yajñāḥ) and ritual acts (kratavaḥ), priestly fees (dakṣiṇāḥ), the year (saṁvatsara), the sacrificer (yajamāna), and the worlds (lokāḥ) — where the moon (soma) shines (pavate) and where the sun (sūrya) [shines].",
     "ws": [
       {
+        "s": "तस्मात्",
+        "h": "उससे / उस (पुरुष) से",
+        "e": "from Him"
+      },
+      {
         "s": "ऋचः",
         "h": "ऋचाएँ / ऋग्वेद के मन्त्र",
         "e": "the Ṛg verses"
+      },
+      {
+        "s": "साम",
+        "h": "साम / सामवेद के गान",
+        "e": "the Sāma chants"
+      },
+      {
+        "s": "यजूंषि",
+        "h": "यजुः-मन्त्र / यजुर्वेद के सूत्र",
+        "e": "the Yajur formulae"
       },
       {
         "s": "दीक्षा",
@@ -357,22 +637,67 @@
         "e": "initiation"
       },
       {
+        "s": "यज्ञाः",
+        "h": "यज्ञ / sacrifices",
+        "e": "sacrifices"
+      },
+      {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
+      },
+      {
+        "s": "सर्वे",
+        "h": "सब / सभी",
+        "e": "all"
+      },
+      {
         "s": "क्रतवः",
-        "h": "क्रतु / विशिष्ट यज्ञ-कर्म / solemn rites",
+        "h": "क्रतु / विशिष्ट यज्ञ-कर्म",
         "e": "ritual acts / solemn rites"
       },
       {
         "s": "दक्षिणाः",
-        "h": "दक्षिणा / पुरोहित-शुल्क / priestly fees",
+        "h": "दक्षिणा / पुरोहित-शुल्क",
         "e": "priestly fees / gifts"
       },
       {
         "s": "संवत्सरः",
         "h": "संवत्सर / वर्ष / year",
         "e": "the year"
+      },
+      {
+        "s": "यजमानः",
+        "h": "यजमान / यज्ञ-कर्ता / sacrificer",
+        "e": "the sacrificer"
+      },
+      {
+        "s": "लोकाः",
+        "h": "लोक / worlds",
+        "e": "the worlds"
+      },
+      {
+        "s": "सोमः",
+        "h": "सोम / चन्द्रमा",
+        "e": "the moon (soma)"
+      },
+      {
+        "s": "यत्र",
+        "h": "जहाँ / where",
+        "e": "where"
+      },
+      {
+        "s": "पवते",
+        "h": "चमकता है / पवित्र करता है",
+        "e": "shines / purifies"
+      },
+      {
+        "s": "सूर्यः",
+        "h": "सूर्य / sun",
+        "e": "the sun"
       }
     ],
-    "gr": "<strong>The Vedic-ritual universe from the Puruṣa</strong>: this mantra extends the creation-list to include the entire Vedic ritual system and the cosmic framework. <strong>The ritual elements</strong>: Ṛg verses (hymns), Sāma chants (melodies), Yajur formulae (ritual instructions), dīkṣā (initiation), yajña (sacrifice), kratu (ritual acts), dakṣiṇā (priestly fees). <strong>The cosmic framework</strong>: saṁvatsara (the year/time), yajamāna (the sacrificer/agent), lokāḥ (the worlds/destination), soma (moon), sūrya (sun). <strong>The significance</strong>: even the ritual system itself — which the Muṇḍaka critiqued as insufficient in 1.2 — originates from the Puruṣa. The Vedas, the sacrifices, the priests, the fees — all are expressions of the one cosmic Person. The critique of 1.2 was not that rituals are <em>false</em> but that they are <em>partial</em> expressions of a reality that includes and transcends them.",
+    "gr": "<strong>व्याकरण:</strong> 'ऋचः' — 'ऋच्' का प्रथमा बहुवचन — ऋग्वेद के छन्दोबद्ध मन्त्र। 'साम' — नपुंसक — सामवेद के गायन-मन्त्र। 'यजूंषि' — 'यजुस्' का नपुंसक बहुवचन — यजुर्वेद के गद्य-सूत्र। 'दीक्षा' — √दीक्ष् — 'यज्ञ में प्रवेश-संस्कार'। 'क्रतवः' — 'क्रतु' का प्रथमा बहुवचन — 'विशिष्ट यज्ञ-कर्म' (जैसे अग्निष्टोम आदि)। 'दक्षिणाः' — स्त्रीलिंग बहुवचन — 'पुरोहित को दी जाने वाली भेंट'। 'संवत्सरः' — 'सम् + वत्सर' — 'सम्पूर्ण वर्ष / काल-चक्र'। 'यजमानः' — √यज् (शतृ प्रत्यय) — 'यज्ञ करने वाला / कर्ता'। 'सोमः यत्र पवते' — √पू (पवित्र करना) — 'जहाँ सोम चमकता/पवित्र करता है'। यह मन्त्र भौतिक सृष्टि-सूची को वैदिक कर्मकाण्ड-सृष्टि तक विस्तारित करता है।<br><em>Eng:</em> 'ṛcaḥ' — nom. pl. of 'ṛc' — Ṛgvedic metrical hymns. 'sāma' — neuter — Sāmavedic melodies. 'yajūṁṣi' — neut. pl. of 'yajus' — Yajurvedic prose formulae. 'dīkṣā' — √dīkṣ — 'ritual initiation'. 'kratavaḥ' — nom. pl. of 'kratu'. 'saṁvatsaraḥ' — 'the complete year'. 'pavate' — √pū — 'to shine/purify'. This mantra extends the creation-list to the entire Vedic ritual system.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -397,7 +722,7 @@
     "dp": [
       {
         "q": "🔍 Culture and cosmos from one source",
-        "a": "This mantra makes a remarkable claim: not only the <strong>physical universe</strong> (elements, celestial bodies, biological life) but also the <strong>cultural-ritual universe</strong> (Vedas, sacrifices, calendar) originates from the Puruṣa: <strong>Physical creations</strong> (mantras 3-5): prāṇa, mind, senses, five elements, fire, sun, moon, rain, herbs, biological reproduction. <strong>Cultural-ritual creations</strong> (this mantra): the three Vedas (Ṛg, Sāma, Yajur), initiation (dīkṣā), sacrifices (yajña), ritual acts (kratu), priestly fees (dakṣiṇā), the year (saṁvatsara), the sacrificer (yajamāna), the worlds (lokāḥ). <strong>The implication</strong>: there is no nature-culture divide. The laws of physics and the laws of ritual are both expressions of one reality. The year is simultaneously a <em>physical</em> phenomenon (the earth's orbit) and a <em>ritual</em> phenomenon (the calendar of sacred observances). The sun is simultaneously a <em>cosmic</em> object and a <em>ritual</em> fire. <strong>Nothing is secular</strong>: if everything — from the Vedas to the priestly fees — originates from the Puruṣa, then nothing is 'merely human.' Even the economic dimension of religion (dakṣiṇā) has a cosmic origin. This is a radically unified worldview: one source, one process, one reality, manifesting as both physics and culture."
+        "a": "यह मन्त्र एक उल्लेखनीय दावा करता है — न केवल <strong>भौतिक विश्व</strong> (तत्त्व, नक्षत्र, जैविक जीवन) बल्कि <strong>सांस्कृतिक-कर्मकाण्डीय विश्व</strong> (वेद, यज्ञ, पंचांग) भी पुरुष से उत्पन्न है। <strong>भौतिक सृष्टि</strong> (मन्त्र 3-5): प्राण, मन, इन्द्रियाँ, पञ्चभूत, अग्नि, सूर्य, चन्द्र, वर्षा, वनस्पति, जैविक प्रजनन। <strong>सांस्कृतिक सृष्टि</strong> (यह मन्त्र): तीन वेद, दीक्षा, यज्ञ, क्रतु, दक्षिणा, संवत्सर, यजमान, लोक। <strong>निहितार्थ</strong>: प्रकृति-संस्कृति का विभाजन नहीं है — भौतिकी और कर्मकाण्ड दोनों एक ही सत्य की अभिव्यक्तियाँ हैं। वर्ष एक साथ भौतिक घटना (पृथ्वी की परिक्रमा) और कर्मकाण्डीय घटना (पवित्र पर्वों का कैलेण्डर) दोनों है।<br><br><em>Eng:</em> This mantra claims not only the <strong>physical universe</strong> but also the <strong>cultural-ritual universe</strong> (Vedas, sacrifices, calendar) originates from the Puruṣa. There is no nature-culture divide — physics and ritual are both expressions of one reality. The year is simultaneously a physical and a ritual phenomenon. Nothing is 'merely human' — even the priestly fee has a cosmic origin."
       },
       {
         "q": "🔍 The three Vedas as expressions of the Puruṣa",
@@ -413,13 +738,43 @@
     "en": "From Him are born (samprasūtāḥ) in many ways (bahudhā): gods (devāḥ), celestial beings (sādhyāḥ), humans (manuṣyāḥ), animals (paśavaḥ), birds (vayāṁsi); inhalation and exhalation (prāṇa-apānau), rice and barley (vrīhi-yavau), austerity (tapas), faith (śraddhā), truth (satya), celibacy (brahmacarya), and injunction (vidhi).",
     "ws": [
       {
+        "s": "तस्मात्",
+        "h": "उससे / उस (पुरुष) से",
+        "e": "from Him"
+      },
+      {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
+      },
+      {
+        "s": "देवाः",
+        "h": "देवता / देवगण",
+        "e": "gods / deities"
+      },
+      {
+        "s": "बहुधा",
+        "h": "बहुत प्रकार से / अनेक रूपों में",
+        "e": "in many ways / variously"
+      },
+      {
+        "s": "सम्प्रसूताः",
+        "h": "उत्पन्न / जन्मे",
+        "e": "born forth / created"
+      },
+      {
         "s": "साध्याः",
-        "h": "साध्य / एक प्रकार के देवगण",
-        "e": "the Sādhyas"
+        "h": "साध्य / एक देव-वर्ग",
+        "e": "the Sādhyas (a class of celestials)"
+      },
+      {
+        "s": "मनुष्याः",
+        "h": "मनुष्य / मानव",
+        "e": "humans"
       },
       {
         "s": "पशवः",
-        "h": "पशु / जानवर / animals",
+        "h": "पशु / जानवर",
         "e": "animals"
       },
       {
@@ -428,17 +783,42 @@
         "e": "birds"
       },
       {
+        "s": "प्राणापानौ",
+        "h": "प्राण और अपान / श्वास-प्रश्वास",
+        "e": "inhalation and exhalation"
+      },
+      {
         "s": "व्रीहियवौ",
-        "h": "चावल और जौ",
+        "h": "व्रीहि (चावल) और यव (जौ)",
         "e": "rice and barley"
       },
       {
+        "s": "तपः",
+        "h": "तप / तपस्या / austerity",
+        "e": "austerity / tapas"
+      },
+      {
+        "s": "श्रद्धा",
+        "h": "श्रद्धा / आस्था / faith",
+        "e": "faith"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य / truth",
+        "e": "truth"
+      },
+      {
         "s": "ब्रह्मचर्यम्",
-        "h": "ब्रह्मचर्य / ब्रह्म-अध्ययन / celibacy / studentship",
+        "h": "ब्रह्मचर्य / ब्रह्म-अध्ययन-व्रत",
         "e": "celibacy / Vedic studentship"
+      },
+      {
+        "s": "विधिः",
+        "h": "विधि / नियम / injunction",
+        "e": "injunction / sacred law"
       }
     ],
-    "gr": "<strong>The complete enumeration of creation</strong>: from the Puruṣa emerge: (1) beings — gods, celestial beings, humans, animals, birds; (2) biological functions — inhalation, exhalation; (3) sustenance — rice, barley; (4) virtues — tapas, śraddhā, satya, brahmacarya, vidhi. <strong>The remarkable inclusion of virtues</strong>: not just physical beings and biological processes but <em>moral and spiritual values</em> (tapas, śraddhā, satya, brahmacarya) originate from the Puruṣa. This means the moral order is not a human invention but has a <em>cosmic origin</em>. Truth, faith, austerity, and self-discipline are woven into the fabric of reality, not imposed upon it. <strong>vrīhi-yavau</strong> — 'rice and barley': the two staple grains represent <em>sustenance</em> — the food that keeps all beings alive. Even food has a cosmic origin. <strong>The scope</strong>: this mantra, combined with mantras 3-6, covers: physical elements, biological life, the ritual system, beings of all classes, bodily functions, food, and moral values. <em>Nothing</em> is excluded from the Puruṣa's creation.",
+    "gr": "<strong>व्याकरण:</strong> 'देवाः बहुधा सम्प्रसूताः' — 'देवता अनेक रूपों में उत्पन्न हुए' — 'बहुधा' — अव्यय — 'बहुत प्रकार से'। 'साध्याः' — एक विशिष्ट देव-वर्ग — 'सिद्ध / साधित'। 'पशवः' — 'पशु' का प्रथमा बहुवचन। 'वयांसि' — 'वयस्' (पक्षी) का नपुंसक बहुवचन। 'प्राणापानौ' — 'प्राण + अपान' — द्वन्द्व समास, द्विवचन — 'श्वास और प्रश्वास'। 'व्रीहियवौ' — 'व्रीहि + यव' — द्वन्द्व, द्विवचन — 'चावल और जौ' — दो मुख्य अन्न। विशेष: इस मन्त्र में नैतिक गुणों (तपस्, श्रद्धा, सत्य, ब्रह्मचर्य, विधि) का सृष्टि-सूची में समावेश — नैतिक व्यवस्था = मानव-निर्मित नहीं, विश्व-उत्पत्ति (cosmic origin) है।<br><em>Eng:</em> 'devāḥ bahudhā samprasūtāḥ' — 'gods born in many ways'. 'sādhyāḥ' — a class of celestials. 'prāṇāpānau' — dvandva dual — 'inhalation and exhalation'. 'vrīhi-yavau' — dvandva dual — 'rice and barley'. Notable: moral values (tapas, śraddhā, satya, brahmacarya, vidhi) included in the creation-list — the moral order has a cosmic, not human, origin.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -463,7 +843,7 @@
     "dp": [
       {
         "q": "🔍 Moral values as cosmic realities",
-        "a": "The inclusion of <strong>tapas, śraddhā, satya, brahmacarya, and vidhi</strong> in the creation-list is philosophically revolutionary: <strong>The claim</strong>: moral and spiritual values — austerity, faith, truth, celibacy, and sacred law — are not human inventions but <em>cosmic emanations</em> from the Puruṣa. They are as fundamental to reality as the five elements, as biological life, as the sun and moon. <strong>Why this matters</strong>: (1) <em>Morality is not conventional</em>: if truth and faith originate from the Puruṣa, they are not social constructs that can be arbitrarily changed. They are woven into the structure of reality. (2) <em>Morality is natural</em>: just as it is 'natural' for fire to burn and water to flow, it is 'natural' for conscious beings to seek truth, practise faith, and observe discipline. These are not impositions but expressions of our deepest nature (which is Brahman-nature). (3) <em>The universe has a moral dimension</em>: the cosmos is not a morally neutral machine. It has truth (satya), faith (śraddhā), and order (vidhi) built into it — just as it has space, air, and fire. <strong>The Vedic precedent</strong>: the Ṛg Veda (10.190.1) says: 'From blazing tapas, ṛta (cosmic order) and satya (truth) were born.' Ṛta — the cosmic moral and natural order — is not separate from the physical order but <em>the same thing</em> seen from a different angle. Physics and dharma are two faces of one reality."
+        "a": "<strong>तपस्, श्रद्धा, सत्य, ब्रह्मचर्य, विधि</strong> का सृष्टि-सूची में समावेश दार्शनिक दृष्टि से क्रान्तिकारी है: <strong>दावा</strong>: नैतिक और आध्यात्मिक मूल्य — तप, श्रद्धा, सत्य, ब्रह्मचर्य, विधि — मानव-निर्मित (man-made) नहीं बल्कि पुरुष से <em>विश्व-उद्भूत</em> (cosmic emanations) हैं। ये पञ्चभूतों, जैविक जीवन, सूर्य-चन्द्र जितने ही मूलभूत हैं। <strong>महत्त्व</strong>: (1) नैतिकता रूढ़िगत (conventional) नहीं — सत्य और श्रद्धा पुरुष से उत्पन्न हैं, अतः ये सामाजिक अनुबन्ध (social contract) नहीं जो मनमाने ढंग से बदले जा सकें — ये सत्ता की संरचना में गुथे हैं। (2) नैतिकता स्वाभाविक (natural) है — जैसे अग्नि का जलना 'स्वाभाविक' है, वैसे ही चेतन प्राणियों का सत्य-अन्वेषण, श्रद्धा-पालन, तप-अभ्यास स्वाभाविक है। <strong>वैदिक पूर्वसूत्र</strong>: ऋग्वेद (10.190.1) — 'प्रज्ज्वलित तप से ऋत (विश्व-ऋत) और सत्य उत्पन्न हुए।'<br><br><em>Eng:</em> The inclusion of <strong>tapas, śraddhā, satya, brahmacarya, and vidhi</strong> in the creation-list is philosophically revolutionary: moral values are not human inventions but <em>cosmic emanations</em> from the Puruṣa — as fundamental as the five elements. Morality is not conventional but natural — woven into reality's structure. Vedic precedent: ṚV 10.190.1 — 'From blazing tapas, ṛta and satya were born.'"
       },
       {
         "q": "🔍 The hierarchy of beings: gods, celestial beings, humans, animals, birds",
@@ -479,32 +859,77 @@
     "en": "From Him originate (prabhavanti) the seven prāṇas (life-breaths), the seven flames (arciṣaḥ), the seven fuels (samidhaḥ), the seven offerings (homāḥ), [and] these seven worlds (lokāḥ) in which the prāṇas move (caranti) — placed (nihitāḥ) in the cave [of the heart] (guhā-āśayāḥ), seven and seven (sapta sapta).",
     "ws": [
       {
-        "s": "सप्त प्राणाः",
-        "h": "सात प्राण / सात जीवन-वायु",
-        "e": "seven prāṇas"
+        "s": "सप्त",
+        "h": "सात / seven",
+        "e": "seven"
       },
       {
-        "s": "सप्त अर्चिषः",
-        "h": "सात ज्वालाएँ / सात अग्निशिखाएँ",
-        "e": "seven flames"
+        "s": "प्राणाः",
+        "h": "प्राण / जीवन-वायु / sense-openings",
+        "e": "prāṇas / life-breaths"
       },
       {
-        "s": "सप्त समिधः",
-        "h": "सात समिधाएँ / सात ईंधन",
-        "e": "seven fuels"
+        "s": "प्रभवन्ति",
+        "h": "उत्पन्न होते हैं / प्रकट होते हैं",
+        "e": "originate / spring forth"
       },
       {
-        "s": "सप्त होमाः",
-        "h": "सात आहुतियाँ / सात हवन",
-        "e": "seven offerings"
+        "s": "तस्मात्",
+        "h": "उससे / उस (पुरुष) से",
+        "e": "from Him"
+      },
+      {
+        "s": "अर्चिषः",
+        "h": "अर्चि / ज्वालाएँ / flames",
+        "e": "flames"
+      },
+      {
+        "s": "समिधः",
+        "h": "समिधा / ईंधन / fuels",
+        "e": "fuels"
+      },
+      {
+        "s": "होमाः",
+        "h": "होम / आहुतियाँ / offerings",
+        "e": "offerings"
+      },
+      {
+        "s": "इमे",
+        "h": "ये / these",
+        "e": "these"
+      },
+      {
+        "s": "लोकाः",
+        "h": "लोक / worlds",
+        "e": "worlds"
+      },
+      {
+        "s": "येषु",
+        "h": "जिनमें / in which",
+        "e": "in which"
+      },
+      {
+        "s": "चरन्ति",
+        "h": "विचरते हैं / गति करते हैं",
+        "e": "move / function"
       },
       {
         "s": "गुहाशयाः",
-        "h": "गुहा (गुफा / हृदय-गुहा) में आश्रित / निवासी",
-        "e": "dwelling in the cave"
+        "h": "गुहा (हृदय-गुफा) में आश्रित / निवासी",
+        "e": "dwelling in the cave (of the heart)"
+      },
+      {
+        "s": "निहिताः",
+        "h": "स्थापित / रखे गये",
+        "e": "placed / deposited"
+      },
+      {
+        "s": "सप्त सप्त",
+        "h": "सात-सात / प्रत्येक में सात",
+        "e": "seven and seven / in groups of seven"
       }
     ],
-    "gr": "<strong>The sevenfold microcosm</strong>: this mantra describes the individual (microcosm) as a sevenfold system mirroring the cosmic sevenfold structure. <strong>Seven sets of seven</strong>: (1) seven prāṇas (life-breaths/sense-openings), (2) seven flames (inner fires), (3) seven fuels (sense-objects), (4) seven offerings (acts of perception), (5) seven worlds (planes of experience). <strong>The identification of seven prāṇas</strong>: traditionally identified as the seven openings in the head — two eyes, two ears, two nostrils, one mouth. The Praśna Upanishad (3.5) lists a different set. <strong>guhā-āśayāḥ nihitāḥ</strong> — 'placed in the cave [of the heart]': the prāṇas are 'hidden' in the guhā (cave) — the interior of the body, specifically the heart-space. This echoes the Kaṭha (1.2.12): 'The Self, though hidden in all beings, is not manifest; but it is seen by the subtle seers through their sharp and subtle intellect.' <strong>sapta sapta</strong> — 'seven and seven': the repetition emphasises the pervasiveness of the sevenfold pattern — it applies at every level, macro and micro.",
+    "gr": "<strong>व्याकरण:</strong> 'सप्त प्राणाः' — 'सात प्राण' — परम्परानुसार शिर के सात छिद्र: दो नेत्र, दो कर्ण, दो नासिका-छिद्र, एक मुख। 'प्रभवन्ति' — प्र + √भू — 'उत्पन्न होना / प्रकट होना'। 'अर्चिषः' — 'अर्चिस्' का प्रथमा बहुवचन — 'ज्वालाएँ'। 'समिधः' — स्त्रीलिंग बहुवचन — 'ईंधन / समिधाएँ'। 'होमाः' — √हु (आहुति देना) — 'आहुतियाँ'। 'गुहाशयाः' — 'गुहा + आशय' — तत्पुरुष — 'गुहा में आश्रय लेने वाले'। 'निहिताः' — नि + √धा — 'स्थापित / रखे गये'। 'सप्त सप्त' — पुनरुक्ति — सप्तविध प्रतिरूप (sevenfold pattern) की सर्वव्यापकता पर बल। बाह्य यज्ञ → आन्तरिक यज्ञ: प्रत्येक इन्द्रिय-अनुभव = एक आहुति।<br><em>Eng:</em> 'sapta prāṇāḥ' — seven prāṇas — traditionally the seven head-openings. 'prabhavanti' — pra+√bhū — 'to originate'. 'arciṣaḥ' — nom. pl. of 'arcis' — 'flames'. 'guhā-āśayāḥ' — tatpuruṣa — 'dwelling in the cave'. 'nihitāḥ' — ni+√dhā — 'placed'. 'sapta sapta' — repetition emphasises pervasiveness of the sevenfold pattern.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -529,7 +954,7 @@
     "dp": [
       {
         "q": "🔍 The cave of the heart (guhā) — where the Self dwells",
-        "a": "The <strong>guhā</strong> ('cave') is one of the Upanishads' most powerful and recurring images for the <em>interior space</em> where the Self resides: <strong>What is the guhā?</strong> Not the physical heart but the <em>innermost chamber of awareness</em> — the space behind all thoughts, emotions, and perceptions. It is 'hidden' (guhā = cave/secret) because it cannot be found by the senses or the mind — only by turning attention inward and going deeper than all mental activity. <strong>Upanishadic references</strong>: (1) <em>Kaṭha</em> (1.2.12): 'The Self, hard to see, hidden in the cave (guhāhitam), placed in the depth, ancient...' (2) <em>Kaṭha</em> (1.3.1): 'Two [the Self and the ego] drink the fruit of karma in the cave of the body...' (3) <em>Śvetāśvatara</em> (3.20): 'Smaller than the smallest, greater than the greatest, the Self is hidden in the cave of each being.' (4) <em>Taittirīya</em> (2.1.1): 'Brahman is in the cave (nihitaṁ guhāyām)...' <strong>Why 'cave'?</strong> (1) A cave is <em>hidden</em> — the Self is not on the surface of experience but in its depths. (2) A cave is <em>protected</em> — the Self is untouched by the storms of the outer world. (3) A cave must be <em>entered</em> — finding the Self requires going inward, deliberately, through contemplation. <strong>The seven prāṇas 'in the cave'</strong>: in this mantra, the seven prāṇas (sense-openings) are said to be 'placed in the cave' — meaning the senses have their <em>root</em> in the interior, not the exterior. Your eyes see outward, but the <em>seeing</em> originates from within."
+        "a": "<strong>गुहा</strong> ('गुफा') — उपनिषदों की सबसे शक्तिशाली और बारम्बार प्रयुक्त होने वाली प्रतिमाओं में से एक — वह <em>आन्तरिक स्थान</em> जहाँ आत्मा निवास करती है। <strong>गुहा क्या है?</strong> भौतिक हृदय नहीं, बल्कि <em>अवबोध का गहनतम कक्ष</em> — सब विचारों, भावनाओं, और प्रत्यक्षों के पीछे का स्थान। यह 'गुहा' (गुप्त/छिपी) इसलिए है क्योंकि इसे इन्द्रियों या मन से नहीं पाया जा सकता — केवल ध्यान को अन्तर्मुख करने से। <strong>उपनिषद्-सन्दर्भ</strong>: कठ (1.2.12) — 'आत्मा, गुहा में निहित...'; श्वेताश्वतर (3.20) — 'अणु से अणु, महान् से महान्, आत्मा प्रत्येक प्राणी की गुहा में छिपा है'; तैत्तिरीय (2.1.1) — 'ब्रह्म गुहा में निहित है'। <strong>सात प्राण 'गुहा में'</strong>: इन्द्रियाँ बाहर की ओर देखती हैं, किन्तु देखने की शक्ति भीतर से उत्पन्न होती है।<br><br><em>Eng:</em> The <strong>guhā</strong> ('cave') — one of the Upanishads' most powerful images for the interior space where the Self resides. Not the physical heart but the innermost chamber of awareness. Kaṭha (1.2.12), Śvetāśvatara (3.20), Taittirīya (2.1.1) all describe Brahman as 'hidden in the cave'. The seven prāṇas are said to be 'placed in the cave' — the senses look outward, but seeing originates from within."
       },
       {
         "q": "🔍 The inner sacrifice — senses as ritual fire",
@@ -545,32 +970,92 @@
     "en": "From Him [come] all the oceans (samudrāḥ) and mountains (girayaḥ); from Him flow (syandante) the rivers (sindhavaḥ) of all forms (sarva-rūpāḥ); from Him [come] all the herbs (oṣadhayaḥ) and the essence (rasa); by which [essence] this [Self], the inner Self (antarātmā), abides (tiṣṭhate) with the elements (bhūtaiḥ).",
     "ws": [
       {
+        "s": "अतः",
+        "h": "इससे / इस (पुरुष) से",
+        "e": "from this / hence"
+      },
+      {
         "s": "समुद्राः",
-        "h": "समुद्र / सागर / oceans",
+        "h": "समुद्र / सागर",
         "e": "oceans"
       },
       {
         "s": "गिरयः",
-        "h": "गिरि / पर्वत / mountains",
+        "h": "गिरि / पर्वत",
         "e": "mountains"
       },
       {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
+      },
+      {
+        "s": "सर्वे",
+        "h": "सब / सभी",
+        "e": "all"
+      },
+      {
+        "s": "अस्मात्",
+        "h": "इससे",
+        "e": "from this"
+      },
+      {
         "s": "स्यन्दन्ते",
-        "h": "बहती हैं / प्रवाहित होती हैं",
+        "h": "बहते हैं / प्रवाहित होते हैं",
         "e": "flow"
       },
       {
         "s": "सिन्धवः",
-        "h": "सिन्धु / नदियाँ / rivers",
+        "h": "नदियाँ / rivers",
         "e": "rivers"
       },
       {
+        "s": "सर्वरूपाः",
+        "h": "सब रूपों वाली / of all forms",
+        "e": "of all forms"
+      },
+      {
+        "s": "सर्वाः",
+        "h": "सब / सभी",
+        "e": "all"
+      },
+      {
+        "s": "ओषधयः",
+        "h": "ओषधियाँ / वनस्पतियाँ",
+        "e": "herbs / plants"
+      },
+      {
         "s": "रसः",
-        "h": "रस / सार / essence / sap",
+        "h": "रस / सार / essence",
         "e": "essence / sap / juice"
+      },
+      {
+        "s": "येन",
+        "h": "जिसके द्वारा / by which",
+        "e": "by which"
+      },
+      {
+        "s": "एषः",
+        "h": "यह / this",
+        "e": "this"
+      },
+      {
+        "s": "भूतैः",
+        "h": "भूतों (तत्त्वों / सूक्ष्म शरीरों) के साथ",
+        "e": "with the elements / subtle bodies"
+      },
+      {
+        "s": "तिष्ठते",
+        "h": "ठहरता है / स्थित रहता है",
+        "e": "abides / stands"
+      },
+      {
+        "s": "अन्तरात्मा",
+        "h": "अन्तरात्मा / भीतरी आत्मा / inner Self",
+        "e": "the inner Self"
       }
     ],
-    "gr": "<strong>The geographical creation</strong>: from the Puruṣa come the physical features of the earth — oceans, mountains, rivers, herbs, and the vital essence (rasa). <strong>The flow imagery</strong>: 'syandante sindhavaḥ sarva-rūpāḥ' — 'rivers of all forms flow' — creation is not a one-time act but an <em>ongoing flow</em>. Rivers flow continuously; creation flows continuously from the Puruṣa. <strong>rasa</strong> — 'essence/sap': rasa is the vital essence that sustains life — the sap in plants, the flavour in food, the vitality in the body. It is the <em>link</em> between the physical world and the inner Self. <strong>yena eṣa bhūtais tiṣṭhate antarātmā</strong> — 'by which this inner Self abides with the elements': the rasa (essence) is what enables the antarātmā (inner Self) to 'abide' with the bhūtas (elements/bodies). Without rasa, the Self would have no connection to the physical world. Rasa is the <em>bridge</em> between consciousness and matter.",
+    "gr": "<strong>व्याकरण:</strong> 'अतः' — अव्यय — 'इससे / इस कारण से'। 'समुद्राः' — प्रथमा बहुवचन — 'समुद्र / सागर'। 'गिरयः' — 'गिरि' का प्रथमा बहुवचन — 'पर्वत'। 'स्यन्दन्ते' — √स्यन्द् (बहना / प्रवाहित होना) — आत्मनेपद, वर्तमान — 'बहते हैं' — वर्तमान काल महत्त्वपूर्ण: सृष्टि = चल रही प्रक्रिया, भूतकालीन घटना नहीं। 'सिन्धवः सर्वरूपाः' — 'सब रूपों वाली नदियाँ' — कर्मधारय/बहुव्रीहि। 'रसः' — √रस् (स्वाद लेना / आनन्द लेना) — 'सार / रस / जीवन-तत्त्व'। 'येन एषः भूतैः तिष्ठते अन्तरात्मा' — 'जिसके (रस के) द्वारा यह अन्तरात्मा भूतों के साथ ठहरता है' — रस = चेतना और पदार्थ के बीच का सेतु (bridge)।<br><em>Eng:</em> 'syandante' — √syand — present tense — 'flow' — creation is ongoing, not past. 'sindhavaḥ sarva-rūpāḥ' — 'rivers of all forms'. 'rasaḥ' — √ras — 'essence/sap'. 'yena eṣa bhūtais tiṣṭhate antarātmā' — rasa = the bridge between consciousness and matter.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -595,7 +1080,7 @@
     "dp": [
       {
         "q": "🔍 Rasa — the essence that connects Self to world",
-        "a": "The concept of <strong>rasa</strong> ('essence/sap/juice') plays a crucial bridging role in Upanishadic thought: <strong>What is rasa?</strong> Rasa (from √ras, to taste/relish) means: (1) <em>Sap</em> — the vital juice in plants. (2) <em>Essence</em> — the concentrated core of anything. (3) <em>Taste/flavour</em> — the quality that gives food its character. (4) <em>Delight</em> — the Taittirīya (2.7.1) declares: 'raso vai saḥ' — 'He (Brahman) is rasa.' Brahman IS the essence, the sap, the delight that pervades all existence. <strong>Rasa as bridge</strong>: in this mantra, rasa is the medium through which the antarātmā (inner Self) 'abides with the elements' (bhūtaiḥ tiṣṭhate). Without rasa, the Self would be disconnected from the body. Rasa is the <em>interface</em> between consciousness and matter — the subtle substance that allows the non-material Self to inhabit a material body. <strong>The Chāndogya's rasa-chain</strong> (1.1.2-3): 'The essence of beings is earth. The essence of earth is water. The essence of water is plants. The essence of plants is the person. The essence of the person is speech. The essence of speech is ṛc. The essence of ṛc is sāma. The essence of sāma is udgītha (OM).' Each level distils into a more concentrated 'rasa' — from the gross (earth) to the subtlest (OM). <strong>The implication</strong>: the material world is not inert matter — it is <em>alive</em> with rasa (essence/delight). Every river, mountain, and herb contains the 'sap' of Brahman. The world is not a dead mechanism; it is a living, tasting, delighting expression of the divine."
+        "a": "<strong>रस</strong> ('सार / रस / आनन्द') की अवधारणा उपनिषदीय चिन्तन में अत्यन्त महत्त्वपूर्ण सेतु-भूमिका निभाती है। <strong>रस क्या है?</strong> (1) <em>रस</em> — वनस्पतियों का जीवन-रस। (2) <em>सार</em> — किसी भी वस्तु का केन्द्रित तत्त्व। (3) <em>स्वाद</em> — भोजन का विशिष्ट गुण। (4) <em>आनन्द</em> — तैत्तिरीय (2.7.1): 'रसो वै सः' — 'वह (ब्रह्म) रस है।' <strong>सेतु-रूप में रस</strong>: इस मन्त्र में रस = वह माध्यम जिसके द्वारा अन्तरात्मा 'भूतों के साथ ठहरता है' (भूतैः तिष्ठते)। रस के बिना आत्मा का शरीर से कोई सम्बन्ध नहीं — रस = चेतना और पदार्थ का interface। <strong>छान्दोग्य की रस-श्रृंखला</strong> (1.1.2-3): प्राणियों का सार → पृथ्वी → जल → वनस्पति → मनुष्य → वाक् → ऋच् → साम → उद्गीथ (ॐ)। प्रत्येक स्तर = पूर्व स्तर का सघनित 'रस'।<br><br><em>Eng:</em> <strong>Rasa</strong> ('essence/sap/delight') plays a crucial bridging role. Taittirīya (2.7.1): 'raso vai saḥ' — Brahman IS rasa. In this mantra, rasa is the medium through which the antarātmā abides with the elements — the interface between consciousness and matter. The material world is not inert — it is alive with rasa. The Chāndogya's rasa-chain (1.1.2-3) distils each level into a more concentrated essence — from earth to OM."
       },
       {
         "q": "🔍 Creation as continuous flow, not one-time event",
@@ -611,14 +1096,74 @@
     "en": "The Puruṣa alone (eva) is all this (idaṁ viśvam) — karma (action), tapas (austerity), Brahman (the Absolute) — the supreme immortality (para-amṛta). He who knows (veda) this [Puruṣa] hidden (nihitam) in the cave [of the heart] (guhāyām) — he, O gentle one (somya), unties (vikiratī) the knot of ignorance (avidyā-granthi) here [in this very life] (iha).",
     "ws": [
       {
-        "s": "पुरुष एवेदं विश्वम्",
-        "h": "पुरुष ही यह सब (विश्व) है",
-        "e": "the Puruṣa alone is all this universe"
+        "s": "पुरुषः",
+        "h": "पुरुष / परम सत्ता",
+        "e": "the Puruṣa / the Person"
+      },
+      {
+        "s": "एव",
+        "h": "ही / alone / indeed",
+        "e": "alone / indeed"
+      },
+      {
+        "s": "इदम्",
+        "h": "यह / this",
+        "e": "this"
+      },
+      {
+        "s": "विश्वम्",
+        "h": "विश्व / सम्पूर्ण जगत्",
+        "e": "the universe / all this"
+      },
+      {
+        "s": "कर्म",
+        "h": "कर्म / action",
+        "e": "action / karma"
+      },
+      {
+        "s": "तपः",
+        "h": "तप / तपस्या",
+        "e": "austerity / tapas"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / वेद / परमतत्त्व",
+        "e": "Brahman / the Absolute"
       },
       {
         "s": "परामृतम्",
         "h": "परम अमृत / सर्वोच्च अमरत्व",
-        "e": "the supreme immortality"
+        "e": "supreme immortality"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह / this",
+        "e": "this"
+      },
+      {
+        "s": "यः",
+        "h": "जो / who",
+        "e": "he who"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है / knows",
+        "e": "knows"
+      },
+      {
+        "s": "निहितम्",
+        "h": "निहित / छिपा हुआ / placed",
+        "e": "hidden / placed"
+      },
+      {
+        "s": "गुहायाम्",
+        "h": "गुहा (हृदय-गुफा) में",
+        "e": "in the cave (of the heart)"
+      },
+      {
+        "s": "सः",
+        "h": "वह / he",
+        "e": "he"
       },
       {
         "s": "अविद्याग्रन्थिम्",
@@ -634,9 +1179,14 @@
         "s": "इह",
         "h": "यहीं / इसी जीवन में",
         "e": "here / in this very life"
+      },
+      {
+        "s": "सोम्य",
+        "h": "हे सौम्य / हे प्रिय",
+        "e": "O gentle one"
       }
     ],
-    "gr": "<strong>The climactic declaration</strong>: this is the grand summation of Mundaka 2, Khanda 1 — tying together the entire cosmic creation-vision with the promise of liberation. <strong>puruṣa eva idaṁ viśvam</strong> — 'the Puruṣa alone is all this': the simplest and most radical statement. There is nothing that is not the Puruṣa. The universe, karma, tapas, Brahman, immortality — all are the Puruṣa. <strong>avidyā-granthi</strong> — 'the knot of ignorance': the image of a 'knot' (granthi) is powerful. A knot ties two things together that should be separate (or separates what should be united). The knot of ignorance <em>binds</em> the Self to the body-mind complex, creating the illusion of limitation and mortality. Untying this knot = liberation. <strong>vikiratī iha</strong> — 'unties it HERE': the crucial word is <em>iha</em> — 'here,' 'in this very life.' Liberation is not a post-mortem event; it is achievable <em>here and now</em> (jīvan-mukti). The one who knows the Puruṣa in the cave of the heart is liberated while still living. <strong>somya</strong> — 'O gentle one': the section ends, as it began (mantra 1), with the tender address 'somya' — framing the entire teaching in an atmosphere of affection.",
+    "gr": "<strong>व्याकरण:</strong> 'पुरुष एव इदं विश्वम्' — 'एव' = अवधारण (emphatic particle) — 'पुरुष <em>ही</em> यह विश्व है' — सबसे सरल और सबसे क्रान्तिकारी घोषणा। 'कर्म तपो ब्रह्म परामृतम्' — चार समानाधिकरण पद — कर्म, तप, ब्रह्म, परम अमृत — सब = पुरुष। 'एतत् यः वेद' — सम्बन्ध-सर्वनाम वाक्य — 'जो यह जानता है'। 'निहितम् गुहायाम्' — नि + √धा — 'गुहा में स्थापित / छिपा' — सप्तमी एकवचन। 'अविद्या-ग्रन्थिम्' — 'अविद्या + ग्रन्थि' — तत्पुरुष, द्वितीया — 'अविद्या की गाँठ को'। 'विकिरति' — वि + √कॄ — 'बिखेरना / खोलना / तोड़ना'। 'इह' — अव्यय — 'यहीं / इसी जन्म में' — जीवन्मुक्ति (liberation while living) का संकेत। 'सोम्य' — सम्बोधन — खण्ड का अन्तिम शब्द = प्रथम मन्त्र जैसा ही सम्बोधन — चक्रीय संरचना।<br><em>Eng:</em> 'puruṣa eva idaṁ viśvam' — 'eva' = emphatic — 'the Puruṣa ALONE is all this'. 'avidyā-granthim' — tatpuruṣa, accusative — 'the knot of ignorance'. 'vikiratī' — vi+√kṝ — 'to scatter/untie'. 'iha' — 'here/in this very life' — indicates jīvan-mukti. 'somya' — vocative — closing the section with the same address as mantra 1 — circular structure.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -661,7 +1211,7 @@
     "dp": [
       {
         "q": "🔍 The knot of ignorance (avidyā-granthi)",
-        "a": "The <strong>avidyā-granthi</strong> ('knot of ignorance') is one of the Muṇḍaka's most important images — it will return in 2.2.8 ('bhidyate hṛdaya-granthiḥ' — 'the knot of the heart is cut'): <strong>What is the knot?</strong> A knot ties together things that should be separate (or binds what should be free). The 'knot of ignorance' is the <em>fundamental misidentification</em> that binds the Self to the body-mind complex: (1) 'I am this body' (deha-ātma-bhāva — body-Self confusion). (2) 'I was born and will die' (treating the eternal Self as mortal). (3) 'I am the doer and the enjoyer' (attributing agency and experience to the Self, which is actually the witness). <strong>Three knots in later tradition</strong>: the later Vedāntic tradition identifies three 'knots' (granthis) in the heart: (1) <em>Brahmā-granthi</em> — attachment to the physical world (creation, possession, survival). (2) <em>Viṣṇu-granthi</em> — attachment to the emotional world (relationships, pleasures, identity). (3) <em>Rudra-granthi</em> — attachment to the intellectual/spiritual world (knowledge, powers, attainment). All three must be cut for complete liberation. <strong>How the knot is untied</strong>: through knowledge — 'etat yo veda nihitaṁ guhāyām' — 'he who knows this, hidden in the cave.' The knowing is not intellectual understanding but <em>direct realisation</em> — the Self recognising itself in the cave of the heart. When the Self sees itself, the knot has nothing to tie — it falls away."
+        "a": "<strong>अविद्या-ग्रन्थि</strong> ('अज्ञान की गाँठ') मुण्डक की सबसे महत्त्वपूर्ण प्रतिमाओं में से एक है — यह 2.2.8 में पुनः आएगी ('भिद्यते हृदय-ग्रन्थिः')। <strong>ग्रन्थि क्या है?</strong> गाँठ दो वस्तुओं को बाँधती है जो पृथक् होनी चाहिए। अविद्या-ग्रन्थि = वह <em>मूलभूत भ्रान्ति</em> जो आत्मा को शरीर-मन से बाँधती है: (1) 'मैं यह शरीर हूँ' (देहात्म-भ्रम), (2) 'मेरा जन्म हुआ और मृत्यु होगी' (नित्य आत्मा को नश्वर मानना), (3) 'मैं कर्ता और भोक्ता हूँ' (साक्षी आत्मा को कर्तृत्व-भोक्तृत्व देना)। <strong>'इह' — 'यहीं'</strong>: निर्णायक शब्द। मुण्डक नहीं कहता 'मृत्यु के बाद मुक्ति मिलेगी' — कहता है 'इह' — <em>इसी जीवन में</em>, <em>इसी शरीर में</em> ग्रन्थि खुल जाती है। यही <strong>जीवन्मुक्ति</strong> का सिद्धान्त है। मुण्डक 3.2.9 में पुष्टि: 'ब्रह्मविद् ब्रह्मैव भवति' — 'ब्रह्म का ज्ञाता ब्रह्म ही हो जाता है' — वर्तमान काल।<br><br><em>Eng:</em> The <strong>avidyā-granthi</strong> ('knot of ignorance') — the fundamental misidentification binding Self to body-mind: (1) 'I am this body', (2) 'I was born and will die', (3) 'I am the doer and enjoyer'. The crucial word is <strong>'iha'</strong> — 'here, in this very life.' Liberation is not posthumous — it is achievable now (jīvan-mukti). Muṇḍaka 3.2.9 confirms: 'brahma-vid brahmaiva bhavati' — 'the knower of Brahman becomes Brahman' — present tense."
       },
       {
         "q": "🔍 Liberation here and now — 'iha' (in this very life)",

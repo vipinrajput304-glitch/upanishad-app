@@ -8,36 +8,101 @@
     "ws": [
       {
         "s": "आविः",
-        "h": "प्रकट / प्रत्यक्ष / manifest",
-        "e": "manifest / evident"
+        "h": "प्रकट, प्रत्यक्ष",
+        "e": "manifest, evident"
       },
       {
         "s": "संनिहितम्",
-        "h": "अति निकट / समीप / close at hand",
-        "e": "close at hand / present nearby"
+        "h": "अति निकट, समीपस्थ",
+        "e": "close at hand, present nearby"
       },
       {
         "s": "गुहाचरम्",
         "h": "गुहा (हृदय-गुफा) में विचरने वाला",
-        "e": "moving in the cave"
+        "e": "moving in the cave (of the heart)"
+      },
+      {
+        "s": "नाम",
+        "h": "नाम से प्रसिद्ध, संज्ञा",
+        "e": "by name, called"
+      },
+      {
+        "s": "महत्",
+        "h": "महान्, विशाल",
+        "e": "great"
+      },
+      {
+        "s": "पदम्",
+        "h": "स्थान, पद, आश्रय",
+        "e": "abode, place, station"
+      },
+      {
+        "s": "अत्र",
+        "h": "यहाँ, इसमें",
+        "e": "here, in this"
+      },
+      {
+        "s": "एतत् समर्पितम्",
+        "h": "यह सब समर्पित / स्थापित है",
+        "e": "this is centered / placed"
       },
       {
         "s": "एजत्",
-        "h": "गतिशील / हिलने-डुलने वाला / moving",
-        "e": "moving"
+        "h": "गतिशील, हिलने-डुलने वाला",
+        "e": "moving, trembling"
+      },
+      {
+        "s": "प्राणत्",
+        "h": "श्वास लेने वाला, प्राणयुक्त",
+        "e": "breathing"
+      },
+      {
+        "s": "निमिषत् च",
+        "h": "पलक झपकने वाला, और",
+        "e": "blinking, and"
+      },
+      {
+        "s": "यत् एतत् जानत",
+        "h": "जो यह है उसे जानो",
+        "e": "know this which (is)"
+      },
+      {
+        "s": "सत्",
+        "h": "सत्, अस्तित्ववान्",
+        "e": "being, existent"
+      },
+      {
+        "s": "असत्",
+        "h": "असत्, अव्यक्त",
+        "e": "non-being, unmanifest"
       },
       {
         "s": "वरेण्यम्",
-        "h": "वरण करने योग्य / सर्वश्रेष्ठ / most worthy of choice",
+        "h": "वरण करने योग्य, सर्वश्रेष्ठ",
         "e": "most worthy of choice"
       },
       {
-        "s": "वरिष्ठम्",
-        "h": "सर्वोत्कृष्ट / सर्वश्रेष्ठ / most excellent",
-        "e": "most excellent"
+        "s": "परम्",
+        "h": "परम, सर्वोच्च",
+        "e": "supreme, beyond"
+      },
+      {
+        "s": "विज्ञानात्",
+        "h": "विज्ञान (बुद्धि-ज्ञान) से",
+        "e": "beyond understanding"
+      },
+      {
+        "s": "यत् वरिष्ठम्",
+        "h": "जो सर्वोत्कृष्ट है",
+        "e": "which is most excellent"
+      },
+      {
+        "s": "प्रजानाम्",
+        "h": "प्रजाओं का, जीवों का",
+        "e": "of beings, of creatures"
       }
     ],
-    "gr": "<strong>The paradox of Brahman</strong>: this opening mantra of Khanda 2 introduces Brahman through paradox — it is simultaneously <em>āviḥ</em> (manifest, openly present) AND <em>guhā-caram</em> (hidden in the cave of the heart). It is close at hand (saṁnihitam) yet beyond all understanding (vijñānāt param). <strong>mahat padam</strong> — 'the great abode': Brahman is the <em>place</em> (padam) where everything rests. All that moves, breathes, and blinks is 'centered' (samarpitam) in it. <strong>ejat prāṇat nimiṣat</strong> — 'moving, breathing, blinking': these three verbs capture the entire living world — locomotion (ejat), respiration (prāṇat), and the blink reflex (nimiṣat). Everything that is alive, in any way, is an expression of Brahman. <strong>vareṇyam</strong>: this word connects to the Gāyatrī mantra (ṚV 3.62.10) — 'tat savitur vareṇyam bhargo devasya dhīmahi' — establishing Brahman as the supreme object of contemplation.",
+    "gr": "<strong>व्याकरण:</strong> <em>आविः</em> (अव्यय, 'प्रकट रूप से') — अव्ययीभाव। <em>संनिहितम्</em> — सम् + नि + √धा (रखना) + क्त प्रत्यय → 'समीप रखा गया', कर्मणि भूतकृदन्त, नपुंसकलिंग, प्रथमा एकवचन। <em>गुहाचरम्</em> — गुहा + चर (√चर् + ट), तत्पुरुष समास (सप्तमी) → 'गुहा में विचरने वाला'। <em>महत् पदम्</em> — कर्मधारय समास; महत् (विशेषण) + पदम् (नपुं., प्र. एक.)। <em>समर्पितम्</em> — सम् + अर्पितम् (√ऋ + णिच् + क्त) → 'पूर्णतया अर्पित/स्थापित'। <em>एजत्</em> — √एज् (कम्पन) + शतृ प्रत्यय → वर्तमान कृदन्त, 'काँपता/गतिशील'। <em>प्राणत्</em> — प्र + √अन् (श्वास) + शतृ → 'श्वास लेता हुआ'। <em>निमिषत्</em> — नि + √मिष् (पलक झपकना) + शतृ → 'पलक झपकता हुआ'। <em>वरेण्यम्</em> — √वृ (वरण करना) + अनीय (एण्य) → 'वरण के योग्य'; गायत्री मन्त्र (ऋ.वे. ३.६२.१०) से सम्बद्ध। <em>वरिष्ठम्</em> — √वृ + इष्ठन् (superlative) → 'सर्वोत्कृष्ट'। <em>प्रजानाम्</em> — प्रजा + षष्ठी बहुवचन → 'प्राणियों का'। <br><em>Eng:</em> āviḥ is an indeclinable ('manifestly'). saṁnihitam is a past passive participle (sam+ni+√dhā+kta) in nom. sg. neut. guhā-caram is a saptamī-tatpuruṣa ('moving in the cave'). ejat, prāṇat, nimiṣat are present participles (śatṛ) from √ej, pra+√an, ni+√miṣ respectively, describing the living world. vareṇyam (√vṛ+anīya) echoes the Gāyatrī mantra; variṣṭham is the superlative (√vṛ+iṣṭhan).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -62,7 +127,7 @@
     "dp": [
       {
         "q": "🔍 The paradox: manifest yet hidden",
-        "a": "The opening of Mundaka 2.2 presents one of the Upanishads' most characteristic paradoxes — Brahman is simultaneously <strong>āviḥ</strong> (manifest, openly evident) AND <strong>guhā-caram</strong> (hidden in the cave of the heart): <strong>How is Brahman 'manifest'?</strong> Because Brahman = consciousness = the 'I am' that everyone experiences. You have never been without consciousness for a single instant. It is the most self-evident fact of existence — more evident than any object, because objects are known <em>through</em> consciousness, while consciousness is self-known. As Shankara says: 'ātmā is pratyakṣa (directly evident) to everyone.' <strong>How is Brahman 'hidden'?</strong> Because although consciousness is always present, we habitually look <em>through</em> it at objects rather than <em>at</em> it. The eye sees everything but cannot see itself. Similarly, consciousness illuminates everything but is itself overlooked — hidden in plain sight, 'moving in the cave' of the heart. <strong>The Īśā parallel</strong> (mantra 5): 'tad ejati tan naijati, tad dūre tad vad antike' — 'It moves, It moves not; It is far, It is near.' The same paradox: Brahman is simultaneously distant (transcendent) and near (immanent), moving and still. <strong>The resolution</strong>: the paradox is not a logical contradiction but a description of <em>two perspectives</em>. From the standpoint of ordinary consciousness, Brahman is hidden — we are ignorant of our own nature. From the standpoint of realisation, Brahman is manifest — there was never a moment when it was absent."
+        "a": "इस मन्त्र में मुण्डकोपनिषद् का द्वितीय खण्ड आरम्भ होता है, जहाँ ब्रह्म का वर्णन एक अद्भुत विरोधाभास (paradox) के माध्यम से किया गया है — ब्रह्म एक साथ <strong>आविः</strong> (प्रकट, सर्वत्र दृश्यमान) भी है और <strong>गुहाचर</strong> (हृदय की गुहा में छिपा) भी। यह विरोधाभास वस्तुतः दो दृष्टिकोणों का वर्णन है — अज्ञान-दशा में ब्रह्म छिपा प्रतीत होता है, ज्ञान-दशा में वही सर्वत्र प्रकट दिखता है। चेतना (consciousness) सबसे स्वतःसिद्ध तत्त्व है — 'मैं हूँ' यह अनुभव ही ब्रह्म है, फिर भी हम सदा बाहर देखते हैं और भीतर के प्रकाश को अनदेखा करते हैं। <em>वरेण्यम्</em> शब्द गायत्री मन्त्र से जोड़ता है — वही परम तत्त्व जो गायत्री में 'वरेण्यम् भर्गः' कहा गया, वही यहाँ 'सत्-असत् से वरेण्यम्' कहा गया है। ब्रह्म बौद्धिक समझ (विज्ञान) से भी परे और सब प्राणियों में श्रेष्ठतम है।<br><br><em>Eng:</em> The opening of Mundaka 2.2 presents one of the Upanishads' most characteristic paradoxes — Brahman is simultaneously <strong>āviḥ</strong> (manifest, openly evident) AND <strong>guhā-caram</strong> (hidden in the cave of the heart): <strong>How is Brahman 'manifest'?</strong> Because Brahman = consciousness = the 'I am' that everyone experiences. You have never been without consciousness for a single instant. It is the most self-evident fact of existence — more evident than any object, because objects are known <em>through</em> consciousness, while consciousness is self-known. As Shankara says: 'ātmā is pratyakṣa (directly evident) to everyone.' <strong>How is Brahman 'hidden'?</strong> Because although consciousness is always present, we habitually look <em>through</em> it at objects rather than <em>at</em> it. The eye sees everything but cannot see itself. Similarly, consciousness illuminates everything but is itself overlooked — hidden in plain sight, 'moving in the cave' of the heart. <strong>The Īśā parallel</strong> (mantra 5): 'tad ejati tan naijati, tad dūre tad vad antike' — 'It moves, It moves not; It is far, It is near.' The same paradox: Brahman is simultaneously distant (transcendent) and near (immanent), moving and still. <strong>The resolution</strong>: the paradox is not a logical contradiction but a description of <em>two perspectives</em>. From the standpoint of ordinary consciousness, Brahman is hidden — we are ignorant of our own nature. From the standpoint of realisation, Brahman is manifest — there was never a moment when it was absent."
       },
       {
         "q": "🔍 'Vareṇyam' — the connection to the Gāyatrī mantra",
@@ -78,32 +143,92 @@
     "en": "That which is luminous (arcimat), that which is subtler than the subtle (aṇubhyo'ṇu), in which the worlds (lokāḥ) and their inhabitants (lokinaḥ) are placed (nihitāḥ) — that is this Imperishable Brahman (akṣaram brahma). It is prāṇa (life-breath); it is speech (vāk) and mind (manas). It is truth (satya), it is immortal (amṛta), it is to be pierced (veddhavyam) — O gentle one (somya), know it (viddhi)!",
     "ws": [
       {
-        "s": "अर्चिमत्",
-        "h": "ज्योतिर्मय / प्रकाशवान / luminous",
-        "e": "luminous / radiant"
+        "s": "यत् अर्चिमत्",
+        "h": "जो ज्योतिर्मय / प्रकाशवान् है",
+        "e": "that which is luminous"
       },
       {
-        "s": "अणुभ्योऽणु",
-        "h": "अणु (atom/subtle) से भी अणु (subtler)",
-        "e": "subtler than the subtle"
+        "s": "यत् अणुभ्योऽणु",
+        "h": "जो अणु (सूक्ष्म) से भी अणु है",
+        "e": "that which is subtler than the subtle"
       },
       {
-        "s": "लोकिनः",
-        "h": "लोक-वासी / worlds' inhabitants",
-        "e": "inhabitants of the worlds"
+        "s": "च",
+        "h": "और",
+        "e": "and"
       },
       {
-        "s": "वेद्धव्यम्",
-        "h": "भेदने योग्य / जानने योग्य / to be pierced",
-        "e": "to be pierced / to be hit (as a target)"
+        "s": "यस्मिन्",
+        "h": "जिसमें",
+        "e": "in which"
+      },
+      {
+        "s": "लोकाः",
+        "h": "लोक, संसार",
+        "e": "worlds"
+      },
+      {
+        "s": "निहिताः",
+        "h": "स्थापित, रखे गए",
+        "e": "placed, deposited"
+      },
+      {
+        "s": "लोकिनः च",
+        "h": "लोकवासी (जीव) और",
+        "e": "inhabitants of worlds, and"
+      },
+      {
+        "s": "तत् एतत् अक्षरम्",
+        "h": "वह यह अविनाशी तत्त्व है",
+        "e": "that is this Imperishable"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म, परम तत्त्व",
+        "e": "Brahman"
+      },
+      {
+        "s": "सः प्राणः",
+        "h": "वह प्राण (जीवन-शक्ति) है",
+        "e": "He is the life-breath"
+      },
+      {
+        "s": "तत् उ वाक्",
+        "h": "वह ही वाणी है",
+        "e": "that indeed is speech"
+      },
+      {
+        "s": "मनः",
+        "h": "मन",
+        "e": "mind"
+      },
+      {
+        "s": "तत् एतत् सत्यम्",
+        "h": "वह यह सत्य है",
+        "e": "that is this truth"
+      },
+      {
+        "s": "तत् अमृतम्",
+        "h": "वह अमृत (अमर) है",
+        "e": "that is immortal"
+      },
+      {
+        "s": "तत् वेद्धव्यम्",
+        "h": "वह भेदने/जानने योग्य है",
+        "e": "that is to be pierced/known"
+      },
+      {
+        "s": "सोम्य",
+        "h": "हे सौम्य! (शिष्य को सम्बोधन)",
+        "e": "O gentle one"
       },
       {
         "s": "विद्धि",
-        "h": "जानो / know!",
-        "e": "know!"
+        "h": "जानो! भेदो!",
+        "e": "know! pierce!"
       }
     ],
-    "gr": "<strong>Brahman described and commanded</strong>: this mantra serves as both a description and a command — it describes Brahman (luminous, subtler than subtle, containing all worlds) and commands the student to 'know' / 'pierce' it. <strong>arcimat + aṇubhyo'ṇu</strong>: the paradox of size — Brahman is luminous (vast, radiant) AND subtler than the subtle (smaller than the smallest). The Kaṭha (1.2.20) uses exactly this paradox: 'aṇor aṇīyān mahato mahīyān' — 'smaller than the small, greater than the great.' <strong>veddhavyam</strong> — 'to be pierced': this is a deliberate setup for the bow-and-arrow metaphor in the next mantra (2.2.3-4). The word comes from √vyadh (to pierce/hit a target) — the same root used in archery. Brahman is the <em>target</em>; the student must aim at it and 'pierce' it with concentrated meditation. <strong>viddhi</strong> — 'know!': the imperative is urgent. The teacher is not suggesting but <em>commanding</em>. And the word 'viddhi' puns on 'veddhavyam' — 'know it' and 'pierce it' share a resonance, suggesting that true knowledge IS a piercing — a direct penetration.",
+    "gr": "<strong>व्याकरण:</strong> <em>अर्चिमत्</em> — अर्चिस् (ज्योति) + मतुप् प्रत्यय → 'ज्योतियुक्त, प्रकाशवान्'। <em>अणुभ्योऽणु</em> — अणुभ्यः (पञ्चमी बहुवचन, अणु शब्द) + अणु → 'सूक्ष्म पदार्थों से भी सूक्ष्म'; कठोपनिषद् (१.२.२०) में 'अणोरणीयान्' इसी भाव का विस्तार। <em>निहिताः</em> — नि + √धा + क्त → 'रखे गए', कर्मणि भूतकृदन्त, पुल्लिंग, प्र. बहुवचन। <em>लोकिनः</em> — लोक + इन् प्रत्यय → 'लोकवासी', पुल्लिंग, प्र. बहुवचन। <em>अक्षरम्</em> — न + क्षर (√क्षर् = नष्ट होना) → 'अविनाशी'; नञ् तत्पुरुष। <em>वेद्धव्यम्</em> — √व्यध् (भेदना) + तव्य → 'भेदने योग्य'; यह शब्द अगले मन्त्र (२.२.३-४) की धनुष-बाण उपमा की पूर्वपीठिका है। <em>विद्धि</em> — √विद् (जानना) का लोट् लकार, मध्यम पुरुष, एकवचन → 'जानो'। 'वेद्धव्यम्' (√व्यध्) और 'विद्धि' (√विद्) में श्लेष (pun) है — जानना ही भेदना है। <em>सोम्य</em> — सोम + यत् → 'सौम्य स्वभाव वाले', सम्बोधन। <br><em>Eng:</em> arcimat is matup-derivative (arcis+matup = 'possessing light'). aṇubhyo'ṇu uses the ablative plural of aṇu with comparative force ('subtler than the subtle'). akṣaram is a nañ-tatpuruṣa (a+kṣara = 'imperishable'). veddhavyam (√vyadh+tavya, gerundive) sets up the archery metaphor of 2.2.3–4. viddhi (√vid, imperative 2sg) puns with veddhavyam — knowing IS piercing.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -128,7 +253,7 @@
     "dp": [
       {
         "q": "🔍 'Veddhavyam' — Brahman as target to be pierced",
-        "a": "The word <strong>'veddhavyam'</strong> (to be pierced) is a deliberate and crucial setup for the famous <strong>bow-and-arrow meditation</strong> that follows in mantras 3-4: <strong>Etymology</strong>: veddhavya = the gerundive of √vyadh (to pierce/hit). It is an archery term — 'that which is to be pierced,' i.e., the <em>target</em>. <strong>The metaphor anticipated</strong>: Brahman is the target. The student is the archer. The arrow is the ātman (self). The bow is the syllable OM. The act of 'knowing' Brahman is reframed as an act of <em>hitting a target</em> — not passive reception of information but an active, concentrated, one-pointed aim. <strong>The pun</strong>: 'veddhavyam' (to be pierced, from √vyadh) puns with 'viddhi' (know!, from √vid). In Sanskrit, 'knowing' and 'piercing' share a phonetic resonance — suggesting that true knowledge is not a gentle understanding but a <em>penetration</em>, a direct entry into the heart of reality. <strong>The practical implication</strong>: meditation is not vague contemplation — it is targeted, concentrated, arrow-like. The mind must be as focused as an archer's eye on the bullseye. Distraction is missing the target. Concentration is hitting it."
+        "a": "इस मन्त्र में 'वेद्धव्यम्' (भेदने योग्य) शब्द अत्यन्त महत्त्वपूर्ण है — यह अगले दो मन्त्रों (२.२.३-४) की प्रसिद्ध धनुष-बाण ध्यान-विधि की भूमिका बाँधता है। √व्यध् (भेदना) धनुर्विद्या का शब्द है — ब्रह्म वह 'लक्ष्य' है जिसे साधक को ध्यान के तीक्ष्ण बाण से भेदना है। ज्ञान निष्क्रिय ग्रहण नहीं — सक्रिय, एकाग्र, लक्ष्य-भेदी प्रहार है। 'वेद्धव्यम्' और 'विद्धि' में ध्वनि-साम्य (श्लेष) है — जानना और भेदना एक ही क्रिया है; सच्चा ज्ञान सतह पर नहीं रहता, वह सत्य के हृदय में प्रवेश करता है। व्यावहारिक दृष्टि से ध्यान (meditation) कोई अस्पष्ट चिन्तन नहीं — वह धनुर्धर की भाँति एकाग्र, लक्ष्य-केन्द्रित, और अचूक होना चाहिए।<br><br><em>Eng:</em> The word <strong>'veddhavyam'</strong> (to be pierced) is a deliberate and crucial setup for the famous <strong>bow-and-arrow meditation</strong> that follows in mantras 3-4: <strong>Etymology</strong>: veddhavya = the gerundive of √vyadh (to pierce/hit). It is an archery term — 'that which is to be pierced,' i.e., the <em>target</em>. <strong>The metaphor anticipated</strong>: Brahman is the target. The student is the archer. The arrow is the ātman (self). The bow is the syllable OM. The act of 'knowing' Brahman is reframed as an act of <em>hitting a target</em> — not passive reception of information but an active, concentrated, one-pointed aim. <strong>The pun</strong>: 'veddhavyam' (to be pierced, from √vyadh) puns with 'viddhi' (know!, from √vid). In Sanskrit, 'knowing' and 'piercing' share a phonetic resonance — suggesting that true knowledge is not a gentle understanding but a <em>penetration</em>, a direct entry into the heart of reality. <strong>The practical implication</strong>: meditation is not vague contemplation — it is targeted, concentrated, arrow-like. The mind must be as focused as an archer's eye on the bullseye. Distraction is missing the target. Concentration is hitting it."
       },
       {
         "q": "🔍 'Subtler than the subtle, greater than the great'",
@@ -145,36 +270,76 @@
     "ws": [
       {
         "s": "धनुः",
-        "h": "धनुष / bow",
+        "h": "धनुष, कमान",
         "e": "bow"
       },
       {
+        "s": "गृहीत्वा",
+        "h": "उठाकर, ग्रहण करके",
+        "e": "having taken up"
+      },
+      {
         "s": "औपनिषदम्",
-        "h": "उपनिषद्-सम्बन्धी / relating to the Upanishad",
+        "h": "उपनिषद्-सम्बन्धी",
         "e": "pertaining to the Upanishad"
       },
       {
         "s": "महास्त्रम्",
-        "h": "महान् अस्त्र / great weapon",
+        "h": "महान् अस्त्र (महा+अस्त्र, कर्मधारय)",
         "e": "great weapon"
       },
       {
+        "s": "शरम्",
+        "h": "बाण, तीर",
+        "e": "arrow"
+      },
+      {
+        "s": "हि",
+        "h": "निश्चय ही, क्योंकि",
+        "e": "indeed, for"
+      },
+      {
         "s": "उपासानिशितम्",
-        "h": "उपासना (meditation) से निशित (तीक्ष्ण / sharpened)",
+        "h": "उपासना (ध्यान) से तीक्ष्ण किया हुआ",
         "e": "sharpened by meditation"
       },
       {
-        "s": "तद्भावगतेन चेतसा",
-        "h": "उसके (ब्रह्म के) भाव में गत (absorbed) चित्त से",
-        "e": "with mind gone into the state/being of That"
+        "s": "सन्धयीत",
+        "h": "प्रत्यञ्चा पर चढ़ाए, संधान करे",
+        "e": "should fix on the bowstring"
+      },
+      {
+        "s": "आयम्य",
+        "h": "खींचकर (धनुष को)",
+        "e": "having drawn (the bow)"
+      },
+      {
+        "s": "तद्भावगतेन",
+        "h": "उस (ब्रह्म) के भाव में लीन",
+        "e": "absorbed in the state of That"
+      },
+      {
+        "s": "चेतसा",
+        "h": "चित्त से, मन से",
+        "e": "with the mind"
       },
       {
         "s": "लक्ष्यम्",
-        "h": "लक्ष्य / निशाना / target",
+        "h": "लक्ष्य, निशाना, target",
         "e": "target"
+      },
+      {
+        "s": "तत् एव अक्षरम्",
+        "h": "वही अविनाशी (ब्रह्म)",
+        "e": "that very Imperishable"
+      },
+      {
+        "s": "सोम्य विद्धि",
+        "h": "हे सौम्य! भेदो / जानो",
+        "e": "O gentle one, pierce / know it"
       }
     ],
-    "gr": "<strong>The bow-and-arrow meditation</strong>: this is the Muṇḍaka's most famous and most practical teaching — the archery metaphor for meditation on Brahman. <strong>The components</strong>: (1) <em>Bow (dhanus)</em> = the Upanishadic teaching — specifically, the syllable OM (as the next mantra makes explicit). (2) <em>Arrow (śara)</em> = the individual self (ātman) — the meditator's own consciousness, sharpened by upāsanā (meditation). (3) <em>Target (lakṣya)</em> = Brahman / the akṣara (Imperishable). (4) <em>Drawing the bow (āyamya)</em> = the concentration of mind — pulling the consciousness taut with total absorption (tat-bhāva-gatena cetasā). (5) <em>Piercing (viddhi)</em> = realisation — the moment of direct contact between the individual self and Brahman. <strong>upāsā-niśitam</strong> — 'sharpened by meditation': the arrow must be sharpened. An unsharpened arrow (an unprepared mind) will bounce off the target. Meditation is the whetstone that makes the mind pointed enough to pierce through to Brahman. <strong>tat-bhāva-gatena cetasā</strong> — 'with mind absorbed in That': the archer must be completely focused. Not half-focused, not distracted — the mind must have 'gone into the state of That' (tat-bhāva-gata). Total absorption. <strong>mahā-astra</strong> — 'great weapon': the Upanishadic teaching is called a 'weapon' — it destroys ignorance, not by argument but by direct realisation.",
+    "gr": "<strong>व्याकरण:</strong> <em>गृहीत्वा</em> — √ग्रह् (पकड़ना) + क्त्वा (ल्यप् प्रत्यय) → 'ग्रहण करके'; पूर्वकालिक कृदन्त। <em>औपनिषदम्</em> — उपनिषद् + अण् (तद्धित) → 'उपनिषद् से सम्बन्धित'; वृद्धि (उ→औ)। <em>महास्त्रम्</em> — महत् + अस्त्रम्, कर्मधारय समास → 'जो अस्त्र भी है और महान् भी'। <em>उपासानिशितम्</em> — उपासा (√उप+√आस्, 'समीप बैठना' = ध्यान) + निशितम् (नि+√शो+क्त, 'तीक्ष्ण किया हुआ') → तृतीया तत्पुरुष: 'उपासना द्वारा तीक्ष्ण'। <em>सन्धयीत</em> — सम् + √धा (रखना) + विधिलिंग → 'संधान करे', कर्तृवाच्य। <em>आयम्य</em> — आ + √यम् (खींचना) + ल्यप् → 'खींचकर'। <em>तद्भावगतेन</em> — तत् + भाव + गत + तृतीया एकवचन; बहुव्रीहि: 'जिसका चित्त तत्-भाव (ब्रह्म-भाव) में गया हो'। <em>चेतसा</em> — चेतस् (नपुं.) तृतीया एकवचन → 'मन/चित्त से'। <em>लक्ष्यम्</em> — √लक्ष् + यत् → 'लक्ष्य करने योग्य, निशाना'। <br><em>Eng:</em> gṛhītvā is a ktvā-participle (√grah+ktvā, 'having taken'). aupaniṣadam is a taddhita from upaniṣad with vṛddhi (ṭhaÑ). mahā-astram is a karmadhāraya compound. upāsā-niśitam is a tṛtīyā-tatpuruṣa: 'sharpened by upāsanā' (√śo+kta = niśita). sandhayīta is vidhiliṅ (optative) of sam+√dhā. āyamya is a lyap-gerund (ā+√yam). tat-bhāva-gatena cetasā is an instrumental bahuvrīhi modifying the implicit subject — 'with mind gone into That-state.'",
     "mt": "",
     "cm": {
       "advaita": {
@@ -199,7 +364,7 @@
     "dp": [
       {
         "q": "🔍 The bow-and-arrow meditation — the Muṇḍaka's most famous image",
-        "a": "The <strong>bow-and-arrow meditation</strong> (dhanuḥ-śara-upāsanā) is the Muṇḍaka's most celebrated and most practically applicable teaching: <strong>The complete mapping</strong> (combining mantras 3 and 4): (1) <strong>Bow (dhanus)</strong> = the syllable OM (praṇava) — as the next mantra makes explicit. The bow is the <em>instrument</em> — the framework, the vehicle, the means. OM provides the tension, the power, the structure. (2) <strong>Arrow (śara)</strong> = the individual self (ātman) — the meditator's own consciousness, sharpened by upāsanā (meditation/devotion). The arrow must be <em>sharp</em> — an unprepared mind cannot pierce Brahman. (3) <strong>Target (lakṣya)</strong> = Brahman / the akṣara (Imperishable). The target is definite, specific — not a vague 'spiritual experience' but Brahman itself. (4) <strong>Drawing the bow (āyamya)</strong> = concentrating the mind — pulling consciousness taut until it is fully absorbed in Brahman (tat-bhāva-gata). (5) <strong>Releasing / Piercing (viddhi)</strong> = the moment of realisation — when the arrow of the self hits the target of Brahman, and the two become one. <strong>Why archery?</strong> Archery requires: (a) <em>Equipment</em> — the right bow and arrow (preparation through study and practice). (b) <em>Skill</em> — sharpened by practice (upāsanā). (c) <em>One-pointedness</em> — the archer's eye is fixed on the target and nothing else. (d) <em>Release</em> — at the moment of release, there is no more effort; the arrow flies by its own momentum. Similarly, meditation requires preparation, practice, concentration, and ultimately a 'letting go' into realisation."
+        "a": "मुण्डकोपनिषद् की यह सबसे प्रसिद्ध और व्यावहारिक शिक्षा है — ध्यान की धनुर्विद्या। उपनिषद् = धनुष (साधन/ढाँचा); आत्मा = बाण (साधक स्वयं); ब्रह्म = लक्ष्य। बाण 'उपासना से तीक्ष्ण' होना चाहिए — अर्थात् अप्रस्तुत, विक्षिप्त मन ब्रह्म को भेद नहीं सकता। ध्यान वह शाण (whetstone) है जो मन को इतना नुकीला बनाता है कि वह अज्ञान की परतें चीर सके। 'तद्भावगतेन चेतसा' = चित्त पूर्णतया ब्रह्म-भाव में लीन — आधा ध्यान, आधा संसार नहीं चलेगा; धनुर्धर की भाँति पूर्ण एकाग्रता चाहिए। 'महास्त्रम्' कहकर उपनिषद् को 'अस्त्र' कहा — अस्त्र विनाश करता है, और उपनिषद् अज्ञान का विनाश करता है। यह निष्क्रिय अध्ययन नहीं — सक्रिय आध्यात्मिक युद्ध है।<br><br><em>Eng:</em> The <strong>bow-and-arrow meditation</strong> (dhanuḥ-śara-upāsanā) is the Muṇḍaka's most celebrated and most practically applicable teaching: <strong>The complete mapping</strong> (combining mantras 3 and 4): (1) <strong>Bow (dhanus)</strong> = the syllable OM (praṇava) — as the next mantra makes explicit. The bow is the <em>instrument</em> — the framework, the vehicle, the means. OM provides the tension, the power, the structure. (2) <strong>Arrow (śara)</strong> = the individual self (ātman) — the meditator's own consciousness, sharpened by upāsanā (meditation/devotion). The arrow must be <em>sharp</em> — an unprepared mind cannot pierce Brahman. (3) <strong>Target (lakṣya)</strong> = Brahman / the akṣara (Imperishable). The target is definite, specific — not a vague 'spiritual experience' but Brahman itself. (4) <strong>Drawing the bow (āyamya)</strong> = concentrating the mind — pulling consciousness taut until it is fully absorbed in Brahman (tat-bhāva-gata). (5) <strong>Releasing / Piercing (viddhi)</strong> = the moment of realisation — when the arrow of the self hits the target of Brahman, and the two become one. <strong>Why archery?</strong> Archery requires: (a) <em>Equipment</em> — the right bow and arrow (preparation through study and practice). (b) <em>Skill</em> — sharpened by practice (upāsanā). (c) <em>One-pointedness</em> — the archer's eye is fixed on the target and nothing else. (d) <em>Release</em> — at the moment of release, there is no more effort; the arrow flies by its own momentum. Similarly, meditation requires preparation, practice, concentration, and ultimately a 'letting go' into realisation."
       },
       {
         "q": "🔍 The Upanishad as 'great weapon' (mahā-astra)",
@@ -216,31 +381,66 @@
     "ws": [
       {
         "s": "प्रणवः",
-        "h": "ओंकार / OM",
-        "e": "the praṇava = OM"
+        "h": "ओंकार (OM)",
+        "e": "the praṇava, OM"
       },
       {
-        "s": "शरः",
-        "h": "बाण / तीर / arrow",
-        "e": "arrow"
+        "s": "धनुः",
+        "h": "धनुष, कमान",
+        "e": "bow"
+      },
+      {
+        "s": "शरः हि",
+        "h": "बाण ही, निश्चय ही तीर",
+        "e": "the arrow indeed"
+      },
+      {
+        "s": "आत्मा",
+        "h": "आत्मा, स्वयं का स्वरूप",
+        "e": "the Self"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म, परम तत्त्व",
+        "e": "Brahman"
+      },
+      {
+        "s": "तत् लक्ष्यम्",
+        "h": "वह लक्ष्य / निशाना",
+        "e": "that is the target"
+      },
+      {
+        "s": "उच्यते",
+        "h": "कहा जाता है",
+        "e": "is said to be"
       },
       {
         "s": "अप्रमत्तेन",
-        "h": "प्रमाद-रहित / सावधान / without negligence",
+        "h": "प्रमाद-रहित होकर, सावधानी से",
         "e": "with unwavering attention"
       },
       {
-        "s": "तन्मयः",
-        "h": "तत् (That/Brahman) में तल्लीन / absorbed in That",
-        "e": "made of That / one with That"
+        "s": "वेद्धव्यम्",
+        "h": "भेदना चाहिए, जानना चाहिए",
+        "e": "is to be pierced"
       },
       {
         "s": "शरवत्",
-        "h": "शर (arrow) के समान / like an arrow",
+        "h": "बाण के समान",
         "e": "like the arrow"
+      },
+      {
+        "s": "तन्मयः",
+        "h": "उसमें (ब्रह्म में) तल्लीन, तत्-स्वरूप",
+        "e": "one with That, absorbed in That"
+      },
+      {
+        "s": "भवेत्",
+        "h": "हो जाए, होना चाहिए",
+        "e": "should become"
       }
     ],
-    "gr": "<strong>The complete archery meditation</strong>: this mantra explicitly identifies each element: OM = bow, ātmā = arrow, Brahman = target. <strong>praṇavaḥ dhanuḥ</strong> — 'OM is the bow': OM is the vehicle, the launching mechanism. By meditating on OM, the consciousness is 'launched' toward Brahman. OM is not the goal but the <em>means</em> — it propels the arrow. <strong>śaro hy ātmā</strong> — 'the Self is the arrow': the meditator is not separate from the instrument of meditation. YOU are the arrow. It is not your thought that reaches Brahman — it is YOU. The whole self is launched. <strong>brahma tal lakṣyam</strong> — 'Brahman is the target': the target is definite and specific — Brahman, not 'relaxation,' not 'peace,' not 'spiritual experience,' but Brahman itself. <strong>apramattena veddhavyam</strong> — 'to be pierced with unwavering attention': apramāda (non-negligence) is critical. The archer who loses focus misses the target. The meditator who is careless (pramatta) will not reach Brahman. <strong>śaravat tanmayo bhavet</strong> — 'like the arrow, one should become one with That': this is the climax — the arrow, upon hitting the target, remains embedded in it. It does not bounce back. Similarly, the Self, upon reaching Brahman, <em>becomes Brahman</em> — tanmayaḥ (made of That). The meditator becomes what is meditated upon.",
+    "gr": "<strong>व्याकरण:</strong> <em>प्रणवः</em> — प्र + √णु (स्तुति करना) + अप् → 'जिसके द्वारा (ब्रह्म की) स्तुति की जाए' = ओंकार; पुल्लिंग, प्रथमा एकवचन। <em>शरः</em> — √शॄ (हिंसा/गति) + अच् → 'बाण', पुल्लिंग, प्र. एक.। <em>आत्मा</em> — पुल्लिंग, प्र. एक., 'स्वयं'। <em>लक्ष्यम्</em> — √लक्ष् + यत् → कर्मणि कृदन्त, 'लक्ष्य किए जाने योग्य'। <em>उच्यते</em> — √वच् (कहना) कर्मणि वर्तमान → 'कहा जाता है'। <em>अप्रमत्तेन</em> — न + प्रमत्त (प्र+√मद्+क्त) → नञ् तत्पुरुष; तृतीया एकवचन → 'प्रमाद-रहित व्यक्ति द्वारा'। प्रमाद = असावधानी, आलस्य। <em>वेद्धव्यम्</em> — √व्यध् + तव्य → 'भेदने योग्य' (gerundive)। <em>शरवत्</em> — शर + वत् (उपमावाचक अव्यय) → 'बाण की भाँति'। <em>तन्मयः</em> — तत् + मय (मयट् प्रत्यय) → 'उससे निर्मित, उसमें लीन'; यह मन्त्र का चरमोत्कर्ष है — बाण लक्ष्य में जाकर लक्ष्य का ही हो जाता है। <em>भवेत्</em> — √भू, विधिलिंग, प्रथम पुरुष, एकवचन → 'हो जाए'। <br><em>Eng:</em> praṇavaḥ (pra+√ṇu+ap) = 'that by which Brahman is praised' = OM. apramattena is nañ-tatpuruṣa (a+pramatta, instrumental sg.) — 'by one who is not negligent.' śaravat is an upamā-avyaya ('like an arrow'). tanmayaḥ (tat+mayaṭ) = 'consisting of That / merged in That' — the climax: the arrow becomes the target, the self becomes Brahman. bhavet is vidhiliṅ (optative) of √bhū.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -265,7 +465,7 @@
     "dp": [
       {
         "q": "🔍 OM (praṇava) as the bow — the role of OM in meditation",
-        "a": "This mantra assigns OM a specific role in the meditation process — it is the <strong>bow</strong>, the instrument that propels the arrow of the self toward Brahman: <strong>Why OM is the bow</strong>: (1) The bow provides the <em>framework</em> — the structure within which the arrow operates. OM provides the meditative framework — a point of focus, a sacred sound, a vehicle for concentration. (2) The bow provides the <em>power</em> — the tension that launches the arrow. OM, when chanted with understanding and concentration, generates the inner 'tension' (tapas / spiritual intensity) that launches consciousness toward Brahman. (3) The bow is <em>not the arrow</em> — OM is the means, not the goal. The bow stays behind when the arrow flies. Similarly, OM is the vehicle that carries you toward Brahman, but Brahman itself is beyond OM. <strong>OM in the Māṇḍūkya</strong>: the Māṇḍūkya Upanishad analyses OM into four parts — A (waking), U (dreaming), M (deep sleep), and the silence beyond (turīya). The entire analysis is designed to show that OM contains and transcends all states of consciousness. <strong>OM in the Praśna</strong> (5.1-7): the Praśna describes three levels of OM-meditation: (1) meditation on A alone → rebirth in the human world; (2) meditation on A+U → ascent to the moon-world; (3) meditation on A+U+M → realisation of the Puruṣa and liberation. <strong>Practical instruction</strong>: sit still, chant OM, let the sound become subtler and subtler until it becomes silence, and in that silence, launch your awareness toward the Imperishable. OM is the runway; Brahman is the sky."
+        "a": "OM को 'धनुष' कहा गया — OM साधना का उपकरण है, लक्ष्य नहीं। जैसे धनुष बाण को शक्ति और दिशा देता है, वैसे OM-ध्यान चेतना को ब्रह्म की ओर प्रक्षेपित करता है। OM तीन अक्षरों (अ-उ-म) और उनके पार की निस्तब्धता (तुरीय) में सम्पूर्ण चेतना को समेटता है (माण्डूक्योपनिषद्)। आत्मा = बाण — ध्यान में कोई बाहरी वस्तु नहीं भेजी जाती, स्वयं साधक ही बाण है; सम्पूर्ण अस्तित्व दाँव पर लगता है। 'अप्रमत्तेन' — प्रमाद (लापरवाही) का निषेध; धनुर्धर जो एक क्षण भी विचलित हुआ, लक्ष्य चूक जाता है। 'शरवत् तन्मयो भवेत्' — यह परमोत्कर्ष है: बाण लक्ष्य में घुसकर लक्ष्य का अंग बन जाता है, लौटता नहीं — वैसे ही आत्मा ब्रह्म-लक्ष्य को भेदकर ब्रह्म ही हो जाती है। यही मोक्ष है।<br><br><em>Eng:</em> This mantra assigns OM a specific role in the meditation process — it is the <strong>bow</strong>, the instrument that propels the arrow of the self toward Brahman: <strong>Why OM is the bow</strong>: (1) The bow provides the <em>framework</em> — the structure within which the arrow operates. OM provides the meditative framework — a point of focus, a sacred sound, a vehicle for concentration. (2) The bow provides the <em>power</em> — the tension that launches the arrow. OM, when chanted with understanding and concentration, generates the inner 'tension' (tapas / spiritual intensity) that launches consciousness toward Brahman. (3) The bow is <em>not the arrow</em> — OM is the means, not the goal. The bow stays behind when the arrow flies. Similarly, OM is the vehicle that carries you toward Brahman, but Brahman itself is beyond OM. <strong>OM in the Māṇḍūkya</strong>: the Māṇḍūkya Upanishad analyses OM into four parts — A (waking), U (dreaming), M (deep sleep), and the silence beyond (turīya). The entire analysis is designed to show that OM contains and transcends all states of consciousness. <strong>Practical instruction</strong>: sit still, chant OM, let the sound become subtler and subtler until it becomes silence, and in that silence, launch your awareness toward the Imperishable. OM is the runway; Brahman is the sky."
       },
       {
         "q": "🔍 'Tanmayo bhavet' — becoming one with the target",
@@ -281,32 +481,77 @@
     "en": "That in which (yasmin) heaven (dyauḥ), earth (pṛthivī), and the intermediate space (antarikṣam) are woven (otam), [along with] the mind (manas) together with all the prāṇas (saha prāṇaiḥ sarvaiḥ) — know (jānatha) that one (ekam) Self (ātmānam) alone! Let go of (vimuñcatha) other words (anyāḥ vācaḥ)! This (eṣaḥ) is the bridge (setu) to immortality (amṛtasya).",
     "ws": [
       {
+        "s": "यस्मिन्",
+        "h": "जिसमें",
+        "e": "in which"
+      },
+      {
+        "s": "द्यौः",
+        "h": "स्वर्ग, आकाश-लोक",
+        "e": "heaven, sky"
+      },
+      {
+        "s": "पृथिवी",
+        "h": "पृथ्वी, भूमि",
+        "e": "earth"
+      },
+      {
+        "s": "च अन्तरिक्षम्",
+        "h": "और अन्तरिक्ष (मध्यलोक)",
+        "e": "and the intermediate space"
+      },
+      {
         "s": "ओतम्",
-        "h": "गुँथा हुआ / बुना हुआ / woven",
-        "e": "woven"
+        "h": "गुँथा हुआ, बुना हुआ, पिरोया हुआ",
+        "e": "woven, strung"
       },
       {
-        "s": "विमुञ्चथ",
-        "h": "छोड़ दो / त्याग करो / let go",
-        "e": "let go / release"
+        "s": "मनः",
+        "h": "मन",
+        "e": "mind"
       },
       {
-        "s": "सेतुः",
-        "h": "सेतु / पुल / bridge",
-        "e": "bridge"
+        "s": "सह प्राणैः च सर्वैः",
+        "h": "सब प्राणों सहित",
+        "e": "together with all the prāṇas"
+      },
+      {
+        "s": "तम् एव एकम्",
+        "h": "उसी एक को",
+        "e": "that one alone"
       },
       {
         "s": "जानथ",
-        "h": "जानो / know!",
-        "e": "know!"
+        "h": "जानो (बहुवचन आज्ञा)",
+        "e": "know! (plural imperative)"
+      },
+      {
+        "s": "आत्मानम्",
+        "h": "आत्मा को",
+        "e": "the Self"
       },
       {
         "s": "अन्याः वाचः",
-        "h": "अन्य बातें / other words / other teachings",
-        "e": "other words / other speeches"
+        "h": "अन्य बातें / शब्द",
+        "e": "other words / speeches"
+      },
+      {
+        "s": "विमुञ्चथ",
+        "h": "छोड़ दो, त्याग करो",
+        "e": "let go, release"
+      },
+      {
+        "s": "अमृतस्य",
+        "h": "अमृत (अमरत्व) का",
+        "e": "of immortality"
+      },
+      {
+        "s": "एषः सेतुः",
+        "h": "यह सेतु (पुल) है",
+        "e": "this is the bridge"
       }
     ],
-    "gr": "<strong>The command: know the one Self, let go of everything else</strong>: this mantra is simultaneously a description, a command, and a promise. <strong>otam</strong> — 'woven': heaven, earth, and intermediate space are 'woven' into the Self — the cosmos is a fabric and the Self is the thread. This echoes the Bṛhadāraṇyaka (3.8.7-8), where Gārgī asks Yājñavalkya what the universe is 'woven' (ota) on, and the answer is: the akṣara (the Imperishable). <strong>anyāḥ vācaḥ vimuñcatha</strong> — 'let go of other words': this is a remarkable injunction. The Upanishad — a text of words — is telling you to <em>abandon all words</em> except the one essential teaching: know the Self. All other studies, debates, philosophies, and discussions are to be released. This echoes the Muṇḍaka's earlier distinction between parā and aparā vidyā (1.1.4-5) — aparā (lower knowledge) includes all the Vedas; parā (higher knowledge) is the knowledge of the akṣara alone. <strong>amṛtasya eṣaḥ setuḥ</strong> — 'this is the bridge to immortality': the Self is a <em>setu</em> (bridge). A bridge does not create the far shore — it only enables you to reach it. The Self is the means of crossing from mortality to immortality.",
+    "gr": "<strong>व्याकरण:</strong> <em>यस्मिन्</em> — यत् (सर्वनाम), सप्तमी एकवचन → 'जिसमें'। <em>द्यौः</em> — दिव् शब्द, स्त्रीलिंग, प्र. एक. → 'स्वर्गलोक'। <em>पृथिवी</em> — पृथु + इवी (ङीप्) → 'विस्तृत भूमि'; स्त्रीलिंग, प्र. एक.। <em>अन्तरिक्षम्</em> — अन्तर (मध्य) + √ईक्ष् (देखना); या अन्तर + ऋक्ष → 'तारों के बीच का स्थान'; नपुंसकलिंग। <em>ओतम्</em> — √वे (बुनना/गूँथना) + क्त → 'बुना हुआ'; बृहदारण्यक (३.८.७-८) में गार्गी का प्रश्न 'किसमें ओतम् है?' — उत्तर: अक्षर में। <em>जानथ</em> — √ज्ञा, लोट् लकार, मध्यम पुरुष, बहुवचन → 'जानो (तुम सब)'। <em>विमुञ्चथ</em> — वि + √मुच् (छोड़ना), लोट् लकार, म.पु., बहुवचन → 'छोड़ दो'। <em>सेतुः</em> — √सि (बाँधना) + तु → 'सेतु/बाँध/पुल'; पुल्लिंग, प्र. एक.। छान्दोग्य (८.४.१) में भी 'आत्मा वा एष सेतुः विधृतिः'। <em>अमृतस्य</em> — अमृत (न+मृत) षष्ठी एकवचन → 'अमरत्व का'। <br><em>Eng:</em> yasmin is locative sg. of yat. dyauḥ (div-śabda, nom. sg. fem.) = 'heaven.' otam (√ve+kta) = 'woven'; echoes Bṛhadāraṇyaka 3.8.7–8 where the universe is 'woven' on the akṣara. jānatha and vimuñcatha are loṭ (imperative) 2nd person plural — the teacher addresses multiple students. setuḥ (√si+tu) = 'bridge/dam'; cf. Chāndogya 8.4.1.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -331,7 +576,7 @@
     "dp": [
       {
         "q": "🔍 'Let go of other words' — the radical demand for focus",
-        "a": "The command <strong>'anyāḥ vācaḥ vimuñcatha'</strong> ('let go of other words') is one of the most radical instructions in the Upanishads: <strong>What must be let go?</strong> All other teachings, debates, discussions, intellectual pursuits, philosophical arguments — everything that is not the direct knowledge of the one Self. This includes: (1) <em>Aparā vidyā</em>: the 'lower knowledge' — even the four Vedas (Ṛg, Yajur, Sāma, Atharva), grammar, etymology, astronomy, etc. These are necessary preparations but must ultimately be transcended. (2) <em>Ritual discussions</em>: debates about the correct performance of sacrifices, the relative merits of different rituals — all of this belongs to karma-kāṇḍa and must be left behind. (3) <em>Philosophical arguments</em>: even intellectual analysis of Brahman — debating whether Brahman is nirguṇa or saguṇa, whether the world is real or illusory — all of this is still 'words' (vācaḥ), not the direct experience. <strong>Why this is necessary</strong>: words and concepts create a screen between the seeker and reality. As long as you are <em>talking about</em> Brahman, you are not <em>knowing</em> Brahman. Knowledge of Brahman is not verbal — it is the direct 'piercing' described in mantras 3-4. <strong>The paradox</strong>: this instruction is itself given in words — the Upanishad, a verbal text, is telling you to go beyond words. This is like a finger pointing at the moon — look at the moon, not the finger. The Upanishad points beyond itself."
+        "a": "'अन्याः वाचो विमुञ्चथ' — उपनिषद् स्वयं शब्दों का ग्रन्थ होकर भी कह रहा है कि शब्द छोड़ दो! यह अपरा विद्या (शास्त्र-ज्ञान) और परा विद्या (आत्म-ज्ञान) के बीच का वही भेद है जो मुण्डक १.१.४-५ में प्रतिपादित हुआ। शब्द, तर्क, वाद-विवाद — ये सब साधन हैं, साध्य नहीं; अँगुली चन्द्रमा की ओर इशारा करती है — अँगुली देखते रहोगे तो चन्द्रमा दिखेगा नहीं। जब तक ब्रह्म के 'विषय में' बातें करते रहोगे, तब तक ब्रह्म को 'जानोगे' नहीं — क्योंकि ब्रह्म-ज्ञान शाब्दिक नहीं, प्रत्यक्ष भेदन है (मन्त्र ३-४ का सन्दर्भ)। 'सेतुः' = आत्मा सेतु है — सेतु दूसरे तट को बनाता नहीं, केवल पहुँचाता है; आत्म-ज्ञान अमरत्व का मार्ग है।<br><br><em>Eng:</em> The command <strong>'anyāḥ vācaḥ vimuñcatha'</strong> ('let go of other words') is one of the most radical instructions in the Upanishads: <strong>What must be let go?</strong> All other teachings, debates, discussions, intellectual pursuits, philosophical arguments — everything that is not the direct knowledge of the one Self. This includes: (1) <em>Aparā vidyā</em>: the 'lower knowledge' — even the four Vedas (Ṛg, Yajur, Sāma, Atharva), grammar, etymology, astronomy, etc. These are necessary preparations but must ultimately be transcended. (2) <em>Ritual discussions</em>: debates about the correct performance of sacrifices, the relative merits of different rituals — all of this belongs to karma-kāṇḍa and must be left behind. (3) <em>Philosophical arguments</em>: even intellectual analysis of Brahman — debating whether Brahman is nirguṇa or saguṇa, whether the world is real or illusory — all of this is still 'words' (vācaḥ), not the direct experience. <strong>Why this is necessary</strong>: words and concepts create a screen between the seeker and reality. As long as you are <em>talking about</em> Brahman, you are not <em>knowing</em> Brahman. Knowledge of Brahman is not verbal — it is the direct 'piercing' described in mantras 3-4. <strong>The paradox</strong>: this instruction is itself given in words — the Upanishad, a verbal text, is telling you to go beyond words. This is like a finger pointing at the moon — look at the moon, not the finger. The Upanishad points beyond itself."
       },
       {
         "q": "🔍 The Self as 'setu' (bridge) to immortality",
@@ -348,31 +593,81 @@
     "ws": [
       {
         "s": "अराः",
-        "h": "अरा / तीलियाँ / spokes",
+        "h": "अरा, पहिये की तीलियाँ",
         "e": "spokes"
       },
       {
+        "s": "इव",
+        "h": "के समान, जैसे",
+        "e": "like, as"
+      },
+      {
         "s": "रथनाभौ",
-        "h": "रथ की नाभि / chariot-wheel hub",
-        "e": "the hub of a chariot-wheel"
+        "h": "रथ-चक्र की नाभि (hub) में",
+        "e": "in the hub of a chariot-wheel"
+      },
+      {
+        "s": "संहताः",
+        "h": "जुड़ी हुई, मिली हुई",
+        "e": "joined together"
+      },
+      {
+        "s": "यत्र",
+        "h": "जहाँ",
+        "e": "where"
       },
       {
         "s": "नाड्यः",
-        "h": "नाड़ियाँ / सूक्ष्म शरीर की नलिकाएँ",
-        "e": "subtle channels"
+        "h": "नाड़ियाँ (सूक्ष्म शरीर की नलिकाएँ)",
+        "e": "subtle channels (nāḍīs)"
+      },
+      {
+        "s": "सः एषः",
+        "h": "वही यह (आत्मा)",
+        "e": "He, this one (the Self)"
+      },
+      {
+        "s": "अन्तः चरते",
+        "h": "भीतर विचरता है",
+        "e": "moves within"
       },
       {
         "s": "बहुधा जायमानः",
-        "h": "अनेक प्रकार से जन्म लेता हुआ / प्रकट होता हुआ",
+        "h": "अनेक प्रकार से प्रकट होता हुआ",
         "e": "being born in many ways"
       },
       {
-        "s": "पाराय तमसः परस्तात्",
-        "h": "अन्धकार (tamas) के परे (parastāt) पार (pāra) जाने के लिए",
-        "e": "for crossing to the far shore beyond darkness"
+        "s": "ॐ इति एवम्",
+        "h": "OM — इस प्रकार",
+        "e": "as OM, thus"
+      },
+      {
+        "s": "ध्यायथ",
+        "h": "ध्यान करो (बहुवचन)",
+        "e": "meditate (plural)"
+      },
+      {
+        "s": "आत्मानम्",
+        "h": "आत्मा को / आत्मा का",
+        "e": "the Self"
+      },
+      {
+        "s": "स्वस्ति वः",
+        "h": "तुम्हारा कल्याण हो",
+        "e": "may it be well for you"
+      },
+      {
+        "s": "पाराय",
+        "h": "पार जाने के लिए",
+        "e": "for crossing"
+      },
+      {
+        "s": "तमसः परस्तात्",
+        "h": "अन्धकार (अज्ञान) के परे",
+        "e": "beyond darkness"
       }
     ],
-    "gr": "<strong>The hub meditation and the blessing</strong>: this mantra combines a physiological meditation (the hub of the nāḍīs) with a benediction (svasti vaḥ — 'may it be well for you'). <strong>The spoke-hub analogy</strong>: the nāḍīs (subtle energy-channels) converge at the heart-centre like spokes converge at the hub of a wheel. The Self 'moves within' this hub — the heart is the operational centre of the Self in the body. <strong>bahudhā jāyamānaḥ</strong> — 'being born in many ways': the one Self 'manifests' through the many nāḍīs as many functions — sight through the eye-nāḍī, hearing through the ear-nāḍī, etc. The multiplicity of experience is the one Self 'being born many ways.' <strong>om iti evaṁ dhyāyatha ātmānam</strong> — 'thus meditate on the Self as OM': a direct practical instruction. Meditate on the Self using OM as the focus. <strong>svasti vaḥ pārāya tamasaḥ parastāt</strong> — 'may it be well for you, for crossing beyond darkness': a teacher's benediction — the teacher wishes the student safe passage across the darkness of ignorance to the far shore of immortality.",
+    "gr": "<strong>व्याकरण:</strong> <em>अराः</em> — अरा, स्त्रीलिंग, प्रथमा बहुवचन → 'पहिये की तीलियाँ'। <em>इव</em> — उपमावाचक अव्यय → 'के समान'। <em>रथनाभौ</em> — रथ + नाभि, सप्तमी तत्पुरुष समास; नाभि = केन्द्र-बिन्दु (hub); सप्तमी एकवचन। <em>संहताः</em> — सम् + √हन् (जोड़ना) + क्त → 'एक साथ जुड़ी हुई'; स्त्रीलिंग, प्र. बहुवचन। <em>नाड्यः</em> — नाडी, स्त्रीलिंग, प्र. बहुवचन → 'नाड़ियाँ'; प्रश्नोपनिषद् (३.६) में १०१ मुख्य नाड़ियाँ वर्णित। <em>अन्तः चरते</em> — अन्तः (अव्यय, 'भीतर') + √चर् (विचरना), लट् लकार, प्रथम पुरुष, एकवचन। <em>बहुधा</em> — बहु + धा (प्रकारवाचक अव्यय) → 'अनेक प्रकार से'। <em>जायमानः</em> — √जन् (उत्पन्न होना), कर्मणि शानच् → 'उत्पन्न होता हुआ / प्रकट होता हुआ'। <em>ध्यायथ</em> — √ध्यै (ध्यान करना), लोट् लकार, म.पु., बहुवचन → 'ध्यान करो'। <em>स्वस्ति</em> — सु + अस्ति → 'कल्याण हो'; अव्यय। <em>पाराय</em> — पार (दूसरा तट) + चतुर्थी एकवचन → 'पार जाने के लिए'। <em>तमसः परस्तात्</em> — तमस् (अन्धकार), पञ्चमी/षष्ठी + परस्तात् (अव्यय, 'के परे') → 'अन्धकार के उस पार'। <br><em>Eng:</em> arāḥ (nom. pl. fem.) = 'spokes.' ratha-nābhau is a saptamī-tatpuruṣa (locative sg., 'in the chariot-hub'). saṁhatāḥ (sam+√han+kta, nom. pl. fem.) = 'joined together.' jāyamānaḥ (√jan, karmaṇi śānac) = 'being born.' dhyāyatha (√dhyai, loṭ 2pl) = 'meditate.' svasti (su+asti) is an indeclinable blessing. pārāya is dative sg. of pāra ('far shore'). tamasaḥ parastāt = 'beyond darkness' — the teacher's benediction for the student's spiritual crossing.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -397,7 +692,7 @@
     "dp": [
       {
         "q": "🔍 The nāḍīs and the heart-centre — the inner geography of the Self",
-        "a": "This mantra describes the <strong>inner geography</strong> of the body — the network of <strong>nāḍīs (subtle channels)</strong> converging at the <strong>heart-centre</strong>: <strong>The nāḍī system</strong>: the nāḍīs are subtle energy-channels through which prāṇa (life-force) flows. They are not physical nerves or blood vessels but subtle pathways mapped by yogic experience. <strong>Traditional count</strong>: the Praśna (3.6) mentions 101 main nāḍīs radiating from the heart; later texts describe 72,000 nāḍīs in total. <strong>The hub analogy</strong>: the nāḍīs converge at the heart like spokes at a wheel-hub. The heart-centre is the <em>operational headquarters</em> of the Self in the body. All sensory data, all prāṇic flows, all movements of mind converge here. <strong>The Praśna parallel</strong> (3.6-7): 'From the heart, 101 nāḍīs branch out. From each of these, 100 more. From each of those, 72,000 more. Through these, the vyāna (diffused prāṇa) moves.' <strong>The Chāndogya parallel</strong> (8.6.6): 'There are 101 channels of the heart. One of these goes up to the crown of the head. Going up by that, one attains immortality.' <strong>The meditation instruction</strong>: focus awareness at the heart-centre, where all nāḍīs meet. There, the Self sits — one Self, manifesting through many channels as many experiences. Meditate on OM at this point, and cross beyond darkness."
+        "a": "यह मन्त्र शरीर का आन्तरिक भूगोल (inner geography) प्रस्तुत करता है — नाड़ियाँ (सूक्ष्म ऊर्जा-मार्ग) हृदय-केन्द्र में उसी प्रकार मिलती हैं जैसे पहिये की तीलियाँ नाभि में। प्रश्नोपनिषद् (३.६) में १०१ मुख्य नाड़ियाँ और प्रत्येक से ७२,००० शाखाएँ बताई गई हैं। इसी नाभि-बिन्दु पर आत्मा 'अन्तः चरते' — भीतर विचरता है, और वहीं से 'बहुधा जायमानः' — अनेक इन्द्रियों, प्राणों, अनुभवों के रूप में प्रकट होता है। साधना-विधि स्पष्ट है: 'OM इति एवं ध्यायथ आत्मानम्' — OM द्वारा उसी हृदय-केन्द्र पर ध्यान करो। अन्त में गुरु का आशीर्वाद: 'स्वस्ति वः पाराय तमसः परस्तात्' — तुम्हारा कल्याण हो, अज्ञान के अन्धकार के उस पार पहुँचो। यह उपनिषद् के दुर्लभ क्षणों में से है जहाँ गुरु उपदेशक से शुभचिन्तक बन जाता है — 'सोम्य' की कोमलता यहाँ पुनः लौटती है।<br><br><em>Eng:</em> This mantra describes the <strong>inner geography</strong> of the body — the network of <strong>nāḍīs (subtle channels)</strong> converging at the <strong>heart-centre</strong>: <strong>The nāḍī system</strong>: the nāḍīs are subtle energy-channels through which prāṇa (life-force) flows. They are not physical nerves or blood vessels but subtle pathways mapped by yogic experience. <strong>Traditional count</strong>: the Praśna (3.6) mentions 101 main nāḍīs radiating from the heart; later texts describe 72,000 nāḍīs in total. <strong>The hub analogy</strong>: the nāḍīs converge at the heart like spokes at a wheel-hub. The heart-centre is the <em>operational headquarters</em> of the Self in the body. All sensory data, all prāṇic flows, all movements of mind converge here. <strong>The Praśna parallel</strong> (3.6-7): 'From the heart, 101 nāḍīs branch out. From each of these, 100 more. From each of those, 72,000 more. Through these, the vyāna (diffused prāṇa) moves.' <strong>The Chāndogya parallel</strong> (8.6.6): 'There are 101 channels of the heart. One of these goes up to the crown of the head. Going up by that, one attains immortality.' <strong>The meditation instruction</strong>: focus awareness at the heart-centre, where all nāḍīs meet. There, the Self sits — one Self, manifesting through many channels as many experiences. Meditate on OM at this point, and cross beyond darkness."
       },
       {
         "q": "🔍 The teacher's benediction — 'svasti vaḥ' (may it be well for you)",
@@ -413,32 +708,57 @@
     "en": "He who is omniscient (sarva-jña), all-knowing (sarva-vit), whose tapas (creative austerity) consists of knowledge (jñāna-maya) — from Him are born this Brahman (the Vedic reality / Hiraṇyagarbha), name-and-form (nāma-rūpa), and food (anna).",
     "ws": [
       {
+        "s": "यः",
+        "h": "जो",
+        "e": "He who"
+      },
+      {
         "s": "सर्वज्ञः",
-        "h": "सब-जानने वाला / omniscient",
+        "h": "सब-जानने वाला, सर्वज्ञ",
         "e": "omniscient"
       },
       {
         "s": "सर्ववित्",
-        "h": "सब कुछ का विशेष ज्ञाता / all-knowing in detail",
-        "e": "all-knowing"
+        "h": "सब कुछ का विशेष ज्ञाता",
+        "e": "all-knowing in detail"
       },
       {
-        "s": "ज्ञानमयं तपः",
-        "h": "ज्ञान-स्वरूप तप / austerity consisting of knowledge",
-        "e": "creative austerity consisting of knowledge"
+        "s": "यस्य",
+        "h": "जिसका",
+        "e": "whose"
+      },
+      {
+        "s": "ज्ञानमयम् तपः",
+        "h": "ज्ञान-स्वरूप तप, ज्ञान से बना तप",
+        "e": "tapas consisting of knowledge"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "उससे, उस कारण से",
+        "e": "from Him, therefore"
+      },
+      {
+        "s": "एतत् ब्रह्म",
+        "h": "यह ब्रह्मा / हिरण्यगर्भ",
+        "e": "this Brahman (Hiraṇyagarbha)"
       },
       {
         "s": "नामरूपम्",
-        "h": "नाम और रूप / name and form",
+        "h": "नाम और रूप (व्यक्तित्व का सिद्धान्त)",
         "e": "name and form"
       },
       {
-        "s": "अन्नम्",
-        "h": "अन्न / भोजन / matter / food",
-        "e": "food / matter"
+        "s": "अन्नम् च",
+        "h": "अन्न (भौतिक पदार्थ) और",
+        "e": "food/matter, and"
+      },
+      {
+        "s": "जायते",
+        "h": "उत्पन्न होता है",
+        "e": "is born"
       }
     ],
-    "gr": "<strong>Brahman's knowledge-tapas as the source of creation</strong>: this mantra returns to the theme of creation but with a crucial specification — Brahman's tapas (creative energy) is <em>jñāna-maya</em> (consisting of knowledge). <strong>sarva-jña vs. sarva-vit</strong>: two kinds of knowing are attributed to Brahman: sarva-jña (omniscient — knowing the whole) and sarva-vit (all-knowing — knowing every detail). Together they affirm that Brahman's knowledge is both comprehensive and particular — nothing escapes it, in general or in detail. <strong>jñāna-mayaṁ tapaḥ</strong> — 'tapas consisting of knowledge': Brahman does not create through effort, labour, or material processing. Brahman creates through <em>knowing</em>. Knowledge itself is the creative force. This is a profound theological claim — consciousness (jñāna) is not a passive mirror but an active creative power. <strong>brahma, nāma-rūpa, anna</strong>: from Brahman's knowledge-tapas emerge three things: (1) brahma — the first-born reality (Hiraṇyagarbha / the cosmic mind), (2) nāma-rūpa — name and form (the principle of individuation), (3) anna — food/matter (the physical substrate). This covers the hierarchy of creation from subtle (brahma) through intermediate (nāma-rūpa) to gross (anna).",
+    "gr": "<strong>व्याकरण:</strong> <em>सर्वज्ञः</em> — सर्व + ज्ञ (√ज्ञा + क), बहुव्रीहि समास → 'सब कुछ जानने वाला'; पुल्लिंग, प्र. एक.। <em>सर्ववित्</em> — सर्व + विद् (√विद् + क्विप्), बहुव्रीहि → 'सब का विशेष ज्ञाता'; सर्वज्ञ = सामान्य ज्ञान, सर्ववित् = विशेष ज्ञान — दोनों मिलकर पूर्ण सर्वज्ञता। <em>ज्ञानमयम्</em> — ज्ञान + मयट् प्रत्यय → 'ज्ञान से बना / ज्ञान-स्वरूप'। <em>तपः</em> — √तप् (तपना) + अस् → 'तप, सृजनात्मक ऊर्जा'; नपुं., प्र. एक.। 'ज्ञानमयं तपः' = ब्रह्म का तप शारीरिक श्रम नहीं — ज्ञान ही सृजन-शक्ति है। <em>तस्मात्</em> — तत् (सर्वनाम), पञ्चमी एकवचन → 'उससे'। <em>नामरूपम्</em> — नाम + रूप, द्वन्द्व समास → 'नाम और रूप'; व्यक्तित्व-भेद (individuation) का सिद्धान्त। छान्दोग्य (६.१.४-६) में 'वाचारम्भणं विकारो नामधेयम्' — नाम-रूप शाब्दिक विकार मात्र। <em>अन्नम्</em> — √अद् (खाना) + नम् → 'जो खाया जाए' = अन्न/पदार्थ; नपुं., प्र. एक.। <em>जायते</em> — √जन् (उत्पन्न होना), कर्मणि, लट् लकार → 'उत्पन्न होता है'। <br><em>Eng:</em> sarva-jñaḥ and sarva-vit are both bahuvrīhi compounds distinguishing general omniscience from detailed knowledge. jñāna-mayam (jñāna+mayaṭ) = 'consisting of knowledge' — Brahman's creative tapas IS knowledge. nāma-rūpam is a dvandva compound; cf. Chāndogya 6.1.4–6 where nāma-rūpa are 'modifications in name only.' annam (√ad+nam) = 'food/matter.' jāyate is ātmanepada present (√jan) = 'is born.'",
     "mt": "",
     "cm": {
       "advaita": {
@@ -463,7 +783,7 @@
     "dp": [
       {
         "q": "🔍 'Jñāna-mayaṁ tapaḥ' — creation through knowledge, not effort",
-        "a": "The phrase <strong>'jñāna-mayaṁ tapaḥ'</strong> ('tapas consisting of knowledge') makes a profound claim about the nature of creation: <strong>What is tapas?</strong> Ordinarily, tapas means 'austerity' — physical or mental effort, discipline, heat. In Vedic cosmology, tapas is the creative energy — the universe is created through the tapas of the creator. <strong>But Brahman's tapas is knowledge</strong>: the Muṇḍaka specifies that Brahman's tapas is not physical effort but <em>jñāna-maya</em> — consisting of knowledge. Brahman doesn't 'work' to create the universe — Brahman <em>knows</em> it into existence. Knowledge itself is the creative force. <strong>The philosophical significance</strong>: if creation comes from knowledge (not from effort or material), then: (1) <em>Consciousness is primary</em>: the universe is born from consciousness, not from matter. Matter is a product of consciousness, not the other way around. (2) <em>Knowledge is power</em>: knowing IS creating. This connects to the modern insight that 'information' may be more fundamental than matter or energy. (3) <em>Creation is effortless</em>: Brahman doesn't strain to create — it is as natural as knowing. Just as you don't 'work' to think a thought, Brahman doesn't 'work' to produce the universe. <strong>The Taittirīya parallel</strong> (2.6.1): 'so'kāmayata — bahu syāṁ prajāyeya' — 'He desired: may I become many, may I be born.' The desire (kāma) that creates is a form of knowledge — Brahman 'knows' what it wants to become."
+        "a": "'ज्ञानमयं तपः' — यह मन्त्र सृष्टि के स्वरूप के विषय में गम्भीर दार्शनिक प्रतिपादन करता है: ब्रह्म का सृजनात्मक तप (tapas) ज्ञान-स्वरूप है, श्रम-स्वरूप नहीं। ब्रह्म 'जानकर' सृष्टि करता है — जैसे विचार करने में कोई शारीरिक श्रम नहीं, वैसे ही ब्रह्म को सृष्टि में कोई प्रयास नहीं। इसका अर्थ है — चेतना (consciousness) प्राथमिक है, पदार्थ गौण; ज्ञान निष्क्रिय दर्पण नहीं बल्कि सक्रिय सृजन-शक्ति है। 'सर्वज्ञ' और 'सर्ववित्' में सूक्ष्म भेद है — सर्वज्ञ = समग्र ज्ञान (general), सर्ववित् = प्रत्येक अणु-परमाणु का विशेष ज्ञान (particular)। ब्रह्म, नामरूप, और अन्न — ये तीन सृष्टि-स्तर हैं: सूक्ष्म (हिरण्यगर्भ) → मध्य (नाम-रूप = व्यक्तीकरण) → स्थूल (अन्न = भौतिक पदार्थ)।<br><br><em>Eng:</em> The phrase <strong>'jñāna-mayaṁ tapaḥ'</strong> ('tapas consisting of knowledge') makes a profound claim about the nature of creation: <strong>What is tapas?</strong> Ordinarily, tapas means 'austerity' — physical or mental effort, discipline, heat. In Vedic cosmology, tapas is the creative energy — the universe is created through the tapas of the creator. <strong>But Brahman's tapas is knowledge</strong>: the Muṇḍaka specifies that Brahman's tapas is not physical effort but <em>jñāna-maya</em> — consisting of knowledge. Brahman doesn't 'work' to create the universe — Brahman <em>knows</em> it into existence. Knowledge itself is the creative force. <strong>The philosophical significance</strong>: if creation comes from knowledge (not from effort or material), then: (1) <em>Consciousness is primary</em>: the universe is born from consciousness, not from matter. Matter is a product of consciousness, not the other way around. (2) <em>Knowledge is power</em>: knowing IS creating. This connects to the modern insight that 'information' may be more fundamental than matter or energy. (3) <em>Creation is effortless</em>: Brahman doesn't strain to create — it is as natural as knowing. Just as you don't 'work' to think a thought, Brahman doesn't 'work' to produce the universe. <strong>The Taittirīya parallel</strong> (2.6.1): 'so'kāmayata — bahu syāṁ prajāyeya' — 'He desired: may I become many, may I be born.' The desire (kāma) that creates is a form of knowledge — Brahman 'knows' what it wants to become."
       },
       {
         "q": "🔍 Nāma-rūpa — the principle of individuation",
@@ -479,32 +799,72 @@
     "en": "This is the truth (satyam). The ritual actions (karmāṇi) that the seers (kavayaḥ) saw (apaśyan) in the mantras — those are spread out (santatāni) in many ways (bahudhā) in the Tretā (the three Vedic fires). Practise them (ācaratha) regularly (niyatam), O lovers of truth (satya-kāmāḥ)! This (eṣaḥ) is your (vaḥ) path (panthāḥ) in the world of good deeds (sukṛtasya loke).",
     "ws": [
       {
+        "s": "तत् एतत् सत्यम्",
+        "h": "वह यह सत्य है",
+        "e": "that is this truth"
+      },
+      {
+        "s": "मन्त्रेषु",
+        "h": "मन्त्रों में (वेद-मन्त्रों में)",
+        "e": "in the mantras"
+      },
+      {
+        "s": "कर्माणि",
+        "h": "कर्म, यज्ञ-कर्म",
+        "e": "ritual actions"
+      },
+      {
         "s": "कवयः",
-        "h": "कवि / ऋषि / seers",
-        "e": "seers / sages"
+        "h": "कवि, ऋषि, द्रष्टा",
+        "e": "seers, sages"
+      },
+      {
+        "s": "यानि अपश्यन्",
+        "h": "जो (कर्मों को) उन्होंने देखा",
+        "e": "which they saw"
+      },
+      {
+        "s": "तानि",
+        "h": "वे (कर्म)",
+        "e": "those (rituals)"
       },
       {
         "s": "त्रेतायाम्",
-        "h": "त्रेता / तीन अग्नियों में",
-        "e": "in the Tretā"
+        "h": "त्रेता (तीन वैदिक अग्नियों) में",
+        "e": "in the Tretā (three Vedic fires)"
       },
       {
-        "s": "सन्ततानि",
-        "h": "फैलाए गए / spread out",
-        "e": "spread out / extended"
+        "s": "बहुधा सन्ततानि",
+        "h": "अनेक प्रकार से विस्तारित",
+        "e": "spread out in many ways"
+      },
+      {
+        "s": "तानि आचरथ",
+        "h": "उन्हें आचरण करो",
+        "e": "practise them"
+      },
+      {
+        "s": "नियतम्",
+        "h": "नियमपूर्वक, नियमित रूप से",
+        "e": "regularly, steadily"
       },
       {
         "s": "सत्यकामाः",
-        "h": "सत्य-प्रेमी / सत्य की कामना वाले / lovers of truth",
+        "h": "सत्य की कामना वाले, सत्य-प्रेमी",
         "e": "lovers of truth"
       },
       {
-        "s": "पन्थाः",
-        "h": "पन्थ / मार्ग / path",
-        "e": "path / way"
+        "s": "एषः वः पन्थाः",
+        "h": "यह तुम्हारा मार्ग है",
+        "e": "this is your path"
+      },
+      {
+        "s": "सुकृतस्य लोके",
+        "h": "पुण्य-लोक में, सुकर्म के लोक में",
+        "e": "in the world of good deeds"
       }
     ],
-    "gr": "<strong>The integration of karma-mārga within the larger framework</strong>: after the soaring meditation teachings (bow-and-arrow, OM, the heart-centre), this mantra returns to the ritual path (karma-mārga) — but now seen within its proper context. <strong>The apparent contradiction</strong>: the Muṇḍaka earlier critiqued rituals as 'leaky boats' (1.2.7). Now it says 'practise them' (ācaratha). This is not a contradiction — the critique was of rituals as <em>sole means</em> to liberation; here they are presented as a valid <em>path</em> (panthāḥ) to the 'world of good deeds' (sukṛtasya loke) — a worldly, not ultimate, goal. <strong>satya-kāmāḥ</strong> — 'lovers of truth': the address implies that the ritual path is for those who genuinely seek truth — not for the deluded (mūḍhāḥ) who mistake rituals for the ultimate (as in 1.2). <strong>kavayaḥ apaśyan</strong> — 'the seers saw': the rituals were not invented but <em>seen</em> (apaśyan) by the seers — they have cosmic authority.",
+    "gr": "<strong>व्याकरण:</strong> <em>मन्त्रेषु</em> — मन्त्र (√मन् + त्र), सप्तमी बहुवचन → 'मन्त्रों में'। <em>कर्माणि</em> — कर्मन् (√कृ + मनिन्), नपुं., द्वितीया बहुवचन → 'कर्मों को'। <em>कवयः</em> — कवि (√कु/√कव् = बुद्धिमान), पुल्लिंग, प्र. बहुवचन → 'कवि/ऋषि'; ऋषि ने कर्म 'आविष्कार' नहीं किए, 'देखे' (अपश्यन्) — अपौरुषेय सिद्धान्त। <em>अपश्यन्</em> — √दृश् (पश्यति), लङ् लकार (भूतकाल), प्रथम पुरुष, बहुवचन → 'उन्होंने देखा'। <em>त्रेतायाम्</em> — त्रेता (त्रि + इतच्, 'तीन का समूह'), सप्तमी एकवचन → 'तीन अग्नियों (गार्हपत्य, आहवनीय, दक्षिणाग्नि) में'। <em>सन्ततानि</em> — सम् + √तन् (फैलाना) + क्त → 'फैलाए गए, विस्तारित'; नपुं., प्र. बहुवचन। <em>आचरथ</em> — आ + √चर् (आचरण करना), लोट्, म.पु., बहुवचन → 'आचरण करो'। <em>सत्यकामाः</em> — सत्य + काम, बहुव्रीहि समास → 'जिनकी कामना सत्य है'; पुल्लिंग, प्र. बहुवचन; सम्बोधन। <em>पन्थाः</em> — पथिन् शब्द, पुल्लिंग, प्र. एकवचन → 'मार्ग'। <em>सुकृतस्य</em> — सु + कृत (सुकर्म), षष्ठी एकवचन → 'पुण्य/सुकर्म का'। <br><em>Eng:</em> kavayaḥ (nom. pl.) = 'seers' — they 'saw' (apaśyan, imperfect of √dṛś) the rituals, not invented them (apauruṣeya doctrine). tretāyām (loc. sg. of tretā) = 'in the three fires' (gārhapatya, āhavanīya, dakṣiṇāgni). santatāni (sam+√tan+kta) = 'spread out.' ācaratha (ā+√car, loṭ 2pl) = 'practise.' satya-kāmāḥ is a bahuvrīhi ('those whose desire is truth'). panthāḥ (nom. sg. of pathin) = 'path.'",
     "mt": "",
     "cm": {
       "advaita": {
@@ -529,7 +889,7 @@
     "dp": [
       {
         "q": "🔍 Reconciling the ritual critique (1.2) with the ritual endorsement (2.2.8)",
-        "a": "This mantra seems to <strong>contradict</strong> the Muṇḍaka's earlier harsh critique of ritual (1.2.7-10: 'leaky boats,' 'the blind leading the blind'). How to reconcile? <strong>The resolution</strong>: the critique in 1.2 was of rituals as the <em>sole means</em> to liberation — as if ritual performance alone could confer mokṣa. <em>That</em> is what the Muṇḍaka rejects. <strong>Here in 2.2.8</strong>: rituals are acknowledged as valid <em>within their sphere</em> — they lead to 'sukṛtasya loke' (the world of good deeds) — a reward, but not the ultimate reward. The rituals are not dismissed as useless; they are placed in their proper position within a hierarchy: (1) <em>Karma</em> (rituals) → leads to better births, heavenly worlds, merit — but these are exhaustible (kṣīṇa-loke, 1.2.9). (2) <em>Upāsanā</em> (meditation on OM, bow-and-arrow) → leads to gradual liberation (krama-mukti). (3) <em>Jñāna</em> (direct knowledge of Brahman) → leads to immediate liberation (sadyo-mukti / jīvan-mukti). <strong>The Muṇḍaka's balanced view</strong>: rituals are not <em>wrong</em> — they are <em>limited</em>. For 'lovers of truth' (satya-kāmāḥ), they are a valid starting point. The error is in treating the starting point as the destination."
+        "a": "यह मन्त्र पूर्व-खण्ड (१.२.७-१०) की कर्मकाण्ड-आलोचना के साथ स्पष्ट विरोधाभास प्रस्तुत करता है — वहाँ कर्मों को 'छिद्रित नौका' कहा, यहाँ 'आचरथ' (आचरण करो) कहा। समाधान: पूर्व आलोचना कर्म को एकमात्र मोक्ष-साधन मानने की थी; यहाँ कर्म अपने उचित क्षेत्र ('सुकृतस्य लोके' — पुण्य-लोक) में मान्य है — सीमित किन्तु वैध। कर्म → पुण्य-लोक (परन्तु क्षीणे पुण्ये मर्त्यलोकं विशन्ति); उपासना → क्रम-मुक्ति; ज्ञान → सद्यो-मुक्ति। 'कवयः अपश्यन्' — ऋषियों ने कर्म 'रचे' नहीं, 'देखे' — वे ब्रह्माण्डीय विधान (cosmic law) हैं, मानवीय आविष्कार नहीं। 'सत्यकामाः' सम्बोधन बताता है कि कर्म-मार्ग सच्चे जिज्ञासुओं के लिए है — मूढ़ों (१.२ के सन्दर्भ में) के लिए नहीं।<br><br><em>Eng:</em> This mantra seems to <strong>contradict</strong> the Muṇḍaka's earlier harsh critique of ritual (1.2.7-10: 'leaky boats,' 'the blind leading the blind'). How to reconcile? <strong>The resolution</strong>: the critique in 1.2 was of rituals as the <em>sole means</em> to liberation — as if ritual performance alone could confer mokṣa. <em>That</em> is what the Muṇḍaka rejects. <strong>Here in 2.2.8</strong>: rituals are acknowledged as valid <em>within their sphere</em> — they lead to 'sukṛtasya loke' (the world of good deeds) — a reward, but not the ultimate reward. The rituals are not dismissed as useless; they are placed in their proper position within a hierarchy: (1) <em>Karma</em> (rituals) → leads to better births, heavenly worlds, merit — but these are exhaustible (kṣīṇa-loke, 1.2.9). (2) <em>Upāsanā</em> (meditation on OM, bow-and-arrow) → leads to gradual liberation (krama-mukti). (3) <em>Jñāna</em> (direct knowledge of Brahman) → leads to immediate liberation (sadyo-mukti / jīvan-mukti). <strong>The Muṇḍaka's balanced view</strong>: rituals are not <em>wrong</em> — they are <em>limited</em>. For 'lovers of truth' (satya-kāmāḥ), they are a valid starting point. The error is in treating the starting point as the destination."
       },
       {
         "q": "🔍 The seers as 'viewers' of ritual — 'kavayaḥ apaśyan'",
@@ -545,32 +905,57 @@
     "en": "When (yadā) humans (mānavāḥ) will roll up (veṣṭayiṣyanti) space (ākāśam) like a hide (carma-vat) — then (tadā), without knowing (avijñāya) the Divine (devam), there will be (bhaviṣyati) an end (antaḥ) to suffering (duḥkhasya).",
     "ws": [
       {
+        "s": "यदा",
+        "h": "जब",
+        "e": "when"
+      },
+      {
         "s": "चर्मवत्",
-        "h": "चमड़े की तरह / like a leather hide",
-        "e": "like a hide"
+        "h": "चमड़े की तरह, चर्म के समान",
+        "e": "like a hide / leather"
       },
       {
         "s": "आकाशम्",
-        "h": "आकाश / space / ether",
-        "e": "space"
+        "h": "आकाश, अनन्त अवकाश",
+        "e": "space, sky"
       },
       {
         "s": "वेष्टयिष्यन्ति",
-        "h": "लपेटेंगे / will roll up",
+        "h": "लपेटेंगे, मोड़ लेंगे",
         "e": "will roll up"
       },
       {
+        "s": "मानवाः",
+        "h": "मनुष्य, मानव-जाति",
+        "e": "humans"
+      },
+      {
+        "s": "तदा",
+        "h": "तब",
+        "e": "then"
+      },
+      {
+        "s": "देवम्",
+        "h": "दिव्य पुरुष, परमात्मा",
+        "e": "the Divine, God"
+      },
+      {
         "s": "अविज्ञाय",
-        "h": "बिना जाने / बिना ज्ञान के / without knowing",
+        "h": "बिना जाने, ज्ञान के बिना",
         "e": "without knowing"
       },
       {
         "s": "दुःखस्य अन्तः",
         "h": "दुःख का अन्त",
         "e": "end of suffering"
+      },
+      {
+        "s": "भविष्यति",
+        "h": "होगा (भविष्यत्काल)",
+        "e": "will be"
       }
     ],
-    "gr": "<strong>The impossible condition — a reductio ad absurdum</strong>: this mantra uses a rhetorical impossibility to make an absolute claim. <strong>The structure</strong>: 'When X (impossible) happens, THEN Y (end of suffering without God-knowledge) will happen.' Since X can never happen (you cannot roll up infinite space like a leather hide), Y can also never happen. Therefore: <em>there is no end to suffering without knowing God</em>. <strong>The logic</strong>: (1) Rolling up space = impossible. (2) Ending suffering without knowing God = equally impossible. (3) Therefore: God-knowledge is the ONLY way to end suffering — there is no alternative path, no shortcut, no workaround. <strong>Why 'rolling up space'?</strong> Space (ākāśa) is the most pervading, most intangible, most unfoldable of all things. You cannot grasp it, contain it, or roll it up. The image is chosen for maximum impossibility — if someone asks 'can suffering end without knowing God?' the answer is: only when you can roll up the sky like a bedsheet. <strong>The Śvetāśvatara parallel</strong> (6.20): the Śvetāśvatara uses the same image but in a positive sense — 'only by knowing God does one transcend sorrow.'",
+    "gr": "<strong>व्याकरण:</strong> <em>यदा ... तदा</em> — सहसम्बन्धी अव्यय-युग्म (correlatives) → 'जब ... तब'। <em>चर्मवत्</em> — चर्मन् (चमड़ा) + वत् (उपमावाचक) → 'चमड़े की भाँति'; अव्यय। <em>आकाशम्</em> — आ + √काश् (प्रकाशित होना) → 'जो सर्वत्र व्याप्त हो'; नपुं., द्वितीया एकवचन (कर्म)। <em>वेष्टयिष्यन्ति</em> — √वेष्ट् (लपेटना) + णिच् + लृट् लकार (भविष्यत्काल), प्रथम पुरुष, बहुवचन → 'लपेटेंगे'। प्रेरणार्थक (causative) + भविष्यत्। <em>मानवाः</em> — मनु + अण् → 'मनु की सन्तान, मनुष्य'; पुल्लिंग, प्र. बहुवचन। <em>देवम्</em> — √दिव् (प्रकाशित होना / खेलना) + अच् → 'दीप्तिमान, दिव्य पुरुष'; द्वितीया एकवचन (कर्म)। <em>अविज्ञाय</em> — न + वि + √ज्ञा + ल्यप् → 'बिना जाने'; नञ्-पूर्वक पूर्वकालिक कृदन्त। <em>दुःखस्य</em> — दुःख, षष्ठी एकवचन → 'दुःख का'। <em>अन्तः</em> — पुल्लिंग, प्र. एकवचन → 'समाप्ति, अन्त'। <em>भविष्यति</em> — √भू, लृट् लकार (भविष्यत्), प्र.पु., एकवचन → 'होगा'। यह मन्त्र <em>असम्भव शर्त</em> (reductio ad absurdum) का अलंकार प्रयोग करता है — श्वेताश्वतर (६.२०) में भी यही श्लोक मिलता है। <br><em>Eng:</em> yadā…tadā is a correlative pair ('when…then'). carma-vat is an upamā-avyaya ('like a hide'). veṣṭayiṣyanti is causative future (√veṣṭ+ṇic+lṛṭ, 3pl) = 'will roll up.' mānavāḥ (manu+aṇ, nom. pl.) = 'humans.' avijñāya is a nañ-lyap gerund (a+vi+√jñā+lyap) = 'without knowing.' The mantra uses an impossible condition (rolling up space) to assert absolute necessity — suffering cannot end without knowing the Divine. Parallels Śvetāśvatara 6.20.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -595,7 +980,7 @@
     "dp": [
       {
         "q": "🔍 The impossible condition — rhetoric of absolute necessity",
-        "a": "The <strong>impossible condition</strong> ('when humans roll up space like a hide') is a powerful rhetorical device: <strong>How it works</strong>: the mantra states an impossible condition (rolling up space) and makes an impossible consequence depend on it (ending suffering without God-knowledge). Since the condition can never be met, the consequence can never occur. The logic is: 'suffering will end without knowing God when, and only when, space can be rolled up like a hide — i.e., NEVER.' <strong>Why this device?</strong> It conveys <em>absolute necessity</em>. Not 'knowing God is helpful for ending suffering' or 'knowing God is the best way to end suffering' but: <em>knowing God is the ONLY way to end suffering — period</em>. There is no alternative, no workaround, no exception. <strong>The image of 'rolling up space'</strong>: space (ākāśa) is the most pervading, most intangible, most uncontainable of all things. It cannot be grasped, folded, or wrapped. You might imagine rolling up earth (a map), or rolling up water (a scroll), but <em>space itself</em>? The impossibility is so extreme that it borders on the absurd — which is precisely the point. <strong>The practical takeaway</strong>: stop looking for alternatives. Stop hoping that enough merit, enough practice, enough worldly success will eventually end suffering. Only one thing ends suffering: knowing the Divine. Start there."
+        "a": "यह मन्त्र एक अद्भुत अलंकारिक युक्ति (rhetorical device) प्रयोग करता है — असम्भव शर्त (impossible condition)। 'जब मनुष्य आकाश को चमड़े की तरह लपेट लेंगे — तब बिना ईश्वर-ज्ञान के दुःख समाप्त होगा।' आकाश को लपेटना असम्भव है — अतः बिना ईश्वर-ज्ञान के दुःख-निवृत्ति भी उतनी ही असम्भव है। यह 'उपयोगी' या 'सर्वश्रेष्ठ' नहीं कहता — यह कहता है कि ईश्वर-ज्ञान एकमात्र (ONLY) उपाय है — कोई विकल्प नहीं, कोई shortcut नहीं। कर्म, तप, दान, शास्त्राध्ययन — कुछ भी ज्ञान का स्थानापन्न नहीं। 'आकाश' चुना गया क्योंकि वह सर्वाधिक व्यापक, अमूर्त, और अनियन्त्रणीय तत्त्व है — पृथ्वी मोड़ सकते हो (नक्शा), जल लपेट सकते हो (scroll), किन्तु आकाश स्वयं? यह असम्भवता की चरम सीमा है। श्वेताश्वतरोपनिषद् (६.२०) में भी यही मन्त्र है।<br><br><em>Eng:</em> The <strong>impossible condition</strong> ('when humans roll up space like a hide') is a powerful rhetorical device: <strong>How it works</strong>: the mantra states an impossible condition (rolling up space) and makes an impossible consequence depend on it (ending suffering without God-knowledge). Since the condition can never be met, the consequence can never occur. The logic is: 'suffering will end without knowing God when, and only when, space can be rolled up like a hide — i.e., NEVER.' <strong>Why this device?</strong> It conveys <em>absolute necessity</em>. Not 'knowing God is helpful for ending suffering' or 'knowing God is the best way to end suffering' but: <em>knowing God is the ONLY way to end suffering — period</em>. There is no alternative, no workaround, no exception. <strong>The image of 'rolling up space'</strong>: space (ākāśa) is the most pervading, most intangible, most uncontainable of all things. It cannot be grasped, folded, or wrapped. You might imagine rolling up earth (a map), or rolling up water (a scroll), but <em>space itself</em>? The impossibility is so extreme that it borders on the absurd — which is precisely the point. <strong>The practical takeaway</strong>: stop looking for alternatives. Stop hoping that enough merit, enough practice, enough worldly success will eventually end suffering. Only one thing ends suffering: knowing the Divine. Start there."
       },
       {
         "q": "🔍 The Śvetāśvatara parallel and the identity of 'deva'",
@@ -611,22 +996,72 @@
     "en": "By tapas (austerity/creative energy), Brahman is built up (cīyate); from that, food/matter (anna) is born (abhijāyate). From food [come] prāṇa (life-breath), manas (mind), truth (satya), the worlds (lokāḥ), and immortality in actions (karmasu amṛtam).",
     "ws": [
       {
+        "s": "तपसा",
+        "h": "तप से, तपस्या द्वारा",
+        "e": "by tapas / austerity"
+      },
+      {
         "s": "चीयते",
-        "h": "संचित होता है / accumulated / built up",
-        "e": "is built up / accumulated"
+        "h": "संचित होता है, निर्मित होता है",
+        "e": "is built up, accumulated"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / ब्रह्म-ज्ञान",
+        "e": "Brahman / Vedic reality"
+      },
+      {
+        "s": "ततः",
+        "h": "उससे, उसके बाद",
+        "e": "from that, thence"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न, भोजन, भौतिक पदार्थ",
+        "e": "food, matter"
       },
       {
         "s": "अभिजायते",
-        "h": "उत्पन्न होता है / is born",
-        "e": "is born / springs forth"
+        "h": "उत्पन्न होता है, प्रकट होता है",
+        "e": "is born, springs forth"
       },
       {
-        "s": "कर्मसु अमृतम्",
-        "h": "कर्मों में अमरत्व / immortality in works",
-        "e": "immortality in actions"
+        "s": "अन्नात्",
+        "h": "अन्न से",
+        "e": "from food/matter"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण, जीवन-शक्ति",
+        "e": "life-breath, prāṇa"
+      },
+      {
+        "s": "मनः",
+        "h": "मन",
+        "e": "mind"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य",
+        "e": "truth"
+      },
+      {
+        "s": "लोकाः",
+        "h": "लोक, संसार",
+        "e": "worlds"
+      },
+      {
+        "s": "कर्मसु च",
+        "h": "कर्मों में, और",
+        "e": "in actions, and"
+      },
+      {
+        "s": "अमृतम्",
+        "h": "अमृत, अमरत्व",
+        "e": "immortality"
       }
     ],
-    "gr": "<strong>The creation-sequence through tapas</strong>: this mantra traces a compact creation-sequence: tapas → Brahman → anna (food/matter) → prāṇa → manas → satya → lokāḥ → amṛta in karma. <strong>tapasā cīyate brahma</strong> — 'by tapas, Brahman is built up': the verb 'cīyate' (from √ci, to pile up) is the technical term for building the Vedic fire-altar (agni-cayana). The image is striking — Brahman is 'accumulated' or 'built up' through tapas, as a fire-altar is built brick by brick. This may mean: (1) Brahman's creative potential is activated through tapas, or (2) the aspirant's realisation of Brahman is 'built up' through sustained tapas. <strong>The descent from Brahman to matter to life to mind</strong>: Brahman → anna (matter/food) → prāṇa (life) → manas (mind) → satya (truth) → lokāḥ (worlds) → amṛta (immortality in karma). This is a compact version of the Taittirīya's pañcakośa (five-sheath) model. <strong>karmasu amṛtam</strong> — 'immortality in actions': even within the realm of karma (action), there is a dimension of immortality. Actions performed with knowledge and tapas carry an imperishable element — they are not merely finite deeds but expressions of the eternal.",
+    "gr": "<strong>व्याकरण:</strong> <em>तपसा</em> — तपस् (नपुं.), तृतीया एकवचन → 'तप से / तप के द्वारा'; करण कारक। <em>चीयते</em> — √चि (चयन करना / संचित करना), कर्मणि, लट् लकार → 'संचित किया जाता है / निर्मित होता है'। अग्निचयन (वैदिक अग्नि-वेदी-निर्माण) का पारिभाषिक शब्द — जैसे वेदी ईंट-ईंट जोड़कर बनती है, वैसे ही ब्रह्म-ज्ञान तप से क्रमशः 'चीयते'। <em>ततः</em> — तत् + तसिल् (अव्यय) → 'उससे'। <em>अन्नम्</em> — √अद् (खाना) + नम् → 'जो खाया जाए / पदार्थ'; नपुं., प्र. एक.। <em>अभिजायते</em> — अभि + √जन् + लट्, कर्मणि → 'उत्पन्न होता है'; अभि उपसर्ग = 'विशेष रूप से / सम्यक्'। <em>अन्नात्</em> — अन्न, पञ्चमी एकवचन → 'अन्न से'; अपादान कारक। सृष्टि-क्रम: तप → ब्रह्म → अन्न → प्राण → मन → सत्य → लोक → कर्म में अमृत। यह तैत्तिरीय के पञ्चकोश मॉडल का संक्षिप्त रूप है। <em>कर्मसु</em> — कर्मन्, सप्तमी बहुवचन → 'कर्मों में'। <em>अमृतम्</em> — न + मृत (√मृ + क्त) → 'अमर, अविनाशी'; नञ् तत्पुरुष; नपुं., प्र. एक.। <br><em>Eng:</em> cīyate (√ci, passive present) = 'is built up' — a technical term from the agni-cayana (fire-altar building), implying gradual accumulation. abhijāyate (abhi+√jan, passive) = 'springs forth.' The creation-sequence (tapas→brahma→anna→prāṇa→manas→satya→lokāḥ→amṛta) is a compact version of the Taittirīya's pañcakośa model. karmasu (loc. pl. of karman) = 'in actions.' amṛtam (a+mṛta, nañ-tatpuruṣa) = 'immortality.'",
     "mt": "",
     "cm": {
       "advaita": {
@@ -651,7 +1086,7 @@
     "dp": [
       {
         "q": "🔍 'Cīyate' — Brahman built like a fire-altar",
-        "a": "The verb <strong>'cīyate'</strong> (is built up / accumulated) comes from <strong>√ci</strong> — the same root used for the most elaborate of all Vedic rituals, the <strong>agni-cayana</strong> (fire-altar construction): <strong>The agni-cayana</strong>: this is a massive ritual in which a fire-altar is constructed in the shape of a bird (śyena) from 10,800 bricks, over the course of a year. Each brick is laid with specific mantras; the entire structure represents the universe, time, and the Self's flight to immortality. <strong>The metaphor</strong>: just as the fire-altar is 'built up' (cīyate) brick by brick, Brahman-knowledge is 'built up' through sustained tapas — discipline, study, meditation, practice. It is not a sudden flash but a gradual construction. <strong>The implication</strong>: spiritual realisation requires patient, persistent effort — like building an altar one brick at a time. Each meditation is a brick. Each act of discipline is a brick. Each insight is a brick. Over time, the altar rises — and the fire of knowledge blazes upon it. <strong>The Śatapatha Brāhmaṇa</strong> (10.2.3.1-5): describes the agni-cayana as a re-creation of the self — 'the sacrificer, having built up the fire-altar, builds up himself.' The altar IS the self. Building the altar IS building the self. Similarly: 'tapasā cīyate brahma' = through tapas, one builds up Brahman-realisation within oneself."
+        "a": "'चीयते' क्रिया (√चि = चयन/संचय) वैदिक अग्निचयन यज्ञ (fire-altar construction) का पारिभाषिक शब्द है — जिसमें शतपथ ब्राह्मण के अनुसार श्येन (गरुड) आकार की वेदी १०,८०० ईंटों से, एक वर्ष में, विशिष्ट मन्त्रों सहित निर्मित की जाती है। रूपक यह है: जैसे वेदी ईंट-ईंट जोड़कर बनती है, वैसे ही ब्रह्म-ज्ञान एक ही क्षण में नहीं — धीरज, अभ्यास, और सतत तप से क्रमशः 'चीयते' (built up) होता है। प्रत्येक ध्यान एक ईंट है, प्रत्येक अनुशासन एक ईंट, प्रत्येक अन्तर्दृष्टि एक ईंट। शतपथ ब्राह्मण (१०.२.३.१-५) कहता है: 'यजमान ने अग्नि-वेदी बनाकर स्वयं को बनाया' — वेदी = आत्मा; वेदी-निर्माण = आत्म-निर्माण। 'कर्मसु अमृतम्' — कर्मों के क्षेत्र में भी अमृत-अंश है; ज्ञान-युक्त कर्म क्षय नहीं होते, वे शाश्वत चेतना की अभिव्यक्ति हैं।<br><br><em>Eng:</em> The verb <strong>'cīyate'</strong> (is built up / accumulated) comes from <strong>√ci</strong> — the same root used for the most elaborate of all Vedic rituals, the <strong>agni-cayana</strong> (fire-altar construction): <strong>The agni-cayana</strong>: this is a massive ritual in which a fire-altar is constructed in the shape of a bird (śyena) from 10,800 bricks, over the course of a year. Each brick is laid with specific mantras; the entire structure represents the universe, time, and the Self's flight to immortality. <strong>The metaphor</strong>: just as the fire-altar is 'built up' (cīyate) brick by brick, Brahman-knowledge is 'built up' through sustained tapas — discipline, study, meditation, practice. It is not a sudden flash but a gradual construction. <strong>The implication</strong>: spiritual realisation requires patient, persistent effort — like building an altar one brick at a time. Each meditation is a brick. Each act of discipline is a brick. Each insight is a brick. Over time, the altar rises — and the fire of knowledge blazes upon it. <strong>The Śatapatha Brāhmaṇa</strong> (10.2.3.1-5): describes the agni-cayana as a re-creation of the self — 'the sacrificer, having built up the fire-altar, builds up himself.' The altar IS the self. Building the altar IS building the self. Similarly: 'tapasā cīyate brahma' = through tapas, one builds up Brahman-realisation within oneself."
       },
       {
         "q": "🔍 'Karmasu amṛtam' — immortality within action",
@@ -667,17 +1102,67 @@
     "en": "He who is omniscient (sarva-jña), all-knowing (sarva-vit), endowed with all glory (sarva-lakṣmī-maya) — He indeed is that [Brahman]. From Him are born this Brahman (the Vedic reality), name (nāma), form (rūpa), and food (anna). This is the truth (tat etat satyam).",
     "ws": [
       {
-        "s": "सर्वलक्ष्मीमयः",
-        "h": "सब ऐश्वर्य / लक्ष्मी / glory से युक्त",
-        "e": "endowed with all glory"
+        "s": "यः",
+        "h": "जो",
+        "e": "He who"
       },
       {
-        "s": "तदेतत्सत्यम्",
-        "h": "वह यह सत्य है",
-        "e": "this is the truth"
+        "s": "सर्वज्ञः",
+        "h": "सर्वज्ञ, सब-जानने वाला",
+        "e": "omniscient"
+      },
+      {
+        "s": "सर्ववित्",
+        "h": "सब कुछ का विशेष ज्ञाता",
+        "e": "all-knowing in detail"
+      },
+      {
+        "s": "सर्वलक्ष्मीमयः",
+        "h": "सब ऐश्वर्य/श्री/सौन्दर्य से पूर्ण",
+        "e": "endowed with all glory/splendour"
+      },
+      {
+        "s": "हि सः",
+        "h": "निश्चय ही वह",
+        "e": "indeed He"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "उससे",
+        "e": "from Him"
+      },
+      {
+        "s": "एतत् ब्रह्म",
+        "h": "यह ब्रह्मा / हिरण्यगर्भ",
+        "e": "this Brahman (Hiraṇyagarbha)"
+      },
+      {
+        "s": "नाम",
+        "h": "नाम (संज्ञा / पहचान)",
+        "e": "name"
+      },
+      {
+        "s": "रूपम्",
+        "h": "रूप (आकार / दृश्य स्वरूप)",
+        "e": "form"
+      },
+      {
+        "s": "अन्नम् च",
+        "h": "अन्न (भौतिक पदार्थ) और",
+        "e": "food/matter, and"
+      },
+      {
+        "s": "जायते",
+        "h": "उत्पन्न होता है",
+        "e": "is born"
+      },
+      {
+        "s": "तत् एतत् सत्यम्",
+        "h": "वह यह सत्य है (प्रमाणीकरण मुद्रा)",
+        "e": "this is the truth (seal of authentication)"
       }
     ],
-    "gr": "<strong>The closing seal of Khanda 2</strong>: this final mantra echoes and completes mantra 7, sealing the section with the solemn declaration 'tat etat satyam' — 'this is the truth.' <strong>The repetition from mantra 7</strong>: 'yaḥ sarva-jñaḥ sarva-vit' (He who is omniscient, all-knowing) — the phrase is repeated almost verbatim, creating a frame around the intervening mantras (8-10). This is a common Upanishadic structuring device — the same phrase opens and closes a section, enclosing the teachings within a frame of authority. <strong>sarva-lakṣmī-mayaḥ</strong> — 'endowed with all glory': this is a new attribute not in mantra 7. It adds to omniscience (sarva-jña) and omniscience of detail (sarva-vit) a third quality: <em>all-splendour</em> (sarva-lakṣmī). Brahman is not merely knowing but also glorious, beautiful, abundant. Lakṣmī here is not the goddess but the quality of divine splendour — all beauty, all prosperity, all excellence belongs to Brahman. <strong>tat etat satyam</strong> — 'this is the truth': the section closes with a formula of authentication — everything taught in this khanda (the bow-and-arrow meditation, OM, the heart-centre, the impossibility of liberation without God-knowledge, the creation through tapas) is declared to be <em>satyam</em> — truth. Not theory, not speculation, not opinion — truth.",
+    "gr": "<strong>व्याकरण:</strong> <em>सर्वलक्ष्मीमयः</em> — सर्व + लक्ष्मी + मयट् → 'सम्पूर्ण लक्ष्मी (ऐश्वर्य/श्री) से युक्त'; यह मन्त्र ७ में नहीं था — नया विशेषण। लक्ष्मी = देवी नहीं, गुण — श्री, सौन्दर्य, समृद्धि, तेज; ब्रह्म केवल ज्ञाता नहीं — सुन्दर, ऐश्वर्यवान्, गौरवशाली भी है। <em>हि</em> — अव्यय, 'निश्चय ही / क्योंकि'; बल-प्रदायक (emphatic)। <em>सः</em> — तत् (सर्वनाम), पुल्लिंग, प्र. एक. → 'वह'। <em>नाम</em> — नपुं., प्र. एक. → 'नाम'; मन्त्र ७ में 'नामरूपम्' (द्वन्द्व समास) था, यहाँ 'नाम' और 'रूपम्' पृथक् हैं — विस्तार (elaboration) के लिए। <em>रूपम्</em> — √रूप् + अच् → 'आकार, दृश्य स्वरूप'; नपुं., प्र. एक.। <em>तदेतत्सत्यम्</em> — तत् + एतत् + सत्यम् — खण्ड-समापन की प्रमाणीकरण मुद्रा (seal of authentication); 'यह जो कुछ कहा गया — वह सत्य है'; सत्यम् = केवल 'सत्य' नहीं — <em>पारमार्थिक सत्य</em> (ontological truth) — जो है, जो टल नहीं सकता, जो खण्डित नहीं हो सकता। यह मन्त्र ७ के साथ एक frame बनाता है — ७ और ११ समान वाक्यांश से आरम्भ ('यः सर्वज्ञः सर्ववित्'), बीच के मन्त्रों (८-१०) को अधिकार (authority) की चौखट में बन्द करता है। <br><em>Eng:</em> sarva-lakṣmī-mayaḥ (sarva+lakṣmī+mayaṭ) is new to this mantra (absent from M7) — adding aesthetic glory to omniscience. lakṣmī here = the quality of splendour, not the goddess. nāma and rūpam appear separately (M7 had the dvandva nāma-rūpam), expanding the triad to brahma + nāma + rūpa + anna. tat etat satyam is the khanda-closing authentication formula — 'this is the truth,' confirming everything taught in Khanda 2.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -702,7 +1187,7 @@
     "dp": [
       {
         "q": "🔍 'Sarva-lakṣmī-maya' — Brahman as all-glorious",
-        "a": "The attribute <strong>'sarva-lakṣmī-mayaḥ'</strong> ('endowed with all glory/splendour') adds an important dimension to the description of Brahman: <strong>What is lakṣmī here?</strong> Not the goddess Lakṣmī specifically, but the quality of <em>lakṣmī</em> — splendour, glory, beauty, prosperity, excellence. 'Sarva-lakṣmī-maya' means Brahman possesses ALL forms of excellence — every beauty, every splendour, every perfection in the universe. <strong>Why this matters</strong>: the Muṇḍaka has described Brahman as: (1) Omniscient (sarva-jña — knowing all in general). (2) All-knowing (sarva-vit — knowing every detail). (3) Now: All-glorious (sarva-lakṣmī-maya — possessing all beauty and excellence). This means Brahman is not merely a cosmic intelligence — cold, abstract, impersonal. Brahman is also <em>beautiful, magnificent, glorious</em>. The aesthetic dimension of reality is as divine as the intellectual dimension. <strong>The debate between schools</strong>: (1) <em>Advaita</em>: 'sarva-lakṣmī-maya' describes saguṇa Brahman (Īśvara) — Brahman in its creative, qualified aspect. Nirguṇa Brahman is beyond even glory. (2) <em>Viśiṣṭādvaita</em>: 'sarva-lakṣmī-maya' describes the REAL Brahman — Brahman IS all-glorious, and this glory is not a 'lower' aspect but Brahman's true nature. A Brahman without glory would be impoverished, not supreme. (3) <em>Sri Aurobindo</em>: 'sarva-lakṣmī-maya' = consciousness is inherently blissful and beautiful. Ānanda (bliss) and beauty are as fundamental as being (sat) and knowing (cit)."
+        "a": "'सर्वलक्ष्मीमयः' — यह विशेषण मन्त्र ७ में नहीं था; यह ब्रह्म के वर्णन में एक नया आयाम जोड़ता है। ब्रह्म केवल सर्वज्ञ (ज्ञान-सम्पन्न) नहीं — सर्वलक्ष्मीमय भी है अर्थात् सम्पूर्ण सौन्दर्य, ऐश्वर्य, तेज, और श्री उसी का है। यहाँ 'लक्ष्मी' देवी-विशेष नहीं — गुण है; ब्रह्माण्ड का प्रत्येक सौन्दर्य, प्रत्येक उत्कर्ष, प्रत्येक वैभव — ब्रह्म का ही अंश है। इसका दार्शनिक अभिप्राय गम्भीर है: सत्य (reality) केवल शुष्क, अमूर्त, निर्गुण बौद्धिक सत्ता नहीं — वह आनन्दमय, सुन्दर, और गौरवशाली भी है। सच्चिदानन्द में 'आनन्द' और 'चित्' अविभाज्य हैं। 'तदेतत्सत्यम्' — यह खण्ड-समापन की प्रमाणीकरण मुद्रा है; गुरु अपने उपदेश के सत्य पर अपना प्राधिकार लगाता है — जो कुछ कहा (धनुष-बाण, OM, हृदय-केन्द्र, देव-ज्ञान की अनिवार्यता, तप से सृष्टि) — वह मत (opinion) नहीं, सत्य (truth) है।<br><br><em>Eng:</em> The attribute <strong>'sarva-lakṣmī-mayaḥ'</strong> ('endowed with all glory/splendour') adds an important dimension to the description of Brahman: <strong>What is lakṣmī here?</strong> Not the goddess Lakṣmī specifically, but the quality of <em>lakṣmī</em> — splendour, glory, beauty, prosperity, excellence. 'Sarva-lakṣmī-maya' means Brahman possesses ALL forms of excellence — every beauty, every splendour, every perfection in the universe. <strong>Why this matters</strong>: the Muṇḍaka has described Brahman as: (1) Omniscient (sarva-jña — knowing all in general). (2) All-knowing (sarva-vit — knowing every detail). (3) Now: All-glorious (sarva-lakṣmī-maya — possessing all beauty and excellence). This means Brahman is not merely a cosmic intelligence — cold, abstract, impersonal. Brahman is also <em>beautiful, magnificent, glorious</em>. The aesthetic dimension of reality is as divine as the intellectual dimension. <strong>The debate between schools</strong>: (1) <em>Advaita</em>: 'sarva-lakṣmī-maya' describes saguṇa Brahman (Īśvara) — Brahman in its creative, qualified aspect. Nirguṇa Brahman is beyond even glory. (2) <em>Viśiṣṭādvaita</em>: 'sarva-lakṣmī-maya' describes the REAL Brahman — Brahman IS all-glorious, and this glory is not a 'lower' aspect but Brahman's true nature. A Brahman without glory would be impoverished, not supreme. (3) <em>Sri Aurobindo</em>: 'sarva-lakṣmī-maya' = consciousness is inherently blissful and beautiful. Ānanda (bliss) and beauty are as fundamental as being (sat) and knowing (cit)."
       },
       {
         "q": "🔍 'Tat etat satyam' — the seal of truth",
