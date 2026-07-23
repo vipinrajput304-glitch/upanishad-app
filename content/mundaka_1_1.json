@@ -9,7 +9,17 @@
       {
         "s": "ब्रह्मा",
         "h": "ब्रह्मा — चतुर्मुख सृष्टिकर्ता देव",
-        "e": "Brahmā"
+        "e": "Brahmā — the four-faced creator god"
+      },
+      {
+        "s": "देवानाम्",
+        "h": "देवताओं में / देवताओं का",
+        "e": "of/among the gods"
+      },
+      {
+        "s": "प्रथमः",
+        "h": "प्रथम / सबसे पहले",
+        "e": "the first"
       },
       {
         "s": "सम्बभूव",
@@ -17,8 +27,33 @@
         "e": "arose / came into being"
       },
       {
+        "s": "विश्वस्य",
+        "h": "विश्व का / सम्पूर्ण जगत् का",
+        "e": "of the universe"
+      },
+      {
+        "s": "कर्ता",
+        "h": "कर्ता / रचयिता / बनाने वाला",
+        "e": "the creator / maker"
+      },
+      {
+        "s": "भुवनस्य",
+        "h": "भुवन (लोक) का",
+        "e": "of the world"
+      },
+      {
+        "s": "गोप्ता",
+        "h": "गोप्ता / रक्षक / पालनकर्ता",
+        "e": "the protector / guardian"
+      },
+      {
+        "s": "सः",
+        "h": "उन्होंने / वह",
+        "e": "he"
+      },
+      {
         "s": "ब्रह्मविद्याम्",
-        "h": "ब्रह्मविद्या / ब्रह्म का ज्ञान",
+        "h": "ब्रह्मविद्या को / ब्रह्म के ज्ञान को",
         "e": "the knowledge of Brahman"
       },
       {
@@ -28,16 +63,21 @@
       },
       {
         "s": "अथर्वाय",
-        "h": "अथर्वा को / अथर्वन् को",
+        "h": "अथर्वा को / अथर्वन् ऋषि को",
         "e": "to Atharvā"
       },
       {
         "s": "ज्येष्ठपुत्राय",
         "h": "ज्येष्ठ (सबसे बड़े) पुत्र को",
         "e": "to the eldest son"
+      },
+      {
+        "s": "प्राह",
+        "h": "कहा / सिखाया / उपदेश दिया",
+        "e": "taught / told"
       }
     ],
-    "gr": "<strong>The knowledge-lineage (vidyā-paramparā)</strong>: the Muṇḍaka opens by establishing the chain of transmission — Brahmā → Atharvā. This is not merely a historical claim but a statement of <em>authority</em>: brahma-vidyā does not originate from human speculation but from the Creator himself. <strong>sarva-vidyā-pratiṣṭhā</strong> — 'the foundation of all knowledge': a bold claim. All other knowledge (science, grammar, ritual, etc.) rests upon brahma-vidyā, because Brahman is the ground of all reality. Know the ground, and you understand everything that stands upon it. <strong>brahmā devānāṁ prathamaḥ</strong> — 'Brahmā, the first among the gods': Brahmā (the created deity, masculine) is distinguished from Brahman (the Absolute, neuter). Brahmā is the first being to arise within creation; Brahman is the source from which creation arises. Even Brahmā needs to learn brahma-vidyā — he is not Brahman but the first knower of Brahman.",
+    "gr": "<strong>व्याकरण:</strong> 'ब्रह्मा देवानां प्रथमः सम्बभूव' — <em>सम्बभूव</em> = सम् + भू (लुङ् लकार, प्रथम पुरुष, एकवचन) — 'प्रकट हुए।' <em>प्रथमः</em> (विशेषण, प्रथमा विभक्ति) — 'प्रथम / सबसे पहले।' 'विश्वस्य कर्ता भुवनस्य गोप्ता' — <em>विश्वस्य</em> और <em>भुवनस्य</em> = षष्ठी विभक्ति — 'विश्व का' और 'भुवन (लोक) का।' <em>कर्ता</em> (√कृ + तृच्) = 'करने वाला / रचयिता'; <em>गोप्ता</em> (√गुप् + तृच्) = 'रक्षक / पालनकर्ता।' 'सर्वविद्याप्रतिष्ठाम्' — समास-विग्रह: सर्वासां विद्यानां प्रतिष्ठा = 'सब विद्याओं का आधार' — षष्ठी तत्पुरुष समास। 'अथर्वाय ज्येष्ठपुत्राय' — दोनों चतुर्थी विभक्ति — 'अथर्वा को, जो ज्येष्ठ पुत्र थे।' <em>प्राह</em> (√ब्रू, परोक्ष भूतकाल, प्र + आह) — 'कहा / उपदेश दिया।' <br><em>Eng:</em> <em>sambabhūva</em> = sam + √bhū (luṅ lakāra, 3rd person singular) — 'arose.' <em>kartā</em> (√kṛ + tṛc) = 'maker'; <em>goptā</em> (√gup + tṛc) = 'protector.' <em>sarva-vidyā-pratiṣṭhā</em> — ṣaṣṭhī-tatpuruṣa compound — 'the foundation of all knowledge.' <em>prāha</em> (pra + √brū, perfect) — 'taught.'",
     "mt": "",
     "cm": {
       "advaita": {
@@ -62,11 +102,11 @@
     "dp": [
       {
         "q": "🔍 The knowledge-lineage (vidyā-paramparā)",
-        "a": "The Muṇḍaka opens by establishing a <strong>lineage of transmission</strong> (vidyā-paramparā) for brahma-vidyā. This is not a historical footnote but a foundational claim about how sacred knowledge works: <strong>The chain</strong>: Brahmā → Atharvā → (mantras 1-2 will complete the chain to Aṅgiras). This lineage connects the Upanishad to the <em>beginning of creation</em> — the knowledge is as old as the universe itself. <strong>Why lineage matters</strong>: in the Vedic tradition, knowledge is not 'discovered' by individual genius but <em>received</em> (śruti = 'that which is heard') from a teacher who received it from their teacher, in an unbroken chain going back to the divine source. This makes the knowledge: (1) <em>Authoritative</em> — it doesn't come from human opinion but from the structure of reality itself. (2) <em>Tested</em> — it has been transmitted, practised, and verified across countless generations. (3) <em>Living</em> — it is not a dead text but a <em>living transmission</em> between teacher and student. <strong>Why Brahmā?</strong> Brahmā is the 'first knower' — the first conscious being in the cosmic cycle. If even Brahmā needed to <em>learn</em> brahma-vidyā (rather than possessing it innately), this implies that brahma-vidyā is not a property of any individual but a <em>discovery</em> of the universal structure — available to anyone who seeks it through the proper means. <strong>Parallel lineages</strong>: the Bṛhadāraṇyaka (2.6, 4.6, 6.5) contains extensive vaṁśa (lineage) lists. The Chāndogya (3.11.4) traces knowledge from Brahmā through Prajāpati. The Bhagavad Gītā (4.1-2) traces yoga-knowledge from Vivasvān (the Sun) through Manu and Ikṣvāku."
+        "a": "मुण्डक उपनिषद् का आरम्भ <strong>विद्या-परम्परा</strong> (knowledge-lineage) की स्थापना से होता है — ब्रह्मा → अथर्वा। यह केवल ऐतिहासिक तथ्य नहीं बल्कि <strong>अधिकार</strong> (authority) का कथन है — ब्रह्मविद्या मानवीय अनुमान (human speculation) से नहीं, स्वयं सृष्टिकर्ता से उत्पन्न होती है। <strong>क्यों परम्परा आवश्यक है?</strong> वैदिक परम्परा में ज्ञान 'आविष्कृत' नहीं होता — <em>श्रुति</em> ('सुना हुआ') के रूप में गुरु से शिष्य को प्राप्त होता है — एक अखण्ड श्रृंखला में। इससे ज्ञान: (1) <em>प्रामाणिक</em> — मानव-मत से नहीं, यथार्थ की संरचना से आता है; (2) <em>परीक्षित</em> — अनगिनत पीढ़ियों ने इसे अभ्यास और सत्यापित किया है; (3) <em>जीवन्त</em> — यह मृत पाठ नहीं, गुरु-शिष्य के बीच <em>जीवन्त संचरण</em> है। <strong>ब्रह्मा क्यों?</strong> ब्रह्मा 'प्रथम ज्ञाता' हैं — सृष्टि-चक्र का प्रथम चेतन प्राणी। यदि ब्रह्मा को भी ब्रह्मविद्या <em>सीखनी</em> पड़ी — तो यह सिद्ध होता है कि ब्रह्मविद्या किसी व्यक्ति की सम्पत्ति नहीं बल्कि सार्वभौमिक सत्य की <em>खोज</em> है — जो उचित साधन से किसी को भी उपलब्ध है।<br><br><em>Eng:</em> The Muṇḍaka opens by establishing a <strong>lineage of transmission</strong> (vidyā-paramparā): Brahmā → Atharvā. This is not a historical footnote but a claim of <em>authority</em>: brahma-vidyā originates from the Creator himself. In the Vedic tradition, knowledge is <em>received</em> (śruti = 'that which is heard') in an unbroken chain from teacher to student. This makes the knowledge: (1) <em>Authoritative</em> — from the structure of reality itself; (2) <em>Tested</em> — transmitted and verified across generations; (3) <em>Living</em> — a living transmission, not a dead text. If even Brahmā needed to <em>learn</em> brahma-vidyā, it implies this knowledge is a discovery of universal structure — available to anyone who seeks it properly."
       },
       {
         "q": "🔍 Why is brahma-vidyā called 'the foundation of all knowledge'?",
-        "a": "The compound <strong>sarva-vidyā-pratiṣṭhā</strong> ('the foundation of all knowledge') makes a sweeping claim: brahma-vidyā is not one knowledge among many but the <em>base</em> upon which all other knowledge rests. <strong>The logic</strong>: Brahman is the cause (kāraṇa) of everything that exists. All objects, all processes, all beings originate from Brahman. Therefore: (1) Knowledge of <em>any</em> object is ultimately knowledge of <em>Brahman-as-that-object</em>. (2) Physics, chemistry, biology, psychology — all study aspects of Brahman's manifestation. (3) Knowing Brahman directly is like knowing clay directly: once you know clay, you know all clay-pots, clay-cups, and clay-plates (Chāndogya 6.1.4-6). <strong>The Chāndogya analogy</strong>: Uddālaka tells Śvetaketu: 'By knowing one lump of clay, all clay-products are known — the modification is a name-word only, the reality is clay.' Similarly, by knowing Brahman, all modifications (the universe) are known — the modifications are nāma-rūpa (name and form) only, the reality is Brahman. <strong>Practical implication</strong>: this doesn't mean brahma-vidyā replaces physics or medicine. It means that brahma-vidyā provides the <em>framework</em> within which all other knowledge finds its meaning. A physicist studies the laws of nature; brahma-vidyā reveals <em>whose</em> nature those laws describe."
+        "a": "<strong>सर्वविद्याप्रतिष्ठा</strong> ('सब विद्याओं का आधार') — यह एक व्यापक दावा है: ब्रह्मविद्या अनेक विद्याओं में से एक नहीं, बल्कि वह <em>आधार</em> है जिस पर सब अन्य विद्याएँ टिकी हैं। <strong>तर्क:</strong> ब्रह्म सब अस्तित्व का कारण (kāraṇa) है। सब वस्तुएँ, प्रक्रियाएँ, प्राणी ब्रह्म से उत्पन्न हैं। अतः: (1) किसी भी वस्तु का ज्ञान अन्ततः <em>ब्रह्म-रूप-में-उस-वस्तु</em> का ज्ञान है; (2) भौतिकी, रसायन, जीवविज्ञान — सब ब्रह्म की अभिव्यक्ति के पहलुओं का अध्ययन करते हैं; (3) ब्रह्म को सीधे जानना — मिट्टी को जानने के समान है: मिट्टी जानो तो सब मिट्टी-पात्र ज्ञात (छान्दोग्य 6.1.4-6)। <strong>व्यावहारिक अर्थ:</strong> इसका यह अर्थ नहीं कि ब्रह्मविद्या भौतिकी या चिकित्सा का स्थान ले ले — बल्कि ब्रह्मविद्या वह <em>ढाँचा</em> प्रदान करती है जिसमें सब अन्य ज्ञान अपना अर्थ पाता है।<br><br><em>Eng:</em> The compound <strong>sarva-vidyā-pratiṣṭhā</strong> ('the foundation of all knowledge') makes a sweeping claim: brahma-vidyā is not one knowledge among many but the <em>base</em> upon which all other knowledge rests. Brahman is the cause (kāraṇa) of everything. Knowing Brahman directly is like knowing clay: once you know clay, you know all clay-products (Chāndogya 6.1.4-6). This doesn't mean brahma-vidyā replaces physics — it means it provides the <em>framework</em> within which all other knowledge finds its meaning."
       }
     ]
   },
@@ -78,18 +118,83 @@
     "en": "The brahma-vidyā that Brahmā taught to Atharvan — Atharvā in ancient times taught it to Aṅgir. He (Aṅgir) taught it to Satyavāha Bhāradvāja. Bhāradvāja taught to Aṅgiras the parāvarā (the higher and the lower knowledge).",
     "ws": [
       {
+        "s": "अथर्वणे",
+        "h": "अथर्वन् को / अथर्वा ऋषि को",
+        "e": "to Atharvan"
+      },
+      {
+        "s": "याम्",
+        "h": "जो (ब्रह्मविद्या) / जिसे",
+        "e": "which (brahma-vidyā)"
+      },
+      {
+        "s": "प्रवदेत",
+        "h": "कहा / प्रवचन किया (विधिलिङ्)",
+        "e": "taught / expounded"
+      },
+      {
+        "s": "ब्रह्मा",
+        "h": "ब्रह्मा ने / चतुर्मुख देव ने",
+        "e": "Brahmā"
+      },
+      {
+        "s": "अथर्वा",
+        "h": "अथर्वा ने",
+        "e": "Atharvā"
+      },
+      {
+        "s": "ताम्",
+        "h": "उसे / उस (विद्या) को",
+        "e": "that (knowledge)"
+      },
+      {
+        "s": "पुरा",
+        "h": "पूर्वकाल में / प्राचीन काल में",
+        "e": "in ancient times"
+      },
+      {
+        "s": "उवाच",
+        "h": "कहा / बताया (लिट् लकार)",
+        "e": "said / told"
+      },
+      {
         "s": "अङ्गिरे",
-        "h": "अंगिर / अंगिरस् ऋषि को",
+        "h": "अंगिर ऋषि को / अंगिरस् को",
         "e": "to Aṅgir"
       },
       {
-        "s": "सत्यवाहाय भारद्वाजाय",
-        "h": "सत्यवाह भारद्वाज को",
-        "e": "to Satyavāha Bhāradvāja"
+        "s": "ब्रह्मविद्याम्",
+        "h": "ब्रह्मविद्या को / ब्रह्म-ज्ञान को",
+        "e": "the knowledge of Brahman"
+      },
+      {
+        "s": "सः",
+        "h": "उन्होंने / वह (अंगिर ने)",
+        "e": "he (Aṅgir)"
+      },
+      {
+        "s": "भारद्वाजाय",
+        "h": "भारद्वाज को",
+        "e": "to Bhāradvāja"
+      },
+      {
+        "s": "सत्यवाहाय",
+        "h": "सत्यवाह (नाम) को",
+        "e": "to Satyavāha"
+      },
+      {
+        "s": "प्राह",
+        "h": "कहा / सिखाया",
+        "e": "taught / told"
+      },
+      {
+        "s": "भारद्वाजः",
+        "h": "भारद्वाज ने",
+        "e": "Bhāradvāja"
       },
       {
         "s": "अङ्गिरसे",
-        "h": "अंगिरस को / आंगिरस (अंगिर के वंशज) को",
+        "h": "अंगिरस को / आंगिरस (अंगिर-वंशज) को",
         "e": "to Aṅgiras"
       },
       {
@@ -98,7 +203,7 @@
         "e": "the higher and the lower (knowledge)"
       }
     ],
-    "gr": "<strong>The complete lineage</strong>: Brahmā → Atharvā → Aṅgir → Satyavāha Bhāradvāja → Aṅgiras. Five links in the chain, spanning from the Creator to the teacher of this Upanishad. <strong>parāvarām</strong> — 'the higher and the lower': a compound of <em>parā</em> (higher) and <em>avarā</em> (lower). This single word anticipates the central teaching of this section — the distinction between parā vidyā (higher knowledge = knowledge of Brahman) and aparā vidyā (lower knowledge = the Vedas and auxiliary sciences). The knowledge transmitted is <em>both</em> — the complete package. <strong>Two Aṅgirases</strong>: the chain mentions both 'Aṅgir' (the ancient ṛṣi, link 3) and 'Aṅgiras' (link 5, the teacher of Śaunaka). They may be the same person or, more likely, ancestor and descendant — the name 'Aṅgiras' meaning 'descendant of Aṅgir.'",
+    "gr": "<strong>व्याकरण:</strong> 'अथर्वणे यां प्रवदेत ब्रह्मा' — <em>अथर्वणे</em> = चतुर्थी विभक्ति, एकवचन — 'अथर्वन् को।' <em>याम्</em> = यद् सर्वनाम, द्वितीया विभक्ति, स्त्रीलिङ्ग (विद्या के लिए) — 'जिसे / जो (विद्या)।' <em>प्रवदेत</em> = प्र + √वद् (विधिलिङ् लकार) — 'कहा / सिखाया।' 'अथर्वा तां पुरोवाचाङ्गिरे' — <em>पुरा उवाच</em> = 'पूर्वकाल में कहा'; <em>उवाच</em> = √वच् (लिट् लकार, प्रथम पुरुष, एकवचन)। <em>अङ्गिरे</em> = चतुर्थी विभक्ति — 'अंगिर को।' 'परावराम्' — समास: परा च अवरा च = परावरा (द्वन्द्व समास) — 'उच्च और निम्न (दोनों विद्या)।' द्वितीया विभक्ति, स्त्रीलिङ्ग — 'परावरा (विद्या) को।' <strong>ज्ञान-परम्परा:</strong> ब्रह्मा → अथर्वा → अङ्गिर → सत्यवाह भारद्वाज → अङ्गिरस — पाँच कड़ियों की श्रृंखला।<br><em>Eng:</em> <em>atharvaṇe</em> = dative singular — 'to Atharvan.' <em>yām</em> = relative pronoun, accusative feminine (referring to vidyā). <em>uvāca</em> = √vac (liṭ, 3rd person singular) — 'said.' <em>parāvarām</em> = dvandva compound: parā + avarā = 'the higher and the lower.' The lineage: Brahmā → Atharvā → Aṅgir → Satyavāha Bhāradvāja → Aṅgiras.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -123,11 +228,11 @@
     "dp": [
       {
         "q": "🔍 The Atharvaveda connection",
-        "a": "The Muṇḍaka's lineage (Brahmā → <strong>Atharvā</strong> → <strong>Aṅgir</strong>) directly connects it to the <strong>Atharvaveda</strong>: <strong>Atharvā and Aṅgir</strong> are the two legendary founders of the Atharvaveda, which was originally called the <em>Atharva-Aṅgirasa Veda</em> — the Veda of Atharvan and Aṅgiras. By tracing its lineage through these two figures, the Muṇḍaka claims direct descent from the Atharvaveda's founding teachers. <strong>The Atharvaveda's unique position</strong>: the Atharvaveda is the fourth Veda — added after the original triad (Ṛg, Yajur, Sāma). It has a different character: while the three older Vedas focus on ritual (yajña), the Atharvaveda includes: (1) <em>Philosophical speculation</em> — many of its Upanishads (Muṇḍaka, Prashna, Māṇḍūkya) are among the most philosophical. (2) <em>Healing and protection</em> — hymns for curing diseases, warding off evil, and ensuring prosperity. (3) <em>Domestic life</em> — charms for love, childbirth, and household welfare. The Muṇḍaka represents the Atharvaveda's <em>philosophical</em> dimension — it is concerned not with rituals or charms but with the highest knowledge (brahma-vidyā). <strong>Three Atharvaveda Upanishads</strong>: Muṇḍaka, Prashna, and Māṇḍūkya all belong to the Atharvaveda. Together, they cover: Prashna = six questions on cosmology, physiology, and consciousness; Muṇḍaka = the two kinds of knowledge and the path to Brahman; Māṇḍūkya = OM and the four states of consciousness."
+        "a": "मुण्डक की परम्परा (ब्रह्मा → <strong>अथर्वा</strong> → <strong>अङ्गिर</strong>) इसे सीधे <strong>अथर्ववेद</strong> से जोड़ती है। <strong>अथर्वा और अङ्गिर</strong> अथर्ववेद के दो पौराणिक संस्थापक हैं — मूल नाम <em>अथर्व-आङ्गिरस वेद</em> था। अथर्ववेद की विशेष स्थिति: यह चौथा वेद है — मूल त्रयी (ऋक्, यजुः, साम) के बाद जोड़ा गया। इसका चरित्र भिन्न है: (1) <em>दार्शनिक चिन्तन</em> — मुण्डक, प्रश्न, माण्डूक्य जैसी गहन उपनिषदें; (2) <em>चिकित्सा और रक्षा</em> — रोग-निवारण, अनिष्ट-निवारण; (3) <em>गृहस्थ जीवन</em> — प्रेम, सन्तान, गृह-कल्याण। मुण्डक अथर्ववेद के <em>दार्शनिक</em> पक्ष का प्रतिनिधित्व करता है। <strong>तीन अथर्ववेद उपनिषदें:</strong> मुण्डक = दो विद्याएँ और ब्रह्म-पथ; प्रश्न = ब्रह्माण्ड, शरीर और चेतना पर छह प्रश्न; माण्डूक्य = ॐ और चेतना की चार अवस्थाएँ।<br><br><em>Eng:</em> The Muṇḍaka's lineage (Brahmā → Atharvā → Aṅgir) connects it directly to the <strong>Atharvaveda</strong>. Atharvā and Aṅgir are the two legendary founders — the Veda was originally called the Atharva-Aṅgirasa Veda. The Atharvaveda is unique among the four Vedas: it includes philosophical speculation, healing hymns, and domestic charms. The Muṇḍaka represents its philosophical dimension. Three Atharvaveda Upanishads: Muṇḍaka (two knowledges), Prashna (six questions), Māṇḍūkya (OM and four states)."
       },
       {
         "q": "🔍 What does 'parāvarā' (higher and lower) mean?",
-        "a": "The compound <strong>parāvarā</strong> (पर + अवर = higher + lower) anticipates the Muṇḍaka's central distinction (elaborated in mantras 4-5): <strong>Parā vidyā (higher knowledge)</strong>: the direct knowledge of <em>Brahman</em> — the Imperishable (akṣara), the source of all existence. This knowledge is not information <em>about</em> Brahman but the <em>direct realisation</em> of Brahman. It is what the Muṇḍaka will describe as 'that by which the akṣara is known' (yayā tad akṣaram adhigamyate). <strong>Aparā vidyā (lower knowledge)</strong>: all conventional learning — the four Vedas (Ṛg, Yajur, Sāma, Atharva) plus the six Vedāṅgas (phonetics, grammar, metre, etymology, astronomy, ritual procedure). Despite being sacred, this knowledge is called 'lower' because it deals with the <em>phenomenal world</em> — names, forms, rules — rather than with the <em>ground</em> of the phenomenal world. <strong>Why transmit both?</strong> Because aparā vidyā is the <em>preparation</em> for parā vidyā. You need to understand the rituals, the grammar, the cosmology — not because they are the goal but because they train the mind, purify the heart, and raise the right questions. The student who has mastered aparā vidyā eventually asks: 'Is there something beyond all this?' — and that question opens the door to parā vidyā. The complete teacher (like Aṅgiras) transmits <em>both</em> — the preparation and the goal."
+        "a": "'<strong>परावरा</strong>' (पर + अवर = उच्च + निम्न) मुण्डक के केन्द्रीय विभाजन (मन्त्र 4-5 में विस्तृत) की पूर्व-सूचना देता है: <strong>परा विद्या:</strong> <em>ब्रह्म</em> का प्रत्यक्ष ज्ञान — अक्षर (Imperishable) का साक्षात्कार। यह ब्रह्म <em>के बारे में</em> सूचना नहीं बल्कि ब्रह्म का <em>प्रत्यक्ष अनुभव</em> है। <strong>अपरा विद्या:</strong> सब पारम्परिक विद्याएँ — चारों वेद और छह वेदाङ्ग। पवित्र होते हुए भी 'अपर' (निम्न) कहलाती हैं — क्योंकि ये <em>व्यावहारिक संसार</em> (नाम, रूप, नियम) से सम्बन्धित हैं, न कि उसके <em>मूल</em> (ब्रह्म) से। <strong>दोनों क्यों?</strong> अपरा विद्या परा विद्या की <em>तैयारी</em> है — कर्मकाण्ड, व्याकरण, ब्रह्माण्ड-विज्ञान से मन प्रशिक्षित होता है और सही प्रश्न उठते हैं: 'क्या इन सबसे परे भी कुछ है?' — यही प्रश्न परा विद्या का द्वार खोलता है।<br><br><em>Eng:</em> The compound <strong>parāvarā</strong> (higher + lower) anticipates the Muṇḍaka's central distinction: <strong>Parā vidyā</strong> = direct realisation of Brahman (the Imperishable). <strong>Aparā vidyā</strong> = all conventional learning (four Vedas + six Vedāṅgas) — 'lower' not because wrong, but because it deals with the phenomenal world rather than its ground. Both are transmitted together because aparā is the preparation for parā — it trains the mind and raises the right questions."
       }
     ]
   },
@@ -141,7 +246,12 @@
       {
         "s": "शौनकः",
         "h": "शौनक — प्रश्नकर्ता शिष्य",
-        "e": "Śaunaka"
+        "e": "Śaunaka — the questioning student"
+      },
+      {
+        "s": "ह वै",
+        "h": "निश्चय ही / वास्तव में (अव्यय — कथा-शैली)",
+        "e": "indeed / verily (narrative particles)"
       },
       {
         "s": "महाशालः",
@@ -149,27 +259,67 @@
         "e": "a great householder"
       },
       {
+        "s": "अङ्गिरसम्",
+        "h": "अंगिरस (ऋषि) के पास / अंगिरस को",
+        "e": "to Aṅgiras (the sage)"
+      },
+      {
         "s": "विधिवत्",
-        "h": "विधि-पूर्वक / उचित रीति से",
+        "h": "विधि-पूर्वक / उचित रीति से / शास्त्रोक्त विधि से",
         "e": "according to proper procedure"
       },
       {
         "s": "उपसन्नः",
         "h": "पास आकर / शिष्य-भाव से उपस्थित होकर",
-        "e": "having approached"
+        "e": "having duly approached"
+      },
+      {
+        "s": "पप्रच्छ",
+        "h": "पूछा / प्रश्न किया (√प्रछ्, लिट् लकार)",
+        "e": "asked (perfect tense of √prach)"
+      },
+      {
+        "s": "कस्मिन्",
+        "h": "किसमें / किसके (सप्तमी विभक्ति)",
+        "e": "in what / in which"
+      },
+      {
+        "s": "नु",
+        "h": "(प्रश्नसूचक अव्यय — जिज्ञासा-बोधक)",
+        "e": "(interrogative particle — expressing curiosity)"
+      },
+      {
+        "s": "भगवः",
+        "h": "भगवन् / हे पूज्य (सम्बोधन)",
+        "e": "O Bhagavan / O revered one (vocative)"
       },
       {
         "s": "विज्ञाते",
-        "h": "जाने जाने पर / विज्ञात होने पर",
-        "e": "being known"
+        "h": "जाने जाने पर / विज्ञात होने पर (सप्तमी विभक्ति)",
+        "e": "being known (locative absolute)"
       },
       {
-        "s": "सर्वमिदम्",
+        "s": "सर्वम् इदम्",
         "h": "यह सब / सम्पूर्ण जगत्",
-        "e": "all this"
+        "e": "all this (the entire world)"
+      },
+      {
+        "s": "विज्ञातम्",
+        "h": "विज्ञात / ज्ञात / जाना हुआ",
+        "e": "known / understood"
+      },
+      {
+        "s": "भवति",
+        "h": "हो जाता है / होता है",
+        "e": "becomes"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा / इस प्रकार (उद्धरण-समापक)",
+        "e": "thus (end-quote marker)"
       }
     ],
-    "gr": "<strong>The great question</strong>: 'kasmin vijñāte sarvam idaṁ vijñātaṁ bhavati' — 'What is that, knowing which, all this becomes known?' This is one of the most important questions in the Upanishads. It asks: <em>is there a single knowledge that contains all knowledge?</em> Is there a master-principle whose understanding illuminates everything else? <strong>mahā-śāla</strong> — 'great householder': Śaunaka is not a wandering ascetic but a prosperous householder — showing that the quest for ultimate knowledge is not restricted to renunciants. Anyone, regardless of social status, can ask the great question. <strong>vidhivat upasannaḥ</strong> — 'having duly approached': the word <em>upasannaḥ</em> (sitting near) is etymologically related to <em>upaniṣad</em> (the teaching received by sitting near the teacher). Śaunaka followed the proper procedure — approaching with humility, reverence, and genuine desire to learn. <strong>The question's structure</strong>: it presupposes that such a thing exists — a single knowledge that makes 'all this' known. The answer (mantras 4-6) will be: yes — it is brahma-vidyā, the knowledge of the Imperishable (akṣara).",
+    "gr": "<strong>व्याकरण:</strong> 'शौनको ह वै महाशालः' — <em>शौनकः</em> = प्रथमा विभक्ति, एकवचन, पुल्लिङ्ग — 'शौनक (ने)।' <em>ह वै</em> = कथा-शैली के अव्यय — 'निश्चय ही / वास्तव में।' <em>महाशालः</em> = बहुव्रीहि समास: महती शाला यस्य = 'जिसकी बड़ी शाला (गृह) है' — 'महान गृहपति।' 'अङ्गिरसं विधिवदुपसन्नः' — <em>अङ्गिरसम्</em> = द्वितीया विभक्ति — 'अंगिरस के पास।' <em>विधिवत्</em> = विधि + वत् (अव्यय) — 'विधि-पूर्वक।' <em>उपसन्नः</em> = उप + √सद् (क्त-प्रत्यय) — 'पास बैठकर / उपस्थित होकर' — <em>उपनिषद्</em> शब्द का मूल भी यही है। 'कस्मिन्नु भगवो विज्ञाते' — <em>कस्मिन्</em> = किम् सर्वनाम, सप्तमी विभक्ति — 'किसमें।' <em>विज्ञाते</em> = वि + √ज्ञा (सप्तमी, सति-सप्तमी / locative absolute) — 'जाने जाने पर।' यह <strong>महाप्रश्न</strong> है — 'किसके ज्ञात होने पर सब कुछ ज्ञात हो जाता है?'<br><em>Eng:</em> <em>śaunakaḥ</em> = nominative singular. <em>mahā-śālaḥ</em> = bahuvrīhi compound: 'one who has a great hall.' <em>upasannaḥ</em> = upa + √sad (kta) — 'having sat near' — etymologically related to 'upaniṣad.' <em>kasmin vijñāte</em> = locative absolute — 'when what is known.' This is the great question: 'knowing which, all this becomes known?'",
     "mt": "",
     "cm": {
       "advaita": {
@@ -194,11 +344,11 @@
     "dp": [
       {
         "q": "🔍 The great question: 'knowing which, all is known'",
-        "a": "Śaunaka's question — <strong>'kasmin vijñāte sarvam idaṁ vijñātaṁ bhavati?'</strong> — is the defining question of the Muṇḍaka Upanishad and one of the most important in all of Indian philosophy: <strong>What it asks</strong>: is there a single piece of knowledge that, once acquired, makes <em>all</em> knowledge accessible? Is there a master-key that opens every lock? <strong>Why it's profound</strong>: the question assumes that reality has a <em>structure</em> — that the multiplicity of things (trees, rivers, stars, thoughts, emotions) is not a random collection but an <em>expression</em> of a single underlying principle. If you can know that principle, you know the logic behind everything. <strong>The clay-pot analogy</strong>: the Chāndogya (6.1.4) provides the model: 'By knowing one lump of clay, all things made of clay are known. The modification is a word-name only; the reality is clay.' If Brahman is the 'clay' and the universe is the 'pot,' then knowing Brahman = knowing the universe. <strong>Parallel formulations</strong>: (1) <em>Chāndogya 6.1.3</em>: 'Have you asked for that instruction by which what has not been heard becomes heard, what has not been thought becomes thought, what has not been known becomes known?' (2) <em>Bṛhadāraṇyaka 2.4.5</em>: 'Indeed, it is not for the sake of the husband that the husband is dear, but for the sake of the Self... the Self is to be seen, heard, reflected upon, and meditated upon. By knowing the Self, all this is known.' <strong>The answer</strong> (coming in mantras 4-6): the knowledge that makes all known is <em>parā vidyā</em> — the direct knowledge of the Imperishable (akṣara Brahman)."
+        "a": "शौनक का प्रश्न — <strong>'कस्मिन् विज्ञाते सर्वम् इदं विज्ञातं भवति?'</strong> — मुण्डक उपनिषद् का परिभाषित प्रश्न है और भारतीय दर्शन के सबसे महत्त्वपूर्ण प्रश्नों में से एक: <strong>यह क्या पूछता है:</strong> क्या कोई एक ज्ञान ऐसा है जिसे प्राप्त करने पर <em>सब</em> ज्ञान सुलभ हो जाता है? क्या कोई एक कुंजी (master-key) है जो सब ताले खोल दे? <strong>क्यों गहन है:</strong> प्रश्न यह मानता है कि यथार्थ (reality) की एक <em>संरचना</em> है — वस्तुओं की अनेकता (वृक्ष, नदी, तारे, विचार) यादृच्छिक संग्रह नहीं बल्कि एक मूलभूत सिद्धान्त की <em>अभिव्यक्ति</em> है। <strong>मृत्तिका-घट दृष्टान्त:</strong> छान्दोग्य (6.1.4) प्रतिमान देता है — 'एक मृत्तिका-पिण्ड जानने से सब मृत्तिका-विकार ज्ञात — विकार केवल वाचारम्भण (नाम मात्र), मृत्तिका ही सत्य है।' <strong>उत्तर</strong> (मन्त्र 4-6 में): वह ज्ञान जिससे सब ज्ञात = <em>परा विद्या</em> — अक्षर ब्रह्म का प्रत्यक्ष ज्ञान।<br><br><em>Eng:</em> Śaunaka's question — <strong>'kasmin vijñāte sarvam idaṁ vijñātaṁ bhavati?'</strong> — is the defining question of the Muṇḍaka. It asks: is there a single knowledge that, once acquired, makes all knowledge accessible? The question assumes reality has a structure — the multiplicity of things is an expression of a single underlying principle. The clay-pot analogy (Chāndogya 6.1.4) provides the model. The answer (mantras 4-6): parā vidyā — direct knowledge of the Imperishable (akṣara Brahman)."
       },
       {
         "q": "🔍 Why is Śaunaka called 'mahā-śāla' (great householder)?",
-        "a": "The designation <strong>mahā-śāla</strong> (great householder) for Śaunaka is significant: <strong>Meaning</strong>: mahā-śāla = 'one who has a great hall (śālā)' — a wealthy, established householder with a large household, social standing, and worldly success. He is not a renunciant (sannyāsin), not a wandering monk, not an ascetic living in a forest. <strong>Why it matters</strong>: the Muṇḍaka is demonstrating that the quest for brahma-vidyā is <em>not restricted to renunciants</em>. A householder — someone engaged in the world, with family, property, and social obligations — can and should seek the highest knowledge. This is a recurring Upanishadic theme: (1) <em>Janaka</em> (Bṛhadāraṇyaka): the king of Videha, a philosopher-householder who debated the greatest sages. (2) <em>Satyakāma Jābāla</em> (Chāndogya): a boy of uncertain parentage who sought knowledge purely through truth and integrity. (3) <em>The six seekers of the Prashna</em>: householders who approached Pippalāda. <strong>The later tradition's tension</strong>: later Vedāntic tradition debated whether liberation (mokṣa) requires renunciation (sannyāsa) or can be achieved by householders (gṛhasthas). Shankara leaned toward renunciation as the ideal; Rāmānuja was more open to the householder path. The Muṇḍaka's 'mahā-śāla' is evidence that the Upanishadic tradition itself did not restrict brahma-vidyā to any one life-stage (āśrama)."
+        "a": "<strong>महाशाल</strong> (महान गृहपति) — शौनक के लिए यह उपाधि सार्थक है: <strong>अर्थ:</strong> महा-शाल = 'जिसकी बड़ी शाला (गृह) है' — सम्पन्न, प्रतिष्ठित गृहस्थ। वे संन्यासी नहीं, परिव्राजक नहीं, वन-निवासी तपस्वी नहीं। <strong>महत्त्व:</strong> मुण्डक यह दिखाता है कि ब्रह्मविद्या की खोज <em>केवल संन्यासियों तक सीमित नहीं</em>। गृहस्थ — संसार में रत, परिवार-सम्पत्ति-सामाजिक दायित्वों वाला व्यक्ति — भी परम ज्ञान की खोज कर सकता है और करनी चाहिए। उपनिषदों में यह विषय बार-बार आता है: (1) <em>जनक</em> (बृहदारण्यक) — विदेह के राजा, दार्शनिक-गृहस्थ; (2) <em>सत्यकाम जाबाल</em> (छान्दोग्य) — सत्य और निष्ठा से ज्ञान-प्राप्त; (3) <em>प्रश्न उपनिषद् के छह शिष्य</em> — गृहस्थ जो पिप्पलाद के पास आए।<br><br><em>Eng:</em> <strong>Mahā-śāla</strong> (great householder) — Śaunaka is a wealthy, established householder, not a renunciant. The Muṇḍaka demonstrates that the quest for brahma-vidyā is not restricted to renunciants. This is a recurring Upanishadic theme: Janaka (Bṛhadāraṇyaka), Satyakāma Jābāla (Chāndogya), the six seekers of the Prashna — all householders who sought the highest knowledge."
       }
     ]
   },
@@ -210,14 +360,49 @@
     "en": "To him he (Aṅgiras) said: 'Two kinds of knowledge (vidye) are to be known (veditavye) — so say the knowers of Brahman (brahma-vidaḥ) — the higher (parā) and the lower (aparā).'",
     "ws": [
       {
+        "s": "तस्मै",
+        "h": "उनसे / उनके लिए (शौनक को)",
+        "e": "to him (to Śaunaka)"
+      },
+      {
+        "s": "सः",
+        "h": "उन्होंने / वह (अंगिरस ने)",
+        "e": "he (Aṅgiras)"
+      },
+      {
+        "s": "ह",
+        "h": "(कथा-शैली का अव्यय — निश्चयवाचक)",
+        "e": "(narrative particle — emphatic)"
+      },
+      {
+        "s": "उवाच",
+        "h": "कहा / बोला (√वच्, लिट् लकार)",
+        "e": "said (perfect of √vac)"
+      },
+      {
         "s": "द्वे विद्ये",
         "h": "दो विद्याएँ / दो प्रकार के ज्ञान",
         "e": "two kinds of knowledge"
       },
       {
         "s": "वेदितव्ये",
-        "h": "जानने योग्य / ज्ञातव्य",
-        "e": "to be known"
+        "h": "जानने योग्य / ज्ञातव्य (कृत्य-प्रत्यय, द्विवचन)",
+        "e": "to be known (gerundive, dual)"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा / इस प्रकार",
+        "e": "thus / so"
+      },
+      {
+        "s": "ह स्म",
+        "h": "(कथा-शैली के अव्यय — 'ऐसा कहा जाता है')",
+        "e": "(narrative particles — 'so it is said')"
+      },
+      {
+        "s": "यत्",
+        "h": "जो / जैसा कि",
+        "e": "that which / as"
       },
       {
         "s": "ब्रह्मविदः",
@@ -225,17 +410,32 @@
         "e": "the knowers of Brahman"
       },
       {
+        "s": "वदन्ति",
+        "h": "कहते हैं / बताते हैं",
+        "e": "say / declare"
+      },
+      {
         "s": "परा",
-        "h": "परा / उच्चतर / श्रेष्ठ",
-        "e": "the higher"
+        "h": "परा / उच्चतर / श्रेष्ठ (विद्या)",
+        "e": "the higher (knowledge)"
+      },
+      {
+        "s": "च एव",
+        "h": "और / भी / ही",
+        "e": "and / indeed"
       },
       {
         "s": "अपरा",
-        "h": "अपरा / निम्नतर / व्यावहारिक",
-        "e": "the lower"
+        "h": "अपरा / निम्नतर / व्यावहारिक (विद्या)",
+        "e": "the lower (knowledge)"
+      },
+      {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
       }
     ],
-    "gr": "<strong>The parā/aparā distinction</strong>: Aṅgiras begins his answer with a bold classification — all knowledge falls into two categories: <em>parā</em> (higher) and <em>aparā</em> (lower). This is the Muṇḍaka's signature contribution to Vedāntic thought. <strong>dve vidye veditavye</strong> — 'two knowledges are to be known': note that <em>both</em> must be known (veditavye is dual, matching dve). The Upanishad does not say 'abandon the lower and seek only the higher.' Both have their place. The lower prepares; the higher liberates. <strong>brahma-vidaḥ vadanti</strong> — 'the knowers of Brahman say': the authority for this classification comes not from scripture or logic but from <em>those who have directly experienced Brahman</em>. They are qualified to distinguish the two kinds of knowledge because they have traversed both. <strong>The next mantra will enumerate</strong> what falls under 'aparā' — and the answer will be shocking: the four Vedas themselves are classified as 'lower knowledge.'",
+    "gr": "<strong>व्याकरण:</strong> 'तस्मै स होवाच' — <em>तस्मै</em> = तद् सर्वनाम, चतुर्थी विभक्ति — 'उसे / उसके लिए।' <em>सः</em> = प्रथमा विभक्ति — 'उन्होंने (अंगिरस ने)।' <em>ह उवाच</em> = 'कहा (निश्चय ही)'; <em>उवाच</em> = √वच् (लिट् लकार, प्रथम पुरुष)। 'द्वे विद्ये वेदितव्ये' — <em>द्वे</em> = द्वि (संख्यावाचक), प्रथमा विभक्ति, द्विवचन, स्त्रीलिङ्ग; <em>विद्ये</em> = विद्या, प्रथमा विभक्ति, द्विवचन — 'दो विद्याएँ।' <em>वेदितव्ये</em> = √विद् + तव्य (कृत्य-प्रत्यय / gerundive), द्विवचन — 'जानने योग्य' — ध्यान दें कि <em>दोनों</em> जानने योग्य हैं। 'ब्रह्मविदो वदन्ति' — <em>ब्रह्मविदः</em> = ब्रह्मन् + विद् (षष्ठी तत्पुरुष), प्रथमा विभक्ति, बहुवचन — 'ब्रह्मज्ञानी (लोग)।' <em>वदन्ति</em> = √वद् (लट् लकार, प्रथम पुरुष, बहुवचन) — 'कहते हैं।' 'परा च एव अपरा च' — द्वन्द्व-शैली — 'परा और अपरा (दोनों)।'<br><em>Eng:</em> <em>dve vidye</em> = dual nominative feminine — 'two knowledges.' <em>veditavye</em> = gerundive (√vid + tavya), dual — 'to be known' — note both must be known. <em>brahma-vidaḥ</em> = ṣaṣṭhī-tatpuruṣa compound, nominative plural — 'knowers of Brahman.' <em>parā ca eva aparā ca</em> — dvandva-style enumeration.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -260,11 +460,11 @@
     "dp": [
       {
         "q": "🔍 The parā/aparā distinction — the Muṇḍaka's central teaching",
-        "a": "The distinction between <strong>parā vidyā</strong> (higher knowledge) and <strong>aparā vidyā</strong> (lower knowledge) is the <strong>signature contribution</strong> of the Muṇḍaka Upanishad to Indian philosophy: <strong>What makes this distinction revolutionary?</strong> It classifies the <em>Vedas themselves</em> — the most sacred texts in the Hindu tradition — as <em>lower knowledge</em>. This is not disrespectful but <em>perspectival</em>: the Vedas are 'lower' not because they are wrong but because they deal with the <em>phenomenal world</em> (creation, rituals, duties) rather than with the <em>ground</em> of the phenomenal world (Brahman). <strong>The logic</strong>: (1) All conventional knowledge (aparā) deals with <em>objects</em> — things that can be named, described, and categorised. (2) Brahman is not an object — it is the <em>subject</em>, the knower, the ground of all objects. (3) Therefore, Brahman cannot be known by any knowledge that deals with objects. A different kind of knowledge (parā) is needed — not information <em>about</em> Brahman but the <em>direct realisation</em> of Brahman. <strong>Both are necessary</strong>: the Upanishad says 'dve vidye <em>veditavye</em>' — both <em>must</em> be known. Aparā is the preparation; parā is the goal. You cannot skip the preparation (as the next mantra makes clear, aparā includes the Vedas — the very texts that contain the Upanishads). But you must not stop at the preparation."
+        "a": "<strong>परा/अपरा विद्या</strong> का विभाजन मुण्डक उपनिषद् का <strong>केन्द्रीय योगदान</strong> है: <strong>क्या क्रान्तिकारी है?</strong> यह <em>वेदों</em> को — हिन्दू परम्परा के सबसे पवित्र ग्रन्थों को — <em>अपर विद्या</em> (निम्न ज्ञान) में रखता है। यह अनादर नहीं बल्कि <em>दृष्टिकोणिक</em> है: वेद 'निम्न' इसलिए नहीं कि गलत हैं, बल्कि इसलिए कि वे <em>व्यावहारिक संसार</em> (सृष्टि, कर्मकाण्ड, कर्तव्य) से सम्बन्धित हैं — न कि संसार के <em>मूल</em> (ब्रह्म) से। <strong>तर्क:</strong> (1) सब पारम्परिक ज्ञान (अपरा) <em>विषयों</em> (objects) से सम्बन्धित है; (2) ब्रह्म विषय (object) नहीं — <em>विषयी</em> (subject / ज्ञाता) है; (3) अतः ब्रह्म विषय-सम्बन्धी ज्ञान से नहीं जाना जा सकता — एक भिन्न प्रकार का ज्ञान (परा) चाहिए। <strong>दोनों आवश्यक:</strong> 'द्वे विद्ये <em>वेदितव्ये</em>' — दोनों जानने योग्य हैं। अपरा = तैयारी; परा = लक्ष्य। तैयारी छोड़ नहीं सकते, पर तैयारी पर रुक भी नहीं सकते।<br><br><em>Eng:</em> The parā/aparā distinction is the Muṇḍaka's signature contribution. It classifies the Vedas themselves as 'lower knowledge' — not because they're wrong but because they deal with the phenomenal world rather than with Brahman (the ground). Both must be known: aparā is the preparation, parā is the goal. You can't skip the preparation, but you mustn't stop at it."
       },
       {
         "q": "🔍 Why do the 'knowers of Brahman' (brahma-vidaḥ) make this distinction?",
-        "a": "The text says <strong>brahma-vidaḥ vadanti</strong> — 'the knowers of Brahman say' this. The authority for the parā/aparā distinction comes not from scripture or logical argument but from <strong>those who have directly experienced Brahman</strong>: <strong>Why their testimony matters</strong>: only someone who has <em>been</em> to the far shore can tell you that the near shore is 'lower' and the far shore is 'higher.' Someone standing on the near shore can't make this distinction — they don't know what the far shore looks like. The brahma-vid (knower of Brahman) has traversed <em>both</em> domains — he has mastered aparā vidyā (the Vedas, grammar, etc.) and then gone beyond it to parā vidyā (direct Brahman-realisation). From that vantage point, he can see the relationship between the two. <strong>The qualification</strong>: this is not a claim that aparā vidyā is useless — the brahma-vid himself went through it. It is a claim that aparā vidyā is <em>insufficient by itself</em>. A ladder is essential for reaching the roof, but once on the roof, you don't need the ladder. The brahma-vid is on the roof; he can see both the ladder (aparā) and the view (parā). <strong>The implication for the student</strong>: don't reject the Vedas — study them. But don't stop there. The Vedas themselves point beyond themselves to the akṣara (Imperishable) that no Veda can capture in words."
+        "a": "'<strong>ब्रह्मविदो वदन्ति</strong>' — 'ब्रह्मज्ञानी कहते हैं' — इस विभाजन का प्रमाण शास्त्र या तर्क से नहीं, बल्कि <strong>ब्रह्म का प्रत्यक्ष अनुभव करने वालों</strong> से आता है। <strong>उनकी गवाही क्यों मान्य है:</strong> केवल वही जो 'उस पार' जा चुका है, बता सकता है कि 'इस पार' 'निम्न' है और 'उस पार' 'उच्च' है। ब्रह्मवित् ने <em>दोनों</em> क्षेत्रों को पार किया है — अपरा विद्या (वेद, व्याकरण आदि) में पारंगत होकर, फिर उससे आगे परा विद्या (ब्रह्म-साक्षात्कार) तक पहुँचकर। उस ऊँचाई से वे दोनों के सम्बन्ध को देख सकते हैं। <strong>शिष्य के लिए सन्देश:</strong> वेदों को त्यागो नहीं — अध्ययन करो। पर वहीं मत रुको। वेद स्वयं अपने से परे उस <em>अक्षर</em> की ओर संकेत करते हैं जिसे कोई वेद शब्दों में बन्द नहीं कर सकता।<br><br><em>Eng:</em> 'Brahma-vidaḥ vadanti' — the authority comes from those who have directly experienced Brahman. Only someone who has traversed both domains can make this distinction. The brahma-vid mastered aparā vidyā and then went beyond it to parā vidyā. The message: don't reject the Vedas — study them. But don't stop there. The Vedas themselves point beyond themselves to the akṣara."
       }
     ]
   },
@@ -276,14 +476,44 @@
     "en": "Of these, the lower (aparā) is: the Ṛg Veda, the Yajur Veda, the Sāma Veda, the Atharva Veda, phonetics (śikṣā), ritual procedure (kalpa), grammar (vyākaraṇa), etymology (nirukta), metre (chandas), and astronomy (jyotiṣa). And the higher (parā) is that by which the Imperishable (akṣara) is attained (adhigamyate).",
     "ws": [
       {
+        "s": "तत्र",
+        "h": "उनमें / उन दोनों में",
+        "e": "of these (two knowledges)"
+      },
+      {
+        "s": "अपरा",
+        "h": "अपरा (निम्न विद्या) — यह है:",
+        "e": "the lower (knowledge) — is:"
+      },
+      {
+        "s": "ऋग्वेदः",
+        "h": "ऋग्वेद / ऋक्-संहिता",
+        "e": "the Ṛg Veda"
+      },
+      {
+        "s": "यजुर्वेदः",
+        "h": "यजुर्वेद / यजुः-संहिता",
+        "e": "the Yajur Veda"
+      },
+      {
+        "s": "सामवेदः",
+        "h": "सामवेद / साम-संहिता",
+        "e": "the Sāma Veda"
+      },
+      {
+        "s": "अथर्ववेदः",
+        "h": "अथर्ववेद",
+        "e": "the Atharva Veda"
+      },
+      {
         "s": "शिक्षा",
-        "h": "उच्चारण-शास्त्र / ध्वनि-विज्ञान",
-        "e": "phonetics"
+        "h": "शिक्षा / उच्चारण-शास्त्र (ध्वनि-विज्ञान)",
+        "e": "phonetics (śikṣā)"
       },
       {
         "s": "कल्पः",
         "h": "कल्प / यज्ञ-विधि-शास्त्र",
-        "e": "ritual procedure"
+        "e": "ritual procedure (kalpa)"
       },
       {
         "s": "व्याकरणम्",
@@ -298,7 +528,7 @@
       {
         "s": "छन्दः",
         "h": "छन्दस् / छन्द-शास्त्र",
-        "e": "metre"
+        "e": "metre (chandas)"
       },
       {
         "s": "ज्योतिषम्",
@@ -306,12 +536,42 @@
         "e": "astronomy/astrology"
       },
       {
+        "s": "इति",
+        "h": "ऐसा / इतनी (अपरा विद्या)",
+        "e": "thus (these constitute aparā)"
+      },
+      {
+        "s": "अथ",
+        "h": "अब / और (अगला विषय)",
+        "e": "now / and (next topic)"
+      },
+      {
+        "s": "परा",
+        "h": "परा (उच्च विद्या) — वह है:",
+        "e": "the higher (knowledge) — is:"
+      },
+      {
+        "s": "यया",
+        "h": "जिससे / जिसके द्वारा",
+        "e": "by which"
+      },
+      {
+        "s": "तत्",
+        "h": "उस / वह",
+        "e": "that"
+      },
+      {
         "s": "अक्षरम्",
         "h": "अक्षर / अविनाशी / ब्रह्म",
-        "e": "the Imperishable"
+        "e": "the Imperishable / Brahman"
+      },
+      {
+        "s": "अधिगम्यते",
+        "h": "अधिगत किया जाता है / प्राप्त होता है / जाना जाता है",
+        "e": "is attained / is known / is reached"
       }
     ],
-    "gr": "<strong>Aparā vidyā enumerated</strong>: ten items — the four Vedas plus the six Vedāṅgas (auxiliary sciences). This is the entire corpus of conventional sacred learning. <strong>The four Vedas</strong>: Ṛg (hymns), Yajur (ritual formulae), Sāma (chants), Atharva (incantations and philosophy). <strong>The six Vedāṅgas</strong>: (1) Śikṣā (phonetics), (2) Kalpa (ritual), (3) Vyākaraṇa (grammar), (4) Nirukta (etymology), (5) Chandas (metre), (6) Jyotiṣa (astronomy). Together, these constitute the complete 'curriculum' of Vedic education. <strong>The shock</strong>: the Vedas — the holiest texts — are classified as <em>lower</em> knowledge. This does not mean they are false or useless, but that they deal with the <em>manifest</em> world (rituals, duties, cosmic order) rather than with the <em>source</em> of the manifest world. <strong>parā yayā tad akṣaram adhigamyate</strong> — 'the higher is that by which the Imperishable is attained': parā vidyā is <em>defined</em> by its object — the akṣara (Imperishable Brahman). It is not a text or a technique but the <em>direct realisation</em> of the Imperishable. Note: <em>adhigamyate</em> = 'is attained/reached' — not just 'known about.' Parā vidyā is experiential, not informational.",
+    "gr": "<strong>व्याकरण:</strong> 'तत्रापरा ऋग्वेदो यजुर्वेदः...' — <em>तत्र</em> = सप्तमी-अर्थ का अव्यय — 'उनमें (दोनों विद्याओं में)।' <em>अपरा</em> = प्रथमा विभक्ति, स्त्रीलिङ्ग — '(यह है) अपरा (विद्या)।' दस विषयों की सूची: चार वेद + छह वेदाङ्ग। <em>इति</em> = सूची-समापक — 'इतनी (अपरा)।' 'अथ परा यया तदक्षरमधिगम्यते' — <em>अथ</em> = 'अब / और' — नया विषय-प्रवेश। <em>परा</em> = प्रथमा विभक्ति — '(यह है) परा।' <em>यया</em> = यद् सर्वनाम, तृतीया विभक्ति, स्त्रीलिङ्ग — 'जिससे / जिसके द्वारा।' <em>अक्षरम्</em> = अ + क्षर (√क्षर् = 'नाश होना') — 'जो नष्ट नहीं होता / अविनाशी' — ब्रह्म का पर्याय। <em>अधिगम्यते</em> = अधि + √गम् (कर्मवाच्य, लट् लकार) — 'प्राप्त किया जाता है / अनुभव किया जाता है' — केवल 'जाना' नहीं बल्कि <em>प्राप्त</em>। <strong>आघात (shock):</strong> वेद — सबसे पवित्र ग्रन्थ — 'अपर' (निम्न) ज्ञान में हैं!<br><em>Eng:</em> <em>tatra</em> = locative adverb — 'of these.' Ten items listed: four Vedas + six Vedāṅgas. <em>akṣaram</em> = a + √kṣar — 'the Imperishable.' <em>adhigamyate</em> = adhi + √gam (passive) — 'is attained/reached' — not merely 'known about' but experientially attained.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -336,11 +596,11 @@
     "dp": [
       {
         "q": "🔍 The four Vedas and six Vedāṅgas",
-        "a": "The <strong>ten components of aparā vidyā</strong> constitute the complete curriculum of traditional Vedic education: <strong>The four Vedas</strong>: (1) <strong>Ṛg Veda</strong> — hymns of praise (ṛc); the oldest Veda; contains ~10,600 verses addressed to various deities. (2) <strong>Yajur Veda</strong> — sacrificial formulae (yajus); the manual for performing rituals; exists in two recensions (Śukla/White and Kṛṣṇa/Black). (3) <strong>Sāma Veda</strong> — melodies (sāman); the Vedic hymns set to music; the 'song-book' of the priests. (4) <strong>Atharva Veda</strong> — incantations and philosophy; the fourth Veda, named after the sage Atharvan; includes both practical charms and deep philosophical Upanishads (Muṇḍaka, Prashna, Māṇḍūkya). <strong>The six Vedāṅgas</strong> ('limbs of the Veda'): (1) <strong>Śikṣā</strong> (phonetics) — correct pronunciation of Vedic syllables; precision of sound is essential because Vedic mantras derive their power from exact phonetic reproduction. (2) <strong>Kalpa</strong> (ritual procedure) — the rules for performing sacrifices (Śrauta Sūtras), domestic rites (Gṛhya Sūtras), and dharmic conduct (Dharma Sūtras). (3) <strong>Vyākaraṇa</strong> (grammar) — the analysis of Sanskrit; Pāṇini's Aṣṭādhyāyī is the crowning achievement. (4) <strong>Nirukta</strong> (etymology) — the derivation and meaning of Vedic words; Yāska's Nirukta is the foundational text. (5) <strong>Chandas</strong> (metre) — the study of poetic metres used in Vedic composition. (6) <strong>Jyotiṣa</strong> (astronomy) — determining the correct astronomical conditions for performing rituals. <strong>All ten are 'aparā'</strong>: despite their sacredness, all ten deal with the <em>phenomenal</em> world — words, sounds, rituals, times, rules. None of them, by themselves, can reveal the <em>akṣara</em> (Imperishable)."
+        "a": "<strong>अपरा विद्या के दस अंग</strong> — पारम्परिक वैदिक शिक्षा का सम्पूर्ण पाठ्यक्रम: <strong>चार वेद:</strong> (1) <strong>ऋग्वेद</strong> — स्तुति-सूक्त (ṛc); प्राचीनतम वेद; ~10,600 ऋचाएँ। (2) <strong>यजुर्वेद</strong> — यज्ञ-मन्त्र (yajus); कर्मकाण्ड का मार्गदर्शक। (3) <strong>सामवेद</strong> — गीत/धुन (sāman); संगीतबद्ध वैदिक मन्त्र। (4) <strong>अथर्ववेद</strong> — मन्त्र और दर्शन; अथर्वा ऋषि के नाम पर। <strong>छह वेदाङ्ग:</strong> (1) <em>शिक्षा</em> — उच्चारण-विज्ञान; (2) <em>कल्प</em> — यज्ञ-विधि; (3) <em>व्याकरण</em> — पाणिनि की अष्टाध्यायी; (4) <em>निरुक्त</em> — शब्द-व्युत्पत्ति (यास्क); (5) <em>छन्दस्</em> — काव्य-छन्द; (6) <em>ज्योतिष</em> — खगोल-विद्या। <strong>दसों 'अपरा' हैं:</strong> पवित्र होते हुए भी, सब <em>व्यावहारिक</em> संसार (शब्द, ध्वनि, कर्मकाण्ड, काल) से सम्बन्धित हैं — कोई भी स्वयं <em>अक्षर</em> (अविनाशी) को प्रकट नहीं कर सकता।<br><br><em>Eng:</em> The ten components of aparā vidyā: four Vedas (Ṛg — hymns; Yajur — ritual formulae; Sāma — chants; Atharva — incantations and philosophy) plus six Vedāṅgas (Śikṣā — phonetics; Kalpa — ritual; Vyākaraṇa — grammar; Nirukta — etymology; Chandas — metre; Jyotiṣa — astronomy). Despite their sacredness, all ten deal with the phenomenal world — none can reveal the akṣara (Imperishable) by themselves."
       },
       {
         "q": "🔍 What is the 'akṣara' (Imperishable)?",
-        "a": "The word <strong>akṣara</strong> (अक्षर) is the Muṇḍaka's primary name for Brahman. It means 'the Imperishable' — that which does not perish (a + kṣara): <strong>Etymology</strong>: a (not) + kṣara (perishable/decaying), from √kṣar (to flow away/perish). The akṣara is that which <em>never flows away</em> — the unchanging ground beneath all change. <strong>Double meaning</strong>: 'akṣara' also means 'syllable' (the basic unit of speech that cannot be further divided). The most akṣara of all akṣaras is <strong>OM</strong> — the imperishable syllable. The Bhagavad Gītā (8.13) identifies them: 'om ity ekākṣaraṁ brahma' — 'OM, the single syllable, is Brahman.' <strong>The akṣara in the Bṛhadāraṇyaka</strong> (3.8.8-11): Gārgī asks Yājñavalkya: 'What is the akṣara?' He replies with a famous via-negativa description: 'It is not gross, not subtle, not short, not long, not red, not sticky, not shadowy, not dark, not air, not space, without attachment, without taste, without smell, without eyes, without ears, without speech, without mind, without light, without breath, without mouth, without measure, without inside, without outside. It consumes nothing, and no one consumes it.' <strong>Parā vidyā's object</strong>: the akṣara is what parā vidyā 'attains' (adhigamyate). Not 'learns about' but <em>attains</em> — direct, experiential, transformative knowledge. This is not information but <em>identity</em>: the knower becomes the akṣara (Muṇḍaka 3.2.9: 'brahma-vid brahmaiva bhavati' — 'the knower of Brahman becomes Brahman')."
+        "a": "<strong>अक्षर</strong> (अ + क्षर) मुण्डक में ब्रह्म का प्रमुख नाम है — 'जो नष्ट नहीं होता / अविनाशी': <strong>व्युत्पत्ति:</strong> अ (नहीं) + क्षर (√क्षर् = 'बह जाना / नष्ट होना') — 'जो कभी बहता / नष्ट नहीं होता' — सब परिवर्तन के नीचे अपरिवर्तनीय आधार। <strong>दोहरा अर्थ:</strong> 'अक्षर' का अर्थ 'अक्षर / वर्ण' (syllable) भी है — सबसे अक्षर अक्षर <strong>ॐ</strong> है — अविनाशी ध्वनि। गीता (8.13): 'ॐ इत्येकाक्षरं ब्रह्म' — 'ॐ, एक अक्षर, ब्रह्म है।' <strong>बृहदारण्यक (3.8.8-11)</strong> में गार्गी यज्ञवल्क्य से पूछती हैं: 'अक्षर क्या है?' — उत्तर निषेध-विधि (via negativa) से: 'न स्थूल, न सूक्ष्म, न लघु, न दीर्घ, न लाल, न चिपचिपा...' <strong>परा विद्या का लक्ष्य:</strong> अक्षर वही है जिसे परा विद्या 'अधिगम्य' करती है — 'जान लेती है' नहीं बल्कि <em>प्राप्त</em> करती है — प्रत्यक्ष, अनुभवात्मक, रूपान्तरकारी ज्ञान। यह सूचना नहीं, <em>तादात्म्य</em> (identity) है: ज्ञाता अक्षर हो जाता है (मुण्डक 3.2.9: 'ब्रह्मविद् ब्रह्मैव भवति')।<br><br><em>Eng:</em> <strong>Akṣara</strong> = 'the Imperishable' (a + √kṣar = 'that which never perishes'). Also means 'syllable' — the most akṣara of all is OM (Gītā 8.13). The Bṛhadāraṇyaka (3.8.8) describes it via negation. Parā vidyā 'attains' (adhigamyate) the akṣara — not information about Brahman but identity with Brahman: 'brahma-vid brahmaiva bhavati' (3.2.9)."
       }
     ]
   },
@@ -351,6 +611,16 @@
     "hi": "जो वह (अक्षर ब्रह्म) अदृश्य (invisible) है, अग्राह्य (ungraspable) है, अगोत्र (without lineage) है, अवर्ण (without colour/caste) है, बिना नेत्रों (acakṣuḥ) और बिना कानों (aśrotra) वाला है, बिना हाथों (apāṇi) और बिना पैरों (apāda) वाला है — नित्य (eternal), विभु (all-pervading), सर्वगत (omnipresent), सुसूक्ष्म (supremely subtle) — वह अव्यय (imperishable) है — जिसे धीर (wise) पुरुष सब भूतों (beings) के योनि (source) के रूप में सर्वत्र देखते (परिपश्यन्ति) हैं।",
     "en": "That which is invisible (adreśya), ungraspable (agrāhya), without lineage (agotra), without colour (avarṇa), without eyes or ears (acakṣuḥ-śrotra), without hands or feet (apāṇi-pāda) — eternal (nitya), all-pervading (vibhu), omnipresent (sarvagata), supremely subtle (susūkṣma) — that imperishable (avyaya) which the wise (dhīrāḥ) see everywhere as the source of all beings (bhūta-yoni).",
     "ws": [
+      {
+        "s": "यत्",
+        "h": "जो / वह जो",
+        "e": "that which"
+      },
+      {
+        "s": "तत्",
+        "h": "वह (अक्षर ब्रह्म)",
+        "e": "that (the akṣara Brahman)"
+      },
       {
         "s": "अद्रेश्यम्",
         "h": "अदृश्य / देखा न जा सके",
@@ -372,9 +642,49 @@
         "e": "without colour or caste"
       },
       {
+        "s": "अचक्षुःश्रोत्रम्",
+        "h": "नेत्रों और कानों से रहित / बिना चक्षु-श्रोत्र",
+        "e": "without eyes or ears"
+      },
+      {
+        "s": "अपाणिपादम्",
+        "h": "हाथों और पैरों से रहित / बिना हाथ-पैर",
+        "e": "without hands or feet"
+      },
+      {
+        "s": "नित्यम्",
+        "h": "नित्य / शाश्वत / सदा रहने वाला",
+        "e": "eternal"
+      },
+      {
+        "s": "विभुम्",
+        "h": "विभु / सर्वव्यापक / व्यापक",
+        "e": "all-pervading"
+      },
+      {
+        "s": "सर्वगतम्",
+        "h": "सर्वगत / सर्वत्र विद्यमान",
+        "e": "omnipresent / present everywhere"
+      },
+      {
+        "s": "सुसूक्ष्मम्",
+        "h": "सु-सूक्ष्म / अत्यन्त सूक्ष्म",
+        "e": "supremely subtle"
+      },
+      {
+        "s": "अव्ययम्",
+        "h": "अव्यय / अविनाशी / क्षय-रहित",
+        "e": "imperishable / inexhaustible"
+      },
+      {
         "s": "भूतयोनिम्",
-        "h": "सब भूतों (प्राणियों) का उद्गम-स्थान / योनि",
+        "h": "सब भूतों (प्राणियों) का उद्गम-स्थान / योनि / मूल",
         "e": "the source/womb of all beings"
+      },
+      {
+        "s": "परिपश्यन्ति",
+        "h": "सर्वत्र देखते हैं / चारों ओर दर्शन करते हैं",
+        "e": "see everywhere / perceive all around"
       },
       {
         "s": "धीराः",
@@ -382,7 +692,7 @@
         "e": "the wise / the steady-minded"
       }
     ],
-    "gr": "<strong>Via-negativa description of Brahman</strong>: this mantra describes the akṣara through a series of negations — what it is <em>not</em>. This is the classic Upanishadic method (<em>neti neti</em> — 'not this, not this'): since Brahman transcends all categories, it can only be described by negating categories. <strong>Eight negations</strong>: (1) adreśya (invisible), (2) agrāhya (ungraspable), (3) agotra (without lineage), (4) avarṇa (without colour/caste), (5) acakṣuḥ (without eyes), (6) aśrotra (without ears), (7) apāṇi (without hands), (8) apāda (without feet). <strong>Five positive attributes</strong>: (1) nitya (eternal), (2) vibhu (all-pervading), (3) sarvagata (omnipresent), (4) susūkṣma (supremely subtle), (5) avyaya (imperishable). <strong>bhūta-yonim paripaśyanti dhīrāḥ</strong> — 'the wise see it everywhere as the source of all beings': despite being invisible and ungraspable, the akṣara is <em>seen</em> (paripaśyanti = 'see all around') by the wise — not with physical eyes but with the eye of knowledge (jñāna-cakṣu). They see it as the <em>bhūta-yoni</em> — the womb/source from which all beings arise.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र <em>निषेध-विधि</em> (via negativa / नेति-नेति) से अक्षर का वर्णन करता है — जो ब्रह्म <em>नहीं</em> है वह बताकर। <strong>आठ निषेध:</strong> सब 'अ'-उपसर्ग (privative 'a') से: <em>अ-द्रेश्यम्</em> (√दृश् — 'न दीखने योग्य'), <em>अ-ग्राह्यम्</em> (√ग्रह् — 'न पकड़ने योग्य'), <em>अ-गोत्रम्</em> ('गोत्र-रहित'), <em>अ-वर्णम्</em> ('वर्ण-रहित'), <em>अ-चक्षुः-श्रोत्रम्</em> ('नेत्र-कर्ण-रहित'), <em>अ-पाणि-पादम्</em> ('हाथ-पैर-रहित')। <strong>पाँच सकारात्मक विशेषण:</strong> <em>नित्यम्</em> (शाश्वत), <em>विभुम्</em> (सर्वव्यापक), <em>सर्वगतम्</em> (सर्वत्र गत), <em>सुसूक्ष्मम्</em> (अत्यन्त सूक्ष्म), <em>अव्ययम्</em> (अविनाशी)। 'भूतयोनिं परिपश्यन्ति धीराः' — <em>भूतयोनिम्</em> = भूत + योनि (षष्ठी तत्पुरुष) — 'प्राणियों का उद्गम-स्थान।' <em>परिपश्यन्ति</em> = परि + √पश् (लट्, प्रथम पुरुष, बहुवचन) — 'सर्वत्र देखते हैं / चारों ओर दर्शन करते हैं' — चर्म-चक्षु से नहीं, ज्ञान-चक्षु से। <em>धीराः</em> = धी (बुद्धि) + र — 'धीर / स्थिर-बुद्धि।'<br><em>Eng:</em> Eight negations with privative 'a-': adreśya, agrāhya, agotra, avarṇa, acakṣuḥ-śrotra, apāṇi-pāda. Five positive: nitya, vibhu, sarvagata, susūkṣma, avyaya. <em>bhūta-yonim</em> = ṣaṣṭhī-tatpuruṣa — 'source of all beings.' <em>paripaśyanti</em> = pari + √paś — 'see all around' — with the eye of knowledge, not physical eyes.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -407,11 +717,11 @@
     "dp": [
       {
         "q": "🔍 The via-negativa method (neti neti)",
-        "a": "This mantra employs the <strong>via-negativa</strong> (निषेध-विधि / neti neti method) — describing Brahman by saying what it is <em>not</em>: <strong>Why negation?</strong> Because Brahman is <em>infinite</em>. Any positive description ('Brahman is X') would <em>limit</em> Brahman — if Brahman is X, then it is not non-X, which makes it finite. By negating all categories, the Upanishad points to something that transcends all categories. <strong>The eight negations</strong>: (1) <em>Adreśya</em> — not visible → Brahman is not an object of sight. (2) <em>Agrāhya</em> — not graspable → Brahman is not an object that can be seized (physically or conceptually). (3) <em>Agotra</em> — without lineage → Brahman is not born into a family; it has no origin. (4) <em>Avarṇa</em> — without colour or caste → Brahman cannot be classified. (5-6) <em>Acakṣuḥ-śrotra</em> — without eyes or ears → Brahman has no sense-organs (yet it perceives). (7-8) <em>Apāṇi-pāda</em> — without hands or feet → Brahman has no motor-organs (yet it acts). <strong>The paradox</strong>: the Śvetāśvatara (3.19) resolves the paradox: 'Without hands, He grasps; without feet, He moves; without eyes, He sees.' Brahman transcends the <em>organs</em> but possesses the <em>functions</em> of the organs in a transcendent mode. It is not <em>less</em> than a being with organs but <em>more</em> — it has the capacities without the limitations. <strong>The Bṛhadāraṇyaka's extended version</strong> (3.8.8): Yājñavalkya's famous description of the akṣara adds even more negations: 'not gross, not subtle, not short, not long, not red, not sticky...' — a comprehensive demolition of every possible category the mind might try to apply."
+        "a": "यह मन्त्र <strong>निषेध-विधि</strong> (via negativa / नेति-नेति) प्रयोग करता है — ब्रह्म को यह बताकर वर्णित करता है कि वह क्या <em>नहीं</em> है: <strong>निषेध क्यों?</strong> ब्रह्म <em>अनन्त</em> है। कोई भी सकारात्मक वर्णन ('ब्रह्म X है') ब्रह्म को <em>सीमित</em> करता — यदि ब्रह्म X है तो non-X नहीं, जो ससीम बना देता। सब कोटियों का निषेध करके उपनिषद् उस ओर संकेत करता है जो सब कोटियों से परे है। <strong>आठ निषेध:</strong> (1) अदृश्य — दृष्टि का विषय नहीं; (2) अग्राह्य — पकड़ा नहीं जा सकता; (3) अगोत्र — कुल-वंश रहित, अनादि; (4) अवर्ण — वर्गीकृत नहीं किया जा सकता; (5-6) अचक्षुः-श्रोत्र — ज्ञानेन्द्रिय रहित (फिर भी अनुभव करता है); (7-8) अपाणि-पाद — कर्मेन्द्रिय रहित (फिर भी कार्य करता है)। <strong>विरोधाभास:</strong> श्वेताश्वतर (3.19) समाधान देता है: 'हाथों बिना वह पकड़ता है; पैरों बिना चलता है; नेत्रों बिना देखता है।' ब्रह्म इन्द्रियों के <em>कार्य</em> (functions) रखता है — बिना इन्द्रियों की <em>सीमाओं</em> के।<br><br><em>Eng:</em> This mantra uses the via-negativa (neti neti) method. Since Brahman is infinite, any positive description would limit it. Eight negations point to something transcending all categories. The Śvetāśvatara (3.19) resolves the paradox: 'Without hands, He grasps; without feet, He moves; without eyes, He sees.' Brahman has the functions of organs without their limitations."
       },
       {
         "q": "🔍 'Bhūta-yoni' — the source of all beings",
-        "a": "The compound <strong>bhūta-yoni</strong> (भूतयोनि) is one of the Muṇḍaka's key terms for Brahman: <strong>Meaning</strong>: bhūta (beings/elements) + yoni (womb/source/origin). Brahman is the <em>womb</em> from which all beings are born — the universal source, the primordial matrix. <strong>Dual significance</strong>: (1) <em>Cosmological</em>: Brahman is the source of the five elements (bhūtas — earth, water, fire, air, space) and all beings made of those elements. (2) <em>Ontological</em>: Brahman is the <em>ground of being</em> — every entity exists because Brahman sustains it; remove Brahman, and nothing remains. <strong>The paradox with via-negativa</strong>: the same Brahman that is 'invisible, ungraspable, without eyes or ears' is also the 'source of all beings.' How can something that has no qualities produce everything with qualities? The Advaita answer: through <em>māyā</em> (the mysterious creative power). The Vishishtadvaita answer: through <em>divine will</em> (saṅkalpa). Sri Aurobindo's answer: through <em>self-manifestation</em> — consciousness expressing itself at progressively denser levels. <strong>Parallels</strong>: the Bhagavad Gītā (14.3) uses the same image: 'mama yonir mahad brahma' — 'My womb is the great Brahman.' The Taittirīya (3.1.1) provides another formulation: 'yato vā imāni bhūtāni jāyante' — 'That from which these beings are born.'"
+        "a": "<strong>भूतयोनि</strong> (भूत + योनि) मुण्डक का ब्रह्म के लिए प्रमुख शब्द है: <strong>अर्थ:</strong> भूत (प्राणी / तत्त्व) + योनि (गर्भ / उद्गम / मूल) — ब्रह्म वह <em>गर्भ</em> है जिससे सब प्राणी जन्म लेते हैं — सार्वभौमिक स्रोत, आदि-मैट्रिक्स। <strong>दोहरा महत्त्व:</strong> (1) <em>ब्रह्माण्डीय</em>: ब्रह्म पंचभूतों (पृथ्वी, जल, अग्नि, वायु, आकाश) और उनसे बने सब प्राणियों का स्रोत; (2) <em>सत्तामूलक</em>: ब्रह्म <em>सत्ता का आधार</em> — हर प्राणी इसलिए अस्तित्व में है क्योंकि ब्रह्म उसे धारण करता है। <strong>निषेध-विधि से विरोधाभास:</strong> जो 'अदृश्य, अग्राह्य, नेत्र-कर्ण-रहित' है — वही 'सब भूतों का योनि' कैसे? अद्वैत उत्तर: <em>माया</em> (रहस्यमय सृजन-शक्ति) के माध्यम से। विशिष्टाद्वैत: <em>दिव्य संकल्प</em> से। श्री अरविन्द: <em>आत्म-अभिव्यक्ति</em> — चेतना का क्रमशः सघनतर स्तरों पर प्रकटीकरण।<br><br><em>Eng:</em> <strong>Bhūta-yoni</strong> = 'womb/source of all beings.' Brahman is both the cosmological source (of the five elements and all beings) and the ontological ground (every entity exists because Brahman sustains it). The paradox: the same Brahman that is invisible and without organs is also the source of all beings. Advaita: through māyā; Vishishtadvaita: through divine will; Aurobindo: through self-manifestation of consciousness."
       }
     ]
   },
@@ -423,14 +733,34 @@
     "en": "As a spider (ūrṇa-nābhi) projects and withdraws (its web); as herbs (oṣadhayaḥ) spring up on the earth; as hair (keśa-lomāni) grows from a living person — so from the Imperishable (akṣara) arises here the universe (viśva).",
     "ws": [
       {
-        "s": "ऊर्णनाभिः",
-        "h": "मकड़ी (ऊन-नाभि = जिसकी नाभि से ऊन/धागा निकलता है)",
-        "e": "a spider"
+        "s": "यथा",
+        "h": "जैसे / जिस प्रकार",
+        "e": "just as / as"
       },
       {
-        "s": "सृजते गृह्णते",
-        "h": "सृजन करती है और ग्रहण करती है / बनाती है और वापस लेती है",
-        "e": "projects and withdraws"
+        "s": "ऊर्णनाभिः",
+        "h": "मकड़ी (ऊर्ण-नाभि = जिसकी नाभि से ऊन/धागा निकले)",
+        "e": "a spider (lit. 'wool-navel')"
+      },
+      {
+        "s": "सृजते",
+        "h": "सृजन करती है / रचती है / निर्माण करती है",
+        "e": "creates / projects / emits"
+      },
+      {
+        "s": "गृह्णते",
+        "h": "ग्रहण करती है / वापस लेती है / पुनः ग्रहण करती है",
+        "e": "withdraws / re-absorbs"
+      },
+      {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
+      },
+      {
+        "s": "पृथिव्याम्",
+        "h": "पृथ्वी पर / पृथ्वी में (सप्तमी विभक्ति)",
+        "e": "on/in the earth"
       },
       {
         "s": "ओषधयः",
@@ -438,12 +768,47 @@
         "e": "herbs / plants"
       },
       {
+        "s": "सम्भवन्ति",
+        "h": "उत्पन्न होती हैं / उगती हैं",
+        "e": "spring up / arise"
+      },
+      {
+        "s": "सतः पुरुषात्",
+        "h": "जीवित व्यक्ति से / सत् (जीवित) पुरुष से",
+        "e": "from a living person"
+      },
+      {
         "s": "केशलोमानि",
         "h": "केश (सिर के बाल) और लोम (शरीर के रोम)",
         "e": "hair of the head and body"
+      },
+      {
+        "s": "तथा",
+        "h": "वैसे ही / उसी प्रकार",
+        "e": "so / in the same way"
+      },
+      {
+        "s": "अक्षरात्",
+        "h": "अक्षर (अविनाशी ब्रह्म) से",
+        "e": "from the Imperishable (Brahman)"
+      },
+      {
+        "s": "सम्भवति",
+        "h": "उत्पन्न होता है / प्रकट होता है",
+        "e": "arises / is born"
+      },
+      {
+        "s": "इह",
+        "h": "यहाँ / इस लोक में",
+        "e": "here (in this world)"
+      },
+      {
+        "s": "विश्वम्",
+        "h": "विश्व / सम्पूर्ण ब्रह्माण्ड / जगत्",
+        "e": "the universe / the world"
       }
     ],
-    "gr": "<strong>Three similes for creation</strong>: (1) <strong>Spider-web</strong> (ūrṇa-nābhi): the spider emits its web <em>from within itself</em> — the web's material is the spider's own body. It also <em>re-absorbs</em> the web. This illustrates Brahman as both the efficient cause (the maker) and the material cause (the material) of the universe — and the universe's eventual re-absorption into Brahman. (2) <strong>Earth-herbs</strong> (pṛthivī-oṣadhi): herbs grow from the earth spontaneously and naturally. The earth doesn't 'try' to produce them — they emerge from its nature. Similarly, the universe emerges from Brahman naturally, without effort. (3) <strong>Person-hair</strong> (puruṣa-keśa): hair grows from a living person without the person's conscious effort and without diminishing the person. Similarly, the universe grows from Brahman without effort and without diminishing Brahman. <strong>Key insight</strong>: all three similes show creation as a <em>natural emanation</em> — not a deliberate construction (like a potter making a pot) but a spontaneous expression of the source's own nature.",
+    "gr": "<strong>व्याकरण:</strong> तीन उपमाएँ 'यथा...यथा...यथा...तथा' संरचना में: <strong>उपमा 1 — मकड़ी:</strong> <em>ऊर्णनाभिः</em> = ऊर्ण (ऊन) + नाभि (नाभि) — बहुव्रीहि समास — 'जिसकी नाभि से ऊन/धागा निकले' = मकड़ी। <em>सृजते</em> = √सृज् (आत्मनेपद, लट्) — 'रचती है'; <em>गृह्णते</em> = √ग्रह् (आत्मनेपद) — 'ग्रहण करती है / वापस लेती है।' <strong>उपमा 2 — पृथ्वी-औषधि:</strong> <em>पृथिव्याम्</em> = सप्तमी विभक्ति — 'पृथ्वी पर'; <em>ओषधयः</em> = प्रथमा विभक्ति, बहुवचन — 'औषधियाँ / वनस्पतियाँ'; <em>सम्भवन्ति</em> = सम् + √भू (लट्, बहुवचन) — 'उत्पन्न होती हैं।' <strong>उपमा 3 — पुरुष-केश:</strong> <em>सतः पुरुषात्</em> = सत् (जीवित) + पुरुष (व्यक्ति), पञ्चमी विभक्ति — 'जीवित पुरुष से'; <em>केशलोमानि</em> = केश + लोमन् (द्वन्द्व समास), प्रथमा, नपुंसकलिङ्ग, बहुवचन। <strong>निष्कर्ष:</strong> <em>तथा अक्षरात्</em> = 'वैसे ही अक्षर (ब्रह्म) से'; <em>सम्भवति</em> = 'उत्पन्न होता है'; <em>विश्वम्</em> = 'विश्व / जगत्।'<br><em>Eng:</em> Three similes in yathā...tathā structure. <em>ūrṇa-nābhi</em> = bahuvrīhi — 'whose navel has wool' = spider. <em>sṛjate/gṛhṇate</em> = ātmanepada presents — 'creates/withdraws.' <em>sataḥ puruṣāt</em> = ablative — 'from a living person.' All three show creation as natural emanation from the Imperishable.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -468,11 +833,11 @@
     "dp": [
       {
         "q": "🔍 The spider-web simile for creation",
-        "a": "The <strong>spider-web simile</strong> (ūrṇanābhi-upamā) is one of the most important analogies for creation in Indian philosophy: <strong>The image</strong>: a spider <em>emits</em> its web from within its own body (the silk comes from internal glands), <em>dwells</em> in the web it has created, and eventually <em>re-absorbs</em> the web back into itself. <strong>What it teaches about Brahman's creation</strong>: (1) <em>Brahman is both the efficient and material cause</em>: the spider is both the weaver (efficient cause) and the thread (material cause). Brahman doesn't create from external material — it creates from itself. (2) <em>Creation is not separate from the creator</em>: the web is not 'other' than the spider — it is the spider's own substance extended outward. Similarly, the universe is not 'other' than Brahman — it is Brahman's own nature expressed as multiplicity. (3) <em>Creation is reversible</em>: the spider can re-absorb the web. Similarly, Brahman can dissolve the universe back into itself (pralaya). This cycle of emission and re-absorption is endless. (4) <em>The creator is not diminished by creating</em>: the spider doesn't become less by spinning a web — it remains fully a spider. Similarly, Brahman is not diminished by creating the universe (pūrṇam adaḥ pūrṇam idam — 'that is full, this is full'; Īśā Invocation). <strong>The simile's limitations</strong>: the spider creates <em>unconsciously</em> (by instinct), whereas Brahman creates <em>consciously</em> (sa aikṣata — 'He saw/willed'). Also, the spider's web is <em>external</em> to the spider's body, whereas the universe is never truly external to Brahman."
+        "a": "<strong>मकड़ी-जाला उपमा</strong> (ऊर्णनाभि-उपमा) — भारतीय दर्शन में सृष्टि की सबसे महत्त्वपूर्ण उपमाओं में से एक: <strong>चित्र:</strong> मकड़ी अपने शरीर के भीतर से जाला <em>निकालती</em> है, उसमें <em>निवास</em> करती है, और अन्ततः जाला <em>वापस ग्रहण</em> कर लेती है। <strong>ब्रह्म की सृष्टि के बारे में क्या सिखाती है:</strong> (1) <em>ब्रह्म उपादान और निमित्त दोनों कारण है</em> — मकड़ी बुनकर (निमित्त कारण) भी है और धागा (उपादान कारण) भी; (2) <em>सृष्टि सृष्टिकर्ता से पृथक् नहीं</em> — जाला मकड़ी का ही पदार्थ है; (3) <em>सृष्टि उत्क्रमणीय है</em> — मकड़ी जाला वापस ले सकती है (प्रलय); (4) <em>सृष्टिकर्ता का ह्रास नहीं होता</em> — 'पूर्णमदः पूर्णमिदम्' (ईशावास्य)। <strong>उपमा की सीमा:</strong> मकड़ी अचेतन प्रवृत्ति (instinct) से रचती है, जबकि ब्रह्म सचेतन रूप से; मकड़ी का जाला बाह्य है, ब्रह्म का विश्व कभी वास्तव में ब्रह्म से बाह्य नहीं।<br><br><em>Eng:</em> The spider-web simile: the spider emits its web from within itself, dwells in it, and re-absorbs it. This teaches: (1) Brahman is both efficient and material cause; (2) creation is not separate from the creator; (3) creation is reversible (pralaya); (4) the creator is not diminished. Limitation: the spider creates unconsciously, Brahman creates consciously."
       },
       {
         "q": "🔍 Three models of creation compared",
-        "a": "This mantra presents <strong>three complementary similes</strong> for how the universe arises from the Imperishable: <strong>(1) Spider and web</strong> — CONSCIOUS CREATION + RE-ABSORPTION: The spider <em>chooses</em> to spin (or at least acts from its own nature), and it <em>takes back</em> what it created. Model: creation as a conscious, reversible act. The universe is emitted from Brahman and will eventually be reabsorbed. Key insight: the creator and the creation are made of the same substance. <strong>(2) Earth and herbs</strong> — SPONTANEOUS EMANATION: Herbs spring up from the earth <em>without effort</em> — the earth doesn't 'try' to produce them. They grow by the earth's inherent nature. Model: creation as natural, effortless self-expression. Key insight: creation is not laborious — it flows from Brahman's nature as naturally as grass grows from soil. <strong>(3) Person and hair</strong> — LOSS-LESS GROWTH: Hair grows from a living person <em>without diminishing</em> the person and <em>without conscious effort</em>. The person doesn't become smaller or weaker by growing hair. Model: creation as emanation that doesn't diminish the source. Key insight: the Imperishable remains <em>full</em> (pūrṇa) even after creating the universe — it is not 'used up' by creation. <strong>Together</strong>: the three similes teach that creation is (1) from Brahman's own substance (spider), (2) natural and effortless (earth-herbs), and (3) without any loss to Brahman (hair). No single simile captures the whole truth — but together they give a rich picture of Brahman's creative act."
+        "a": "यह मन्त्र <strong>तीन पूरक उपमाएँ</strong> प्रस्तुत करता है: <strong>(1) मकड़ी और जाला — सचेतन सृजन + पुनर्ग्रहण:</strong> मकड़ी अपनी प्रकृति से जाला बुनती है और वापस ले लेती है। सृष्टि एक सचेतन, उत्क्रमणीय कृत्य — सृष्टिकर्ता और सृष्टि एक ही पदार्थ से। <strong>(2) पृथ्वी और औषधि — सहज उद्भव:</strong> औषधियाँ पृथ्वी से <em>बिना प्रयास</em> उगती हैं — पृथ्वी 'प्रयत्न' नहीं करती। सृष्टि प्राकृतिक, अनायास आत्म-अभिव्यक्ति है। <strong>(3) व्यक्ति और केश — ह्रास-रहित वृद्धि:</strong> बाल जीवित व्यक्ति से <em>बिना ह्रास</em> और <em>बिना सचेतन प्रयास</em> के उगते हैं — व्यक्ति कम या कमज़ोर नहीं होता। अक्षर (ब्रह्म) <em>पूर्ण</em> बना रहता है। <strong>तीनों मिलकर:</strong> सृष्टि (1) ब्रह्म के अपने पदार्थ से (मकड़ी), (2) प्राकृतिक और अनायास (पृथ्वी-औषधि), और (3) ब्रह्म के बिना किसी ह्रास के (केश) होती है।<br><br><em>Eng:</em> Three complementary similes: (1) Spider-web = conscious creation + re-absorption, same substance; (2) Earth-herbs = spontaneous, effortless emanation; (3) Person-hair = growth without diminishing the source. Together: creation is from Brahman's own substance (spider), natural (earth), and without loss (hair)."
       }
     ]
   },
@@ -485,26 +850,76 @@
     "ws": [
       {
         "s": "तपसा",
-        "h": "तप से / साधना/ताप से",
-        "e": "by tapas"
+        "h": "तप से / साधना-ताप से / सृजन-ऊर्जा से",
+        "e": "by tapas / by creative heat"
       },
       {
         "s": "चीयते",
-        "h": "बढ़ता है / विस्तृत होता है / संचित होता है",
+        "h": "बढ़ता है / विस्तृत होता है / संचित होता है (√चि)",
         "e": "swells / grows / is built up"
       },
       {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम तत्त्व",
+        "e": "Brahman"
+      },
+      {
+        "s": "ततः",
+        "h": "उससे / उसके बाद",
+        "e": "from that / thence"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न / आहार / पदार्थ (matter)",
+        "e": "food / matter"
+      },
+      {
+        "s": "अभिजायते",
+        "h": "उत्पन्न होता है / जन्म लेता है",
+        "e": "is born / arises"
+      },
+      {
+        "s": "अन्नात्",
+        "h": "अन्न से / पदार्थ से",
+        "e": "from food / from matter"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-शक्ति / श्वास",
+        "e": "prāṇa / life-force / breath"
+      },
+      {
+        "s": "मनः",
+        "h": "मन / मानस / चित्त",
+        "e": "mind (manas)"
+      },
+      {
         "s": "सत्यम्",
-        "h": "सत्य / यथार्थ / पंचमहाभूत",
+        "h": "सत्य / यथार्थ तत्त्व / पंचमहाभूत",
         "e": "truth / the real elements"
       },
       {
-        "s": "कर्मसु अमृतम्",
-        "h": "कर्मों में अमृतत्व / कर्म-फल में अमरता",
-        "e": "immortality in actions"
+        "s": "लोकाः",
+        "h": "लोक / विभिन्न भुवन / जगत्",
+        "e": "the worlds / realms"
+      },
+      {
+        "s": "कर्मसु",
+        "h": "कर्मों में / क्रियाओं में (सप्तमी, बहुवचन)",
+        "e": "in actions / in deeds"
+      },
+      {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
+      },
+      {
+        "s": "अमृतम्",
+        "h": "अमृत / अमरत्व / अमृतत्व",
+        "e": "immortality / the immortal (fruit)"
       }
     ],
-    "gr": "<strong>The cosmogonic sequence</strong>: Brahman → (through tapas) → anna (food/matter) → prāṇa (life) → manas (mind) → satya (elements) → lokāḥ (worlds) → amṛta in karma (immortality through action). This is a compact creation-account moving from the subtlest (Brahman's tapas) to the grossest (worlds) and back to the transcendent (amṛta). <strong>tapasā cīyate brahma</strong> — 'by tapas, Brahman swells': tapas here is not human austerity but the <em>primordial creative heat</em> — the energy of self-manifestation. Brahman 'builds itself up' (cīyate, from √ci — to pile up, as in building a fire-altar) through this inner heat, and from that expansion, creation flows. <strong>karmasu amṛtam</strong> — 'immortality in actions': a striking phrase. Even within the world of karma (action, ritual, duty), there is a seed of immortality — the imperishable fruit of righteous action. This connects aparā vidyā (action/ritual) to parā vidyā (immortality) — even the 'lower' knowledge contains a pointer to the 'higher.'",
+    "gr": "<strong>व्याकरण:</strong> 'तपसा चीयते ब्रह्म' — <em>तपसा</em> = तपस् (तृतीया विभक्ति) — 'तप से / तप के द्वारा।' <em>चीयते</em> = √चि (कर्मवाच्य, लट् लकार) — 'चय (pile up / build up) होता है / बढ़ता है' — अग्निचयन (fire-altar building) की छवि — ईंट-दर-ईंट सृष्टि-निर्माण। यहाँ तप = मानव-तपस्या नहीं बल्कि <em>आदि सृजन-ऊष्मा</em> (primordial creative heat)। 'ततो ऽन्नमभिजायते' — <em>अभिजायते</em> = अभि + √जन् (आत्मनेपद, लट्) — 'उत्पन्न होता है।' सृष्टि-क्रम: अन्न (पदार्थ) → प्राण (जीवन-शक्ति) → मनः (मानस) → सत्यम् (पंचभूत / यथार्थ तत्त्व) → लोकाः (भुवन)। 'कर्मसु चामृतम्' — <em>कर्मसु</em> = सप्तमी विभक्ति, बहुवचन — 'कर्मों में'; <em>अमृतम्</em> = 'अमृत / अमरत्व' — कर्मों में भी अमृतत्व का बीज — अपरा (कर्म) और परा (अमृत) को जोड़ने वाला सेतु।<br><em>Eng:</em> <em>tapasā</em> = instrumental — 'by tapas.' <em>cīyate</em> = passive of √ci — 'is built up' (fire-altar imagery). Creation sequence: anna → prāṇa → manas → satya → lokāḥ. 'Karmasu amṛtam' = 'immortality in actions' — a bridge between aparā (action) and parā (immortality).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -529,11 +944,11 @@
     "dp": [
       {
         "q": "🔍 Tapas as the engine of creation",
-        "a": "The phrase <strong>tapasā cīyate brahma</strong> ('by tapas, Brahman swells/expands') presents <strong>tapas</strong> as the <em>engine of creation</em>: <strong>What is tapas?</strong> The word tapas comes from √tap (to heat/burn). It has multiple levels of meaning: (1) <em>Physical heat</em>: the primordial heat that initiates cosmic processes (like the Big Bang's initial energy). (2) <em>Creative intensity</em>: the concentrated energy of will by which Brahman 'decides' to manifest as the universe. (3) <em>Spiritual austerity</em>: in the human context, tapas is the disciplined intensity of meditation, fasting, or other practices that generate transformative 'heat.' <strong>Tapas in the creation-accounts</strong>: (1) <em>Taittirīya 2.6.1</em>: 'so'kāmayata... sa tapo'tapyata' — 'He desired... He performed tapas.' (2) <em>Aitareya 1.1.1</em>: Ātman 'saw' (aikṣata) and created — the 'seeing' IS the tapas. (3) <em>Ṛg Veda 10.129</em> (Nāsadīya Sūkta): 'In the beginning, desire arose — that was the first seed of mind' — kāma (desire) is another form of tapas. <strong>Cīyate</strong>: the verb √ci means 'to pile up, to build, to accumulate.' It evokes the image of building a fire-altar (<em>agnicayana</em>) — piling bricks layer by layer. Creation is Brahman 'building itself up' into the cosmic altar of the universe. <strong>The human parallel</strong>: when a yogi performs tapas, he is replicating the cosmic process in miniature — using concentrated heat/energy to transform consciousness, just as Brahman used tapas to transform itself into the universe."
+        "a": "'<strong>तपसा चीयते ब्रह्म</strong>' ('तप से ब्रह्म बढ़ता है') — <strong>तप</strong> को सृष्टि का इंजन बताता है: <strong>तप क्या है?</strong> √तप् (तपना / जलना) से — अनेक स्तरों पर: (1) <em>भौतिक ऊष्मा</em> — आदि ब्रह्माण्डीय ऊर्जा (Big Bang जैसी आरम्भिक ऊर्जा); (2) <em>सृजन-तीव्रता</em> — ब्रह्म की संकल्प-ऊर्जा जिससे वह अभिव्यक्त होता है; (3) <em>आध्यात्मिक तप</em> — मानव-स्तर पर ध्यान, उपवास, साधना की रूपान्तरकारी ऊष्मा। <strong>अन्य सृष्टि-वर्णनों में तप:</strong> तैत्तिरीय (2.6.1): 'सोऽकामयत... स तपोऽतप्यत' — 'उसने इच्छा की... उसने तप किया।' ऋग्वेद 10.129 (नासदीय सूक्त): 'आरम्भ में काम (desire) उत्पन्न हुआ — वह मन का प्रथम बीज था' — काम भी तप का रूप है। <strong>चीयते:</strong> √चि = 'चय करना / ढेर लगाना' — <em>अग्निचयन</em> (fire-altar building) की छवि — सृष्टि = ब्रह्म स्वयं को ब्रह्माण्ड-वेदी में ईंट-दर-ईंट निर्मित करता है।<br><br><em>Eng:</em> 'Tapasā cīyate brahma' presents tapas as the engine of creation. Tapas (√tap = to heat/burn) operates at multiple levels: physical heat, creative intensity, spiritual austerity. <em>Cīyate</em> (√ci = to pile up) evokes fire-altar building — creation is Brahman building itself into the cosmic altar. The Taittirīya (2.6.1) and Ṛg Veda 10.129 parallel this creative heat."
       },
       {
         "q": "🔍 The creation-sequence in this mantra",
-        "a": "This mantra outlines a <strong>compact creation-sequence</strong>: Brahman → (tapas) → anna → prāṇa → manas → satya → lokāḥ → amṛtam in karma: <strong>(1) Tapas</strong>: the creative heat/intensity — Brahman's first 'act.' <strong>(2) Anna (food/matter)</strong>: the primordial substance — the material basis of creation. The Taittirīya (2.2.1) calls anna 'Brahman' itself: 'annaṁ brahmeti vyajānāt' — 'he knew food as Brahman.' <strong>(3) Prāṇa (life-force)</strong>: from matter, life emerges — the vital breath that animates inert matter. <strong>(4) Manas (mind)</strong>: from life, mind emerges — the capacity for thought, perception, and coordination. <strong>(5) Satya (truth / real elements)</strong>: the five mahābhūtas (great elements) — the 'true' building-blocks of the physical world: space, air, fire, water, earth. <strong>(6) Lokāḥ (worlds)</strong>: from the elements, the cosmic realms are constructed — earth, mid-region, heaven, and beyond. <strong>(7) Amṛtam in karma</strong>: within the worlds, beings perform actions (karma). And within those actions — if performed rightly — is a seed of <em>immortality</em> (amṛta). This last item is significant: it connects the aparā domain (action, ritual) to the parā domain (immortality). Even within the 'lower' knowledge, there is a hidden pointer to the 'higher.' The Upanishad is saying: don't despise the world of action — it too contains a path to the deathless."
+        "a": "इस मन्त्र का <strong>सृष्टि-क्रम</strong>: ब्रह्म → (तप) → अन्न → प्राण → मनः → सत्यम् → लोकाः → कर्मों में अमृत: <strong>(1) तप:</strong> सृजन-ऊष्मा — ब्रह्म का प्रथम 'कृत्य।' <strong>(2) अन्न (आहार/पदार्थ):</strong> आदि पदार्थ — सृष्टि का भौतिक आधार; तैत्तिरीय (2.2.1): 'अन्नं ब्रह्मेति व्यजानात्।' <strong>(3) प्राण (जीवन-शक्ति):</strong> पदार्थ से जीवन — जड़ पदार्थ को सजीव करने वाला श्वास। <strong>(4) मनः (मानस):</strong> जीवन से मन — चिन्तन, अवधारणा, समन्वय की क्षमता। <strong>(5) सत्यम् (यथार्थ तत्त्व / पंचभूत):</strong> आकाश, वायु, अग्नि, जल, पृथ्वी — भौतिक जगत् के 'सत्य' निर्माण-खण्ड। <strong>(6) लोकाः:</strong> तत्त्वों से ब्रह्माण्डीय लोक — भू, भुवः, स्वः आदि। <strong>(7) कर्मों में अमृत:</strong> लोकों में प्राणी कर्म करते हैं — और सत्कर्मों में <em>अमृतत्व</em> का बीज छिपा है — अपरा (कर्म) से परा (अमृत) का सेतु।<br><br><em>Eng:</em> Creation sequence: Brahman → tapas → anna (matter) → prāṇa (life) → manas (mind) → satya (elements) → lokāḥ (worlds) → amṛta in karma (immortality in action). The last item bridges aparā (action/ritual) to parā (immortality) — even within lower knowledge, there's a pointer to the higher."
       }
     ]
   },
@@ -545,32 +960,72 @@
     "en": "He who is omniscient (sarvajña), all-knowing (sarvavid), whose tapas is made of knowledge (jñāna-maya) — from Him are born this Brahma (Hiraṇyagarbha), name-and-form (nāma-rūpa), and food (anna).",
     "ws": [
       {
+        "s": "यः",
+        "h": "जो / वह जो",
+        "e": "he who"
+      },
+      {
         "s": "सर्वज्ञः",
-        "h": "सर्वज्ञ / सब कुछ जानने वाला",
-        "e": "omniscient"
+        "h": "सर्वज्ञ / सब कुछ (सामान्य रूप से) जानने वाला",
+        "e": "omniscient (general knowledge)"
       },
       {
         "s": "सर्ववित्",
         "h": "सर्ववित् / सब कुछ विशेष रूप से जानने वाला",
-        "e": "all-knowing in detail"
+        "e": "all-knowing (particular knowledge)"
       },
       {
-        "s": "ज्ञानमयं तपः",
-        "h": "ज्ञान-स्वरूप तप / ज्ञान से बना हुआ तप",
-        "e": "tapas made of knowledge"
+        "s": "यस्य",
+        "h": "जिसका / जिसके",
+        "e": "whose"
       },
       {
-        "s": "नामरूपम्",
-        "h": "नाम और रूप / नामरूप",
-        "e": "name and form"
+        "s": "ज्ञानमयम्",
+        "h": "ज्ञान-स्वरूप / ज्ञान से बना हुआ",
+        "e": "made of knowledge / consisting of knowledge"
+      },
+      {
+        "s": "तपः",
+        "h": "तप / सृजन-ऊष्मा / साधना",
+        "e": "tapas / creative heat"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "उससे / उस (ब्रह्म) से",
+        "e": "from Him / from that (Brahman)"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह / इस",
+        "e": "this"
       },
       {
         "s": "ब्रह्म",
-        "h": "ब्रह्मा / हिरण्यगर्भ",
+        "h": "ब्रह्मा / हिरण्यगर्भ (सृष्टि का प्रथम प्राणी)",
         "e": "Brahmā / Hiraṇyagarbha"
+      },
+      {
+        "s": "नामरूपम्",
+        "h": "नाम और रूप / विभेदन का सिद्धान्त",
+        "e": "name and form (the principle of differentiation)"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न / पदार्थ / भौतिक द्रव्य",
+        "e": "food / matter / material substance"
+      },
+      {
+        "s": "च",
+        "h": "और / तथा",
+        "e": "and"
+      },
+      {
+        "s": "जायते",
+        "h": "जन्म लेता है / उत्पन्न होता है",
+        "e": "is born / arises"
       }
     ],
-    "gr": "<strong>Closing mantra of Khanda 1</strong>: this verse summarises the entire section by identifying the source of creation as the <em>omniscient, all-knowing</em> Being whose tapas is <em>jñāna-maya</em> (made of knowledge). <strong>sarvajña and sarvavid</strong>: Shankara distinguishes these: <em>sarvajña</em> = knows everything in general (sāmānya-jñāna); <em>sarvavid</em> = knows everything in particular (viśeṣa-jñāna). Together, they establish complete omniscience — Brahman knows both the forest and every tree in the forest. <strong>jñāna-mayaṁ tapaḥ</strong> — 'tapas made of knowledge': this is crucial. Brahman's creative heat is not blind force but <em>conscious intelligence</em>. Creation is not an accident or a mechanical process but an <em>intelligent act</em>. This is the Upanishadic answer to the question: why is the universe orderly? Because its source is omniscient. <strong>tasmāt etat brahma nāma-rūpam annaṁ ca jāyate</strong> — 'from Him are born Brahmā, name-and-form, and food': three products of creation — (1) Brahmā/Hiraṇyagarbha (the cosmic soul), (2) nāma-rūpa (the principle of differentiation), and (3) anna (the material substance). Together, they constitute the entire manifest universe.",
+    "gr": "<strong>व्याकरण:</strong> 'यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः' — <em>यः</em> = यद् सर्वनाम, प्रथमा विभक्ति — 'जो / वह जो।' <em>सर्वज्ञः</em> = सर्व + ज्ञ (√ज्ञा) — 'सब-जानने वाला (सामान्य ज्ञान)।' <em>सर्ववित्</em> = सर्व + वित् (√विद्) — 'सब-जानने वाला (विशेष ज्ञान)।' शंकर का भेद: <em>सर्वज्ञ</em> = सामान्य-ज्ञान ('वन जानना'); <em>सर्ववित्</em> = विशेष-ज्ञान ('प्रत्येक वृक्ष जानना')। <em>यस्य</em> = षष्ठी विभक्ति — 'जिसका।' <em>ज्ञानमयम्</em> = ज्ञान + मयट् (प्रत्यय — 'से बना हुआ') — 'ज्ञान-स्वरूप।' 'तस्मादेतद्ब्रह्म नामरूपमन्नं च जायते' — <em>तस्मात्</em> = पञ्चमी विभक्ति — 'उससे।' <em>एतत्</em> = 'यह' (समीपवर्ती)। <em>ब्रह्म</em> = यहाँ ब्रह्मा/हिरण्यगर्भ (सृष्टि का प्रथम प्राणी), न कि परम ब्रह्म। <em>नामरूपम्</em> = नाम + रूप (द्वन्द्व समास) — 'नाम और रूप' — विभेदन का सिद्धान्त जिससे अनेकता प्रकट होती है। <em>जायते</em> = √जन् (आत्मनेपद, लट्) — 'जन्म लेता है / उत्पन्न होता है।' यह खण्ड 1 का <strong>समापन-मन्त्र</strong> है — सृष्टि के स्रोत को सर्वज्ञ, ज्ञान-मय-तप वाले रूप में स्थापित करता है।<br><em>Eng:</em> <em>sarvajña</em> = sarva + √jñā — 'all-knowing (general)'; <em>sarvavid</em> = sarva + √vid — 'all-knowing (particular).' <em>jñāna-mayam</em> = jñāna + maya suffix — 'made of knowledge.' <em>nāma-rūpam</em> = dvandva — 'name and form.' <em>jāyate</em> = √jan (ātmanepada) — 'is born.' This closing mantra establishes the source as omniscient with knowledge-made tapas.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -595,11 +1050,11 @@
     "dp": [
       {
         "q": "🔍 Sarvajña and Sarvavid — two kinds of omniscience",
-        "a": "The mantra uses <strong>two words for omniscience</strong> — <em>sarvajña</em> and <em>sarvavid</em> — which Shankara distinguishes carefully: <strong>Sarvajña (सर्वज्ञ)</strong>: sarva (all) + jña (knowing) = 'all-knowing' in the <em>general</em> sense. Brahman knows the <em>totality</em> — the overall nature of reality, the universal principles, the cosmic structure. This is like knowing 'the forest.' <strong>Sarvavid (सर्ववित्)</strong>: sarva (all) + vid (knowing) = 'all-knowing' in the <em>particular</em> sense. Brahman knows <em>every detail</em> — every individual being, every specific event, every particular fact. This is like knowing 'every tree in the forest.' <strong>Why both are needed</strong>: an omniscient being must have both kinds of knowledge. Knowing only the general without the particular would mean not knowing any specific thing (like knowing 'humanity' without knowing any particular human). Knowing only the particular without the general would mean not seeing the pattern (like knowing every tree without seeing the forest). Brahman has <em>both</em> — complete knowledge at every scale. <strong>The anti-Sāṅkhya argument</strong>: Shankara uses this double omniscience to refute the Sāṅkhya school, which posits an unconscious (<em>acetana</em>) prakṛti as the cause of the universe. An unconscious cause cannot be sarvajña or sarvavid. The Muṇḍaka's explicit attribution of omniscience to the first cause proves the cause is <em>conscious</em> — Brahman, not prakṛti."
+        "a": "<strong>सर्वज्ञ और सर्ववित्</strong> — सर्वज्ञता के दो प्रकार — शंकर का विभेद: <strong>सर्वज्ञ (सामान्य ज्ञान):</strong> सर्व + ज्ञ = 'सब-जानने वाला' <em>सामान्य</em> रूप से — ब्रह्म समग्रता (totality) को जानता है — सार्वभौमिक सिद्धान्त, ब्रह्माण्डीय संरचना। यह 'वन' जानने जैसा है। <strong>सर्ववित् (विशेष ज्ञान):</strong> सर्व + वित् = 'सब-जानने वाला' <em>विशेष</em> रूप से — ब्रह्म हर विवरण (detail) को जानता है — हर व्यक्तिगत प्राणी, हर विशिष्ट घटना। यह 'वन का प्रत्येक वृक्ष' जानने जैसा है। <strong>दोनों क्यों आवश्यक:</strong> केवल सामान्य ज्ञान — विशेष न जानना ('मानवता' जानना, कोई विशिष्ट मनुष्य न जानना); केवल विशेष — पैटर्न न देखना ('हर वृक्ष' जानना, 'वन' न देखना)। ब्रह्म के पास <em>दोनों</em> — प्रत्येक स्तर पर पूर्ण ज्ञान। <strong>सांख्य-खण्डन:</strong> शंकर इस दोहरी सर्वज्ञता से सांख्य दर्शन का खण्डन करते हैं — सांख्य अचेतन (acetana) प्रकृति को जगत्-कारण मानता है, किन्तु अचेतन कारण सर्वज्ञ/सर्ववित् नहीं हो सकता — अतः कारण चेतन ब्रह्म है।<br><br><em>Eng:</em> Shankara distinguishes <strong>sarvajña</strong> (general omniscience — knowing the totality/forest) from <strong>sarvavid</strong> (particular omniscience — knowing every detail/tree). Complete omniscience requires both. This also refutes the Sāṅkhya school's unconscious prakṛti as world-cause — an unconscious cause cannot be sarvajña or sarvavid."
       },
       {
         "q": "🔍 Summary of Mundaka 1, Khanda 1",
-        "a": "The first nine mantras of the Muṇḍaka establish the <strong>framework</strong> for the entire Upanishad: <strong>Mantras 1-2 — The lineage</strong>: Brahmā → Atharvā → Aṅgir → Satyavāha Bhāradvāja → Aṅgiras. Five links establishing the authority and antiquity of the teaching. <strong>Mantra 3 — The great question</strong>: Śaunaka asks Aṅgiras: 'What is that, knowing which, all this becomes known?' The foundational question of Vedānta. <strong>Mantras 4-5 — The two kinds of knowledge</strong>: aparā vidyā (lower) = four Vedas + six Vedāṅgas; parā vidyā (higher) = that by which the akṣara (Imperishable) is known. The Muṇḍaka's signature distinction. <strong>Mantra 6 — The akṣara described</strong>: via-negativa — invisible, ungraspable, without lineage or colour, without eyes or ears, without hands or feet; yet eternal, all-pervading, omnipresent, subtle, imperishable — the source of all beings, seen by the wise. <strong>Mantra 7 — Three similes for creation</strong>: spider-web (creation + re-absorption), earth-herbs (spontaneous emanation), person-hair (creation without diminution). <strong>Mantra 8 — The creation-sequence</strong>: Brahman → tapas → anna → prāṇa → manas → satya → lokāḥ → amṛta in karma. <strong>Mantra 9 — The omniscient source</strong>: the sarvajña-sarvavid whose jñāna-maya tapas produces Brahmā, nāma-rūpa, and anna. <strong>The arc</strong>: from authority (lineage) → to question ('knowing which, all is known?') → to answer (two knowledges; the akṣara) → to cosmogony (how the akṣara creates). Khanda 2 will turn to the <em>practical</em> question: what happens when people pursue aparā vidyā alone?"
+        "a": "<strong>मुण्डक 1, खण्ड 1 का सारांश</strong> — प्रथम नौ मन्त्र उपनिषद् का <strong>ढाँचा</strong> स्थापित करते हैं: <strong>मन्त्र 1-2 — ज्ञान-परम्परा:</strong> ब्रह्मा → अथर्वा → अङ्गिर → सत्यवाह भारद्वाज → अङ्गिरस — पाँच कड़ियाँ, अधिकार और प्राचीनता की स्थापना। <strong>मन्त्र 3 — महाप्रश्न:</strong> शौनक पूछते हैं — 'किसके ज्ञात होने पर सब ज्ञात?' — वेदान्त का मूलभूत प्रश्न। <strong>मन्त्र 4-5 — दो विद्याएँ:</strong> अपरा (चार वेद + छह वेदाङ्ग) और परा (जिससे अक्षर ज्ञात) — मुण्डक का विशिष्ट योगदान। <strong>मन्त्र 6 — अक्षर-वर्णन:</strong> नेति-नेति विधि — अदृश्य, अग्राह्य, अगोत्र, अवर्ण... फिर भी नित्य, विभु, सर्वगत — भूतयोनि — धीरों द्वारा दृष्ट। <strong>मन्त्र 7 — सृष्टि की तीन उपमाएँ:</strong> मकड़ी-जाला, पृथ्वी-औषधि, पुरुष-केश। <strong>मन्त्र 8 — सृष्टि-क्रम:</strong> ब्रह्म → तप → अन्न → प्राण → मन → सत्य → लोक → कर्मों में अमृत। <strong>मन्त्र 9 — सर्वज्ञ स्रोत:</strong> ज्ञानमय-तप से ब्रह्मा, नामरूप, अन्न उत्पन्न। <strong>समग्र दिशा:</strong> अधिकार (परम्परा) → प्रश्न → उत्तर (दो विद्याएँ; अक्षर) → सृष्टि-विज्ञान। खण्ड 2 व्यावहारिक प्रश्न की ओर मुड़ेगा: केवल अपरा विद्या का अनुसरण करने पर क्या होता है?<br><br><em>Eng:</em> Summary of Mundaka 1, Khanda 1: Mantras 1-2 establish the lineage (Brahmā → Atharvā → Aṅgir → Bhāradvāja → Aṅgiras). Mantra 3: the great question. Mantras 4-5: two kinds of knowledge (parā/aparā). Mantra 6: via-negativa description of akṣara. Mantra 7: three creation-similes. Mantra 8: creation-sequence. Mantra 9: omniscient source. Khanda 2 will address: what happens when people pursue only aparā vidyā?"
       }
     ]
   }
