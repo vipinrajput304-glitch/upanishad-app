@@ -7,37 +7,77 @@
     "en": "Two birds (dvā suparṇā), inseparably united (sayujā), companions (sakhāyā), have embraced (pariṣasvajāte) the same tree (samānaṁ vṛkṣam). Of the two, one (anyaḥ) eats the sweet fruit (pippalaṁ svādu atti); the other (anyaḥ), not eating (anaśnan), simply looks on (abhicākaśīti).",
     "ws": [
       {
+        "s": "द्वा",
+        "h": "दो",
+        "e": "two"
+      },
+      {
         "s": "सुपर्णा",
-        "h": "सुन्दर पंखों वाले पक्षी / beautiful-winged birds",
-        "e": "beautiful-winged"
+        "h": "सुन्दर पंखों वाले पक्षी",
+        "e": "beautiful-winged birds"
       },
       {
         "s": "सयुजा",
-        "h": "सदा संयुक्त / inseparably joined",
+        "h": "सदा संयुक्त / अविभाज्य रूप से जुड़े",
         "e": "inseparably united"
       },
       {
         "s": "सखाया",
-        "h": "सखा / मित्र / companions",
+        "h": "सखा / मित्र",
         "e": "friends / companions"
       },
       {
-        "s": "पिप्पलम्",
-        "h": "पीपल का फल / the fruit",
-        "e": "the fruit"
+        "s": "समानम्",
+        "h": "एक ही / समान",
+        "e": "the same"
       },
       {
-        "s": "स्वादु अत्ति",
-        "h": "स्वाद से खाता है / eats with relish",
-        "e": "eats with relish"
+        "s": "वृक्षम्",
+        "h": "वृक्ष / पेड़",
+        "e": "tree"
+      },
+      {
+        "s": "परिषस्वजाते",
+        "h": "आलिंगन किए हुए हैं / लिपटे हुए हैं",
+        "e": "have embraced / cling to"
+      },
+      {
+        "s": "तयोः",
+        "h": "उन दोनों में से",
+        "e": "of the two"
+      },
+      {
+        "s": "अन्यः",
+        "h": "एक / दूसरा",
+        "e": "one / the other"
+      },
+      {
+        "s": "पिप्पलम्",
+        "h": "पीपल का फल",
+        "e": "the fruit (of the pīpal tree)"
+      },
+      {
+        "s": "स्वादु",
+        "h": "स्वाद से / मिठास से",
+        "e": "with relish / sweetly"
+      },
+      {
+        "s": "अत्ति",
+        "h": "खाता है",
+        "e": "eats"
+      },
+      {
+        "s": "अनश्नन्",
+        "h": "बिना खाए / न खाते हुए",
+        "e": "not eating"
       },
       {
         "s": "अभिचाकशीति",
-        "h": "केवल देखता है / simply looks on / witnesses",
-        "e": "simply looks on / gazes"
+        "h": "केवल देखता रहता है / गहन दृष्टि से निहारता है",
+        "e": "simply looks on / intensely gazes"
       }
     ],
-    "gr": "<strong>The two birds — the Upanishads' most famous parable</strong>: this is one of the most celebrated mantras in all Upanishadic literature, and one of the oldest surviving parables in Indian philosophy. <strong>The two birds</strong>: (1) <em>The eating bird (jīva/individual self)</em> — eats the fruit of the pīpal tree, experiencing pleasure and pain, joy and sorrow. This bird is the individual soul engaged with the world, reaping the fruits of karma. (2) <em>The watching bird (ātman/Brahman/witness)</em> — sits on the same tree, does not eat, simply watches. This bird is the supreme Self — pure awareness, the eternal witness (sākṣin) who is never affected by anything. <strong>samānaṁ vṛkṣam</strong> — 'the same tree': the tree is the body (or saṁsāra/the world). Both birds sit on the SAME tree — the jīva and Brahman share the same body, the same life, the same reality. They are 'inseparably united' (sayujā) and 'friends' (sakhāyā). <strong>The critical contrast</strong>: one eats (atti), the other watches (abhicākaśīti). One is involved, the other is detached. One suffers and enjoys, the other is eternally at peace. <strong>abhicākaśīti</strong>: the intensive/frequentative form of √cakṣ (to see) — not just 'sees' but 'intensely watches' / 'continuously gazes.' The witness doesn't glance casually — it watches with absolute, unwavering attention. Yet it never acts.",
+    "gr": "<strong>व्याकरण:</strong> <em>द्वा सुपर्णा</em> — 'द्वा' = द्विवचन (dual) 'दो'; 'सुपर्णा' = सु (सुन्दर) + पर्ण (पंख) — 'सुन्दर पंखों वाले पक्षी।' <em>सयुजा सखाया</em> — 'सयुजा' = सम् + युज् (जोड़ना) — 'सदा संयुक्त'; 'सखाया' = सखि (मित्र) का द्विवचन। <em>समानं वृक्षम्</em> — 'समानम्' = एक ही; 'वृक्षम्' = शरीर / संसार-वृक्ष — दोनों पक्षी एक ही वृक्ष पर बैठे हैं। <em>परिषस्वजाते</em> — परि + स्वज् (आलिंगन करना) — 'लिपटे हुए हैं' — दोनों वृक्ष से अभिन्न। <em>तयोः अन्यः</em> = 'उन दोनों में एक'; <em>पिप्पलं स्वाद्वत्ति</em> = 'फल को स्वाद ले-लेकर खाता है' — जीवात्मा कर्मफल भोगता है। <em>अनश्नन्</em> = अन् + अश् (खाना) — 'बिना खाए' — साक्षी कर्मफल से अस्पृष्ट। <em>अभिचाकशीति</em> = अभि + √चक्ष् का यङ्लुक् (intensive/frequentative) — 'गहनता से निरन्तर देखता है' — साक्षी निष्क्रिय नहीं, सतत जागरूक। <strong>दो पक्षियों का रूपक</strong> — उपनिषदों का सर्वाधिक प्रसिद्ध रूपक: (1) खाने वाला पक्षी = जीवात्मा — सुख-दुःख भोगता; (2) देखने वाला पक्षी = परमात्मा / साक्षी — सदा शान्त, अस्पृष्ट। यह मन्त्र ऋग्वेद (1.164.20) में सर्वप्रथम आता है।<br><em>Eng:</em> The two birds — the Upanishads' most famous parable. 'Dvā suparṇā' = two beautiful-winged birds. 'Sayujā sakhāyā' = inseparably united friends. 'Pariṣasvajāte' = have embraced the same tree (= body/saṁsāra). One bird eats the fruit (jīva experiencing karma-fruits); the other watches without eating (ātman/witness). 'Abhicākaśīti' is the yaṅ-luk intensive of √cakṣ — 'gazes intensely/continuously,' not mere casual seeing.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -62,11 +102,11 @@
     "dp": [
       {
         "q": "🔍 The two birds — origin, meaning, and impact",
-        "a": "The <strong>two-birds parable</strong> is one of the most ancient, most famous, and most widely quoted images in Indian philosophy: <strong>Origin</strong>: this mantra first appears in the <strong>Ṛg Veda</strong> (1.164.20), composed by the seer <strong>Dīrghatamas</strong> — making it one of the oldest philosophical verses in human history (possibly 1500-1200 BCE). The Muṇḍaka reproduces it nearly verbatim. The <strong>Śvetāśvatara</strong> (4.6) also quotes it. <strong>The mapping</strong>: (1) <em>Tree (vṛkṣa)</em> = the body, or the world of saṁsāra, or the field of karma. It is the <em>shared</em> ground of experience — both birds sit on the SAME tree. (2) <em>Eating bird</em> = the jīva (individual self) — engaged with the world, experiencing pleasure and pain, eating the sweet and bitter fruits of karma. This bird is restless — always seeking the next fruit. (3) <em>Watching bird</em> = the ātman/Brahman/witness (sākṣin) — pure awareness, unmoving, uninvolved, simply gazing. This bird is at perfect peace — it has never eaten, never desired, never suffered. (4) <em>Inseparably united (sayujā)</em> = the two are never apart. Even in the deepest ignorance, Brahman is right beside the jīva — on the same tree, as a friend. <strong>The message</strong>: you are BOTH birds. You experience life (eating bird), but your true nature is the witness (watching bird). Liberation is not going to a new tree — it is seeing the bird you've always been."
+        "a": "यह <strong>दो पक्षियों का रूपक</strong> भारतीय दर्शन की सर्वाधिक प्राचीन, प्रसिद्ध और सर्वाधिक उद्धृत छवियों में से एक है। <strong>उत्पत्ति</strong>: यह मन्त्र सर्वप्रथम <strong>ऋग्वेद</strong> (1.164.20) में दीर्घतमस् ऋषि द्वारा रचित मिलता है — सम्भवतः 1500-1200 ई.पू. — मानव इतिहास की प्राचीनतम दार्शनिक ऋचाओं में से एक। श्वेताश्वतर (4.6) भी इसे उद्धृत करता है। <strong>रूपक की व्याख्या</strong>: (1) <em>वृक्ष</em> = शरीर / संसार / कर्मक्षेत्र — दोनों पक्षी एक ही वृक्ष पर। (2) <em>खाने वाला पक्षी</em> = जीवात्मा — सुख-दुःख रूपी कर्मफल खाता है — सदा अगले फल की खोज में। (3) <em>देखने वाला पक्षी</em> = आत्मा / ब्रह्म / साक्षी — शुद्ध चेतना, अचल, अलिप्त, केवल देखता है — पूर्ण शान्ति में। (4) <em>सयुजा</em> = दोनों कभी अलग नहीं — गहनतम अज्ञान में भी ब्रह्म जीव के पास ही — सखा के रूप में। <strong>सन्देश</strong>: आप दोनों पक्षी हैं — जीवन अनुभव करते हैं (खाने वाला), किन्तु आपका वास्तविक स्वरूप साक्षी (देखने वाला) है। मुक्ति नए वृक्ष पर जाना नहीं — उस पक्षी को देखना है जो आप सदा से हैं।<br><br><em>Eng:</em> The <strong>two-birds parable</strong> is one of the most ancient, most famous, and most widely quoted images in Indian philosophy: <strong>Origin</strong>: this mantra first appears in the <strong>Ṛg Veda</strong> (1.164.20), composed by the seer <strong>Dīrghatamas</strong> — making it one of the oldest philosophical verses in human history (possibly 1500-1200 BCE). The Muṇḍaka reproduces it nearly verbatim. The <strong>Śvetāśvatara</strong> (4.6) also quotes it. <strong>The mapping</strong>: (1) <em>Tree (vṛkṣa)</em> = the body, or the world of saṁsāra, or the field of karma. It is the <em>shared</em> ground of experience — both birds sit on the SAME tree. (2) <em>Eating bird</em> = the jīva (individual self) — engaged with the world, experiencing pleasure and pain, eating the sweet and bitter fruits of karma. This bird is restless — always seeking the next fruit. (3) <em>Watching bird</em> = the ātman/Brahman/witness (sākṣin) — pure awareness, unmoving, uninvolved, simply gazing. This bird is at perfect peace — it has never eaten, never desired, never suffered. (4) <em>Inseparably united (sayujā)</em> = the two are never apart. Even in the deepest ignorance, Brahman is right beside the jīva — on the same tree, as a friend. <strong>The message</strong>: you are BOTH birds. You experience life (eating bird), but your true nature is the witness (watching bird). Liberation is not going to a new tree — it is seeing the bird you've always been."
       },
       {
         "q": "🔍 'Abhicākaśīti' — the witness who intensely gazes",
-        "a": "The verb <strong>'abhicākaśīti'</strong> deserves special attention — it reveals the nature of the witnessing Self: <strong>Grammar</strong>: abhicākaśīti is the <em>intensive/frequentative</em> form (yaṅ-luk) of √cakṣ (to see/perceive). The intensive form indicates repeated, intense, or continuous action. So it doesn't mean merely 'sees' but '<em>gazes intently</em>' or '<em>watches continuously</em>.' <strong>What this reveals about the witness</strong>: (1) The witness is not <em>passive</em> — it watches with <em>intense</em> attention. It sees everything — every fruit eaten, every pleasure, every pain — with perfect clarity. (2) The witness is not <em>indifferent</em> — the intensive form suggests deep, sustained awareness, not casual observation. The Self doesn't 'glance' at the world; it <em>gazes</em>. (3) The witness is not <em>acting</em> — despite watching intently, it does NOT eat. It has complete awareness without any involvement. Awareness without attachment. <strong>The practical significance for meditation</strong>: to find the 'watching bird,' don't try to stop awareness — instead, find the part of you that is <em>already</em> watching. You are already the witness in every moment — behind every thought, behind every emotion, behind every perception, there is something that simply watches. That is the second bird. That is you."
+        "a": "<strong>अभिचाकशीति</strong> क्रिया विशेष ध्यान देने योग्य है — यह साक्षी-आत्मा के स्वरूप को प्रकट करती है। <strong>व्याकरण</strong>: अभिचाकशीति = √चक्ष् (देखना) का यङ्लुक् (intensive/frequentative) रूप — अर्थात् 'बार-बार, गहनता से, निरन्तर देखना।' <strong>साक्षी के बारे में यह क्या प्रकट करता है</strong>: (1) साक्षी निष्क्रिय नहीं — गहन ध्यान से देखता है — हर फल, हर सुख-दुःख, पूर्ण स्पष्टता से। (2) साक्षी उदासीन नहीं — intensive रूप गहरी, निरन्तर जागरूकता सूचित करता है। (3) साक्षी कर्ता नहीं — गहनता से देखते हुए भी खाता नहीं — जागरूकता बिना आसक्ति। <strong>ध्यान के लिए व्यावहारिक महत्व</strong>: 'देखने वाले पक्षी' को खोजने के लिए जागरूकता रोकने की आवश्यकता नहीं — अपने भीतर उस भाग को खोजें जो पहले से देख रहा है — हर विचार, हर भावना के पीछे कुछ है जो बस देखता है — वही दूसरा पक्षी है — वही आप हैं।<br><br><em>Eng:</em> The verb <strong>'abhicākaśīti'</strong> deserves special attention — it reveals the nature of the witnessing Self: <strong>Grammar</strong>: abhicākaśīti is the <em>intensive/frequentative</em> form (yaṅ-luk) of √cakṣ (to see/perceive). The intensive form indicates repeated, intense, or continuous action. So it doesn't mean merely 'sees' but '<em>gazes intently</em>' or '<em>watches continuously</em>.' <strong>What this reveals about the witness</strong>: (1) The witness is not <em>passive</em> — it watches with <em>intense</em> attention. It sees everything — every fruit eaten, every pleasure, every pain — with perfect clarity. (2) The witness is not <em>indifferent</em> — the intensive form suggests deep, sustained awareness, not casual observation. The Self doesn't 'glance' at the world; it <em>gazes</em>. (3) The witness is not <em>acting</em> — despite watching intently, it does NOT eat. It has complete awareness without any involvement. Awareness without attachment. <strong>The practical significance for meditation</strong>: to find the 'watching bird,' don't try to stop awareness — instead, find the part of you that is <em>already</em> watching. You are already the witness in every moment — behind every thought, behind every emotion, behind every perception, there is something that simply watches. That is the second bird. That is you."
       }
     ]
   },
@@ -78,32 +118,87 @@
     "en": "On the same tree (samāne vṛkṣe), the person (puruṣa), immersed (nimagnaḥ), grieves (śocati) due to helplessness (anīśayā), deluded (muhyamānaḥ). But when (yadā) he sees (paśyati) the other (anyam), the Lord (īśam), the adored one (juṣṭam), and [realises] His glory (asya mahimānam) — then he becomes free from sorrow (vīta-śokaḥ).",
     "ws": [
       {
+        "s": "समाने",
+        "h": "समान / एक ही",
+        "e": "the same"
+      },
+      {
+        "s": "वृक्षे",
+        "h": "वृक्ष पर",
+        "e": "on the tree"
+      },
+      {
+        "s": "पुरुषः",
+        "h": "पुरुष / जीव / व्यक्ति",
+        "e": "the person / individual soul"
+      },
+      {
         "s": "निमग्नः",
-        "h": "डूबा हुआ / immersed / sunken",
+        "h": "डूबा हुआ / लीन",
         "e": "immersed / drowned"
       },
       {
         "s": "अनीशया",
-        "h": "अशक्ति से / अनीश्वरत्व से / due to helplessness",
+        "h": "अशक्ति से / ईश्वरत्व-रहित होने से",
         "e": "due to helplessness / lordlessness"
       },
       {
+        "s": "शोचति",
+        "h": "शोक करता है / दुःखी होता है",
+        "e": "grieves"
+      },
+      {
         "s": "मुह्यमानः",
-        "h": "मोहित / deluded / bewildered",
-        "e": "being deluded"
+        "h": "मोहित होता हुआ / भ्रमित",
+        "e": "being deluded / bewildered"
       },
       {
         "s": "जुष्टम्",
-        "h": "सेवित / पूजित / adored / worshipped",
-        "e": "the adored one"
+        "h": "सेवित / पूजित / आराध्य",
+        "e": "the adored / worshipped one"
+      },
+      {
+        "s": "यदा",
+        "h": "जब",
+        "e": "when"
+      },
+      {
+        "s": "पश्यति",
+        "h": "देखता है",
+        "e": "sees"
+      },
+      {
+        "s": "अन्यम्",
+        "h": "दूसरे को / अन्य को",
+        "e": "the other"
+      },
+      {
+        "s": "ईशम्",
+        "h": "ईश्वर को / प्रभु को",
+        "e": "the Lord"
+      },
+      {
+        "s": "अस्य",
+        "h": "इसका / उसका",
+        "e": "His"
+      },
+      {
+        "s": "महिमानम्",
+        "h": "महिमा / वैभव",
+        "e": "glory / greatness"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार / तब",
+        "e": "thus / then"
       },
       {
         "s": "वीतशोकः",
-        "h": "शोक-रहित / free from sorrow",
+        "h": "शोक-रहित / दुःख से मुक्त",
         "e": "free from sorrow"
       }
     ],
-    "gr": "<strong>From grief to freedom — the turning point</strong>: this mantra is the emotional heart of the two-birds parable. The first mantra described the situation; this mantra describes the <em>transformation</em>. <strong>The jīva's condition</strong>: nimagnaḥ (immersed/drowned), anīśayā (helpless), śocati (grieves), muhyamānaḥ (deluded). Four words painting the picture of the individual soul's suffering — drowning in the world, feeling powerless, grieving, and confused. <strong>The turning point</strong>: 'yadā paśyati' — 'when he sees.' The moment of liberation is a <em>seeing</em> — the jīva turns and sees the other bird, the Lord (īśam), the watching witness who has been there all along. <strong>What causes the seeing?</strong> The mantra doesn't say the jīva earns it or deserves it — it simply says 'yadā' (when). The moment of recognition is not a product of effort alone but a <em>grace-filled turning</em>. <strong>vīta-śokaḥ</strong> — 'free from sorrow': the result is immediate. The moment the jīva sees the Lord, sorrow <em>departs</em> (vīta). Not gradually reduced, not managed — gone. Because sorrow was caused by 'anīśayā' (lordlessness/helplessness), and seeing the Lord is the direct remedy.",
+    "gr": "<strong>व्याकरण:</strong> <em>समाने वृक्षे</em> — सप्तमी विभक्ति (locative) — 'उसी वृक्ष पर।' <em>पुरुषः निमग्नः</em> — 'पुरुष' = जीवात्मा; 'निमग्नः' = नि + √मज्ज् (डूबना) — 'डूबा हुआ' — संसार-अनुभव में लीन। <em>अनीशया</em> — अन् + ईश (ईश्वर/प्रभु) + तृतीया — 'ईश्वरत्व-रहित होने से' / 'अशक्ति से' — जीव स्वयं को सीमित, असहाय मानता है। <em>शोचति</em> = √शुच् (शोक करना) — 'दुःखी होता है।' <em>मुह्यमानः</em> = √मुह् (मोहित होना) — शानच् प्रत्यय — 'मोहित होता हुआ।' <em>जुष्टम्</em> = √जुष् (सेवा करना/प्रसन्न होना) — कर्मणि भूतकृदन्त — 'सेवित / आराध्य।' <em>यदा पश्यति</em> = 'जब देखता है' — मोक्ष का क्षण एक 'दर्शन' है — जीव पलटकर दूसरे पक्षी को देखता है। <em>अन्यम् ईशम्</em> = 'दूसरे को, ईश्वर को' — साक्षी जो सदा वहाँ था। <em>वीतशोकः</em> = वीत (गया हुआ) + शोक — 'शोक चला गया' — तत्काल, पूर्ण शोक-मुक्ति।<br><em>Eng:</em> From grief to freedom — the emotional heart of the two-birds parable. 'Nimagnaḥ' (ni + √majj) = immersed/drowned. 'Anīśayā' = an-īśa (without lordship/helplessness). Four words paint the jīva's suffering: nimagnaḥ, anīśayā, śocati, muhyamānaḥ. The turning point: 'yadā paśyati' — the moment of recognition. 'Vīta-śokaḥ' = sorrow departs instantly upon seeing the Lord.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -128,11 +223,11 @@
     "dp": [
       {
         "q": "🔍 'Anīśayā' — the root cause of grief",
-        "a": "The word <strong>'anīśayā'</strong> identifies the <em>root cause</em> of the jīva's grief: <strong>Etymology</strong>: an-īśa = 'without lordship' / 'not being the lord' / 'helplessness.' <strong>Two readings</strong>: (1) <em>Advaita</em>: 'anīśayā' = because the jīva thinks it is NOT the Lord (an-īśa) — i.e., it has forgotten its identity with Brahman. The grief comes from mistaken identity — thinking 'I am a limited, powerless individual' when in fact 'I am Brahman.' The remedy: recognise your identity with the watching bird. (2) <em>Viśiṣṭādvaita</em>: 'anīśayā' = because the jīva is WITHOUT the Lord (an-īśa) — i.e., it has lost its connection with God. The grief comes from separation — feeling alone when God is actually right beside you (sayujā, sakhāyā). The remedy: turn and see the Lord (anyam īśam paśyati). <strong>Both readings agree</strong>: (a) the root cause of sorrow is a failure of <em>seeing</em> — not seeing the Lord/Self who is always present. (b) The remedy is also a <em>seeing</em> — 'yadā paśyati' (when he sees). (c) The result is immediate — 'vīta-śokaḥ' (sorrow departs). <strong>The practical implication</strong>: grief is not caused by external circumstances but by an internal failure of vision. The Lord is always right beside you (on the same tree). Your sorrow comes not from the world but from not seeing the companion who shares your tree."
+        "a": "'<strong>अनीशया</strong>' शब्द जीव के शोक का मूल कारण पहचानता है। <strong>व्युत्पत्ति</strong>: अन्-ईश = 'ईश्वरत्व-रहित' / 'प्रभुता-रहित' / 'असहायता।' <strong>दो व्याख्याएँ</strong>: (1) <em>अद्वैत</em>: जीव सोचता है कि 'मैं ईश्वर नहीं हूँ' — अपनी ब्रह्म-स्वरूपता भूल चुका है — शोक भ्रान्त पहचान से — उपाय: साक्षी-पक्षी को पहचानो। (2) <em>विशिष्टाद्वैत</em>: जीव ईश्वर से विच्छिन्न महसूस करता है — शोक अलगाव से — उपाय: पलटकर ईश्वर को देखो जो सदा साथ (सयुजा, सखाया)। <strong>दोनों सहमत</strong>: शोक का कारण 'न देखना' है — ईश्वर/आत्मा जो सदा उपस्थित, उसे न देखना। उपाय भी 'देखना' — 'यदा पश्यति।' परिणाम तत्काल — 'वीतशोकः।' <strong>व्यावहारिक निहितार्थ</strong>: शोक बाह्य परिस्थितियों से नहीं — आन्तरिक दृष्टि-दोष से। ईश्वर सदा आपके वृक्ष पर साथ बैठे हैं।<br><br><em>Eng:</em> The word <strong>'anīśayā'</strong> identifies the <em>root cause</em> of the jīva's grief: <strong>Etymology</strong>: an-īśa = 'without lordship' / 'not being the lord' / 'helplessness.' <strong>Two readings</strong>: (1) <em>Advaita</em>: 'anīśayā' = because the jīva thinks it is NOT the Lord (an-īśa) — i.e., it has forgotten its identity with Brahman. The grief comes from mistaken identity — thinking 'I am a limited, powerless individual' when in fact 'I am Brahman.' The remedy: recognise your identity with the watching bird. (2) <em>Viśiṣṭādvaita</em>: 'anīśayā' = because the jīva is WITHOUT the Lord (an-īśa) — i.e., it has lost its connection with God. The grief comes from separation — feeling alone when God is actually right beside you (sayujā, sakhāyā). The remedy: turn and see the Lord (anyam īśam paśyati). <strong>Both readings agree</strong>: (a) the root cause of sorrow is a failure of <em>seeing</em> — not seeing the Lord/Self who is always present. (b) The remedy is also a <em>seeing</em> — 'yadā paśyati' (when he sees). (c) The result is immediate — 'vīta-śokaḥ' (sorrow departs). <strong>The practical implication</strong>: grief is not caused by external circumstances but by an internal failure of vision. The Lord is always right beside you (on the same tree). Your sorrow comes not from the world but from not seeing the companion who shares your tree."
       },
       {
         "q": "🔍 The moment of recognition — 'yadā paśyati' (when he sees)",
-        "a": "The phrase <strong>'yadā paśyati'</strong> ('when he sees') describes the <em>turning point</em> — the moment when the grieving jīva turns and sees the Lord: <strong>What triggers the seeing?</strong> The mantra uses 'yadā' (when) — a simple temporal conjunction that is deliberately vague about <em>causation</em>. It doesn't say 'after performing rituals,' or 'after studying the Vedas,' or 'after years of meditation.' It says simply 'when.' This vagueness is itself significant — it suggests that the moment of recognition cannot be fully caused or produced by human effort. It involves an element of <em>grace</em> or <em>spontaneous turning</em>. <strong>What does the jīva see?</strong> (1) 'anyam' = the OTHER — the bird that is different from the eating bird. (2) 'īśam' = the LORD — the one who has mastery, who is sovereign. (3) 'juṣṭam' = the ADORED — the one who is inherently delightful, worshipped by the wise. (4) 'asya mahimānam' = HIS GLORY — the splendour and greatness of the Lord. <strong>The result</strong>: 'vīta-śokaḥ' = sorrow <em>departs</em>. Not 'sorrow is suppressed' or 'sorrow is managed' — sorrow LEAVES. It goes away entirely. Because the cause of sorrow was 'anīśayā' (not-seeing-the-Lord), and now the Lord is seen. The cause is removed; the effect dissolves. <strong>The Kaṭha parallel</strong> (1.2.22-23): 'Through the grace of the Creator, he sees the greatness of the Self and becomes free from sorrow.' The Kaṭha explicitly attributes the seeing to <em>grace</em> (dhātu-prasāda) — a dimension that the Muṇḍaka's 'yadā' leaves open."
+        "a": "'<strong>यदा पश्यति</strong>' ('जब वह देखता है') — यह मोड़ का क्षण है — शोकग्रस्त जीव पलटकर ईश्वर को देखता है। <strong>दर्शन का कारण क्या?</strong> मन्त्र 'यदा' (जब) कहता है — कार्य-कारण के बारे में जानबूझकर अस्पष्ट — यह सुझाता है कि पहचान का क्षण पूर्णतः मानवीय प्रयास से उत्पन्न नहीं — इसमें कृपा / स्वतःस्फूर्त मुड़ना है। <strong>जीव क्या देखता है?</strong> (1) 'अन्यम्' = दूसरा — खाने वाले पक्षी से भिन्न। (2) 'ईशम्' = प्रभु — जिसके पास ऐश्वर्य है। (3) 'जुष्टम्' = आराध्य — स्वभावतः आनन्दमय। (4) 'अस्य महिमानम्' = उसकी महिमा। <strong>परिणाम</strong>: शोक 'चला जाता है' (वीत) — दबाया नहीं, प्रबन्धित नहीं — विलुप्त। कारण (अनीशया) हटा — प्रभाव विलीन।<br><br><em>Eng:</em> The phrase <strong>'yadā paśyati'</strong> ('when he sees') describes the <em>turning point</em> — the moment when the grieving jīva turns and sees the Lord: <strong>What triggers the seeing?</strong> The mantra uses 'yadā' (when) — a simple temporal conjunction that is deliberately vague about <em>causation</em>. It doesn't say 'after performing rituals,' or 'after studying the Vedas,' or 'after years of meditation.' It says simply 'when.' This vagueness is itself significant — it suggests that the moment of recognition cannot be fully caused or produced by human effort. It involves an element of <em>grace</em> or <em>spontaneous turning</em>. <strong>What does the jīva see?</strong> (1) 'anyam' = the OTHER — the bird that is different from the eating bird. (2) 'īśam' = the LORD — the one who has mastery, who is sovereign. (3) 'juṣṭam' = the ADORED — the one who is inherently delightful, worshipped by the wise. (4) 'asya mahimānam' = HIS GLORY — the splendour and greatness of the Lord. <strong>The result</strong>: 'vīta-śokaḥ' = sorrow <em>departs</em>. Not 'sorrow is suppressed' or 'sorrow is managed' — sorrow LEAVES. It goes away entirely. Because the cause of sorrow was 'anīśayā' (not-seeing-the-Lord), and now the Lord is seen. The cause is removed; the effect dissolves. <strong>The Kaṭha parallel</strong> (1.2.22-23): 'Through the grace of the Creator, he sees the greatness of the Self and becomes free from sorrow.' The Kaṭha explicitly attributes the seeing to <em>grace</em> (dhātu-prasāda) — a dimension that the Muṇḍaka's 'yadā' leaves open."
       }
     ]
   },
@@ -144,32 +239,87 @@
     "en": "When (yadā) the seer (paśyaḥ) sees (paśyate) the golden-coloured (rukma-varṇam) maker (kartāram), the Lord (īśam), the Person (puruṣam), the source of Brahman (brahma-yonim) — then (tadā) the wise one (vidvān), shaking off (vidhūya) both merit and sin (puṇya-pāpe), becomes stainless (nirañjanaḥ) and attains (upaiti) supreme equality/identity (paramaṁ sāmyam).",
     "ws": [
       {
+        "s": "यदा",
+        "h": "जब",
+        "e": "when"
+      },
+      {
+        "s": "पश्यः",
+        "h": "देखने वाला / द्रष्टा",
+        "e": "the seer"
+      },
+      {
+        "s": "पश्यते",
+        "h": "देखता है",
+        "e": "sees"
+      },
+      {
         "s": "रुक्मवर्णम्",
-        "h": "सोने के रंग वाला / सुवर्ण-वर्ण / golden-coloured",
+        "h": "सोने के रंग वाला / सुवर्ण-वर्ण",
         "e": "golden-coloured"
       },
       {
+        "s": "कर्तारम्",
+        "h": "रचयिता / कर्ता",
+        "e": "the maker / creator"
+      },
+      {
+        "s": "ईशम्",
+        "h": "ईश्वर / प्रभु",
+        "e": "the Lord"
+      },
+      {
+        "s": "पुरुषम्",
+        "h": "पुरुष / परम सत्ता",
+        "e": "the Person / supreme Being"
+      },
+      {
         "s": "ब्रह्मयोनिम्",
-        "h": "ब्रह्म (Veda/Hiraṇyagarbha) का योनि (source/womb)",
+        "h": "ब्रह्मा (हिरण्यगर्भ) का भी कारण / स्रोत",
         "e": "the source/womb of Brahman"
       },
       {
+        "s": "तदा",
+        "h": "तब",
+        "e": "then"
+      },
+      {
+        "s": "विद्वान्",
+        "h": "ज्ञानी / विद्वान",
+        "e": "the wise one"
+      },
+      {
+        "s": "पुण्यपापे",
+        "h": "पुण्य और पाप दोनों",
+        "e": "both merit and sin"
+      },
+      {
         "s": "विधूय",
-        "h": "झाड़कर / दूर करके / shaking off",
+        "h": "झाड़कर / दूर करके",
         "e": "shaking off"
       },
       {
         "s": "निरञ्जनः",
-        "h": "निर्मल / कलंक-रहित / stainless",
-        "e": "stainless"
+        "h": "निर्मल / कलंक-रहित",
+        "e": "stainless / untainted"
+      },
+      {
+        "s": "परमम्",
+        "h": "परम / सर्वोच्च",
+        "e": "supreme"
       },
       {
         "s": "साम्यम्",
-        "h": "समता / तुल्यता / equality / identity",
+        "h": "समता / तुल्यता / ऐक्य",
         "e": "equality / identity / sameness"
+      },
+      {
+        "s": "उपैति",
+        "h": "प्राप्त करता है",
+        "e": "attains"
       }
     ],
-    "gr": "<strong>The vision of the golden Puruṣa and total liberation</strong>: this mantra describes the culminating vision — the seer sees the golden Person and is immediately liberated. <strong>rukma-varṇam</strong> — 'golden-coloured': the Puruṣa is seen as golden/luminous. Gold in the Upanishads symbolises: (1) self-luminosity — gold shines by its own nature, (2) imperishability — gold doesn't corrode or decay, (3) purity — gold is the purest metal. The Chāndogya (1.6.6) describes 'the Person in the sun' as golden: 'ya eṣo'ntarāditye hiraṇmayaḥ puruṣaḥ.' <strong>brahma-yonim</strong> — 'the source of Brahman': a remarkable title. The Puruṣa is not just Brahman — He is the <em>source</em> (yoni) of Brahman (= Hiraṇyagarbha / the cosmic mind). He is the origin of the origin. <strong>puṇya-pāpe vidhūya</strong> — 'shaking off both merit and sin': liberation transcends BOTH good and evil karma. Not only sin but even merit (puṇya) is 'shaken off' — because any karma, positive or negative, binds the soul to saṁsāra. <strong>nirañjanaḥ</strong> — 'stainless': the Self was never actually stained. The 'shaking off' (vidhūya) reveals what was always there — unstained consciousness. <strong>paramaṁ sāmyam</strong> — 'supreme equality/identity': the ultimate state — equality or identity with the Puruṣa.",
+    "gr": "<strong>व्याकरण:</strong> <em>यदा पश्यः पश्यते</em> — 'पश्यः' = द्रष्टा (the seer); 'पश्यते' = आत्मनेपद (middle voice) — 'स्वयं के लिए देखता है' — दर्शन आत्म-अनुभव। <em>रुक्मवर्णम्</em> = रुक्म (सुवर्ण/gold) + वर्ण (रंग) — 'स्वर्ण-वर्ण' — स्वयंप्रकाश, अक्षय, शुद्ध। <em>कर्तारम्</em> = √कृ (करना) — 'रचयिता / सृष्टिकर्ता।' <em>ब्रह्मयोनिम्</em> = ब्रह्म (हिरण्यगर्भ/वेद) + योनि (स्रोत/गर्भ) — पुरुष स्वयं ब्रह्म नहीं, ब्रह्म का भी स्रोत — 'कारण का कारण।' <em>पुण्यपापे विधूय</em> — 'पुण्य-पाप' = द्वन्द्व समास — दोनों कर्म (अच्छा और बुरा) 'झाड़ दिए जाते हैं' — मोक्ष दोनों से परे। <em>निरञ्जनः</em> = निर् + अञ्जन (कालिमा/दाग) — 'कलंक-रहित' — आत्मा कभी दागी हुआ ही नहीं — विधूय से जो था वही प्रकट। <em>परमं साम्यम् उपैति</em> — 'साम्यम्' = समता / ऐक्य — अद्वैत में ब्रह्म-ऐक्य, विशिष्टाद्वैत में सारूप्य-सायुज्य।<br><em>Eng:</em> The vision of the golden Puruṣa and total liberation. 'Paśyaḥ paśyate' — the seer sees (ātmanepada = self-referential seeing). 'Rukma-varṇam' = golden — self-luminous, imperishable, pure. 'Brahma-yonim' = the source of Brahman/Hiraṇyagarbha — origin of the origin. 'Puṇya-pāpe vidhūya' = shaking off BOTH merit and sin — liberation transcends all karma. 'Nirañjanaḥ' = stainless — the Self was never actually stained. 'Paramaṁ sāmyam' = supreme identity/equality with the Puruṣa.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -194,11 +344,11 @@
     "dp": [
       {
         "q": "🔍 The golden Puruṣa — why gold?",
-        "a": "The <strong>golden colour (rukma-varṇa)</strong> of the Puruṣa is a recurring motif in the Upanishads and carries deep symbolic significance: <strong>Why gold?</strong> (1) <em>Self-luminosity</em>: gold shines by its own nature — it doesn't need an external light source to gleam. Similarly, the Puruṣa is svayam-prakāśa (self-luminous) — consciousness shines by itself, needing no external illumination. (2) <em>Imperishability</em>: gold does not corrode, rust, or decay. It can be buried for millennia and emerge unchanged. Similarly, the Puruṣa is akṣara (imperishable) — consciousness never degrades. (3) <em>Purity</em>: gold is the 'noblest' metal — it doesn't react with other elements, doesn't tarnish, doesn't become impure. Similarly, the Puruṣa is nirañjana (stainless) — consciousness is never polluted by experience. <strong>Upanishadic precedents</strong>: (1) <em>Chāndogya</em> (1.6.6): 'the Person in the sun is golden' (hiraṇmayaḥ puruṣaḥ). (2) <em>Śvetāśvatara</em> (3.8): 'I know that great Puruṣa, of sun-like lustre, beyond darkness' (āditya-varṇaṁ tamasaḥ parastāt). (3) <em>Bṛhadāraṇyaka</em> (4.3.11): 'In this state, the person is self-luminous' (svayam jyotiḥ). <strong>The experiential dimension</strong>: meditators across traditions report seeing golden or luminous light in deep meditation — the 'golden Person' may describe an actual meditative experience, not merely a metaphor."
+        "a": "पुरुष का <strong>सुवर्ण-वर्ण (रुक्म-वर्ण)</strong> उपनिषदों में बार-बार आता है और गहरा प्रतीकात्मक अर्थ रखता है। <strong>सोना क्यों?</strong> (1) <em>स्वयंप्रकाशता</em>: सोना अपने स्वभाव से चमकता है — पुरुष स्वयंप्रकाश (self-luminous) — चेतना को किसी बाह्य प्रकाश की आवश्यकता नहीं। (2) <em>अक्षयता</em>: सोना जंग नहीं लगता, क्षय नहीं होता — पुरुष अक्षर (imperishable)। (3) <em>शुद्धता</em>: सोना अन्य तत्त्वों से प्रतिक्रिया नहीं करता — पुरुष निरञ्जन — चेतना कभी अनुभव से अशुद्ध नहीं होती। <strong>उपनिषदों में</strong>: छान्दोग्य (1.6.6) — 'सूर्य के भीतर हिरण्मय पुरुष'; श्वेताश्वतर (3.8) — 'आदित्यवर्णं तमसः परस्तात्'; बृहदारण्यक (4.3.11) — 'स्वयं ज्योतिः।' <strong>अनुभवात्मक आयाम</strong>: गहन ध्यान में साधक प्रायः स्वर्णिम या ज्योतिर्मय प्रकाश देखते हैं — 'सुवर्ण-पुरुष' केवल रूपक नहीं, ध्यान-अनुभव का वर्णन भी हो सकता है।<br><br><em>Eng:</em> The <strong>golden colour (rukma-varṇa)</strong> of the Puruṣa is a recurring motif in the Upanishads and carries deep symbolic significance: <strong>Why gold?</strong> (1) <em>Self-luminosity</em>: gold shines by its own nature — it doesn't need an external light source to gleam. Similarly, the Puruṣa is svayam-prakāśa (self-luminous) — consciousness shines by itself, needing no external illumination. (2) <em>Imperishability</em>: gold does not corrode, rust, or decay. It can be buried for millennia and emerge unchanged. Similarly, the Puruṣa is akṣara (imperishable) — consciousness never degrades. (3) <em>Purity</em>: gold is the 'noblest' metal — it doesn't react with other elements, doesn't tarnish, doesn't become impure. Similarly, the Puruṣa is nirañjana (stainless) — consciousness is never polluted by experience. <strong>Upanishadic precedents</strong>: (1) <em>Chāndogya</em> (1.6.6): 'the Person in the sun is golden' (hiraṇmayaḥ puruṣaḥ). (2) <em>Śvetāśvatara</em> (3.8): 'I know that great Puruṣa, of sun-like lustre, beyond darkness' (āditya-varṇaṁ tamasaḥ parastāt). (3) <em>Bṛhadāraṇyaka</em> (4.3.11): 'In this state, the person is self-luminous' (svayam jyotiḥ). <strong>The experiential dimension</strong>: meditators across traditions report seeing golden or luminous light in deep meditation — the 'golden Person' may describe an actual meditative experience, not merely a metaphor."
       },
       {
         "q": "🔍 Shaking off both merit AND sin — beyond good and evil",
-        "a": "The phrase <strong>'puṇya-pāpe vidhūya'</strong> ('shaking off both merit and sin') makes a radical claim: <strong>Why is merit (puṇya) shaken off?</strong> Isn't merit good? In the context of liberation, even merit is a <em>chain</em> — a golden chain, but a chain nonetheless: (1) <em>Puṇya creates heavenly enjoyment</em>: good karma leads to pleasant rebirths, heavenly worlds, divine experiences. But these are <em>temporary</em> — when the merit is exhausted, the soul falls back (kṣīṇe puṇye martya-lokaṁ viśanti — Gītā 9.21). (2) <em>Puṇya creates attachment</em>: the desire for merit creates attachment to results — 'I want to go to heaven,' 'I want a good rebirth.' This desire itself perpetuates saṁsāra. (3) <em>Puṇya reinforces the ego</em>: 'I am a good person,' 'I have done great deeds' — this pride strengthens the sense of separate selfhood, which is the root of bondage. <strong>Liberation is beyond BOTH</strong>: the Muṇḍaka's teaching is unambiguous — liberation requires shaking off ALL karma, positive and negative. The liberated one is 'nirañjana' (stainless) — beyond good and evil, beyond merit and sin, beyond praise and blame. <strong>The Kaṭha parallel</strong> (1.2.14): 'The Self is beyond what is done and what is not done, beyond what has happened and what is to happen.' <strong>The Gītā's echo</strong> (2.50): 'Yoga is skill in action' (yogaḥ karmasu kauśalam) — acting without attachment to results, whether good or bad."
+        "a": "'<strong>पुण्यपापे विधूय</strong>' ('पुण्य और पाप दोनों को झाड़कर') — एक क्रान्तिकारी घोषणा। <strong>पुण्य (merit) भी क्यों झाड़ा जाता है?</strong> मोक्ष के सन्दर्भ में पुण्य भी एक <em>बन्धन</em> है — सोने की ज़ंजीर, पर ज़ंजीर: (1) पुण्य स्वर्गीय भोग देता है — किन्तु अस्थायी — पुण्य क्षीण होने पर पतन (गीता 9.21)। (2) पुण्य आसक्ति पैदा करता है — 'मुझे स्वर्ग चाहिए' — यह कामना संसार-चक्र जारी रखती है। (3) पुण्य अहंकार को पोषित करता है — 'मैं अच्छा व्यक्ति हूँ' — यह अभिमान पृथक् अस्तित्व-भाव को मजबूत करता है। मोक्ष दोनों से परे — मुक्त पुरुष 'निरञ्जन' — शुभ-अशुभ, पुण्य-पाप, स्तुति-निन्दा — सबसे परे।<br><br><em>Eng:</em> The phrase <strong>'puṇya-pāpe vidhūya'</strong> ('shaking off both merit and sin') makes a radical claim: <strong>Why is merit (puṇya) shaken off?</strong> Isn't merit good? In the context of liberation, even merit is a <em>chain</em> — a golden chain, but a chain nonetheless: (1) <em>Puṇya creates heavenly enjoyment</em>: good karma leads to pleasant rebirths, heavenly worlds, divine experiences. But these are <em>temporary</em> — when the merit is exhausted, the soul falls back (kṣīṇe puṇye martya-lokaṁ viśanti — Gītā 9.21). (2) <em>Puṇya creates attachment</em>: the desire for merit creates attachment to results — 'I want to go to heaven,' 'I want a good rebirth.' This desire itself perpetuates saṁsāra. (3) <em>Puṇya reinforces the ego</em>: 'I am a good person,' 'I have done great deeds' — this pride strengthens the sense of separate selfhood, which is the root of bondage. <strong>Liberation is beyond BOTH</strong>: the Muṇḍaka's teaching is unambiguous — liberation requires shaking off ALL karma, positive and negative. The liberated one is 'nirañjana' (stainless) — beyond good and evil, beyond merit and sin, beyond praise and blame. <strong>The Kaṭha parallel</strong> (1.2.14): 'The Self is beyond what is done and what is not done, beyond what has happened and what is to happen.' <strong>The Gītā's echo</strong> (2.50): 'Yoga is skill in action' (yogaḥ karmasu kauśalam) — acting without attachment to results, whether good or bad."
       }
     ]
   },
@@ -210,32 +360,87 @@
     "en": "He is indeed prāṇa (life/consciousness) (prāṇo hy eṣaḥ), who shines (vibhāti) through all beings (sarva-bhūtaiḥ). Understanding this (vijānan), the wise one (vidvān) does not talk excessively (na ativādī). [Rather, he is] one who sports in the Self (ātma-krīḍa), delights in the Self (ātma-rati), [and is] active (kriyāvān). He is the best (variṣṭha) among the knowers of Brahman (brahma-vidām).",
     "ws": [
       {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-शक्ति / चेतना",
+        "e": "prāṇa / life / consciousness"
+      },
+      {
+        "s": "हि",
+        "h": "निश्चय ही / वस्तुतः",
+        "e": "indeed"
+      },
+      {
+        "s": "एषः",
+        "h": "यह / वह",
+        "e": "this / He"
+      },
+      {
+        "s": "यः",
+        "h": "जो",
+        "e": "who"
+      },
+      {
+        "s": "सर्वभूतैः",
+        "h": "सब प्राणियों से / सब जीवों से",
+        "e": "through all beings"
+      },
+      {
         "s": "विभाति",
-        "h": "प्रकाशित होता है / shines forth",
+        "h": "प्रकाशित होता है / चमकता है",
         "e": "shines forth"
       },
       {
+        "s": "विजानन्",
+        "h": "जानते हुए / समझकर",
+        "e": "understanding / knowing"
+      },
+      {
+        "s": "विद्वान्",
+        "h": "ज्ञानी / विद्वान",
+        "e": "the wise one"
+      },
+      {
+        "s": "भवते",
+        "h": "हो जाता है",
+        "e": "becomes"
+      },
+      {
+        "s": "न",
+        "h": "नहीं",
+        "e": "not"
+      },
+      {
         "s": "अतिवादी",
-        "h": "अत्यधिक बोलने वाला / boaster / excessive talker",
-        "e": "one who talks excessively / a boaster"
+        "h": "अत्यधिक बोलने वाला / डींगें मारने वाला",
+        "e": "an excessive talker / boaster"
       },
       {
         "s": "आत्मक्रीडः",
-        "h": "आत्मा में खेलने वाला / one who sports in the Self",
-        "e": "one who plays/sports in the Self"
+        "h": "आत्मा में खेलने वाला / आत्म-विहारी",
+        "e": "one who sports in the Self"
       },
       {
         "s": "आत्मरतिः",
-        "h": "आत्मा में रमण करने वाला / one who delights in the Self",
+        "h": "आत्मा में रमण करने वाला / आत्मानन्दी",
         "e": "one who delights in the Self"
       },
       {
         "s": "क्रियावान्",
-        "h": "कर्मशील / active / engaged in action",
+        "h": "कर्मशील / सक्रिय",
         "e": "active / engaged in action"
+      },
+      {
+        "s": "ब्रह्मविदाम्",
+        "h": "ब्रह्मज्ञानियों में",
+        "e": "among knowers of Brahman"
+      },
+      {
+        "s": "वरिष्ठः",
+        "h": "श्रेष्ठ / सर्वोत्तम",
+        "e": "the best / foremost"
       }
     ],
-    "gr": "<strong>The portrait of the knower of Brahman</strong>: this mantra paints a vivid portrait of the liberated sage. <strong>Five characteristics</strong>: (1) <em>na ativādī</em> — does not boast or talk excessively. The true knower is not a verbose teacher or a disputatious philosopher. Knowledge brings silence, not noise. (2) <em>ātma-krīḍa</em> — plays/sports in the Self. The knower's joy is internal — they 'play' in the infinite playground of the Self. (3) <em>ātma-rati</em> — delights in the Self. All pleasure comes from within. External objects are not rejected but are no longer the source of happiness. (4) <em>kriyāvān</em> — active. This is crucial: the knower is NOT withdrawn from the world. They are <em>active</em>, engaged, doing things — but their action comes from a place of Self-delight, not desire. This anticipates the Gītā's karma-yoga. (5) <em>brahma-vidāṁ variṣṭhaḥ</em> — the best among knowers of Brahman. Among all who know Brahman, the one who embodies these qualities is the highest. <strong>The significance of kriyāvān</strong>: this word refutes the idea that the Brahman-knower is passive or world-renouncing. True knowledge does not lead to inactivity but to a different kind of activity — activity born from fullness rather than lack.",
+    "gr": "<strong>व्याकरण:</strong> <em>प्राणः हि एषः</em> — 'प्राणः' = जीवन-शक्ति / चेतना; 'हि' = निश्चय ही; 'एषः' = वह (पुरुष/ब्रह्म)। <em>सर्वभूतैः विभाति</em> — 'सर्वभूतैः' = तृतीया बहुवचन — 'सब प्राणियों के माध्यम से'; 'विभाति' = वि + √भा (चमकना) — 'विशेष रूप से प्रकाशित होता है।' <em>विजानन्</em> = वि + √ज्ञा — शतृ प्रत्यय — 'विशेष रूप से जानते हुए / गहरी समझ से।' <em>न अतिवादी</em> — 'अतिवादी' = अति + √वद् (बोलना) — 'अत्यधिक बोलने वाला / डींगें हाँकने वाला' — सच्चा ज्ञानी वाचाल नहीं, मौन ज्ञान का लक्षण। <em>आत्मक्रीडः</em> = आत्मन् + √क्रीड् (खेलना) — 'आत्मा में विहार करने वाला।' <em>आत्मरतिः</em> = आत्मन् + √रम् (रमना) — 'आत्मा में आनन्दित।' <em>क्रियावान्</em> = क्रिया + वत् (मतुप् प्रत्यय) — 'कर्मशील / सक्रिय' — यह अत्यन्त महत्वपूर्ण है: ब्रह्मज्ञानी निष्क्रिय या संन्यासी नहीं — सक्रिय है — गीता के कर्मयोग की पूर्वध्वनि। <em>ब्रह्मविदां वरिष्ठः</em> = ब्रह्मज्ञानियों में श्रेष्ठतम।<br><em>Eng:</em> Portrait of the Brahman-knower. Five key traits: (1) na ativādī — doesn't boast; (2) ātma-krīḍa — plays in the Self; (3) ātma-rati — delights in the Self; (4) kriyāvān — active/engaged; (5) brahma-vidāṁ variṣṭha — the best among knowers. 'Kriyāvān' refutes the idea that the knower is passive — true knowledge leads to a different KIND of activity, born from fullness, not lack.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -260,11 +465,11 @@
     "dp": [
       {
         "q": "🔍 'Kriyāvān' — the active knower, not the passive sage",
-        "a": "The word <strong>'kriyāvān'</strong> (active / engaged in action) is one of the most significant words in this mantra: <strong>Why it matters</strong>: the common stereotype of the Brahman-knower is a withdrawn, passive, world-renouncing ascetic. This mantra directly contradicts that image — the best among knowers of Brahman is <em>kriyāvān</em> (active). <strong>What kind of action?</strong> The key difference is the <em>source</em> of action: (1) <em>Ordinary action</em>: driven by desire (kāma), fear (bhaya), or habit (vāsanā). This action binds — it creates karma and perpetuates saṁsāra. (2) <em>The knower's action</em>: driven by Self-delight (ātma-krīḍa, ātma-rati). The knower acts because action is a natural expression of the overflowing joy of the Self — not because they want something. <strong>The Gītā's elaboration</strong> (3.17-18): 'For one who delights in the Self alone, who is satisfied with the Self, who is content in the Self — for such a one there is nothing to be done. Such a person has no purpose in what is done or what is not done.' Yet Kṛṣṇa also says (3.20): 'Janaka and others attained perfection through action alone.' The paradox: the liberated person has nothing to gain from action, yet acts — from fullness, not lack. <strong>The Chāndogya parallel</strong> (7.25.2): describes the Self-knower as 'svarāṭ' (self-sovereign) — autonomous, acting freely, not compelled by anything external."
+        "a": "'<strong>क्रियावान्</strong>' (कर्मशील / सक्रिय) इस मन्त्र के सबसे महत्वपूर्ण शब्दों में से एक है। <strong>क्यों महत्वपूर्ण</strong>: ब्रह्मज्ञानी की सामान्य छवि एक निवृत्त, निष्क्रिय, संसार-त्यागी तपस्वी की है — यह मन्त्र उस छवि का सीधा खण्डन करता है — ब्रह्मज्ञानियों में श्रेष्ठ <em>क्रियावान्</em> (सक्रिय) है। <strong>कौन-सा कर्म?</strong> अन्तर कर्म के <em>स्रोत</em> में है: (1) सामान्य कर्म = काम, भय, वासना से प्रेरित — बाँधता है; (2) ज्ञानी का कर्म = आत्म-आनन्द (ātma-krīḍa, ātma-rati) से — परिपूर्णता से उत्पन्न, अभाव से नहीं। <strong>गीता का विस्तार</strong> (3.17-18, 3.20): 'जो आत्मा में ही रत है... उसका कोई कर्तव्य नहीं' — फिर भी जनक आदि ने कर्म से ही सिद्धि प्राप्त की। विरोधाभास: मुक्त व्यक्ति को कर्म से कुछ पाना नहीं, फिर भी करता है — परिपूर्णता से, अभाव से नहीं।<br><br><em>Eng:</em> The word <strong>'kriyāvān'</strong> (active / engaged in action) is one of the most significant words in this mantra: <strong>Why it matters</strong>: the common stereotype of the Brahman-knower is a withdrawn, passive, world-renouncing ascetic. This mantra directly contradicts that image — the best among knowers of Brahman is <em>kriyāvān</em> (active). <strong>What kind of action?</strong> The key difference is the <em>source</em> of action: (1) <em>Ordinary action</em>: driven by desire (kāma), fear (bhaya), or habit (vāsanā). This action binds — it creates karma and perpetuates saṁsāra. (2) <em>The knower's action</em>: driven by Self-delight (ātma-krīḍa, ātma-rati). The knower acts because action is a natural expression of the overflowing joy of the Self — not because they want something. <strong>The Gītā's elaboration</strong> (3.17-18): 'For one who delights in the Self alone, who is satisfied with the Self, who is content in the Self — for such a one there is nothing to be done. Such a person has no purpose in what is done or what is not done.' Yet Kṛṣṇa also says (3.20): 'Janaka and others attained perfection through action alone.' The paradox: the liberated person has nothing to gain from action, yet acts — from fullness, not lack. <strong>The Chāndogya parallel</strong> (7.25.2): describes the Self-knower as 'svarāṭ' (self-sovereign) — autonomous, acting freely, not compelled by anything external."
       },
       {
         "q": "🔍 'Na ativādī' — the silence of the knower",
-        "a": "The phrase <strong>'na ativādī'</strong> ('not an excessive talker / not a boaster') reveals an important quality of the true Brahman-knower: <strong>Why silence?</strong> (1) <em>Brahman is beyond words</em>: the Taittirīya (2.9.1) says: 'yato vāco nivartante aprāpya manasā saha' — 'from which words return, unable to reach it, along with the mind.' One who has seen what is beyond words naturally falls silent about it. (2) <em>Knowledge brings humility</em>: before realisation, one may talk confidently about Brahman from books and logic. After realisation, one realises how inadequate words are — and speaks less. (3) <em>The knower has nothing to prove</em>: 'ativādī' carries the connotation of 'boasting' — talking to impress, to establish superiority, to win arguments. The Brahman-knower has transcended the need for validation; they have found their identity in the Self, not in others' opinions. <strong>The practical test</strong>: the Muṇḍaka offers a simple diagnostic for genuine spiritual attainment — does the person talk excessively about their knowledge? If yes, they are probably not a 'brahma-vidāṁ variṣṭha' (the best among knowers). The best among knowers plays in the Self, delights in the Self, remains active — and does NOT boast. <strong>Not silence vs. speech</strong>: the instruction is 'na ativādī' — not 'na vādī' (not a speaker at all). The knower CAN speak — but doesn't speak <em>excessively</em>. Their speech is measured, purposeful, and comes from a place of fullness, not a need to fill silence."
+        "a": "'<strong>न अतिवादी</strong>' ('अत्यधिक न बोलने वाला / डींगें न हाँकने वाला') — सच्चे ब्रह्मज्ञानी का एक महत्वपूर्ण गुण। <strong>मौन क्यों?</strong> (1) ब्रह्म वाणी से परे — तैत्तिरीय (2.9.1): 'यतो वाचो निवर्तन्ते' — 'जहाँ से वाणी लौट आती है' — जिसने शब्दातीत देखा, स्वभावतः मौन। (2) ज्ञान विनम्रता लाता है — ज्ञान से पूर्व शब्दों पर विश्वास, ज्ञान के बाद शब्दों की अपर्याप्तता का बोध। (3) ज्ञानी को कुछ सिद्ध नहीं करना — 'अतिवादी' में 'डींग हाँकना' का अर्थ भी — ज्ञानी को मान्यता की आवश्यकता नहीं। <strong>व्यावहारिक परीक्षा</strong>: क्या व्यक्ति अपने ज्ञान के बारे में अत्यधिक बोलता है? यदि हाँ — सम्भवतः 'ब्रह्मविदां वरिष्ठ' नहीं। ध्यान दें — 'न अतिवादी' कहा, 'न वादी' (बिल्कुल न बोलने वाला) नहीं — ज्ञानी बोल सकता है — किन्तु मर्यादित, सार्थक, परिपूर्णता से।<br><br><em>Eng:</em> The phrase <strong>'na ativādī'</strong> ('not an excessive talker / not a boaster') reveals an important quality of the true Brahman-knower: <strong>Why silence?</strong> (1) <em>Brahman is beyond words</em>: the Taittirīya (2.9.1) says: 'yato vāco nivartante aprāpya manasā saha' — 'from which words return, unable to reach it, along with the mind.' One who has seen what is beyond words naturally falls silent about it. (2) <em>Knowledge brings humility</em>: before realisation, one may talk confidently about Brahman from books and logic. After realisation, one realises how inadequate words are — and speaks less. (3) <em>The knower has nothing to prove</em>: 'ativādī' carries the connotation of 'boasting' — talking to impress, to establish superiority, to win arguments. The Brahman-knower has transcended the need for validation; they have found their identity in the Self, not in others' opinions. <strong>The practical test</strong>: the Muṇḍaka offers a simple diagnostic for genuine spiritual attainment — does the person talk excessively about their knowledge? If yes, they are probably not a 'brahma-vidāṁ variṣṭha' (the best among knowers). The best among knowers plays in the Self, delights in the Self, remains active — and does NOT boast. <strong>Not silence vs. speech</strong>: the instruction is 'na ativādī' — not 'na vādī' (not a speaker at all). The knower CAN speak — but doesn't speak <em>excessively</em>. Their speech is measured, purposeful, and comes from a place of fullness, not a need to fill silence."
       }
     ]
   },
@@ -277,21 +482,76 @@
     "ws": [
       {
         "s": "तपसा",
-        "h": "तप से / by austerity",
-        "e": "by tapas"
+        "h": "तप से / साधना से",
+        "e": "by tapas / austerity"
       },
       {
         "s": "चीयते",
-        "h": "संचित होता है / is built up",
-        "e": "is built up"
+        "h": "संचित होता है / निर्मित होता है",
+        "e": "is built up / accumulated"
       },
       {
-        "s": "कर्मसु अमृतम्",
-        "h": "कर्मों में अमरत्व",
-        "e": "immortality in actions"
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम सत्ता",
+        "e": "Brahman"
+      },
+      {
+        "s": "ततः",
+        "h": "उससे / उसके बाद",
+        "e": "from that / thereafter"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न / पदार्थ / भोजन",
+        "e": "food / matter"
+      },
+      {
+        "s": "अभिजायते",
+        "h": "उत्पन्न होता है / जन्म लेता है",
+        "e": "is born"
+      },
+      {
+        "s": "अन्नात्",
+        "h": "अन्न से",
+        "e": "from food"
+      },
+      {
+        "s": "प्राणः",
+        "h": "प्राण / जीवन-वायु",
+        "e": "life-breath"
+      },
+      {
+        "s": "मनः",
+        "h": "मन",
+        "e": "mind"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य",
+        "e": "truth"
+      },
+      {
+        "s": "लोकाः",
+        "h": "लोक / संसार",
+        "e": "worlds"
+      },
+      {
+        "s": "कर्मसु",
+        "h": "कर्मों में",
+        "e": "in actions"
+      },
+      {
+        "s": "च",
+        "h": "और",
+        "e": "and"
+      },
+      {
+        "s": "अमृतम्",
+        "h": "अमरत्व / अमृत",
+        "e": "immortality"
       }
     ],
-    "gr": "<strong>Repetition from 2.2.10</strong>: this mantra is identical to 2.2.10. Its repetition at the start of the third Muṇḍaka serves as a <em>structural bridge</em> — linking the meditation teachings of the second Muṇḍaka with the liberation teachings of the third. <strong>Why repeat?</strong> The Upanishads frequently use repetition for emphasis and structural framing. By placing this verse at both the end of the second Muṇḍaka (2.2.10) and near the beginning of the third (3.1.5), the Muṇḍaka creates a frame: the tapas-creation sequence encompasses both the path (Muṇḍaka 2) and the fruit (Muṇḍaka 3). <strong>The dual meaning of 'cīyate'</strong>: in the context of the third Muṇḍaka, 'tapasā cīyate brahma' takes on a more personal meaning — not just 'Brahman creates through tapas' but 'the aspirant builds up Brahman-knowledge through tapas.' The same process that created the universe (Brahman's tapas) is the process by which the individual realises Brahman (the aspirant's tapas).",
+    "gr": "<strong>व्याकरण:</strong> <em>तपसा चीयते ब्रह्म</em> — 'तपसा' = तृतीया एकवचन (instrumental) — 'तप के द्वारा'; 'चीयते' = √चि (संचित करना) — कर्मणि (passive) — 'संचित किया जाता है / निर्मित होता है।' <em>ततः अन्नम् अभिजायते</em> — 'ततः' = उससे; 'अभिजायते' = अभि + √जन् — 'प्रकट होता है / उत्पन्न होता है।' <em>अन्नात् प्राणः मनः सत्यं लोकाः</em> — अन्न से क्रमशः सृष्टि: प्राण → मन → सत्य → लोक। <em>कर्मसु च अमृतम्</em> — 'कर्मों में अमरत्व' — कर्म में भी अमृत-तत्त्व। <strong>2.2.10 से पुनरुक्ति</strong> — संरचनात्मक सेतु (structural bridge) — मुण्डक 2 (ध्यान-शिक्षा) को मुण्डक 3 (मोक्ष-शिक्षा) से जोड़ता है। तृतीय मुण्डक में 'तपसा चीयते ब्रह्म' का व्यक्तिगत अर्थ भी — साधक अपने तप से ब्रह्म-ज्ञान 'संचित' करता है।<br><em>Eng:</em> Repetition from 2.2.10 serving as structural bridge. 'Tapasā' (instrumental of tapas). 'Cīyate' (passive of √ci — 'to accumulate'). In Muṇḍaka 3 context, takes personal meaning — the aspirant builds up Brahman-knowledge through their own tapas. The creation hierarchy: tapas → anna → prāṇa → manas → satya → lokāḥ → amṛta.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -316,11 +576,11 @@
     "dp": [
       {
         "q": "🔍 Why this mantra repeats from 2.2.10",
-        "a": "This mantra is a <strong>verbatim repetition</strong> of Muṇḍaka 2.2.10. Far from being an error or an interpolation, the repetition serves important <strong>structural and pedagogical functions</strong>: <strong>(1) Structural bridge</strong>: the verse links the second Muṇḍaka (the meditation path) to the third Muṇḍaka (the liberation teachings). By placing it at the junction, the Muṇḍaka says: the same tapas that was taught in the meditation section is the foundation of the liberation section. <strong>(2) Emphasis</strong>: in an oral tradition, repetition IS emphasis. When the teacher says this mantra again, the student recognises it and understands: this is important — remember it. <strong>(3) Dual application</strong>: in 2.2.10, 'tapasā cīyate brahma' referred primarily to Brahman's creative tapas — the universe is created through Brahman's knowledge-tapas. In 3.1.5, the same phrase takes on a personal meaning — the aspirant 'builds up' Brahman-knowledge through their own tapas (discipline, meditation, study). The creation-tapas and the liberation-tapas are the same energy, applied at different scales. <strong>(4) Mnemonic anchor</strong>: in the oral transmission of the Upanishads, repeated verses served as 'hooks' for memory — the student could use them to recall the surrounding teachings."
+        "a": "यह मन्त्र <strong>मुण्डक 2.2.10 की शब्दशः पुनरुक्ति</strong> है। यह त्रुटि या प्रक्षेपण नहीं — पुनरुक्ति के महत्वपूर्ण <strong>संरचनात्मक और शैक्षणिक कार्य</strong> हैं: <strong>(1) संरचनात्मक सेतु</strong>: द्वितीय मुण्डक (ध्यान-मार्ग) को तृतीय मुण्डक (मोक्ष-शिक्षा) से जोड़ता है — वही तप जो ध्यान-खण्ड में सिखाया गया, मोक्ष-खण्ड का आधार है। <strong>(2) बल-प्रदान</strong>: मौखिक परम्परा में पुनरुक्ति = बल — गुरु जब यह मन्त्र पुनः कहता है, शिष्य पहचानता है — यह महत्वपूर्ण है। <strong>(3) दोहरा अनुप्रयोग</strong>: 2.2.10 में 'तपसा चीयते ब्रह्म' = ब्रह्म का सृष्टि-तप; 3.1.5 में = साधक का अपना तप — सृष्टि-तप और मोक्ष-तप एक ही शक्ति। <strong>(4) स्मृति-आधार</strong>: मौखिक संचारण में दोहराए गए मन्त्र 'स्मृति-अंकुश' — शिष्य इनसे आसपास की शिक्षा स्मरण कर सकता है।<br><br><em>Eng:</em> This mantra is a <strong>verbatim repetition</strong> of Muṇḍaka 2.2.10. Far from being an error or an interpolation, the repetition serves important <strong>structural and pedagogical functions</strong>: <strong>(1) Structural bridge</strong>: the verse links the second Muṇḍaka (the meditation path) to the third Muṇḍaka (the liberation teachings). By placing it at the junction, the Muṇḍaka says: the same tapas that was taught in the meditation section is the foundation of the liberation section. <strong>(2) Emphasis</strong>: in an oral tradition, repetition IS emphasis. When the teacher says this mantra again, the student recognises it and understands: this is important — remember it. <strong>(3) Dual application</strong>: in 2.2.10, 'tapasā cīyate brahma' referred primarily to Brahman's creative tapas — the universe is created through Brahman's knowledge-tapas. In 3.1.5, the same phrase takes on a personal meaning — the aspirant 'builds up' Brahman-knowledge through their own tapas (discipline, meditation, study). The creation-tapas and the liberation-tapas are the same energy, applied at different scales. <strong>(4) Mnemonic anchor</strong>: in the oral transmission of the Upanishads, repeated verses served as 'hooks' for memory — the student could use them to recall the surrounding teachings."
       },
       {
         "q": "🔍 The aspirant's tapas — building up Brahman within",
-        "a": "In the context of the third Muṇḍaka, <strong>'tapasā cīyate brahma'</strong> takes on a deeply personal meaning — the aspirant <em>builds up</em> Brahman-realisation within themselves: <strong>What is the aspirant's tapas?</strong> (1) <em>Śravaṇa</em> (hearing): listening to the teacher's instruction — absorbing the Upanishadic teaching. (2) <em>Manana</em> (reflection): thinking deeply about what has been heard — resolving doubts, understanding implications. (3) <em>Nididhyāsana</em> (deep meditation): sustained contemplation on the Self — the bow-and-arrow meditation, OM-meditation, heart-centre meditation. (4) <em>Ethical discipline</em>: truthfulness (satya), non-violence (ahiṁsā), self-restraint (brahmacarya) — the moral foundation without which knowledge cannot ripen. <strong>Why 'cīyate' (built up)?</strong> Realisation is not typically instantaneous — it is 'accumulated' over time, like building a fire-altar brick by brick. Each meditation session, each ethical choice, each moment of self-awareness is a 'brick' in the altar of Brahman-knowledge. Over time, the altar rises — and the fire of realisation blazes upon it. <strong>The result</strong>: 'from that, anna (food/matter) is born' — from the aspirant's tapas, the entire hierarchy of existence reveals itself as Brahman's expression. Prāṇa, mind, truth, worlds, and even immortality in action — all are seen as flowing from the one Brahman that the aspirant has 'built up' through practice."
+        "a": "तृतीय मुण्डक के सन्दर्भ में '<strong>तपसा चीयते ब्रह्म</strong>' का गहरा व्यक्तिगत अर्थ — साधक अपने भीतर ब्रह्म-ज्ञान <em>संचित</em> करता है। <strong>साधक का तप क्या है?</strong> (1) <em>श्रवण</em>: गुरु-उपदेश सुनना। (2) <em>मनन</em>: सुने हुए पर गहन चिन्तन — सन्देह निवारण। (3) <em>निदिध्यासन</em>: आत्मा पर सतत ध्यान — धनुष-बाण ध्यान, ओंकार-ध्यान, हृदय-केन्द्र ध्यान। (4) <em>नैतिक अनुशासन</em>: सत्य, अहिंसा, ब्रह्मचर्य। <strong>'चीयते' (संचित होता है) क्यों?</strong> अनुभूति सामान्यतः तत्काल नहीं — समय के साथ 'संचित' होती है, जैसे अग्नि-वेदी ईंट-ईंट बनती है — हर ध्यान-सत्र, हर नैतिक निर्णय एक ईंट — अन्ततः अनुभूति की अग्नि प्रज्वलित। <strong>फल</strong>: साधक के तप से सृष्टि का पूरा क्रम ब्रह्म-अभिव्यक्ति के रूप में प्रकट होता है।<br><br><em>Eng:</em> In the context of the third Muṇḍaka, <strong>'tapasā cīyate brahma'</strong> takes on a deeply personal meaning — the aspirant <em>builds up</em> Brahman-realisation within themselves: <strong>What is the aspirant's tapas?</strong> (1) <em>Śravaṇa</em> (hearing): listening to the teacher's instruction — absorbing the Upanishadic teaching. (2) <em>Manana</em> (reflection): thinking deeply about what has been heard — resolving doubts, understanding implications. (3) <em>Nididhyāsana</em> (deep meditation): sustained contemplation on the Self — the bow-and-arrow meditation, OM-meditation, heart-centre meditation. (4) <em>Ethical discipline</em>: truthfulness (satya), non-violence (ahiṁsā), self-restraint (brahmacarya) — the moral foundation without which knowledge cannot ripen. <strong>Why 'cīyate' (built up)?</strong> Realisation is not typically instantaneous — it is 'accumulated' over time, like building a fire-altar brick by brick. Each meditation session, each ethical choice, each moment of self-awareness is a 'brick' in the altar of Brahman-knowledge. Over time, the altar rises — and the fire of realisation blazes upon it. <strong>The result</strong>: 'from that, anna (food/matter) is born' — from the aspirant's tapas, the entire hierarchy of existence reveals itself as Brahman's expression. Prāṇa, mind, truth, worlds, and even immortality in action — all are seen as flowing from the one Brahman that the aspirant has 'built up' through practice."
       }
     ]
   },
@@ -332,17 +592,92 @@
     "en": "He who is omniscient (sarva-jña), all-knowing (sarva-vit), endowed with all glory (sarva-lakṣmī-maya) — He indeed is that. From Him are born this Brahman, name (nāma), form (rūpa), and food (anna). This is the truth (tat etat satyam).",
     "ws": [
       {
+        "s": "यः",
+        "h": "जो",
+        "e": "who"
+      },
+      {
+        "s": "सर्वज्ञः",
+        "h": "सब जानने वाला / सर्वज्ञ",
+        "e": "omniscient"
+      },
+      {
+        "s": "सर्ववित्",
+        "h": "सब कुछ जानने वाला / सर्वविद्",
+        "e": "all-knowing"
+      },
+      {
         "s": "सर्वलक्ष्मीमयः",
-        "h": "सब ऐश्वर्य से युक्त / endowed with all glory",
+        "h": "सब ऐश्वर्य से युक्त / समस्त वैभवमय",
         "e": "endowed with all glory"
       },
       {
-        "s": "तदेतत्सत्यम्",
-        "h": "वह यह सत्य है / this is the truth",
-        "e": "this is the truth"
+        "s": "हि",
+        "h": "निश्चय ही",
+        "e": "indeed"
+      },
+      {
+        "s": "सः",
+        "h": "वह",
+        "e": "He"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "उससे",
+        "e": "from Him"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / वैदिक सत्ता",
+        "e": "Brahman"
+      },
+      {
+        "s": "नाम",
+        "h": "नाम",
+        "e": "name"
+      },
+      {
+        "s": "रूपम्",
+        "h": "रूप / आकार",
+        "e": "form"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न / पदार्थ",
+        "e": "food / matter"
+      },
+      {
+        "s": "च",
+        "h": "और",
+        "e": "and"
+      },
+      {
+        "s": "जायते",
+        "h": "उत्पन्न होता है",
+        "e": "is born"
+      },
+      {
+        "s": "तत्",
+        "h": "वह",
+        "e": "that"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य / परम सत्य",
+        "e": "the truth"
       }
     ],
-    "gr": "<strong>Repetition from 2.2.11</strong>: this mantra is identical to 2.2.11, the closing verse of the previous Khanda. Its placement here, immediately after the repeated 3.1.5 (= 2.2.10), creates a <em>double bridge</em> — the closing pair of Muṇḍaka 2 reappears as the opening pair of Muṇḍaka 3's middle section. <strong>The function</strong>: by repeating both 2.2.10 and 2.2.11, the Muṇḍaka signals continuity — the teachings of the second Muṇḍaka are the foundation upon which the third Muṇḍaka builds. The same all-knowing, all-glorious Brahman that was the object of meditation in Muṇḍaka 2 is the Brahman whose realisation is described in Muṇḍaka 3. <strong>'Tat etat satyam'</strong> — 'this is the truth': the declaration seals the repeated passage and reasserts its authority as the third Muṇḍaka begins its culminating teachings.",
+    "gr": "<strong>व्याकरण:</strong> <em>सर्वज्ञः</em> = सर्व + √ज्ञा — 'सब जानने वाला' — सामान्य ज्ञान। <em>सर्ववित्</em> = सर्व + √विद् — 'विशेष ज्ञान' / 'प्रत्यक्ष अनुभव से जानने वाला' — शंकर दो भेद करते हैं: सर्वज्ञ = सामान्य ज्ञान, सर्ववित् = विशेष/प्रत्यक्ष ज्ञान। <em>सर्वलक्ष्मीमयः</em> = सर्व + लक्ष्मी (ऐश्वर्य/श्री) + मय (से पूर्ण) — 'समस्त वैभव से परिपूर्ण।' <em>तस्मात् ... जायते</em> — 'उससे ... उत्पन्न होता है' — सृष्टि-क्रम: ब्रह्म, नाम, रूप, अन्न। <em>तदेतत्सत्यम्</em> = तत् + एतत् + सत्यम् — 'वह यही सत्य है' — अन्तिम प्रमाणीकरण। <strong>2.2.11 से पुनरुक्ति</strong> — 3.1.5 के साथ मिलकर 'दोहरा सेतु' — द्वितीय मुण्डक का समापन-युग्म तृतीय मुण्डक के मध्य-भाग का उद्घाटन बनता है।<br><em>Eng:</em> Repetition from 2.2.11. 'Sarva-jña' (√jñā = general knowing) vs 'sarva-vit' (√vid = direct/particular knowing) — Shankara distinguishes the two. 'Sarva-lakṣmī-maya' = filled with all glory. 'Tat etat satyam' = the concluding seal of truth. Creates a 'double bridge' with 3.1.5, carrying over the complete teaching from Muṇḍaka 2.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -367,11 +702,11 @@
     "dp": [
       {
         "q": "🔍 The double repetition (3.1.5-6 = 2.2.10-11) as structural device",
-        "a": "The <strong>double repetition</strong> — mantras 3.1.5 and 3.1.6 reproducing 2.2.10 and 2.2.11 verbatim — is a deliberate <strong>structural device</strong>: <strong>What it creates</strong>: a 'bridge' or 'hinge' between the second Muṇḍaka (meditation teaching) and the third Muṇḍaka (liberation teaching). The same pair of verses closes one section and opens the next, creating seamless continuity. <strong>The message</strong>: there is no gap between meditation and liberation, between practice and attainment. The same Brahman that is the object of meditation (Muṇḍaka 2) is the Brahman that is attained through liberation (Muṇḍaka 3). The same tapas that creates the universe is the tapas that builds up knowledge. <strong>Oral tradition context</strong>: in the oral transmission of the Upanishads, such repetitions served as 'section markers' — they told the reciter (and the listener) that one teaching-unit was ending and another beginning. They also served as memory anchors — the student could use the familiar verses to recall the surrounding material. <strong>The pattern in the Muṇḍaka</strong>: the Muṇḍaka uses several such framing devices: (1) 'somya' (O gentle one) at the start and end of 2.1 (mantras 1 and 10). (2) 'tat etat satyam' (this is the truth) at 2.2.11 and 3.1.6. (3) The two-birds parable at 3.1.1-2 echoing ṚV 1.164.20. These devices create a tightly structured text despite its oral origins."
+        "a": "<strong>दोहरी पुनरुक्ति</strong> (3.1.5-6 = 2.2.10-11) एक सोची-समझी <strong>संरचनात्मक युक्ति</strong> है। <strong>क्या बनती है</strong>: द्वितीय मुण्डक (ध्यान-शिक्षा) और तृतीय मुण्डक (मोक्ष-शिक्षा) के बीच 'सेतु' — एक ही मन्त्र-युग्म एक खण्ड बन्द करता है और अगला खोलता है। <strong>सन्देश</strong>: ध्यान और मोक्ष में कोई अन्तराल नहीं — वही ब्रह्म जो ध्यान का विषय (मुण्डक 2), वही मोक्ष का ब्रह्म (मुण्डक 3)। वही तप जो सृष्टि करता है, वही ज्ञान संचित करता है। <strong>मौखिक परम्परा</strong>: ऐसी पुनरुक्तियाँ 'खण्ड-चिह्न' (section markers) का काम करतीं — पाठकर्ता और श्रोता को बताती हैं कि एक शिक्षा-इकाई समाप्त और दूसरी आरम्भ।<br><br><em>Eng:</em> The <strong>double repetition</strong> — mantras 3.1.5 and 3.1.6 reproducing 2.2.10 and 2.2.11 verbatim — is a deliberate <strong>structural device</strong>: <strong>What it creates</strong>: a 'bridge' or 'hinge' between the second Muṇḍaka (meditation teaching) and the third Muṇḍaka (liberation teaching). The same pair of verses closes one section and opens the next, creating seamless continuity. <strong>The message</strong>: there is no gap between meditation and liberation, between practice and attainment. The same Brahman that is the object of meditation (Muṇḍaka 2) is the Brahman that is attained through liberation (Muṇḍaka 3). The same tapas that creates the universe is the tapas that builds up knowledge. <strong>Oral tradition context</strong>: in the oral transmission of the Upanishads, such repetitions served as 'section markers' — they told the reciter (and the listener) that one teaching-unit was ending and another beginning. They also served as memory anchors — the student could use the familiar verses to recall the surrounding material. <strong>The pattern in the Muṇḍaka</strong>: the Muṇḍaka uses several such framing devices: (1) 'somya' (O gentle one) at the start and end of 2.1 (mantras 1 and 10). (2) 'tat etat satyam' (this is the truth) at 2.2.11 and 3.1.6. (3) The two-birds parable at 3.1.1-2 echoing ṚV 1.164.20. These devices create a tightly structured text despite its oral origins."
       },
       {
         "q": "🔍 The continuity from meditation to liberation",
-        "a": "The double repetition signals a key philosophical point: <strong>meditation and liberation are continuous</strong>, not separate: <strong>The flow</strong>: Muṇḍaka 2 taught HOW to meditate — the bow-and-arrow, OM, the heart-centre. Muṇḍaka 3 teaches WHAT HAPPENS when meditation succeeds — the two birds, the vision of the golden Puruṣa, the cutting of the heart-knot, the declaration 'brahma-vid brahmaiva bhavati.' <strong>The bridge verses (3.1.5-6) say</strong>: the same tapas, the same Brahman, the same truth that was the subject of meditation IS the subject of liberation. There is no 'leap' from practice to result — only deepening. The tapas that 'builds up' Brahman in meditation eventually reaches a critical mass — and the heart-knot snaps, and the golden Puruṣa is seen, and sorrow departs. <strong>The practical implication</strong>: don't wait for a dramatic 'moment of enlightenment' that is totally discontinuous with your practice. Liberation grows organically from meditation, as a fruit grows from a flower. Keep building the fire-altar, brick by brick. The fire will blaze when the altar is ready."
+        "a": "दोहरी पुनरुक्ति एक मुख्य दार्शनिक बिन्दु की ओर संकेत करती है: <strong>ध्यान और मोक्ष सतत हैं</strong>, पृथक् नहीं। <strong>प्रवाह</strong>: मुण्डक 2 ने सिखाया कैसे ध्यान करें — धनुष-बाण, ॐ, हृदय-केन्द्र। मुण्डक 3 सिखाता है ध्यान सफल होने पर क्या होता है — दो पक्षी, सुवर्ण-पुरुष, हृदय-ग्रन्थि का छेदन, 'ब्रह्मविद् ब्रह्मैव भवति।' <strong>सेतु-मन्त्र कहते हैं</strong>: ध्यान में जो तप, ब्रह्म, सत्य था — वही मोक्ष में। साधना से फल तक कोई 'छलांग' नहीं — केवल गहनता। तप 'संचित' होता जाता है — एक सीमा पर हृदय-ग्रन्थि टूटती है, सुवर्ण-पुरुष दिखता है, शोक विलीन। <strong>व्यावहारिक निहितार्थ</strong>: साधना से बिल्कुल असम्बद्ध किसी नाटकीय 'ज्ञान-क्षण' की प्रतीक्षा न करें — मोक्ष ध्यान से उगता है, जैसे फूल से फल।<br><br><em>Eng:</em> The double repetition signals a key philosophical point: <strong>meditation and liberation are continuous</strong>, not separate: <strong>The flow</strong>: Muṇḍaka 2 taught HOW to meditate — the bow-and-arrow, OM, the heart-centre. Muṇḍaka 3 teaches WHAT HAPPENS when meditation succeeds — the two birds, the vision of the golden Puruṣa, the cutting of the heart-knot, the declaration 'brahma-vid brahmaiva bhavati.' <strong>The bridge verses (3.1.5-6) say</strong>: the same tapas, the same Brahman, the same truth that was the subject of meditation IS the subject of liberation. There is no 'leap' from practice to result — only deepening. The tapas that 'builds up' Brahman in meditation eventually reaches a critical mass — and the heart-knot snaps, and the golden Puruṣa is seen, and sorrow departs. <strong>The practical implication</strong>: don't wait for a dramatic 'moment of enlightenment' that is totally discontinuous with your practice. Liberation grows organically from meditation, as a fruit grows from a flower. Keep building the fire-altar, brick by brick. The fire will blaze when the altar is ready."
       }
     ]
   },
@@ -383,22 +718,107 @@
     "en": "This is the truth. The ritual actions that the seers saw in the mantras — those are spread in many ways in the three fires. Practise them regularly, O lovers of truth! This is your path in the world of good deeds.",
     "ws": [
       {
-        "s": "कवयः अपश्यन्",
-        "h": "कवियों / ऋषियों ने देखा",
-        "e": "the seers saw"
+        "s": "तत्",
+        "h": "वह",
+        "e": "that"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य",
+        "e": "truth"
+      },
+      {
+        "s": "मन्त्रेषु",
+        "h": "मन्त्रों में / वेद-मन्त्रों में",
+        "e": "in the mantras"
+      },
+      {
+        "s": "कर्माणि",
+        "h": "कर्म / अनुष्ठान",
+        "e": "ritual actions"
+      },
+      {
+        "s": "कवयः",
+        "h": "कवि / ऋषि / द्रष्टा",
+        "e": "seers / sages"
+      },
+      {
+        "s": "यानि",
+        "h": "जो (जिन कर्मों को)",
+        "e": "which"
+      },
+      {
+        "s": "अपश्यन्",
+        "h": "देखा / दर्शन किया",
+        "e": "saw / perceived"
+      },
+      {
+        "s": "तानि",
+        "h": "उन्हें / वे",
+        "e": "those"
+      },
+      {
+        "s": "त्रेतायाम्",
+        "h": "तीन अग्नियों में / त्रेताग्नि में",
+        "e": "in the three fires"
+      },
+      {
+        "s": "बहुधा",
+        "h": "अनेक प्रकार से / बहुत तरह से",
+        "e": "in many ways"
+      },
+      {
+        "s": "सन्ततानि",
+        "h": "विस्तृत / फैले हुए",
+        "e": "spread out / extended"
+      },
+      {
+        "s": "आचरथ",
+        "h": "आचरण करो / अनुष्ठान करो",
+        "e": "practise / perform"
+      },
+      {
+        "s": "नियतम्",
+        "h": "नियमपूर्वक / नियमित रूप से",
+        "e": "regularly / with discipline"
       },
       {
         "s": "सत्यकामाः",
-        "h": "सत्य-प्रेमी / lovers of truth",
+        "h": "सत्य-प्रेमी / सत्य के अभिलाषी",
         "e": "lovers of truth"
       },
       {
-        "s": "सुकृतस्य लोके",
-        "h": "सुकृत / पुण्य के लोक में",
-        "e": "in the world of good deeds"
+        "s": "एषः",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "वः",
+        "h": "तुम्हारा",
+        "e": "your"
+      },
+      {
+        "s": "पन्थाः",
+        "h": "मार्ग / पथ",
+        "e": "path"
+      },
+      {
+        "s": "सुकृतस्य",
+        "h": "सुकृत / पुण्य का",
+        "e": "of good deeds / merit"
+      },
+      {
+        "s": "लोके",
+        "h": "लोक में / संसार में",
+        "e": "in the world"
       }
     ],
-    "gr": "<strong>Repetition from 2.2.8</strong>: this mantra reproduces 2.2.8 — the instruction to practise the rituals seen by the seers. Its repetition in Muṇḍaka 3 completes the 'bridge' from Muṇḍaka 2. <strong>The three repeated mantras</strong> (3.1.5, 3.1.6, 3.1.7 = 2.2.10, 2.2.11, 2.2.8): by repeating these three verses, the Muṇḍaka creates a comprehensive bridge that carries over both the knowledge-teaching (tapas → creation) and the karma-teaching (rituals for lovers of truth). The third Muṇḍaka thus begins with a complete recapitulation of the second Muṇḍaka's conclusions before advancing to its own unique teachings (the heart-knot, the direct vision, the river-ocean simile).",
+    "gr": "<strong>व्याकरण:</strong> <em>तदेतत्सत्यम्</em> — 'वह यही सत्य है' — प्रमाणीकरण-सूत्र। <em>कर्माणि कवयः यानि अपश्यन्</em> — 'कवयः' = ऋषि/द्रष्टा — वे जिन्होंने मन्त्रों को 'देखा' (अपश्यन् = √दृश् का लुङ्/अनद्यतन — 'प्राचीन काल में देखा')। <em>त्रेतायाम्</em> = त्रि + इता — 'तीन अग्नियों' (गार्हपत्य, दक्षिणाग्नि, आहवनीय) में। <em>बहुधा सन्ततानि</em> = 'अनेक प्रकार से विस्तृत' — विविध यज्ञ-कर्म। <em>तानि आचरथ नियतम्</em> — 'आचरथ' = आ + √चर् (आचरण करना) — लोट् (imperative) बहुवचन — 'तुम सब आचरण करो'; 'नियतम्' = नियमपूर्वक। <em>सत्यकामाः</em> = सत्य + काम (इच्छा) — 'सत्य चाहने वाले' — सम्बोधन — पात्रता-सूचक। <em>सुकृतस्य लोके</em> = पुण्य-लोक में — कर्म-फल = स्वर्गादि, मोक्ष नहीं। <strong>2.2.8 से पुनरुक्ति</strong> — तीन पुनरावृत्त मन्त्रों (3.1.5-7) में तीसरा — ज्ञान-शिक्षा और कर्म-शिक्षा दोनों को वहन करता पूर्ण सेतु।<br><em>Eng:</em> Repetition from 2.2.8. 'Kavayaḥ apaśyan' — the seers 'saw' (not composed) the rituals. 'Tretāyām' = in the three sacrificial fires. 'Ācaratha niyatam' = imperative plural — 'practise regularly.' 'Satya-kāmāḥ' = lovers of truth — the qualification. 'Sukṛtasya loke' = in the world of merit — karma-fruit, not mokṣa. Third of the triple bridge (3.1.5-7 = 2.2.10, 2.2.11, 2.2.8).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -423,11 +843,11 @@
     "dp": [
       {
         "q": "🔍 The triple bridge: 3.1.5-7 = 2.2.8, 10-11",
-        "a": "The third Muṇḍaka opens with a <strong>triple repetition</strong> of verses from the second Muṇḍaka, creating a comprehensive bridge: <strong>The three repeated verses</strong>: (1) <strong>3.1.5 = 2.2.10</strong>: 'tapasā cīyate brahma...' — the creation-through-tapas sequence. (2) <strong>3.1.6 = 2.2.11</strong>: 'yaḥ sarva-jñaḥ sarva-vit...' — the all-knowing, all-glorious Brahman + 'tat etat satyam.' (3) <strong>3.1.7 = 2.2.8</strong>: 'tat etat satyam... tāni ācaratha...' — the ritual path for lovers of truth. <strong>What this achieves</strong>: the third Muṇḍaka begins by carrying forward the COMPLETE teaching of the second — both the knowledge-path (tapas/Brahman) and the action-path (rituals/seers). It then advances to its own unique and culminating teachings: the two birds (3.1.1-2), the golden Puruṣa (3.1.3), the knower's portrait (3.1.4), and — in Khanda 2 — the cutting of the heart-knot, the river-ocean simile, and the climactic 'brahma-vid brahmaiva bhavati.' <strong>The ordering of the mantras</strong>: note that in Khanda 1, mantras 1-4 contain the NEW teachings (two birds, golden Puruṣa, knower's portrait), while mantras 5-7 are repetitions. Some editions reverse this ordering. The exact sequence varies across recensions, but the content is identical."
+        "a": "तृतीय मुण्डक <strong>तिहरी पुनरुक्ति</strong> से खुलता है — द्वितीय मुण्डक के मन्त्रों का व्यापक सेतु बनाता है। <strong>तीन दोहराए गए मन्त्र</strong>: (1) 3.1.5 = 2.2.10: तप-सृष्टि क्रम। (2) 3.1.6 = 2.2.11: सर्वज्ञ, सर्ववैभवी ब्रह्म + 'तदेतत्सत्यम्।' (3) 3.1.7 = 2.2.8: सत्य-प्रेमियों के लिए कर्म-मार्ग। <strong>उपलब्धि</strong>: तृतीय मुण्डक द्वितीय की सम्पूर्ण शिक्षा — ज्ञान-मार्ग (तप/ब्रह्म) और कर्म-मार्ग (अनुष्ठान/ऋषि) दोनों — को वहन करके आगे बढ़ता है। फिर अपनी अद्वितीय और चरम शिक्षाएँ प्रस्तुत करता है: दो पक्षी (3.1.1-2), सुवर्ण-पुरुष (3.1.3), ज्ञानी का चित्र (3.1.4), और खण्ड 2 में हृदय-ग्रन्थि छेदन, नदी-सागर उपमा, 'ब्रह्मविद् ब्रह्मैव भवति।'<br><br><em>Eng:</em> The third Muṇḍaka opens with a <strong>triple repetition</strong> of verses from the second Muṇḍaka, creating a comprehensive bridge: <strong>The three repeated verses</strong>: (1) <strong>3.1.5 = 2.2.10</strong>: 'tapasā cīyate brahma...' — the creation-through-tapas sequence. (2) <strong>3.1.6 = 2.2.11</strong>: 'yaḥ sarva-jñaḥ sarva-vit...' — the all-knowing, all-glorious Brahman + 'tat etat satyam.' (3) <strong>3.1.7 = 2.2.8</strong>: 'tat etat satyam... tāni ācaratha...' — the ritual path for lovers of truth. <strong>What this achieves</strong>: the third Muṇḍaka begins by carrying forward the COMPLETE teaching of the second — both the knowledge-path (tapas/Brahman) and the action-path (rituals/seers). It then advances to its own unique and culminating teachings: the two birds (3.1.1-2), the golden Puruṣa (3.1.3), the knower's portrait (3.1.4), and — in Khanda 2 — the cutting of the heart-knot, the river-ocean simile, and the climactic 'brahma-vid brahmaiva bhavati.' <strong>The ordering of the mantras</strong>: note that in Khanda 1, mantras 1-4 contain the NEW teachings (two birds, golden Puruṣa, knower's portrait), while mantras 5-7 are repetitions. Some editions reverse this ordering. The exact sequence varies across recensions, but the content is identical."
       },
       {
         "q": "🔍 'Satya-kāmāḥ' — the qualification for the path",
-        "a": "The address <strong>'satya-kāmāḥ'</strong> ('lovers of truth') specifies WHO this instruction is for: <strong>Who are the satya-kāmāḥ?</strong> Those who desire (kāma) truth (satya) — not wealth, not power, not even heavenly pleasures, but TRUTH. This is not just anyone — it is a specific class of seekers whose primary motivation is the desire for reality, for what IS, for the ultimate truth behind appearances. <strong>The Chāndogya's Satyakāma</strong> (4.4): the famous student Satyakāma Jābāla — whose very name means 'lover of truth' — is the archetype. When asked his lineage (gotra), he answered honestly: 'I do not know my father's name; my mother told me she had many masters.' The teacher Gautama accepted him precisely because of this truthfulness: 'A non-Brāhmaṇa would not speak thus. Bring the fuel, dear one; I will initiate you.' <strong>The qualification</strong>: the path of rituals is not for the indifferent, the lazy, or the self-deceived — it is for 'lovers of truth.' Even the action-path requires sincerity and truth-seeking to be effective. Without that inner orientation toward truth, rituals become empty gestures — the 'leaky boats' of 1.2.7."
+        "a": "'<strong>सत्यकामाः</strong>' सम्बोधन बताता है कि यह उपदेश <strong>किसके लिए</strong> है। <strong>सत्यकाम कौन?</strong> जो सत्य (reality/truth) की कामना (desire) करते हैं — न धन, न शक्ति, न स्वर्गीय भोग — बल्कि सत्य। <strong>छान्दोग्य का सत्यकाम</strong> (4.4): प्रसिद्ध शिष्य सत्यकाम जाबाल — जिसका नाम ही 'सत्य-प्रेमी' — जब गोत्र पूछा तो ईमानदारी से बोला: 'मेरे पिता का नाम नहीं जानता।' गुरु गौतम ने ठीक इसी सत्यनिष्ठा से प्रभावित होकर दीक्षा दी। <strong>पात्रता</strong>: कर्म-मार्ग भी उदासीन, आलसी या आत्मवंचित के लिए नहीं — 'सत्यकामाः' के लिए। सत्य-उन्मुखता बिना अनुष्ठान खोखले — 1.2.7 की 'छिद्रयुक्त नौकाएँ।'<br><br><em>Eng:</em> The address <strong>'satya-kāmāḥ'</strong> ('lovers of truth') specifies WHO this instruction is for: <strong>Who are the satya-kāmāḥ?</strong> Those who desire (kāma) truth (satya) — not wealth, not power, not even heavenly pleasures, but TRUTH. This is not just anyone — it is a specific class of seekers whose primary motivation is the desire for reality, for what IS, for the ultimate truth behind appearances. <strong>The Chāndogya's Satyakāma</strong> (4.4): the famous student Satyakāma Jābāla — whose very name means 'lover of truth' — is the archetype. When asked his lineage (gotra), he answered honestly: 'I do not know my father's name; my mother told me she had many masters.' The teacher Gautama accepted him precisely because of this truthfulness: 'A non-Brāhmaṇa would not speak thus. Bring the fuel, dear one; I will initiate you.' <strong>The qualification</strong>: the path of rituals is not for the indifferent, the lazy, or the self-deceived — it is for 'lovers of truth.' Even the action-path requires sincerity and truth-seeking to be effective. Without that inner orientation toward truth, rituals become empty gestures — the 'leaky boats' of 1.2.7."
       }
     ]
   },
@@ -439,32 +859,92 @@
     "en": "Just as (yathā) rivers (nadyaḥ), flowing (syandamānāḥ), disappear (astaṁ gacchanti) into the ocean (samudre), abandoning (vihāya) name and form (nāma-rūpe) — so (tathā) the wise one (vidvān), freed (vimuktaḥ) from name and form (nāma-rūpāt), attains (upaiti) the divine (divyam) Person (puruṣam) who is beyond the beyond (parāt param).",
     "ws": [
       {
+        "s": "यथा",
+        "h": "जैसे",
+        "e": "just as"
+      },
+      {
+        "s": "नद्यः",
+        "h": "नदियाँ",
+        "e": "rivers"
+      },
+      {
         "s": "स्यन्दमानाः",
-        "h": "बहती हुईं / flowing",
+        "h": "बहती हुईं / प्रवाहित होती हुईं",
         "e": "flowing"
       },
       {
-        "s": "अस्तं गच्छन्ति",
-        "h": "अस्त हो जाती हैं / disappear / set",
+        "s": "समुद्रे",
+        "h": "समुद्र में / सागर में",
+        "e": "into the ocean"
+      },
+      {
+        "s": "अस्तम्",
+        "h": "अस्त / विलीन / लुप्त",
         "e": "disappear / set"
       },
       {
-        "s": "नामरूपे विहाय",
-        "h": "नाम और रूप छोड़कर / having abandoned name and form",
-        "e": "having abandoned name and form"
+        "s": "गच्छन्ति",
+        "h": "जाती हैं / हो जाती हैं",
+        "e": "go / become"
       },
       {
-        "s": "परात्परम्",
-        "h": "परे से भी परे / beyond the beyond",
-        "e": "beyond the beyond"
+        "s": "नामरूपे",
+        "h": "नाम और रूप",
+        "e": "name and form"
+      },
+      {
+        "s": "विहाय",
+        "h": "छोड़कर / त्यागकर",
+        "e": "having abandoned"
+      },
+      {
+        "s": "तथा",
+        "h": "वैसे ही",
+        "e": "so / similarly"
+      },
+      {
+        "s": "विद्वान्",
+        "h": "ज्ञानी / विद्वान",
+        "e": "the wise one"
+      },
+      {
+        "s": "नामरूपात्",
+        "h": "नाम-रूप से",
+        "e": "from name and form"
+      },
+      {
+        "s": "विमुक्तः",
+        "h": "मुक्त / स्वतन्त्र",
+        "e": "freed / liberated"
+      },
+      {
+        "s": "परात्",
+        "h": "परे से",
+        "e": "beyond"
+      },
+      {
+        "s": "परम्",
+        "h": "परे / और भी परे",
+        "e": "beyond / further beyond"
+      },
+      {
+        "s": "पुरुषम्",
+        "h": "पुरुष / परम सत्ता",
+        "e": "the Person / supreme Being"
+      },
+      {
+        "s": "उपैति",
+        "h": "प्राप्त करता है",
+        "e": "attains"
       },
       {
         "s": "दिव्यम्",
-        "h": "दिव्य / divine / self-luminous",
-        "e": "divine"
+        "h": "दिव्य / स्वयंप्रकाश",
+        "e": "divine / self-luminous"
       }
     ],
-    "gr": "<strong>The river-ocean simile — liberation as merging</strong>: this is one of the Muṇḍaka's most beautiful and most influential images — rivers losing their names and forms as they merge into the ocean. <strong>The analogy</strong>: (1) Rivers = individual souls (jīvas), each with a distinct name (Gaṅgā, Yamunā, Sindhu) and form (wide, narrow, clear, muddy). (2) Flowing (syandamānāḥ) = the spiritual journey — the soul's movement toward Brahman. (3) Ocean = Brahman / the divine Puruṣa — infinite, unnamed, formless. (4) Disappearing (astaṁ gacchanti) = liberation — the river ceases to be a 'river' and becomes 'ocean.' (5) Abandoning name and form (nāma-rūpe vihāya) = transcending individuality — the liberated soul sheds its individual identity. <strong>nāma-rūpe vihāya</strong>: the rivers ABANDON their names and forms. They don't carry them into the ocean. Similarly, the wise one is FREED from name and form — the individual identity dissolves. <strong>The controversy</strong>: does the soul 'disappear' into Brahman (as Advaita holds), or does it 'merge while retaining individuality' (as Viśiṣṭādvaita holds)? The image is powerful but ambiguous — it can support both readings.",
+    "gr": "<strong>व्याकरण:</strong> <em>यथा ... तथा</em> — उपमा-सूचक (simile construction) — 'जैसे ... वैसे ही।' <em>नद्यः स्यन्दमानाः</em> — 'नद्यः' = नदी का प्रथमा बहुवचन; 'स्यन्दमानाः' = √स्यन्द् (बहना) — शानच् प्रत्यय (present participle middle) — 'बहती हुईं।' <em>समुद्रे अस्तं गच्छन्ति</em> — 'समुद्रे' = सप्तमी; 'अस्तम् गच्छन्ति' = 'अस्त हो जाती हैं / विलीन हो जाती हैं' — सूर्यास्त की भाँति — दिखना बन्द, नष्ट नहीं। <em>नामरूपे विहाय</em> — 'विहाय' = वि + √हा (त्यागना) — ल्यबन्त (absolutive) — 'त्यागकर' — नदियाँ अपने नाम (गंगा, यमुना) और रूप (चौड़ी, सँकरी) छोड़कर 'सागर' हो जाती हैं। <em>परात् परं पुरुषम्</em> — 'परात् परम्' = 'परे-से-भी-परे' — सर्वातीत — सभी श्रेणियों से परे। <em>दिव्यम्</em> = √दिव् (चमकना) — 'स्वयंप्रकाश / दिव्य।' यह मुण्डक की सर्वाधिक सुन्दर और प्रभावशाली उपमाओं में से एक।<br><em>Eng:</em> The river-ocean simile — liberation as merging. 'Syandamānāḥ' (middle participle of √syand = to flow). 'Astaṁ gacchanti' = disappear/set (like the sun — not destroyed but absorbed). 'Nāma-rūpe vihāya' (absolutive of vi+√hā) = having abandoned name and form. 'Parāt paraṁ' = beyond the beyond — transcending all categories. 'Divyam' (√div) = self-luminous/divine.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -489,11 +969,11 @@
     "dp": [
       {
         "q": "🔍 The river-ocean simile — merging, not annihilation",
-        "a": "The <strong>river-ocean simile</strong> is one of the most widely quoted and most debated images in Indian philosophy: <strong>The image</strong>: rivers flow toward the ocean. Upon reaching the ocean, they 'disappear' (astaṁ gacchanti) — losing their individual names (Gaṅgā, Yamunā) and forms (wide, narrow, clear, muddy). Once in the ocean, you can't point to the 'Gaṅgā part' of the ocean or the 'Yamunā part' — there is only ocean. <strong>The three readings</strong>: (1) <em>Advaita</em>: the river's individuality was always illusory. The river was always ocean-water flowing in a temporary channel. 'Merging' = the removal of the temporary channel (nāma-rūpa/upādhis). Nothing real is lost; nothing real is gained. The river-ness was never real; the ocean-ness was always there. (2) <em>Viśiṣṭādvaita</em>: the river genuinely merges but the water remains water. The soul's individuality is not illusory but real — upon liberation, the soul enters God and shares His qualities (sārūpya), but remains a distinct conscious entity. The ocean contains the river but doesn't annihilate it. (3) <em>Sri Aurobindo</em>: merging = expansion, not annihilation. The river doesn't disappear — it <em>becomes</em> the ocean. Its consciousness, formerly limited to a river-bed, now pervades the infinite. Liberation is not loss of individuality but expansion to universality. <strong>The Praśna parallel</strong> (6.5): the Praśna uses the same image for the dissolution of the sixteen 'parts' of the Person — they merge into the Puruṣa as rivers into the ocean."
+        "a": "<strong>नदी-सागर उपमा</strong> भारतीय दर्शन की सर्वाधिक उद्धृत और विवादित छवियों में से एक है। <strong>छवि</strong>: नदियाँ सागर की ओर बहती हैं — सागर पहुँचकर 'विलीन' हो जाती हैं — अपने व्यक्तिगत नाम (गंगा, यमुना) और रूप (चौड़ी, सँकरी, स्वच्छ, मटमैली) छोड़कर। <strong>तीन व्याख्याएँ</strong>: (1) <em>अद्वैत</em>: नदी की व्यक्तिगतता सदा भ्रामक थी — नदी सदा सागर-जल ही था। 'विलय' = अस्थायी उपाधियों (नाम-रूप) का हटना। कुछ वास्तविक न खोया, न पाया। (2) <em>विशिष्टाद्वैत</em>: नदी सागर में मिलती है — किन्तु जल जल ही रहता है — नष्ट नहीं। जीव भगवान् में — किन्तु चेतन इकाई बना रहता है — सायुज्य, ऐक्य नहीं। (3) <em>श्री अरविन्द</em>: विलय = विस्तार, विनाश नहीं। नदी की चेतना, जो नदी-तट तक सीमित थी, अब अनन्त में व्याप्त। <strong>प्रश्न-उपनिषद् समानान्तर</strong> (6.5): पुरुष की सोलह 'कलाओं' का विलय — नदियों-सा सागर में।<br><br><em>Eng:</em> The <strong>river-ocean simile</strong> is one of the most widely quoted and most debated images in Indian philosophy: <strong>The image</strong>: rivers flow toward the ocean. Upon reaching the ocean, they 'disappear' (astaṁ gacchanti) — losing their individual names (Gaṅgā, Yamunā) and forms (wide, narrow, clear, muddy). Once in the ocean, you can't point to the 'Gaṅgā part' of the ocean or the 'Yamunā part' — there is only ocean. <strong>The three readings</strong>: (1) <em>Advaita</em>: the river's individuality was always illusory. The river was always ocean-water flowing in a temporary channel. 'Merging' = the removal of the temporary channel (nāma-rūpa/upādhis). Nothing real is lost; nothing real is gained. The river-ness was never real; the ocean-ness was always there. (2) <em>Viśiṣṭādvaita</em>: the river genuinely merges but the water remains water. The soul's individuality is not illusory but real — upon liberation, the soul enters God and shares His qualities (sārūpya), but remains a distinct conscious entity. The ocean contains the river but doesn't annihilate it. (3) <em>Sri Aurobindo</em>: merging = expansion, not annihilation. The river doesn't disappear — it <em>becomes</em> the ocean. Its consciousness, formerly limited to a river-bed, now pervades the infinite. Liberation is not loss of individuality but expansion to universality. <strong>The Praśna parallel</strong> (6.5): the Praśna uses the same image for the dissolution of the sixteen 'parts' of the Person — they merge into the Puruṣa as rivers into the ocean."
       },
       {
         "q": "🔍 'Parāt paraṁ puruṣam divyam' — the Person beyond the beyond",
-        "a": "The closing phrase <strong>'parāt paraṁ puruṣam divyam'</strong> ('the divine Person beyond the beyond') describes the <em>destination</em> of the liberated soul: <strong>Parāt param</strong> = 'beyond the beyond': this phrase (used also at 2.1.2: 'akṣarāt parataḥ paraḥ') indicates that the Puruṣa transcends ALL categories — even the highest categories of Vedāntic thought. He is beyond the manifest world (kṣara), beyond the unmanifest (akṣara), beyond even the 'beyond.' <strong>Divyam</strong> = 'divine / self-luminous': from √div (to shine). The Puruṣa shines by its own light — it needs no external illumination. It is not seen by the sun's light, or the moon's, or fire's — it shines, and everything else shines after it (cf. Kaṭha 2.2.15, Muṇḍaka 2.2.10). <strong>Puruṣam</strong> = 'the Person': not an abstraction, not a force, not an 'it' — a <em>Person</em> (Puruṣa). The ultimate reality is personal — it has awareness, glory, and self-luminosity. This is not pantheism (everything is God) or deism (God is distant) but something subtler: the ultimate reality is a conscious, luminous, personal Presence that transcends all categories yet is intimately accessible. <strong>The destination</strong>: this is where the rivers go. This is what the wise one attains. Not a concept, not a state, not a void — but a Person: luminous, divine, beyond all beyonds."
+        "a": "'<strong>परात् परं पुरुषम् दिव्यम्</strong>' ('परे-से-भी-परे दिव्य पुरुष') — मुक्त आत्मा का <em>गन्तव्य</em>। <strong>परात् परम्</strong> = 'परे से भी परे' — पुरुष सभी श्रेणियों से — प्रकट जगत् (क्षर) से, अव्यक्त (अक्षर) से, 'परे' से भी — अतीत है। <strong>दिव्यम्</strong> = √दिव् (चमकना) — स्वयंप्रकाश — न सूर्य से, न चन्द्रमा से, न अग्नि से — स्वयं चमकता है (कठ 2.2.15, मुण्डक 2.2.10)। <strong>पुरुषम्</strong> = 'व्यक्ति' — अमूर्त शक्ति या शून्य नहीं — चेतन, ज्योतिर्मय, व्यक्तिगत उपस्थिति। <strong>गन्तव्य</strong>: नदियाँ यहीं जाती हैं — ज्ञानी यही प्राप्त करता है — कोई अवधारणा नहीं, कोई अवस्था नहीं, कोई शून्य नहीं — एक पुरुष: ज्योतिर्मय, दिव्य, सब 'परे' से भी परे।<br><br><em>Eng:</em> The closing phrase <strong>'parāt paraṁ puruṣam divyam'</strong> ('the divine Person beyond the beyond') describes the <em>destination</em> of the liberated soul: <strong>Parāt param</strong> = 'beyond the beyond': this phrase (used also at 2.1.2: 'akṣarāt parataḥ paraḥ') indicates that the Puruṣa transcends ALL categories — even the highest categories of Vedāntic thought. He is beyond the manifest world (kṣara), beyond the unmanifest (akṣara), beyond even the 'beyond.' <strong>Divyam</strong> = 'divine / self-luminous': from √div (to shine). The Puruṣa shines by its own light — it needs no external illumination. It is not seen by the sun's light, or the moon's, or fire's — it shines, and everything else shines after it (cf. Kaṭha 2.2.15, Muṇḍaka 2.2.10). <strong>Puruṣam</strong> = 'the Person': not an abstraction, not a force, not an 'it' — a <em>Person</em> (Puruṣa). The ultimate reality is personal — it has awareness, glory, and self-luminosity. This is not pantheism (everything is God) or deism (God is distant) but something subtler: the ultimate reality is a conscious, luminous, personal Presence that transcends all categories yet is intimately accessible. <strong>The destination</strong>: this is where the rivers go. This is what the wise one attains. Not a concept, not a state, not a void — but a Person: luminous, divine, beyond all beyonds."
       }
     ]
   },
@@ -505,32 +985,107 @@
     "en": "He who knows (veda) that supreme Brahman (paramaṁ brahma) — becomes Brahman itself (brahmaiva bhavati). In his family (kule), no one is born (bhavati) who does not know Brahman (a-brahma-vit). He crosses beyond (tarati) sorrow (śokam), crosses beyond sin (pāpmānam); freed (vimuktaḥ) from the knots of the heart (guhā-granthibhyaḥ), he becomes immortal (amṛtaḥ bhavati).",
     "ws": [
       {
-        "s": "ब्रह्मैव भवति",
-        "h": "ब्रह्म ही हो जाता है / becomes Brahman itself",
-        "e": "becomes Brahman itself"
+        "s": "सः",
+        "h": "वह",
+        "e": "he"
+      },
+      {
+        "s": "यः",
+        "h": "जो",
+        "e": "who"
+      },
+      {
+        "s": "ह वै",
+        "h": "निश्चय ही / वस्तुतः",
+        "e": "indeed / truly"
+      },
+      {
+        "s": "तत्",
+        "h": "वह / उस",
+        "e": "that"
+      },
+      {
+        "s": "परमम्",
+        "h": "परम / सर्वोच्च",
+        "e": "supreme"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म",
+        "e": "Brahman"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है",
+        "e": "knows"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म",
+        "e": "Brahman"
+      },
+      {
+        "s": "एव",
+        "h": "ही / स्वयं",
+        "e": "itself / verily"
+      },
+      {
+        "s": "भवति",
+        "h": "हो जाता है",
+        "e": "becomes"
+      },
+      {
+        "s": "न",
+        "h": "नहीं",
+        "e": "not"
+      },
+      {
+        "s": "अस्य",
+        "h": "इसके / उसके",
+        "e": "his"
       },
       {
         "s": "अब्रह्मवित्",
-        "h": "ब्रह्म को न जानने वाला / non-knower of Brahman",
-        "e": "one who does not know Brahman"
+        "h": "ब्रह्म को न जानने वाला",
+        "e": "non-knower of Brahman"
       },
       {
-        "s": "गुहाग्रन्थिभ्यः",
-        "h": "हृदय-गुहा की गाँठों से / from the knots of the heart-cave",
-        "e": "from the knots of the cave [of the heart]"
+        "s": "कुले",
+        "h": "कुल / वंश में",
+        "e": "in the family / lineage"
       },
       {
         "s": "तरति",
-        "h": "पार करता है / crosses beyond",
+        "h": "पार करता है / लाँघता है",
         "e": "crosses beyond"
       },
       {
+        "s": "शोकम्",
+        "h": "शोक / दुःख",
+        "e": "sorrow / grief"
+      },
+      {
+        "s": "पाप्मानम्",
+        "h": "पाप / दुष्कर्म",
+        "e": "sin / evil"
+      },
+      {
+        "s": "गुहाग्रन्थिभ्यः",
+        "h": "हृदय-गुहा की गाँठों से",
+        "e": "from the knots of the heart-cave"
+      },
+      {
+        "s": "विमुक्तः",
+        "h": "मुक्त / स्वतन्त्र",
+        "e": "freed / liberated"
+      },
+      {
         "s": "अमृतः",
-        "h": "अमर / immortal",
+        "h": "अमर / अमृत-स्वरूप",
         "e": "immortal"
       }
     ],
-    "gr": "<strong>The Muṇḍaka's climactic declaration</strong>: this mantra contains the famous mahāvākya-like statement: <em>'brahma-vid brahmaiva bhavati'</em> — 'the knower of Brahman becomes Brahman.' <strong>brahmaiva bhavati</strong>: the most radical assertion. The knower doesn't merely know ABOUT Brahman, doesn't merely approach Brahman, doesn't merely unite WITH Brahman — the knower BECOMES Brahman. Knowledge and being merge — knowing IS becoming. <strong>na asya abrahma-vit kule bhavati</strong>: a remarkable secondary claim — in the family of the Brahman-knower, no one will be born who doesn't know Brahman. The knowledge radiates through lineage. <strong>tarati śokaṁ tarati pāpmānam</strong>: crosses beyond sorrow and sin. The twin obstacles — grief (emotional bondage) and sin (moral bondage) — are both transcended. <strong>guhā-granthibhyaḥ vimuktaḥ</strong>: freed from the knots of the heart-cave. This brings back the 'granthi' (knot) image from 2.1.10 (avidyā-granthi) — the knots that bind the Self to limitation are cut. <strong>amṛtaḥ bhavati</strong>: becomes immortal. Not 'gains immortality' as an external reward but 'becomes' immortal — the Self was always immortal; the knower realises this.",
+    "gr": "<strong>व्याकरण:</strong> <em>स यो ह वै</em> — 'सः यः' = 'वह जो'; 'ह वै' = बलप्रदान (emphatic particles) — 'निश्चय ही' — उपनिषदों में महत्वपूर्ण घोषणाओं से पूर्व प्रयुक्त। <em>तत् परमं ब्रह्म वेद</em> — 'वेद' = √विद् (जानना) — लट् (present) — 'जानता है' — यहाँ 'जानना' = बौद्धिक ज्ञान नहीं, प्रत्यक्ष अनुभव। <em>ब्रह्मैव भवति</em> = ब्रह्म + एव (ही) + भवति — 'ब्रह्म ही हो जाता है' — सर्वाधिक क्रान्तिकारी कथन — ज्ञानी ब्रह्म के बारे में नहीं जानता, ब्रह्म हो जाता है — ज्ञान = अस्तित्व। <em>न अस्य अब्रह्मवित् कुले भवति</em> — 'अब्रह्मवित्' = अ + ब्रह्म + विद् — 'ब्रह्म को न जानने वाला' — उसके वंश में कोई ब्रह्म-अज्ञानी नहीं जन्मता। <em>तरति शोकं तरति पाप्मानम्</em> — 'तरति' = √तृ (तैरना/पार करना) — शोक और पाप दोनों 'पार' — भावनात्मक और नैतिक बन्धन दोनों से मुक्ति। <em>गुहाग्रन्थिभ्यः विमुक्तः</em> — 'गुहा' = गुफा / हृदय-गुहा; 'ग्रन्थि' = गाँठ — 2.1.10 (अविद्या-ग्रन्थि) को वापस लाता है — अविद्या, काम, कर्म की गाँठें कटती हैं। <em>अमृतः भवति</em> — 'अमृत होता है' — बाह्य पुरस्कार नहीं, आत्मा सदा अमर था — ज्ञानी इसे पहचानता है।<br><em>Eng:</em> The Muṇḍaka's climactic declaration. 'Ha vai' — emphatic particles for momentous statements. 'Brahmaiva bhavati' — the knower BECOMES Brahman (knowing = being). 'Na asya abrahma-vit kule bhavati' — knowledge radiates through lineage. 'Tarati' (√tṛ) = crosses beyond (both sorrow and sin). 'Guhā-granthibhyaḥ' echoes 2.1.10 — the heart-knots (ignorance, desire, karma) are cut. 'Amṛtaḥ bhavati' = becomes immortal — not gains immortality, but realises it.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -555,11 +1110,11 @@
     "dp": [
       {
         "q": "🔍 'Brahma-vid brahmaiva bhavati' — the knower becomes Brahman",
-        "a": "The declaration <strong>'brahma-vid brahmaiva bhavati'</strong> ('the knower of Brahman becomes Brahman itself') is one of the most important statements in the entire Upanishadic corpus: <strong>What it says</strong>: the person who truly knows Brahman does not merely understand it, approach it, or relate to it — they <em>become</em> it. Knowledge and being are identical. To know Brahman fully IS to be Brahman. <strong>Three interpretations</strong>: (1) <em>Advaita</em>: 'becomes Brahman' = recognises that one was ALWAYS Brahman. The jīva's separate identity was always illusory (māyā). 'Becoming' = the removal of ignorance, not a real transformation. Nothing changes except that the veil lifts. (2) <em>Viśiṣṭādvaita</em>: 'becomes Brahman' = becomes Brahman-like — attains Brahman's qualities (freedom from sorrow, immortality, bliss) through intimate union. The soul doesn't literally become Brahman but shares Brahman's nature to the fullest extent possible while remaining a distinct conscious entity. (3) <em>Sri Aurobindo</em>: 'becomes Brahman' = consciousness transforms — the individual consciousness expands and is transmuted into universal/supramental consciousness. This is a real transformation (not just unveiling) but not annihilation — it is the fullest expression of what the individual always potentially was. <strong>Not one of the four mahāvākyas</strong>: formally, the four mahāvākyas are: 'tat tvam asi' (Chāndogya), 'aham brahmāsmi' (Bṛhadāraṇyaka), 'prajñānaṁ brahma' (Aitareya), 'ayam ātmā brahma' (Māṇḍūkya). But 'brahma-vid brahmaiva bhavati' functions as a de facto fifth — and is arguably the most direct and the most radical of them all."
+        "a": "'<strong>ब्रह्मविद् ब्रह्मैव भवति</strong>' — सम्पूर्ण उपनिषद्-साहित्य की सबसे महत्वपूर्ण घोषणाओं में से एक। <strong>क्या कहती है</strong>: जो ब्रह्म को सच में जानता है, वह ब्रह्म को केवल समझता ही नहीं, उसके पास आता ही नहीं — ब्रह्म <em>हो जाता है</em>। ज्ञान और अस्तित्व एक। <strong>तीन व्याख्याएँ</strong>: (1) <em>अद्वैत</em>: 'हो जाना' = पहचानना कि सदा ब्रह्म ही था — जीव की पृथक् सत्ता सदा भ्रामक (माया) — 'हो जाना' = अज्ञान-निवृत्ति, वास्तविक रूपान्तर नहीं। (2) <em>विशिष्टाद्वैत</em>: 'हो जाना' = ब्रह्म-सदृश — ब्रह्म के गुण (शोक-मुक्ति, अमरत्व, आनन्द) प्राप्त — सायुज्य (intimate union) — ऐक्य नहीं। (3) <em>श्री अरविन्द</em>: 'हो जाना' = चेतना-रूपान्तर — व्यक्तिगत चेतना विश्व-चेतना में — वास्तविक रूपान्तर (न केवल अनावृत्ति) — विनाश नहीं — जो सदा सम्भाव्य था, उसकी पूर्णतम अभिव्यक्ति। <strong>चार महावाक्यों में नहीं</strong>: औपचारिक रूप से 'तत्त्वमसि', 'अहं ब्रह्मास्मि', 'प्रज्ञानं ब्रह्म', 'अयमात्मा ब्रह्म' — किन्तु 'ब्रह्मविद् ब्रह्मैव भवति' एक वास्तविक पाँचवाँ महावाक्य — सम्भवतः सबसे प्रत्यक्ष और सबसे क्रान्तिकारी।<br><br><em>Eng:</em> The declaration <strong>'brahma-vid brahmaiva bhavati'</strong> ('the knower of Brahman becomes Brahman itself') is one of the most important statements in the entire Upanishadic corpus: <strong>What it says</strong>: the person who truly knows Brahman does not merely understand it, approach it, or relate to it — they <em>become</em> it. Knowledge and being are identical. To know Brahman fully IS to be Brahman. <strong>Three interpretations</strong>: (1) <em>Advaita</em>: 'becomes Brahman' = recognises that one was ALWAYS Brahman. The jīva's separate identity was always illusory (māyā). 'Becoming' = the removal of ignorance, not a real transformation. Nothing changes except that the veil lifts. (2) <em>Viśiṣṭādvaita</em>: 'becomes Brahman' = becomes Brahman-like — attains Brahman's qualities (freedom from sorrow, immortality, bliss) through intimate union. The soul doesn't literally become Brahman but shares Brahman's nature to the fullest extent possible while remaining a distinct conscious entity. (3) <em>Sri Aurobindo</em>: 'becomes Brahman' = consciousness transforms — the individual consciousness expands and is transmuted into universal/supramental consciousness. This is a real transformation (not just unveiling) but not annihilation — it is the fullest expression of what the individual always potentially was. <strong>Not one of the four mahāvākyas</strong>: formally, the four mahāvākyas are: 'tat tvam asi' (Chāndogya), 'aham brahmāsmi' (Bṛhadāraṇyaka), 'prajñānaṁ brahma' (Aitareya), 'ayam ātmā brahma' (Māṇḍūkya). But 'brahma-vid brahmaiva bhavati' functions as a de facto fifth — and is arguably the most direct and the most radical of them all."
       },
       {
         "q": "🔍 The cutting of the heart-knots — 'guhā-granthibhyaḥ vimuktaḥ'",
-        "a": "The phrase <strong>'guhā-granthibhyaḥ vimuktaḥ'</strong> ('freed from the knots of the heart-cave') brings together two of the Muṇḍaka's central images — the <em>guhā</em> (cave of the heart) and the <em>granthi</em> (knot): <strong>What are the knots?</strong> The 'knots of the heart' (hṛdaya-granthayaḥ) are the fundamental attachments and misidentifications that bind the Self to saṁsāra: (1) <em>The knot of ignorance (avidyā-granthi)</em> — the fundamental not-knowing of one's own nature. 'I don't know who I am.' (2) <em>The knot of desire (kāma-granthi)</em> — the craving for objects, experiences, and outcomes. 'I want.' (3) <em>The knot of action (karma-granthi)</em> — the identification with one's actions and their results. 'I am the doer; I deserve the fruit.' <strong>The Kaṭha parallel</strong> (2.3.15): 'yadā sarve prabhidyante hṛdayasyeha granthayaḥ / atha martyo'mṛto bhavati' — 'When all the knots of the heart are cut HERE, the mortal becomes immortal.' <strong>How the knots are cut</strong>: through knowledge (jñāna) — specifically, the direct realisation 'brahma-vid brahmaiva bhavati.' The knots are not gradually loosened but 'cut' (bhidyante / vimuktaḥ) — like a rope cut with a sharp blade. The blade is knowledge. The knots cannot be untied by effort alone — they must be cut by the sharp edge of direct insight. <strong>The connection to the two birds</strong>: the knots are what keep the 'eating bird' eating. When the knots are cut, the eating bird looks up, sees the watching bird, and recognises its true identity. The eating stops. Sorrow stops. Identity shifts from the limited to the unlimited."
+        "a": "'<strong>गुहाग्रन्थिभ्यः विमुक्तः</strong>' — मुण्डक की दो केन्द्रीय छवियों — <em>गुहा</em> (हृदय-गुफा) और <em>ग्रन्थि</em> (गाँठ) — को एकत्र करता है। <strong>गाँठें क्या हैं?</strong> हृदय-ग्रन्थियाँ — मूलभूत आसक्तियाँ और भ्रान्त पहचान जो आत्मा को संसार से बाँधती हैं: (1) <em>अविद्या-ग्रन्थि</em> — अपने स्वरूप का मूलभूत अज्ञान। (2) <em>काम-ग्रन्थि</em> — विषयों, अनुभवों, फलों की तृष्णा। (3) <em>कर्म-ग्रन्थि</em> — कर्तृत्व और फल से तादात्म्य। <strong>कठ समानान्तर</strong> (2.3.15): 'यदा सर्वे प्रभिद्यन्ते हृदयस्येह ग्रन्थयः / अथ मर्त्योऽमृतो भवति' — 'जब सब हृदय-ग्रन्थियाँ यहीं छिन्न हो जाती हैं — मर्त्य अमृत हो जाता है।' <strong>कैसे कटती हैं?</strong> ज्ञान (प्रत्यक्ष अनुभूति) से — गाँठें धीरे-धीरे नहीं खुलतीं, 'काटी' जाती हैं — जैसे तीक्ष्ण धार से रस्सी। <strong>दो पक्षियों से सम्बन्ध</strong>: गाँठें ही 'खाने वाले पक्षी' को खाते रखती हैं — गाँठ कटते ही खाने वाला ऊपर देखता है, देखने वाले को पहचानता है — खाना बन्द, शोक बन्द — पहचान सीमित से असीमित में।<br><br><em>Eng:</em> The phrase <strong>'guhā-granthibhyaḥ vimuktaḥ'</strong> ('freed from the knots of the heart-cave') brings together two of the Muṇḍaka's central images — the <em>guhā</em> (cave of the heart) and the <em>granthi</em> (knot): <strong>What are the knots?</strong> The 'knots of the heart' (hṛdaya-granthayaḥ) are the fundamental attachments and misidentifications that bind the Self to saṁsāra: (1) <em>The knot of ignorance (avidyā-granthi)</em> — the fundamental not-knowing of one's own nature. 'I don't know who I am.' (2) <em>The knot of desire (kāma-granthi)</em> — the craving for objects, experiences, and outcomes. 'I want.' (3) <em>The knot of action (karma-granthi)</em> — the identification with one's actions and their results. 'I am the doer; I deserve the fruit.' <strong>The Kaṭha parallel</strong> (2.3.15): 'yadā sarve prabhidyante hṛdayasyeha granthayaḥ / atha martyo'mṛto bhavati' — 'When all the knots of the heart are cut HERE, the mortal becomes immortal.' <strong>How the knots are cut</strong>: through knowledge (jñāna) — specifically, the direct realisation 'brahma-vid brahmaiva bhavati.' The knots are not gradually loosened but 'cut' (bhidyante / vimuktaḥ) — like a rope cut with a sharp blade. The blade is knowledge. The knots cannot be untied by effort alone — they must be cut by the sharp edge of direct insight. <strong>The connection to the two birds</strong>: the knots are what keep the 'eating bird' eating. When the knots are cut, the eating bird looks up, sees the watching bird, and recognises its true identity. The eating stops. Sorrow stops. Identity shifts from the limited to the unlimited."
       }
     ]
   },
@@ -571,32 +1126,102 @@
     "en": "This is declared (abhyuktam) by the Vedic verse (ṛcā): those who are active (kriyāvantaḥ), learned in the Vedas (śrotriyāḥ), devoted to Brahman (brahma-niṣṭhāḥ), who themselves offer oblations (svayaṁ juhvataḥ) to the one Seer (eka-ṛṣim) with faith (śraddhayantaḥ) — to them should this brahma-vidyā [be taught]. Indeed, the wise one (vidvān), devoted to Brahman (brahma-niṣṭhaḥ), should teach (vedayet) the Person (puruṣam) to one who has duly approached (upasannam) according to rule (yathā-vidhim).",
     "ws": [
       {
+        "s": "तत्",
+        "h": "वह",
+        "e": "that"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "ऋचा",
+        "h": "ऋचा / वेद-मन्त्र द्वारा",
+        "e": "by the Vedic verse"
+      },
+      {
+        "s": "अभ्युक्तम्",
+        "h": "कहा गया / घोषित",
+        "e": "declared / stated"
+      },
+      {
+        "s": "क्रियावन्तः",
+        "h": "कर्मनिष्ठ / कर्मशील",
+        "e": "those engaged in action"
+      },
+      {
         "s": "श्रोत्रियाः",
-        "h": "श्रुति-विद् / Veda-learned",
+        "h": "श्रुति-विद् / वेदपारंगत",
         "e": "learned in the Vedas"
       },
       {
         "s": "ब्रह्मनिष्ठाः",
-        "h": "ब्रह्मपरायण / devoted to Brahman",
-        "e": "devoted to/established in Brahman"
+        "h": "ब्रह्मपरायण / ब्रह्म में स्थित",
+        "e": "devoted to / established in Brahman"
+      },
+      {
+        "s": "स्वयम्",
+        "h": "स्वयं / आप",
+        "e": "themselves"
+      },
+      {
+        "s": "जुह्वतः",
+        "h": "आहुति देने वाले / हवन करने वाले",
+        "e": "offering oblations"
       },
       {
         "s": "एकर्षिम्",
-        "h": "एक ऋषि / the one Seer",
-        "e": "the one Seer"
+        "h": "एक ऋषि / एक द्रष्टा (ब्रह्म)",
+        "e": "the one Seer (Brahman)"
+      },
+      {
+        "s": "श्रद्धयन्तः",
+        "h": "श्रद्धा रखने वाले / श्रद्धापूर्वक",
+        "e": "with faith"
+      },
+      {
+        "s": "ब्रह्मविद्याम्",
+        "h": "ब्रह्मविद्या / ब्रह्म का ज्ञान",
+        "e": "the knowledge of Brahman"
+      },
+      {
+        "s": "ब्रह्मनिष्ठः",
+        "h": "ब्रह्मपरायण / ब्रह्म में स्थित",
+        "e": "one established in Brahman"
+      },
+      {
+        "s": "अथ",
+        "h": "तब / इसके बाद",
+        "e": "then / moreover"
+      },
+      {
+        "s": "विद्वान्",
+        "h": "ज्ञानी / विद्वान",
+        "e": "the wise one"
       },
       {
         "s": "उपसन्नम्",
-        "h": "विधिपूर्वक उपसन्न / one who has duly approached",
-        "e": "one who has properly approached"
+        "h": "विधिपूर्वक उपसन्न / शिष्य जो समीप आया",
+        "e": "one who has duly approached"
       },
       {
         "s": "यथाविधि",
-        "h": "विधि-अनुसार / according to rule",
+        "h": "विधि-अनुसार / नियमानुसार",
         "e": "according to rule / properly"
+      },
+      {
+        "s": "पुरुषम्",
+        "h": "पुरुष / परम सत्ता",
+        "e": "the Person / supreme Being"
+      },
+      {
+        "s": "वेदयेत्",
+        "h": "बताए / सिखाए / ज्ञान दे",
+        "e": "should teach / make known"
       }
     ],
-    "gr": "<strong>The closing instruction: who teaches, who learns</strong>: this final mantra of the Khanda describes the <em>transmission protocol</em> for brahma-vidyā — who is qualified to teach it, who is qualified to receive it, and how the transmission should occur. <strong>The qualified teacher</strong>: (1) kriyāvān — active (not withdrawn from the world), (2) śrotriya — learned in the Vedas (has the intellectual foundation), (3) brahma-niṣṭha — established in Brahman (has direct experience, not just learning). <strong>The qualified student</strong>: upasanna — one who has 'duly approached' — the student must come with humility, readiness, and sincerity (cf. 1.2.12: samit-pāṇi = 'fuel in hand'). <strong>The method</strong>: yathā-vidhi — 'according to rule' — the teaching follows the paramparā (lineage of transmission), not arbitrary or casual instruction. <strong>The circle closes</strong>: the Muṇḍaka began (1.1.1-2) with the lineage of transmission: Brahmā → Atharvā → Aṅgir → Satyavāha → Aṅgiras → Śaunaka. Now it closes by affirming the importance of this lineage — brahma-vidyā is not broadcast indiscriminately but transmitted from qualified teacher to qualified student, according to rule.",
+    "gr": "<strong>व्याकरण:</strong> <em>तदेतत् ऋचा अभ्युक्तम्</em> — 'ऋचा' = तृतीया एकवचन (instrumental) — 'ऋचा के द्वारा'; 'अभ्युक्तम्' = अभि + √वच् (कहना) — 'कहा गया / घोषित।' <em>क्रियावन्तः श्रोत्रियाः ब्रह्मनिष्ठाः</em> — योग्य गुरु के तीन गुण: (1) क्रियावान् = कर्मशील; (2) श्रोत्रिय = श्रुति + इय — 'वेदपारंगत'; (3) ब्रह्मनिष्ठ = ब्रह्म + निष्ठा (स्थिरता) — 'ब्रह्म में स्थित।' <em>स्वयं जुह्वतः एकर्षिम्</em> — 'जुह्वतः' = √हु (आहुति देना) — शतृ बहुवचन — 'स्वयं आहुति देने वाले'; 'एकर्षिम्' = एक + ऋषि — 'एक द्रष्टा' = ब्रह्म। <em>श्रद्धयन्तः</em> = श्रद्धा + यत् — 'श्रद्धापूर्वक।' <em>उपसन्नम्</em> = उप + √सद् (बैठना/पास जाना) — 'जो विधिपूर्वक गुरु के पास आया' — 1.2.12 (समित्पाणि) की प्रतिध्वनि। <em>यथाविधि</em> = यथा + विधि — 'विधि-अनुसार' — गुरु-शिष्य परम्परा का पालन। <em>वेदयेत्</em> = √विद् (जानना) का णिजन्त (causative) — विधिलिङ् (optative) — 'ज्ञान कराए / सिखाए।' <strong>वृत्त बन्द होता है</strong>: मुण्डक आरम्भ (1.1.1-2) में गुरु-परम्परा (ब्रह्मा → अथर्वा → अङ्गिर → सत्यवाह → अङ्गिरस् → शौनक) — अब अन्त में इस परम्परा की निरन्तरता की पुष्टि।<br><em>Eng:</em> The closing transmission protocol. 'Ṛcā abhyuktam' = declared by the Vedic verse. Three qualifications of the teacher: kriyāvān (active), śrotriya (Veda-learned), brahma-niṣṭha (established in Brahman). 'Eka-ṛṣim' = the one Seer (Brahman). 'Upasannam' (upa + √sad) = one who has duly approached — echoing 1.2.12. 'Vedayet' = causative optative of √vid — 'should make known / teach.' The Muṇḍaka's circle closes.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -621,11 +1246,11 @@
     "dp": [
       {
         "q": "🔍 The guru-śiṣya paramparā — sacred transmission",
-        "a": "This closing mantra affirms the importance of the <strong>guru-śiṣya paramparā</strong> (teacher-student lineage) for the transmission of brahma-vidyā: <strong>The qualified teacher must be</strong>: (1) <em>Kriyāvān</em> (active): not a recluse but engaged with the world — living the knowledge, not just knowing it. (2) <em>Śrotriya</em> (Veda-learned): having studied the Vedas and the Upanishads under a proper teacher — possessing the intellectual framework. (3) <em>Brahma-niṣṭha</em> (established in Brahman): having direct experience of Brahman — not just book-knowledge but living realisation. <strong>The qualified student must be</strong>: <em>Upasanna</em> (duly approached): having come to the teacher properly — with humility, sincerity, and readiness. The Muṇḍaka's own opening (1.2.12-13) describes this: the student must be 'samit-pāṇi' (with fuel in hand — the traditional mark of readiness), 'praśānta-citta' (with pacified mind), and 'śama-anvita' (possessed of self-control). <strong>The method</strong>: <em>Yathā-vidhi</em> (according to rule): the teaching follows established procedure — it is not casual, not improvised, not public. It is a sacred act, governed by tradition. <strong>The Muṇḍaka's circle</strong>: the Upanishad opened with the lineage Brahmā → Atharvā → Aṅgir → Satyavāha → Aṅgiras → Śaunaka. It closes by affirming that this lineage must continue — each generation's Brahman-knower must teach the next generation's qualified student. The chain is unbroken."
+        "a": "यह समापन मन्त्र <strong>गुरु-शिष्य परम्परा</strong> के महत्व की पुष्टि करता है। <strong>योग्य गुरु</strong>: (1) <em>क्रियावान्</em> — कर्मशील (संसार से विरत नहीं) — ज्ञान को जीने वाला। (2) <em>श्रोत्रिय</em> — वेदपारंगत — बौद्धिक आधार। (3) <em>ब्रह्मनिष्ठ</em> — ब्रह्म में स्थित — प्रत्यक्ष अनुभव, केवल पुस्तकीय ज्ञान नहीं। <strong>योग्य शिष्य</strong>: <em>उपसन्न</em> — विधिपूर्वक गुरु के पास आया — विनम्रता, तत्परता, ईमानदारी। मुण्डक का अपना आरम्भ (1.2.12-13): 'समित्पाणि' (हाथ में समिधा), 'प्रशान्तचित्त', 'शमान्वित।' <strong>विधि</strong>: <em>यथाविधि</em> — परम्परा-अनुसार — सामान्य, आकस्मिक, सार्वजनिक शिक्षा नहीं — पवित्र कृत्य। <strong>मुण्डक का वृत्त</strong>: उपनिषद् ब्रह्मा → अथर्वा → अङ्गिर → सत्यवाह → अङ्गिरस् → शौनक परम्परा से आरम्भ हुआ — अब अन्त में इस परम्परा की निरन्तरता की पुष्टि — हर पीढ़ी का ब्रह्मज्ञानी अगली पीढ़ी के योग्य शिष्य को सिखाए।<br><br><em>Eng:</em> This closing mantra affirms the importance of the <strong>guru-śiṣya paramparā</strong> (teacher-student lineage) for the transmission of brahma-vidyā: <strong>The qualified teacher must be</strong>: (1) <em>Kriyāvān</em> (active): not a recluse but engaged with the world — living the knowledge, not just knowing it. (2) <em>Śrotriya</em> (Veda-learned): having studied the Vedas and the Upanishads under a proper teacher — possessing the intellectual framework. (3) <em>Brahma-niṣṭha</em> (established in Brahman): having direct experience of Brahman — not just book-knowledge but living realisation. <strong>The qualified student must be</strong>: <em>Upasanna</em> (duly approached): having come to the teacher properly — with humility, sincerity, and readiness. The Muṇḍaka's own opening (1.2.12-13) describes this: the student must be 'samit-pāṇi' (with fuel in hand — the traditional mark of readiness), 'praśānta-citta' (with pacified mind), and 'śama-anvita' (possessed of self-control). <strong>The method</strong>: <em>Yathā-vidhi</em> (according to rule): the teaching follows established procedure — it is not casual, not improvised, not public. It is a sacred act, governed by tradition. <strong>The Muṇḍaka's circle</strong>: the Upanishad opened with the lineage Brahmā → Atharvā → Aṅgir → Satyavāha → Aṅgiras → Śaunaka. It closes by affirming that this lineage must continue — each generation's Brahman-knower must teach the next generation's qualified student. The chain is unbroken."
       },
       {
         "q": "🔍 'Eka-ṛṣim' — Brahman as the one Seer",
-        "a": "The epithet <strong>'eka-ṛṣim'</strong> ('the one Seer') is a beautiful and philosophically profound description of Brahman: <strong>What it means</strong>: Brahman is the <em>one</em> Seer (ṛṣi) who sees through all eyes, thinks through all minds, perceives through all consciousness. Every act of seeing — by every being, in every world — is ultimately an act of the ONE Seer seeing through a particular window. <strong>The connection to the two birds</strong>: the 'watching bird' (abhicākaśīti) of 3.1.1 is the eka-ṛṣi — the one Seer who watches everything without eating. Every being has this Seer within — it is the witness-consciousness (sākṣin) that underlies all individual awareness. <strong>The ritual dimension</strong>: 'svayaṁ juhvataḥ eka-ṛṣim' — 'they themselves offer oblations to the one Seer.' This transforms the Vedic ritual: the true oblation is not butter into fire but the offering of oneself (svayam) to the one Seer (Brahman). Every ritual, properly understood, is an offering to the one consciousness that sees through all. <strong>The practical implication</strong>: in every moment, you are being seen — by the one Seer, the ultimate witness. This isn't surveillance; it's intimacy. The Seer is not judging you — it is YOU, in your deepest nature. The eka-ṛṣi is the second bird on the tree — your own highest Self, watching, always watching, with infinite patience and love."
+        "a": "'<strong>एकर्षिम्</strong>' ('एक द्रष्टा') — ब्रह्म का एक सुन्दर और दार्शनिक रूप से गहन विशेषण। <strong>अर्थ</strong>: ब्रह्म वह <em>एक</em> द्रष्टा (ऋषि) है जो सब आँखों से देखता है, सब मनों से सोचता है — हर जीव में, हर लोक में — देखने का हर कार्य अन्ततः उसी एक द्रष्टा का, एक विशिष्ट खिड़की से, देखना है। <strong>दो पक्षियों से सम्बन्ध</strong>: 3.1.1 का 'देखने वाला पक्षी' (अभिचाकशीति) = एकर्षि — वह एक द्रष्टा जो बिना खाए सब देखता है। <strong>अनुष्ठान-आयाम</strong>: 'स्वयं जुह्वतः एकर्षिम्' — वे स्वयं एक द्रष्टा को आहुति देते हैं — सच्ची आहुति = घी-अग्नि नहीं, स्वयं (svayam) को एक चेतना (ब्रह्म) को अर्पित करना। <strong>व्यावहारिक निहितार्थ</strong>: हर क्षण एक द्रष्टा आपको देख रहा है — यह निगरानी नहीं, अन्तरंगता है — वह द्रष्टा आपकी गहनतम प्रकृति में आप ही हैं — एकर्षि = वही दूसरा पक्षी — अनन्त धैर्य और प्रेम से सदा देखता हुआ।<br><br><em>Eng:</em> The epithet <strong>'eka-ṛṣim'</strong> ('the one Seer') is a beautiful and philosophically profound description of Brahman: <strong>What it means</strong>: Brahman is the <em>one</em> Seer (ṛṣi) who sees through all eyes, thinks through all minds, perceives through all consciousness. Every act of seeing — by every being, in every world — is ultimately an act of the ONE Seer seeing through a particular window. <strong>The connection to the two birds</strong>: the 'watching bird' (abhicākaśīti) of 3.1.1 is the eka-ṛṣi — the one Seer who watches everything without eating. Every being has this Seer within — it is the witness-consciousness (sākṣin) that underlies all individual awareness. <strong>The ritual dimension</strong>: 'svayaṁ juhvataḥ eka-ṛṣim' — 'they themselves offer oblations to the one Seer.' This transforms the Vedic ritual: the true oblation is not butter into fire but the offering of oneself (svayam) to the one Seer (Brahman). Every ritual, properly understood, is an offering to the one consciousness that sees through all. <strong>The practical implication</strong>: in every moment, you are being seen — by the one Seer, the ultimate witness. This isn't surveillance; it's intimacy. The Seer is not judging you — it is YOU, in your deepest nature. The eka-ṛṣi is the second bird on the tree — your own highest Self, watching, always watching, with infinite patience and love."
       }
     ]
   }
