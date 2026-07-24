@@ -7,37 +7,147 @@
     "en": "Om. May Mitra (the sun as friend) bring us peace (śam). May Varuṇa bring us peace. May Aryamā bring us peace. May Indra and Bṛhaspati bring us peace. May Viṣṇu of wide strides (urukrama) bring us peace. Salutation to Brahman. Salutation to you, O Vāyu — you indeed are the directly perceptible Brahman (pratyakṣaṁ brahma). I shall declare you to be the directly perceptible Brahman. I shall speak ṛta (cosmic truth). I shall speak satya (truth). May That protect me. May That protect the speaker. May it protect me. May it protect the speaker. Om, peace, peace, peace.",
     "ws": [
       {
+        "s": "ॐ",
+        "h": "प्रणव / परब्रह्म का वाचक",
+        "e": "the sacred syllable Om / symbol of Brahman"
+      },
+      {
         "s": "शम्",
-        "h": "शान्ति / कल्याण / peace / well-being",
+        "h": "शान्ति / कल्याण / मंगल",
         "e": "peace / well-being / auspiciousness"
       },
       {
+        "s": "नः",
+        "h": "हमें / हमारे लिए (अस्मद् सर्वनाम, चतुर्थी)",
+        "e": "to us / for us (dative of asmad)"
+      },
+      {
         "s": "मित्रः",
-        "h": "मित्र / सूर्य-देवता / the sun as friend",
-        "e": "Mitra"
+        "h": "मित्र / सूर्य-देवता (मैत्री के अधिष्ठाता)",
+        "e": "Mitra / the sun-deity presiding over friendship"
+      },
+      {
+        "s": "वरुणः",
+        "h": "वरुण / ऋत (cosmic order) के स्वामी",
+        "e": "Varuṇa / lord of cosmic order and waters"
+      },
+      {
+        "s": "भवतु",
+        "h": "हो / होवे (भू धातु, लोट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "may it be / let it be (imperative 3rd sg. of √bhū)"
+      },
+      {
+        "s": "अर्यमा",
+        "h": "अर्यमा / पितृ-देवता / सूर्य का एक रूप",
+        "e": "Aryamā / deity of ancestors and the sun as guide"
+      },
+      {
+        "s": "इन्द्रः",
+        "h": "इन्द्र / देवराज / शक्ति के स्वामी",
+        "e": "Indra / king of gods / lord of might"
+      },
+      {
+        "s": "बृहस्पतिः",
+        "h": "बृहस्पति / देवगुरु / वाक्-स्वामी",
+        "e": "Bṛhaspati / preceptor of the gods / lord of sacred speech"
+      },
+      {
+        "s": "विष्णुः",
+        "h": "विष्णु / व्यापक देवता / पालनकर्ता",
+        "e": "Viṣṇu / the all-pervading deity / sustainer"
       },
       {
         "s": "उरुक्रमः",
-        "h": "विशाल पराक्रम वाला / wide-striding",
-        "e": "wide-striding"
+        "h": "विशाल पराक्रम वाला / विस्तृत पदवाला (विष्णु का विशेषण)",
+        "e": "wide-striding / of vast strides (epithet of Viṣṇu)"
       },
       {
-        "s": "प्रत्यक्षं ब्रह्म",
-        "h": "प्रत्यक्ष ब्रह्म / directly perceptible Brahman",
-        "e": "directly perceptible Brahman"
+        "s": "नमः",
+        "h": "नमस्कार / प्रणाम / वन्दना",
+        "e": "salutation / obeisance / homage"
+      },
+      {
+        "s": "ब्रह्मणे",
+        "h": "ब्रह्म को (ब्रह्मन् शब्द, चतुर्थी एकवचन)",
+        "e": "to Brahman (dative singular of brahman)"
+      },
+      {
+        "s": "नमस्ते",
+        "h": "तुम्हें नमस्कार (नमः + ते)",
+        "e": "salutation to you (namaḥ + te)"
+      },
+      {
+        "s": "वायो",
+        "h": "हे वायु (सम्बोधन / vocative)",
+        "e": "O Vāyu (vocative of vāyu)"
+      },
+      {
+        "s": "त्वम्",
+        "h": "तुम / तू (युष्मद् सर्वनाम, प्रथमा)",
+        "e": "you (nominative of yuṣmad)"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चय से (अवधारणार्थक अव्यय)",
+        "e": "indeed / verily / alone (emphatic particle)"
+      },
+      {
+        "s": "प्रत्यक्षम्",
+        "h": "प्रत्यक्ष / साक्षात् / इन्द्रिय-गोचर",
+        "e": "directly perceptible / manifest / evident to the senses"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परमतत्त्व / परम सत्ता",
+        "e": "Brahman / the Absolute / ultimate reality"
+      },
+      {
+        "s": "असि",
+        "h": "हो (अस् धातु, लट् लकार, मध्यम पुरुष एकवचन)",
+        "e": "you are (2nd sg. present of √as)"
+      },
+      {
+        "s": "वदिष्यामि",
+        "h": "कहूँगा / बोलूँगा (वद् धातु, लृट् लकार, उत्तम पुरुष)",
+        "e": "I shall declare / I will speak (1st sg. future of √vad)"
       },
       {
         "s": "ऋतम्",
-        "h": "ऋत / विश्व-नियम / cosmic truth / cosmic order",
-        "e": "cosmic truth / cosmic order"
+        "h": "ऋत / विश्व-नियम / सत्य-व्यवस्था",
+        "e": "cosmic truth / cosmic order / ṛta"
       },
       {
-        "s": "शान्तिः शान्तिः शान्तिः",
-        "h": "शान्ति शान्ति शान्ति / peace peace peace",
-        "e": "peace, peace, peace"
+        "s": "सत्यम्",
+        "h": "सत्य / यथार्थ / सच",
+        "e": "truth / reality / veracity"
+      },
+      {
+        "s": "तत्",
+        "h": "वह (तद् सर्वनाम, प्रथमा एकवचन नपुंसकलिंग)",
+        "e": "that (nominative sg. neuter of tad)"
+      },
+      {
+        "s": "माम्",
+        "h": "मुझे / मेरी (अस्मद्, द्वितीया एकवचन)",
+        "e": "me (accusative singular of asmad)"
+      },
+      {
+        "s": "अवतु",
+        "h": "रक्षा करे (अव् धातु, लोट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "may it protect (imperative 3rd sg. of √av)"
+      },
+      {
+        "s": "वक्तारम्",
+        "h": "वक्ता को / बोलने वाले को (वक्तृ, द्वितीया एकवचन)",
+        "e": "the speaker (accusative singular of vaktṛ)"
+      },
+      {
+        "s": "शान्तिः",
+        "h": "शान्ति / परम शान्ति",
+        "e": "peace / perfect peace"
       }
     ],
-    "gr": "<strong>The Śānti-pāṭha (peace invocation) of the Taittirīya Upanishad</strong>: this opening mantra is the <em>śānti-pāṭha</em> — the peace invocation that frames the entire Upanishad. Every Upanishad has its own śānti-pāṭha; the Taittirīya's is one of the most elaborate. <strong>Structure</strong>: (1) <em>Invocation of deities for peace</em>: Mitra, Varuṇa, Aryamā, Indra, Bṛhaspati, Viṣṇu — each deity governs a different domain of cosmic order. (2) <em>Declaration of Vāyu as pratyakṣa Brahman</em>: the most remarkable claim — breath/wind is 'directly perceptible Brahman.' (3) <em>Vow to speak truth</em>: 'ṛtaṁ vadiṣyāmi, satyaṁ vadiṣyāmi' — a solemn vow before beginning study. (4) <em>Prayer for protection</em>: 'avatu mām, avatu vaktāram' — protect the student AND the teacher. (5) <em>Triple śānti</em>: three repetitions removing three kinds of obstacles. <strong>Why Vāyu is 'pratyakṣa Brahman'</strong>: Brahman is normally 'aparokṣa' (beyond sense perception). But Vāyu/prāṇa is the one form of Brahman you can DIRECTLY experience — every breath is Brahman entering and leaving. The Bṛhadāraṇyaka (3.9.9) similarly identifies Vāyu/prāṇa as the most concrete manifestation of the divine. <strong>Ṛta vs. satya</strong>: the student vows to speak BOTH ṛta (cosmic truth — the objective order) AND satya (truth — honest speech). Together they form a complete commitment to truth at every level.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र तैत्तिरीय उपनिषद् का शान्ति-पाठ है। संरचना पाँच भागों में विभक्त है — (१) देवताओं से शान्ति-प्रार्थना, (२) ब्रह्म को नमस्कार, (३) वायु को प्रत्यक्ष ब्रह्म घोषित करना, (४) ऋत-सत्य बोलने की प्रतिज्ञा, (५) रक्षा-प्रार्थना एवं त्रिविध शान्ति। 'शम्' (शान्ति) अव्यय है जो प्रत्येक देवता के साथ प्रयुक्त है। 'नः' = अस्मद् सर्वनाम का चतुर्थी बहुवचन (हमारे लिए)। 'भवतु' = भू धातु, लोट् लकार, प्रथम पुरुष एकवचन (विध्यर्थ — \"हो\")। 'नमस्ते' = नमः + ते (सन्धि — विसर्ग + त = स्ते)। 'वायो' = वायु शब्द का सम्बोधन एकवचन। 'असि' = अस् धातु, लट् लकार, मध्यम पुरुष एकवचन। 'वदिष्यामि' = वद् धातु, लृट् लकार (भविष्यत्), उत्तम पुरुष एकवचन। 'अवतु' = अव् (रक्षा करना) धातु, लोट् लकार, प्रथम पुरुष एकवचन। 'वक्तारम्' = वक्तृ शब्द (तृच् प्रत्ययान्त कर्तृवाचक), द्वितीया एकवचन। 'ब्रह्मणे' = ब्रह्मन् शब्द, चतुर्थी एकवचन। 'प्रत्यक्षम्' = प्रति + अक्षि → प्रत्यक्ष (इन्द्रियगोचर), नपुंसकलिंग, प्रथमा एकवचन। समास — 'उरुक्रमः' = उरु (विस्तृत) + क्रम (पद/गति) → बहुव्रीहि समास (जिसके क्रम विस्तृत हैं)। त्रिविध शान्ति — आधिदैविक, आधिभौतिक, आध्यात्मिक बाधाओं के निवारणार्थ। <br><em>Eng:</em> The śānti-pāṭha uses imperative (loṭ) forms — bhavatu, avatu — to pray for peace and protection. 'Naḥ' is dative plural of asmad. 'Vadiṣyāmi' is future tense (lṛṭ) of √vad. The compound 'urukramaḥ' is a bahuvrīhi ('one whose strides are wide'). The triple śānti removes three categories of obstacles: ādhidaivika, ādhibhautika, ādhyātmika.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -62,11 +172,11 @@
     "dp": [
       {
         "q": "🔍 'Pratyakṣaṁ Brahma' — why Vāyu is directly perceptible Brahman",
-        "a": "The declaration <strong>'tvam eva pratyakṣaṁ brahmāsi'</strong> ('you indeed are the directly perceptible Brahman') addressed to Vāyu is one of the most striking claims in the Upanishads: <strong>The problem</strong>: Brahman is typically described as <em>beyond</em> the senses — 'na cakṣuṣā gṛhyate' (Muṇḍaka 3.2.8), 'yato vāco nivartante' (Taittirīya 2.9.1). If Brahman transcends perception, how can anything be 'pratyakṣa Brahman' (directly perceivable Brahman)? <strong>The answer</strong>: Vāyu/prāṇa (wind/breath/life-force) is the one form of the Absolute that can be directly experienced by everyone: (1) <em>Breath</em>: every living being breathes — and breath (prāṇa) is the most immediate, continuous, and universal experience of life. You can't see Brahman, hear Brahman, or touch Brahman — but you can BREATHE Brahman. (2) <em>Universality</em>: Vāyu pervades everything — like Brahman, it is present everywhere, sustains everything, and withdraws from everything at death. (3) <em>Subtlety</em>: Vāyu is the most subtle of the gross elements — it can be felt but not seen, heard but not grasped. It bridges the gap between the material and the immaterial. (4) <em>Life-sustaining</em>: of all the senses and faculties, prāṇa is the last to leave (Bṛhadāraṇyaka 6.1.1-14 — the contest of the prāṇas) and the most essential. <strong>The Chāndogya's confirmation</strong> (4.3.1-3): Raikva teaches that Vāyu is the 'saṁvarga' (absorber) — everything dissolves into Vāyu at the cosmic level (all elements) and at the individual level (all senses dissolve into prāṇa in sleep). <strong>The practical teaching</strong>: begin your study of Brahman with breath-awareness — because breath IS Brahman in your direct experience."
+        "a": "<strong>'प्रत्यक्षं ब्रह्म'</strong> — वायु को प्रत्यक्ष ब्रह्म क्यों कहा गया, यह उपनिषदों के सबसे उल्लेखनीय दावों में से एक है। <strong>समस्या:</strong> ब्रह्म सामान्यतः इन्द्रियातीत बताया जाता है — 'न चक्षुषा गृह्यते' (मुण्डक ३.२.८), 'यतो वाचो निवर्तन्ते' (तैत्तिरीय २.९.१)। यदि ब्रह्म इन्द्रियों से परे है, तो कोई वस्तु 'प्रत्यक्ष ब्रह्म' कैसे हो सकती है? <strong>उत्तर:</strong> वायु/प्राण ब्रह्म का वह एकमात्र रूप है जिसे प्रत्येक प्राणी साक्षात् अनुभव कर सकता है: (१) श्वास — प्रत्येक जीव श्वास लेता है, और प्राण सबसे अविरत, सबसे सार्वभौमिक जीवन-अनुभव है। ब्रह्म को देख नहीं सकते, सुन नहीं सकते, छू नहीं सकते — किन्तु श्वास में ब्रह्म का अनुभव कर सकते हैं। (२) सर्वव्यापकता — वायु ब्रह्म की भाँति सर्वत्र विद्यमान है, सबका पोषण करता है, मृत्यु-काल में शरीर छोड़ता है। (३) सूक्ष्मता — वायु स्थूल भूतों में सबसे सूक्ष्म है — अनुभव होता है पर दिखता नहीं; यह भौतिक और अभौतिक के बीच सेतु है। (४) प्राण-श्रेष्ठता — बृहदारण्यक (६.१.१-१४) में प्राणों की स्पर्धा में प्राण/वायु सर्वश्रेष्ठ सिद्ध होता है — अन्तिम प्रस्थान वही करता है। छान्दोग्य (४.३.१-३) में रैक्व वायु को 'संवर्ग' (सब-कुछ-समेटने-वाला) कहता है — ब्रह्माण्ड-स्तर पर सब तत्त्व वायु में लय होते हैं, व्यक्ति-स्तर पर निद्रा में सब इन्द्रियाँ प्राण में विलीन हो जाती हैं। <strong>व्यावहारिक शिक्षा:</strong> ब्रह्म-अध्ययन का आरम्भ श्वास-साक्षात्कार से करें — क्योंकि श्वास ही आपके प्रत्यक्ष अनुभव में ब्रह्म है।<br><br><em>Eng:</em> The declaration 'tvam eva pratyakṣaṁ brahmāsi' ('you indeed are the directly perceptible Brahman') addressed to Vāyu is one of the most striking claims in the Upanishads. Brahman is typically described as beyond the senses — 'na cakṣuṣā gṛhyate' (Muṇḍaka 3.2.8). Yet Vāyu/prāṇa is the one form of the Absolute directly experienced by everyone: breath is the most immediate, continuous, universal experience of life. Vāyu pervades everything like Brahman, is the most subtle of gross elements, and in the contest of prāṇas (Bṛhadāraṇyaka 6.1.1-14) proves the most essential faculty. The Chāndogya (4.3.1-3) confirms Vāyu as the 'saṁvarga' — the universal absorber. The practical teaching: begin Brahman-study with breath-awareness, because breath IS Brahman in direct experience."
       },
       {
         "q": "🔍 The triple śānti — removing three kinds of obstacles",
-        "a": "The <strong>triple 'śāntiḥ śāntiḥ śāntiḥ'</strong> at the end of the invocation removes three categories of obstacles to spiritual study: <strong>The three tāpas (afflictions)</strong>: (1) <em>Ādhidaivika</em> (from divine/cosmic sources): natural disasters, cosmic disturbances — storms, earthquakes, eclipses, droughts. These are beyond human control — the student prays for protection from forces of nature. (2) <em>Ādhibhautika</em> (from external beings): disturbances from other creatures — animals, insects, hostile people, social conflicts. These come from the external world of beings. (3) <em>Ādhyātmika</em> (from within oneself): disease, mental disturbance, emotional turmoil, laziness, doubt, distraction. These are internal obstacles. <strong>Why three repetitions?</strong> Each 'śāntiḥ' addresses one level of disturbance. The traditional chanting practice often reflects this: the first 'śāntiḥ' is spoken loudly (addressing cosmic forces), the second at medium volume (addressing external beings), and the third softly (addressing the inner self). <strong>The deeper meaning</strong>: the triple śānti is not just a prayer for calm circumstances — it is a prayer for the <em>inner stillness</em> necessary for Upanishadic study. The Taittirīya will go on to teach about the five sheaths (pañca-kośa), the bliss of Brahman, and the nature of food as Brahman — all of which require a mind at peace to understand."
+        "a": "<strong>त्रिविध शान्ति</strong> — मन्त्र के अन्त में 'शान्तिः शान्तिः शान्तिः' का तीन बार उच्चारण आध्यात्मिक अध्ययन के तीन प्रकार के विघ्नों के निवारण हेतु किया जाता है। <strong>तीन ताप (त्रिविध बाधा):</strong> (१) <em>आधिदैविक</em> — दैवी/प्राकृतिक स्रोतों से उत्पन्न — तूफान, भूकम्प, ग्रहण, सूखा। ये मानव-नियन्त्रण से बाहर हैं — शिष्य प्रकृति-शक्तियों से रक्षा की प्रार्थना करता है। (२) <em>आधिभौतिक</em> — बाह्य प्राणियों से उत्पन्न — पशु, कीट, शत्रु, सामाजिक संघर्ष। ये बाह्य जगत् से आने वाली बाधाएँ हैं। (३) <em>आध्यात्मिक</em> — स्वयं के भीतर से उत्पन्न — रोग, मानसिक अशान्ति, भावनात्मक उथल-पुथल, आलस्य, सन्देह, विक्षेप। ये आन्तरिक बाधाएँ हैं। <strong>तीन बार क्यों?</strong> प्रत्येक 'शान्तिः' एक स्तर की बाधा को सम्बोधित करता है। परम्परागत पाठ-पद्धति में प्रथम 'शान्तिः' ऊँचे स्वर में (दैवी शक्तियों हेतु), द्वितीय मध्यम स्वर में (बाह्य प्राणियों हेतु), तृतीय मन्द स्वर में (आन्तरिक आत्मा हेतु) बोला जाता है। <strong>गहन अर्थ:</strong> त्रिविध शान्ति केवल शान्त परिस्थितियों की प्रार्थना नहीं — यह उपनिषद्-अध्ययन के लिए आवश्यक आन्तरिक स्थिरता की प्रार्थना है। तैत्तिरीय आगे पञ्चकोश (पाँच आवरण), ब्रह्मानन्द, और अन्न-ब्रह्म सिखाएगा — ये सब शान्त चित्त से ही ग्रहण किए जा सकते हैं।<br><br><em>Eng:</em> The triple 'śāntiḥ' removes three categories of obstacles: (1) ādhidaivika — from cosmic/natural sources (storms, earthquakes, eclipses); (2) ādhibhautika — from external beings (animals, hostile people, social conflicts); (3) ādhyātmika — from within oneself (disease, mental turmoil, laziness, doubt). Each repetition addresses one level. The traditional chanting practice reflects this: the first śāntiḥ is loud (cosmic forces), the second medium (external beings), the third soft (inner self). The triple śānti is ultimately a prayer for the inner stillness required for Upanishadic study."
       }
     ]
   },
@@ -78,42 +188,67 @@
     "en": "Om. We shall expound (vyākhyāsyāmaḥ) phonetics (śīkṣā). The letter (varṇa), the accent (svara), the quantity (mātrā), the effort (bala), the melody/balance (sāma), the conjunction (santāna) — thus is declared (uktaḥ) the chapter on phonetics (śikṣā-adhyāya).",
     "ws": [
       {
-        "s": "शीक्षा",
-        "h": "उच्चारण-विज्ञान / phonetics / the science of pronunciation",
-        "e": "phonetics"
+        "s": "ॐ",
+        "h": "प्रणव / परब्रह्म का वाचक",
+        "e": "the sacred syllable Om"
+      },
+      {
+        "s": "शीक्षाम्",
+        "h": "शिक्षा को / उच्चारण-विज्ञान को (द्वितीया एकवचन)",
+        "e": "phonetics (accusative — the object to be expounded)"
+      },
+      {
+        "s": "व्याख्यास्यामः",
+        "h": "हम व्याख्या करेंगे (वि + आ + ख्या, लृट् लकार, उत्तम पुरुष बहुवचन)",
+        "e": "we shall expound (1st pl. future of vi+ā+√khyā)"
       },
       {
         "s": "वर्णः",
-        "h": "अक्षर / letter / phoneme",
-        "e": "the letter / phoneme"
+        "h": "अक्षर / ध्वनि-इकाई / वर्ण",
+        "e": "the letter / phoneme / sound-unit"
       },
       {
         "s": "स्वरः",
-        "h": "स्वर / accent / pitch",
-        "e": "the accent / pitch"
+        "h": "स्वर / उच्चारण-तान (उदात्त, अनुदात्त, स्वरित)",
+        "e": "the accent / pitch (udātta, anudātta, svarita)"
       },
       {
         "s": "मात्रा",
-        "h": "मात्रा / quantity / duration",
-        "e": "the quantity / duration"
+        "h": "मात्रा / स्वर की अवधि (ह्रस्व, दीर्घ, प्लुत)",
+        "e": "the quantity / duration of a vowel"
       },
       {
         "s": "बलम्",
-        "h": "बल / प्रयत्न / effort / force",
-        "e": "the effort / force"
+        "h": "बल / उच्चारण-प्रयत्न / आभ्यन्तर प्रयत्न",
+        "e": "the effort / articulatory force"
       },
       {
         "s": "साम",
-        "h": "साम / समन्वय / melody / balance",
-        "e": "the melody / balance / evenness"
+        "h": "साम / समन्वय / उच्चारण का मधुर सन्तुलन",
+        "e": "the melody / evenness / balance in chanting"
       },
       {
         "s": "सन्तानः",
-        "h": "सन्धि / संयोजन / conjunction / continuous flow",
-        "e": "the conjunction / continuous flow"
+        "h": "संयोजन / सन्धि / ध्वनियों का निरन्तर प्रवाह",
+        "e": "the conjunction / continuous flow of sounds / sandhi"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार / यह (समाप्ति-सूचक अव्यय)",
+        "e": "thus / so (concluding particle)"
+      },
+      {
+        "s": "उक्तः",
+        "h": "कहा गया / घोषित किया गया (वच् धातु, कर्मणि भूतकृदन्त)",
+        "e": "is declared / has been stated (past passive participle of √vac)"
+      },
+      {
+        "s": "शिक्षाध्यायः",
+        "h": "शिक्षा का अध्याय (शिक्षा + अध्याय, तत्पुरुष समास)",
+        "e": "the chapter on phonetics (śikṣā + adhyāya, tatpuruṣa compound)"
       }
     ],
-    "gr": "<strong>The six elements of Vedic phonetics</strong>: this mantra introduces the <em>Śikṣāvallī</em> — the 'Section on Instruction' — by declaring its subject: śīkṣā (phonetics). The six elements form the foundation of correct Vedic chanting: (1) <em>Varṇa</em> (letter/phoneme): each sound must be correctly identified. (2) <em>Svara</em> (accent): the pitch must be correct — Vedic Sanskrit has three tonal accents (udātta, anudātta, svarita). (3) <em>Mātrā</em> (quantity): the duration of each vowel must be precise — short, long, or protracted. (4) <em>Bala</em> (effort): the articulatory effort must be appropriate — each sound produced at the correct point of articulation with the correct force. (5) <em>Sāma</em> (melody/balance): the overall melodic quality and evenness of chanting. (6) <em>Santāna</em> (conjunction): the sandhi rules that govern how sounds flow into each other. <strong>Why phonetics first?</strong> The Taittirīya begins with phonetics because correct pronunciation is the FOUNDATION of Vedic study. The mantras carry power (śakti) only when chanted correctly — mispronunciation can render them powerless or even harmful. Śīkṣā is one of the six Vedāṅgas (limbs of the Veda), alongside vyākaraṇa (grammar), chandas (metre), nirukta (etymology), jyotiṣa (astronomy), and kalpa (ritual procedure).",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र शिक्षावल्ली का विषय-प्रवेश है — शिक्षा (उच्चारण-विज्ञान) की छः इकाइयों की घोषणा। संरचना: कर्ता (अध्यापक-समूह 'वयम्' = हम) + कर्म ('शीक्षाम्') + क्रिया ('व्याख्यास्यामः') → \"हम शिक्षा की व्याख्या करेंगे।\" 'शीक्षाम्' = शिक्षा शब्द (स्त्रीलिंग) की द्वितीया एकवचन (कर्म-कारक)। 'व्याख्यास्यामः' = वि + आ + ख्या धातु, लृट् लकार (भविष्यत्), उत्तम पुरुष बहुवचन — गुरु बहुवचन ('हम') का प्रयोग गुरु-शिष्य परम्परा की सामूहिकता दर्शाता है। छः तत्त्व — वर्णः, स्वरः, मात्रा, बलम्, साम, सन्तानः — सभी प्रथमा विभक्ति (कर्ता/अभिधेय) में हैं। 'उक्तः' = वच् धातु का कर्मणि भूतकृदन्त (past passive participle), पुल्लिंग एकवचन ('कहा गया')। 'शिक्षाध्यायः' = शिक्षा + अध्याय → षष्ठी तत्पुरुष समास (शिक्षा का अध्याय)। 'इति' = समाप्ति-सूचक अव्यय। <br><em>Eng:</em> The verb 'vyākhyāsyāmaḥ' is future tense (lṛṭ) 1st person plural of vi+ā+√khyā. 'Śīkṣām' is accusative singular (the object). The six elements are listed in nominative case. 'Uktaḥ' is the past passive participle of √vac. 'Śikṣādhyāyaḥ' is a ṣaṣṭhī-tatpuruṣa compound (chapter OF phonetics).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -138,11 +273,11 @@
     "dp": [
       {
         "q": "🔍 The Vedāṅgas — the six limbs of the Veda",
-        "a": "Śīkṣā (phonetics) is one of the <strong>six Vedāṅgas</strong> (limbs of the Veda) — the auxiliary sciences that support the study and practice of the Vedic texts: <strong>(1) Śīkṣā (phonetics)</strong>: correct pronunciation — the science of varṇa, svara, mātrā. Ensures mantras are chanted with precision. THIS is the subject of the opening of the Taittirīya. <strong>(2) Vyākaraṇa (grammar)</strong>: the analysis of word-formation and sentence structure. Pāṇini's Aṣṭādhyāyī is the masterwork. <strong>(3) Chandas (metre)</strong>: the metrical patterns of Vedic hymns — gāyatrī (24 syllables), triṣṭubh (44), jagatī (48), anuṣṭubh (32), etc. <strong>(4) Nirukta (etymology)</strong>: the derivation and meaning of Vedic words. Yāska's Nirukta is the foundational text. <strong>(5) Jyotiṣa (astronomy/calendar)</strong>: the astronomical calculations needed to determine the correct times for Vedic rituals. <strong>(6) Kalpa (ritual procedure)</strong>: the detailed instructions for performing Vedic rites — Śrauta Sūtras (public rituals), Gṛhya Sūtras (domestic rituals), Dharma Sūtras (law). <strong>Why the Taittirīya begins with śīkṣā</strong>: the Taittirīya Upanishad belongs to the Taittirīya school of the Kṛṣṇa Yajurveda — a school particularly known for its careful preservation of Vedic accent and pronunciation. The Taittirīya Saṁhitā is one of the most accent-marked Vedic texts. Starting with śīkṣā reflects this school's identity and priorities."
+        "a": "<strong>वेदाङ्ग — वेद के छः अंग:</strong> शिक्षा (उच्चारण-विज्ञान) <strong>छः वेदाङ्गों</strong> में से एक है — वे सहायक विद्याएँ जो वैदिक ग्रन्थों के अध्ययन और अनुष्ठान में सहायक हैं: <strong>(१) शिक्षा (उच्चारण-विज्ञान):</strong> सही उच्चारण — वर्ण, स्वर, मात्रा का विज्ञान। मन्त्रों के यथार्थ पाठ को सुनिश्चित करता है। यही तैत्तिरीय का प्रारम्भिक विषय है। <strong>(२) व्याकरण:</strong> शब्द-रचना और वाक्य-संरचना का विश्लेषण। पाणिनि की अष्टाध्यायी इसका सर्वश्रेष्ठ ग्रन्थ है। <strong>(३) छन्दस् (छन्द-शास्त्र):</strong> वैदिक सूक्तों के छन्द — गायत्री (२४ अक्षर), त्रिष्टुभ् (४४), जगती (४८), अनुष्टुभ् (३२) आदि। <strong>(४) निरुक्त (व्युत्पत्ति):</strong> वैदिक शब्दों की व्युत्पत्ति और अर्थ। यास्क का निरुक्त मूल ग्रन्थ है। <strong>(५) ज्योतिष (खगोल-गणित):</strong> वैदिक कर्मकाण्ड के सही मुहूर्त निर्धारित करने हेतु खगोलीय गणना। <strong>(६) कल्प (कर्मकाण्ड-विधि):</strong> वैदिक अनुष्ठानों के विस्तृत निर्देश — श्रौतसूत्र (सार्वजनिक यज्ञ), गृह्यसूत्र (गार्हस्थ्य संस्कार), धर्मसूत्र (विधि-विधान)। <strong>तैत्तिरीय शिक्षा से क्यों आरम्भ होती है?</strong> तैत्तिरीय उपनिषद् कृष्ण यजुर्वेद की तैत्तिरीय शाखा से सम्बद्ध है — यह शाखा वैदिक स्वर और उच्चारण के संरक्षण के लिए विशेष प्रसिद्ध है। तैत्तिरीय संहिता सबसे अधिक स्वर-चिह्नित वैदिक ग्रन्थों में से है।<br><br><em>Eng:</em> Śīkṣā is one of the six Vedāṅgas (limbs of the Veda): (1) Śīkṣā (phonetics), (2) Vyākaraṇa (grammar — Pāṇini's Aṣṭādhyāyī), (3) Chandas (metre — gāyatrī, triṣṭubh, etc.), (4) Nirukta (etymology — Yāska), (5) Jyotiṣa (astronomy/calendar), (6) Kalpa (ritual procedure — Śrauta, Gṛhya, Dharma Sūtras). The Taittirīya begins with śīkṣā because the Taittirīya school of the Kṛṣṇa Yajurveda is especially known for its careful preservation of Vedic accent and pronunciation."
       },
       {
         "q": "🔍 Why correct pronunciation matters — the Tvaṣṭṛ story",
-        "a": "The importance of correct Vedic pronunciation is dramatically illustrated by the famous story of <strong>Tvaṣṭṛ's mispronunciation</strong>: <strong>The story</strong> (from the Śatapatha Brāhmaṇa 1.6.3.8): the divine craftsman Tvaṣṭṛ performed a sacrifice to create a being who would slay Indra. He chanted the compound 'indra-śatruḥ' — but with the wrong accent. With the correct accent (udātta on 'indra'), the compound means 'slayer of Indra' (indra-śatru — a tatpuruṣa compound where Indra is the object). But with the wrong accent (udātta on 'śatru'), it becomes a bahuvrīhi compound meaning 'one whose slayer is Indra' / 'having Indra as slayer.' <strong>The result</strong>: Tvaṣṭṛ's creation, Vṛtra, was slain BY Indra — the exact opposite of what he intended. One accent shift reversed the meaning entirely. <strong>The lesson</strong>: in Vedic chanting, pronunciation is not a matter of aesthetics — it is a matter of <em>meaning and power</em>. The svara (accent), the mātrā (duration), the bala (effort) — each affects the meaning and efficacy of the mantra. This is why the Taittirīya places śīkṣā first — before any philosophical teaching, before any meditation, the student must learn to pronounce correctly. <strong>The broader principle</strong>: the Vedic worldview treats sound (śabda) as a form of energy (śakti). Words are not arbitrary labels — they are vibrations that interact with reality. Correct sound = correct interaction = desired result. Wrong sound = wrong interaction = unintended consequences."
+        "a": "<strong>सही उच्चारण क्यों आवश्यक — त्वष्टा की कथा:</strong> वैदिक उच्चारण की महत्ता को <strong>त्वष्टा की स्वर-भूल</strong> की प्रसिद्ध कथा सबसे नाटकीय रूप से दर्शाती है। <strong>कथा (शतपथ ब्राह्मण १.६.३.८ से):</strong> दिव्य शिल्पी त्वष्टा ने इन्द्र का वध करने वाला प्राणी उत्पन्न करने हेतु यज्ञ किया। उन्होंने 'इन्द्रशत्रुः' समास का उच्चारण किया — किन्तु गलत स्वर के साथ। सही स्वर से (उदात्त 'इन्द्र' पर) यह समास तत्पुरुष होता — 'इन्द्र का शत्रु' (इन्द्र = कर्म)। परन्तु गलत स्वर से (उदात्त 'शत्रु' पर) यह बहुव्रीहि बन गया — 'जिसका शत्रु इन्द्र है'। <strong>परिणाम:</strong> त्वष्टा की सृष्टि वृत्र, इन्द्र द्वारा मारा गया — ठीक उलटा जो अभीष्ट था। एक स्वर-परिवर्तन ने अर्थ पूर्णतः पलट दिया। <strong>शिक्षा:</strong> वैदिक पाठ में उच्चारण सौन्दर्य का विषय नहीं — अर्थ और शक्ति का विषय है। स्वर (accent), मात्रा (duration), बल (effort) — प्रत्येक मन्त्र के अर्थ और प्रभाव को प्रभावित करता है। इसीलिए तैत्तिरीय शिक्षा को सर्वप्रथम रखती है। वैदिक दृष्टि में शब्द (śabda) ऊर्जा (śakti) का रूप है — सही ध्वनि = सही प्रतिक्रिया = अभीष्ट फल; गलत ध्वनि = अनभीष्ट परिणाम।<br><br><em>Eng:</em> The story of Tvaṣṭṛ (Śatapatha Brāhmaṇa 1.6.3.8) illustrates the stakes: Tvaṣṭṛ chanted 'indra-śatruḥ' with the wrong accent, turning a tatpuruṣa compound ('slayer of Indra') into a bahuvrīhi ('one whose slayer is Indra'). His creation Vṛtra was slain BY Indra — the exact opposite of his intent. One accent shift reversed the meaning entirely. In Vedic chanting, pronunciation is not aesthetics but meaning and power. Sound (śabda) is energy (śakti) — correct sound yields the desired result; wrong sound yields unintended consequences."
       }
     ]
   },
@@ -154,37 +289,147 @@
     "en": "May glory (yaśas) come to us both (saha nau) together. May the splendour of Brahman-knowledge (brahma-varcasa) come to us both. Now (atha), after this (ataḥ), we shall expound the esoteric meaning (upaniṣad) of conjunction (saṁhitā) — in five contexts (pañcasu adhikaraṇeṣu): relating to the world (adhi-loka), relating to luminaries (adhi-jyotiṣa), relating to knowledge (adhi-vidya), relating to progeny (adhi-praja), relating to the Self (adhy-ātma). These are called the 'great conjunctions' (mahā-saṁhitāḥ). Now, the cosmic context (adhi-loka): earth (pṛthivī) is the prior element (pūrva-rūpa); heaven (dyauḥ) is the latter element (uttara-rūpa); space (ākāśa) is the junction (sandhi); wind (vāyu) is the connector (sandhāna). Thus regarding the cosmic context.",
     "ws": [
       {
-        "s": "संहिता",
-        "h": "संयोजन / conjunction / joining",
-        "e": "conjunction / joining / continuous text"
+        "s": "सह",
+        "h": "साथ / एक साथ (अव्यय)",
+        "e": "together / along with (indeclinable)"
       },
       {
-        "s": "उपनिषद्",
-        "h": "रहस्य / secret meaning / esoteric teaching",
-        "e": "the secret/esoteric meaning"
+        "s": "नौ",
+        "h": "हम दोनों को (अस्मद् द्विवचन, चतुर्थी/षष्ठी)",
+        "e": "to/of us both (dual dative/genitive of asmad)"
+      },
+      {
+        "s": "यशः",
+        "h": "यश / कीर्ति / प्रतिष्ठा",
+        "e": "glory / fame / renown"
+      },
+      {
+        "s": "ब्रह्मवर्चसम्",
+        "h": "ब्रह्म-तेज / वेदाध्ययन से उत्पन्न दीप्ति (ब्रह्म + वर्चस्, तत्पुरुष)",
+        "e": "the splendour of Brahman-knowledge (brahma+varcas, tatpuruṣa)"
+      },
+      {
+        "s": "अथ",
+        "h": "अब / इसके पश्चात् (अधिकार-सूचक अव्यय)",
+        "e": "now / hereafter (introductory particle)"
+      },
+      {
+        "s": "अतः",
+        "h": "इसके बाद / इस कारण (अव्यय)",
+        "e": "after this / therefore (indeclinable)"
+      },
+      {
+        "s": "संहितायाः",
+        "h": "संहिता की (संहिता शब्द, षष्ठी एकवचन)",
+        "e": "of the saṁhitā / of conjunction (genitive singular)"
+      },
+      {
+        "s": "उपनिषदम्",
+        "h": "उपनिषद् / रहस्य / गूढ़ अर्थ (द्वितीया एकवचन)",
+        "e": "the esoteric meaning / the secret teaching (accusative)"
+      },
+      {
+        "s": "व्याख्यास्यामः",
+        "h": "हम व्याख्या करेंगे (लृट् लकार, उत्तम पुरुष बहुवचन)",
+        "e": "we shall expound (1st pl. future of vi+ā+√khyā)"
+      },
+      {
+        "s": "पञ्चसु",
+        "h": "पाँच में (पञ्चन्, सप्तमी बहुवचन)",
+        "e": "in five (locative plural of pañcan)"
+      },
+      {
+        "s": "अधिकरणेषु",
+        "h": "अधिकरणों/विषयों में (सप्तमी बहुवचन)",
+        "e": "in contexts / in topics (locative plural)"
+      },
+      {
+        "s": "अधिलोकम्",
+        "h": "लोक-विषयक / ब्रह्माण्ड-सम्बन्धी (अधि + लोक)",
+        "e": "relating to the world / the cosmic context"
+      },
+      {
+        "s": "अधिज्योतिषम्",
+        "h": "ज्योति-विषयक / प्रकाश-सम्बन्धी (अधि + ज्योतिष)",
+        "e": "relating to luminaries / the light context"
+      },
+      {
+        "s": "अधिविद्यम्",
+        "h": "विद्या-विषयक / ज्ञान-सम्बन्धी (अधि + विद्या)",
+        "e": "relating to knowledge / the knowledge context"
+      },
+      {
+        "s": "अधिप्रजम्",
+        "h": "प्रजा-विषयक / सन्तान-सम्बन्धी (अधि + प्रजा)",
+        "e": "relating to progeny / the offspring context"
+      },
+      {
+        "s": "अध्यात्मम्",
+        "h": "आत्म-विषयक / आत्मा-सम्बन्धी (अधि + आत्मन्)",
+        "e": "relating to the Self / the self-context"
+      },
+      {
+        "s": "ताः",
+        "h": "वे (तद् सर्वनाम, स्त्रीलिंग प्रथमा बहुवचन)",
+        "e": "those (feminine nominative plural of tad)"
       },
       {
         "s": "महासंहिताः",
-        "h": "महान् संयोजन / the great conjunctions",
-        "e": "the great conjunctions"
+        "h": "महान् संयोजन (महा + संहिता, कर्मधारय समास)",
+        "e": "the great conjunctions (mahā+saṁhitā, karmadhāraya)"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार (समाप्ति-सूचक अव्यय)",
+        "e": "thus (concluding particle)"
+      },
+      {
+        "s": "आचक्षते",
+        "h": "कहते हैं / नाम देते हैं (आ + चक्ष् धातु, लट् लकार, प्रथम पुरुष बहुवचन)",
+        "e": "they call / they name (3rd pl. present of ā+√cakṣ)"
+      },
+      {
+        "s": "पृथिवी",
+        "h": "पृथ्वी / भूमि",
+        "e": "earth / the ground"
       },
       {
         "s": "पूर्वरूपम्",
-        "h": "पहला तत्त्व / the prior element / the first form",
+        "h": "पहला तत्त्व / पूर्व रूप (पूर्व + रूप, तत्पुरुष)",
         "e": "the prior element / the first form"
       },
       {
+        "s": "द्यौः",
+        "h": "स्वर्ग / आकाश-लोक / ऊपरी लोक",
+        "e": "heaven / the sky / the upper world"
+      },
+      {
+        "s": "उत्तररूपम्",
+        "h": "बाद का तत्त्व / उत्तर रूप (उत्तर + रूप)",
+        "e": "the latter element / the second form"
+      },
+      {
+        "s": "आकाशः",
+        "h": "आकाश / अन्तरिक्ष / शून्य-स्थान",
+        "e": "space / ether / the void between"
+      },
+      {
         "s": "सन्धिः",
-        "h": "जोड़ / junction / the meeting point",
-        "e": "the junction / meeting point"
+        "h": "जोड़ / सन्धि-स्थल / मिलन-बिन्दु",
+        "e": "the junction / the meeting point"
+      },
+      {
+        "s": "वायुः",
+        "h": "वायु / पवन / प्राण-तत्त्व",
+        "e": "wind / air / the vital element"
       },
       {
         "s": "सन्धानम्",
-        "h": "जोड़ने वाला / the connector / the linking agent",
-        "e": "the connector / linking agent"
+        "h": "जोड़ने वाला / संयोजक तत्त्व",
+        "e": "the connector / the linking agent"
       }
     ],
-    "gr": "<strong>The five saṁhitā meditations — cosmic sandhi</strong>: this mantra introduces one of the Taittirīya's most original teachings — the <em>saṁhitā-upaniṣad</em> (the esoteric meaning of conjunction). The phonetic concept of <em>sandhi</em> (the joining of sounds at word boundaries) is elevated to a universal principle of cosmic connection. <strong>The framework</strong>: every pair of opposites has four elements: (1) <em>pūrva-rūpa</em> (the prior element), (2) <em>uttara-rūpa</em> (the latter element), (3) <em>sandhi</em> (the junction between them), (4) <em>sandhāna</em> (the active connector). <strong>The first meditation — adhi-loka (the cosmic context)</strong>: earth (pūrva-rūpa) + heaven (uttara-rūpa) + space as the junction (sandhi) + wind as the connector (sandhāna). This maps the structure of the universe onto the structure of language: earth and heaven are like two words; space is where they meet; wind is the sandhi rule that joins them. <strong>Why this matters</strong>: the Taittirīya is teaching that the same principle governs BOTH language and reality. The universe is structured like a text — with elements, junctions, and connectors. Understanding the grammar of the cosmos is understanding the cosmos itself. <strong>The five contexts</strong>: (1) adhi-loka (cosmic), (2) adhi-jyotiṣa (luminaries), (3) adhi-vidya (knowledge), (4) adhi-praja (progeny/procreation), (5) adhy-ātma (the Self). Each applies the same four-fold framework to a different domain.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र दो भागों में विभक्त है — (अ) गुरु-शिष्य की सामूहिक प्रार्थना एवं संहिता-उपनिषद् का परिचय, (ब) प्रथम ध्यान — अधिलोकम्। 'सह नौ' = सह (अव्यय, साथ) + नौ (अस्मद् सर्वनाम, द्विवचन, चतुर्थी — 'हम दोनों को')। 'यशः' = नपुंसकलिंग, प्रथमा एकवचन। 'ब्रह्मवर्चसम्' = ब्रह्म + वर्चस् → षष्ठी तत्पुरुष समास (ब्रह्म का तेज), नपुंसकलिंग, प्रथमा। 'संहितायाः' = संहिता शब्द (स्त्रीलिंग) की षष्ठी एकवचन (सम्बन्ध कारक)। 'उपनिषदम्' = द्वितीया एकवचन (कर्म-कारक)। 'पञ्चसु अधिकरणेषु' = सप्तमी बहुवचन (अधिकरण कारक — \"पाँच विषयों में\")। पाँच अधि-शब्द (अधिलोकम्, अधिज्योतिषम्, अधिविद्यम्, अधिप्रजम्, अध्यात्मम्) — सभी अव्ययीभाव समास (अधि + संज्ञा)। 'आचक्षते' = आ + चक्ष् धातु, लट् लकार, प्रथम पुरुष बहुवचन (आत्मनेपद)। अधिलोक ध्यान में: 'पृथिवी' = स्त्रीलिंग, प्रथमा; 'द्यौः' = स्त्रीलिंग, प्रथमा (विशेष रूप); 'आकाशः', 'वायुः' = पुल्लिंग, प्रथमा। 'पूर्वरूपम्', 'उत्तररूपम्' = तत्पुरुष समास, नपुंसकलिंग, प्रथमा। <br><em>Eng:</em> 'Saha nau' uses the dual dative of asmad (for us both). 'Vyākhyāsyāmaḥ' is future tense 1st person plural. 'Saṁhitāyāḥ' is genitive singular. The five adhi- terms are avyayībhāva compounds (adhi + noun). 'Ācakṣate' is ātmanepada present 3rd plural of ā+√cakṣ. The adhi-loka framework uses tatpuruṣa compounds for pūrva-rūpam and uttara-rūpam.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -209,11 +454,11 @@
     "dp": [
       {
         "q": "🔍 The saṁhitā-upaniṣad — from grammar to cosmology",
-        "a": "The <strong>saṁhitā-upaniṣad</strong> is one of the Taittirīya's most original contributions — it takes a <em>grammatical</em> concept (sandhi / phonetic conjunction) and elevates it to a <em>cosmological</em> principle: <strong>What is saṁhitā in grammar?</strong> In Vedic textual transmission, the 'saṁhitā-pāṭha' is the continuous text where words are joined by sandhi rules. For example, 'agnim' + 'īḷe' becomes 'agnim īḷe' (with the sounds flowing into each other). The 'pada-pāṭha' (word-by-word text) breaks them apart. The saṁhitā represents unity; the pada-pāṭha represents analysis. <strong>The cosmic extension</strong>: the Taittirīya says: just as sounds join together at word-boundaries through sandhi, so the elements of the cosmos join together through their own 'sandhi.' Earth and heaven are like two words in a cosmic sentence; space is the boundary where they meet; wind is the sandhi rule that joins them. <strong>The five applications</strong>: this one principle is applied across five domains: (1) <em>Adhi-loka</em> (cosmic): earth ↔ heaven, joined by space, connected by wind. (2) <em>Adhi-jyotiṣa</em> (luminaries): fire ↔ sun, joined by water, connected by lightning. (3) <em>Adhi-vidya</em> (knowledge): teacher ↔ student, joined by instruction, connected by study. (4) <em>Adhi-praja</em> (progeny): mother ↔ father, joined by offspring, connected by procreation. (5) <em>Adhy-ātma</em> (the Self): lower jaw ↔ upper jaw, joined by tongue, connected by speech. <strong>The teaching</strong>: reality is not a collection of isolated things but a fabric of <em>conjunctions</em>. Everything is connected — through junctions and connectors that are themselves real. Understanding these connections is understanding the cosmos."
+        "a": "<strong>संहिता-उपनिषद् — व्याकरण से ब्रह्माण्ड-विद्या तक:</strong> संहिता-उपनिषद् तैत्तिरीय का सबसे मौलिक योगदान है — यह एक <em>व्याकरणिक</em> अवधारणा (सन्धि / ध्वनि-संयोजन) को <em>ब्रह्माण्डीय</em> सिद्धान्त के रूप में प्रतिष्ठित करता है। <strong>व्याकरण में संहिता क्या है?</strong> वैदिक पाठ-संचरण में 'संहिता-पाठ' वह निरन्तर पाठ है जिसमें शब्द सन्धि-नियमों से जुड़े होते हैं — जैसे 'अग्निम्' + 'ईळे' = 'अग्निमीळे'। 'पद-पाठ' उन्हें तोड़कर अलग करता है। संहिता = एकता; पदपाठ = विश्लेषण। <strong>ब्रह्माण्डीय विस्तार:</strong> तैत्तिरीय कहती है — जैसे ध्वनियाँ शब्द-सीमा पर सन्धि से जुड़ती हैं, वैसे ही ब्रह्माण्ड के तत्त्व अपनी 'सन्धि' से जुड़ते हैं। पृथिवी और द्यौ दो शब्दों की भाँति हैं; आकाश वह सीमा है जहाँ वे मिलते हैं; वायु वह सन्धि-नियम है जो उन्हें जोड़ता है। <strong>पाँच अनुप्रयोग:</strong> (१) अधिलोक (ब्रह्माण्डीय): पृथिवी ↔ द्यौ, आकाश = सन्धि, वायु = सन्धान। (२) अधिज्योतिष (ज्योति): अग्नि ↔ सूर्य, जल = सन्धि, विद्युत् = सन्धान। (३) अधिविद्य (ज्ञान): गुरु ↔ शिष्य, विद्या = सन्धि, प्रवचन = सन्धान। (४) अधिप्रज (सन्तति): माता ↔ पिता, सन्तान = सन्धि, प्रजनन = सन्धान। (५) अध्यात्म (आत्मा): अधरा हनु ↔ उत्तरा हनु, वाक् = सन्धि, जिह्वा = सन्धान। <strong>शिक्षा:</strong> जगत् पृथक् वस्तुओं का संग्रह नहीं, बल्कि संयोजनों का जाल है — सन्धि और सन्धान दोनों स्वयं वास्तविक हैं। इन संयोजनों को समझना ही ब्रह्माण्ड को समझना है।<br><br><em>Eng:</em> The saṁhitā-upaniṣad takes the grammatical concept of sandhi (phonetic conjunction) and elevates it to a cosmological principle. In Vedic textual transmission, the saṁhitā-pāṭha joins words by sandhi rules; the pada-pāṭha separates them. The Taittirīya extends this: earth and heaven are like two words, space is their boundary, wind is the sandhi rule joining them. This one principle applies across five domains — cosmic, luminaries, knowledge, progeny, and the Self — teaching that reality is a fabric of conjunctions, not a collection of isolated things."
       },
       {
         "q": "🔍 The teacher-student prayer — 'saha nau yaśaḥ'",
-        "a": "The prayer <strong>'saha nau yaśaḥ, saha nau brahmavarcasam'</strong> (may glory and the splendour of Brahman-knowledge come to BOTH of us) reveals the <em>collaborative</em> nature of Vedic education: <strong>Not one-directional</strong>: the prayer says 'saha nau' — 'to both of us, together.' Not 'give ME knowledge' but 'may WE both gain.' The teacher learns alongside the student; the student's questions deepen the teacher's understanding. Education is mutual. <strong>'Yaśas' (glory)</strong>: the teacher and student pray for yaśas together — the fame and honour that come from genuine learning. This is not worldly ambition but the natural radiance of knowledge well-received and well-transmitted. <strong>'Brahmavarcas' (the splendour of Brahman-knowledge)</strong>: brahmavarcas = the spiritual lustre that comes from deep study and practice of the Vedas. It is a visible radiance — the traditions describe it as a glow or aura around one who has truly absorbed the sacred texts. Teacher and student BOTH seek this splendour — it is not the teacher's to give but something they both receive from the text itself. <strong>The Taittirīya's distinctive warmth</strong>: the Taittirīya is perhaps the warmest of the Upanishads in its treatment of the teacher-student relationship. The Śikṣāvallī's famous convocation address (1.11) — 'satyaṁ vada, dharmaṁ cara' (speak truth, practise dharma) — is a teacher's heartfelt farewell to a departing student. This opening prayer sets the tone: we are in this together."
+        "a": "<strong>गुरु-शिष्य प्रार्थना — 'सह नौ यशः':</strong> 'सह नौ यशः, सह नौ ब्रह्मवर्चसम्' (यश और ब्रह्म-तेज हम दोनों को प्राप्त हो) — यह प्रार्थना वैदिक शिक्षा की <em>सहभागी</em> प्रकृति उजागर करती है। <strong>एकतरफा नहीं:</strong> प्रार्थना कहती है 'सह नौ' — 'हम दोनों को, साथ-साथ।' यह 'मुझे ज्ञान दो' नहीं, बल्कि 'हम दोनों प्राप्त करें' है। गुरु शिष्य के साथ सीखता है; शिष्य के प्रश्न गुरु की समझ को गहरा करते हैं। शिक्षा = पारस्परिक प्रक्रिया। <strong>'यशस्' (कीर्ति):</strong> गुरु और शिष्य मिलकर यशस् की प्रार्थना करते हैं — सच्चे ज्ञान-संचरण से उत्पन्न स्वाभाविक दीप्ति। यह सांसारिक महत्त्वाकांक्षा नहीं, ज्ञान की स्वाभाविक कान्ति है। <strong>'ब्रह्मवर्चस्':</strong> ब्रह्मवर्चस् = वेदाध्ययन से उत्पन्न आध्यात्मिक तेज। परम्परा इसे एक दृश्य आभा बताती है — जो वैदिक ग्रन्थों को सचमुच आत्मसात् कर चुका हो उसके चारों ओर की कान्ति। गुरु और शिष्य दोनों इसे चाहते हैं — यह गुरु का देने योग्य नहीं, बल्कि ग्रन्थ से दोनों को प्राप्त होता है। <strong>तैत्तिरीय की विशिष्ट ऊष्मा:</strong> तैत्तिरीय उपनिषदों में सम्भवतः गुरु-शिष्य सम्बन्ध के प्रति सबसे सहृदय है। शिक्षावल्ली का प्रसिद्ध दीक्षान्त भाषण (१.११) — 'सत्यं वद, धर्मं चर' — गुरु की हार्दिक विदाई है। यह प्रारम्भिक प्रार्थना वही स्वर स्थापित करती है: हम इसमें साथ-साथ हैं।<br><br><em>Eng:</em> The prayer 'saha nau yaśaḥ, saha nau brahmavarcasam' reveals the collaborative nature of Vedic education. 'Saha nau' means 'to both of us, together' — education is mutual, not one-directional. 'Yaśas' is the natural radiance of genuine learning. 'Brahmavarcas' is the spiritual lustre from deep Vedic study — something both teacher and student receive from the text itself. The Taittirīya is perhaps the warmest Upanishad in its treatment of the teacher-student bond, culminating in the convocation address (1.11): 'satyaṁ vada, dharmaṁ cara.'"
       }
     ]
   },
@@ -225,32 +470,87 @@
     "en": "Now, the luminaries context (adhi-jyotiṣa): fire (agni) is the prior element; the sun (āditya) is the latter element; waters (āpaḥ) are the junction; lightning (vaidyuta) is the connector. Thus regarding luminaries. Now, the knowledge context (adhi-vidya): the teacher (ācārya) is the prior element; the resident student (antevāsī) is the latter element; knowledge (vidyā) is the junction; instruction (pravacana) is the connector. Thus regarding knowledge.",
     "ws": [
       {
+        "s": "अथ",
+        "h": "अब / इसके पश्चात् (अधिकार-सूचक अव्यय)",
+        "e": "now / hereafter (introductory particle)"
+      },
+      {
+        "s": "अधिज्योतिषम्",
+        "h": "ज्योति-विषयक / प्रकाश-सम्बन्धी (अव्ययीभाव समास)",
+        "e": "relating to luminaries (avyayībhāva compound)"
+      },
+      {
+        "s": "अग्निः",
+        "h": "अग्नि / पार्थिव अग्नि / हवन की आग",
+        "e": "fire / the terrestrial fire"
+      },
+      {
+        "s": "पूर्वरूपम्",
+        "h": "पहला तत्त्व / पूर्व रूप (तत्पुरुष समास)",
+        "e": "the prior element / the first form"
+      },
+      {
         "s": "आदित्यः",
-        "h": "सूर्य / the sun",
-        "e": "the sun"
+        "h": "सूर्य / आदित्य (दिव्य प्रकाश-स्रोत)",
+        "e": "the sun / Āditya (celestial light-source)"
+      },
+      {
+        "s": "उत्तररूपम्",
+        "h": "बाद का तत्त्व / उत्तर रूप (तत्पुरुष समास)",
+        "e": "the latter element / the second form"
+      },
+      {
+        "s": "आपः",
+        "h": "जल / उदक (स्त्रीलिंग बहुवचन)",
+        "e": "waters (feminine plural)"
+      },
+      {
+        "s": "सन्धिः",
+        "h": "जोड़ / मिलन-बिन्दु / सन्धि-स्थल",
+        "e": "the junction / the meeting point"
       },
       {
         "s": "वैद्युतः",
-        "h": "विद्युत् / बिजली / lightning",
-        "e": "lightning"
+        "h": "विद्युत् / बिजली (विद्युत् से तद्धित विशेषण)",
+        "e": "lightning / the electric (derived from vidyut)"
+      },
+      {
+        "s": "सन्धानम्",
+        "h": "जोड़ने वाला / संयोजक तत्त्व",
+        "e": "the connector / the linking agent"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार (समाप्ति-सूचक अव्यय)",
+        "e": "thus (concluding particle)"
+      },
+      {
+        "s": "अधिविद्यम्",
+        "h": "विद्या-विषयक / ज्ञान-सम्बन्धी (अव्ययीभाव समास)",
+        "e": "relating to knowledge (avyayībhāva compound)"
       },
       {
         "s": "आचार्यः",
-        "h": "आचार्य / गुरु / teacher",
-        "e": "the teacher"
+        "h": "आचार्य / गुरु / अध्यापक",
+        "e": "the teacher / the preceptor"
       },
       {
         "s": "अन्तेवासी",
-        "h": "शिष्य / resident student",
-        "e": "the resident student"
+        "h": "शिष्य / निवासी विद्यार्थी (गुरुकुल में रहने वाला)",
+        "e": "the resident student (one who dwells near the teacher)"
+      },
+      {
+        "s": "विद्या",
+        "h": "विद्या / ज्ञान / शिक्षा",
+        "e": "knowledge / learning / education"
       },
       {
         "s": "प्रवचनम्",
-        "h": "प्रवचन / उपदेश / instruction / discourse",
-        "e": "instruction / discourse / teaching"
+        "h": "प्रवचन / उपदेश / शास्त्र-व्याख्यान (प्र + वचन)",
+        "e": "instruction / discourse / teaching (pra+vacana)"
       }
     ],
-    "gr": "<strong>Luminaries and Knowledge — the second and third saṁhitā meditations</strong>: this mantra continues the five-fold saṁhitā meditation with two more contexts. <strong>Adhi-jyotiṣa (luminaries)</strong>: agni (fire) on earth + āditya (sun) in heaven. The junction (sandhi) is water (āpaḥ) — water connects fire and sun because (a) water rises as vapour from fire-heated earth, (b) water falls as rain from the sun-heated atmosphere. The connector (sandhāna) is lightning (vaidyuta) — the electric flash that dramatically links heaven and earth, fire and sun. <strong>Adhi-vidya (knowledge)</strong>: ācārya (teacher) + antevāsī (student). The junction is vidyā (knowledge itself) — knowledge is the 'space' between teacher and student where they meet. The connector is pravacana (instruction/discourse) — the dynamic act of teaching that transmits knowledge across the junction. <strong>The pattern</strong>: in each domain, the same four-fold structure appears: two elements, a junction where they meet, and a connector that actively links them. The Taittirīya is teaching the student to see CONNECTIONS everywhere — not isolated things but pairs joined by junctions and connectors. <strong>The adhi-vidya meditation is especially significant</strong>: it makes the teacher-student relationship itself a cosmic principle — teacher and student are joined by knowledge, connected by instruction, exactly as earth and heaven are joined by space and connected by wind.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र पंच-विध संहिता ध्यान के दूसरे (अधिज्योतिषम्) और तीसरे (अधिविद्यम्) अधिकरण प्रस्तुत करता है। दोनों खण्डों की संरचना समान है — 'अथ' (अधिकार-सूचक) से आरम्भ, चार तत्त्वों (पूर्वरूप, उत्तररूप, सन्धि, सन्धान) की गणना, 'इति' से समाप्ति। 'अधिज्योतिषम्' / 'अधिविद्यम्' = अव्ययीभाव समास (अधि + ज्योतिष / विद्या)। 'अग्निः' = पुल्लिंग, प्रथमा एकवचन (अग्नि शब्द, इकारान्त)। 'आदित्यः' = पुल्लिंग, प्रथमा एकवचन। 'आपः' = अप् शब्द, स्त्रीलिंग, प्रथमा बहुवचन (जल सदैव बहुवचन में प्रयुक्त)। 'वैद्युतः' = विद्युत् शब्द से अण् प्रत्यय → वैद्युत (तद्धित — \"विद्युत् से सम्बन्धित\")। 'आचार्यः' = आ + चर् धातु + ण्य → आचार्य (जो आचार सिखाए / जिसके पास जाकर पढ़ें)। 'अन्तेवासी' = अन्ते (पास) + वासी (रहने वाला) → अव्ययीभाव/तत्पुरुष (गुरु के समीप निवास करने वाला शिष्य)। 'प्रवचनम्' = प्र + वच् धातु + ल्युट् → प्रवचन (विस्तृत कथन / शास्त्र-व्याख्या), नपुंसकलिंग। <br><em>Eng:</em> Both sections follow the same four-fold framework — pūrva-rūpam, uttara-rūpam, sandhiḥ, sandhānam. 'Āpaḥ' is feminine nominative plural (water is always plural). 'Vaidyutaḥ' is a taddhita adjective from vidyut (aṆ suffix). 'Ācāryaḥ' derives from ā+√car+ṇya. 'Antevāsī' means 'one who dwells near (the teacher).' 'Pravacanaṁ' is a lyuṬ-derived neuter noun from pra+√vac.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -275,11 +575,11 @@
     "dp": [
       {
         "q": "🔍 The five saṁhitā meditations — complete mapping",
-        "a": "The five <strong>saṁhitā meditations</strong> apply the same four-fold structure across five domains of reality: <strong>(1) Adhi-loka (cosmic)</strong>: earth (pūrva) ↔ heaven (uttara); space = junction; wind = connector. <strong>(2) Adhi-jyotiṣa (luminaries)</strong>: fire (pūrva) ↔ sun (uttara); water = junction; lightning = connector. <strong>(3) Adhi-vidya (knowledge)</strong>: teacher (pūrva) ↔ student (uttara); knowledge = junction; instruction = connector. <strong>(4) Adhi-praja (progeny)</strong>: mother (pūrva) ↔ father (uttara); offspring = junction; procreation = connector. <strong>(5) Adhy-ātma (the Self)</strong>: lower jaw (pūrva) ↔ upper jaw (uttara); tongue = junction; speech = connector. <strong>The pattern in each</strong>: two complementary elements are joined by a junction-point (where they meet) and linked by an active connector (which bridges them dynamically). <strong>What the meditation teaches</strong>: (1) <em>Interconnection</em>: nothing exists in isolation — everything is joined to its complement. (2) <em>The power of the junction</em>: the 'sandhi' (junction) is where transformation happens — where earth meets heaven, where teacher meets student, where sound becomes speech. (3) <em>The connector as life-force</em>: in every domain, the 'sandhāna' (connector) is the dynamic, living force that makes the conjunction real — wind, lightning, instruction, procreation, speech. Without the connector, the two elements remain separate. (4) <em>Macro-micro correspondence</em>: the same structure appears at cosmic (earth-heaven), natural (fire-sun), social (teacher-student), biological (mother-father), and bodily (jaw-jaw) levels. Reality is self-similar across scales."
+        "a": "<strong>पाँच संहिता ध्यान — समग्र सारणी:</strong> पाँच <strong>संहिता ध्यान</strong> एक ही चतुष्पाद संरचना को यथार्थ के पाँच क्षेत्रों में लागू करते हैं: <strong>(१) अधिलोक (ब्रह्माण्डीय):</strong> पृथिवी (पूर्व) ↔ द्यौ (उत्तर); आकाश = सन्धि; वायु = सन्धान। <strong>(२) अधिज्योतिष (ज्योति):</strong> अग्नि (पूर्व) ↔ आदित्य (उत्तर); आपः = सन्धि; वैद्युत = सन्धान। <strong>(३) अधिविद्य (ज्ञान):</strong> आचार्य (पूर्व) ↔ अन्तेवासी (उत्तर); विद्या = सन्धि; प्रवचन = सन्धान। <strong>(४) अधिप्रज (सन्तति):</strong> माता (पूर्व) ↔ पिता (उत्तर); प्रजा = सन्धि; प्रजनन = सन्धान। <strong>(५) अध्यात्म (आत्मा):</strong> अधरा हनु (पूर्व) ↔ उत्तरा हनु (उत्तर); वाक् = सन्धि; जिह्वा = सन्धान। <strong>प्रत्येक में साझा प्रतिरूप:</strong> (१) <em>परस्पर-सम्बन्ध</em> — कुछ भी पृथक् नहीं, सब अपने पूरक से जुड़ा है। (२) <em>सन्धि की शक्ति</em> — 'सन्धि' (मिलन-बिन्दु) वह स्थान है जहाँ रूपान्तरण होता है — जहाँ पृथिवी द्यौ से मिलती है, जहाँ गुरु शिष्य से मिलता है, जहाँ ध्वनि वाक् बनती है। (३) <em>सन्धान = जीवन-शक्ति</em> — प्रत्येक क्षेत्र में 'सन्धान' गतिशील, सजीव बल है जो संयोजन को वास्तविक बनाता है — वायु, विद्युत्, प्रवचन, प्रजनन, जिह्वा। सन्धान के बिना दोनों तत्त्व पृथक् ही रहते। (४) <em>स्थूल-सूक्ष्म समानान्तर</em> — वही संरचना ब्रह्माण्डीय (पृथिवी-द्यौ), प्राकृतिक (अग्नि-सूर्य), सामाजिक (गुरु-शिष्य), जैविक (माता-पिता), और शारीरिक (हनु-हनु) स्तर पर दिखती है। यथार्थ प्रत्येक स्तर पर स्व-समरूप है।<br><br><em>Eng:</em> The five saṁhitā meditations apply the same four-fold structure (pūrva-rūpa, uttara-rūpa, sandhi, sandhāna) across cosmic, luminaries, knowledge, progeny, and Self domains. Each teaches interconnection — nothing exists in isolation. The sandhi (junction) is where transformation occurs, and the sandhāna (connector) is the dynamic life-force making the conjunction real. The same structure repeats at cosmic, natural, social, biological, and bodily scales — reality is self-similar across all levels."
       },
       {
         "q": "🔍 The adhi-vidya meditation — teacher and student as cosmic pair",
-        "a": "The <strong>adhi-vidya</strong> (knowledge-context) meditation elevates the teacher-student relationship to a <em>cosmic principle</em>: <strong>Teacher (ācārya) as pūrva-rūpa</strong>: the teacher is the 'prior element' — knowledge originates with the teacher (or more precisely, flows through the teacher from the tradition). The teacher is like earth — the ground from which learning grows. <strong>Student (antevāsī) as uttara-rūpa</strong>: the student is the 'latter element' — knowledge reaches its destination in the student's understanding. The student is like heaven — the aspiration toward which knowledge rises. <strong>Vidyā (knowledge) as sandhi</strong>: knowledge itself is the <em>junction</em> — the space where teacher and student meet. Without knowledge, teacher and student are just two people in a room. Knowledge is what creates the relationship. <strong>Pravacana (instruction) as sandhāna</strong>: instruction/discourse is the <em>connector</em> — the active force that transmits knowledge across the junction. Pravacana is like wind or lightning — it dynamically bridges the gap between the one who knows and the one who seeks to know. <strong>The implication</strong>: teaching is not merely a professional activity — it is a <em>cosmic function</em>. The teacher-student pair is as fundamental to the structure of reality as earth-heaven or fire-sun. The Taittirīya's entire first section (Śikṣāvallī) is built around this conviction — culminating in the famous convocation address (1.11) where the teacher sends the student into the world with the words: 'satyaṁ vada, dharmaṁ cara' (speak truth, practise dharma)."
+        "a": "<strong>अधिविद्या ध्यान — गुरु-शिष्य ब्रह्माण्डीय युगल के रूप में:</strong> <strong>अधिविद्या</strong> (ज्ञान-विषय) ध्यान गुरु-शिष्य सम्बन्ध को <em>ब्रह्माण्डीय सिद्धान्त</em> के स्तर तक उन्नत करता है: <strong>आचार्य (गुरु) = पूर्वरूप:</strong> गुरु 'पहला तत्त्व' है — ज्ञान गुरु से (या गुरु-परम्परा से) उद्भूत होता है। गुरु पृथिवी की भाँति है — वह भूमि जिससे ज्ञान अंकुरित होता है। <strong>अन्तेवासी (शिष्य) = उत्तररूप:</strong> शिष्य 'बाद का तत्त्व' है — ज्ञान शिष्य की बुद्धि में अपना गन्तव्य पाता है। शिष्य द्यौ (आकाश) की भाँति है — वह आकांक्षा जिसकी ओर ज्ञान ऊपर उठता है। <strong>विद्या = सन्धि:</strong> विद्या (ज्ञान) स्वयं 'सन्धि' है — वह क्षेत्र जहाँ गुरु और शिष्य मिलते हैं। विद्या के बिना गुरु और शिष्य केवल दो व्यक्ति हैं एक कक्ष में। विद्या ही वह सम्बन्ध रचती है। <strong>प्रवचन = सन्धान:</strong> प्रवचन (उपदेश/शास्त्र-व्याख्यान) 'सन्धान' है — वह गतिशील बल जो ज्ञान को सन्धि के आर-पार संचारित करता है। प्रवचन वायु या विद्युत् की भाँति है — ज्ञाता और जिज्ञासु के बीच गतिशील सेतु। <strong>निहितार्थ:</strong> शिक्षण केवल व्यावसायिक कर्म नहीं — एक <em>ब्रह्माण्डीय कार्य</em> है। गुरु-शिष्य युगल यथार्थ की संरचना के लिए उतना ही मूलभूत है जितना पृथिवी-द्यौ या अग्नि-सूर्य। तैत्तिरीय की सम्पूर्ण प्रथम वल्ली (शिक्षावल्ली) इसी विश्वास पर निर्मित है — जिसका चरमोत्कर्ष प्रसिद्ध दीक्षान्त भाषण (१.११) में होता है: 'सत्यं वद, धर्मं चर।'<br><br><em>Eng:</em> The adhi-vidya meditation elevates the teacher-student relationship to a cosmic principle. The teacher (ācārya) is the pūrva-rūpa — like earth, the ground from which learning grows. The student (antevāsī) is the uttara-rūpa — like heaven, the aspiration toward which knowledge rises. Vidyā (knowledge) is the sandhi where they meet; pravacana (instruction) is the sandhāna that actively bridges the gap. Teaching is a cosmic function — as fundamental as the earth-heaven pair. The Taittirīya's entire Śikṣāvallī is built around this conviction, culminating in the convocation address (1.11): 'satyaṁ vada, dharmaṁ cara.'"
       }
     ]
   },
@@ -291,32 +591,97 @@
     "en": "Now, the progeny context (adhi-praja): the mother (mātā) is the prior element; the father (pitā) is the latter element; offspring (prajā) is the junction; procreation (prajanana) is the connector. Thus regarding progeny. Now, the Self context (adhy-ātma): the lower jaw (adharā hanu) is the prior element; the upper jaw (uttarā hanu) is the latter element; speech (vāk) is the junction; the tongue (jihvā) is the connector. Thus regarding the Self. Thus the great conjunctions (mahā-saṁhitāḥ).",
     "ws": [
       {
+        "s": "अथ",
+        "h": "अब / इसके पश्चात् (अधिकार-सूचक अव्यय)",
+        "e": "now / hereafter (introductory particle)"
+      },
+      {
+        "s": "अधिप्रजम्",
+        "h": "प्रजा-विषयक / सन्तान-सम्बन्धी (अव्ययीभाव समास)",
+        "e": "relating to progeny (avyayībhāva compound)"
+      },
+      {
+        "s": "माता",
+        "h": "माता / जननी",
+        "e": "mother"
+      },
+      {
+        "s": "पूर्वरूपम्",
+        "h": "पहला तत्त्व / पूर्व रूप",
+        "e": "the prior element / the first form"
+      },
+      {
+        "s": "पिता",
+        "h": "पिता / जनक",
+        "e": "father"
+      },
+      {
+        "s": "उत्तररूपम्",
+        "h": "बाद का तत्त्व / उत्तर रूप",
+        "e": "the latter element / the second form"
+      },
+      {
         "s": "प्रजा",
-        "h": "सन्तान / offspring / progeny",
-        "e": "offspring / progeny"
+        "h": "सन्तान / सन्तति / वंशज",
+        "e": "offspring / progeny / descendants"
+      },
+      {
+        "s": "सन्धिः",
+        "h": "जोड़ / मिलन-बिन्दु",
+        "e": "the junction / meeting point"
       },
       {
         "s": "प्रजननम्",
-        "h": "सन्तानोत्पत्ति / procreation",
-        "e": "procreation / generation"
+        "h": "सन्तानोत्पत्ति / प्रजनन-क्रिया (प्र + जन् + ल्युट्)",
+        "e": "procreation / the act of generating (pra+√jan+lyuṬ)"
+      },
+      {
+        "s": "सन्धानम्",
+        "h": "जोड़ने वाला / संयोजक तत्त्व",
+        "e": "the connector / linking agent"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार (समाप्ति-सूचक अव्यय)",
+        "e": "thus (concluding particle)"
+      },
+      {
+        "s": "अध्यात्मम्",
+        "h": "आत्म-विषयक / शरीर एवं आत्मा सम्बन्धी (अधि + आत्मन्)",
+        "e": "relating to the Self / the self-context"
+      },
+      {
+        "s": "अधरा",
+        "h": "नीचे की / निम्न (विशेषण, स्त्रीलिंग)",
+        "e": "lower (adjective, feminine)"
       },
       {
         "s": "हनुः",
-        "h": "जबड़ा / jaw",
-        "e": "the jaw"
+        "h": "जबड़ा / हनु (स्त्रीलिंग)",
+        "e": "the jaw (feminine noun)"
+      },
+      {
+        "s": "उत्तरा",
+        "h": "ऊपर की / ऊर्ध्व (विशेषण, स्त्रीलिंग)",
+        "e": "upper (adjective, feminine)"
       },
       {
         "s": "वाक्",
-        "h": "वाणी / speech",
-        "e": "speech"
+        "h": "वाणी / वचन / अभिव्यक्त ध्वनि",
+        "e": "speech / articulate sound / voice"
       },
       {
         "s": "जिह्वा",
-        "h": "जीभ / tongue",
+        "h": "जीभ / रसना",
         "e": "the tongue"
+      },
+      {
+        "s": "महासंहिताः",
+        "h": "महान् संयोजन (महा + संहिता, कर्मधारय समास)",
+        "e": "the great conjunctions (karmadhāraya compound)"
       }
     ],
-    "gr": "<strong>Progeny and the Self — the final two saṁhitā meditations</strong>: this mantra completes the five-fold saṁhitā-upaniṣad with the most intimate and most embodied meditations. <strong>Adhi-praja (progeny)</strong>: mother (pūrva-rūpa) + father (uttara-rūpa). The junction (sandhi) is the offspring (prajā) — the child is where mother and father MEET, the living junction of two lineages, two beings, two lives. The connector (sandhāna) is procreation (prajanana) — the act that bridges the two and produces the junction. <strong>Adhy-ātma (the Self)</strong>: lower jaw (pūrva-rūpa) + upper jaw (uttara-rūpa). The junction is speech (vāk) — the meaningful sound produced between the jaws. The connector is the tongue (jihvā) — the active agent that shapes air into articulate speech. <strong>Why this order?</strong> The five meditations move from the MOST COSMIC to the MOST INTIMATE: (1) cosmic (earth-heaven), (2) celestial (fire-sun), (3) social (teacher-student), (4) biological (mother-father), (5) bodily (lower jaw-upper jaw). The progression teaches: the same principle of conjunction that structures the cosmos also structures your own body. The universe's grammar is your body's grammar. <strong>The adhy-ātma meditation and speech</strong>: the final meditation centres on SPEECH — the very activity of Vedic study. The student learning the saṁhitā-pāṭha (continuous Vedic text) is performing sandhi with their own tongue — the junction of the jaws produces speech, and the tongue connects them. The circle closes: phonetics (śīkṣā) → cosmic sandhi → the tongue in the student's own mouth.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र पंच-विध संहिता ध्यान के अन्तिम दो अधिकरण — अधिप्रजम् (सन्तान-विषय) और अध्यात्मम् (आत्म-विषय) — प्रस्तुत करता है तथा 'इति महासंहिताः' से सम्पूर्ण ध्यान-श्रृंखला का उपसंहार करता है। 'अधिप्रजम्' / 'अध्यात्मम्' = अव्ययीभाव समास (अधि + प्रजा / आत्मन्)। 'माता' = मातृ शब्द, प्रथमा एकवचन (ऋकारान्त स्त्रीलिंग)। 'पिता' = पितृ शब्द, प्रथमा एकवचन (ऋकारान्त पुल्लिंग)। 'प्रजा' = प्र + जन् → प्रजा (सन्तान), स्त्रीलिंग, प्रथमा। 'प्रजननम्' = प्र + जन् + ल्युट् प्रत्यय → प्रजनन (सन्तानोत्पत्ति की क्रिया), नपुंसकलिंग। 'अधरा' / 'उत्तरा' = विशेषण, स्त्रीलिंग (हनुः को विशेषित करते हैं)। 'हनुः' = स्त्रीलिंग उकारान्त शब्द, प्रथमा एकवचन (जबड़ा)। 'वाक्' = वच् शब्द का प्रथमा रूप (ककारान्त स्त्रीलिंग — \"वाणी\")। 'जिह्वा' = स्त्रीलिंग, प्रथमा एकवचन। 'महासंहिताः' = महत् + संहिता → कर्मधारय समास (महान् संहिताएँ), स्त्रीलिंग, प्रथमा बहुवचन। ध्यान-क्रम ब्रह्माण्ड से शरीर तक सूक्ष्मतर होता जाता है — यह बन्धु (cosmic correspondence) सिद्धान्त का व्यावहारिक प्रदर्शन है। <br><em>Eng:</em> 'Mātā' and 'pitā' are nominative singulars of ṛ-stem nouns (mātṛ, pitṛ). 'Prajananaṁ' is a lyuṬ-derived neuter noun from pra+√jan. 'Hanuḥ' is a feminine u-stem. 'Vāk' is the nominative of the consonant-stem vāc (speech). 'Mahā-saṁhitāḥ' is a karmadhāraya compound (great conjunctions), feminine nominative plural. The meditations descend from cosmic to bodily — demonstrating the bandhu (correspondence) principle.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -341,11 +706,11 @@
     "dp": [
       {
         "q": "🔍 The adhy-ātma meditation — speech as the body's saṁhitā",
-        "a": "The <strong>adhy-ātma</strong> (Self-context) meditation is the most intimate and most self-referential of the five: <strong>The mapping</strong>: lower jaw (pūrva-rūpa) + upper jaw (uttara-rūpa) + speech (sandhi) + tongue (sandhāna). <strong>Why speech?</strong> The adhy-ātma meditation could have chosen any bodily pair — hands, feet, eyes. But it chooses the JAWS — the organ of speech. This is deliberate: (1) <em>Self-reference</em>: the student is learning about saṁhitā (phonetic conjunction) — and the final meditation maps saṁhitā onto the very organ that performs saṁhitā. The student's own tongue, moving between upper and lower jaw, IS the sandhāna (connector) that produces speech. When the student chants the Veda, they are literally performing the cosmic saṁhitā with their own body. (2) <em>Speech as sacred</em>: in the Vedic worldview, speech (vāk) is not merely communication — it is a sacred power. The Ṛg Veda personifies Vāk as a goddess (10.125). The Bṛhadāraṇyaka (1.3.2) lists speech among the cosmic functions. By making speech the 'sandhi' of the body, the Taittirīya says: your body's most sacred junction is where meaning is produced — where air becomes word, where thought becomes expression. (3) <em>The circle closes</em>: the Śikṣāvallī began with phonetics (1.2) — varṇa, svara, mātrā, bala, sāma, santāna. Now it arrives at the physical organ that produces these: the tongue between the jaws. The subject (phonetics) and the instrument (tongue) meet in the body. Theory and practice are one."
+        "a": "<strong>अध्यात्म ध्यान — वाक् शरीर की संहिता:</strong> <strong>अध्यात्म</strong> (आत्म-विषय) ध्यान पाँचों में सबसे अन्तरंग और सबसे आत्म-सन्दर्भित है: <strong>सादृश्य:</strong> अधरा हनु (पूर्वरूप) + उत्तरा हनु (उत्तररूप) + वाक् (सन्धि) + जिह्वा (सन्धान)। <strong>वाक् ही क्यों?</strong> अध्यात्म ध्यान कोई भी शारीरिक युगल चुन सकता था — हाथ, पैर, नेत्र। किन्तु हनु (जबड़ा) — वाक्-अंग — चुना गया। यह सोद्देश्य है: (१) <em>आत्म-सन्दर्भ</em> — शिष्य संहिता (ध्वनि-संयोजन) के विषय में सीख रहा है — और अन्तिम ध्यान संहिता को उसी अंग पर प्रक्षेपित करता है जो संहिता सम्पन्न करता है। शिष्य की जिह्वा, दो हनुओं के मध्य गतिशील, स्वयं वह 'सन्धान' है जो वाक् उत्पन्न करता है। जब शिष्य वेद का पाठ करता है, तो वह सचमुच अपने शरीर से ब्रह्माण्डीय संहिता सम्पन्न कर रहा है। (२) <em>वाक् की पवित्रता</em> — वैदिक दृष्टि में वाक् केवल सम्प्रेषण नहीं, पवित्र शक्ति है। ऋग्वेद वाक् को देवी मानता है (१०.१२५)। बृहदारण्यक (१.३.२) वाक् को ब्रह्माण्डीय कार्यों में गिनता है। वाक् को शरीर का 'सन्धि' बनाकर तैत्तिरीय कहती है — शरीर का सबसे पवित्र मिलन-बिन्दु वह है जहाँ अर्थ उत्पन्न होता है — जहाँ वायु शब्द बनती है, जहाँ विचार अभिव्यक्ति बनता है। (३) <em>वृत्त पूर्ण</em> — शिक्षावल्ली शिक्षा (उच्चारण-विज्ञान, मन्त्र २) से आरम्भ हुई — वर्ण, स्वर, मात्रा, बल, साम, सन्तान। अब वह उस भौतिक अंग पर पहुँचती है जो इन्हें उत्पन्न करता है — दो हनुओं के मध्य जिह्वा। विषय (शिक्षा) और उपकरण (जिह्वा) शरीर में एक हो जाते हैं। सिद्धान्त और अनुभव अभिन्न हैं।<br><br><em>Eng:</em> The adhy-ātma meditation maps saṁhitā onto the very organ that performs it. The student's tongue, moving between upper and lower jaw, IS the sandhāna producing speech. When chanting the Veda, the student literally performs cosmic saṁhitā with their body. Speech (vāk) is not mere communication but a sacred power — the Ṛg Veda personifies Vāk as a goddess (10.125). The circle closes: the Śikṣāvallī began with phonetics (varṇa, svara, mātrā) and now arrives at the physical organ that produces them — the tongue between the jaws. Subject and instrument meet in the body."
       },
       {
         "q": "🔍 The five-fold structure — from cosmos to body",
-        "a": "The five saṁhitā meditations trace a journey from the <strong>most cosmic to the most embodied</strong>: <strong>The descent</strong>: (1) <em>Adhi-loka</em> (cosmic): earth–heaven–space–wind. The largest scale — the structure of the entire universe. (2) <em>Adhi-jyotiṣa</em> (luminaries): fire–sun–water–lightning. Still cosmic but more specific — the structure of light and energy. (3) <em>Adhi-vidya</em> (knowledge): teacher–student–knowledge–instruction. The social/intellectual scale — the structure of learning. (4) <em>Adhi-praja</em> (progeny): mother–father–child–procreation. The biological scale — the structure of life's continuity. (5) <em>Adhy-ātma</em> (the Self): lower jaw–upper jaw–speech–tongue. The bodily scale — the structure of your own mouth. <strong>The teaching method</strong>: by tracing the same four-fold pattern from universe to body, the Taittirīya demonstrates that <em>the cosmos and the body share the same architecture</em>. This is the Vedic concept of <strong>bandhu</strong> (cosmic correspondence) — the conviction that patterns found at one level of reality repeat at every other level. Earth corresponds to the lower jaw; heaven to the upper jaw; space to speech; wind to the tongue. <strong>The implication for meditation</strong>: when you understand the five saṁhitās, every experience becomes a meditation. You breathe (wind/vāyu) and recognise the cosmic connector. You speak (vāk) and recognise the body's junction. You teach or learn and recognise the knowledge-saṁhitā. The world becomes transparent — at every scale, the same structure of conjunction, junction, and connection."
+        "a": "<strong>पंच-विध संरचना — ब्रह्माण्ड से शरीर तक:</strong> पाँच संहिता ध्यान <strong>सबसे विराट् से सबसे अन्तरंग</strong> तक की यात्रा हैं: <strong>अवरोहण-क्रम:</strong> (१) <em>अधिलोक</em> (ब्रह्माण्डीय): पृथिवी–द्यौ–आकाश–वायु। सबसे बड़ा स्तर — सम्पूर्ण विश्व की संरचना। (२) <em>अधिज्योतिष</em> (ज्योति): अग्नि–सूर्य–जल–विद्युत्। अब भी ब्रह्माण्डीय किन्तु अधिक विशिष्ट — प्रकाश और ऊर्जा की संरचना। (३) <em>अधिविद्य</em> (ज्ञान): गुरु–शिष्य–विद्या–प्रवचन। सामाजिक/बौद्धिक स्तर — शिक्षण की संरचना। (४) <em>अधिप्रज</em> (सन्तति): माता–पिता–सन्तान–प्रजनन। जैविक स्तर — जीवन-निरन्तरता की संरचना। (५) <em>अध्यात्म</em> (आत्मा): अधरा हनु–उत्तरा हनु–वाक्–जिह्वा। शारीरिक स्तर — स्वयं के मुख की संरचना। <strong>शिक्षण-विधि:</strong> ब्रह्माण्ड से शरीर तक वही चतुष्पाद प्रतिरूप खोजकर तैत्तिरीय प्रदर्शित करती है कि <em>ब्रह्माण्ड और शरीर एक ही वास्तु-शिल्प साझा करते हैं</em>। यही वैदिक <strong>बन्धु</strong> (ब्रह्माण्डीय समानान्तर) की अवधारणा है — यह विश्वास कि एक स्तर पर पाया गया प्रतिरूप प्रत्येक अन्य स्तर पर दोहराया जाता है। पृथिवी = अधरा हनु; द्यौ = उत्तरा हनु; आकाश = वाक्; वायु = जिह्वा। <strong>ध्यान हेतु निहितार्थ:</strong> पाँचों संहिताएँ जान लेने पर प्रत्येक अनुभव ध्यान बन जाता है — श्वास लो (वायु/सन्धान) और ब्रह्माण्डीय संयोजक पहचानो; बोलो (वाक्/सन्धि) और शरीर का मिलन-बिन्दु पहचानो; पढ़ाओ या पढ़ो और ज्ञान-संहिता पहचानो। संसार पारदर्शी हो जाता है — प्रत्येक स्तर पर वही संयोजन, सन्धि, सम्बन्ध की संरचना।<br><br><em>Eng:</em> The five meditations descend from most cosmic to most embodied: (1) adhi-loka (earth–heaven), (2) adhi-jyotiṣa (fire–sun), (3) adhi-vidya (teacher–student), (4) adhi-praja (mother–father), (5) adhy-ātma (lower jaw–upper jaw). By tracing the same four-fold pattern from universe to body, the Taittirīya demonstrates the Vedic concept of bandhu (cosmic correspondence) — patterns at one level repeat at every other level. When you understand the five saṁhitās, every experience becomes a meditation: breathing, speaking, teaching, learning — at every scale, the same structure of conjunction, junction, and connection."
       }
     ]
   },
@@ -357,27 +722,72 @@
     "en": "He who knows (veda) these great conjunctions (mahā-saṁhitāḥ), thus expounded (vyākhyātāḥ), is joined (sandhīyate) with progeny (prajā), with cattle (paśu), with the splendour of Brahman-knowledge (brahma-varcasa), with food (annādya), and with the heavenly world (suvargyeṇa lokena).",
     "ws": [
       {
+        "s": "यः",
+        "h": "जो (यद् सर्वनाम, पुल्लिंग प्रथमा एकवचन)",
+        "e": "he who / whoever (relative pronoun, masculine nom. sg.)"
+      },
+      {
+        "s": "एवम्",
+        "h": "इस प्रकार / ऐसे (रीतिवाचक अव्यय)",
+        "e": "thus / in this manner (adverb)"
+      },
+      {
+        "s": "एताः",
+        "h": "इन / ये (एतद् सर्वनाम, स्त्रीलिंग प्रथमा बहुवचन)",
+        "e": "these (feminine nominative plural of etad)"
+      },
+      {
+        "s": "महासंहिताः",
+        "h": "महान् संयोजन (कर्मधारय समास)",
+        "e": "the great conjunctions (karmadhāraya compound)"
+      },
+      {
+        "s": "व्याख्याताः",
+        "h": "व्याख्या की गई (वि + आ + ख्या, कर्मणि भूतकृदन्त, स्त्रीलिंग बहुवचन)",
+        "e": "expounded / explained (past passive participle, fem. pl.)"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है (विद् धातु, लट् लकार, प्रथम पुरुष एकवचन — विशिष्ट रूप)",
+        "e": "knows (present 3rd sg. of √vid — special perfect-present form)"
+      },
+      {
         "s": "सन्धीयते",
-        "h": "संयुक्त होता है / is joined / is connected",
-        "e": "is joined / is conjoined"
+        "h": "संयुक्त होता है / जुड़ जाता है (सम् + धा, कर्मणि/भाववाचक)",
+        "e": "is conjoined / becomes connected (passive of sam+√dhā)"
+      },
+      {
+        "s": "प्रजया",
+        "h": "सन्तान से / प्रजा के द्वारा (तृतीया एकवचन)",
+        "e": "with progeny (instrumental singular)"
+      },
+      {
+        "s": "पशुभिः",
+        "h": "पशुओं से / धन-सम्पत्ति से (तृतीया बहुवचन)",
+        "e": "with cattle / with livestock (instrumental plural)"
       },
       {
         "s": "ब्रह्मवर्चसेन",
-        "h": "ब्रह्म-तेज से / with the splendour of Brahman-knowledge",
-        "e": "with the splendour of Brahman-knowledge"
+        "h": "ब्रह्म-तेज से (तृतीया एकवचन, तत्पुरुष समास)",
+        "e": "with the splendour of Brahman-knowledge (instrumental)"
       },
       {
         "s": "अन्नाद्येन",
-        "h": "अन्न-भक्षण से / with food to eat",
-        "e": "with food/nourishment"
+        "h": "अन्न-भक्षण से / भोजन से (अन्न + आद्य, तृतीया एकवचन)",
+        "e": "with food / with nourishment (instrumental)"
       },
       {
-        "s": "सुवर्ग्येण लोकेन",
-        "h": "स्वर्गलोक से / with the heavenly world",
-        "e": "with the heavenly world"
+        "s": "सुवर्ग्येण",
+        "h": "स्वर्गीय / स्वर्ग-सम्बन्धी (सुवर्ग शब्द से तद्धित)",
+        "e": "heavenly / relating to svarga (taddhita from svarga)"
+      },
+      {
+        "s": "लोकेन",
+        "h": "लोक से / संसार से (तृतीया एकवचन)",
+        "e": "with the world (instrumental singular)"
       }
     ],
-    "gr": "<strong>The phala-śruti — the fruit of knowing the five saṁhitās</strong>: this mantra is the <em>phala-śruti</em> (statement of results) for the saṁhitā-upaniṣad meditation. <strong>The beautiful wordplay</strong>: the one who knows the saṁhitāḥ (conjunctions) is themselves 'sandhīyate' (conjoined). The very principle they understand operates on THEM — understanding conjunction makes you conjoined. This is typical Upanishadic logic: knowing a cosmic principle causes that principle to work in your favour. <strong>The five rewards</strong>: (1) <em>prajā</em> (progeny) — echoing the adhi-praja meditation. (2) <em>paśu</em> (cattle/wealth) — material prosperity. (3) <em>brahmavarcas</em> (spiritual lustre) — the radiance of sacred knowledge. (4) <em>annādya</em> (food/nourishment) — physical sustenance. (5) <em>suvarga</em> (heavenly world) — post-mortem reward. <strong>Why both spiritual and material rewards?</strong> The Taittirīya doesn't separate the sacred and the worldly. Brahma-varcas (spiritual lustre) sits alongside paśu (cattle) and anna (food). This reflects the Vedic worldview where spiritual knowledge enriches ALL dimensions of life — not just the afterlife but progeny, prosperity, nourishment, and knowledge. <strong>The transition</strong>: with this phala-śruti, the saṁhitā-upaniṣad section (mantras 3-6) closes. The Śikṣāvallī will continue with meditations on OM, the vyāhṛtis, and the famous convocation address.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र संहिता-उपनिषद् ध्यान की फलश्रुति (fruit-declaration) है। संरचना: 'यः एवम् ... वेद' (सापेक्ष उपवाक्य — \"जो इस प्रकार जानता है\") + 'सन्धीयते ...' (मुख्य वाक्य — \"वह संयुक्त होता है\")। 'यः' = यद् सर्वनाम, पुल्लिंग, प्रथमा एकवचन। 'एताः' = एतद् सर्वनाम, स्त्रीलिंग, प्रथमा बहुवचन (संहिताओं को निर्दिष्ट करता है)। 'व्याख्याताः' = वि + आ + ख्या + क्त → कर्मणि भूतकृदन्त, स्त्रीलिंग बहुवचन। 'वेद' = विद् धातु का विशिष्ट रूप — लिट् लकार (perfect) जो वर्तमान अर्थ में प्रयुक्त (\"जानता है\")। 'सन्धीयते' = सम् + धा + यक् (कर्मणि) + ते → \"संयुक्त किया जाता है / जुड़ जाता है\" — यही मन्त्र का सुन्दर शब्द-खेल है: जो 'संहिता' (संयोजन) जानता है, वह स्वयं 'सन्धीयते' (संयुक्त) हो जाता है। पाँच फल — प्रजया, पशुभिः, ब्रह्मवर्चसेन, अन्नाद्येन, सुवर्ग्येण लोकेन — सभी तृतीया विभक्ति (करण/साधन कारक) में हैं, 'सन्धीयते' क्रिया के साथ प्रयुक्त (\"... से संयुक्त होता है\")। 'अन्नाद्येन' = अन्न + आद्य (खाने योग्य) → तत्पुरुष समास, तृतीया एकवचन। 'सुवर्ग्येण लोकेन' = सुवर्ग शब्द से ण्य प्रत्यय → सुवर्ग्य (स्वर्ग-सम्बन्धी), विशेषण + लोकेन (तृतीया) → \"स्वर्गीय लोक से।\" <br><em>Eng:</em> 'Veda' is the special perfect-present form of √vid ('knows'). 'Sandhīyate' is passive of sam+√dhā — the elegant wordplay: the knower of saṁhitā (conjunction) becomes sandhīyate (conjoined). The five fruits are in instrumental case (tṛtīyā) with sandhīyate. 'Annādyena' is a tatpuruṣa (anna+ādya). 'Suvargyeṇa lokena' uses a ṇya-taddhita adjective from svarga.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -402,11 +812,11 @@
     "dp": [
       {
         "q": "🔍 The phala-śruti — why Upanishads promise results",
-        "a": "The <strong>phala-śruti</strong> (fruit-declaration) is a standard feature of Upanishadic teachings — after describing a meditation, the text declares what benefits accrue to the practitioner: <strong>Why promise results?</strong> (1) <em>Motivation</em>: the promise of concrete rewards (progeny, wealth, spiritual lustre, food, heaven) motivates the student to practise the meditation diligently. The Upanishads are pragmatic — they know that not every student is motivated by pure truth-seeking; some need tangible incentives. (2) <em>Activation</em>: in the Vedic worldview, a phala-śruti is not merely a promise — it is a <em>declaration of power</em>. By stating that the meditation yields these fruits, the text activates the connection between the meditation and its results. The phala-śruti is itself part of the ritual. (3) <em>Cosmological logic</em>: the specific rewards reflect the meditation's content. The saṁhitā meditation is about CONJUNCTION — so its fruit is being CONJOINED (sandhīyate) with good things. The meditation on progeny (adhi-praja) yields progeny. The meditation on knowledge (adhi-vidya) yields brahmavarcas. The form mirrors the content. <strong>The material AND spiritual</strong>: the Taittirīya's phala-śruti includes both material (paśu, anna) and spiritual (brahmavarcas, svarga) rewards. This reflects the Vedic worldview's refusal to separate sacred and secular — genuine knowledge enriches ALL dimensions of life."
+        "a": "<strong>फलश्रुति — उपनिषद् फल क्यों वचन देते हैं:</strong> <strong>फलश्रुति</strong> (फल-घोषणा) उपनिषद् शिक्षाओं का मानक अंग है — ध्यान का वर्णन करने के बाद ग्रन्थ घोषित करता है कि साधक को कौन-से लाभ प्राप्त होंगे: <strong>फल का वचन क्यों?</strong> (१) <em>प्रेरणा</em> — ठोस पुरस्कारों (सन्तान, सम्पत्ति, ब्रह्म-तेज, अन्न, स्वर्ग) का वचन शिष्य को ध्यान में तत्पर बनाता है। उपनिषद् व्यावहारिक हैं — वे जानते हैं कि प्रत्येक शिष्य केवल सत्य-जिज्ञासा से प्रेरित नहीं; कुछ को मूर्त प्रोत्साहन चाहिए। (२) <em>सक्रियकरण</em> — वैदिक दृष्टि में फलश्रुति केवल वचन नहीं, <em>शक्ति-घोषणा</em> है। यह कहकर कि ध्यान से ये फल मिलते हैं, ग्रन्थ ध्यान और उसके फल के बीच सम्बन्ध सक्रिय करता है। फलश्रुति स्वयं अनुष्ठान का अंग है। (३) <em>ब्रह्माण्डीय तर्क</em> — विशिष्ट पुरस्कार ध्यान की विषय-वस्तु प्रतिबिम्बित करते हैं। संहिता ध्यान 'संयोजन' के विषय में है — अतः उसका फल 'सन्धीयते' (संयुक्त होना) है। अधिप्रज ध्यान प्रजा देता है; अधिविद्य ध्यान ब्रह्मवर्चस् देता है। रूप विषय-वस्तु का दर्पण है। <strong>भौतिक और आध्यात्मिक दोनों:</strong> तैत्तिरीय की फलश्रुति में भौतिक (पशु, अन्न) और आध्यात्मिक (ब्रह्मवर्चस्, स्वर्ग) दोनों फल हैं। यह वैदिक दृष्टिकोण का प्रतिबिम्ब है जो पवित्र और लौकिक को पृथक् नहीं करता — सच्चा ज्ञान जीवन के सभी आयामों को समृद्ध करता है।<br><br><em>Eng:</em> The phala-śruti is standard in Upanishadic teachings. It serves three functions: (1) motivation — concrete rewards encourage diligent practice; (2) activation — in the Vedic worldview, declaring results activates the connection between meditation and its fruits; (3) cosmological logic — rewards mirror the meditation's content: the saṁhitā meditation about conjunction yields being conjoined (sandhīyate). The Taittirīya includes both material (paśu, anna) and spiritual (brahmavarcas, svarga) rewards, reflecting the Vedic refusal to separate sacred and secular."
       },
       {
         "q": "🔍 'Sandhīyate' — the knower becomes the conjunction",
-        "a": "The word <strong>'sandhīyate'</strong> (is conjoined) creates one of the Upanishads' most elegant self-referential structures: <strong>The reflexive loop</strong>: the student learns about saṁhitā (conjunction). The five meditations teach them to see conjunction at every level of reality — cosmic, celestial, social, biological, bodily. Then the phala-śruti declares: the student who <em>knows</em> these conjunctions is themselves <em>sandhīyate</em> (conjoined) with all good things. <strong>The principle</strong>: understanding conjunction makes you conjoined. Knowing connection makes you connected. Seeing the links makes you linked. This is not magical thinking — it is the Upanishadic principle that <em>knowledge transforms the knower</em>. To truly understand a cosmic principle is to be transformed by it. The knowledge doesn't sit passively in the mind — it restructures the knower's relationship with reality. <strong>The Upanishadic logic</strong>: this pattern appears throughout the Upanishads: (1) 'ya evaṁ veda' — 'he who knows thus' — gains the fruit of the knowledge. (2) The Chāndogya (1.1.10): 'Both he who knows thus and he who does not know perform [actions]. But knowledge and ignorance are different — what one does with knowledge, with faith, with the upaniṣad [secret meaning], that indeed is more powerful.' (3) The Bṛhadāraṇyaka (1.4.10): 'He who knows 'I am Brahman' becomes this entire [universe].' <strong>In each case</strong>: knowledge is not passive information but active transformation. To know the five saṁhitās is to become a living junction-point — connected to progeny, wealth, spiritual radiance, nourishment, and heaven."
+        "a": "<strong>'सन्धीयते' — ज्ञाता स्वयं संहिता बन जाता है:</strong> 'सन्धीयते' (संयुक्त होता है) शब्द उपनिषदों की सबसे सुन्दर आत्म-सन्दर्भित संरचनाओं में से एक रचता है: <strong>प्रत्यावर्ती पाश (reflexive loop):</strong> शिष्य संहिता (संयोजन) सीखता है। पाँच ध्यान उसे यथार्थ के प्रत्येक स्तर पर संयोजन देखना सिखाते हैं — ब्रह्माण्डीय, ज्योतिर्मय, सामाजिक, जैविक, शारीरिक। तब फलश्रुति घोषित करती है: जो शिष्य इन संयोजनों को <em>जानता</em> है, वह स्वयं सब शुभ वस्तुओं से <em>सन्धीयते</em> (संयुक्त) हो जाता है। <strong>सिद्धान्त:</strong> संयोजन समझने से स्वयं संयुक्त हो जाते हो। सम्बन्ध जानने से स्वयं सम्बद्ध हो जाते हो। कड़ियाँ देखने से स्वयं कड़ी बन जाते हो। यह जादुई चिन्तन नहीं — उपनिषद् का यह सिद्धान्त है कि <em>ज्ञान ज्ञाता का रूपान्तर करता है</em>। किसी ब्रह्माण्डीय सिद्धान्त को सच्चे अर्थ में समझना उससे रूपान्तरित होना है। ज्ञान मन में निष्क्रिय नहीं बैठता — वह ज्ञाता के यथार्थ से सम्बन्ध को पुनर्गठित करता है। <strong>उपनिषद्-तर्क:</strong> यह प्रतिमान सर्वत्र उपनिषदों में दिखता है: (१) 'य एवं वेद' — 'जो इस प्रकार जानता है' — ज्ञान का फल प्राप्त करता है। (२) छान्दोग्य (१.१.१०): \"जो ज्ञानपूर्वक, श्रद्धापूर्वक, उपनिषद्-सहित करता है — वही अधिक शक्तिशाली है।\" (३) बृहदारण्यक (१.४.१०): \"जो जानता है 'अहं ब्रह्मास्मि' — वह इस सम्पूर्ण विश्व को प्राप्त हो जाता है।\" प्रत्येक स्थिति में ज्ञान निष्क्रिय सूचना नहीं, सक्रिय रूपान्तर है। पाँच संहिताओं को जानना = स्वयं एक जीवित मिलन-बिन्दु बनना — प्रजा, सम्पत्ति, ब्रह्म-तेज, अन्न, और स्वर्ग से जुड़ जाना।<br><br><em>Eng:</em> The word 'sandhīyate' creates an elegant self-referential structure: the student learns about saṁhitā (conjunction), sees it at every level of reality, and then the phala-śruti declares that the knower of conjunction becomes conjoined. Understanding conjunction makes you conjoined — this is the Upanishadic principle that knowledge transforms the knower. The pattern appears throughout: 'ya evaṁ veda' (Chāndogya 1.1.10), 'ahaṁ brahmāsmi' (Bṛhadāraṇyaka 1.4.10). Knowledge is not passive information but active transformation — to know the five saṁhitās is to become a living junction-point."
       }
     ]
   }
