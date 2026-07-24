@@ -7,32 +7,162 @@
     "en": "He who is the bull (ṛṣabha) of the metres (chandas), who is universal in form (viśva-rūpa), who arose from the Vedic hymns, from the immortal (amṛta) — may that Indra fill me (spṛṇotu) with intelligence (medhā). O God (deva), may I become a bearer (dhāraṇa) of the immortal (amṛta). May my body (śarīra) be vigorous (vicarṣaṇa). May my tongue (jihvā) be the sweetest (madhu-mat-tamā). May I hear abundantly (bhūri viśruvam) with my ears (karṇābhyām). You are the sheath (kośa) of Brahman, covered (pihita) by intelligence (medhā). Guard (gopāya) what I have heard (śruta). Om, peace, peace, peace.",
     "ws": [
       {
+        "s": "यः",
+        "h": "जो (यद् सर्वनाम, पुल्लिंग, प्रथमा एकवचन)",
+        "e": "who / which (relative pronoun, nom. sg. masc. of yad)"
+      },
+      {
+        "s": "छन्दसाम्",
+        "h": "छन्दों का / वेद-मन्त्रों का (छन्दस्, षष्ठी बहुवचन)",
+        "e": "of the metres / of the Vedic hymns (gen. pl. of chandas)"
+      },
+      {
         "s": "ऋषभः",
-        "h": "वृषभ / बैल / bull / the best",
+        "h": "वृषभ / सर्वश्रेष्ठ / बैल (श्रेष्ठता-वाचक)",
         "e": "bull / the best / the chief"
       },
       {
-        "s": "मेधा",
-        "h": "प्रज्ञा / बुद्धि / intelligence / retentive power",
-        "e": "intelligence / retentive power / the capacity"
+        "s": "विश्वरूपः",
+        "h": "सर्वरूप / विश्व-व्यापी रूप वाला (विश्व + रूप, बहुव्रीहि समास)",
+        "e": "universal in form / all-formed (viśva+rūpa, bahuvrīhi)"
+      },
+      {
+        "s": "छन्दोभ्यः",
+        "h": "छन्दों से (छन्दस्, पञ्चमी बहुवचन — अपादान कारक)",
+        "e": "from the metres (abl. pl. of chandas)"
+      },
+      {
+        "s": "अधि",
+        "h": "ऊपर / से (उपसर्ग / अव्यय)",
+        "e": "above / from (prefix / indeclinable)"
+      },
+      {
+        "s": "अमृत",
+        "h": "अमरत्व / अमृतत्व / मृत्यु-रहित (अमृतात् = पञ्चमी; अमृतस्य = षष्ठी)",
+        "e": "immortality / the deathless (amṛtāt = abl.; amṛtasya = gen.)"
+      },
+      {
+        "s": "संबभूव",
+        "h": "प्रकट हुआ / उत्पन्न हुआ (सम् + भू धातु, लिट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "arose / was born (perfect 3rd sg. of sam+√bhū)"
+      },
+      {
+        "s": "सः",
+        "h": "वह (तद् सर्वनाम, पुल्लिंग, प्रथमा एकवचन)",
+        "e": "he / that (nom. sg. masc. of tad)"
+      },
+      {
+        "s": "मे",
+        "h": "मेरा / मुझे (अस्मद् सर्वनाम, चतुर्थी/षष्ठी एकवचन)",
+        "e": "my / to me (dat./gen. sg. of asmad)"
+      },
+      {
+        "s": "इन्द्रः",
+        "h": "इन्द्र / देवराज / इन्द्रिय-स्वामी",
+        "e": "Indra / king of gods / lord of the senses"
+      },
+      {
+        "s": "मेधया",
+        "h": "मेधा से / बुद्धि से (मेधा, तृतीया एकवचन — करण कारक)",
+        "e": "with/by intelligence (instr. sg. of medhā)"
+      },
+      {
+        "s": "स्पृणोतु",
+        "h": "परिपूर्ण करे / भरे (स्पृ धातु, लोट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "may he fill / may he satisfy (imperative 3rd sg. of √spṛ)"
+      },
+      {
+        "s": "देव",
+        "h": "हे देव / हे ईश्वर (सम्बोधन एकवचन)",
+        "e": "O God / O divine one (vocative singular)"
+      },
+      {
+        "s": "धारणः",
+        "h": "धारण करने वाला / धारक (धारण शब्द, प्रथमा एकवचन)",
+        "e": "bearer / holder / upholder"
+      },
+      {
+        "s": "भूयासम्",
+        "h": "मैं बनूँ / मैं होऊँ (भू धातु, आशीर्लिङ् लकार, उत्तम पुरुष एकवचन)",
+        "e": "may I become (benedictive/optative 1st sg. of √bhū)"
+      },
+      {
+        "s": "शरीरम्",
+        "h": "शरीर / देह / काया",
+        "e": "body / physical frame"
       },
       {
         "s": "विचर्षणम्",
-        "h": "सक्षम / सामर्थ्यवान / vigorous / capable",
+        "h": "सक्षम / सामर्थ्यवान / सक्रिय",
         "e": "vigorous / capable / active"
       },
       {
+        "s": "जिह्वा",
+        "h": "जीभ / जिह्वा (स्त्रीलिंग, प्रथमा एकवचन)",
+        "e": "tongue (nom. sg. feminine)"
+      },
+      {
         "s": "मधुमत्तमा",
-        "h": "अत्यन्त मधुर / sweetest / most honey-laden",
-        "e": "sweetest / most honey-laden"
+        "h": "अत्यन्त मधुर / सबसे मीठी (मधुमत् का अतिशयार्थक, स्त्रीलिंग)",
+        "e": "sweetest / most honey-laden (superlative of madhumat)"
+      },
+      {
+        "s": "कर्णाभ्याम्",
+        "h": "कर्णों से / कानों से (कर्ण, तृतीया द्विवचन — करण कारक)",
+        "e": "with/by the ears (instr. dual of karṇa)"
+      },
+      {
+        "s": "भूरि",
+        "h": "बहुत / अत्यधिक / प्रभूत (अव्यय)",
+        "e": "abundantly / much / greatly (indeclinable)"
+      },
+      {
+        "s": "विश्रुवम्",
+        "h": "सुनूँ / सुन सकूँ (वि + श्रु धातु, लोट् लकार, उत्तम पुरुष एकवचन)",
+        "e": "may I hear (imperative 1st sg. of vi+√śru)"
+      },
+      {
+        "s": "ब्रह्मणः",
+        "h": "ब्रह्म का (ब्रह्मन्, षष्ठी एकवचन)",
+        "e": "of Brahman (gen. sg. of brahman)"
       },
       {
         "s": "कोशः",
-        "h": "कोष / आवरण / sheath / treasury",
+        "h": "कोष / आवरण / खज़ाना",
         "e": "sheath / treasury / covering"
+      },
+      {
+        "s": "असि",
+        "h": "तुम हो (अस् धातु, लट् लकार, मध्यम पुरुष एकवचन)",
+        "e": "you are (2nd sg. present of √as)"
+      },
+      {
+        "s": "पिहितः",
+        "h": "ढका हुआ / आवृत / छिपा हुआ (अपि + हित, कर्मणि भूतकृदन्त)",
+        "e": "covered / concealed (past participle of api+√dhā)"
+      },
+      {
+        "s": "श्रुतम्",
+        "h": "सुना हुआ / श्रवण-ज्ञान (श्रु धातु, कर्मणि भूतकृदन्त, नपुंसकलिंग)",
+        "e": "what has been heard / learning (past participle of √śru)"
+      },
+      {
+        "s": "गोपाय",
+        "h": "रक्षा करो / सुरक्षित रखो (गोपाय् धातु, लोट् लकार, मध्यम पुरुष एकवचन)",
+        "e": "protect / guard (imperative 2nd sg. of √gopāy)"
+      },
+      {
+        "s": "ॐ",
+        "h": "प्रणव / परब्रह्म का वाचक",
+        "e": "the sacred syllable Om / symbol of Brahman"
+      },
+      {
+        "s": "शान्तिः",
+        "h": "शान्ति / परम शान्ति",
+        "e": "peace / perfect peace"
       }
     ],
-    "gr": "<strong>The student's prayer for intellectual power</strong>: this mantra is a powerful prayer spoken by the student before beginning Vedic study — asking for the faculties needed to receive, retain, and transmit sacred knowledge. <strong>Structure</strong>: (1) <em>Invocation of Indra</em>: Indra is invoked as the 'bull of the metres' — the mightiest being born from the Vedic hymns. The student asks Indra to fill them with medhā (retentive intelligence). (2) <em>Prayer for physical fitness</em>: 'śarīraṁ me vicarṣaṇam' — may my body be vigorous. Vedic study requires physical stamina — long hours of chanting, memorisation, and service to the teacher. (3) <em>Prayer for sweet speech</em>: 'jihvā me madhumattamā' — may my tongue be the sweetest. Correct and melodious chanting. (4) <em>Prayer for receptive hearing</em>: 'karṇābhyāṁ bhūri viśruvam' — may I hear abundantly. The Veda is 'śruti' (that which is heard) — hearing IS the primary mode of Vedic learning. (5) <em>'Brahmaṇaḥ kośaḥ'</em>: 'you are the sheath of Brahman, covered by intelligence' — the student's intellect is addressed as the container of sacred knowledge. The word 'kośa' (sheath) anticipates the Brahmānandavallī's famous five-sheath (pañca-kośa) doctrine. (6) <em>'Śrutaṁ me gopāya'</em>: 'guard what I have heard' — a poignant request that the knowledge once received be preserved, not lost.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र शिष्य की अध्ययन-पूर्व मेधा-प्रार्थना है। संरचना चार भागों में विभक्त है — (१) इन्द्र-स्तुति एवं मेधा-याचना, (२) शारीरिक सामर्थ्य की प्रार्थना, (३) बुद्धि को ब्रह्म-कोश सम्बोधन, (४) त्रिविध शान्ति। 'यः' = यद् सर्वनाम, पुल्लिंग, प्रथमा एकवचन (सम्बन्धवाचक — \"जो\")। 'छन्दसाम्' = छन्दस् शब्द, षष्ठी बहुवचन (सम्बन्ध कारक)। 'छन्दोभ्यः' = पञ्चमी बहुवचन (अपादान — \"छन्दों से\")। 'विश्वरूपः' = विश्व + रूप → बहुव्रीहि समास (\"जिसका रूप विश्व-व्यापी है\")। 'संबभूव' = सम् + भू धातु, लिट् लकार (परोक्ष भूतकाल), प्रथम पुरुष एकवचन — द्विरुक्ति 'बभूव' विशेष रूप है। 'स्पृणोतु' = स्पृ धातु (परिपूर्ण करना), लोट् लकार (विध्यर्थ), प्रथम पुरुष एकवचन। 'मेधया' = मेधा शब्द, तृतीया एकवचन (करण कारक — \"मेधा से / मेधा के द्वारा\")। 'भूयासम्' = भू धातु, आशीर्लिङ् लकार (आशीर्वाद/इच्छार्थ), उत्तम पुरुष एकवचन — \"मैं बनूँ\"। 'विचर्षणम्' = विशेषण, नपुंसकलिंग, प्रथमा ('शरीरम्' का विशेषण)। 'मधुमत्तमा' = मधुमत् (मधुयुक्त) शब्द का अतिशयार्थक (superlative), स्त्रीलिंग ('जिह्वा' का विशेषण)। 'कर्णाभ्याम्' = कर्ण शब्द, तृतीया द्विवचन (करण कारक — \"कानों से\")। 'कोशः असि' = \"तू कोश है\" — असि = अस् धातु, लट् लकार, मध्यम पुरुष एकवचन। 'पिहितः' = अपि + धा → पिहित (ढका हुआ), कर्मणि भूतकृदन्त, पुल्लिंग। 'गोपाय' = गोपाय् (रक्षा करना) धातु, लोट् लकार, मध्यम पुरुष एकवचन। समास — 'मधुमत्तमा' = मधु + मत् (मतुप् प्रत्यय) + तमप् (अतिशयार्थक)। <br><em>Eng:</em> The mantra uses imperative (loṭ) forms — spṛṇotu (3rd sg., 'may he fill'), viśruvam (1st sg., 'may I hear'), gopāya (2nd sg., 'guard') — and the rare benedictive (āśīrliṅ) bhūyāsam ('may I become'). 'Viśvarūpaḥ' is a bahuvrīhi compound. 'Saṁbabhūva' is the perfect (liṭ) of sam+√bhū with characteristic reduplication. 'Madhumattamā' is a superlative formed with -tama on the matup-suffixed base madhuvat.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -57,11 +187,11 @@
     "dp": [
       {
         "q": "🔍 Indra as 'ṛṣabha of the chandas' — the divine intellect",
-        "a": "The invocation of <strong>Indra as the 'bull (ṛṣabha) of the metres (chandas)'</strong> reveals a dimension of Indra often overshadowed by his martial exploits: <strong>Indra and intelligence</strong>: while Indra is popularly known as the warrior-god who slays Vṛtra, the Vedic tradition also associates him with <em>mental power</em>. The word 'indra' is etymologically connected to 'indriya' (sense-faculty) — Indra is the lord of the senses, the master of perception and cognition. <strong>Why 'bull of the metres'?</strong> The chandas (Vedic metres — gāyatrī, triṣṭubh, jagatī, etc.) are the <em>vehicles</em> of Vedic revelation. Each ṛṣi (seer) receives the mantra in a specific metre, and the metre carries the mantra's power. Indra is the 'bull' (mightiest, most virile) of these metres — the supreme power that emerges from the Vedic hymns themselves. <strong>The student's logic</strong>: if Indra is the mightiest intelligence born from the Vedas, then he is the ideal deity to invoke for <em>medhā</em> (the retentive power needed for Vedic study). The student asks the very power that the Vedas generated to help them absorb the Vedas. <strong>Connection to Bṛhadāraṇyaka</strong>: in Bṛhadāraṇyaka 5.14.4, Indra is identified with the supreme Self — 'indha iti' (he who kindles). The Kaṭha Upanishad (2.2.3) says the Self is 'no bigger than a thumb' yet 'lord of the past and the future' — this inner Indra/Self is what the student truly invokes. <strong>'Viśva-rūpa'</strong>: Indra is 'universal in form' — he pervades all the metres, all the hymns, all of reality. This epithet connects to the Gītā's viśva-rūpa-darśana (11.5-31) — the vision of the universal form."
+        "a": "<strong>इन्द्र — 'छन्दसाम् ऋषभः' — दिव्य बुद्धि-शक्ति:</strong> इन्द्र को 'छन्दों का ऋषभ (वृषभ)' कहकर सम्बोधित करना उपनिषदों के सबसे गहन आह्वानों में से एक है — यह इन्द्र के उस रूप को उजागर करता है जो उनके मार्शल-शौर्य से परे है। <strong>इन्द्र और बुद्धि:</strong> इन्द्र लोक-प्रसिद्धि में वृत्रहन्ता वीर हैं, किन्तु वैदिक परम्परा उन्हें <em>मानसिक शक्ति</em> से भी जोड़ती है। 'इन्द्र' शब्द 'इन्द्रिय' (ज्ञानेन्द्रिय) से व्युत्पन्न माना जाता है — इन्द्र = इन्द्रियों के स्वामी, प्रत्यक्ष-ज्ञान और बुद्धि के अधिपति। <strong>'छन्दों का वृषभ' क्यों?</strong> छन्दस् (वैदिक छन्द — गायत्री, त्रिष्टुभ्, जगती आदि) = वैदिक दर्शन के <em>वाहन</em>। प्रत्येक ऋषि (द्रष्टा) को मन्त्र एक विशिष्ट छन्द में प्राप्त होता है, और छन्द मन्त्र की शक्ति का वाहक है। इन्द्र इन छन्दों का 'वृषभ' (सर्वशक्तिमान्, सर्वश्रेष्ठ) है — वैदिक सूक्तों से ही उत्पन्न परम शक्ति। <strong>शिष्य का तर्क:</strong> यदि इन्द्र वेदों से उत्पन्न सर्वश्रेष्ठ बुद्धि-शक्ति है, तो <em>मेधा</em> (धारणा-शक्ति) की प्रार्थना हेतु वही सर्वोत्तम देवता है। शिष्य उसी शक्ति से मेधा माँगता है जिसे स्वयं वेदों ने जन्म दिया। <strong>बृहदारण्यक से सम्बन्ध:</strong> बृहदारण्यक (५.१४.४) में इन्द्र को परमात्मा से अभिन्न बताया गया है — 'इन्ध इति' (जो प्रज्वलित करता है)। कठ उपनिषद् (२.२.३) कहती है — आत्मा 'अंगुष्ठ-मात्र' है किन्तु 'भूत-भव्य का ईश्वर' — यह अन्तरात्मा-रूप इन्द्र ही शिष्य का वास्तविक आह्वान है। <strong>'विश्वरूप':</strong> इन्द्र 'विश्वरूप' है — सर्व-व्यापी, समस्त छन्दों में, समस्त सूक्तों में, समस्त सत्ता में व्याप्त। यह विशेषण गीता के विश्वरूप-दर्शन (११.५-३१) की प्रत्याशा करता है।<br><br><em>Eng:</em> The invocation of Indra as 'ṛṣabha of the chandas' reveals his role as divine intellect, not just the martial warrior. 'Indra' is etymologically linked to 'indriya' (sense-faculty) — he is the lord of perception and cognition. The chandas (metres) are vehicles of Vedic revelation; Indra is their 'bull' (mightiest power) born from the hymns themselves. The student asks the very intelligence that the Vedas generated to help absorb the Vedas. In the Bṛhadāraṇyaka (5.14.4), Indra is identified with the supreme Self. The epithet 'viśva-rūpa' connects to the Gītā's universal-form vision (11.5-31)."
       },
       {
         "q": "🔍 'Brahmaṇaḥ kośa' — the intellect as sheath of Brahman",
-        "a": "The phrase <strong>'brahmaṇaḥ kośaḥ asi medhayā pihitaḥ'</strong> ('you are the sheath of Brahman, covered by intelligence') introduces a concept that the Taittirīya will develop into its most famous teaching: <strong>'Kośa' here</strong>: in this mantra, the student's intellect is addressed as the 'kośa' (sheath/treasury) of Brahman. The idea: sacred knowledge (Brahman/Veda) is stored INSIDE the sheath of the intellect, and medhā (intelligence) is the covering that protects it. The student prays: 'guard what I have heard' — keep the sheath intact, keep the contents safe. <strong>The pañca-kośa anticipation</strong>: in the Brahmānandavallī (chapters 2-3 of the Taittirīya), the concept of kośa will be expanded into the famous <em>five sheaths</em> (pañca-kośa) doctrine: (1) <em>Annamaya kośa</em> (food-sheath = physical body), (2) <em>Prāṇamaya kośa</em> (breath-sheath = vital energy), (3) <em>Manomaya kośa</em> (mind-sheath = mental body), (4) <em>Vijñānamaya kośa</em> (knowledge-sheath = intellect), (5) <em>Ānandamaya kośa</em> (bliss-sheath = the deepest layer). The Self (Ātman/Brahman) is nested inside all five sheaths — like a sword in its scabbard, or a treasure in its chest. <strong>The connection</strong>: here in the Śikṣāvallī, the student's intellect is ONE kośa — the container of Brahman-knowledge. In the Brahmānandavallī, this will be systematised into five nested sheaths, each deeper than the last, with Brahman at the innermost core. The seed planted here flowers there."
+        "a": "<strong>'ब्रह्मणः कोशः' — बुद्धि = ब्रह्म का आवरण:</strong> 'ब्रह्मणः कोशः असि मेधया पिहितः' ('तू ब्रह्म का कोश है, मेधा से ढका हुआ') — यह वाक्यांश एक ऐसी अवधारणा का बीज है जिसे तैत्तिरीय अपनी सर्वप्रसिद्ध शिक्षा में विकसित करेगी। <strong>यहाँ 'कोश' का अर्थ:</strong> इस मन्त्र में शिष्य की बुद्धि को ब्रह्म का 'कोश' (आवरण/कोष) सम्बोधित किया गया है। भाव यह है कि पवित्र ज्ञान (ब्रह्म/वेद) बुद्धि-रूपी कोश के <em>भीतर</em> संचित है, और मेधा (बुद्धि-शक्ति) वह आवरण है जो इसकी रक्षा करती है। शिष्य प्रार्थना करता है: 'श्रुतं मे गोपाय' — कोश को अक्षत रखो, विषयवस्तु की रक्षा करो। <strong>पञ्चकोश का पूर्वाभास:</strong> ब्रह्मानन्दवल्ली (तैत्तिरीय अध्याय २-३) में यही कोश-अवधारणा प्रसिद्ध <em>पञ्चकोश</em> सिद्धान्त में विस्तारित होगी: (१) <em>अन्नमय कोश</em> (अन्न-शरीर = स्थूल शरीर), (२) <em>प्राणमय कोश</em> (प्राण-शरीर = जीवनी-शक्ति), (३) <em>मनोमय कोश</em> (मन-शरीर = मानसिक शरीर), (४) <em>विज्ञानमय कोश</em> (विज्ञान-शरीर = बुद्धि), (५) <em>आनन्दमय कोश</em> (आनन्द-शरीर = गहनतम स्तर)। आत्मा/ब्रह्म पाँचों कोशों के भीतर नीड़ित (nested) है — जैसे तलवार म्यान में, रत्न सन्दूक में। <strong>सम्बन्ध:</strong> शिक्षावल्ली में शिष्य की बुद्धि = एक कोश — ब्रह्म-ज्ञान का पात्र। ब्रह्मानन्दवल्ली में यही अवधारणा पाँच नीड़ित कोशों में व्यवस्थित होगी, प्रत्येक पिछले से गहनतर, ब्रह्म सबसे भीतरी केन्द्र में। यहाँ बोया गया बीज वहाँ पुष्पित होगा। <strong>व्यावहारिक अर्थ:</strong> आपकी बुद्धि एक खज़ाना-पेटी है — जो भी श्रवण-ज्ञान (śruta) उसमें प्रवेश करे, उसकी रक्षा करनी चाहिए। 'गोपाय' (रक्षा करो) = विस्मृति, असावधानी, और अनादर से ज्ञान की सुरक्षा। वेद 'श्रुति' हैं — 'जो सुना गया' — श्रवण ही ज्ञान-प्राप्ति की प्राथमिक विधि है।<br><br><em>Eng:</em> The phrase 'brahmaṇaḥ kośaḥ asi medhayā pihitaḥ' addresses the student's intellect as the sheath/treasury of Brahman, covered by intelligence. This seeds the Taittirīya's most famous teaching: the pañca-kośa (five sheaths) doctrine of the Brahmānandavallī — annamaya, prāṇamaya, manomaya, vijñānamaya, ānandamaya — with the Self nested at the innermost core. Here the student's intellect is one kośa containing Brahman-knowledge; later this will be systematized into five nested sheaths. 'Gopāya' ('guard') is a poignant request to preserve heard knowledge from loss."
       }
     ]
   },
@@ -73,32 +203,157 @@
     "en": "Om. Bhūḥ, bhuvaḥ, suvaḥ — these indeed are the three vyāhṛtis (sacred utterances). Of these, the sage Māhācamasya revealed a fourth: 'mahaḥ' (the Great). That is Brahman. That is the Self (ātmā). The other deities are its limbs (aṅga). 'Bhūḥ' is this world (earth). 'Bhuvaḥ' is the atmosphere (antarikṣa). 'Suvaḥ' is that world (heaven). 'Mahaḥ' is the sun (āditya). By the sun indeed are all the worlds magnified (mahīyante).",
     "ws": [
       {
+        "s": "ॐ",
+        "h": "प्रणव / परब्रह्म का वाचक",
+        "e": "the sacred syllable Om"
+      },
+      {
+        "s": "भूः",
+        "h": "भूलोक / पृथ्वी (प्रथम व्याहृति)",
+        "e": "earth / the earthly plane (first vyāhṛti)"
+      },
+      {
+        "s": "भुवः",
+        "h": "भुवर्लोक / अन्तरिक्ष (द्वितीय व्याहृति)",
+        "e": "atmosphere / the middle plane (second vyāhṛti)"
+      },
+      {
+        "s": "सुवः",
+        "h": "स्वर्लोक / स्वर्ग (तृतीय व्याहृति)",
+        "e": "heaven / the celestial plane (third vyāhṛti)"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार / ऐसा (निर्देशक अव्यय)",
+        "e": "thus / so (quotative particle)"
+      },
+      {
+        "s": "वा",
+        "h": "निश्चय से / वास्तव में (अवधारणार्थक अव्यय)",
+        "e": "indeed / verily (emphatic particle)"
+      },
+      {
+        "s": "एताः",
+        "h": "ये (एतद् सर्वनाम, स्त्रीलिंग, प्रथमा बहुवचन)",
+        "e": "these (nom. pl. fem. of etad)"
+      },
+      {
+        "s": "तिस्रः",
+        "h": "तीन (त्रि, स्त्रीलिंग, प्रथमा बहुवचन)",
+        "e": "three (nom. pl. fem. of tri)"
+      },
+      {
         "s": "व्याहृतयः",
-        "h": "पवित्र उद्गार / sacred utterances",
-        "e": "sacred utterances"
+        "h": "पवित्र उद्गार / मन्त्रोच्चार (वि + आ + हृ, स्त्रीलिंग बहुवचन)",
+        "e": "sacred utterances (nom. pl. of vyāhṛti)"
+      },
+      {
+        "s": "तासाम्",
+        "h": "उनमें से (तद् सर्वनाम, स्त्रीलिंग, षष्ठी बहुवचन)",
+        "e": "of them (gen. pl. fem. of tad)"
+      },
+      {
+        "s": "उ ह स्म",
+        "h": "निश्चय ही / अवश्य (बलदायक अव्यय-समूह — प्राचीन परम्परा-सूचक)",
+        "e": "indeed / certainly / of old (cluster of emphatic particles)"
+      },
+      {
+        "s": "चतुर्थीम्",
+        "h": "चौथी (चतुर्थ, स्त्रीलिंग, द्वितीया एकवचन)",
+        "e": "the fourth (acc. sg. fem. of caturtha)"
       },
       {
         "s": "माहाचमस्यः",
-        "h": "ऋषि माहाचमस्य / the sage Māhācamasya",
-        "e": "the sage Māhācamasya"
+        "h": "ऋषि माहाचमस्य (महाचमस के गोत्रज)",
+        "e": "the sage Māhācamasya (patronymic from Mahācamasa)"
+      },
+      {
+        "s": "प्रवेदयते",
+        "h": "प्रकट करता है / ज्ञात कराता है (प्र + विद् धातु, णिजन्त, लट् लकार)",
+        "e": "reveals / makes known (causative present 3rd sg. of pra+√vid)"
       },
       {
         "s": "महः",
-        "h": "महान् / the Great / greatness",
-        "e": "the Great / greatness"
+        "h": "महान् / महत्त्व (चतुर्थ व्याहृति)",
+        "e": "the Great / greatness (the fourth vyāhṛti)"
+      },
+      {
+        "s": "तत्",
+        "h": "वह (तद् सर्वनाम, नपुंसकलिंग, प्रथमा एकवचन)",
+        "e": "that (nom. sg. neuter of tad)"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परमतत्त्व / परम सत्ता",
+        "e": "Brahman / the Absolute"
+      },
+      {
+        "s": "सः",
+        "h": "वह (तद् सर्वनाम, पुल्लिंग, प्रथमा एकवचन)",
+        "e": "he / that (nom. sg. masc. of tad)"
+      },
+      {
+        "s": "आत्मा",
+        "h": "आत्मा / अन्तरात्मा / स्व",
+        "e": "the Self / the inner Self"
       },
       {
         "s": "अङ्गानि",
-        "h": "अवयव / अंग / limbs / parts",
-        "e": "limbs / parts"
+        "h": "अवयव / अंग (अङ्ग, नपुंसकलिंग, प्रथमा बहुवचन)",
+        "e": "limbs / parts (nom. pl. neuter of aṅga)"
+      },
+      {
+        "s": "अन्याः",
+        "h": "अन्य / दूसरी (अन्य, स्त्रीलिंग, प्रथमा बहुवचन)",
+        "e": "other (nom. pl. fem. of anya)"
+      },
+      {
+        "s": "देवताः",
+        "h": "देवता / देवी-देवता (स्त्रीलिंग, प्रथमा बहुवचन)",
+        "e": "deities / divine beings (nom. pl. of devatā)"
+      },
+      {
+        "s": "अयम्",
+        "h": "यह (इदम् सर्वनाम, पुल्लिंग, प्रथमा एकवचन)",
+        "e": "this (nom. sg. masc. of idam)"
+      },
+      {
+        "s": "लोकः",
+        "h": "लोक / संसार / विश्व (लोकाः = बहुवचन)",
+        "e": "world / plane / realm (lokāḥ = plural)"
+      },
+      {
+        "s": "अन्तरिक्षम्",
+        "h": "अन्तरिक्ष / मध्य-आकाश / वायुमण्डल",
+        "e": "atmosphere / middle space / the aerial region"
+      },
+      {
+        "s": "असौ",
+        "h": "वह (दूरवर्ती) (अदस् सर्वनाम, पुल्लिंग, प्रथमा एकवचन)",
+        "e": "that (yonder) (nom. sg. masc. of adas)"
+      },
+      {
+        "s": "आदित्यः",
+        "h": "आदित्य / सूर्य (आदित्येन = तृतीया — 'सूर्य से')",
+        "e": "the sun (ādityena = instrumental — 'by the sun')"
+      },
+      {
+        "s": "वाव",
+        "h": "निश्चय ही / वास्तव में (बलदायक अव्यय)",
+        "e": "indeed / certainly (strong emphatic particle)"
+      },
+      {
+        "s": "सर्वे",
+        "h": "सब / समस्त (सर्व, पुल्लिंग, प्रथमा बहुवचन)",
+        "e": "all (nom. pl. masc. of sarva)"
       },
       {
         "s": "महीयन्ते",
-        "h": "महान् बनते हैं / are magnified / are enriched",
-        "e": "are magnified / are enriched / become great"
+        "h": "महान् बनते हैं / पोषित होते हैं (मही + यन्ते, कर्मणि/आत्मनेपद)",
+        "e": "are magnified / become great / are enriched"
       }
     ],
-    "gr": "<strong>The four vyāhṛtis — from three worlds to Brahman</strong>: this mantra teaches the famous <em>vyāhṛtis</em> (sacred utterances) meditation. <strong>The three standard vyāhṛtis</strong>: bhūḥ (earth), bhuvaḥ (atmosphere), suvaḥ (heaven) — these are chanted daily by every Vedic practitioner, especially as part of the Gāyatrī mantra ('oṁ bhūr bhuvaḥ suvaḥ, tat savitur vareṇyam...'). They represent the three cosmic planes. <strong>The fourth vyāhṛti</strong>: the sage Māhācamasya revealed a fourth — 'mahaḥ' (the Great). This fourth vyāhṛti transcends the three worlds and is identified with: (a) Brahman — the Absolute, (b) ātmā — the Self, (c) āditya — the sun. <strong>The identification chain</strong>: mahaḥ = Brahman = ātmā = āditya (sun). The other deities are 'limbs' (aṅga) of this Brahman/Self/Sun. <strong>The wordplay</strong>: mahaḥ → ādityaḥ → mahīyante: 'the Great' is the sun, and by the sun all worlds 'become great' (mahīyante). The fourth vyāhṛti embodies the principle of greatness itself. <strong>The cosmic logic</strong>: the three vyāhṛtis map the cosmos (earth, atmosphere, heaven). The fourth transcends the cosmos — it is the SUN that illumines all three worlds, just as Brahman/ātmā underlies all three planes of existence.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र व्याहृति-ध्यान का प्रथम चरण है — तीन परम्परागत व्याहृतियों के साथ चौथी 'महः' का परिचय। संरचना तीन भागों में है — (१) तीन व्याहृतियों की घोषणा, (२) माहाचमस्य द्वारा चतुर्थ व्याहृति का प्रकटन, (३) लोक-सम्बन्धी अनुप्रयोग। 'एताः' = एतद् सर्वनाम, स्त्रीलिंग, प्रथमा बहुवचन ('ये')। 'तिस्रः' = त्रि शब्द, स्त्रीलिंग, प्रथमा बहुवचन (विशेष रूप)। 'व्याहृतयः' = वि + आ + हृ → व्याहृति (पवित्र उच्चारण), स्त्रीलिंग, प्रथमा बहुवचन। 'तासाम्' = तद् सर्वनाम, षष्ठी बहुवचन, स्त्रीलिंग (सम्बन्ध कारक)। 'उ ह स्म' = तीन बलदायक अव्यय — प्राचीन परम्परा-सूचक। 'चतुर्थीम्' = चतुर्थ, स्त्रीलिंग, द्वितीया एकवचन (कर्म कारक)। 'माहाचमस्यः' = महाचमस का अपत्य/गोत्रज → अण् प्रत्ययान्त (वृद्धि → मा)। 'प्रवेदयते' = प्र + विद् (ज्ञान) → णिजन्त (causative), लट् लकार, प्रथम पुरुष एकवचन, आत्मनेपद। 'तत् ब्रह्म' = प्रथमा विभक्ति, अभेद-सम्बन्ध ('वह ब्रह्म है')। 'अंगानि' = अङ्ग शब्द, नपुंसकलिंग, प्रथमा बहुवचन। 'आदित्येन' = आदित्य शब्द, तृतीया एकवचन (करण कारक — 'सूर्य के द्वारा')। 'महीयन्ते' = मही (महत्) + यन्ते → णिजन्त, कर्मणि प्रयोग (या आत्मनेपद — \"महान् बनाये जाते हैं\")। शब्द-क्रीड़ा: महः → आदित्यः → महीयन्ते = 'महान्' शब्द-मूल तीनों को जोड़ता है। <br><em>Eng:</em> The mantra introduces the fourth vyāhṛti 'mahaḥ' through a causative verb 'pravedayate' (pra+√vid, causative — 'reveals'). Key forms: 'tisraḥ' (special feminine of tri), 'caturthīm' (accusative feminine ordinal), 'māhācamasyaḥ' (patronymic with vṛddhi). The identification chain tat brahma = saḥ ātmā uses nominative predication. 'Mahīyante' is passive/ātmanepada of the causative of √mah. The wordplay mahah → ādityaḥ → mahīyante links all three through the root √mah.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -123,11 +378,11 @@
     "dp": [
       {
         "q": "🔍 The vyāhṛtis — from ritual formula to cosmic philosophy",
-        "a": "The <strong>vyāhṛtis</strong> (sacred utterances) are among the oldest and most ubiquitous elements of Vedic practice, and the Taittirīya transforms them from ritual formulas into philosophical symbols: <strong>Origin</strong>: according to the Śatapatha Brāhmaṇa (11.1.6.3), Prajāpati (the Creator) brooded over the three worlds and 'extracted' their essences: from earth he extracted 'bhūḥ,' from atmosphere 'bhuvaḥ,' from heaven 'suvaḥ.' These three sounds are the compressed essence of the three worlds. <strong>Daily use</strong>: every Vedic practitioner chants the vyāhṛtis multiple times daily — they precede the Gāyatrī mantra ('oṁ bhūr bhuvaḥ suvaḥ, tat savitur vareṇyam...'), they open every Vedic recitation, and they are chanted during the sandhyā-vandana (twilight prayers). <strong>The Taittirīya's innovation</strong>: the standard system has three vyāhṛtis for three worlds. The Taittirīya adds a FOURTH — 'mahaḥ' — revealed by the sage Māhācamasya. This fourth transcends the three worlds and is identified with Brahman/ātmā/āditya. <strong>The philosophical move</strong>: this addition mirrors the broader Upanishadic project: the Vedic ritual cosmos (three worlds, three fires, three vyāhṛtis) is not rejected but TRANSCENDED by a fourth principle that underlies the three. The three are real; the fourth is their reality. Just as OM contains a, u, m + the silence beyond (turīya), the vyāhṛtis contain bhūḥ, bhuvaḥ, suvaḥ + mahaḥ beyond."
+        "a": "<strong>व्याहृतियाँ — कर्मकाण्डीय सूत्र से दार्शनिक प्रतीक तक:</strong> <strong>व्याहृतियाँ</strong> (पवित्र उद्गार) वैदिक अनुष्ठान के प्राचीनतम और सर्वव्यापी तत्त्वों में से हैं — तैत्तिरीय उन्हें कर्मकाण्डीय सूत्रों से दार्शनिक प्रतीकों में रूपान्तरित करती है। <strong>उत्पत्ति:</strong> शतपथ ब्राह्मण (११.१.६.३) के अनुसार प्रजापति (सृष्टिकर्ता) ने तीन लोकों पर ध्यान किया और उनका 'सार' निकाला — पृथ्वी से 'भूः', अन्तरिक्ष से 'भुवः', स्वर्ग से 'सुवः'। ये तीन ध्वनियाँ तीन लोकों का संक्षिप्त सार हैं। <strong>दैनिक प्रयोग:</strong> प्रत्येक वैदिक साधक दिन में अनेक बार व्याहृतियों का उच्चारण करता है — ये गायत्री मन्त्र ('ॐ भूर्भुवः सुवः, तत्सवितुर्वरेण्यम्...') से पहले आती हैं, प्रत्येक वैदिक पाठ का उद्घाटन करती हैं, और सन्ध्या-वन्दना (सन्ध्या-प्रार्थना) में जपी जाती हैं। <strong>तैत्तिरीय का नवाचार:</strong> मानक पद्धति में तीन व्याहृतियाँ = तीन लोक। तैत्तिरीय चौथी व्याहृति जोड़ती है — 'महः' — जो ऋषि माहाचमस्य ने प्रकट की। यह चौथी व्याहृति तीनों लोकों को अतिक्रमित करती है और ब्रह्म/आत्मा/आदित्य से अभिन्न है। <strong>दार्शनिक गति:</strong> यह जोड़ उपनिषदों की व्यापक परियोजना का प्रतिबिम्ब है — वैदिक कर्मकाण्डीय ब्रह्माण्ड (तीन लोक, तीन अग्नि, तीन व्याहृति) को अस्वीकार नहीं किया गया बल्कि एक चौथे तत्त्व द्वारा <em>अतिक्रमित</em> किया गया जो तीनों का अधिष्ठान है। तीन वास्तविक हैं; चौथा उनकी वास्तविकता है। जैसे ॐ में अ, उ, म् + उसके परे मौन (तुरीय) है, वैसे ही व्याहृतियों में भूः, भुवः, सुवः + उनके परे महः है।<br><br><em>Eng:</em> The vyāhṛtis are among the oldest elements of Vedic practice — the Taittirīya transforms them from ritual formulas into philosophical symbols. According to the Śatapatha Brāhmaṇa (11.1.6.3), Prajāpati extracted the essence of the three worlds as bhūḥ, bhuvaḥ, suvaḥ. The Taittirīya's innovation is adding a fourth — 'mahaḥ' — revealed by the sage Māhācamasya, identified with Brahman/ātmā/āditya. This mirrors the broader Upanishadic project: the ritual cosmos (three worlds) is not rejected but transcended by a fourth principle, just as OM's three syllables (a, u, m) are transcended by the silence (turīya) beyond."
       },
       {
         "q": "🔍 The equation: mahaḥ = Brahman = ātmā = āditya",
-        "a": "The identification <strong>mahaḥ = Brahman = ātmā = āditya</strong> is a compact expression of the Upanishadic worldview: <strong>Mahaḥ = Brahman</strong>: 'the Great' is not just a fourth world or plane — it IS Brahman, the Absolute. Greatness (mahat) is the nature of Brahman itself. The Kaṭha (1.2.22): 'mahāntaṁ vibhum ātmānam' — 'the Self, great and all-pervading.' <strong>Brahman = ātmā</strong>: this is THE mahāvākya (great saying) of the Upanishads in compressed form. The cosmic Absolute (Brahman) and the individual Self (ātmā) are one. The Bṛhadāraṇyaka (2.5.19): 'ayam ātmā brahma' — 'this Self is Brahman.' <strong>Ātmā = āditya</strong>: the Self/Brahman is identified with the sun — not the physical sun but the sun as the principle of illumination, the source of all light and life. The Chāndogya (3.19.1): 'ādityo brahmeti' — 'the sun is Brahman.' The sun is chosen because: (a) it illumines all three worlds, (b) it is the source of all energy, (c) it is the most visible symbol of a single reality pervading everything. <strong>'Ādityena sarve lokā mahīyante'</strong>: the beautiful wordplay: 'by the sun (= mahaḥ = Brahman) all worlds become great (mahīyante).' The fourth vyāhṛti doesn't merely add a fourth world — it MAGNIFIES the other three. Brahman doesn't sit alongside the world; it makes the world what it is. <strong>'Aṅgāni anyā devatāḥ'</strong>: 'the other deities are its limbs' — all the gods are parts of this one Brahman/ātmā/āditya. This foreshadows the Puruṣa-sūkta vision and the later Vaiṣṇava theology where all devas are aṅgas (limbs) of the Supreme."
+        "a": "<strong>समीकरण: महः = ब्रह्म = आत्मा = आदित्य:</strong> 'महः = ब्रह्म = आत्मा = आदित्य' का अभेद-कथन उपनिषद्-दर्शन का संक्षिप्त सूत्र है। <strong>महः = ब्रह्म:</strong> 'महान्' (mahat) केवल चौथा लोक या चौथा स्तर नहीं — वह ब्रह्म ही है, परमतत्त्व। महत्ता (mahat) ब्रह्म का स्वभाव ही है। कठ उपनिषद् (१.२.२२): 'महान्तं विभुम् आत्मानम्' — 'आत्मा, महान् और सर्वव्यापी।' <strong>ब्रह्म = आत्मा:</strong> यह उपनिषदों का <em>महावाक्य</em> संक्षिप्त रूप में है — ब्रह्माण्डीय परमतत्त्व (ब्रह्म) और व्यक्तिगत आत्मा (आत्मन्) एक हैं। बृहदारण्यक (२.५.१९): 'अयम् आत्मा ब्रह्म' — 'यह आत्मा ब्रह्म है।' <strong>आत्मा = आदित्य:</strong> आत्मा/ब्रह्म की अभिन्नता सूर्य से स्थापित की गई है — भौतिक सूर्य से नहीं बल्कि प्रकाश-तत्त्व, समस्त दीप्ति और जीवन के स्रोत से। छान्दोग्य (३.१९.१): 'आदित्यो ब्रह्मेति' — 'सूर्य ब्रह्म है।' सूर्य चुना गया क्योंकि: (अ) वह तीनों लोकों को प्रकाशित करता है, (ब) वह समस्त ऊर्जा का स्रोत है, (स) वह एक ही सत्ता के सर्वव्यापन का सर्वाधिक दृश्य प्रतीक है। <strong>'आदित्येन सर्वे लोका महीयन्ते':</strong> सुन्दर शब्द-क्रीड़ा: 'सूर्य (= महः = ब्रह्म) द्वारा सभी लोक महान् (महीयन्ते) बनते हैं।' चतुर्थ व्याहृति चौथा लोक नहीं जोड़ती — वह शेष तीनों को <em>महान् बनाती</em> है। ब्रह्म संसार के समानान्तर नहीं बैठता; वह संसार को वही बनाता है जो वह है। <strong>'अंगानि अन्या देवताः':</strong> 'अन्य देवता इसके अंग हैं' — समस्त देवता इस एक ब्रह्म/आत्मा/आदित्य के अवयव हैं। यह पुरुषसूक्त-दृष्टि और परवर्ती वैष्णव दर्शन (जहाँ सब देव भगवान् के अंग हैं) का पूर्वाभास है।<br><br><em>Eng:</em> The identification mahaḥ = Brahman = ātmā = āditya compresses the Upanishadic worldview. 'Mahaḥ' is not just a fourth plane but IS Brahman (Kaṭha 1.2.22: 'mahāntaṁ vibhum ātmānam'). Brahman = ātmā is the mahāvākya in compressed form (Bṛhadāraṇyaka 2.5.19: 'ayam ātmā brahma'). Āditya is Brahman as the principle of illumination (Chāndogya 3.19.1: 'ādityo brahmeti'). The wordplay mahah → mahīyante shows the fourth doesn't add a world but magnifies the other three. 'Aṅgāni anyāḥ devatāḥ' — all gods are limbs of this one Brahman, foreshadowing the Puruṣa-sūkta vision."
       }
     ]
   },
@@ -139,32 +394,102 @@
     "en": "'Bhūḥ' is fire (agni). 'Bhuvaḥ' is wind (vāyu). 'Suvaḥ' is the sun (āditya). 'Mahaḥ' is the moon (candramā). By the moon indeed are all luminaries (jyotīṁṣi) magnified. 'Bhūḥ' is the Ṛg verses (ṛcaḥ). 'Bhuvaḥ' is the Sāma chants (sāmāni). 'Suvaḥ' is the Yajur formulas (yajūṁṣi). 'Mahaḥ' is Brahman. By Brahman indeed are all the Vedas magnified.",
     "ws": [
       {
-        "s": "ज्योतींषि",
-        "h": "ज्योतियाँ / प्रकाश-स्रोत / luminaries / lights",
-        "e": "luminaries / lights"
+        "s": "भूः",
+        "h": "भूलोक / पृथ्वी (प्रथम व्याहृति)",
+        "e": "earth / the earthly plane (first vyāhṛti)"
       },
       {
-        "s": "ऋचः",
-        "h": "ऋग्वेद के मन्त्र / Ṛg verses",
-        "e": "the Ṛg verses"
+        "s": "इति",
+        "h": "इस प्रकार / ऐसा (निर्देशक अव्यय)",
+        "e": "thus / so (quotative particle)"
       },
       {
-        "s": "सामानि",
-        "h": "सामवेद के गान / Sāma chants",
-        "e": "the Sāma chants"
+        "s": "वा",
+        "h": "निश्चय से / वास्तव में (अवधारणार्थक अव्यय)",
+        "e": "indeed / verily (emphatic particle)"
       },
       {
-        "s": "यजूंषि",
-        "h": "यजुर्वेद के मन्त्र / Yajur formulas",
-        "e": "the Yajur formulas"
+        "s": "अग्निः",
+        "h": "अग्नि / पावक (पुल्लिंग, प्रथमा एकवचन)",
+        "e": "fire / Agni (nom. sg.)"
+      },
+      {
+        "s": "भुवः",
+        "h": "भुवर्लोक / अन्तरिक्ष (द्वितीय व्याहृति)",
+        "e": "atmosphere / the middle plane (second vyāhṛti)"
+      },
+      {
+        "s": "वायुः",
+        "h": "वायु / पवन (पुल्लिंग, प्रथमा एकवचन)",
+        "e": "wind / air (nom. sg.)"
+      },
+      {
+        "s": "सुवः",
+        "h": "स्वर्लोक / स्वर्ग (तृतीय व्याहृति)",
+        "e": "heaven / the celestial plane (third vyāhṛti)"
+      },
+      {
+        "s": "आदित्यः",
+        "h": "आदित्य / सूर्य (पुल्लिंग, प्रथमा एकवचन)",
+        "e": "the sun (nom. sg.)"
+      },
+      {
+        "s": "महः",
+        "h": "महान् / महत्त्व (चतुर्थ व्याहृति)",
+        "e": "the Great / greatness (fourth vyāhṛti)"
       },
       {
         "s": "चन्द्रमाः",
-        "h": "चन्द्रमा / moon",
-        "e": "the moon"
+        "h": "चन्द्रमा / चाँद (चन्द्रमसा = तृतीया — 'चन्द्रमा से')",
+        "e": "the moon (candramasā = instrumental — 'by the moon')"
+      },
+      {
+        "s": "वाव",
+        "h": "निश्चय ही / वास्तव में (बलदायक अव्यय)",
+        "e": "indeed / certainly (strong emphatic particle)"
+      },
+      {
+        "s": "सर्वाणि",
+        "h": "सब / समस्त (सर्व, नपुंसकलिंग, प्रथमा बहुवचन; सर्वे = पुल्लिंग)",
+        "e": "all (nom. pl. neuter; sarve = masc. pl.)"
+      },
+      {
+        "s": "ज्योतींषि",
+        "h": "ज्योतियाँ / प्रकाश-स्रोत (ज्योतिस्, नपुंसकलिंग, प्रथमा बहुवचन)",
+        "e": "luminaries / lights (nom. pl. neuter of jyotis)"
+      },
+      {
+        "s": "महीयन्ते",
+        "h": "महान् बनते हैं / पोषित होते हैं",
+        "e": "are magnified / become great / are enriched"
+      },
+      {
+        "s": "ऋचः",
+        "h": "ऋग्वेद के मन्त्र / ऋचाएँ (ऋच्, स्त्रीलिंग, प्रथमा बहुवचन)",
+        "e": "the Ṛg verses (nom. pl. of ṛc)"
+      },
+      {
+        "s": "सामानि",
+        "h": "सामवेद के गान / साम-गान (सामन्, नपुंसकलिंग, प्रथमा बहुवचन)",
+        "e": "the Sāma chants (nom. pl. of sāman)"
+      },
+      {
+        "s": "यजूंषि",
+        "h": "यजुर्वेद के मन्त्र / यजुर्-सूत्र (यजुस्, नपुंसकलिंग, प्रथमा बहुवचन)",
+        "e": "the Yajur formulas (nom. pl. of yajus)"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परमतत्त्व (ब्रह्मणा = तृतीया — 'ब्रह्म से')",
+        "e": "Brahman / the Absolute (brahmaṇā = instrumental — 'by Brahman')"
+      },
+      {
+        "s": "वेदाः",
+        "h": "वेद / शास्त्र (वेद, पुल्लिंग, प्रथमा बहुवचन)",
+        "e": "the Vedas (nom. pl. of veda)"
       }
     ],
-    "gr": "<strong>Multiple correspondences of the vyāhṛtis</strong>: this mantra extends the vyāhṛti meditation to two more domains — luminaries and the Vedas — showing that the same four-fold structure permeates everything. <strong>Luminaries correspondence</strong>: bhūḥ = agni (fire), bhuvaḥ = vāyu (wind), suvaḥ = āditya (sun), mahaḥ = candramā (moon). <em>Note the shift</em>: in mantra 8, mahaḥ = āditya (sun). Here, mahaḥ = candramā (moon) while suvaḥ = āditya. The Taittirīya is not being inconsistent — it is showing that the correspondences are MULTIPLE. The same vyāhṛti can map to different realities in different contexts. <strong>Vedic correspondence</strong>: bhūḥ = ṛcaḥ (Ṛg verses), bhuvaḥ = sāmāni (Sāma chants), suvaḥ = yajūṁṣi (Yajur formulas), mahaḥ = brahma (Brahman/OM). This maps the four vyāhṛtis onto the three Vedas plus the transcendent principle. <strong>The magnification principle</strong>: 'candramasā sarvāṇi jyotīṁṣi mahīyante' — by the moon all luminaries are magnified. 'Brahmaṇā sarve vedāḥ mahīyante' — by Brahman all Vedas are magnified. In each domain, the fourth (mahaḥ) magnifies the other three — just as the sun magnified the three worlds in mantra 8.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र व्याहृति-ध्यान का विस्तार है — दो नये क्षेत्रों (ज्योतियाँ एवं वेद) में वही चतुष्क संरचना। संरचना समानान्तर उपवाक्यों की शृंखला है — 'भूरिति वा X, भुव इति Y, सुवरिति Z, मह इति W' — प्रत्येक खण्ड में एक व्याहृति = एक तत्त्व। <strong>ज्योति-अनुक्रम:</strong> भूः = अग्निः, भुवः = वायुः, सुवः = आदित्यः, महः = चन्द्रमाः — सभी प्रथमा विभक्ति (अभेद-बोधक — 'भूः = अग्नि')। 'चन्द्रमसा' = चन्द्रमस् शब्द, तृतीया एकवचन (करण कारक — 'चन्द्रमा के द्वारा')। 'सर्वाणि' = सर्व, नपुंसकलिंग, प्रथमा बहुवचन ('ज्योतींषि' के अनुसार)। 'ज्योतींषि' = ज्योतिस् शब्द, नपुंसकलिंग, प्रथमा बहुवचन (विशेष रूप — इस् → ईमिसि)। <strong>वेद-अनुक्रम:</strong> भूः = ऋचः (स्त्रीलिंग बहुवचन), भुवः = सामानि (नपुंसकलिंग बहुवचन), सुवः = यजूंषि (नपुंसकलिंग बहुवचन), महः = ब्रह्म। 'ब्रह्मणा' = ब्रह्मन् शब्द, तृतीया एकवचन (नपुंसकलिंग, करण कारक)। 'सर्वे वेदाः' = पुल्लिंग, प्रथमा बहुवचन। विशेष — मन्त्र ८ में महः = आदित्य (सूर्य), यहाँ महः = चन्द्रमा — यह विरोधाभास नहीं; वैदिक बहु-बन्धु (multiple bandhu) पद्धति है — एक ही प्रतीकात्मक स्थान भिन्न ध्यान-क्षेत्रों में भिन्न तत्त्वों से भर सकता है। <br><em>Eng:</em> The mantra extends the vyāhṛti meditation to two more domains through parallel nominative-predication structures. Key forms: 'candramasā' (instrumental sg. of candramas), 'jyotīṁṣi' (nom. pl. neuter of jyotis with special declension), 'ṛcaḥ' (nom. pl. fem. of ṛc), 'brahmaṇā' (instrumental sg. neuter of brahman). The shift from mahaḥ = āditya (mantra 8) to mahaḥ = candramā here demonstrates the Vedic method of multiple bandhu — the same symbolic position maps to different realities in different meditation contexts.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -189,11 +514,11 @@
     "dp": [
       {
         "q": "🔍 Multiple correspondences — the Vedic web of meaning",
-        "a": "The Taittirīya's treatment of the vyāhṛtis across <strong>multiple correspondence systems</strong> illustrates a fundamental Vedic method — the construction of <em>bandhu</em> (cosmic correspondences): <strong>The three-plus-one pattern</strong>: in each system, three elements are mapped to bhūḥ-bhuvaḥ-suvaḥ, and a fourth to mahaḥ. The fourth always <em>magnifies</em> the three. This is the same structure as: (a) The three states of consciousness (waking, dreaming, sleep) + turīya (the fourth) in the Māṇḍūkya. (b) The three syllables of OM (a, u, m) + the silence (amātra) in the Māṇḍūkya. (c) The three guṇas (sattva, rajas, tamas) + the guṇa-transcendent (nirguṇa) in the Gītā. <strong>The shifting mappings</strong>: mantra 8 says mahaḥ = āditya (sun). Mantra 9 says mahaḥ = candramā (moon). This is not a contradiction but the Vedic method of <em>multiple bandhu</em>: the same symbolic position can be filled by different realities depending on the domain of meditation. The sun magnifies the three worlds (by illumination); the moon magnifies the three luminaries (by reflection and cyclical time). Both are valid fourth principles. <strong>Why this matters</strong>: the Taittirīya is training the student in a way of SEEING — not fixing rigid correspondences but learning to recognise the same structural pattern across every domain of experience. This is not arbitrary symbolism but a systematic method of finding unity beneath diversity."
+        "a": "<strong>बहु-बन्धु — वैदिक अर्थ-जाल:</strong> तैत्तिरीय का व्याहृतियों को <strong>अनेक संवाद-तन्त्रों</strong> (correspondence systems) में प्रस्तुत करना वैदिक चिन्तन की एक मूलभूत विधि — <em>बन्धु</em> (ब्रह्माण्डीय संवाद) की रचना — को दर्शाता है। <strong>तीन-और-एक प्रतिमान:</strong> प्रत्येक तन्त्र में तीन तत्त्व भूः-भुवः-सुवः से, और चौथा महः से जुड़ता है। चौथा सदा तीनों को <em>महान् बनाता</em> (magnifies) है। यही संरचना अन्यत्र भी है: (अ) चेतना की तीन अवस्थाएँ (जाग्रत, स्वप्न, सुषुप्ति) + तुरीय (चौथी) — माण्डूक्य में। (ब) ॐ के तीन अक्षर (अ, उ, म्) + मौन (अमात्रा) — माण्डूक्य में। (स) तीन गुण (सत्त्व, रजस्, तमस्) + गुणातीत (निर्गुण) — गीता में। <strong>बदलते मानचित्र:</strong> मन्त्र ८ कहता है महः = आदित्य (सूर्य)। मन्त्र ९ कहता है महः = चन्द्रमा (moon)। यह विरोधाभास नहीं बल्कि वैदिक <em>बहु-बन्धु</em> विधि है — एक ही प्रतीकात्मक स्थान ध्यान-क्षेत्र के अनुसार भिन्न सत्ताओं से भरा जा सकता है। सूर्य तीन लोकों को प्रकाश द्वारा महान् बनाता है; चन्द्रमा तीन ज्योतियों को परावर्तन और चक्रीय काल द्वारा महान् बनाता है। दोनों वैध चतुर्थ सिद्धान्त हैं। <strong>महत्त्व:</strong> तैत्तिरीय शिष्य को <em>देखने की विधि</em> सिखा रही है — कठोर संवाद स्थिर करने की नहीं, बल्कि अनुभव के प्रत्येक क्षेत्र में एक ही संरचनात्मक प्रतिमान (structural pattern) पहचानने की। यह मनमाना प्रतीकवाद नहीं, विविधता में एकता खोजने की सुव्यवस्थित विधि है।<br><br><em>Eng:</em> The Taittirīya's treatment of the vyāhṛtis across multiple correspondence systems illustrates the Vedic bandhu (cosmic correspondence) method. The three-plus-one pattern recurs in the Māṇḍūkya (three states + turīya), OM (a, u, m + silence), and the Gītā (three guṇas + nirguṇa). The shift from mahaḥ = āditya (mantra 8) to mahaḥ = candramā (mantra 9) is not contradiction but the Vedic method of multiple bandhu — the same symbolic position maps to different realities by domain. The student is trained to recognise structural patterns across every domain, not to fix rigid correspondences."
       },
       {
         "q": "🔍 The three Vedas and Brahman — speech becoming silence",
-        "a": "The mapping <strong>bhūḥ = Ṛg, bhuvaḥ = Sāma, suvaḥ = Yajur, mahaḥ = Brahman</strong> encodes a profound teaching about the relationship between scripture and reality: <strong>The three Vedas</strong>: (1) <em>Ṛg Veda</em> (ṛcaḥ — verses): the Veda of praise — hymns to the deities, recited. The oldest and most fundamental. (2) <em>Sāma Veda</em> (sāmāni — chants): the Veda of melody — Ṛg Vedic verses set to musical patterns. The Chāndogya Upanishad (1.1.1): 'the essence of all beings is earth; the essence of earth is water; the essence of water is plants; the essence of plants is the human being; the essence of the human being is speech; the essence of speech is the Ṛg; the essence of the Ṛg is the Sāman.' (3) <em>Yajur Veda</em> (yajūṁṣi — formulas): the Veda of ritual action — prose formulas guiding the performance of sacrifice. The Taittirīya Upanishad itself belongs to this Veda. <strong>Brahman as the fourth</strong>: the three Vedas are scripture — words, chants, formulas. Brahman is what they all point to — the reality beyond the words. 'Brahmaṇā sarve vedāḥ mahīyante' — by Brahman all the Vedas are magnified. Without Brahman, the Vedas would be mere sounds; with Brahman, they become vehicles of liberation. <strong>The deeper teaching</strong>: the three Vedas are like the three vyāhṛtis — they map the structured cosmos. Brahman is the fourth — the silence that gives meaning to the sound, the reality that gives power to the word."
+        "a": "<strong>तीन वेद और ब्रह्म — वाणी से मौन की ओर:</strong> 'भूः = ऋक्, भुवः = साम, सुवः = यजुः, महः = ब्रह्म' — यह मानचित्रण शास्त्र और सत्ता के सम्बन्ध पर गहन शिक्षा देता है। <strong>तीन वेद:</strong> (१) <em>ऋग्वेद</em> (ऋचः — मन्त्र): स्तुति-वेद — देवताओं की स्तुतियाँ, पठनीय। सबसे प्राचीन और मूलभूत। (२) <em>सामवेद</em> (सामानि — गान): सुर-वेद — ऋग्वैदिक मन्त्रों को संगीतबद्ध किया। छान्दोग्य (१.१.१): 'समस्त प्राणियों का सार पृथ्वी; पृथ्वी का सार जल; ... वाक् का सार ऋक्; ऋक् का सार साम।' (३) <em>यजुर्वेद</em> (यजूंषि — सूत्र): कर्म-वेद — यज्ञ-क्रियाओं के मार्गदर्शक गद्य-सूत्र। स्वयं तैत्तिरीय उपनिषद् इसी वेद से सम्बद्ध है। <strong>चतुर्थ रूप में ब्रह्म:</strong> तीन वेद = शास्त्र — शब्द, गान, विधि। ब्रह्म = वह सत्ता जिसकी ओर सब शास्त्र संकेत करते हैं — शब्दों से परे की वास्तविकता। 'ब्रह्मणा सर्वे वेदाः महीयन्ते' — ब्रह्म से सब वेद महान् बनते हैं। ब्रह्म के बिना वेद केवल ध्वनि होते; ब्रह्म के साथ वे मोक्ष-वाहक बन जाते हैं। <strong>गहन शिक्षा:</strong> तीन वेद = तीन व्याहृतियों की भाँति — व्यवस्थित ब्रह्माण्ड का मानचित्र। ब्रह्म = चौथा — वह मौन जो ध्वनि को अर्थ देता है, वह सत्ता जो शब्द को शक्ति देती है।<br><br><em>Eng:</em> The mapping bhūḥ = Ṛg, bhuvaḥ = Sāma, suvaḥ = Yajur, mahaḥ = Brahman encodes a teaching about scripture and reality. The three Vedas are words, melodies, and formulas; Brahman is the reality they all point to — 'brahmaṇā sarve vedāḥ mahīyante.' Without Brahman, the Vedas would be mere sounds; with Brahman, they become vehicles of liberation. The Taittirīya itself belongs to the Yajur Veda. The three Vedas map the structured cosmos; Brahman is the fourth — the silence that gives meaning to the sound."
       }
     ]
   },
@@ -205,32 +530,137 @@
     "en": "'Bhūḥ' is prāṇa (the out-breath). 'Bhuvaḥ' is apāna (the in-breath). 'Suvaḥ' is vyāna (the diffused breath). 'Mahaḥ' is anna (food). By food indeed are all the vital breaths (prāṇāḥ) magnified. These four vyāhṛtis are fourfold, four by four (catasraḥ caturdhā catasraḥ catasraḥ). He who knows them — he knows Brahman. All the deities bring tribute (bali) to him.",
     "ws": [
       {
+        "s": "भूः",
+        "h": "भूलोक / पृथ्वी (प्रथम व्याहृति)",
+        "e": "earth / first vyāhṛti"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार (निर्देशक अव्यय)",
+        "e": "thus / so (quotative particle)"
+      },
+      {
+        "s": "वै",
+        "h": "निश्चय से / सत्य ही (अवधारणार्थक अव्यय)",
+        "e": "indeed / truly (emphatic particle)"
+      },
+      {
         "s": "प्राणः",
-        "h": "प्राण-वायु / out-breath / exhalation",
-        "e": "the out-breath / exhalation"
+        "h": "प्राण-वायु / उच्छ्वास (प्राणाः = बहुवचन — समस्त प्राण)",
+        "e": "the out-breath / vital breath (prāṇāḥ = pl., all vital breaths)"
+      },
+      {
+        "s": "भुवः",
+        "h": "भुवर्लोक / अन्तरिक्ष (द्वितीय व्याहृति)",
+        "e": "atmosphere / second vyāhṛti"
       },
       {
         "s": "अपानः",
-        "h": "अपान-वायु / in-breath / downward breath",
+        "h": "अपान-वायु / निश्वास / अधोगामी प्राण",
         "e": "the in-breath / downward breath"
       },
       {
+        "s": "सुवः",
+        "h": "स्वर्लोक / स्वर्ग (तृतीय व्याहृति)",
+        "e": "heaven / third vyāhṛti"
+      },
+      {
         "s": "व्यानः",
-        "h": "व्यान-वायु / diffused breath / the pervading breath",
-        "e": "the diffused/pervading breath"
+        "h": "व्यान-वायु / व्यापक प्राण / समस्त शरीर में व्याप्त",
+        "e": "the diffused breath / the pervading vital air"
+      },
+      {
+        "s": "महः",
+        "h": "महान् / महत्त्व (चतुर्थ व्याहृति)",
+        "e": "the Great / fourth vyāhṛti"
       },
       {
         "s": "अन्नम्",
-        "h": "अन्न / भोजन / food",
-        "e": "food"
+        "h": "अन्न / भोजन / आहार (अन्नेन = तृतीया — 'अन्न से')",
+        "e": "food (annena = instrumental — 'by food')"
+      },
+      {
+        "s": "वाव",
+        "h": "निश्चय ही / वास्तव में (बलदायक अव्यय)",
+        "e": "indeed / certainly (strong emphatic particle)"
+      },
+      {
+        "s": "सर्वे",
+        "h": "सब / समस्त (सर्व, पुल्लिंग, प्रथमा बहुवचन)",
+        "e": "all (nom. pl. masc. of sarva)"
+      },
+      {
+        "s": "महीयन्ते",
+        "h": "महान् बनते हैं / पोषित होते हैं",
+        "e": "are magnified / become great"
+      },
+      {
+        "s": "ताः",
+        "h": "वे (तद् सर्वनाम, स्त्रीलिंग, प्रथमा बहुवचन; एताः = ये)",
+        "e": "those / these (nom. pl. fem. of tad; etāḥ = these)"
+      },
+      {
+        "s": "वा",
+        "h": "निश्चय से / वास्तव में",
+        "e": "indeed / verily (emphatic particle)"
+      },
+      {
+        "s": "चतस्रः",
+        "h": "चार (चतुर्, स्त्रीलिंग, प्रथमा बहुवचन — विशेष रूप)",
+        "e": "four (nom. pl. fem. of catur — special form)"
+      },
+      {
+        "s": "चतुर्धा",
+        "h": "चार प्रकार से / चार-चार भागों में (अव्यय)",
+        "e": "fourfold / in four ways (indeclinable)"
+      },
+      {
+        "s": "व्याहृतयः",
+        "h": "पवित्र उद्गार (स्त्रीलिंग, प्रथमा बहुवचन)",
+        "e": "sacred utterances (nom. pl. of vyāhṛti)"
+      },
+      {
+        "s": "यः",
+        "h": "जो (यद् सर्वनाम, पुल्लिंग, प्रथमा एकवचन)",
+        "e": "who / whoever (rel. pronoun nom. sg. masc.)"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है (विद् धातु, लट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "knows (3rd sg. present of √vid — perfect-present)"
+      },
+      {
+        "s": "सः",
+        "h": "वह (तद् सर्वनाम, पुल्लिंग, प्रथमा एकवचन)",
+        "e": "he (nom. sg. masc. of tad)"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परमतत्त्व",
+        "e": "Brahman / the Absolute"
+      },
+      {
+        "s": "अस्मै",
+        "h": "इसे / इसके लिए (इदम् सर्वनाम, पुल्लिंग, चतुर्थी एकवचन)",
+        "e": "to him (dat. sg. masc. of idam)"
+      },
+      {
+        "s": "देवाः",
+        "h": "देवता / देवगण (देव, पुल्लिंग, प्रथमा बहुवचन)",
+        "e": "the gods / deities (nom. pl. of deva)"
       },
       {
         "s": "बलिम्",
-        "h": "बलि / उपहार / tribute / offering",
-        "e": "tribute / offering"
+        "h": "बलि / उपहार / नैवेद्य (द्वितीया एकवचन)",
+        "e": "tribute / offering (acc. sg.)"
+      },
+      {
+        "s": "आवहन्ति",
+        "h": "लाते हैं / अर्पित करते हैं (आ + वह् धातु, लट् लकार, प्रथम पुरुष बहुवचन)",
+        "e": "they bring / they offer (3rd pl. present of ā+√vah)"
       }
     ],
-    "gr": "<strong>Breaths and food — the final correspondence, and the synthesis</strong>: this mantra completes the vyāhṛti meditation with two more mappings: the vital breaths and food. <strong>The prāṇa correspondence</strong>: bhūḥ = prāṇa (out-breath), bhuvaḥ = apāna (in-breath), suvaḥ = vyāna (diffused breath), mahaḥ = anna (food). Food magnifies all the breaths — without food, the prāṇas cannot function. <strong>The synthesis</strong>: 'catasraḥ caturdhā catasraḥ catasraḥ' — the four vyāhṛtis are fourfold, four times four: (1) Worlds: earth, atmosphere, heaven, sun. (2) Elements: fire, wind, sun, moon. (3) Vedas: Ṛg, Sāma, Yajur, Brahman. (4) Breaths: prāṇa, apāna, vyāna, anna. Total: 4 vyāhṛtis × 4 contexts = 16 correspondences. <strong>The phala-śruti</strong>: 'he who knows them knows Brahman — all deities bring tribute to him.' This is the most exalted reward possible — not just personal benefit but COSMIC SOVEREIGNTY. The knower of Brahman becomes the centre to which all cosmic forces (deities) gravitate. <strong>The food-prāṇa connection</strong>: the identification mahaḥ = anna (food) is deeply characteristic of the Taittirīya. This Upanishad will develop an entire philosophy of food — from 'annaṁ brahmeti vyajānāt' (3.2) to 'annaṁ na nindyāt' (3.7-9). Food is not 'mere' matter — it is the sustainer of life, the fourth principle that magnifies the other three.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र व्याहृति-ध्यान का अन्तिम चरण है — प्राण-क्षेत्र का मानचित्रण, संश्लेषण (synthesis), और फल-श्रुति। संरचना तीन भागों में है — (१) प्राण-अनुक्रम, (२) ४×४ संश्लेषण, (३) ज्ञान-फल। <strong>प्राण-अनुक्रम:</strong> भूः = प्राणः, भुवः = अपानः, सुवः = व्यानः, महः = अन्नम् — सभी प्रथमा विभक्ति में अभेद-बोधक। 'अन्नेन' = अन्न शब्द, तृतीया एकवचन (करण कारक — 'अन्न के द्वारा')। <strong>संश्लेषण:</strong> 'चतस्रः' = चतुर् शब्द, स्त्रीलिंग, प्रथमा बहुवचन (विशेष रूप — पुल्लिंग 'चत्वारः' से भिन्न)। 'चतुर्धा' = अव्यय ('चार प्रकार से')। 'चतस्रः चतुर्धा चतस्रः चतस्रः व्याहृतयः' = \"चार व्याहृतियाँ चार-चार भागों में चार-चार हैं\" — अर्थात् ४ × ४ = १६ संवाद। <strong>फल-श्रुति:</strong> 'यः वेद सः वेद ब्रह्म' — 'विद्' धातु दो बार प्रयुक्त — प्रथम विद् = \"जानता है (इन व्याहृतियों को)\", द्वितीय विद् = \"जानता है (ब्रह्म को)\"। 'अस्मै' = इदम् सर्वनाम, पुल्लिंग, चतुर्थी एकवचन (सम्प्रदान कारक — 'इसके लिए / इसे')। 'देवाः' = देव शब्द, प्रथमा बहुवचन (कर्ता)। 'बलिम्' = बलि शब्द, द्वितीया एकवचन (कर्म)। 'आवहन्ति' = आ + वह् (ले जाना), लट् लकार, प्रथम पुरुष बहुवचन (परस्मैपद)। <br><em>Eng:</em> The mantra completes the vyāhṛti meditation with the prāṇa mapping and a grand synthesis. 'Catasraḥ' is the special feminine nominative plural of catur. 'Caturdhā' is an indeclinable adverb. 'Veda' (from √vid) functions as a perfect-present ('knows'). 'Asmai' is dative singular of idam (to him). 'Āvahanti' is 3rd plural present of ā+√vah. The phala-śruti declares cosmic sovereignty for the knower of the 4×4 = 16 correspondences.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -255,11 +685,11 @@
     "dp": [
       {
         "q": "🔍 Anna (food) as the fourth principle — the Taittirīya's distinctive teaching",
-        "a": "The identification <strong>mahaḥ = anna (food)</strong> in the prāṇa-context introduces what will become the Taittirīya's most distinctive philosophical contribution — the elevation of <em>food</em> to a cosmic and spiritual principle: <strong>Why food?</strong> In the prāṇa-mapping, the three breaths (prāṇa, apāna, vyāna) are the life-forces that animate the body. But without food, the breaths weaken and die. Food is the MATERIAL BASIS of all life-force. It is the fourth principle that 'magnifies' the other three — just as Brahman magnifies the three Vedas, and the sun magnifies the three worlds. <strong>The Taittirīya's food philosophy</strong>: this theme will be developed through the rest of the Upanishad: (a) <em>Brahmānandavallī 2.2</em>: 'From food (anna) indeed are all beings born; having been born, by food they live; departing, into food they enter.' (b) <em>Bhṛguvallī 3.2</em>: 'annaṁ brahmeti vyajānāt' — Bhṛgu's first realisation: 'food is Brahman.' (c) <em>Bhṛguvallī 3.7-10</em>: 'annaṁ na nindyāt' — 'do not despise food'; 'annaṁ na paricakṣīta' — 'do not reject food'; 'annaṁ bahu kurvīta' — 'make food abundant.' <strong>The philosophical implication</strong>: the Taittirīya refuses to treat matter/food as 'low' or 'unspiritual.' Food is not the opposite of spirit — it is spirit's material foundation. This is a remarkably life-affirming, world-affirming teaching — the sacred and the material are not at war but in a relationship of mutual sustenance. The body needs food; the soul expresses itself through the body; therefore food is sacred."
+        "a": "<strong>अन्न (भोजन) = चतुर्थ सिद्धान्त — तैत्तिरीय की विशिष्ट शिक्षा:</strong> प्राण-संवाद में <strong>महः = अन्न</strong> (भोजन) की अभिन्नता तैत्तिरीय के सबसे विशिष्ट दार्शनिक योगदान का सूत्रपात करती है — <em>अन्न</em> को ब्रह्माण्डीय और आध्यात्मिक सिद्धान्त के स्तर पर प्रतिष्ठित करना। <strong>अन्न क्यों?</strong> प्राण-मानचित्रण में तीन प्राण (प्राण, अपान, व्यान) = शरीर को चेतन रखने वाली जीवन-शक्तियाँ। किन्तु अन्न के बिना प्राण दुर्बल होकर नष्ट हो जाते हैं। अन्न = समस्त जीवन-शक्ति का <em>भौतिक आधार</em>। वही चतुर्थ सिद्धान्त है जो शेष तीनों को 'महान् बनाता है' — ठीक जैसे ब्रह्म तीन वेदों को, और सूर्य तीन लोकों को महान् बनाता है। <strong>तैत्तिरीय का अन्न-दर्शन:</strong> यह विषय शेष उपनिषद् में विकसित होगा: (अ) <em>ब्रह्मानन्दवल्ली २.२</em>: 'अन्नाद्वै प्रजाः प्रजायन्ते' — अन्न से ही सब प्राणी उत्पन्न होते हैं; उत्पन्न होकर अन्न से जीते हैं; प्रस्थान करते हुए अन्न में ही प्रवेश करते हैं। (ब) <em>भृगुवल्ली ३.२</em>: 'अन्नं ब्रह्मेति व्यजानात्' — भृगु की प्रथम अनुभूति: 'अन्न ब्रह्म है।' (स) <em>भृगुवल्ली ३.७-१०</em>: 'अन्नं न निन्द्यात्' (अन्न की निन्दा न करो); 'अन्नं न परिचक्षीत' (अन्न का तिरस्कार न करो); 'अन्नं बहु कुर्वीत' (अन्न प्रचुर बनाओ)। <strong>दार्शनिक निहितार्थ:</strong> तैत्तिरीय पदार्थ/अन्न को 'निम्न' या 'अनाध्यात्मिक' मानने से इनकार करती है। अन्न आत्मा का विरोधी नहीं — वह आत्मा का भौतिक आधार है। यह उल्लेखनीय रूप से जीवन-सकारात्मक, संसार-सकारात्मक शिक्षा है — पवित्र और भौतिक परस्पर विरोध में नहीं बल्कि पारस्परिक पोषण के सम्बन्ध में हैं।<br><br><em>Eng:</em> The identification mahaḥ = anna (food) in the prāṇa context introduces the Taittirīya's most distinctive philosophical contribution — the elevation of food to a cosmic and spiritual principle. Without food the three breaths fail; food is the material basis of all life-force. This theme develops throughout the Upanishad: 'from food all beings are born' (2.2), 'food is Brahman' (Bhṛgu's first realization, 3.2), 'do not despise food' (3.7-10). The Taittirīya refuses to treat matter/food as unspiritual — food is spirit's material foundation, a remarkably life-affirming teaching."
       },
       {
         "q": "🔍 The 4×4 matrix — cosmic sovereignty through knowledge",
-        "a": "The synthesis <strong>'catasraḥ caturdhā catasraḥ catasraḥ'</strong> (four fourfold, four by four) reveals the Taittirīya's systematic approach to cosmic knowledge: <strong>The complete matrix</strong>: 4 vyāhṛtis × 4 domains = 16 correspondences: (1) <em>Worlds</em>: bhūḥ = earth, bhuvaḥ = atmosphere, suvaḥ = heaven, mahaḥ = sun. (2) <em>Elements</em>: bhūḥ = fire, bhuvaḥ = wind, suvaḥ = sun, mahaḥ = moon. (3) <em>Vedas</em>: bhūḥ = Ṛg, bhuvaḥ = Sāma, suvaḥ = Yajur, mahaḥ = Brahman. (4) <em>Breaths</em>: bhūḥ = prāṇa, bhuvaḥ = apāna, suvaḥ = vyāna, mahaḥ = food. <strong>The teaching method</strong>: the student is asked to hold ALL 16 correspondences simultaneously — to see that when they chant 'bhūḥ,' they are invoking earth AND fire AND Ṛg Veda AND prāṇa all at once. The single syllable contains four realities. <strong>The reward: cosmic sovereignty</strong>: 'sarve asmai devāḥ balim āvahanti' — all deities bring tribute to the knower. This is the Upanishadic concept of <em>jñāna-phala</em> (the fruit of knowledge): knowledge doesn't just inform — it <em>transforms</em>. The knower of the 16 correspondences becomes a 'junction point' (cf. the saṁhitā meditation) where all cosmic forces converge. The deities don't serve the knower out of submission but because the knower has BECOME the centre of the cosmic web — understanding the connections makes you the connection."
+        "a": "<strong>४×४ आव्यूह — ज्ञान से ब्रह्माण्डीय सार्वभौमता:</strong> 'चतस्रश्चतुर्धा चतस्रश्चतस्रो व्याहृतयः' (चार-चार, चार प्रकार, चार-चार व्याहृतियाँ) — यह संश्लेषण तैत्तिरीय की ब्रह्माण्डीय ज्ञान-पद्धति को प्रकट करता है। <strong>सम्पूर्ण आव्यूह (matrix):</strong> ४ व्याहृतियाँ × ४ क्षेत्र = १६ संवाद: (१) <em>लोक</em>: भूः = पृथ्वी, भुवः = अन्तरिक्ष, सुवः = स्वर्ग, महः = सूर्य। (२) <em>ज्योतियाँ</em>: भूः = अग्नि, भुवः = वायु, सुवः = सूर्य, महः = चन्द्रमा। (३) <em>वेद</em>: भूः = ऋक्, भुवः = साम, सुवः = यजुः, महः = ब्रह्म। (४) <em>प्राण</em>: भूः = प्राण, भुवः = अपान, सुवः = व्यान, महः = अन्न। <strong>अध्ययन-विधि:</strong> शिष्य को सभी १६ संवाद एक साथ धारण करने हैं — देखना है कि जब 'भूः' का उच्चारण करे, तो एक साथ पृथ्वी और अग्नि और ऋग्वेद और प्राण — चारों सत्ताओं का आह्वान हो। एक अक्षर में चार सत्ताएँ। <strong>फल: ब्रह्माण्डीय सार्वभौमता:</strong> 'सर्वे अस्मै देवाः बलिम् आवहन्ति' — समस्त देवता ज्ञानी को बलि (उपहार) लाते हैं। यह सर्वोच्च सम्भव पुरस्कार है — केवल व्यक्तिगत लाभ नहीं बल्कि ब्रह्माण्डीय सार्वभौमता। ज्ञानी उस ब्रह्माण्डीय जाल का केन्द्रबिन्दु बन जाता है (जैसे संहिता-ध्यान में सन्धि-स्थल) जहाँ सब ब्रह्माण्डीय शक्तियाँ अभिसरित होती हैं। देवता ज्ञानी की सेवा अधीनता से नहीं करते, बल्कि इसलिए कि ज्ञानी ब्रह्माण्डीय जाल का <em>सम्पर्क-बिन्दु</em> बन चुका है — संवादों को समझना ही संवाद बनना है।<br><br><em>Eng:</em> The synthesis 'catasraḥ caturdhā catasraḥ catasraḥ' reveals a 4×4 = 16 correspondence matrix across worlds, luminaries, Vedas, and breaths. The student must hold all 16 simultaneously — chanting 'bhūḥ' invokes earth, fire, Ṛg Veda, and prāṇa at once. The reward is cosmic sovereignty: 'sarve asmai devāḥ balim āvahanti' — all deities bring tribute. The knower becomes the junction point (cf. saṁhitā meditation) where cosmic forces converge — understanding the connections makes you the connection."
       }
     ]
   },
@@ -271,32 +701,157 @@
     "en": "OM is Brahman. OM is this entire universe (idaṁ sarvam). OM — this is [the syllable of] compliance (anukṛti): when they say 'OM, śrāvaya' ('make them hear'), they make the gods hear. With OM they sing the Sāma chants. With 'OM, śom' they recite the śastra recitations. With OM the adhvaryu priest gives the response (pratigara). With OM the Brahman-priest gives permission (prasauti). With OM one permits the agnihotra (fire-offering). With OM a Brahmin about to recite (pravakṣyan) says: 'May I attain Brahman (brahma upāpnavāni).' He attains Brahman indeed (brahma eva upāpnoti).",
     "ws": [
       {
+        "s": "ॐ",
+        "h": "प्रणव / परब्रह्म का वाचक / ओंकार",
+        "e": "the sacred syllable Om / symbol of Brahman"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार / ऐसा (निर्देशक अव्यय)",
+        "e": "thus / so (quotative particle)"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परमतत्त्व / परम सत्ता",
+        "e": "Brahman / the Absolute"
+      },
+      {
+        "s": "इदम्",
+        "h": "यह (इदम् सर्वनाम, नपुंसकलिंग, प्रथमा एकवचन)",
+        "e": "this (nom. sg. neuter of idam)"
+      },
+      {
+        "s": "सर्वम्",
+        "h": "सब / सम्पूर्ण (सर्व, नपुंसकलिंग, प्रथमा एकवचन)",
+        "e": "all / everything / the entire universe (nom. sg. neuter)"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह (एतद् सर्वनाम, नपुंसकलिंग, प्रथमा एकवचन)",
+        "e": "this (nom. sg. neuter of etad)"
+      },
+      {
         "s": "अनुकृतिः",
-        "h": "अनुकरण / अनुमोदन / compliance / imitation / approval",
-        "e": "compliance / imitation / approval"
+        "h": "अनुकरण / अनुमोदन / स्वीकृति-सूचक (स्त्रीलिंग)",
+        "e": "compliance / imitation / the syllable of assent"
+      },
+      {
+        "s": "ह स्म",
+        "h": "निश्चय ही (बलदायक अव्यय-युग्म — प्राचीन रूढ़ि)",
+        "e": "indeed / of old (emphatic particle pair)"
+      },
+      {
+        "s": "वा",
+        "h": "निश्चय से / वास्तव में",
+        "e": "indeed / verily (emphatic particle)"
+      },
+      {
+        "s": "अपि",
+        "h": "भी / और भी (अव्यय)",
+        "e": "also / even / moreover (indeclinable)"
+      },
+      {
+        "s": "श्रावय",
+        "h": "सुनाओ / सुनवाओ (श्रु धातु, णिजन्त, लोट् लकार, मध्यम पुरुष)",
+        "e": "make [them] hear (causative imperative of √śru)"
+      },
+      {
+        "s": "आश्रावयन्ति",
+        "h": "सुनवाते हैं (आ + श्रु, णिजन्त, लट् लकार, प्रथम पुरुष बहुवचन)",
+        "e": "they make [the gods] hear (causative 3rd pl. of ā+√śru)"
+      },
+      {
+        "s": "सामानि",
+        "h": "सामवेद के गान (सामन्, नपुंसकलिंग, द्वितीया बहुवचन)",
+        "e": "the Sāma chants (acc. pl. of sāman)"
+      },
+      {
+        "s": "गायन्ति",
+        "h": "गाते हैं (गै धातु, लट् लकार, प्रथम पुरुष बहुवचन)",
+        "e": "they sing (3rd pl. present of √gai)"
+      },
+      {
+        "s": "शोम्",
+        "h": "'शोम्' (साम-पाठ में प्रयुक्त विशेष ध्वनि)",
+        "e": "'śom' (ritual syllable used in śastra recitation)"
+      },
+      {
+        "s": "शस्त्राणि",
+        "h": "शस्त्र-पाठ / स्तोत्र-उच्चारण (शस्त्र, नपुंसकलिंग, द्वितीया बहुवचन)",
+        "e": "the śastra recitations / laudatory hymns (acc. pl.)"
+      },
+      {
+        "s": "शंसन्ति",
+        "h": "पाठ करते हैं / उच्चारित करते हैं (शंस् धातु, लट् लकार, प्रथम पुरुष बहुवचन)",
+        "e": "they recite (3rd pl. present of √śaṁs)"
       },
       {
         "s": "अध्वर्युः",
-        "h": "यजुर्-पुरोहित / the Yajur priest",
-        "e": "the Yajur priest"
+        "h": "अध्वर्यु / यजुर्वेदी पुरोहित (पुल्लिंग, प्रथमा एकवचन)",
+        "e": "the Adhvaryu priest / the Yajur-Veda ritualist"
+      },
+      {
+        "s": "प्रतिगरम्",
+        "h": "प्रत्युत्तर / अनुमोदन-वचन (नपुंसकलिंग, द्वितीया एकवचन)",
+        "e": "the ritual response / the reply (acc. sg.)"
+      },
+      {
+        "s": "प्रतिगृणाति",
+        "h": "प्रत्युत्तर देता है (प्रति + गृ धातु, लट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "responds / gives the counter-call (3rd sg. of prati+√gṛ)"
       },
       {
         "s": "ब्रह्मा",
-        "h": "ब्रह्मा-पुरोहित / the Brahman-priest / the supervising priest",
-        "e": "the Brahman-priest"
+        "h": "ब्रह्मा-पुरोहित / पर्यवेक्षक पुरोहित (पुल्लिंग, प्रथमा एकवचन)",
+        "e": "the Brahman-priest / the supervising priest"
+      },
+      {
+        "s": "प्रसौति",
+        "h": "अनुमति देता है / आज्ञा देता है (प्र + सू धातु, लट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "gives permission / authorizes (3rd sg. of pra+√sū)"
       },
       {
         "s": "अग्निहोत्रम्",
-        "h": "अग्निहोत्र / fire-offering",
-        "e": "the fire-offering"
+        "h": "अग्निहोत्र / दैनिक अग्नि-हवन (नपुंसकलिंग, द्वितीया एकवचन)",
+        "e": "the fire-offering / the daily fire-sacrifice (acc. sg.)"
+      },
+      {
+        "s": "अनुजानाति",
+        "h": "अनुमति देता है / स्वीकृति देता है (अनु + ज्ञा धातु, लट् लकार)",
+        "e": "permits / sanctions (3rd sg. present of anu+√jñā)"
+      },
+      {
+        "s": "ब्राह्मणः",
+        "h": "ब्राह्मण / विप्र (पुल्लिंग, प्रथमा एकवचन)",
+        "e": "a Brahmin / a learned person (nom. sg.)"
+      },
+      {
+        "s": "प्रवक्ष्यन्",
+        "h": "पढ़ने वाला / बोलने वाला (प्र + वच्, लृट् कृदन्त — 'जो बोलने को है')",
+        "e": "about to recite (future active participle of pra+√vac)"
+      },
+      {
+        "s": "आह",
+        "h": "कहता है / बोलता है (अह् धातु, लट् लकार, प्रथम पुरुष एकवचन — दोषपूरक)",
+        "e": "says / declares (defective verb, 3rd sg. of √ah)"
+      },
+      {
+        "s": "उपाप्नवानि",
+        "h": "मैं प्राप्त करूँ (उप + आप् धातु, लोट् लकार, उत्तम पुरुष एकवचन)",
+        "e": "may I attain (imperative 1st sg. of upa+ā+√āp)"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चय से (अवधारणार्थक अव्यय)",
+        "e": "indeed / verily / alone (emphatic particle)"
       },
       {
         "s": "उपाप्नोति",
-        "h": "प्राप्त करता है / attains",
-        "e": "attains / obtains"
+        "h": "प्राप्त करता है (उप + आप् धातु, लट् लकार, प्रथम पुरुष एकवचन)",
+        "e": "attains / obtains (3rd sg. present of upa+ā+√āp)"
       }
     ],
-    "gr": "<strong>OM in Vedic ritual and as Brahman</strong>: this mantra is a comprehensive survey of OM's role across the entire Vedic ritual system and its ultimate identification with Brahman. <strong>The opening declarations</strong>: (1) 'OM is Brahman' — OM IS the Absolute, not merely a symbol of it. (2) 'OM is this entire universe' — OM encompasses all reality. These echo the Māṇḍūkya Upanishad (1): 'oṁ ity etad akṣaram idaṁ sarvam.' <strong>OM in ritual</strong>: the mantra then surveys every major ritual function where OM is used: (a) The Hotṛ priest's call: 'OM śrāvaya' — make the gods hear. (b) The Udgātṛ priest: 'OM iti sāmāni gāyanti' — Sāma chants begin with OM. (c) The Hotṛ's śastra recitation: 'OM śom iti śastrāṇi śaṁsanti.' (d) The Adhvaryu's response: 'OM iti pratigaram pratigṛṇāti.' (e) The Brahmā priest's permission: 'OM iti prasauti.' (f) The agnihotra: 'OM iti anujānāti.' <strong>The culmination</strong>: a Brahmin about to recite says 'OM — may I attain Brahman.' And the text declares: 'brahma eva upāpnoti' — he attains Brahman INDEED. The intention (saṅkalpa) plus the syllable (OM) produces the result. <strong>The philosophical point</strong>: OM pervades every layer of Vedic practice — from the most elaborate śrauta ritual to the simplest daily offering. It is the one syllable common to all. And it IS Brahman — so every ritual use of OM is already a contact with the Absolute.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र ॐ की सर्वव्यापकता का निरूपण है — वैदिक कर्मकाण्ड के प्रत्येक चरण में ॐ की उपस्थिति और अन्ततः ॐ = ब्रह्म की घोषणा। संरचना तीन भागों में है — (१) ॐ = ब्रह्म = सर्वम् (दो महावाक्य-सदृश घोषणाएँ), (२) ॐ का कर्मकाण्डीय सर्वेक्षण (छः यज्ञ-प्रकार्य), (३) ब्रह्म-प्राप्ति का निश्चय। 'ॐ इति ब्रह्म' = प्रथमा विभक्ति, अभेद-सम्बन्ध ('ॐ = ब्रह्म')। 'इदं सर्वम्' = इदम् (नपुंसकलिंग, प्रथमा) + सर्वम् (विशेषण) — 'यह सम्पूर्ण [जगत्]'। 'अनुकृतिः' = अनु + कृ → अनुकृति (अनुकरण / अनुमोदन), स्त्रीलिंग, प्रथमा एकवचन। 'श्रावय' = श्रु धातु, णिजन्त (causative — 'सुनवाओ'), लोट् लकार, मध्यम पुरुष एकवचन। 'आश्रावयन्ति' = आ + श्रु, णिजन्त, लट् लकार, प्रथम पुरुष बहुवचन ('वे सुनवाते हैं')। 'गायन्ति' = गै (गाना) धातु, लट् लकार, प्रथम पुरुष बहुवचन। 'शंसन्ति' = शंस् (पाठ करना), लट्, प्रथम पुरुष बहुवचन। 'प्रतिगृणाति' = प्रति + गृ (स्वीकार करना / प्रत्युत्तर देना), लट्, प्रथम पुरुष एकवचन। 'प्रसौति' = प्र + सू (अनुमति देना / प्रेरित करना), लट्, प्रथम पुरुष एकवचन — विशेष रूप। 'अनुजानाति' = अनु + ज्ञा, लट्, प्रथम पुरुष एकवचन। 'प्रवक्ष्यन्' = प्र + वच्, लृट् कृदन्त (future active participle — 'जो बोलने वाला है')। 'उपाप्नवानि' = उप + आप् (प्राप्त करना), लोट् लकार, उत्तम पुरुष एकवचन (इच्छार्थ — 'मैं प्राप्त करूँ')। 'उपाप्नोति' = उप + आप्, लट्, प्रथम पुरुष एकवचन। 'एव' = अवधारणार्थक अव्यय ('निश्चय से / ही') — 'ब्रह्म एव उपाप्नोति' = 'ब्रह्म ही प्राप्त करता है' — निश्चय-बोधक। <br><em>Eng:</em> The mantra surveys OM across every ritual function using present-tense verbs — gāyanti (they sing, √gai), śaṁsanti (they recite, √śaṁs), pratigṛṇāti (he responds, prati+√gṛ), prasauti (he permits, pra+√sū). 'Śrāvaya' is causative imperative of √śru. 'Pravakṣyan' is a future active participle of pra+√vac. 'Upāpnavāni' is 1st sg. imperative (optative sense) of upa+ā+√āp, paired with the declarative 'upāpnoti' — the emphatic 'eva' seals the certainty of attainment.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -321,11 +876,11 @@
     "dp": [
       {
         "q": "🔍 OM across the four Vedic priests — the unifying thread",
-        "a": "The mantra's survey of OM's uses across the <strong>four main Vedic priests</strong> reveals OM as the thread that unifies all Vedic activity: <strong>The four priests and their Vedas</strong>: (1) <em>Hotṛ</em> (Ṛg Veda): the reciter — calls out 'OM śrāvaya' to begin the ritual; recites the śastra (laudatory hymns) with 'OM śom.' The Hotṛ's role is INVOCATION — calling the gods to the sacrifice. (2) <em>Udgātṛ</em> (Sāma Veda): the singer — 'sāmāni gāyanti' — sings the Sāma chants beginning with OM. The Udgātṛ's role is PRAISE through melody. (3) <em>Adhvaryu</em> (Yajur Veda): the performer — gives the pratigara (ritual response) with OM. The Adhvaryu performs the physical actions of the sacrifice — pouring oblations, arranging implements. (4) <em>Brahmā</em> (Atharva Veda / all Vedas): the silent supervisor — gives permission (prasauti) with OM. The Brahmā sits silently observing the entire ritual, intervening only to correct errors. Represents the TOTALITY of Vedic knowledge. <strong>OM as the common thread</strong>: each priest uses a different Veda, performs a different function, but ALL use OM. OM is the one syllable that cuts across all divisions — all Vedas, all priestly functions, all ritual stages. <strong>The culmination</strong>: after surveying OM in all its ritual uses, the text moves to the individual: a Brahmin about to study says OM and declares 'may I attain Brahman.' The shift from ritual to personal aspiration is seamless — because OM works at both levels."
+        "a": "<strong>ॐ — चारों वैदिक पुरोहितों में एकीकरण-सूत्र:</strong> मन्त्र का ॐ के प्रयोगों का <strong>चारों प्रमुख वैदिक पुरोहितों</strong> में सर्वेक्षण ॐ को समस्त वैदिक गतिविधि का एकीकरण-सूत्र प्रकट करता है। <strong>चार पुरोहित और उनके वेद:</strong> (१) <em>होतृ</em> (ऋग्वेद): पाठक — 'ॐ श्रावय' कहकर यज्ञ का आरम्भ करता है; 'ॐ शोम्' से शस्त्र (स्तोत्र) पढ़ता है। होतृ का कार्य = देवताओं का <em>आह्वान</em> — देवताओं को यज्ञ की ओर बुलाना। (२) <em>उद्गातृ</em> (सामवेद): गायक — 'ॐ इति सामानि गायन्ति' — ॐ से साम-गान आरम्भ करता है। उद्गातृ का कार्य = संगीत द्वारा <em>स्तुति</em>। (३) <em>अध्वर्यु</em> (यजुर्वेद): कर्मकर्ता — ॐ से प्रतिगर (कर्मकाण्डीय प्रत्युत्तर) देता है। अध्वर्यु यज्ञ की भौतिक क्रियाएँ सम्पन्न करता है — आहुति, उपकरण-व्यवस्था आदि। (४) <em>ब्रह्मा</em> (अथर्ववेद / सर्ववेद): मौन पर्यवेक्षक — ॐ से अनुमति (प्रसौति) देता है। ब्रह्मा सम्पूर्ण यज्ञ का मूक निरीक्षण करता है, केवल त्रुटि-सुधार हेतु हस्तक्षेप करता है — वैदिक ज्ञान की <em>सम्पूर्णता</em> का प्रतिनिधि। <strong>ॐ = सामान्य सूत्र:</strong> प्रत्येक पुरोहित भिन्न वेद का प्रयोग करता है, भिन्न कार्य करता है — किन्तु सबका ॐ एक ही है। ॐ वह एकमात्र अक्षर है जो सब विभाजनों को काटता है — सब वेद, सब पौरोहित्य, सब कर्मकाण्डीय चरण। <strong>समापन:</strong> पुरोहित-सर्वेक्षण के बाद मन्त्र व्यक्ति की ओर मुड़ता है — एक ब्राह्मण अध्ययन-पूर्व ॐ कहकर घोषित करता है 'ब्रह्म प्राप्त करूँ।' कर्मकाण्ड से व्यक्तिगत अभिलाषा तक का संक्रमण सहज है — क्योंकि ॐ दोनों स्तरों पर कार्य करता है।<br><br><em>Eng:</em> The mantra surveys OM's uses across the four main Vedic priests: (1) Hotṛ (Ṛg Veda) — calls 'OM śrāvaya' and recites the śastra with 'OM śom'; his role is invocation. (2) Udgātṛ (Sāma Veda) — sings the Sāma chants with OM; his role is melodic praise. (3) Adhvaryu (Yajur Veda) — gives the ritual response (pratigara) with OM; he performs the physical actions. (4) Brahmā (Atharva/all Vedas) — gives silent permission (prasauti) with OM; he supervises the whole ritual. OM is the one syllable common to all divisions. The shift from ritual to personal aspiration is seamless because OM works at both levels."
       },
       {
         "q": "🔍 'Brahma upāpnavāni — brahma eva upāpnoti' — intention and attainment",
-        "a": "The closing declaration <strong>'brahma upāpnavāni... brahma eva upāpnoti'</strong> (may I attain Brahman... he attains Brahman indeed) encapsulates a core Upanishadic teaching about the <em>power of knowledge combined with intention</em>: <strong>The mechanism</strong>: the Brahmin says OM and declares his intention: 'may I attain Brahman.' The text responds: 'he attains Brahman indeed (eva).' The 'eva' (indeed/certainly) is emphatic — there is no doubt, no maybe. The attainment is assured. <strong>Why does it work?</strong> (1) <em>OM IS Brahman</em>: the mantra has already declared 'oṁ iti brahma.' So when the Brahmin says OM, he is already in contact with Brahman. The attainment is not a future event — it is a present recognition. (2) <em>Intention (saṅkalpa)</em>: the Brahmin's declaration 'may I attain Brahman' is not a wish but a saṅkalpa — a solemn intention. In Vedic thought, saṅkalpa (directed will) is a creative force. Combined with the right knowledge (that OM = Brahman) and the right action (utterance of OM), it produces the result. (3) <em>Knowledge transforms</em>: the Upanishadic principle — 'ya evaṁ veda' (he who knows thus) — knowledge is not passive information but active transformation. To truly KNOW that OM is Brahman is to BE in Brahman. The knowing IS the attaining. <strong>The practical teaching</strong>: before beginning any recitation or study, say OM with full awareness that (a) OM is Brahman, and (b) your intention is to reach Brahman. The syllable + the knowledge + the intention = the attainment. Nothing else is needed."
+        "a": "<strong>'ब्रह्म उपाप्नवानि — ब्रह्म एव उपाप्नोति' — संकल्प और प्राप्ति:</strong> अन्तिम घोषणा <strong>'ब्रह्म उपाप्नवानि... ब्रह्म एव उपाप्नोति'</strong> ('ब्रह्म प्राप्त करूँ... ब्रह्म ही प्राप्त करता है') उपनिषदों की एक केन्द्रीय शिक्षा — <em>ज्ञान और संकल्प की मिलित शक्ति</em> — को संक्षेपित करती है। <strong>तन्त्र कैसे कार्य करता है?</strong> ब्राह्मण ॐ कहता है और अपना संकल्प व्यक्त करता है: 'ब्रह्म प्राप्त करूँ।' ग्रन्थ का उत्तर: 'वह ब्रह्म ही (एव) प्राप्त करता है।' 'एव' (निश्चय से / ही) बलदायक है — कोई सन्देह नहीं, कोई 'शायद' नहीं। प्राप्ति निश्चित है। <strong>यह क्यों कार्य करता है?</strong> (१) <em>ॐ = ब्रह्म:</em> मन्त्र पहले ही घोषित कर चुका है 'ॐ इति ब्रह्म'। अतः जब ब्राह्मण ॐ कहता है, वह ब्रह्म के सम्पर्क में पहले से है। प्राप्ति भविष्य की घटना नहीं — वर्तमान प्रत्यभिज्ञा (recognition) है। (२) <em>संकल्प (directed will):</em> ब्राह्मण की घोषणा 'ब्रह्म प्राप्त करूँ' = केवल कामना नहीं, बल्कि <em>संकल्प</em> — सप्रयोजन, दृढ़ इच्छाशक्ति। वैदिक दृष्टि में संकल्प सृजनात्मक शक्ति है — सही ज्ञान (ॐ = ब्रह्म) + सही क्रिया (ॐ-उच्चारण) + संकल्प = फल उत्पन्न करता है। (३) <em>ज्ञान रूपान्तरित करता है:</em> उपनिषदों का सिद्धान्त — 'य एवं वेद' (जो इस प्रकार जानता है) — ज्ञान निष्क्रिय सूचना नहीं, सक्रिय रूपान्तरण है। सचमुच <em>जानना</em> कि ॐ = ब्रह्म = ब्रह्म में <em>होना</em>। जानना ही प्राप्त करना है। <strong>व्यावहारिक शिक्षा:</strong> किसी भी पाठ या अध्ययन से पहले ॐ का उच्चारण करें — पूर्ण जागरूकता के साथ कि (अ) ॐ = ब्रह्म, और (ब) आपका संकल्प = ब्रह्म-प्राप्ति। अक्षर + ज्ञान + संकल्प = प्राप्ति। इसके अतिरिक्त कुछ भी आवश्यक नहीं।<br><br><em>Eng:</em> The closing 'brahma upāpnavāni... brahma eva upāpnoti' encapsulates a core Upanishadic teaching: knowledge combined with intention yields attainment. The emphatic 'eva' (indeed/certainly) leaves no doubt. It works because: (1) OM IS Brahman — saying OM already contacts Brahman; (2) the Brahmin's declaration is a saṅkalpa (directed will), a creative force in Vedic thought; (3) to truly KNOW that OM is Brahman is to BE in Brahman — the knowing IS the attaining. The practical teaching: say OM before study with full awareness that OM = Brahman and your intention is to reach Brahman. The syllable + knowledge + intention = attainment."
       }
     ]
   },
@@ -337,32 +892,127 @@
     "en": "Cosmic truth (ṛta) and self-study and teaching (svādhyāya-pravacana). Truth (satya) and self-study and teaching. Austerity (tapas) and self-study and teaching. Sense-control (dama) and self-study and teaching. Tranquility (śama) and self-study and teaching. The sacred fires (agni) and self-study and teaching. The fire-offering (agnihotra) and self-study and teaching. Hospitality to guests (atithi) and self-study and teaching. Human conduct (mānuṣa) and self-study and teaching. Progeny (prajā) and self-study and teaching. Procreation (prajana) and self-study and teaching. Propagation (prajāti) and self-study and teaching. 'Truth [is supreme]' — thus says Satyavacā Rāthītara. 'Austerity [is supreme]' — thus says Taponityā Pauruśiṣṭi. 'Self-study and teaching alone' — thus says Nāka Maudgalya — for THAT indeed is austerity, THAT indeed is austerity.",
     "ws": [
       {
-        "s": "स्वाध्यायप्रवचने",
-        "h": "स्वाध्याय और प्रवचन / self-study and teaching",
-        "e": "self-study and teaching"
+        "s": "ऋतम्",
+        "h": "ऋत / विश्व-सत्य / विश्व-व्यवस्था",
+        "e": "cosmic truth / cosmic order / ṛta"
       },
       {
-        "s": "ऋतम्",
-        "h": "ऋत / विश्व-सत्य / cosmic truth",
-        "e": "cosmic truth / cosmic order"
+        "s": "च",
+        "h": "और / तथा (समुच्चयबोधक अव्यय)",
+        "e": "and (conjunction)"
+      },
+      {
+        "s": "स्वाध्यायप्रवचने",
+        "h": "स्वाध्याय और प्रवचन (स्व + अध्याय + प्रवचन, द्वन्द्व समास, सप्तमी द्विवचन)",
+        "e": "self-study and teaching (dvandva compound, loc. dual)"
+      },
+      {
+        "s": "सत्यम्",
+        "h": "सत्य / यथार्थ / सच (नपुंसकलिंग, प्रथमा एकवचन)",
+        "e": "truth / veracity (nom. sg. neuter)"
+      },
+      {
+        "s": "तपः",
+        "h": "तप / तपस्या / कठोर साधना",
+        "e": "austerity / ascetic discipline / tapas"
       },
       {
         "s": "दमः",
-        "h": "इन्द्रिय-दमन / sense-control / self-restraint",
-        "e": "sense-control / external restraint"
+        "h": "इन्द्रिय-दमन / बाह्य संयम / आत्म-नियन्त्रण",
+        "e": "sense-control / external restraint / self-discipline"
       },
       {
         "s": "शमः",
-        "h": "शान्ति / inner tranquility / mental peace",
-        "e": "tranquility / inner peace"
+        "h": "शान्ति / आन्तरिक शान्ति / मानसिक उपशम",
+        "e": "tranquility / inner peace / mental quietude"
+      },
+      {
+        "s": "अग्नयः",
+        "h": "अग्नियाँ / पवित्र अग्नि-समूह (अग्नि, पुल्लिंग, प्रथमा बहुवचन)",
+        "e": "the sacred fires (nom. pl. of agni)"
+      },
+      {
+        "s": "अग्निहोत्रम्",
+        "h": "अग्निहोत्र / दैनिक हवन (नपुंसकलिंग, प्रथमा एकवचन)",
+        "e": "the fire-offering / daily fire-sacrifice"
+      },
+      {
+        "s": "अतिथयः",
+        "h": "अतिथि / अतिथिगण (अतिथि, पुल्लिंग, प्रथमा बहुवचन)",
+        "e": "guests / visitors deserving hospitality (nom. pl.)"
       },
       {
         "s": "मानुषम्",
-        "h": "मानवता / मानवीय आचरण / human conduct / humaneness",
-        "e": "human conduct / humaneness"
+        "h": "मानवता / मानवीय आचरण / मानवोचित व्यवहार",
+        "e": "human conduct / humaneness / social duty"
+      },
+      {
+        "s": "प्रजा",
+        "h": "सन्तान / प्रजा / सन्तति (स्त्रीलिंग, प्रथमा एकवचन)",
+        "e": "progeny / offspring (nom. sg.)"
+      },
+      {
+        "s": "प्रजनः",
+        "h": "प्रजनन-क्रिया / सन्तान-उत्पत्ति (पुल्लिंग, प्रथमा एकवचन)",
+        "e": "procreation / the act of begetting"
+      },
+      {
+        "s": "प्रजातिः",
+        "h": "वंश-वृद्धि / वंश-प्रसार / सन्तति-परम्परा (स्त्रीलिंग)",
+        "e": "propagation / lineage-continuation"
+      },
+      {
+        "s": "इति",
+        "h": "इस प्रकार / ऐसा (निर्देशक अव्यय)",
+        "e": "thus / so says (quotative particle)"
+      },
+      {
+        "s": "सत्यवचाः",
+        "h": "सत्यवादी / सत्य-वचन वाला (सत्य + वचस्, बहुव्रीहि — ऋषि का नाम)",
+        "e": "truth-speaker (bahuvrīhi: one whose speech is truth — the sage's name)"
+      },
+      {
+        "s": "राथीतरः",
+        "h": "राथीतर (रथीतर-गोत्रीय — ऋषि का कुलनाम)",
+        "e": "Rāthītara (patronymic — descendant of Rathītara)"
+      },
+      {
+        "s": "तपोनित्यः",
+        "h": "नित्य-तपस्वी / सदा तप में रत (तपस् + नित्य, बहुव्रीहि — ऋषि का नाम)",
+        "e": "ever-devoted to austerity (bahuvrīhi — the sage's name)"
+      },
+      {
+        "s": "पौरुशिष्टिः",
+        "h": "पौरुशिष्टि (पुरुशिष्ट-गोत्रीय — ऋषि का कुलनाम)",
+        "e": "Pauruśiṣṭi (patronymic — descendant of Puruśiṣṭa)"
+      },
+      {
+        "s": "एव",
+        "h": "ही / केवल / निश्चय से (अवधारणार्थक अव्यय)",
+        "e": "alone / only / indeed (emphatic particle)"
+      },
+      {
+        "s": "नाकः",
+        "h": "नाक (ऋषि का नाम — 'नाक' = आकाश/स्वर्ग)",
+        "e": "Nāka (the sage's name — lit. 'sky/heaven')"
+      },
+      {
+        "s": "मौद्गल्यः",
+        "h": "मौद्गल्य (मुद्गल-गोत्रीय — ऋषि का कुलनाम)",
+        "e": "Maudgalya (patronymic — descendant of Mudgala)"
+      },
+      {
+        "s": "तत्",
+        "h": "वह / यह (तद् सर्वनाम, नपुंसकलिंग, प्रथमा एकवचन)",
+        "e": "that / this (nom. sg. neuter of tad)"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि / निश्चय से (हेत्वर्थक / बलदायक अव्यय)",
+        "e": "for / because / indeed (causal/emphatic particle)"
       }
     ],
-    "gr": "<strong>The great litany of duties — svādhyāya-pravacana as the constant</strong>: this mantra is one of the most remarkable passages in the Upanishads — a rhythmic litany that pairs every conceivable duty with the refrain 'and self-study and teaching' (svādhyāya-pravacane ca). <strong>The structure</strong>: twelve duties are listed, each paired with svādhyāya-pravacana: (1) ṛta (cosmic truth), (2) satya (truth), (3) tapas (austerity), (4) dama (sense-control), (5) śama (tranquility), (6) agni (sacred fires), (7) agnihotra (fire-offering), (8) atithi (hospitality), (9) mānuṣa (human conduct), (10) prajā (progeny), (11) prajana (procreation), (12) prajāti (propagation). <strong>The teaching</strong>: no matter what other duties you fulfil — truth, austerity, ritual, family, social — svādhyāya-pravacana must ALWAYS accompany them. Study and teaching are not alternatives to life's duties; they are the constant thread running through ALL of them. <strong>The three sages</strong>: three teachers give their verdicts on what is most important: (a) Satyavacā Rāthītara: 'satya' (truth) is supreme. (b) Taponityā Pauruśiṣṭi: 'tapas' (austerity) is supreme. (c) Nāka Maudgalya: 'svādhyāya-pravacana alone' — because THAT is the real tapas. <strong>The resolution</strong>: the text gives the last word to Nāka Maudgalya — self-study and teaching IS the highest austerity ('tat hi tapaḥ, tat hi tapaḥ'). The emphatic repetition seals it: study and teaching are not just ONE duty among many — they ARE tapas itself.",
+    "gr": "<strong>व्याकरण:</strong> यह मन्त्र उपनिषदों के सर्वाधिक उल्लेखनीय अंशों में से एक है — एक लयबद्ध कर्तव्य-सूची जो प्रत्येक कर्तव्य को 'स्वाध्याय-प्रवचन' के साथ जोड़ती है। संरचना तीन भागों में है — (१) बारह कर्तव्यों की लयबद्ध सूची, (२) तीन ऋषियों के मत, (३) निर्णय। <strong>लयबद्ध सूची:</strong> 'X च स्वाध्यायप्रवचने च' — बारह बार दोहराया गया — X = ऋतम्, सत्यम्, तपः, दमः, शमः, अग्नयः, अग्निहोत्रम्, अतिथयः, मानुषम्, प्रजा, प्रजनः, प्रजातिः। 'च...च' = 'और...और' — द्वन्द्व-बोधक अव्यय-युग्म। 'स्वाध्यायप्रवचने' = स्वाध्याय + प्रवचन → द्वन्द्व समास (दोनों पदों की प्रधानता), सप्तमी विभक्ति, द्विवचन (द्वन्द्व = दो, अतः द्विवचन)। <strong>तीन ऋषि:</strong> 'सत्यवचाः' = सत्य + वचस् → बहुव्रीहि समास ('जिसका वचन सत्य है')। 'राथीतरः' = रथीतर + अण् प्रत्यय → वृद्धि (रा) → अपत्यार्थक (गोत्रवाचक)। 'तपोनित्यः' = तपस् + नित्य → बहुव्रीहि ('जो सदा तप में नित्य/रत है')। 'पौरुशिष्टिः' = पुरुशिष्ट + इञ् प्रत्यय → अपत्यार्थक। 'नाकः मौद्गल्यः' = नाक (व्यक्ति-नाम) + मुद्गल + यञ् प्रत्यय → अपत्यार्थक। <strong>निर्णय:</strong> 'स्वाध्यायप्रवचने एव' — 'एव' (केवल/ही) अवधारणार्थक अव्यय — 'स्वाध्याय-प्रवचन ही।' 'तद्धि तपस्तद्धि तपः' = तत् + हि = तद्धि (सन्धि — त् + ह = द्ध); 'हि' = 'क्योंकि / निश्चय से'; दो बार कहना = बलदायक द्विरुक्ति (emphatic repetition)। <br><em>Eng:</em> The mantra's litany uses the pattern 'X ca svādhyāya-pravacane ca' twelve times, where 'svādhyāya-pravacane' is a dvandva compound in locative dual. The three sages' names are patronymics with vṛddhi: 'satyavacāḥ' (bahuvrīhi), 'rāthītaraḥ' (aṇ-suffix), 'taponityaḥ' (bahuvrīhi), 'pauruśiṣṭiḥ' (iñ-suffix), 'maudgalyaḥ' (yañ-suffix). The emphatic 'eva' ('alone') and the doubled 'tat hi tapaḥ, tat hi tapaḥ' seal Nāka Maudgalya's verdict.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -387,11 +1037,11 @@
     "dp": [
       {
         "q": "🔍 The three sages — three views on the highest duty",
-        "a": "The debate among <strong>three named sages</strong> about what matters most is a characteristic Upanishadic device — presenting multiple views before offering a resolution: <strong>Satyavacā Rāthītara: 'Truth is supreme'</strong>: his very NAME means 'truth-speaker' (satya-vacas) — his identity is his teaching. For him, truth (satya) is the foundation of everything: without truth, study is empty, austerity is pretence, and ritual is mechanical. The Bṛhadāraṇyaka (5.5.1) confirms: 'satyaṁ vai brahma' — truth is indeed Brahman. <strong>Taponityā Pauruśiṣṭi: 'Austerity is supreme'</strong>: his name means 'ever-engaged in tapas' (tapo-nitya). For him, tapas (intense discipline/austerity) is the master practice — truth without the fire of tapas remains theoretical, study without discipline is dilettantism. The Muṇḍaka (1.2.11) confirms: tapas is one of the prerequisites for Brahman-knowledge. <strong>Nāka Maudgalya: 'Self-study and teaching alone'</strong>: he receives the emphatic final word: 'svādhyāya-pravacane eva' — study and teaching ALONE (eva). His clincher: 'tat hi tapaḥ, tat hi tapaḥ' — study and teaching IS tapas. He doesn't reject truth or austerity — he says study CONTAINS them. Honest study requires truth; disciplined study IS austerity. <strong>The resolution</strong>: the text endorses Nāka Maudgalya — not because truth and tapas don't matter, but because svādhyāya-pravacana includes and transcends both. Study that is honest IS satya. Study that is disciplined IS tapas. And study that is transmitted (pravacana) ensures the tradition survives. <strong>The Taittirīya's identity</strong>: this endorsement defines the Taittirīya school — a lineage that values the CONTINUITY of the oral tradition above all else. This leads directly to the convocation address (1.11), which will charge the departing student to carry the tradition forward."
+        "a": "<strong>तीन ऋषि — सर्वोच्च कर्तव्य पर तीन दृष्टिकोण:</strong> <strong>तीन नामधारी ऋषियों</strong> के बीच सर्वश्रेष्ठ कर्तव्य पर वाद-विवाद एक विशिष्ट उपनिषदीय विधि है — अनेक दृष्टिकोण प्रस्तुत करना, फिर समाधान देना। <strong>सत्यवचा राथीतर: 'सत्य सर्वोपरि':</strong> उनका <em>नाम</em> ही उनकी शिक्षा है — 'सत्यवचस्' = सत्यवादी। उनके लिए सत्य (satya) सबका आधार है: सत्य के बिना अध्ययन = खोखला, तप = दिखावा, कर्मकाण्ड = यान्त्रिक। बृहदारण्यक (५.५.१) इसकी पुष्टि करता है: 'सत्यं वै ब्रह्म' — सत्य ही ब्रह्म है। <strong>तपोनित्य पौरुशिष्टि: 'तप सर्वोपरि':</strong> उनके नाम का अर्थ 'नित्य-तपस्वी' (सदा तप में रत)। उनके लिए तपस् (कठोर अनुशासन / तपस्या) = मास्टर-अभ्यास — सत्य बिना तप के अव्यावहारिक रहता है, बिना अनुशासन के अध्ययन = शौकीनवाद। मुण्डक (१.२.११) पुष्टि करता है: तप = ब्रह्म-ज्ञान की पूर्वापेक्षा। <strong>नाक मौद्गल्य: 'केवल स्वाध्याय-प्रवचन':</strong> उन्हें अन्तिम बलदायक (emphatic) शब्द मिलता है: 'स्वाध्यायप्रवचने <em>एव</em>' (केवल)। उनका तर्क: 'तद्धि तपस्तद्धि तपः' — स्वाध्याय-प्रवचन ही तप <em>है</em>। वे सत्य या तप को अस्वीकार नहीं करते — कहते हैं कि स्वाध्याय-प्रवचन में दोनों <em>समाहित</em> हैं। ईमानदार अध्ययन = सत्य; अनुशासित अध्ययन = तप। और प्रवचन (शिक्षण) = परम्परा की अविच्छिन्न निरन्तरता। <strong>समाधान:</strong> ग्रन्थ नाक मौद्गल्य को अन्तिम शब्द देता है — इसलिए नहीं कि सत्य और तप महत्त्वहीन हैं, बल्कि इसलिए कि स्वाध्याय-प्रवचन दोनों को समाहित करता है और अतिक्रमित करता है। <strong>तैत्तिरीय की पहचान:</strong> यह समर्थन तैत्तिरीय परम्परा को परिभाषित करता है — एक ऐसा कुल जो मौखिक परम्परा की <em>निरन्तरता</em> को सर्वोपरि मानता है। यह सीधे दीक्षान्त भाषण (१.११) की ओर ले जाता है जो विदा होते शिष्य को परम्परा आगे ले जाने का दायित्व सौंपेगा।<br><br><em>Eng:</em> Three named sages debate the highest duty — a characteristic Upanishadic device. Satyavacā Rāthītara ('truth-speaker'): truth is supreme — without it, study is empty, austerity pretense (cf. Bṛhadāraṇyaka 5.5.1: 'satyaṁ vai brahma'). Taponityā Pauruśiṣṭi ('ever-austere'): tapas is supreme — truth without discipline remains theoretical (cf. Muṇḍaka 1.2.11). Nāka Maudgalya receives the final emphatic word: svādhyāya-pravacana ALONE — because THAT is tapas. He doesn't reject truth or austerity but says study contains both. The text endorses him, defining the Taittirīya school's identity and leading directly to the convocation address (1.11)."
       },
       {
         "q": "🔍 Svādhyāya-pravacana — the cycle of learning and teaching",
-        "a": "The compound <strong>svādhyāya-pravacana</strong> (self-study and teaching) describes a CYCLE, not two separate activities: <strong>Svādhyāya (self-study)</strong>: sva (one's own) + adhyāya (study/recitation) = personal study of the Vedic texts. This includes: (a) <em>Recitation</em>: daily chanting of one's own Vedic branch — maintaining the text in memory through regular repetition. (b) <em>Study</em>: deepening understanding through reflection, discussion with the teacher, and meditation on the meaning. (c) <em>Self-examination</em>: the 'sva' (self) element — studying not just texts but oneself through the texts. <strong>Pravacana (teaching)</strong>: pra (forth) + √vac (to speak) = teaching/expounding to others. This includes: (a) <em>Formal teaching</em>: transmitting the Vedic texts to students in the gurukula. (b) <em>Public discourse</em>: explaining the Vedic teachings to the broader community. (c) <em>Living the teaching</em>: embodying what one has studied — teaching by example as much as by word. <strong>Why the compound is inseparable</strong>: svādhyāya without pravacana = knowledge hoarded, tradition dying. Pravacana without svādhyāya = teaching without depth, transmission without substance. The two together form a cycle: study → teach → deeper study → deeper teaching. Each act of teaching reveals gaps in understanding, prompting further study. Each round of study provides new insights to teach. <strong>The connection to tapas</strong>: Nāka Maudgalya's claim that svādhyāya-pravacana IS tapas makes sense through this lens: maintaining this cycle requires immense discipline (tapas) — daily recitation, constant refinement of understanding, patience in teaching, humility in learning. The austerity of the scholar is as demanding as the austerity of the forest-dweller — just differently directed."
+        "a": "<strong>स्वाध्याय-प्रवचन — सीखने और सिखाने का चक्र:</strong> <strong>स्वाध्याय-प्रवचन</strong> (स्व-अध्ययन और शिक्षण) समास एक <em>चक्र</em> का वर्णन करता है, दो पृथक् गतिविधियों का नहीं। <strong>स्वाध्याय (स्व-अध्ययन):</strong> स्व (अपना) + अध्याय (अध्ययन / पाठ) = अपने वैदिक ग्रन्थों का व्यक्तिगत अध्ययन। इसमें सम्मिलित है: (अ) <em>पाठ</em>: अपनी वैदिक शाखा का दैनिक पठन — नियमित आवृत्ति द्वारा ग्रन्थ को स्मृति में सुरक्षित रखना। (ब) <em>अध्ययन</em>: चिन्तन, गुरु-चर्चा, और अर्थ-ध्यान द्वारा समझ को गहरा करना। (स) <em>आत्म-परीक्षण</em>: 'स्व' तत्त्व — केवल ग्रन्थ नहीं, ग्रन्थों के माध्यम से स्वयं का अध्ययन। <strong>प्रवचन (शिक्षण):</strong> प्र (आगे) + √वच् (बोलना) = दूसरों को शिक्षा देना / विस्तार करना। इसमें सम्मिलित है: (अ) <em>औपचारिक शिक्षण</em>: गुरुकुल में शिष्यों को वैदिक ग्रन्थ संचरित करना। (ब) <em>सार्वजनिक प्रवचन</em>: वैदिक शिक्षाओं को व्यापक समुदाय तक पहुँचाना। (स) <em>जीवन-शिक्षा</em>: सीखे हुए को आचरण में उतारना — शब्द से उतना ही, आचरण से उतना ही शिक्षण। <strong>यह समास अविभाज्य क्यों?</strong> प्रवचन-रहित स्वाध्याय = ज्ञान-संग्रहण, परम्परा-मृत्यु। स्वाध्याय-रहित प्रवचन = गहराई-हीन शिक्षण, सारहीन संचरण। दोनों मिलकर एक चक्र बनाते हैं: अध्ययन → शिक्षण → गहनतर अध्ययन → गहनतर शिक्षण। शिक्षण का प्रत्येक कार्य समझ के अन्तरालों को प्रकट करता है, जो पुनः अध्ययन को प्रेरित करता है। अध्ययन का प्रत्येक चक्र नवीन अन्तर्दृष्टि प्रदान करता है जो शिक्षण को समृद्ध करती है। <strong>तप से सम्बन्ध:</strong> नाक मौद्गल्य का दावा — स्वाध्याय-प्रवचन <em>ही</em> तप है — इस चक्रीय दृष्टि से स्पष्ट होता है: इस चक्र को बनाये रखना अपार अनुशासन (तप) की माँग करता है — दैनिक पाठ, निरन्तर बोध-परिमार्जन, शिक्षण में धैर्य, सीखने में विनम्रता। विद्वान् की तपस्या वनवासी की तपस्या जितनी ही कठोर है — बस दिशा भिन्न है।<br><br><em>Eng:</em> Svādhyāya-pravacana describes a CYCLE, not two separate activities. Svādhyāya (sva + adhyāya) = personal study: daily recitation, deepening understanding, self-examination through texts. Pravacana (pra + √vac) = teaching: formal instruction, public discourse, teaching by example. The compound is inseparable: study without teaching = hoarded knowledge, dying tradition; teaching without study = shallow transmission. Together they form a cycle where each round deepens both. Nāka Maudgalya's claim that this IS tapas makes sense: maintaining the cycle requires immense discipline — daily recitation, constant refinement, patience in teaching, humility in learning."
       }
     ]
   }
