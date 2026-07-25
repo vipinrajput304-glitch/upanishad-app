@@ -1,0 +1,218 @@
+{
+  "id": "adhikari",
+  "title": "अधिकारी",
+  "subtitle": "साधन चतुष्टय सम्पत्ति",
+  "en_title": "The Qualified Student",
+  "en_subtitle": "Four-fold Qualifications for Vedanta Study",
+  "icon": "🎓",
+  "color": "#C9A84C",
+  "intro_hi": "वेदान्त शास्त्र के अध्ययन के लिए शिष्य में चार गुणों का होना आवश्यक माना गया है — इन्हें <strong>साधन चतुष्टय सम्पत्ति</strong> कहते हैं। ये चार साधन हैं: <strong>विवेक</strong> (नित्य-अनित्य वस्तुओं का भेद-ज्ञान), <strong>वैराग्य</strong> (इहलोक और परलोक के भोगों के प्रति विरक्ति), <strong>षट्-सम्पत्ति</strong> (शम, दम, उपरति, तितिक्षा, श्रद्धा और समाधान — ये छह आन्तरिक गुण), तथा <strong>मुमुक्षुत्व</strong> (मोक्ष की तीव्र इच्छा)। ब्रह्मसूत्र का प्रथम सूत्र 'अथातो ब्रह्मजिज्ञासा' (अब ब्रह्म की जिज्ञासा करनी चाहिए) — इसमें 'अथ' शब्द ही इन चार साधनों की पूर्व-प्राप्ति को सूचित करता है। आदि शंकराचार्य ने विवेकचूड़ामणि में इन्हें विस्तार से वर्णित किया है।",
+  "intro_en": "The Vedāntic tradition holds that a student must possess four qualifications before undertaking the study of Brahman — collectively called <strong>Sādhana Catuṣṭaya Sampatti</strong> (the four-fold wealth of spiritual practice). These are: <strong>Viveka</strong> (discrimination between the real and the unreal), <strong>Vairāgya</strong> (dispassion toward worldly and other-worldly enjoyments), <strong>Ṣaṭ-Sampatti</strong> (six inner virtues: śama, dama, uparati, titikṣā, śraddhā, and samādhāna), and <strong>Mumukṣutva</strong> (an intense desire for liberation). The first sūtra of the Brahma Sūtra — 'athāto brahmajijñāsā' ('now, therefore, the inquiry into Brahman') — uses the word 'atha' (now) to indicate that these qualifications must already be in place. Ādi Śaṅkarācārya elaborated them extensively in the Vivekacūḍāmaṇi.",
+  "sections": [
+    {
+      "id": "viveka",
+      "num": 1,
+      "sk": "विवेकः",
+      "ro": "vivekaḥ",
+      "full_sk": "नित्य-अनित्य-वस्तु-विवेकः",
+      "full_ro": "nitya-anitya-vastu-vivekaḥ",
+      "title_hi": "सत्य और असत्य का भेद-ज्ञान",
+      "title_en": "Discrimination between the Eternal and the Non-eternal",
+      "body_hi": "विवेक का अर्थ है — <strong>नित्य</strong> (शाश्वत, अपरिवर्तनशील) और <strong>अनित्य</strong> (क्षणभंगुर, परिवर्तनशील) वस्तुओं के बीच स्पष्ट भेद-ज्ञान। इसका तात्पर्य केवल बौद्धिक समझ नहीं, अपितु गहन अनुभवजन्य बोध है कि <strong>ब्रह्म ही एकमात्र सत्य है</strong> और संसार का समस्त नाम-रूप मिथ्या (apparent, not absolutely real) है।<br><br>विवेक साधन चतुष्टय का <strong>प्रथम और सबसे मूलभूत</strong> अंग है — इसके बिना अन्य तीन साधन सम्भव नहीं। जब तक जीव को शरीर, इन्द्रियों और संसार के भोगों में सत्यता दिखती है, तब तक न वैराग्य उत्पन्न होता है, न मुमुक्षुत्व। विवेक वह प्रकाश है जो अज्ञान के अन्धकार को दूर करता है।<br><br>व्यावहारिक रूप में विवेक का अभ्यास है — प्रत्येक अनुभव में पूछना: 'क्या यह नित्य है या अनित्य? क्या यह आत्मा है या अनात्मा? क्या यह सुख स्थायी है या क्षणिक?' यही 'नेति-नेति' (न यह, न यह) की विधि है — जो अनित्य है उसे नकारते हुए नित्य तत्त्व तक पहुँचना।",
+      "body_en": "Viveka means the clear discrimination between the <strong>nitya</strong> (eternal, unchanging) and the <strong>anitya</strong> (transient, changing). It is not mere intellectual understanding but a deep, experiential conviction that <strong>Brahman alone is real</strong> and all names and forms of the phenomenal world are mithyā (apparent, not absolutely real).<br><br>Viveka is the <strong>first and most fundamental</strong> of the four qualifications — without it, the other three cannot arise. As long as one perceives reality in the body, senses, and worldly enjoyments, neither dispassion nor the desire for liberation can take root. Viveka is the light that dispels the darkness of ignorance.<br><br>In practice, viveka means questioning every experience: 'Is this eternal or transient? Is this the Self or the not-Self? Is this happiness lasting or fleeting?' This is the method of 'neti-neti' (not this, not this) — negating the non-eternal to arrive at the eternal reality.",
+      "sub": [
+        {
+          "sk": "नित्य वस्तु",
+          "hi": "नित्य = शाश्वत, अपरिवर्तनशील — केवल ब्रह्म / आत्मा। यह त्रिकालाबाधित सत्य है — भूत, वर्तमान और भविष्य में सदा एक-सा रहता है।",
+          "en": "Nitya = eternal, unchanging — Brahman / Ātman alone. It is the truth that persists across all three times — past, present, and future."
+        },
+        {
+          "sk": "अनित्य वस्तु",
+          "hi": "अनित्य = क्षणभंगुर, परिवर्तनशील — शरीर, इन्द्रियाँ, मन, बुद्धि, संसार के सभी पदार्थ। ये उत्पन्न होते हैं, बदलते हैं, और नष्ट होते हैं।",
+          "en": "Anitya = transient, changing — the body, senses, mind, intellect, and all objects of the world. They arise, change, and perish."
+        },
+        {
+          "sk": "नेति-नेति विधि",
+          "hi": "'न इति, न इति' — बृहदारण्यक उपनिषद् की विधि। जो कुछ भी देखा, सुना, सोचा जाता है — 'यह ब्रह्म नहीं, यह ब्रह्म नहीं' — इस प्रकार अनात्मा का निषेध करते हुए शुद्ध आत्म-तत्त्व को पहचानना।",
+          "en": "'Not this, not this' — the method of the Bṛhadāraṇyaka Upaniṣad. Whatever is perceived, heard, or thought — 'this is not Brahman' — thus negating the not-Self to arrive at the pure Self."
+        }
+      ],
+      "cm": {
+        "advaita": {
+          "a": "आदि शंकराचार्य · Adi Shankaracharya",
+          "h": "शंकर के अनुसार विवेक = साधन चतुष्टय का <strong>प्रथम और सबसे महत्वपूर्ण</strong> अंग। विवेकचूड़ामणि (श्लोक 20) में कहा — 'ब्रह्म सत्यं जगन्मिथ्या' — ब्रह्म सत्य है, जगत् मिथ्या है — यही विवेक का सार है। बिना विवेक के वैराग्य केवल उदासीनता है, मुमुक्षुत्व केवल भावुकता है। विवेक = अध्यास-निवृत्ति (superimposition का निराकरण) का प्रारम्भ — जब तक आत्मा पर अनात्मा का अध्यारोप है, तब तक बन्धन है।",
+          "en": "For Shankara, viveka is the first and most crucial qualification. In Vivekacūḍāmaṇi (verse 20), he declares 'brahma satyaṁ jaganmithyā' — Brahman is real, the world is apparent. Without viveka, vairāgya is mere apathy and mumukṣutva mere sentimentality. Viveka initiates the removal of adhyāsa (superimposition) — as long as the not-Self is superimposed on the Self, bondage persists.",
+          "ins": "Viveka is the foundation of the entire Advaita path. It's not an intellectual exercise but a transformative seeing — once you truly discriminate the eternal from the transient, everything else follows naturally. Without viveka, the spiritual life is built on sand."
+        },
+        "vishisht": {
+          "a": "रामानुजाचार्य · Ramanujacharya",
+          "h": "रामानुज के अनुसार विवेक = <strong>भगवान् और जगत् के सम्बन्ध का सही ज्ञान</strong>। जगत् मिथ्या नहीं, अपितु भगवान् का शरीर (body of God) है — परन्तु जगत् = स्वतन्त्र सत्ता नहीं, भगवान् पर आश्रित। विवेक = यह जानना कि <strong>सब कुछ भगवान् पर निर्भर है</strong> — जीव, जगत्, सब। भक्ति = विवेक का फल — जब जीव जानता है कि वह भगवान् का अंश है, तो स्वाभाविक रूप से भक्ति उत्पन्न होती है।",
+          "en": "For Rāmānuja, viveka means understanding the correct relationship between God and the world. The world is not mithyā (unreal) but the body of God — yet it is not independently real, being dependent on God. Viveka is knowing that everything depends on God — souls, world, all. Bhakti naturally arises when the soul knows itself as part of God.",
+          "ins": "In the Vishishtadvaita view, discrimination is not about rejecting the world as unreal, but understanding its true nature as God's body. The world is real — but its reality depends entirely on God. This discrimination leads not to renunciation of the world but to devotion toward the One who sustains it."
+        },
+        "aurobindo": {
+          "a": "श्री अरविन्द · Sri Aurobindo",
+          "h": "श्री अरविन्द के अनुसार विवेक = <strong>चैत्य पुरुष (psychic being) का जागरण</strong>। चैत्य पुरुष = अन्तरात्मा — वह स्वाभाविक रूप से सत्य और असत्य का भेद जानता है। विवेक = बाहरी नियम नहीं, अपितु आन्तरिक प्रकाश — चेतना का वह स्तर जहाँ सत्य स्वयं प्रकट होता है। पूर्ण योग में विवेक = केवल 'नेति-नेति' (नकार) नहीं, अपितु 'इति-इति' (स्वीकार) भी — सर्वत्र दिव्यता को पहचानना।",
+          "en": "For Sri Aurobindo, viveka is the awakening of the psychic being (caitya puruṣa) — the inner soul that naturally discriminates truth from falsehood. Viveka is not an external rule but an inner light — a plane of consciousness where truth reveals itself. In integral yoga, viveka is not only 'neti-neti' (negation) but also 'iti-iti' (affirmation) — recognising the Divine everywhere.",
+          "ins": "Aurobindo transforms viveka from a rejection of the world to a deeper seeing. The psychic being — the evolving soul — naturally knows what is true. The discrimination is not 'world vs. Brahman' but 'ignorance vs. knowledge' — and the goal is not escape but transformation of all life into its divine truth."
+        }
+      },
+      "refs": "विवेकचूड़ामणि श्लोक 18-20 · Brahma Sūtra 1.1.1 ('athāto brahmajijñāsā') · बृहदारण्यक उपनिषद् 2.3.6 (neti-neti) · भगवद्गीता 2.16 ('nāsato vidyate bhāvo nābhāvo vidyate sataḥ')"
+    },
+    {
+      "id": "vairagya",
+      "num": 2,
+      "sk": "वैराग्यम्",
+      "ro": "vairāgyam",
+      "full_sk": "इह-अमुत्र-फल-भोग-विरागः",
+      "full_ro": "iha-amutra-phala-bhoga-virāgaḥ",
+      "title_hi": "इहलोक और परलोक के भोगों के प्रति विरक्ति",
+      "title_en": "Dispassion toward Enjoyments Here and Hereafter",
+      "body_hi": "वैराग्य का अर्थ है — <strong>इहलोक</strong> (इस संसार) और <strong>अमुत्रलोक</strong> (स्वर्गादि परलोक) के समस्त भोगों के प्रति <strong>विरक्ति</strong> (अनासक्ति)। यह विषय-वस्तुओं के प्रति घृणा नहीं है, अपितु उनसे <strong>स्वतन्त्रता</strong> है — यह जानना कि कोई भी बाह्य वस्तु स्थायी सुख नहीं दे सकती।<br><br>वैराग्य दो प्रकार का होता है — <strong>अपर वैराग्य</strong> (lower dispassion) जो दुःख, हानि या विषाद से उत्पन्न होता है, और <strong>पर वैराग्य</strong> (higher dispassion) जो विवेक से स्वाभाविक रूप से प्रकट होता है। पर वैराग्य स्थायी है क्योंकि यह ज्ञान पर आधारित है — 'ये सब अनित्य हैं, अतः इनमें आसक्ति व्यर्थ है।'<br><br>महत्वपूर्ण बात — वैराग्य = इन्द्रिय-दमन (suppression) नहीं। दमन से विषयों की इच्छा भीतर ही रहती है और किसी समय विस्फोट करती है। सच्चा वैराग्य = विषयों की <strong>तुच्छता का बोध</strong> — जैसे बड़ा होने पर बचपन के खिलौनों में रुचि स्वतः समाप्त हो जाती है, वैसे ही विवेक से संसार के भोगों में आसक्ति स्वतः क्षीण होती है।",
+      "body_en": "Vairāgya means <strong>dispassion</strong> — freedom from attachment to enjoyments in <strong>this world</strong> (iha) and <strong>other worlds</strong> (amutra, including heavenly pleasures). It is not hatred of objects but <strong>independence</strong> from them — the understanding that no external object can provide lasting happiness.<br><br>Vairāgya is of two kinds — <strong>apara vairāgya</strong> (lower dispassion) arising from pain, loss, or sorrow, and <strong>para vairāgya</strong> (higher dispassion) arising naturally from viveka. The higher form is lasting because it is grounded in knowledge — 'all this is transient, therefore attachment to it is futile.'<br><br>Crucially, vairāgya is NOT suppression. Suppression leaves desires intact beneath the surface, ready to erupt. True vairāgya is the <strong>recognition of the inadequacy</strong> of sense objects — just as an adult naturally loses interest in childhood toys, viveka naturally loosens attachment to worldly pleasures.",
+      "sub": [
+        {
+          "sk": "अपर वैराग्य",
+          "hi": "निम्न वैराग्य — दुःख, रोग, हानि, शोक आदि से उत्पन्न। यह अस्थायी होता है — परिस्थिति बदलते ही समाप्त हो सकता है। श्मशान वैराग्य (cremation-ground dispassion) इसका उदाहरण है।",
+          "en": "Lower dispassion — arising from pain, illness, loss, grief. It is unstable — it may vanish when circumstances change. 'Cremation-ground dispassion' (śmaśāna vairāgya) is a common example."
+        },
+        {
+          "sk": "पर वैराग्य",
+          "hi": "उच्च वैराग्य — विवेक-जन्य, ज्ञान पर आधारित। यह स्थायी है क्योंकि यह बाहरी परिस्थितियों पर निर्भर नहीं — यह आन्तरिक बोध है कि ब्रह्म के अतिरिक्त कुछ भी पूर्ण सन्तोष नहीं दे सकता।",
+          "en": "Higher dispassion — born of viveka, grounded in knowledge. It is permanent because it does not depend on external circumstances — it is the inner conviction that nothing except Brahman can provide complete fulfilment."
+        }
+      ],
+      "cm": {
+        "advaita": {
+          "a": "आदि शंकराचार्य · Adi Shankaracharya",
+          "h": "शंकर कहते हैं — वैराग्य = विवेक का <strong>स्वाभाविक फल</strong>। विवेकचूड़ामणि (श्लोक 21) में कहा — 'विरागो विषयेष्वनात्मसु' — अनात्म विषयों से विरक्ति = वैराग्य। यदि विवेक दृढ़ है तो वैराग्य अपने-आप आता है — जैसे सूर्य उगने पर अन्धकार अपने-आप जाता है। शंकर के अनुसार <strong>इह और अमुत्र दोनों</strong> के भोगों से विरक्ति आवश्यक है — केवल सांसारिक सुखों का त्याग पर्याप्त नहीं; स्वर्ग-भोग की इच्छा भी बन्धन है।",
+          "en": "Shankara says vairāgya is the natural fruit of viveka. In Vivekacūḍāmaṇi (verse 21): 'virāgo viṣayeṣv anātmasu' — dispassion toward non-Self objects = vairāgya. If viveka is firm, vairāgya comes automatically — as darkness vanishes when the sun rises. Dispassion must extend to BOTH earthly AND heavenly enjoyments — desire for heaven is also bondage.",
+          "ins": "For Shankara, vairāgya isn't about forcing yourself to give things up. It's the natural result of seeing clearly. When you really understand that everything in the world — including heavenly pleasures — is transient, attachment loosens by itself. The key is that even desire for heaven must go."
+        },
+        "vishisht": {
+          "a": "रामानुजाचार्य · Ramanujacharya",
+          "h": "रामानुज के अनुसार वैराग्य = <strong>भगवान् के अतिरिक्त सबसे विरक्ति</strong>, <strong>भगवान् में अनुरक्ति</strong> नहीं घटती। वैराग्य = सांसारिक विषयों से मन हटाकर <strong>भगवान् में लगाना</strong>। यह शुष्क त्याग नहीं — भक्ति-रस से सिंचित है। जब भगवान् का प्रेम हृदय में जागता है, तो संसार के भोग स्वतः तुच्छ प्रतीत होते हैं — जैसे सूर्य के सामने दीपक की ज्योति फीकी पड़ जाती है।",
+          "en": "For Rāmānuja, vairāgya means detachment from everything EXCEPT God — attachment to God does not diminish. Vairāgya is redirecting the mind from worldly objects TOWARD God. It is not dry renunciation but is nourished by devotional love (bhakti-rasa). When love for God awakens in the heart, worldly pleasures pale automatically — like a lamp's light fading before the sun.",
+          "ins": "In the Vishishtadvaita view, dispassion isn't about becoming emotionless — it's about redirecting passion from the finite to the Infinite. You don't stop loving; you love God instead of transient things. This makes vairāgya a warm, positive movement rather than a cold withdrawal."
+        },
+        "aurobindo": {
+          "a": "श्री अरविन्द · Sri Aurobindo",
+          "h": "श्री अरविन्द के अनुसार वैराग्य = <strong>इच्छाओं का रूपान्तरण</strong> (transformation), उनका दमन नहीं। पूर्ण योग में भोग-वासना को नष्ट नहीं किया जाता, अपितु उसकी ऊर्जा को <strong>दिव्य आनन्द</strong> (divine delight) की ओर मोड़ा जाता है। सच्चा वैराग्य = इन्द्रिय-सुख का निषेध नहीं, अपितु <strong>उच्चतर आनन्द की खोज</strong>। जब चेतना का स्तर ऊपर उठता है, तो निम्नतर सुखों में रुचि स्वतः क्षीण होती है — बिना किसी प्रयास या दमन के।",
+          "en": "For Sri Aurobindo, vairāgya means the transformation of desires, not their suppression. In integral yoga, desire-energy is not destroyed but redirected toward divine delight (ānanda). True vairāgya is not negation of sense-pleasure but the quest for a higher joy. As consciousness rises, interest in lower pleasures naturally wanes — without effort or suppression.",
+          "ins": "Aurobindo's approach transforms vairāgya from renunciation into aspiration. You don't push pleasures away — you grow toward a deeper delight that makes them irrelevant. The energy of desire itself becomes the fuel for spiritual growth. Nothing is wasted; everything is transformed."
+        }
+      },
+      "refs": "विवेकचूड़ामणि श्लोक 21-30 · भगवद्गीता 2.59 ('rasavarjaṁ raso'py asya paraṁ dṛṣṭvā nivartate') · योगसूत्र 1.15 ('dṛṣṭānuśravika-viṣaya-vitṛṣṇasya vaśīkāra-saṁjñā vairāgyam') · कठोपनिषद् 1.2.2 ('śreyaś ca preyaś ca')"
+    },
+    {
+      "id": "shat_sampatti",
+      "num": 3,
+      "sk": "षट्-सम्पत्तिः",
+      "ro": "ṣaṭ-sampattiḥ",
+      "full_sk": "शम-दम-उपरति-तितिक्षा-श्रद्धा-समाधानम्",
+      "full_ro": "śama-dama-uparati-titikṣā-śraddhā-samādhānam",
+      "title_hi": "छह आन्तरिक गुणों का सम्पुट",
+      "title_en": "The Six-fold Wealth of Inner Virtues",
+      "body_hi": "षट्-सम्पत्ति = छह आन्तरिक गुणों का समूह — ये साधक के मन, इन्द्रियों और बुद्धि को वेदान्त-श्रवण के योग्य बनाते हैं। विवेक और वैराग्य के बाद, ये छह गुण मन को <strong>स्थिर, एकाग्र और ग्रहणशील</strong> बनाते हैं — जिससे गुरु के उपदेश और शास्त्र के अर्थ हृदय में प्रवेश कर सकें।<br><br>इन छह गुणों में <strong>शम</strong> (मन की शान्ति) और <strong>दम</strong> (इन्द्रिय-संयम) मूलभूत हैं — ये मन और इन्द्रियों को बाह्य विषयों से हटाकर आन्तरिक अन्वेषण के लिए तैयार करते हैं। <strong>उपरति</strong> (स्व-धर्म में स्थिति) सांसारिक कर्मों से स्वाभाविक निवृत्ति है। <strong>तितिक्षा</strong> (सहनशीलता) द्वन्द्वों (सुख-दुःख, शीत-उष्ण) को सहन करने की शक्ति है। <strong>श्रद्धा</strong> (आस्था) गुरु और शास्त्र के वचनों में विश्वास है। <strong>समाधान</strong> (एकाग्रता) बुद्धि को ब्रह्म-विचार में स्थिर रखना है।",
+      "body_en": "Ṣaṭ-Sampatti = the six-fold inner wealth — these virtues prepare the mind, senses, and intellect for Vedāntic study. After viveka and vairāgya, these six qualities make the mind <strong>stable, focused, and receptive</strong> — so that the guru's teaching and the meaning of scripture can enter the heart.<br><br><strong>Śama</strong> (mind-quietude) and <strong>dama</strong> (sense-restraint) are foundational — they withdraw the mind and senses from external objects, readying them for inner inquiry. <strong>Uparati</strong> (withdrawal) is natural cessation from worldly activities. <strong>Titikṣā</strong> (forbearance) is the strength to endure opposites (pleasure-pain, heat-cold). <strong>Śraddhā</strong> (faith) is trust in the guru and scripture. <strong>Samādhāna</strong> (single-pointedness) is keeping the intellect fixed on Brahman-inquiry.",
+      "sub": [
+        {
+          "sk": "शमः (śamaḥ)",
+          "hi": "<strong>मन की शान्ति / अन्तःकरण-निग्रह</strong> — मन को बाह्य विषयों से हटाकर आन्तरिक स्थिरता में लाना। यह मन का विषय-चिन्तन से निवृत्त होना है — मन को 'बन्द' करना नहीं, अपितु उसे अनावश्यक विक्षेपों से मुक्त करना। कठोपनिषद् (1.3.3-4) में मन = लगाम, बुद्धि = सारथी — शम = लगाम कसना।",
+          "en": "<strong>Inner quietude / mind-control</strong> — withdrawing the mind from external objects and establishing inner stillness. Not shutting down the mind, but freeing it from unnecessary distractions. In the Kaṭha Upaniṣad (1.3.3-4), mind = the reins, intellect = the charioteer — śama = holding the reins firm."
+        },
+        {
+          "sk": "दमः (damaḥ)",
+          "hi": "<strong>इन्द्रिय-संयम / बाह्य-करण-निग्रह</strong> — पाँच ज्ञानेन्द्रियों (आँख, कान, नाक, जीभ, त्वचा) और पाँच कर्मेन्द्रियों को विषयों में भटकने से रोकना। शम = आन्तरिक (मन), दम = बाह्य (इन्द्रियाँ)। दोनों साथ चलते हैं — बिना शम के दम = बाहरी दिखावा, बिना दम के शम = अस्थिर।",
+          "en": "<strong>Sense-restraint / control of outer organs</strong> — preventing the five sense-organs and five action-organs from wandering toward objects. Śama = internal (mind), dama = external (senses). They work together — dama without śama is superficial, śama without dama is unstable."
+        },
+        {
+          "sk": "उपरतिः (uparatiḥ)",
+          "hi": "<strong>उपरति / स्व-धर्म में स्थिति / सांसारिक कर्मों से निवृत्ति</strong> — बाह्य विषयों में प्रवृत्ति का स्वाभाविक रूप से शान्त हो जाना। शंकर के अनुसार = संन्यासी का अपने आश्रम-धर्म में स्थित होना। व्यापक अर्थ में = मन का बार-बार विषयों की ओर न जाना — एक प्रकार की आन्तरिक तृप्ति।",
+          "en": "<strong>Withdrawal / abidance in one's own dharma</strong> — the natural cessation of pursuit of external objects. For Shankara, it means the sannyāsī abiding in their āśrama-dharma. More broadly, it is the mind's natural contentment — not repeatedly chasing objects."
+        },
+        {
+          "sk": "तितिक्षा (titikṣā)",
+          "hi": "<strong>सहनशीलता / द्वन्द्व-सहन</strong> — सुख-दुःख, शीत-उष्ण, मान-अपमान आदि द्वन्द्वों को शान्तिपूर्वक सहन करने की शक्ति — बिना शिकायत, बिना प्रतिकार के। भगवद्गीता (2.14): 'मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः' — ये इन्द्रिय-विषय-सम्पर्क क्षणिक हैं, इन्हें सहन करो।",
+          "en": "<strong>Forbearance / endurance of opposites</strong> — the strength to bear pleasure-pain, heat-cold, honour-insult peacefully, without complaint or retaliation. Bhagavad Gītā (2.14): 'mātrāsparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ' — these sense-contacts are fleeting; endure them."
+        },
+        {
+          "sk": "श्रद्धा (śraddhā)",
+          "hi": "<strong>आस्था / विश्वास</strong> — गुरु के वचनों और शास्त्र (वेद, उपनिषद्) के प्रमाण में दृढ़ विश्वास। यह अन्ध-विश्वास नहीं — यह बुद्धिमान् विश्वास है, जो अनुभव से पुष्ट होने तक गुरु-वाक्य को प्रामाणिक मानता है। विवेकचूड़ामणि (श्लोक 25): 'शास्त्रस्य गुरुवाक्यस्य सत्यबुद्ध्यावधारणा — सा श्रद्धा'।",
+          "en": "<strong>Faith / trust</strong> — firm confidence in the guru's words and the authority of scripture (Veda, Upaniṣads). Not blind faith but intelligent trust — accepting the guru's word as valid until confirmed by personal experience. Vivekacūḍāmaṇi (verse 25): 'śāstrasya guruvākyasya satyabuddhyāvadhāraṇā — sā śraddhā.'"
+        },
+        {
+          "sk": "समाधानम् (samādhānam)",
+          "hi": "<strong>एकाग्रता / चित्त-स्थिरता</strong> — बुद्धि को सदैव ब्रह्म-तत्त्व में एकाग्र रखना। यह ध्यान (meditation) का पर्याय नहीं — यह बुद्धि की सतत अभिमुखता है वेदान्त-विचार की ओर। मन जब भी भटके, उसे पुनः ब्रह्म-विचार में लगाना = समाधान।",
+          "en": "<strong>Single-pointedness / mental focus</strong> — keeping the intellect constantly directed toward Brahman-inquiry. Not synonymous with formal meditation — it is the continuous orientation of the intellect toward Vedāntic truth. Whenever the mind wanders, bringing it back to Brahman-reflection = samādhāna."
+        }
+      ],
+      "cm": {
+        "advaita": {
+          "a": "आदि शंकराचार्य · Adi Shankaracharya",
+          "h": "शंकर के अनुसार षट्-सम्पत्ति = <strong>अन्तःकरण-शुद्धि</strong> (purification of the inner instrument) के साधन। मन जब तक अशुद्ध, विक्षिप्त और चञ्चल है, तब तक 'तत् त्वम् असि' का अर्थ हृदय में नहीं उतर सकता। ये छह गुण मन को <strong>दर्पण</strong> की तरह स्वच्छ बनाते हैं — जिसमें ब्रह्म-ज्ञान प्रतिबिम्बित हो सके। विशेषतः <strong>श्रद्धा</strong> पर शंकर का बल है — बिना श्रद्धा के श्रवण-मनन-निदिध्यासन असम्भव है।",
+          "en": "For Shankara, the six virtues purify the inner instrument (antaḥkaraṇa-śuddhi). As long as the mind is impure, distracted, and restless, the meaning of 'tat tvam asi' cannot penetrate the heart. These six qualities make the mind a clean mirror in which Brahman-knowledge can be reflected. Shankara particularly emphasises śraddhā — without it, śravaṇa-manana-nididhyāsana is impossible.",
+          "ins": "The six virtues are not ornamental — they are instrumental. They prepare the mind to receive the highest teaching. Without śama and dama, you can't sit still long enough to listen. Without śraddhā, you won't take the teaching seriously. Without samādhāna, the insight won't stick."
+        },
+        "vishisht": {
+          "a": "रामानुजाचार्य · Ramanujacharya",
+          "h": "रामानुज के अनुसार षट्-सम्पत्ति = <strong>भक्ति-योग की तैयारी</strong>। ये गुण मन को भगवद्-ध्यान के योग्य बनाते हैं। शम और दम = मन और इन्द्रियों को भगवान् की ओर मोड़ना। श्रद्धा = <strong>भगवद्-विश्वास</strong> — भगवान् की कृपा में विश्वास, शास्त्र-प्रमाण में विश्वास। रामानुज श्रद्धा को सबसे महत्वपूर्ण मानते हैं — क्योंकि बिना ईश्वर-विश्वास के भक्ति असम्भव है।",
+          "en": "For Rāmānuja, the six virtues prepare the aspirant for bhakti-yoga. They make the mind fit for meditation on God. Śama and dama = redirecting mind and senses toward God. Śraddhā = faith in God — trust in God's grace and in scriptural authority. Rāmānuja considers śraddhā the most important — without faith in God, bhakti is impossible.",
+          "ins": "In the Vishishtadvaita framework, these virtues are not ends in themselves but preparations for devotion. The mind quieted by śama, the senses governed by dama, the heart sustained by śraddhā — all converge on one goal: loving meditation on the Lord."
+        },
+        "aurobindo": {
+          "a": "श्री अरविन्द · Sri Aurobindo",
+          "h": "श्री अरविन्द के अनुसार ये छह गुण = <strong>चेतना के रूपान्तरण की शर्तें</strong>। शम = मन की शान्ति — जो उच्चतर प्रकाश को ग्रहण करने के लिए आवश्यक है। दम = प्राणिक ऊर्जा (vital energy) पर नियन्त्रण। तितिक्षा = <strong>समता</strong> (equality) — सुख-दुःख में समान भाव। श्रद्धा = <strong>आन्तरिक ज्ञान</strong> — चैत्य पुरुष का विश्वास कि सत्य है और प्राप्य है। समाधान = चेतना की एकाग्रता — रूपान्तरण के लिए आवश्यक।",
+          "en": "For Sri Aurobindo, these six virtues are conditions for the transformation of consciousness. Śama = mental silence, necessary for receiving higher light. Dama = control of vital energy. Titikṣā = equality (samatā) — equanimity in pleasure and pain. Śraddhā = inner knowing — the psychic being's trust that truth exists and is attainable. Samādhāna = concentration of consciousness, necessary for transformation.",
+          "ins": "Aurobindo sees these not as moral virtues but as states of consciousness. Mental silence receives the higher light. Vital control channels the energy. Equality withstands the pressure of transformation. Faith sustains the journey. Concentration makes the breakthrough possible."
+        }
+      },
+      "refs": "विवेकचूड़ामणि श्लोक 22-27 · भगवद्गीता 6.35 ('abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate') · कठोपनिषद् 1.3.3-9 (रथ-रूपक) · भगवद्गीता 2.14 (तितिक्षा) · भगवद्गीता 17.17 (श्रद्धा के तीन प्रकार)"
+    },
+    {
+      "id": "mumukshutva",
+      "num": 4,
+      "sk": "मुमुक्षुत्वम्",
+      "ro": "mumukṣutvam",
+      "full_sk": "मुमुक्षुत्वम्",
+      "full_ro": "mumukṣutvam",
+      "title_hi": "मोक्ष की तीव्र इच्छा",
+      "title_en": "The Intense Desire for Liberation",
+      "body_hi": "मुमुक्षुत्व = <strong>मोक्ष की तीव्र, दहकती हुई इच्छा</strong>। यह साधारण जिज्ञासा या बौद्धिक रुचि नहीं — यह वह तीव्र प्यास है जो साधक को तब तक चैन नहीं लेने देती जब तक मुक्ति प्राप्त न हो जाए। जैसे जलते हुए व्यक्ति के सिर पर जो आग है, उसे बुझाने के लिए वह सब कुछ छोड़कर दौड़ता है — वैसी ही तीव्रता मुमुक्षुत्व की होनी चाहिए।<br><br>मुमुक्षुत्व = साधन चतुष्टय का <strong>चालक बल</strong> (driving force)। विवेक बताता है कि 'ब्रह्म सत्य है', वैराग्य संसार से मोड़ता है, षट्-सम्पत्ति मन को तैयार करती है — परन्तु मुमुक्षुत्व वह <strong>ऊर्जा</strong> है जो साधक को आगे बढ़ाती है। बिना मुमुक्षुत्व के अन्य तीन साधन शुष्क बौद्धिक अभ्यास बनकर रह जाते हैं।<br><br>विवेकचूड़ामणि (श्लोक 27) कहता है — 'मोक्षकारणसामग्र्यां भक्तिरेव गरीयसी' — मोक्ष के सभी साधनों में <strong>भक्ति</strong> (यहाँ मुमुक्षुत्व के अर्थ में) ही सर्वश्रेष्ठ है। मुमुक्षुत्व के बिना बाकी सब शिल्प है, जीवन नहीं।",
+      "body_en": "Mumukṣutva = the <strong>intense, burning desire for liberation</strong>. It is not casual curiosity or intellectual interest — it is the overwhelming thirst that gives the seeker no rest until mokṣa is attained. Like a person whose head is on fire — they drop everything and rush to quench it — such must be the intensity of mumukṣutva.<br><br>Mumukṣutva is the <strong>driving force</strong> of the four qualifications. Viveka reveals 'Brahman is real', vairāgya turns one away from the world, ṣaṭ-sampatti prepares the mind — but mumukṣutva is the <strong>energy</strong> that propels the seeker forward. Without it, the other three remain dry intellectual exercises.<br><br>Vivekacūḍāmaṇi (verse 27) declares: 'mokṣakāraṇasāmagryāṁ bhaktireva garīyasī' — among all means to liberation, <strong>bhakti</strong> (here meaning mumukṣutva — devotion to the goal) is the greatest. Without mumukṣutva, everything else is technique without life.",
+      "sub": [
+        {
+          "sk": "तीव्र मुमुक्षुत्व",
+          "hi": "तीव्र (intense) मुमुक्षुत्व = वह इच्छा जो सब अन्य इच्छाओं को अवशोषित कर लेती है। जैसे एक बड़ी नदी सब छोटी नदियों को समेट लेती है — वैसे ही मोक्ष-इच्छा सब सांसारिक इच्छाओं को अपने में लीन कर लेती है। शंकर कहते हैं — मुमुक्षुत्व 'तीव्र' होनी चाहिए, 'मन्द' (mild) नहीं।",
+          "en": "Intense mumukṣutva = the desire that absorbs all other desires. As a great river absorbs all smaller streams, the desire for liberation subsumes all worldly desires. Shankara insists mumukṣutva must be 'tīvra' (intense), not 'manda' (mild)."
+        },
+        {
+          "sk": "चतुर्थ साधन = चालक बल",
+          "hi": "मुमुक्षुत्व = अन्य तीन साधनों की ऊर्जा। विवेक, वैराग्य, षट्-सम्पत्ति = मार्ग-निर्माण — मुमुक्षुत्व = उस मार्ग पर चलने की शक्ति। बिना मुमुक्षुत्व के विवेक = शुष्क विश्लेषण, वैराग्य = उदासीनता, षट्-सम्पत्ति = आत्म-अनुशासन मात्र। मुमुक्षुत्व इन सबको जीवन्त बनाता है।",
+          "en": "Mumukṣutva = the energy behind the other three qualifications. Viveka, vairāgya, ṣaṭ-sampatti build the road — mumukṣutva is the power to walk it. Without mumukṣutva, viveka = dry analysis, vairāgya = apathy, ṣaṭ-sampatti = mere self-discipline. Mumukṣutva makes them all alive."
+        }
+      ],
+      "cm": {
+        "advaita": {
+          "a": "आदि शंकराचार्य · Adi Shankaracharya",
+          "h": "शंकर के अनुसार मुमुक्षुत्व = <strong>सबसे महत्वपूर्ण साधन</strong>। विवेकचूड़ामणि (श्लोक 27-28) में कहा — 'स्वस्वरूपानुसन्धानं मोक्ष इत्यभिधीयते' — अपने स्वरूप (ब्रह्म) का अनुसन्धान = मोक्ष। मुमुक्षुत्व = इस अनुसन्धान की <strong>तीव्र प्यास</strong>। शंकर कहते हैं — यदि मुमुक्षुत्व तीव्र है, तो अन्य साधन अपूर्ण होने पर भी मोक्ष सम्भव है — क्योंकि तीव्र इच्छा स्वयं अन्य साधनों को विकसित कर लेती है। परन्तु बिना मुमुक्षुत्व के, चाहे अन्य तीन पूर्ण हों, मोक्ष असम्भव है।",
+          "en": "For Shankara, mumukṣutva is the most important qualification. In Vivekacūḍāmaṇi (verses 27-28): 'svasvarūpānusandhānaṁ mokṣa ityabhidhīyate' — inquiry into one's true nature (Brahman) = liberation. Mumukṣutva = the intense thirst for this inquiry. If mumukṣutva is intense, liberation is possible even with incomplete other qualifications — because intense desire itself develops the other qualities. But without mumukṣutva, even perfect viveka, vairāgya, and ṣaṭ-sampatti cannot bring liberation.",
+          "ins": "Shankara makes mumukṣutva the decisive factor. You can have all the discrimination in the world, all the dispassion, all the virtues — but without the burning desire to be free, nothing happens. Conversely, if the desire is intense enough, it creates the conditions for its own fulfilment."
+        },
+        "vishisht": {
+          "a": "रामानुजाचार्य · Ramanujacharya",
+          "h": "रामानुज के अनुसार मुमुक्षुत्व = <strong>भगवत्-प्राप्ति की तीव्र इच्छा</strong>। मोक्ष = केवल संसार से छुटकारा नहीं, अपितु <strong>भगवान् की शाश्वत सेवा</strong> (nitya-kaiṅkarya) की प्राप्ति। अतः मुमुक्षुत्व = भगवद्-प्रेम का ही दूसरा नाम। रामानुज <strong>प्रपत्ति</strong> (शरणागति / complete surrender) को मुमुक्षुत्व का सर्वोच्च रूप मानते हैं — 'मैं अपने बल से मोक्ष नहीं पा सकता, अतः भगवान् की शरण में जाता हूँ' — यही सच्चा मुमुक्षुत्व है।",
+          "en": "For Rāmānuja, mumukṣutva = the intense desire to attain God. Mokṣa is not merely escape from saṁsāra but the attainment of eternal service to God (nitya-kaiṅkarya). Thus mumukṣutva = another name for divine love. Rāmānuja considers prapatti (complete surrender) the highest form of mumukṣutva — 'I cannot attain liberation by my own effort, so I surrender to God' — this is true mumukṣutva.",
+          "ins": "For Rāmānuja, the desire for liberation IS the desire for God. You don't seek freedom from bondage — you seek the embrace of the Beloved. And the highest form of this desire is surrender: admitting that your own effort isn't enough, and throwing yourself on God's grace."
+        },
+        "aurobindo": {
+          "a": "श्री अरविन्द · Sri Aurobindo",
+          "h": "श्री अरविन्द के अनुसार मुमुक्षुत्व = <strong>चेतना के रूपान्तरण की आकांक्षा</strong> — केवल 'संसार से मुक्ति' नहीं, अपितु <strong>दिव्य जीवन</strong> (divine life) की स्थापना। पूर्ण योग में मुमुक्षुत्व = <strong>अभीप्सा</strong> (aspiration) — चेतना की वह लौ जो ऊपर उठना चाहती है, सत्य को प्राप्त करना चाहती है, और समस्त जीवन को रूपान्तरित करना चाहती है। श्री अरविन्द कहते हैं — अभीप्सा = साधना का प्रथम और अन्तिम साधन — यदि अभीप्सा सच्ची और स्थिर है, तो सब कुछ सम्भव है।",
+          "en": "For Sri Aurobindo, mumukṣutva = the aspiration for transformation of consciousness — not merely 'liberation from the world' but the establishment of divine life on earth. In integral yoga, mumukṣutva = aspiration — the flame of consciousness that wants to rise, to reach the truth, and to transform all of life. Aurobindo says aspiration is the first and last means of sādhanā — if the aspiration is sincere and steady, everything is possible.",
+          "ins": "Aurobindo expands mumukṣutva from escape to transformation. You don't seek to leave the world — you seek to bring the Divine into the world. The aspiration is not just for personal liberation but for the divinisation of all life. This is the largest possible reading of the desire for freedom."
+        }
+      },
+      "refs": "विवेकचूड़ामणि श्लोक 27-28, 32 · ब्रह्मसूत्र 1.1.1 ('अथातो ब्रह्मजिज्ञासा' — 'अथ' = साधन चतुष्टय प्राप्त होने पर) · भगवद्गीता 4.39 ('श्रद्धावाँल्लभते ज्ञानम्') · मुण्डकोपनिषद् 1.2.12 ('परीक्ष्य लोकान्') · श्री अरविन्द 'The Synthesis of Yoga' — Aspiration chapter"
+    }
+  ]
+}

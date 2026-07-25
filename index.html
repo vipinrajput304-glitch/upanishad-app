@@ -321,6 +321,43 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 .loading-overlay p{color:var(--td);font-size:14px;}
 .loading-inline{text-align:center;padding:40px 20px;color:var(--td);font-size:14px;}
 
+.cpt-lbl{font-size:12px;letter-spacing:2.4px;color:var(--gl);text-transform:uppercase;padding:18px 16px 12px;font-weight:600;text-shadow:0 0 14px rgba(214,168,79,.14);}
+.cpt-hint{padding:0 16px 12px;color:var(--td);font-size:13px;line-height:1.5;}
+.cpt-card{display:flex;align-items:center;gap:14px;padding:16px;margin:0 14px 12px;background:var(--b3);border-radius:16px;border:1px solid rgba(214,168,79,.18);cursor:pointer;transition:transform 0.18s ease,border-color 0.18s ease;position:relative;overflow:hidden;}
+.cpt-card:active{transform:scale(.985);border-color:rgba(201,168,76,0.38);background:rgba(201,168,76,0.10);}
+.cpt-card::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;background:var(--g);}
+.cpt-icon{width:50px;height:50px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:23px;flex-shrink:0;background:rgba(214,168,79,.06);border:1px solid rgba(214,168,79,.20);}
+.cpt-name{font-family:'Noto Sans Devanagari',serif;font-size:19px;color:var(--t);margin-bottom:3px;}
+.cpt-en{font-size:12px;color:var(--td);margin-bottom:5px;}
+.cpt-desc{font-size:12px;color:var(--tf);line-height:1.5;}
+
+.cv-body{padding:18px 14px 80px;max-width:720px;margin:0 auto;}
+.cv-intro{background:var(--b4);border:1px solid rgba(214,168,79,.22);border-radius:18px;padding:22px 18px;margin-bottom:16px;}
+.cv-intro-lbl{font-size:10px;letter-spacing:2px;color:var(--tf);text-transform:uppercase;margin-bottom:10px;}
+.cv-intro-hi{font-family:'Noto Sans Devanagari',serif;font-size:15px;color:var(--t);line-height:2.1;margin-bottom:14px;}
+.cv-intro-en{font-family:'EB Garamond',serif;font-size:15px;color:var(--td);line-height:1.85;font-style:italic;padding-top:12px;border-top:1px solid rgba(255,255,255,0.06);}
+
+.cv-qual{background:var(--b3);border:1px solid rgba(214,168,79,.18);border-radius:18px;padding:20px 16px;margin-bottom:14px;position:relative;overflow:hidden;}
+.cv-qual::before{content:'';position:absolute;top:0;left:0;width:4px;height:100%;background:var(--g);}
+.cv-qual-num{position:absolute;top:12px;right:16px;width:32px;height:32px;border-radius:50%;background:rgba(214,168,79,.12);border:1px solid rgba(214,168,79,.22);display:flex;align-items:center;justify-content:center;font-size:14px;color:var(--g);font-weight:600;}
+.cv-qual-sk{font-family:'Noto Sans Devanagari',serif;font-size:22px;color:var(--gl);margin-bottom:2px;}
+.cv-qual-ro{font-family:'EB Garamond',serif;font-size:14px;color:var(--td);font-style:italic;margin-bottom:4px;}
+.cv-qual-full{font-family:'Noto Sans Devanagari',serif;font-size:13px;color:var(--tf);margin-bottom:12px;}
+.cv-qual-hi{font-family:'Noto Sans Devanagari',serif;font-size:15px;color:var(--t);line-height:2.1;margin-bottom:14px;}
+.cv-qual-en{font-family:'EB Garamond',serif;font-size:15px;color:var(--td);line-height:1.85;font-style:italic;padding-top:12px;border-top:1px solid rgba(255,255,255,0.06);margin-bottom:14px;}
+
+.cv-sub{margin:14px 0;padding:14px;background:rgba(214,168,79,.04);border:1px solid rgba(214,168,79,.12);border-radius:14px;}
+.cv-sub-lbl{font-size:10px;letter-spacing:2px;color:var(--gd);text-transform:uppercase;margin-bottom:10px;}
+.cv-sub-item{padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.04);}
+.cv-sub-item:last-child{border-bottom:none;padding-bottom:0;}
+.cv-sub-sk{font-family:'Noto Sans Devanagari',serif;font-size:16px;color:var(--gl);margin-bottom:3px;}
+.cv-sub-hi{font-family:'Noto Sans Devanagari',serif;font-size:14px;color:var(--t);line-height:1.9;margin-bottom:3px;}
+.cv-sub-en{font-size:13px;color:var(--td);font-family:'EB Garamond',serif;font-style:italic;line-height:1.7;}
+
+.cv-cm-lbl{font-size:10px;letter-spacing:2px;color:var(--tf);text-transform:uppercase;margin:16px 0 10px;}
+.cv-refs{margin-top:14px;padding:12px 14px;background:rgba(214,168,79,.05);border:1px solid rgba(214,168,79,.12);border-radius:12px;font-size:13px;color:var(--td);line-height:1.7;}
+.cv-refs-lbl{font-size:10px;letter-spacing:2px;color:var(--gd);text-transform:uppercase;margin-bottom:6px;}
+
 </style>
 <link rel="manifest" href="manifest.json"><meta name="theme-color" content="#C9A84C"><script>if("serviceWorker" in navigator){navigator.serviceWorker.register("service-worker.js")}</script></head>
 <body>
@@ -349,6 +386,9 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   <div class="lbl">चुनें · SELECT UPANISHAD</div>
   <div class="section-hint">जिस उपनिषद् से आरंभ करना चाहें, उसे चुनें। आपकी पढ़ाई की प्रगति इसी उपकरण में सुरक्षित रहेगी।</div>
   <div id="cards"></div>
+  <div class="cpt-lbl">मूल सिद्धांत · KEY CONCEPTS</div>
+  <div class="cpt-hint">वेदान्त परम्परा के आधारभूत सिद्धांत — अध्ययन, साधना और दर्शन को गहराई से समझें।</div>
+  <div id="cpt-cards"></div>
 </div>
 <div class="sc" id="ulist" style="padding-bottom:20px">
   <div class="lhdr">
@@ -387,6 +427,13 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   </div>
   <div id="am"></div>
 </div>
+<div class="sc" id="concept" style="padding-bottom:20px">
+  <div class="lhdr">
+    <div class="home-nav-row"><button class="bb" onclick="showHome()">← वापस</button><button class="bb" onclick="showHome()">🏠 Home</button></div>
+    <div class="lt"><div class="li" id="cv-icon"></div><div><div class="ln" id="cv-title"></div><div class="ls" id="cv-sub"></div></div></div>
+  </div>
+  <div class="cv-body" id="cv-body"></div>
+</div>
 <div class="sc" id="mvw">
   <div class="mvh">
     <div class="mvt">
@@ -420,6 +467,10 @@ async function loadCatalog(){
     id:t.id, name:t.name, en:t.en, icon:t.icon,
     color:t.color, veda:t.veda, desc:t.desc, total:t.total,
     _files:t.files
+  }));
+  CONCEPTS=(catalog.concepts||[]).map(c=>({
+    id:c.id, name:c.name, en:c.en, icon:c.icon,
+    color:c.color, desc:c.desc, desc_en:c.desc_en, file:c.file
   }));
 }
 
@@ -519,6 +570,7 @@ async function init(){
     document.getElementById('su').textContent=UP.length;
     document.getElementById('sm2').textContent=UP.reduce((s,u)=>s+u.total,0);
     renderCards();
+    renderConceptCards();
   }catch(e){ console.error('init error:',e); }
   try{
     const p=gP(),tot=Object.values(p).reduce((a,b)=>a+b,0);
@@ -548,7 +600,7 @@ function renderCards(){
 }
 
 function showScr(id){document.querySelectorAll('.sc').forEach(s=>s.classList.remove('on'));document.getElementById(id).classList.add('on');window.scrollTo(0,0);}
-function showHome(){try{stopSp();}catch(e){} renderCards();const p=gP(),tot=Object.values(p).reduce((a,b)=>a+b,0);document.getElementById('tr').textContent=tot;showScr('home');}
+function showHome(){try{stopSp();}catch(e){} renderCards();renderConceptCards();const p=gP(),tot=Object.values(p).reduce((a,b)=>a+b,0);document.getElementById('tr').textContent=tot;showScr('home');}
 
 // ═══════════════════════════════════════════════════
 // OPEN UPANISHAD — async, loads data on demand
@@ -998,6 +1050,105 @@ function goM(dir){
 }
 
 function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),2200);}
+
+// ═══════════════════════════════════════════════════
+// KEY CONCEPTS
+// ═══════════════════════════════════════════════════
+let CONCEPTS=[];
+const CONCEPT_DATA={};
+
+function renderConceptCards(){
+  const el=document.getElementById('cpt-cards');
+  if(!el||!CONCEPTS.length)return;
+  el.innerHTML=CONCEPTS.map(c=>`
+    <div class="cpt-card" onclick="openConcept('${c.id}')">
+      <div class="cpt-icon">${c.icon}</div>
+      <div style="flex:1;min-width:0">
+        <div class="cpt-name">${c.name}</div>
+        <div class="cpt-en">${c.en}</div>
+        <div class="cpt-desc">${c.desc}</div>
+      </div>
+      <div class="ca">›</div>
+    </div>`).join('');
+}
+
+async function loadConceptData(id){
+  if(CONCEPT_DATA[id]) return CONCEPT_DATA[id];
+  const c=CONCEPTS.find(x=>x.id===id);
+  if(!c) return null;
+  const res=await fetch(CONTENT_BASE+c.file);
+  const data=await res.json();
+  CONCEPT_DATA[id]=data;
+  return data;
+}
+
+async function openConcept(id){
+  const c=CONCEPTS.find(x=>x.id===id);
+  if(!c) return;
+  showScr('concept');
+  document.getElementById('cv-icon').textContent=c.icon;
+  document.getElementById('cv-title').textContent=c.name;
+  document.getElementById('cv-sub').textContent=c.en+' — '+c.desc_en;
+  document.getElementById('cv-body').innerHTML='<div class="loading-inline"><div class="om" style="font-size:32px">ॐ</div><p>लोड हो रहा है…</p></div>';
+  const data=await loadConceptData(id);
+  if(!data) return;
+  renderConcept(data);
+}
+
+function renderConcept(d){
+  const trads=['advaita','vishisht','aurobindo'];
+  const tbg={advaita:'rgba(200,149,106,0.08)',vishisht:'rgba(82,183,136,0.08)',aurobindo:'rgba(192,132,212,0.1)'};
+  const tbd={advaita:'rgba(200,149,106,0.25)',vishisht:'rgba(82,183,136,0.25)',aurobindo:'rgba(192,132,212,0.25)'};
+  const tcol={advaita:'var(--or)',vishisht:'var(--green)',aurobindo:'var(--pu)'};
+
+  let html=`
+    <div class="cv-intro">
+      <div class="cv-intro-lbl">परिचय · Introduction</div>
+      <div class="cv-intro-hi">${d.intro_hi}</div>
+      <div class="cv-intro-en">${d.intro_en}</div>
+    </div>`;
+
+  d.sections.forEach(s=>{
+    html+=`<div class="cv-qual">
+      <div class="cv-qual-num">${s.num}</div>
+      <div class="cv-qual-sk">${s.sk}</div>
+      <div class="cv-qual-ro">${s.ro}</div>
+      <div class="cv-qual-full">${s.full_sk} · ${s.full_ro}</div>
+      <div class="cv-qual-hi">${s.body_hi}</div>
+      <div class="cv-qual-en">${s.body_en}</div>`;
+
+    if(s.sub&&s.sub.length){
+      html+=`<div class="cv-sub"><div class="cv-sub-lbl">${s.id==='shat_sampatti'?'षड्-गुण · Six Virtues':'उप-विषय · Sub-topics'}</div>`;
+      s.sub.forEach(sub=>{
+        html+=`<div class="cv-sub-item">
+          <div class="cv-sub-sk">${sub.sk}</div>
+          <div class="cv-sub-hi">${sub.hi}</div>
+          <div class="cv-sub-en">${sub.en}</div>
+        </div>`;
+      });
+      html+=`</div>`;
+    }
+
+    html+=`<div class="cv-cm-lbl">परंपरा दृष्टि · Tradition Views</div>`;
+    trads.forEach(t=>{
+      const c=s.cm[t]||{};
+      html+=`<div class="cb on trad-card" style="background:${tbg[t]};border:1px solid ${tbd[t]}">
+        <div class="cba" style="color:${tcol[t]}">${c.a||''}</div>
+        <div class="chi">${c.h||''}</div>
+        <div class="cen">${c.en||''}</div>
+        ${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}
+      </div>`;
+    });
+
+    if(s.refs){
+      html+=`<div class="cv-refs"><div class="cv-refs-lbl">संदर्भ · References</div>${s.refs}</div>`;
+    }
+
+    html+=`</div>`;
+  });
+
+  document.getElementById('cv-body').innerHTML=html;
+}
 
 init();
 </script>
