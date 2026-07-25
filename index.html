@@ -1132,22 +1132,8 @@ function renderConceptList(d){
   const last=prog[CCV]??-1;
   const total=d.sections.length;
   const allDone=last>=total-1;
-  const resumeIdx=allDone?0:(last>=0?last+1:0);
 
-  if(last>=0){
-    const sec=d.sections[resumeIdx];
-    document.getElementById('cv-resume').innerHTML=`
-      <div class="res" onclick="openCvSection(${resumeIdx})">
-        <div class="ri">${allDone?'🔄':'📖'}</div>
-        <div class="rt">
-          <div class="rl">${allDone?'सभी पढ़ चुके · All read — Re-read':'जारी रखें · Resume'}</div>
-          <div class="rm">${sec.sk} — ${sec.title_hi}</div>
-        </div>
-        <div class="ra">›</div>
-      </div>`;
-  } else {
-    document.getElementById('cv-resume').innerHTML='';
-  }
+  document.getElementById('cv-resume').innerHTML='';
 
   document.getElementById('cv-intro-wrap').innerHTML=`
     <div class="cv-intro" style="margin:12px 16px">
@@ -1164,12 +1150,28 @@ function renderConceptList(d){
       <div style="flex:1">
         <div class="sec-name">${s.sk} · ${s.title_en}</div>
         <div class="sec-range">${s.title_hi}</div>
-        ${read?'<div class="sec-status" style="color:var(--green)">✓ पढ़ा · Read</div>':''}
+        ${read?`<div class="sec-status" style="color:var(--green)">✓ पढ़ा · <span onclick="event.stopPropagation();rereadCvSec(${i})" style="color:var(--g);cursor:pointer">Re-read ↻</span></div>`:''}
         ${next?'<div class="sec-status" style="color:var(--g)">→ अगला · Next</div>':''}
       </div>
       <div style="color:var(--tf)">›</div>
     </div>`;
-  }).join('');
+  }).join('')
+  +(allDone?`<div style="text-align:center;padding:14px 0"><button onclick="resetCvProgress()" style="background:none;border:1px solid rgba(214,168,79,.22);color:var(--g);border-radius:14px;padding:10px 20px;font-size:13px;font-family:'Crimson Pro',serif;cursor:pointer">↻ सब रीसेट · Reset All Progress</button></div>`:'');
+}
+
+function rereadCvSec(idx){
+  const p=gCP();
+  p[CCV]=idx>0?idx-1:-1;
+  try{localStorage.setItem('up3_cp',JSON.stringify(p))}catch(e){}
+  openCvSection(idx);
+}
+
+function resetCvProgress(){
+  const p=gCP();
+  delete p[CCV];
+  try{localStorage.setItem('up3_cp',JSON.stringify(p))}catch(e){}
+  if(CCVD) renderConceptList(CCVD);
+  toast('प्रगति रीसेट ✓');
 }
 
 function openCvSection(idx){
