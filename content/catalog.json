@@ -1,7 +1,20 @@
 {
   "version": 1,
   "categories": [
-    {"id": "upanishad", "name": "उपनिषद्", "en": "Upanishads"}
+    {"id": "upanishad", "name": "उपनिषद्", "en": "Upanishads"},
+    {"id": "concept", "name": "मूल सिद्धांत", "en": "Key Concepts"}
+  ],
+  "concepts": [
+    {
+      "id": "adhikari",
+      "name": "अधिकारी",
+      "en": "Adhikari",
+      "icon": "🎓",
+      "color": "#C9A84C",
+      "desc": "साधन चतुष्टय — वेदान्त अध्ययन की चतुर्विध योग्यता",
+      "desc_en": "Four-fold qualifications for Vedanta study",
+      "file": "concepts/adhikari.json"
+    }
   ],
   "texts": [
     {
