@@ -1131,15 +1131,16 @@ function renderConceptList(d){
   const prog=gCP();
   const last=prog[CCV]??-1;
   const total=d.sections.length;
-  const resumeIdx=last>=0?Math.min(last+1,total-1):0;
+  const allDone=last>=total-1;
+  const resumeIdx=allDone?0:(last>=0?last+1:0);
 
   if(last>=0){
     const sec=d.sections[resumeIdx];
     document.getElementById('cv-resume').innerHTML=`
       <div class="res" onclick="openCvSection(${resumeIdx})">
-        <div class="ri">📖</div>
+        <div class="ri">${allDone?'🔄':'📖'}</div>
         <div class="rt">
-          <div class="rl">${last>=total-1?'सभी पढ़ चुके · All read — Re-read':'जारी रखें · Resume'}</div>
+          <div class="rl">${allDone?'सभी पढ़ चुके · All read — Re-read':'जारी रखें · Resume'}</div>
           <div class="rm">${sec.sk} — ${sec.title_hi}</div>
         </div>
         <div class="ra">›</div>
