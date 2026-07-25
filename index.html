@@ -432,7 +432,27 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
     <div class="home-nav-row"><button class="bb" onclick="showHome()">← वापस</button><button class="bb" onclick="showHome()">🏠 Home</button></div>
     <div class="lt"><div class="li" id="cv-icon"></div><div><div class="ln" id="cv-title"></div><div class="ls" id="cv-sub"></div></div></div>
   </div>
+  <div id="cv-resume"></div>
+  <div class="cv-intro-wrap" id="cv-intro-wrap"></div>
+  <div class="lbl" style="padding-top:12px">विषय-सूची · SECTIONS</div>
+  <div class="sec-list" id="cv-sections"></div>
+</div>
+<div class="sc" id="cv-detail">
+  <div class="mvh">
+    <div class="mvt">
+      <div style="display:flex;gap:8px;align-items:center"><button class="mb" onclick="backFromCvDetail()">← सूची</button><button class="mb home-mini" onclick="showHome()">🏠</button></div>
+      <div class="mtb"><div class="mu" id="cvd-title"></div><div class="mm" id="cvd-sub"></div></div>
+    </div>
+    <div class="pg"><div class="pgf" id="cvd-pgf"></div></div>
+  </div>
   <div class="cv-body" id="cv-body"></div>
+  <div class="pt">
+    <div class="pti">
+      <button class="ptb" id="cvd-prev" onclick="goCvSec(-1)">‹</button>
+      <div class="ptc"><div class="ptl" id="cvd-lbl"></div><div class="ptn2" id="cvd-pos"></div></div>
+      <button class="ptb ptn" id="cvd-next" onclick="goCvSec(1)">›</button>
+    </div>
+  </div>
 </div>
 <div class="sc" id="mvw">
   <div class="mvh">
@@ -1052,24 +1072,32 @@ function goM(dir){
 function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),2200);}
 
 // ═══════════════════════════════════════════════════
-// KEY CONCEPTS
+// KEY CONCEPTS — section-based navigation + progress
 // ═══════════════════════════════════════════════════
 let CONCEPTS=[];
 const CONCEPT_DATA={};
+let CCV=null,CCVD=null,CCVI=0;
+
+function gCP(){try{return JSON.parse(localStorage.getItem('up3_cp')||'{}')}catch(e){return{}}}
+function sCP(cid,idx){const p=gCP();p[cid]=Math.max(p[cid]??-1,idx);try{localStorage.setItem('up3_cp',JSON.stringify(p))}catch(e){}}
 
 function renderConceptCards(){
   const el=document.getElementById('cpt-cards');
   if(!el||!CONCEPTS.length)return;
-  el.innerHTML=CONCEPTS.map(c=>`
-    <div class="cpt-card" onclick="openConcept('${c.id}')">
+  const prog=gCP();
+  el.innerHTML=CONCEPTS.map(c=>{
+    const last=prog[c.id]??-1;
+    const started=last>=0;
+    return`<div class="cpt-card" onclick="openConcept('${c.id}')">
       <div class="cpt-icon">${c.icon}</div>
       <div style="flex:1;min-width:0">
         <div class="cpt-name">${c.name}</div>
         <div class="cpt-en">${c.en}</div>
         <div class="cpt-desc">${c.desc}</div>
+        ${started?`<div class="cm"><span class="cc">${last+1} read</span></div>`:''}
       </div>
       <div class="ca">›</div>
-    </div>`).join('');
+    </div>`}).join('');
 }
 
 async function loadConceptData(id){
@@ -1083,33 +1111,94 @@ async function loadConceptData(id){
 }
 
 async function openConcept(id){
+  CCV=id;
   const c=CONCEPTS.find(x=>x.id===id);
   if(!c) return;
   showScr('concept');
   document.getElementById('cv-icon').textContent=c.icon;
   document.getElementById('cv-title').textContent=c.name;
   document.getElementById('cv-sub').textContent=c.en+' — '+c.desc_en;
-  document.getElementById('cv-body').innerHTML='<div class="loading-inline"><div class="om" style="font-size:32px">ॐ</div><p>लोड हो रहा है…</p></div>';
+  document.getElementById('cv-resume').innerHTML='';
+  document.getElementById('cv-intro-wrap').innerHTML='';
+  document.getElementById('cv-sections').innerHTML='<div class="loading-inline"><div class="om" style="font-size:32px">ॐ</div><p>लोड हो रहा है…</p></div>';
   const data=await loadConceptData(id);
   if(!data) return;
-  renderConcept(data);
+  CCVD=data;
+  renderConceptList(data);
 }
 
-function renderConcept(d){
+function renderConceptList(d){
+  const prog=gCP();
+  const last=prog[CCV]??-1;
+  const total=d.sections.length;
+  const resumeIdx=last>=0?Math.min(last+1,total-1):0;
+
+  if(last>=0){
+    const sec=d.sections[resumeIdx];
+    document.getElementById('cv-resume').innerHTML=`
+      <div class="res" onclick="openCvSection(${resumeIdx})">
+        <div class="ri">📖</div>
+        <div class="rt">
+          <div class="rl">${last>=total-1?'सभी पढ़ चुके · All read — Re-read':'जारी रखें · Resume'}</div>
+          <div class="rm">${sec.sk} — ${sec.title_hi}</div>
+        </div>
+        <div class="ra">›</div>
+      </div>`;
+  } else {
+    document.getElementById('cv-resume').innerHTML='';
+  }
+
+  document.getElementById('cv-intro-wrap').innerHTML=`
+    <div class="cv-intro" style="margin:12px 16px">
+      <div class="cv-intro-lbl">परिचय · Introduction</div>
+      <div class="cv-intro-hi">${d.intro_hi}</div>
+      <div class="cv-intro-en">${d.intro_en}</div>
+    </div>`;
+
+  document.getElementById('cv-sections').innerHTML=d.sections.map((s,i)=>{
+    const read=i<=last;
+    const next=i===last+1;
+    return`<div class="sec-card" onclick="openCvSection(${i})">
+      <div class="sec-num" ${read?'style="background:var(--green)"':''}>${read?'✓':s.num}</div>
+      <div style="flex:1">
+        <div class="sec-name">${s.sk} · ${s.title_en}</div>
+        <div class="sec-range">${s.title_hi}</div>
+        ${read?'<div class="sec-status" style="color:var(--green)">✓ पढ़ा · Read</div>':''}
+        ${next?'<div class="sec-status" style="color:var(--g)">→ अगला · Next</div>':''}
+      </div>
+      <div style="color:var(--tf)">›</div>
+    </div>`;
+  }).join('');
+}
+
+function openCvSection(idx){
+  if(!CCVD) return;
+  CCVI=idx;
+  sCP(CCV,idx);
+  renderCvDetail();
+  showScr('cv-detail');
+}
+
+function renderCvDetail(){
+  const d=CCVD,s=d.sections[CCVI];
+  if(!s) return;
+  const total=d.sections.length;
+
+  document.getElementById('cvd-title').textContent=s.sk+' · '+s.ro;
+  document.getElementById('cvd-sub').textContent=d.title+' — '+s.title_en;
+  document.getElementById('cvd-pgf').style.width=((CCVI+1)/total*100)+'%';
+  document.getElementById('cvd-prev').disabled=CCVI===0;
+  document.getElementById('cvd-next').disabled=CCVI>=total-1;
+  document.getElementById('cvd-lbl').textContent=s.sk;
+  document.getElementById('cvd-pos').textContent=(CCVI+1)+' of '+total;
+
   const trads=['advaita','vishisht','aurobindo'];
   const tbg={advaita:'rgba(200,149,106,0.08)',vishisht:'rgba(82,183,136,0.08)',aurobindo:'rgba(192,132,212,0.1)'};
   const tbd={advaita:'rgba(200,149,106,0.25)',vishisht:'rgba(82,183,136,0.25)',aurobindo:'rgba(192,132,212,0.25)'};
   const tcol={advaita:'var(--or)',vishisht:'var(--green)',aurobindo:'var(--pu)'};
 
   let html=`
-    <div class="cv-intro">
-      <div class="cv-intro-lbl">परिचय · Introduction</div>
-      <div class="cv-intro-hi">${d.intro_hi}</div>
-      <div class="cv-intro-en">${d.intro_en}</div>
-    </div>`;
-
-  d.sections.forEach(s=>{
-    html+=`<div class="cv-qual">
+    <div class="cv-qual">
       <div class="cv-qual-num">${s.num}</div>
       <div class="cv-qual-sk">${s.sk}</div>
       <div class="cv-qual-ro">${s.ro}</div>
@@ -1117,37 +1206,56 @@ function renderConcept(d){
       <div class="cv-qual-hi">${s.body_hi}</div>
       <div class="cv-qual-en">${s.body_en}</div>`;
 
-    if(s.sub&&s.sub.length){
-      html+=`<div class="cv-sub"><div class="cv-sub-lbl">${s.id==='shat_sampatti'?'षड्-गुण · Six Virtues':'उप-विषय · Sub-topics'}</div>`;
-      s.sub.forEach(sub=>{
-        html+=`<div class="cv-sub-item">
-          <div class="cv-sub-sk">${sub.sk}</div>
-          <div class="cv-sub-hi">${sub.hi}</div>
-          <div class="cv-sub-en">${sub.en}</div>
-        </div>`;
-      });
-      html+=`</div>`;
-    }
-
-    html+=`<div class="cv-cm-lbl">परंपरा दृष्टि · Tradition Views</div>`;
-    trads.forEach(t=>{
-      const c=s.cm[t]||{};
-      html+=`<div class="cb on trad-card" style="background:${tbg[t]};border:1px solid ${tbd[t]}">
-        <div class="cba" style="color:${tcol[t]}">${c.a||''}</div>
-        <div class="chi">${c.h||''}</div>
-        <div class="cen">${c.en||''}</div>
-        ${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}
+  if(s.sub&&s.sub.length){
+    html+=`<div class="cv-sub"><div class="cv-sub-lbl">${s.id==='shat_sampatti'?'षड्-गुण · Six Virtues':'उप-विषय · Sub-topics'}</div>`;
+    s.sub.forEach(sub=>{
+      html+=`<div class="cv-sub-item">
+        <div class="cv-sub-sk">${sub.sk}</div>
+        <div class="cv-sub-hi">${sub.hi}</div>
+        <div class="cv-sub-en">${sub.en}</div>
       </div>`;
     });
-
-    if(s.refs){
-      html+=`<div class="cv-refs"><div class="cv-refs-lbl">संदर्भ · References</div>${s.refs}</div>`;
-    }
-
     html+=`</div>`;
+  }
+
+  html+=`<div class="cv-cm-lbl">परंपरा दृष्टि · Tradition Views</div>`;
+  trads.forEach(t=>{
+    const c=s.cm[t]||{};
+    html+=`<div class="cb on trad-card" style="background:${tbg[t]};border:1px solid ${tbd[t]}">
+      <div class="cba" style="color:${tcol[t]}">${c.a||''}</div>
+      <div class="chi">${c.h||''}</div>
+      <div class="cen">${c.en||''}</div>
+      ${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}
+    </div>`;
   });
 
+  if(s.refs){
+    html+=`<div class="cv-refs"><div class="cv-refs-lbl">संदर्भ · References</div>${s.refs}</div>`;
+  }
+
+  html+=`</div>`;
+
   document.getElementById('cv-body').innerHTML=html;
+}
+
+function goCvSec(dir){
+  if(!CCVD) return;
+  const nx=CCVI+dir;
+  if(nx<0||nx>=CCVD.sections.length) return;
+  CCVI=nx;
+  sCP(CCV,nx);
+  const b=document.getElementById('cv-body');
+  b.style.cssText='transition:opacity 0.15s,transform 0.15s;opacity:0;transform:translateX('+(dir>0?'40px':'-40px')+')';
+  setTimeout(()=>{
+    renderCvDetail();
+    b.style.transform='translateX('+(dir>0?'-30px':'30px')+')';b.style.opacity='0';
+    setTimeout(()=>{b.style.cssText='transition:opacity 0.2s,transform 0.2s;opacity:1;transform:translateX(0)';window.scrollTo(0,0);},30);
+  },160);
+}
+
+function backFromCvDetail(){
+  if(CCVD) renderConceptList(CCVD);
+  showScr('concept');
 }
 
 init();
