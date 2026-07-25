@@ -7,27 +7,197 @@
     "en": "Bhrigu, the son of Varuṇa (vāruṇi), approached (upasasāra) his father Varuṇa. 'Teach me, revered sir, Brahman (adhīhi bhagavo brahma),' [he said]. To him, [Varuṇa] declared this: 'Food (anna), breath (prāṇa), sight (cakṣus), hearing (śrotra), mind (manas), speech (vāc)' — [these are the means of knowing Brahman]. He said to him: 'That from which (yataḥ) these beings are born (jāyante), that by which (yena), once born, they live (jīvanti), that into which (yat), departing, they enter (abhisaṁviśanti) — seek to know that (vijijñāsasva). That is Brahman.' He performed tapas (austerity). Having performed tapas —",
     "ws": [
       {
+        "s": "भृगुः",
+        "h": "भृगु (ऋषि का नाम)",
+        "e": "Bhrigu (name of the sage)"
+      },
+      {
+        "s": "वै",
+        "h": "निश्चय ही",
+        "e": "indeed / verily"
+      },
+      {
+        "s": "वारुणिः",
+        "h": "वरुण का पुत्र",
+        "e": "son of Varuna"
+      },
+      {
+        "s": "वरुणम्",
+        "h": "वरुण को (देवता / पिता)",
+        "e": "Varuna (the deity / father)"
+      },
+      {
+        "s": "पितरम्",
+        "h": "पिता को",
+        "e": "father"
+      },
+      {
         "s": "उपससार",
-        "h": "पास गया / समीप गया / approached",
+        "h": "पास गया / समीप गया",
         "e": "approached"
       },
       {
         "s": "अधीहि",
-        "h": "पढ़ाइए / सिखाइए / teach me / instruct me",
+        "h": "पढ़ाइए / सिखाइए",
         "e": "teach me / instruct me"
       },
       {
-        "s": "विजिज्ञासस्व",
-        "h": "जानने की इच्छा करो / seek to know / desire to know thoroughly",
-        "e": "seek to know / desire to know thoroughly"
+        "s": "भगवो",
+        "h": "हे भगवन् / हे पूज्य",
+        "e": "O revered sir / O Lord"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम तत्त्व",
+        "e": "Brahman / the Absolute"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा / इस प्रकार",
+        "e": "thus / so"
+      },
+      {
+        "s": "तस्मै",
+        "h": "उसको / उसके लिए",
+        "e": "to him"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "प्रोवाच",
+        "h": "कहा / बताया",
+        "e": "declared / told"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन",
+        "e": "food"
+      },
+      {
+        "s": "प्राणम्",
+        "h": "प्राण / श्वास",
+        "e": "breath / life-force"
+      },
+      {
+        "s": "चक्षुः",
+        "h": "नेत्र / दृष्टि",
+        "e": "eye / sight"
+      },
+      {
+        "s": "श्रोत्रम्",
+        "h": "कान / श्रवण",
+        "e": "ear / hearing"
+      },
+      {
+        "s": "मनः",
+        "h": "मन",
+        "e": "mind"
+      },
+      {
+        "s": "वाचम्",
+        "h": "वाणी / वाक्",
+        "e": "speech"
+      },
+      {
+        "s": "तम्",
+        "h": "उससे / उसको",
+        "e": "to him"
+      },
+      {
+        "s": "ह उवाच",
+        "h": "कहा (निश्चय ही कहा)",
+        "e": "said (emphatically)"
+      },
+      {
+        "s": "यतः",
+        "h": "जिससे / जहाँ से",
+        "e": "from which"
+      },
+      {
+        "s": "वा",
+        "h": "निश्चय ही / या",
+        "e": "indeed / or"
+      },
+      {
+        "s": "इमानि",
+        "h": "ये सब",
+        "e": "these"
+      },
+      {
+        "s": "भूतानि",
+        "h": "प्राणी / जीव",
+        "e": "beings / creatures"
+      },
+      {
+        "s": "जायन्ते",
+        "h": "जन्म लेते हैं / उत्पन्न होते हैं",
+        "e": "are born / arise"
+      },
+      {
+        "s": "येन",
+        "h": "जिससे / जिसके द्वारा",
+        "e": "by which"
+      },
+      {
+        "s": "जातानि",
+        "h": "जन्मे हुए / उत्पन्न हुए",
+        "e": "once born / having been born"
+      },
+      {
+        "s": "जीवन्ति",
+        "h": "जीवित रहते हैं",
+        "e": "live / are alive"
+      },
+      {
+        "s": "यत्",
+        "h": "जिसमें",
+        "e": "into which"
+      },
+      {
+        "s": "प्रयन्ति",
+        "h": "जाते हुए / प्रस्थान करते हुए",
+        "e": "departing / going forth"
       },
       {
         "s": "अभिसंविशन्ति",
-        "h": "प्रवेश करते हैं / लौट कर समा जाते हैं / they enter into / they merge back",
+        "h": "प्रवेश करते हैं / लौट कर समा जाते हैं",
         "e": "they enter into / they merge back"
+      },
+      {
+        "s": "तत्",
+        "h": "उसे / वह",
+        "e": "that"
+      },
+      {
+        "s": "विजिज्ञासस्व",
+        "h": "जानने की इच्छा करो / खोजो",
+        "e": "seek to know / desire to know thoroughly"
+      },
+      {
+        "s": "सः",
+        "h": "उसने / वह",
+        "e": "he"
+      },
+      {
+        "s": "तपः",
+        "h": "तप / तपस्या",
+        "e": "tapas / austerity / contemplation"
+      },
+      {
+        "s": "अतप्यत",
+        "h": "तपस्या की / तपा",
+        "e": "performed tapas"
+      },
+      {
+        "s": "तप्त्वा",
+        "h": "तप करके",
+        "e": "having performed tapas"
       }
     ],
-    "gr": "<strong>Bhrigu approaches Varuṇa — the great inquiry begins</strong>: this opening mantra sets the stage for the entire Bhṛguvallī. <strong>The student</strong>: Bhṛgu, son of Varuṇa — approaching his own father as guru. The father-son teacher-student relationship is a pattern in the Upanishads (cf. Uddālaka-Śvetaketu in the Chāndogya, Yama-Naciketa in the Kaṭha). <strong>The request</strong>: 'adhīhi bhagavo brahma' — the simplest, most direct request possible: 'Teach me Brahman.' <strong>Varuṇa's first response</strong>: Varuṇa gives Bhrigu the INSTRUMENTS of knowing — anna (food), prāṇa (breath), cakṣus (sight), śrotra (hearing), manas (mind), vāc (speech). These are not Brahman itself but the faculties through which Brahman can be investigated. <strong>The definition of Brahman</strong>: Varuṇa then gives the famous triple formula: 'That from which beings are born (janma-kāraṇa), that by which they live (sthiti-kāraṇa), that into which they enter at the end (laya-kāraṇa) — THAT is Brahman.' This threefold causality (origin, sustenance, dissolution) is the functional definition of Brahman — not what Brahman IS in itself, but what Brahman DOES. <strong>The method</strong>: 'vijijñāsasva' — SEEK TO KNOW. Varuṇa does NOT simply tell Bhrigu the answer. He gives Bhrigu a method: (1) a definition/criterion (the triple formula), (2) a practice (tapas = austerity/contemplation), and (3) freedom to discover for himself. <strong>Tapas</strong>: Bhrigu's response is tapas — concentrated contemplation/austerity. This will be his tool for each successive realisation.",
+    "gr": "<strong>व्याकरण:</strong> <em>भृगुः वै वारुणिः</em> — 'भृगुः' (प्रथमा एकवचन, पुंल्लिंग) = भृगु ऋषि; 'वै' = निश्चयार्थक अव्यय; 'वारुणिः' (पैतृक-सम्बन्ध-सूचक तद्धित, प्रथमा) = वरुण का पुत्र। <em>वरुणं पितरम् उपससार</em> — 'वरुणम्' (द्वितीया) + 'पितरम्' (द्वितीया) = कर्म; 'उपससार' (उप+सस्+लिट्, परस्मैपद, प्रथम पुरुष एकवचन) = समीप गया। <em>अधीहि भगवो ब्रह्म इति</em> — 'अधीहि' (अधि+इ, लोट् लकार, मध्यम पुरुष एकवचन) = पढ़ाइए; 'भगवः' (सम्बोधन) = हे भगवन्; 'ब्रह्म' (द्वितीया, नपुंसकलिंग)। <em>तस्मै एतत् प्रोवाच</em> — 'तस्मै' (चतुर्थी) = उसके लिए; 'प्रोवाच' (प्र+वच्, लिट्) = कहा। <em>अन्नं प्राणं चक्षुः श्रोत्रं मनो वाचम्</em> — ये छह पद ब्रह्म-ज्ञान के साधन हैं (सभी द्वितीया विभक्ति में)। <em>यतो वा इमानि भूतानि जायन्ते</em> — 'यतः' (अव्यय, कारणार्थक) = जिससे; 'जायन्ते' (जन्, लट् लकार, आत्मनेपद, प्रथम पुरुष बहुवचन)। <em>येन जातानि जीवन्ति</em> — 'येन' (तृतीया) = जिससे; 'जातानि' (भूतकृदन्त) = जन्मे हुए; 'जीवन्ति' (जीव्, लट्, प्रथम पुरुष बहुवचन)। <em>यत् प्रयन्ति अभिसंविशन्ति</em> — 'यत्' (द्वितीया, नपुंसकलिंग) = जिसमें; 'प्रयन्ति' (प्र+या, लट्) = जाते हैं; 'अभिसंविशन्ति' (अभि+सम्+विश्, लट्) = प्रवेश करते हैं। <em>तत् विजिज्ञासस्व</em> — 'विजिज्ञासस्व' (वि+ज्ञा, देसिडरेटिव / सन्नन्त, लोट्, आत्मनेपद, मध्यम पुरुष एकवचन) = जानने की इच्छा करो — इच्छार्थक धातु-रूप। <em>स तपोऽतप्यत</em> — 'सः' (प्रथमा) = वह; 'तपः' (द्वितीया/अव्ययीभाव) = तप; 'अतप्यत' (तप्, लङ् लकार, कर्मवाच्य/आत्मनेपद) = तपा / तपस्या की। <em>स तपस्तप्त्वा</em> — 'तप्त्वा' (क्त्वा-प्रत्ययान्त, पूर्वकालिक कृदन्त) = तप करके।<br><em>Eng:</em> 'bhṛguḥ' (nom. sg.) = Bhrigu; 'vāruṇiḥ' (patronymic taddhita) = son of Varuṇa; 'upasasāra' (upa+sṛ, perf. 3sg) = approached; 'adhīhi' (adhi+i, imperative 2sg) = teach; 'provāca' (pra+vac, perf.) = declared; six instruments listed in accusative: annam, prāṇam, cakṣuḥ, śrotram, manaḥ, vācam; 'yataḥ' (ablative adverb) = from which; 'jāyante' (jan, pres. ātm. 3pl) = are born; 'yena' (instr.) = by which; 'jīvanti' (jīv, pres. 3pl) = live; 'abhisaṁviśanti' (abhi+sam+viś, pres. 3pl) = enter into; 'vijijñāsasva' (desiderative of vi+jñā, imperative ātm. 2sg) = seek to know; 'atapyata' (tap, impf. pass./ātm. 3sg) = performed tapas; 'taptvā' (ktvā-participle) = having performed tapas.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -52,11 +222,11 @@
     "dp": [
       {
         "q": "🔍 The triple formula — Brahman as origin, sustenance, and goal",
-        "a": "Varuṇa's definition of Brahman — <strong>'yato vā imāni bhūtāni jāyante, yena jātāni jīvanti, yat prayanty abhisaṁviśanti'</strong> — is one of the most important functional definitions in the Upanishads: <strong>The three aspects</strong>: (1) <em>Janma-kāraṇa (cause of origin)</em>: 'yataḥ imāni bhūtāni jāyante' — that FROM WHICH all beings are born. Brahman is the material and/or efficient cause of creation. (2) <em>Sthiti-kāraṇa (cause of sustenance)</em>: 'yena jātāni jīvanti' — that BY WHICH, once born, they live. Brahman is not just the creator but the sustainer — the ongoing support of all existence. (3) <em>Laya-kāraṇa (cause of dissolution)</em>: 'yat prayanty abhisaṁviśanti' — that INTO WHICH, departing, they enter. Brahman is the final destination — all beings return to their source. <strong>The Brahma Sūtra connection</strong>: Bādarāyaṇa's Brahma Sūtra 1.1.2 — 'janmādy asya yataḥ' (that from which the birth etc. [of this universe proceeds]) — is widely understood as a direct paraphrase of this Taittirīya passage. This makes the Bhṛguvallī's definition foundational for all subsequent Vedāntic philosophy. <strong>The method, not the answer</strong>: Varuṇa gives Bhrigu a CRITERION, not a conclusion. He says: whatever satisfies this triple test — origin, sustenance, dissolution — THAT is Brahman. Now go find it. This turns the student from a passive recipient into an active inquirer. Bhrigu must test each candidate (food, breath, mind, knowledge, bliss) against this criterion. <strong>The universal scope</strong>: the formula covers ALL beings ('imāni bhūtāni') and ALL phases of existence (birth, life, death/dissolution). Nothing falls outside it. Whatever is the universal cause of all these — that alone is Brahman."
+        "a": "वरुण का त्रिसूत्र — <strong>'यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति, यत् प्रयन्त्यभिसंविशन्ति'</strong> — उपनिषदों में ब्रह्म की सबसे महत्त्वपूर्ण कार्यात्मक परिभाषाओं में से एक है। <strong>तीन पक्ष:</strong> (1) <em>जन्म-कारण (उत्पत्ति)</em>: 'यतः इमानि भूतानि जायन्ते' — जिससे सभी प्राणी उत्पन्न होते हैं। ब्रह्म सृष्टि का उपादान और/या निमित्त कारण है। (2) <em>स्थिति-कारण (पालन)</em>: 'येन जातानि जीवन्ति' — जिससे उत्पन्न होकर जीवित रहते हैं। ब्रह्म केवल सृष्टिकर्ता नहीं, पालनकर्ता भी है। (3) <em>लय-कारण (प्रलय)</em>: 'यत् प्रयन्त्यभिसंविशन्ति' — जिसमें जाकर प्रवेश करते हैं। ब्रह्म अन्तिम गन्तव्य है — सभी प्राणी अपने मूल में लौटते हैं। <strong>ब्रह्मसूत्र से सम्बन्ध:</strong> बादरायण का ब्रह्मसूत्र 1.1.2 — 'जन्माद्यस्य यतः' — इसी तैत्तिरीय वाक्य का सीधा अनुवाद माना जाता है। इससे भृगुवल्ली की यह परिभाषा समस्त वेदान्त-दर्शन की आधारशिला बन जाती है। <strong>विधि, न कि उत्तर:</strong> वरुण भृगु को निष्कर्ष नहीं देते — एक कसौटी देते हैं: जो इस त्रिविध परीक्षा पर खरा उतरे — वही ब्रह्म। अब जाकर खोजो। यह शिष्य को निष्क्रिय श्रोता से सक्रिय अन्वेषक बना देता है। भृगु को प्रत्येक उम्मीदवार (अन्न, प्राण, मन, विज्ञान, आनन्द) को इसी कसौटी पर परखना होगा। <strong>सार्वभौमिक परिधि:</strong> यह सूत्र 'इमानि भूतानि' (सभी प्राणी) और अस्तित्व के तीनों चरणों (जन्म, जीवन, लय) को समेटता है। इसके बाहर कुछ नहीं। जो इन सबका सार्वभौमिक कारण हो — वही ब्रह्म।<br><br><em>Eng:</em> Varuṇa's triple formula is one of the most important functional definitions of Brahman in the Upanishads. Three aspects: (1) Origin — 'that from which beings are born'; (2) Sustenance — 'that by which they live'; (3) Dissolution — 'that into which they enter.' Brahma Sūtra 1.1.2 ('janmādy asya yataḥ') is a direct paraphrase of this passage, making this definition foundational for all Vedānta. Varuṇa gives a CRITERION, not a conclusion — the student must test each candidate against this triple test. The formula covers ALL beings and ALL phases of existence."
       },
       {
         "q": "🔍 'Vijijñāsasva' — the pedagogy of self-discovery",
-        "a": "Varuṇa's instruction <strong>'vijijñāsasva'</strong> (seek to know) introduces a distinctive pedagogical method — one that contrasts sharply with the 'direct teaching' approach of other Upanishads: <strong>The Bhṛguvallī method</strong>: (1) Teacher gives the CRITERION (the triple formula). (2) Teacher gives the METHOD (tapas). (3) Student DISCOVERS the answer through practice. (4) Student returns with each successive realisation. (5) Teacher implicitly redirects ('tapas is Brahman — do more tapas'). (6) Student goes deeper until reaching the final answer. <strong>Compare with other Upanishads</strong>: (a) <em>Chāndogya</em>: Uddālaka TELLS Śvetaketu: 'tat tvam asi' (you are that) — a direct declaration. (b) <em>Kaṭha</em>: Yama TEACHES Naciketa step by step — a structured lecture. (c) <em>Bṛhadāraṇyaka</em>: Yājñavalkya EXPLAINS through dialogue — question and answer. The Bhṛguvallī is unique: Varuṇa does NOT tell Bhrigu what Brahman is. He gives him the tools and says: find out for yourself. <strong>Why this matters</strong>: (a) Self-discovered knowledge is deeper than received knowledge — what you find through your own tapas becomes part of you. (b) The progressive discoveries (anna → prāṇa → manas → vijñāna → ānanda) mirror the five-sheath analysis of the Brahmānandavallī — but discovered from the OUTSIDE IN rather than taught from the inside out. (c) The method validates PROCESS over product — the journey of discovery IS the teaching, not just the final answer. <strong>Tapas as the instrument</strong>: tapas (austerity/concentrated contemplation) is the means of each discovery. This is not physical penance but focused, sustained inquiry — the mind concentrated on a question until the answer reveals itself."
+        "a": "वरुण का निर्देश <strong>'विजिज्ञासस्व'</strong> (जानने की इच्छा करो) एक विशिष्ट शिक्षण-पद्धति प्रस्तुत करता है — जो अन्य उपनिषदों की 'प्रत्यक्ष शिक्षा' विधि से सर्वथा भिन्न है। <strong>भृगुवल्ली-विधि:</strong> (1) गुरु कसौटी देता है (त्रिसूत्र)। (2) गुरु साधन देता है (तपस्)। (3) शिष्य स्वयं अभ्यास से उत्तर खोजता है। (4) शिष्य प्रत्येक अनुभव के बाद लौटता है। (5) गुरु परोक्ष रूप से पुनर्निर्देश करता है ('तपो ब्रह्म — और तप करो')। (6) शिष्य गहराई तक पहुँचता है। <strong>अन्य उपनिषदों से तुलना:</strong> (क) <em>छान्दोग्य</em>: उद्दालक श्वेतकेतु को सीधे बताते हैं — 'तत् त्वम् असि' — प्रत्यक्ष उद्घोषणा। (ख) <em>कठ</em>: यम नचिकेता को क्रमबद्ध व्याख्यान देते हैं। (ग) <em>बृहदारण्यक</em>: याज्ञवल्क्य संवाद-शैली से समझाते हैं। भृगुवल्ली अनोखी है: वरुण भृगु को ब्रह्म का स्वरूप नहीं बताते। वे उपकरण देते हैं और कहते हैं — स्वयं खोजो। <strong>इसका महत्त्व:</strong> (क) स्वयं-खोजा हुआ ज्ञान सुने हुए ज्ञान से गहरा होता है — जो तप से पाओ वह तुम्हारा अंग बन जाता है। (ख) क्रमिक अनुभव (अन्न → प्राण → मनस् → विज्ञान → आनन्द) ब्रह्मानन्दवल्ली के पञ्चकोश-विश्लेषण को दोहराते हैं — किन्तु बाहर से भीतर की ओर, सिद्धान्त से नहीं बल्कि अनुभव से। (ग) यह विधि परिणाम से अधिक प्रक्रिया को महत्त्व देती है — खोज की यात्रा ही शिक्षा है। <strong>तपस् साधन के रूप में:</strong> तपस् (तप / एकाग्र चिन्तन) प्रत्येक अनुभव का साधन है। यह शारीरिक कष्ट नहीं, बल्कि केन्द्रित, सतत अन्वेषण है — मन एक प्रश्न पर तब तक टिका रहे जब तक उत्तर स्वयं प्रकट न हो।<br><br><em>Eng:</em> Varuṇa's 'vijijñāsasva' (seek to know) introduces a distinctive pedagogical method: the teacher gives the criterion and method, not the answer. Unlike the Chāndogya's direct 'tat tvam asi,' the Kaṭha's structured lecture, or the Bṛhadāraṇyaka's dialogue, the Bhṛguvallī makes the student DISCOVER truth through tapas. Self-discovered knowledge is deeper; the progressive discoveries mirror the five-sheath analysis; the journey IS the teaching. Tapas here is concentrated contemplation — sustained inquiry until the answer reveals itself."
       }
     ]
   },
@@ -68,22 +238,177 @@
     "en": "He understood (vyajānāt): 'Food (anna) is Brahman.' For from food indeed (annāt hi eva khalu) these beings are born; by food, once born, they live; into food, departing, they enter. Having known (vijñāya) that, he again (punaḥ) approached his father Varuṇa. 'Teach me, revered sir, Brahman.' He said to him: 'By tapas (austerity), seek to know Brahman (tapasā brahma vijijñāsasva). Tapas is Brahman (tapo brahma).' He performed tapas. Having performed tapas —",
     "ws": [
       {
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन",
+        "e": "food"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम तत्त्व",
+        "e": "Brahman / the Absolute"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा / इस प्रकार",
+        "e": "thus / so"
+      },
+      {
         "s": "व्यजानात्",
-        "h": "जाना / समझा / he understood / he realised",
+        "h": "जाना / समझा",
         "e": "he understood / he realised"
       },
       {
+        "s": "अन्नात्",
+        "h": "अन्न से",
+        "e": "from food"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि / निश्चय ही",
+        "e": "for / indeed"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चित रूप से",
+        "e": "indeed / certainly"
+      },
+      {
         "s": "खलु",
-        "h": "निश्चय ही / indeed / certainly",
-        "e": "indeed / certainly / verily"
+        "h": "निश्चय ही / वास्तव में",
+        "e": "indeed / verily"
+      },
+      {
+        "s": "इमानि",
+        "h": "ये सब",
+        "e": "these"
+      },
+      {
+        "s": "भूतानि",
+        "h": "प्राणी / जीव",
+        "e": "beings / creatures"
+      },
+      {
+        "s": "जायन्ते",
+        "h": "जन्म लेते हैं",
+        "e": "are born"
+      },
+      {
+        "s": "अन्नेन",
+        "h": "अन्न से / अन्न के द्वारा",
+        "e": "by food"
+      },
+      {
+        "s": "जातानि",
+        "h": "जन्मे हुए",
+        "e": "once born"
+      },
+      {
+        "s": "जीवन्ति",
+        "h": "जीवित रहते हैं",
+        "e": "live"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न को / अन्न में",
+        "e": "into food"
+      },
+      {
+        "s": "प्रयन्ति",
+        "h": "जाते हैं / प्रस्थान करते हैं",
+        "e": "departing / going forth"
+      },
+      {
+        "s": "अभिसंविशन्ति",
+        "h": "प्रवेश करते हैं / समा जाते हैं",
+        "e": "they enter into / merge back"
+      },
+      {
+        "s": "तत्",
+        "h": "उसे / वह",
+        "e": "that"
+      },
+      {
+        "s": "विज्ञाय",
+        "h": "जानकर / समझकर",
+        "e": "having known / having understood"
+      },
+      {
+        "s": "पुनः",
+        "h": "फिर / पुनः",
+        "e": "again"
+      },
+      {
+        "s": "वरुणम्",
+        "h": "वरुण को",
+        "e": "Varuna"
+      },
+      {
+        "s": "पितरम्",
+        "h": "पिता को",
+        "e": "father"
+      },
+      {
+        "s": "उपससार",
+        "h": "पास गया / समीप गया",
+        "e": "approached"
+      },
+      {
+        "s": "अधीहि",
+        "h": "पढ़ाइए / सिखाइए",
+        "e": "teach me"
+      },
+      {
+        "s": "भगवो",
+        "h": "हे भगवन् / हे पूज्य",
+        "e": "O revered sir"
+      },
+      {
+        "s": "तम्",
+        "h": "उससे / उसको",
+        "e": "to him"
+      },
+      {
+        "s": "ह उवाच",
+        "h": "कहा (निश्चय ही कहा)",
+        "e": "said (emphatically)"
+      },
+      {
+        "s": "तपसा",
+        "h": "तप से / तपस्या द्वारा",
+        "e": "by tapas / through austerity"
+      },
+      {
+        "s": "विजिज्ञासस्व",
+        "h": "जानने की इच्छा करो",
+        "e": "seek to know"
       },
       {
         "s": "तपो ब्रह्म",
-        "h": "तप ही ब्रह्म है / tapas is Brahman",
+        "h": "तप ही ब्रह्म है",
         "e": "tapas is Brahman"
+      },
+      {
+        "s": "सः",
+        "h": "उसने / वह",
+        "e": "he"
+      },
+      {
+        "s": "तपः",
+        "h": "तप / तपस्या",
+        "e": "tapas / austerity"
+      },
+      {
+        "s": "अतप्यत",
+        "h": "तपस्या की",
+        "e": "performed tapas"
+      },
+      {
+        "s": "तप्त्वा",
+        "h": "तप करके",
+        "e": "having performed tapas"
       }
     ],
-    "gr": "<strong>First realisation — food (anna) is Brahman</strong>: Bhrigu's first discovery through tapas is that FOOD is Brahman. <strong>The reasoning</strong>: food satisfies Varuṇa's triple criterion: (1) Beings are born from food — all life depends on nourishment for coming into being. (2) Beings live by food — they are sustained by eating. (3) Beings return to food — at death, the body returns to earth and becomes nourishment for other life. <strong>Is this wrong?</strong> Bhrigu's answer is not FALSE — it is INCOMPLETE. Food IS a legitimate candidate for Brahman at the physical level. The Brahmānandavallī (2.2) praises food extensively ('annāt vai prajāḥ prajāyante'). Food IS the origin, sustainer, and goal of physical existence. But food is the OUTERMOST layer — the annamaya kośa. There are deeper realities. <strong>Varuṇa's response</strong>: crucially, Varuṇa does NOT say 'you are wrong.' He says: 'tapasā brahma vijijñāsasva — tapo brahma' — 'seek to know Brahman through tapas; tapas is Brahman.' This is a gentle redirection: your answer is valid but not complete. Go deeper. The identification 'tapo brahma' (tapas is Brahman) is both instruction (use tapas to find Brahman) and hint (the answer lies in the process itself). <strong>The pattern established</strong>: this mantra establishes the pattern for mantras 2-6: Bhrigu realises → returns → asks again → Varuṇa says 'do more tapas' → Bhrigu does tapas → next realisation. Each cycle takes him one layer deeper.",
+    "gr": "<strong>व्याकरण:</strong> <em>अन्नं ब्रह्मेति व्यजानात्</em> — 'अन्नम्' (प्रथमा, नपुंसकलिंग) = अन्न; 'ब्रह्म' (प्रथमा) = ब्रह्म; 'इति' = ऐसा; 'व्यजानात्' (वि+ज्ञा, लङ् लकार, परस्मैपद, प्रथम पुरुष एकवचन) = उसने जाना / समझा — 'वि' उपसर्ग विशेष ज्ञान का बोधक है। <em>अन्नात् हि एव खलु</em> — 'अन्नात्' (पञ्चमी, अपादान कारक) = अन्न से; 'हि' = क्योंकि; 'एव' = ही; 'खलु' = निश्चय ही — तीन निश्चयार्थक अव्यय मिलकर दृढ़ निश्चय व्यक्त करते हैं। <em>इमानि भूतानि जायन्ते</em> — 'इमानि' (सर्वनाम, प्रथमा बहुवचन, नपुंसकलिंग) = ये; 'भूतानि' (प्रथमा बहुवचन) = प्राणी; 'जायन्ते' (जन्, लट् आत्मनेपद, प्रथम पुरुष बहुवचन)। <em>अन्नेन जातानि जीवन्ति</em> — 'अन्नेन' (तृतीया) = अन्न द्वारा; 'जातानि' (भूतकृदन्त, प्रथमा बहुवचन) = जन्मे हुए; 'जीवन्ति' (जीव्, लट्, प्रथम पुरुष बहुवचन)। <em>अन्नं प्रयन्त्यभिसंविशन्ति</em> — 'अन्नम्' (द्वितीया) = अन्न में; 'प्रयन्ति' (प्र+या, लट्); 'अभिसंविशन्ति' (अभि+सम्+विश्, लट्)। <em>तत् विज्ञाय</em> — 'विज्ञाय' (वि+ज्ञा, ल्यप् / पूर्वकालिक कृदन्त) = जानकर। <em>पुनः एव</em> — 'पुनः' = फिर; 'एव' = ही — फिर से (पुनरावृत्ति का बोध)। <em>तपसा ब्रह्म विजिज्ञासस्व</em> — 'तपसा' (तृतीया) = तप द्वारा; 'विजिज्ञासस्व' (सन्नन्त, लोट्, आत्मनेपद)। <em>तपो ब्रह्मेति</em> — 'तपः' (प्रथमा) = तप; 'ब्रह्म' (प्रथमा) — अभेद-सम्बन्ध (तप = ब्रह्म)। यह वाक्य उपदेश भी है (तप द्वारा ब्रह्म खोजो) और संकेत भी (उत्तर स्वयं प्रक्रिया में है)।<br><em>Eng:</em> 'vyajānāt' (vi+jñā, impf. 3sg) = he understood/realised; 'annāt' (abl.) = from food; 'hi eva khalu' = three emphatic particles stressing certainty; 'jāyante' (jan, pres. ātm. 3pl); 'annena' (instr.) = by food; 'jātāni' (past participle, nom. pl.) = once born; 'vijñāya' (lyap gerund of vi+jñā) = having known; 'punaḥ' = again; 'tapasā' (instr.) = by tapas; 'vijijñāsasva' (desiderative imperative); 'tapo brahma' = tapas is Brahman — an identity statement using nominative juxtaposition.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -108,11 +433,11 @@
     "dp": [
       {
         "q": "🔍 Anna as Brahman — the physical layer",
-        "a": "Bhrigu's first realisation — <strong>anna (food) = Brahman</strong> — represents the discovery of Brahman at the <strong>physical level</strong>: <strong>The logic</strong>: food satisfies Varuṇa's triple criterion perfectly at the material level: (a) All beings are BORN from food — life requires nourishment from the very first cell. (b) All beings LIVE by food — without eating, no creature survives. (c) All beings RETURN to food — at death, the body decomposes and becomes nourishment for plants and other organisms. The cycle is complete. <strong>Why it corresponds to the annamaya kośa</strong>: this first realisation maps exactly onto the Brahmānandavallī's first sheath — the annamaya kośa (the self made of food). Bhrigu is rediscovering through personal inquiry what the Brahmānandavallī taught theoretically. <strong>Why it is incomplete</strong>: food satisfies the criterion at the physical level but misses the deeper question. Food is INERT (jaḍa) — it does not know itself, it does not intend anything, it does not have consciousness. If Brahman is the ultimate reality, it must account for consciousness, not just matter. Food explains the body but not the mind, not awareness, not bliss. <strong>The Taittirīya's affirmation of matter</strong>: importantly, the Bhṛguvallī does NOT dismiss food. It does not say 'food is NOT Brahman.' It says food is Brahman — but not the WHOLE of Brahman. There are deeper layers. This is characteristic of the Taittirīya's approach: each layer is affirmed, not rejected, as the inquiry goes deeper."
+        "a": "भृगु का प्रथम साक्षात्कार — <strong>अन्न (भोजन) = ब्रह्म</strong> — भौतिक स्तर पर ब्रह्म की खोज है। <strong>तर्क:</strong> अन्न वरुण के त्रिसूत्र को भौतिक स्तर पर पूर्णतः सन्तुष्ट करता है: (क) सभी प्राणी अन्न से उत्पन्न होते हैं — प्रथम कोशिका से ही जीवन पोषण पर निर्भर है। (ख) सभी प्राणी अन्न से जीवित रहते हैं — बिना भोजन कोई प्राणी जीवित नहीं रह सकता। (ग) सभी प्राणी अन्न में लौटते हैं — मृत्यु पर शरीर मिट्टी में मिलकर अन्य जीवों का पोषण बनता है। चक्र पूर्ण है। <strong>अन्नमय कोश से सम्बन्ध:</strong> यह पहला साक्षात्कार ब्रह्मानन्दवल्ली के अन्नमय कोश (2.2) से सीधे मेल खाता है। भृगु व्यक्तिगत अन्वेषण द्वारा वही खोज रहा है जो ब्रह्मानन्दवल्ली ने सैद्धान्तिक रूप से बताया था। <strong>क्यों अपूर्ण है:</strong> अन्न भौतिक स्तर पर कसौटी पूरी करता है, किन्तु गहरे प्रश्न से चूकता है। अन्न जड़ (jaḍa) है — यह स्वयं को नहीं जानता, इसमें संकल्प नहीं, चेतना नहीं। यदि ब्रह्म परम सत्य है तो उसमें चेतना होनी चाहिए, केवल पदार्थ नहीं। अन्न शरीर की व्याख्या करता है, मन की नहीं, बोध की नहीं, आनन्द की नहीं। <strong>तैत्तिरीय की पदार्थ-स्वीकृति:</strong> भृगुवल्ली अन्न को खारिज नहीं करती। यह नहीं कहती 'अन्न ब्रह्म नहीं है।' यह कहती है — अन्न ब्रह्म है, किन्तु सम्पूर्ण ब्रह्म नहीं। और गहरी परतें हैं। यह तैत्तिरीय की विशेषता है — प्रत्येक स्तर स्वीकृत है, अस्वीकृत नहीं।<br><br><em>Eng:</em> Bhrigu's first realisation — anna (food) = Brahman — represents discovery at the physical level. Food satisfies the triple criterion materially: beings are born from food, live by food, return to food. It maps to the annamaya kośa (Brahmānandavallī 2.2). However, food is INERT — it lacks consciousness, intention, and self-awareness. Brahman must account for consciousness, not just matter. The Bhṛguvallī does not dismiss food but says it is Brahman at one level, though not the WHOLE of Brahman. Deeper layers remain."
       },
       {
         "q": "🔍 Varuṇa's pedagogical genius — neither confirming nor denying",
-        "a": "Varuṇa's response to each of Bhrigu's realisations follows a remarkable pattern: he <strong>neither confirms nor denies</strong>, but redirects through tapas: <strong>The pattern</strong>: Bhrigu arrives with an answer. Varuṇa says: 'tapasā brahma vijijñāsasva — tapo brahma' ('seek Brahman through tapas — tapas is Brahman'). He does not say 'correct.' He does not say 'incorrect.' He says: go deeper. <strong>Why this works</strong>: (a) <em>Preservation of the student's agency</em>: if Varuṇa said 'wrong,' Bhrigu would feel discouraged. If he said 'right,' Bhrigu would stop inquiring. By saying neither, he keeps the inquiry alive. (b) <em>Honouring partial truth</em>: each of Bhrigu's answers IS true — at its level. Anna IS Brahman — at the physical level. Prāṇa IS Brahman — at the vital level. By not denying these, Varuṇa honours the truth in each realisation while pointing to something deeper. (c) <em>The hint in the instruction</em>: 'tapo brahma' — tapas IS Brahman. If Bhrigu has already found Brahman (in food), why is he being told to do more tapas? The instruction to continue implies: your answer is not yet complete. The fact that the journey continues IS the feedback. <strong>The contrast with direct teaching</strong>: Uddālaka tells Śvetaketu: 'tat tvam asi' — nine times, directly. Yama tells Naciketa the answer outright. But Varuṇa makes Bhrigu WORK for each insight. The result: Bhrigu's knowledge is self-won, not received. It transforms him from within because he discovered it himself."
+        "a": "वरुण की प्रत्येक उत्तर पर प्रतिक्रिया एक अद्भुत प्रतिमान स्थापित करती है: वे <strong>न पुष्टि करते हैं, न खण्डन</strong> — तप द्वारा पुनर्निर्देश करते हैं। <strong>प्रतिमान:</strong> भृगु उत्तर लेकर आता है। वरुण कहते हैं: 'तपसा ब्रह्म विजिज्ञासस्व — तपो ब्रह्म' ('तप से ब्रह्म खोजो — तप ही ब्रह्म है')। वे 'सही' नहीं कहते। वे 'गलत' नहीं कहते। वे कहते हैं: और गहरे जाओ। <strong>यह क्यों कारगर है:</strong> (क) <em>शिष्य की स्वायत्तता बनी रहती है</em> — 'गलत' कहने पर हतोत्साह होता, 'सही' कहने पर खोज रुक जाती। दोनों न कहने से जिज्ञासा जीवित रहती है। (ख) <em>आंशिक सत्य का सम्मान</em> — भृगु का प्रत्येक उत्तर अपने स्तर पर सत्य है। अन्न भौतिक स्तर पर ब्रह्म है। इसे नकारे बिना वरुण गहरे की ओर संकेत करते हैं। (ग) <em>निर्देश में संकेत छिपा है</em> — 'तपो ब्रह्म' — यदि भृगु ने ब्रह्म पहले ही पा लिया (अन्न में), तो और तप क्यों? तप जारी रखने का निर्देश ही यह बताता है — उत्तर अभी पूर्ण नहीं। यात्रा जारी रहना ही प्रतिक्रिया है। <strong>प्रत्यक्ष शिक्षा से तुलना:</strong> उद्दालक श्वेतकेतु को सीधे 'तत् त्वम् असि' कहते हैं — नौ बार। यम नचिकेता को उत्तर सीधे बताते हैं। किन्तु वरुण भृगु से स्वयं खोज करवाते हैं। परिणाम: भृगु का ज्ञान स्व-अर्जित है, प्राप्त नहीं। यह उसे भीतर से रूपान्तरित करता है क्योंकि उसने स्वयं खोजा है।<br><br><em>Eng:</em> Varuṇa's response follows a remarkable pattern: he neither confirms nor denies, but redirects through tapas. He doesn't say 'correct' or 'incorrect' — he says 'go deeper.' This preserves the student's agency, honours partial truth, and implicitly signals incompleteness. The instruction 'tapo brahma' hints that the journey continues. Unlike Uddālaka's direct 'tat tvam asi' or Yama's structured teaching, Varuṇa makes Bhrigu discover truth himself — self-won knowledge transforms from within."
       }
     ]
   },
@@ -125,11 +450,176 @@
     "ws": [
       {
         "s": "प्राणः",
-        "h": "प्राण / श्वास / जीवन-शक्ति / breath / life-force",
+        "h": "प्राण / श्वास / जीवन-शक्ति",
         "e": "breath / life-force"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम तत्त्व",
+        "e": "Brahman"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा / इस प्रकार",
+        "e": "thus"
+      },
+      {
+        "s": "व्यजानात्",
+        "h": "जाना / समझा",
+        "e": "he understood / realised"
+      },
+      {
+        "s": "प्राणात्",
+        "h": "प्राण से",
+        "e": "from breath / from life-force"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि / निश्चय ही",
+        "e": "for / indeed"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चित रूप से",
+        "e": "indeed"
+      },
+      {
+        "s": "खलु",
+        "h": "निश्चय ही / वास्तव में",
+        "e": "verily / certainly"
+      },
+      {
+        "s": "इमानि",
+        "h": "ये सब",
+        "e": "these"
+      },
+      {
+        "s": "भूतानि",
+        "h": "प्राणी / जीव",
+        "e": "beings"
+      },
+      {
+        "s": "जायन्ते",
+        "h": "जन्म लेते हैं",
+        "e": "are born"
+      },
+      {
+        "s": "प्राणेन",
+        "h": "प्राण से / प्राण के द्वारा",
+        "e": "by breath / by life-force"
+      },
+      {
+        "s": "जातानि",
+        "h": "जन्मे हुए",
+        "e": "once born"
+      },
+      {
+        "s": "जीवन्ति",
+        "h": "जीवित रहते हैं",
+        "e": "live"
+      },
+      {
+        "s": "प्राणम्",
+        "h": "प्राण को / प्राण में",
+        "e": "into breath"
+      },
+      {
+        "s": "प्रयन्ति",
+        "h": "जाते हैं / प्रस्थान करते हैं",
+        "e": "departing"
+      },
+      {
+        "s": "अभिसंविशन्ति",
+        "h": "प्रवेश करते हैं / समा जाते हैं",
+        "e": "they enter into"
+      },
+      {
+        "s": "तत्",
+        "h": "उसे / वह",
+        "e": "that"
+      },
+      {
+        "s": "विज्ञाय",
+        "h": "जानकर / समझकर",
+        "e": "having known"
+      },
+      {
+        "s": "पुनः",
+        "h": "फिर / पुनः",
+        "e": "again"
+      },
+      {
+        "s": "एव",
+        "h": "ही",
+        "e": "indeed"
+      },
+      {
+        "s": "वरुणम्",
+        "h": "वरुण को",
+        "e": "Varuna"
+      },
+      {
+        "s": "पितरम्",
+        "h": "पिता को",
+        "e": "father"
+      },
+      {
+        "s": "उपससार",
+        "h": "पास गया",
+        "e": "approached"
+      },
+      {
+        "s": "अधीहि",
+        "h": "पढ़ाइए",
+        "e": "teach me"
+      },
+      {
+        "s": "भगवो",
+        "h": "हे भगवन्",
+        "e": "O revered sir"
+      },
+      {
+        "s": "तम्",
+        "h": "उससे",
+        "e": "to him"
+      },
+      {
+        "s": "ह उवाच",
+        "h": "कहा",
+        "e": "said"
+      },
+      {
+        "s": "तपसा",
+        "h": "तप से",
+        "e": "by tapas"
+      },
+      {
+        "s": "विजिज्ञासस्व",
+        "h": "जानने की इच्छा करो",
+        "e": "seek to know"
+      },
+      {
+        "s": "तपः",
+        "h": "तप / तपस्या",
+        "e": "tapas"
+      },
+      {
+        "s": "सः",
+        "h": "उसने / वह",
+        "e": "he"
+      },
+      {
+        "s": "अतप्यत",
+        "h": "तपस्या की",
+        "e": "performed tapas"
+      },
+      {
+        "s": "तप्त्वा",
+        "h": "तप करके",
+        "e": "having performed tapas"
       }
     ],
-    "gr": "<strong>Second realisation — breath (prāṇa) is Brahman</strong>: Bhrigu's second tapas yields a deeper insight: BREATH is Brahman. <strong>The reasoning</strong>: prāṇa satisfies the triple criterion at the vital level: (1) Beings are born from breath — life begins with the first breath; without vital energy, no organism can come into existence. (2) Beings live by breath — the continuity of breathing IS the continuity of life. (3) Beings return to breath — at death, the individual prāṇa merges back into the cosmic prāṇa. <strong>Deeper than food</strong>: prāṇa is a step beyond anna because: (a) Prāṇa ANIMATES food — the food-body is alive only because of breath. A corpse is made of food but has no prāṇa. (b) Prāṇa is subtler — it cannot be seen or touched, yet it pervades every cell of the living body. (c) Prāṇa is more essential — you can survive without food for weeks, but without breath for only minutes. <strong>Still incomplete</strong>: prāṇa explains LIFE but not CONSCIOUSNESS. A person under deep anaesthesia breathes (has prāṇa) but has no awareness. Brahman, as the ultimate reality, must include the capacity for knowing — not just living. Hence Varuṇa's familiar instruction: do more tapas.",
+    "gr": "<strong>व्याकरण:</strong> <em>प्राणो ब्रह्मेति व्यजानात्</em> — 'प्राणः' (प्रथमा एकवचन, पुंल्लिंग) = प्राण / जीवन-शक्ति; 'ब्रह्म' (प्रथमा) = ब्रह्म; 'इति' = ऐसा; 'व्यजानात्' (वि+ज्ञा, लङ्, प्रथम पुरुष एकवचन) = उसने विशेष रूप से जाना। यह मन्त्र 2 (अन्न = ब्रह्म) के समानान्तर है — केवल मुख्य पद बदलता है: 'अन्नम्' → 'प्राणः'। <em>प्राणात् हि एव खलु इमानि भूतानि जायन्ते</em> — 'प्राणात्' (पञ्चमी) = प्राण से; शेष संरचना अपरिवर्तित — 'हि एव खलु' (तीन निश्चयार्थक अव्यय)। <em>प्राणेन जातानि जीवन्ति</em> — 'प्राणेन' (तृतीया) = प्राण द्वारा; 'जातानि' (कृदन्त, प्रथमा बहुवचन) = जन्मे हुए; 'जीवन्ति' (लट्, प्रथम पुरुष बहुवचन) = जीवित रहते हैं। ध्यान दें — 'जीवन्ति' का मूल 'जीव्' धातु 'प्राण' (जीवन) से अर्थतः सम्बद्ध है। <em>प्राणं प्रयन्त्यभिसंविशन्ति</em> — 'प्राणम्' (द्वितीया) = प्राण में। शेष मन्त्र — पुनः वरुण के पास जाना, 'अधीहि भगवो ब्रह्म', वरुण का 'तपसा ब्रह्म विजिज्ञासस्व, तपो ब्रह्म' — पूर्ववत्। यह पुनरावृत्त संरचना (refrain) भृगुवल्ली की विशेषता है — प्रत्येक मन्त्र में केवल प्रमुख शब्द बदलता है, शेष ढाँचा स्थिर रहता है।<br><em>Eng:</em> 'prāṇaḥ' (nom. sg. masc.) = breath/life-force; 'vyajānāt' (vi+jñā, impf. 3sg) = he understood; 'prāṇāt' (abl.) = from breath; 'prāṇena' (instr.) = by breath; 'prāṇam' (acc.) = into breath. The mantra parallels M2 exactly, substituting 'prāṇa' for 'anna.' Note the etymological link: 'jīvanti' (live) derives from jīv, cognate with 'prāṇa' (life-force). The refrain structure (return to Varuṇa, request, redirection through tapas) is identical.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -154,11 +644,11 @@
     "dp": [
       {
         "q": "🔍 The progressive deepening — from anna to prāṇa",
-        "a": "The transition from <strong>anna (food) to prāṇa (breath)</strong> as Brahman illustrates the Bhṛguvallī's method of <strong>progressive interiorisation</strong>: <strong>Why prāṇa is deeper than anna</strong>: (a) <em>Dependence</em>: the food-body depends on breath — without prāṇa, the food-body is a corpse. But breath does not depend on any particular food — it continues whether you have eaten or not. The more fundamental principle is the one on which the other depends. (b) <em>Subtlety</em>: food is gross — visible, tangible, measurable. Breath is subtle — invisible, felt but not seen, pervading the body without being locatable in any single organ. The subtler is closer to Brahman. (c) <em>Universality</em>: not all beings eat the same food, but all living beings breathe (in some form — even plants exchange gases). Breath is more universal than food. <strong>Why prāṇa still falls short</strong>: prāṇa explains LIFE but not AWARENESS. A ventilator can make a body breathe without the person being conscious. Prāṇa is a force (śakti) but not a knower (jñātṛ). If Brahman is the ultimate reality — 'satyaṁ jñānam anantam' (truth, knowledge, infinite) as the Brahmānandavallī declares — it must include the dimension of KNOWING, not just living. <strong>The pattern</strong>: each successive answer is TRUE at its level but INCOMPLETE. Anna is true for the physical. Prāṇa is true for the vital. But truth is not yet exhausted. The inquiry must go on."
+        "a": "<strong>अन्न से प्राण तक</strong> का संक्रमण भृगुवल्ली की <strong>क्रमिक अन्तर्मुखता</strong> की विधि को दर्शाता है। <strong>प्राण अन्न से गहरा क्यों है:</strong> (क) <em>निर्भरता</em>: अन्नमय शरीर प्राण पर निर्भर है — प्राण बिना अन्न-शरीर शव है। किन्तु प्राण किसी विशेष अन्न पर निर्भर नहीं — खाया हो या न खाया हो, श्वास चलती रहती है। अधिक मूलभूत तत्त्व वही है जिस पर दूसरा निर्भर हो। (ख) <em>सूक्ष्मता</em>: अन्न स्थूल है — दिखता है, छुआ जा सकता है, तौला जा सकता है। प्राण सूक्ष्म है — अदृश्य, अनुभवगम्य किन्तु अस्पृश्य, शरीर में व्याप्त किन्तु किसी एक अंग में स्थित नहीं। सूक्ष्मतर ब्रह्म के निकट है। (ग) <em>सार्वभौमिकता</em>: सभी प्राणी एक ही अन्न नहीं खाते, किन्तु सभी जीवित प्राणी श्वास लेते हैं (किसी-न-किसी रूप में — पौधे भी गैसों का आदान-प्रदान करते हैं)। प्राण अन्न से अधिक सार्वभौमिक है। <strong>प्राण अभी भी अपूर्ण क्यों है:</strong> प्राण 'जीवन' की व्याख्या करता है, 'बोध' की नहीं। वेन्टिलेटर पर शरीर बिना चेतना के श्वास ले सकता है। प्राण शक्ति (बल) है, ज्ञाता (जानने वाला) नहीं। यदि ब्रह्म परम सत्य है — 'सत्यं ज्ञानम् अनन्तम्' — तो उसमें 'ज्ञान' का आयाम होना चाहिए, केवल 'जीवन' का नहीं। <strong>प्रतिमान:</strong> प्रत्येक उत्तर अपने स्तर पर सत्य है किन्तु अपूर्ण। अन्न भौतिक स्तर पर सत्य है। प्राण प्राणिक स्तर पर। किन्तु सत्य अभी समाप्त नहीं — अन्वेषण आगे बढ़ना चाहिए।<br><br><em>Eng:</em> The transition from anna to prāṇa illustrates progressive interiorisation. Prāṇa is deeper because: (a) the food-body depends on breath, not vice versa; (b) breath is subtler — invisible, pervasive; (c) breath is more universal — all living beings breathe. Yet prāṇa is still incomplete: it explains LIFE but not AWARENESS. A ventilated body breathes without consciousness. Prāṇa is force (śakti), not a knower (jñātṛ). Each successive answer is TRUE at its level but INCOMPLETE — the inquiry must continue."
       },
       {
         "q": "🔍 The parallel with the five sheaths",
-        "a": "Bhrigu's progressive realisations <strong>exactly mirror</strong> the five-sheath (pañca-kośa) analysis of the Brahmānandavallī — but discovered experientially rather than taught theoretically: <strong>The correspondence</strong>: (1) Anna (food) = Annamaya kośa (food-sheath) — Brahmānandavallī 2.2. (2) Prāṇa (breath) = Prāṇamaya kośa (breath-sheath) — Brahmānandavallī 2.3. (3) Manas (mind) — coming next = Manomaya kośa — Brahmānandavallī 2.4. (4) Vijñāna (knowledge) = Vijñānamaya kośa — Brahmānandavallī 2.5. (5) Ānanda (bliss) = Ānandamaya kośa — Brahmānandavallī 2.6. <strong>Two methods, one truth</strong>: the Brahmānandavallī TEACHES the five sheaths through systematic exposition — the teacher describes each layer and its structure (bird-shape, parts, support). The Bhṛguvallī makes the student DISCOVER the same five layers through personal inquiry and tapas. Both arrive at the same destination: ānanda (bliss) as the innermost reality. <strong>The pedagogical insight</strong>: the Taittirīya Upanishad presents the same truth TWICE — once as theory (Brahmānandavallī), once as practice (Bhṛguvallī). This dual presentation ensures that the teaching is both intellectually understood and experientially discovered. Neither alone is sufficient — you need both map and journey."
+        "a": "भृगु के क्रमिक साक्षात्कार ब्रह्मानन्दवल्ली के <strong>पञ्चकोश-विश्लेषण</strong> से <strong>हूबहू मेल</strong> खाते हैं — किन्तु सैद्धान्तिक शिक्षा के बजाय अनुभवात्मक खोज द्वारा। <strong>पत्राचार:</strong> (1) अन्न = अन्नमय कोश (2.2)। (2) प्राण = प्राणमय कोश (2.3)। (3) मन = मनोमय कोश (2.4) — अगला चरण। (4) विज्ञान = विज्ञानमय कोश (2.5)। (5) आनन्द = आनन्दमय कोश (2.6)। <strong>दो विधियाँ, एक सत्य:</strong> ब्रह्मानन्दवल्ली व्यवस्थित प्रतिपादन द्वारा पाँच कोश सिखाती है — गुरु प्रत्येक परत और उसकी संरचना (पक्षी-आकृति, अंग, आधार) का वर्णन करता है। भृगुवल्ली शिष्य को व्यक्तिगत जिज्ञासा और तप द्वारा वही पाँच परतें स्वयं खोजने देती है। दोनों एक ही गन्तव्य पर पहुँचती हैं: आनन्द — अन्तरतम सत्य। <strong>शैक्षणिक अन्तर्दृष्टि:</strong> तैत्तिरीय उपनिषद एक ही सत्य को दो बार प्रस्तुत करता है — एक बार सिद्धान्त (ब्रह्मानन्दवल्ली) के रूप में, एक बार अभ्यास (भृगुवल्ली) के रूप में। यह द्विविध प्रस्तुति सुनिश्चित करती है कि शिक्षा बौद्धिक रूप से भी समझी जाए और अनुभवात्मक रूप से भी खोजी जाए। अकेले कोई भी पर्याप्त नहीं — नक्शा और यात्रा दोनों चाहिए।<br><br><em>Eng:</em> Bhrigu's progressive realisations exactly mirror the five-sheath (pañca-kośa) analysis of the Brahmānandavallī — but discovered experientially rather than taught theoretically. Anna = annamaya, prāṇa = prāṇamaya, manas = manomaya, vijñāna = vijñānamaya, ānanda = ānandamaya. The Taittirīya presents the same truth TWICE — once as theory, once as practice — ensuring both intellectual understanding and experiential discovery. Neither alone is sufficient — you need both map and journey."
       }
     ]
   },
@@ -171,11 +661,176 @@
     "ws": [
       {
         "s": "मनः",
-        "h": "मन / mind / the thinking faculty",
+        "h": "मन / चित्त",
         "e": "mind / the thinking faculty"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम तत्त्व",
+        "e": "Brahman"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा",
+        "e": "thus"
+      },
+      {
+        "s": "व्यजानात्",
+        "h": "जाना / समझा",
+        "e": "he understood"
+      },
+      {
+        "s": "मनसः",
+        "h": "मन से",
+        "e": "from mind"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि",
+        "e": "for / indeed"
+      },
+      {
+        "s": "एव",
+        "h": "ही",
+        "e": "indeed"
+      },
+      {
+        "s": "खलु",
+        "h": "निश्चय ही",
+        "e": "verily"
+      },
+      {
+        "s": "इमानि",
+        "h": "ये सब",
+        "e": "these"
+      },
+      {
+        "s": "भूतानि",
+        "h": "प्राणी / जीव",
+        "e": "beings"
+      },
+      {
+        "s": "जायन्ते",
+        "h": "जन्म लेते हैं",
+        "e": "are born"
+      },
+      {
+        "s": "मनसा",
+        "h": "मन से / मन के द्वारा",
+        "e": "by mind"
+      },
+      {
+        "s": "जातानि",
+        "h": "जन्मे हुए",
+        "e": "once born"
+      },
+      {
+        "s": "जीवन्ति",
+        "h": "जीवित रहते हैं",
+        "e": "live"
+      },
+      {
+        "s": "मनः",
+        "h": "मन को / मन में",
+        "e": "into mind"
+      },
+      {
+        "s": "प्रयन्ति",
+        "h": "जाते हैं",
+        "e": "departing"
+      },
+      {
+        "s": "अभिसंविशन्ति",
+        "h": "प्रवेश करते हैं",
+        "e": "they enter into"
+      },
+      {
+        "s": "तत्",
+        "h": "उसे / वह",
+        "e": "that"
+      },
+      {
+        "s": "विज्ञाय",
+        "h": "जानकर",
+        "e": "having known"
+      },
+      {
+        "s": "पुनः",
+        "h": "फिर",
+        "e": "again"
+      },
+      {
+        "s": "एव",
+        "h": "ही",
+        "e": "indeed"
+      },
+      {
+        "s": "वरुणम्",
+        "h": "वरुण को",
+        "e": "Varuna"
+      },
+      {
+        "s": "पितरम्",
+        "h": "पिता को",
+        "e": "father"
+      },
+      {
+        "s": "उपससार",
+        "h": "पास गया",
+        "e": "approached"
+      },
+      {
+        "s": "अधीहि",
+        "h": "पढ़ाइए",
+        "e": "teach me"
+      },
+      {
+        "s": "भगवो",
+        "h": "हे भगवन्",
+        "e": "O revered sir"
+      },
+      {
+        "s": "तम्",
+        "h": "उससे",
+        "e": "to him"
+      },
+      {
+        "s": "ह उवाच",
+        "h": "कहा",
+        "e": "said"
+      },
+      {
+        "s": "तपसा",
+        "h": "तप से",
+        "e": "by tapas"
+      },
+      {
+        "s": "विजिज्ञासस्व",
+        "h": "जानने की इच्छा करो",
+        "e": "seek to know"
+      },
+      {
+        "s": "तपः",
+        "h": "तप",
+        "e": "tapas"
+      },
+      {
+        "s": "सः",
+        "h": "उसने / वह",
+        "e": "he"
+      },
+      {
+        "s": "अतप्यत",
+        "h": "तपस्या की",
+        "e": "performed tapas"
+      },
+      {
+        "s": "तप्त्वा",
+        "h": "तप करके",
+        "e": "having performed tapas"
       }
     ],
-    "gr": "<strong>Third realisation — mind (manas) is Brahman</strong>: Bhrigu's third tapas yields: MIND is Brahman. <strong>The reasoning</strong>: manas satisfies the triple criterion at the mental level: (1) Beings are 'born from' mind — in the sense that the desire to create (Brahman's 'bahu syāṁ prajāyeya' — 'may I become many') is a mental act. Creation begins with THOUGHT. (2) Beings live by mind — conscious life is mental life; without mind, existence is not experienced. (3) Beings return to mind — at death, the individual mind merges back into the cosmic mind. <strong>Deeper than prāṇa</strong>: mind is more essential than breath because: (a) Mind DIRECTS breath — when you hold your breath or breathe deeply, it is the mind that commands. (b) Mind is the seat of experience — without mind, prāṇa is a blind force that sustains a body no one inhabits. (c) Mind includes AWARENESS — unlike prāṇa, which operates unconsciously, manas registers, processes, and responds to reality. <strong>Still incomplete</strong>: mind explains THOUGHT but not DETERMINATION. Manas is the wavering, doubting, processing faculty — it considers options but doesn't decide. The faculty that DETERMINES, JUDGES, and KNOWS with certainty is vijñāna (discernment) — a step beyond manas. Hence: more tapas.",
+    "gr": "<strong>व्याकरण:</strong> <em>मनो ब्रह्मेति व्यजानात्</em> — 'मनः' (प्रथमा एकवचन, नपुंसकलिंग, 'मनस्' शब्द) = मन; विसर्ग-सन्धि: मनः + ब्रह्म = मनो ब्रह्म। यह मन्त्र 2 और 3 के समानान्तर है — केवल प्रमुख पद बदलता है: 'अन्नम्'/'प्राणः' → 'मनः'। <em>मनसो ह्येव खलु</em> — 'मनसः' (पञ्चमी, अपादान) = मन से; विसर्ग-सन्धि: मनसः + हि = मनसो हि; 'हि एव खलु' (तीन निश्चयार्थक अव्यय)। <em>मनसा जातानि जीवन्ति</em> — 'मनसा' (तृतीया एकवचन, 'मनस्') = मन द्वारा। 'मनस्' शब्द अकारान्त नपुंसकलिंग नहीं, बल्कि सकारान्त नपुंसकलिंग है — अतः इसके रूप विशेष हैं: मनः (प्रथमा), मनसः (पञ्चमी/षष्ठी), मनसा (तृतीया), मनसि (सप्तमी)। <em>मनः प्रयन्त्यभिसंविशन्ति</em> — 'मनः' यहाँ द्वितीया विभक्ति (कर्म) = मन में/मन को; सन्धि: मनः + प्रयन्ति = मनः प्रयन्ति (विसर्ग-सन्धि अपरिवर्तित, 'प्र' से पहले)। शेष मन्त्र — वरुण के पास लौटना, अनुरोध, और 'तपसा ब्रह्म विजिज्ञासस्व, तपो ब्रह्म' — पूर्ववत् अपरिवर्तित।<br><em>Eng:</em> 'manaḥ' (nom. sg. neut., 's-stem' manas) = mind; visarga sandhi: manaḥ + brahma = mano brahma. 'manasaḥ' (abl./gen.) = from mind; 'manasā' (instr.) = by mind. The s-stem neuter 'manas' has distinctive declension: manaḥ (nom.), manasaḥ (abl./gen.), manasā (instr.), manasi (loc.). The mantra exactly parallels M2-M3, substituting 'manas' for 'anna'/'prāṇa.' The refrain is unchanged.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -200,11 +855,11 @@
     "dp": [
       {
         "q": "🔍 Mind as Brahman — the mental dimension",
-        "a": "Bhrigu's third realisation — <strong>manas (mind) = Brahman</strong> — represents the discovery of Brahman at the <strong>mental level</strong>: <strong>Why mind is deeper than breath</strong>: (a) <em>Consciousness</em>: mind introduces AWARENESS into the equation. Breath is a force; mind is an awareness. A breathing but unconscious body is alive but not experiencing life. Mind makes experience possible. (b) <em>Direction</em>: mind DIRECTS breath and body. You breathe faster when afraid, slower when calm — because mind shapes the vital force. The controller is more fundamental than the controlled. (c) <em>Creation through thought</em>: the Upanishads consistently describe creation as beginning with desire/thought — Brahman's 'may I become many' is a mental act. Mind precedes manifestation. <strong>Why mind is still incomplete</strong>: (a) <em>Instability</em>: manas wavers — it thinks one thing, then another. It doubts, reconsiders, oscillates. Brahman, as the ultimate reality, must be stable and certain. (b) <em>Division</em>: mind works by DIVIDING — subject vs. object, this vs. that, pleasant vs. painful. Brahman is ONE, undivided. Mind's very nature (analysis, discrimination) prevents it from grasping unity. (c) <em>Processing vs. knowing</em>: manas PROCESSES experience but doesn't DETERMINE truth. It considers options; vijñāna (discernment) decides. Brahman is not 'maybe this' — it IS. <strong>The progression so far</strong>: food (physical) → breath (vital) → mind (mental). Each layer is more subtle, more interior, more essential. But the journey is not yet complete — two more layers remain: knowledge (vijñāna) and bliss (ānanda)."
+        "a": "भृगु का तृतीय साक्षात्कार — <strong>मन (मनस्) = ब्रह्म</strong> — मानसिक स्तर पर ब्रह्म की खोज है। <strong>मन प्राण से गहरा क्यों:</strong> (क) <em>चेतना</em>: मन बोध (awareness) को समीकरण में लाता है। प्राण बल है; मन बोध है। श्वास लेता किन्तु अचेत शरीर जीवित है पर अनुभव नहीं करता। मन अनुभव को सम्भव बनाता है। (ख) <em>निर्देशन</em>: मन प्राण और शरीर को निर्देशित करता है। भय में श्वास तेज, शान्ति में धीमी — क्योंकि मन प्राण-शक्ति को आकार देता है। नियन्त्रक नियन्त्रित से अधिक मूलभूत है। (ग) <em>विचार द्वारा सृष्टि</em>: उपनिषद सृष्टि का वर्णन इच्छा/विचार से प्रारम्भ करते हैं — ब्रह्म का 'बहु स्यां प्रजायेय' एक मानसिक क्रिया है। मन अभिव्यक्ति से पूर्व आता है। <strong>मन अभी भी अपूर्ण क्यों:</strong> (क) <em>अस्थिरता</em>: मन डोलता है — कभी यह सोचता है, कभी वह। संशय, पुनर्विचार, दोलन। ब्रह्म स्थिर और निश्चित होना चाहिए। (ख) <em>विभाजन</em>: मन विभाजन से काम करता है — कर्ता बनाम कर्म, यह बनाम वह, सुख बनाम दुःख। ब्रह्म एक, अविभक्त है। मन का स्वभाव (विश्लेषण, विवेचन) ही उसे एकत्व ग्रहण करने से रोकता है। (ग) <em>प्रक्रिया बनाम ज्ञान</em>: मन अनुभव को प्रक्रियाबद्ध करता है, सत्य का निर्धारण नहीं करता। यह विकल्पों पर विचार करता है; विज्ञान (विवेक) निर्णय लेता है। <strong>अब तक की यात्रा:</strong> अन्न (भौतिक) → प्राण (प्राणिक) → मन (मानसिक)। प्रत्येक परत अधिक सूक्ष्म, अधिक आन्तरिक, अधिक मूलभूत। किन्तु यात्रा अभी पूरी नहीं — दो और परतें शेष: विज्ञान और आनन्द।<br><br><em>Eng:</em> Bhrigu's third realisation — manas (mind) = Brahman — discovers Brahman at the mental level. Mind is deeper than breath because it introduces AWARENESS, DIRECTS the vital force, and creation itself begins with thought. Yet mind is incomplete: it wavers (saṁkalpa-vikalpa), divides (subject vs. object), and processes rather than determines. The progression so far — food (physical), breath (vital), mind (mental) — each layer more subtle, more interior, more essential. Two layers remain: vijñāna (knowledge) and ānanda (bliss)."
       },
       {
         "q": "🔍 The cosmogonic role of mind — desire before creation",
-        "a": "Bhrigu's insight that beings are 'born from mind' connects to a deep strand of Vedic cosmogony — the idea that <strong>creation begins with thought or desire</strong>: <strong>The Vedic evidence</strong>: (a) <em>Nāsadīya Sūkta (Ṛg Veda 10.129.4)</em>: 'kāmas tad agre samavartatādhi manaso retaḥ prathamaṁ yad āsīt' — 'Desire arose first in the beginning — the primal seed of mind.' Before creation, there was desire — a mental event. (b) <em>Taittirīya Brahmānandavallī (2.6.1)</em>: 'so'kāmayata bahu syāṁ prajāyeya' — 'He desired: may I become many, may I be born forth.' Brahman's desire to create is a mental act — akāmayata (He desired) is a verb of mind. (c) <em>Chāndogya (6.2.3)</em>: 'tad aikṣata bahu syāṁ prajāyeya' — 'It saw/willed: may I become many.' Aikṣata (It saw/willed) is also mental. <strong>The implication</strong>: if creation begins with mind/desire/thought, then mind precedes the physical and vital worlds. Mind is more fundamental than food or breath because the universe itself is 'born from' a mental act. <strong>The limitation</strong>: even cosmic mind is not the ultimate — because mind operates through DISTINCTIONS (this vs. that), and the ultimate reality precedes all distinctions. The Nāsadīya Sūkta itself acknowledges this: 'ko addhā veda ka iha pra vocat' — 'who truly knows? who can declare it here?' Even mind reaches its limit when facing the Absolute."
+        "a": "भृगु की यह अन्तर्दृष्टि कि प्राणी 'मन से उत्पन्न होते हैं' वैदिक सृष्टि-विद्या की एक गहन धारा से जुड़ती है — कि <strong>सृष्टि इच्छा या विचार से प्रारम्भ होती है</strong>। <strong>वैदिक प्रमाण:</strong> (क) <em>नासदीय सूक्त (ऋग्वेद 10.129.4)</em>: 'कामस्तदग्रे समवर्तताधि मनसो रेतः प्रथमं यदासीत्' — 'सबसे पहले काम (इच्छा) उदित हुई — मन का प्रथम बीज।' सृष्टि से पूर्व इच्छा थी — एक मानसिक घटना। (ख) <em>तैत्तिरीय ब्रह्मानन्दवल्ली (2.6.1)</em>: 'सोऽकामयत बहु स्यां प्रजायेय' — 'उसने इच्छा की: मैं बहुत हो जाऊँ, उत्पन्न हो जाऊँ।' ब्रह्म की सृष्टि-इच्छा मानसिक क्रिया है। (ग) <em>छान्दोग्य (6.2.3)</em>: 'तदैक्षत बहु स्यां प्रजायेय' — 'उसने देखा/संकल्प किया: बहुत हो जाऊँ।' <strong>निहितार्थ:</strong> यदि सृष्टि मन/इच्छा/विचार से प्रारम्भ होती है, तो मन भौतिक और प्राणिक जगत से पूर्ववर्ती है। मन अन्न या प्राण से अधिक मूलभूत है क्योंकि ब्रह्माण्ड स्वयं एक मानसिक क्रिया से 'उत्पन्न' हुआ। <strong>सीमा:</strong> ब्रह्माण्डीय मन भी अन्तिम नहीं — क्योंकि मन भेदों (यह बनाम वह) से काम करता है, और परम तत्त्व सभी भेदों से पूर्ववर्ती है। नासदीय सूक्त स्वयं स्वीकार करता है: 'को अद्धा वेद क इह प्र वोचत्' — 'कौन सच में जानता है? कौन यहाँ बता सकता है?' मन भी परम के सामने अपनी सीमा पर पहुँचता है।<br><br><em>Eng:</em> Bhrigu's insight that beings are 'born from mind' connects to Vedic cosmogony — creation begins with thought/desire. The Nāsadīya Sūkta (RV 10.129.4): desire arose first as the primal seed of mind. Brahmānandavallī (2.6.1): Brahman desired 'may I become many.' Chāndogya (6.2.3): 'It willed: may I become many.' If creation begins with mind, then mind precedes the physical and vital worlds. Yet even cosmic mind is not ultimate — mind operates through distinctions, and the ultimate reality precedes all distinctions."
       }
     ]
   },
@@ -217,11 +872,176 @@
     "ws": [
       {
         "s": "विज्ञानम्",
-        "h": "विज्ञान / विवेक-ज्ञान / discernment / direct knowledge / higher intellect",
-        "e": "discernment / direct knowledge / higher intellect"
+        "h": "विज्ञान / विवेक-ज्ञान / प्रज्ञा",
+        "e": "knowledge / discernment / higher intellect"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम तत्त्व",
+        "e": "Brahman"
+      },
+      {
+        "s": "इति",
+        "h": "ऐसा",
+        "e": "thus"
+      },
+      {
+        "s": "व्यजानात्",
+        "h": "जाना / समझा",
+        "e": "he understood"
+      },
+      {
+        "s": "विज्ञानात्",
+        "h": "विज्ञान से",
+        "e": "from knowledge / from discernment"
+      },
+      {
+        "s": "हि",
+        "h": "क्योंकि",
+        "e": "for / indeed"
+      },
+      {
+        "s": "एव",
+        "h": "ही",
+        "e": "indeed"
+      },
+      {
+        "s": "खलु",
+        "h": "निश्चय ही",
+        "e": "verily"
+      },
+      {
+        "s": "इमानि",
+        "h": "ये सब",
+        "e": "these"
+      },
+      {
+        "s": "भूतानि",
+        "h": "प्राणी / जीव",
+        "e": "beings"
+      },
+      {
+        "s": "जायन्ते",
+        "h": "जन्म लेते हैं",
+        "e": "are born"
+      },
+      {
+        "s": "विज्ञानेन",
+        "h": "विज्ञान से / विज्ञान के द्वारा",
+        "e": "by knowledge / by discernment"
+      },
+      {
+        "s": "जातानि",
+        "h": "जन्मे हुए",
+        "e": "once born"
+      },
+      {
+        "s": "जीवन्ति",
+        "h": "जीवित रहते हैं",
+        "e": "live"
+      },
+      {
+        "s": "विज्ञानम्",
+        "h": "विज्ञान को / विज्ञान में",
+        "e": "into knowledge"
+      },
+      {
+        "s": "प्रयन्ति",
+        "h": "जाते हैं",
+        "e": "departing"
+      },
+      {
+        "s": "अभिसंविशन्ति",
+        "h": "प्रवेश करते हैं",
+        "e": "they enter into"
+      },
+      {
+        "s": "तत्",
+        "h": "उसे / वह",
+        "e": "that"
+      },
+      {
+        "s": "विज्ञाय",
+        "h": "जानकर",
+        "e": "having known"
+      },
+      {
+        "s": "पुनः",
+        "h": "फिर",
+        "e": "again"
+      },
+      {
+        "s": "एव",
+        "h": "ही",
+        "e": "indeed"
+      },
+      {
+        "s": "वरुणम्",
+        "h": "वरुण को",
+        "e": "Varuna"
+      },
+      {
+        "s": "पितरम्",
+        "h": "पिता को",
+        "e": "father"
+      },
+      {
+        "s": "उपससार",
+        "h": "पास गया",
+        "e": "approached"
+      },
+      {
+        "s": "अधीहि",
+        "h": "पढ़ाइए",
+        "e": "teach me"
+      },
+      {
+        "s": "भगवो",
+        "h": "हे भगवन्",
+        "e": "O revered sir"
+      },
+      {
+        "s": "तम्",
+        "h": "उससे",
+        "e": "to him"
+      },
+      {
+        "s": "ह उवाच",
+        "h": "कहा",
+        "e": "said"
+      },
+      {
+        "s": "तपसा",
+        "h": "तप से",
+        "e": "by tapas"
+      },
+      {
+        "s": "विजिज्ञासस्व",
+        "h": "जानने की इच्छा करो",
+        "e": "seek to know"
+      },
+      {
+        "s": "तपः",
+        "h": "तप",
+        "e": "tapas"
+      },
+      {
+        "s": "सः",
+        "h": "उसने / वह",
+        "e": "he"
+      },
+      {
+        "s": "अतप्यत",
+        "h": "तपस्या की",
+        "e": "performed tapas"
+      },
+      {
+        "s": "तप्त्वा",
+        "h": "तप करके",
+        "e": "having performed tapas"
       }
     ],
-    "gr": "<strong>Fourth realisation — knowledge (vijñāna) is Brahman</strong>: Bhrigu's fourth tapas yields: VIJÑĀNA (knowledge/discernment) is Brahman. <strong>The reasoning</strong>: vijñāna satisfies the triple criterion at the intellectual/cognitive level: (1) Beings are born from vijñāna — conscious creation requires intelligence; the cosmic intelligence (vijñāna) plans and executes creation. (2) Beings live by vijñāna — meaningful life is life guided by understanding, purpose, and discernment. (3) Beings return to vijñāna — at the deepest level, individual consciousness returns to cosmic intelligence. <strong>Deeper than manas</strong>: vijñāna transcends manas because: (a) While manas considers and doubts, vijñāna DETERMINES and KNOWS. It is the faculty of certainty vs. the faculty of consideration. (b) Vijñāna includes WILL — not just thinking but deciding and acting from knowledge. (c) The Brahmānandavallī describes vijñāna with spiritual qualities (śraddhā, ṛta, satya, yoga, mahas) — it is oriented toward TRUTH, not mere data-processing. <strong>Still incomplete</strong>: vijñāna explains KNOWING but not BEING. Knowledge is a faculty — it knows something. But the ultimate reality is not a faculty; it is a STATE OF BEING. What is the nature of being itself? The final answer — ānanda (bliss) — transcends even vijñāna because bliss is not something you KNOW but something you ARE.",
+    "gr": "<strong>व्याकरण:</strong> <em>विज्ञानं ब्रह्मेति व्यजानात्</em> — 'विज्ञानम्' (प्रथमा एकवचन, नपुंसकलिंग, 'विज्ञान' शब्द) = विज्ञान / विवेक-ज्ञान / प्रत्यक्ष बोध; 'वि+ज्ञान' = विशेष ज्ञान (vi = विशेष + jñāna = ज्ञान) — सामान्य ज्ञान से उच्चतर, निश्चयात्मक ज्ञान। यह मन्त्र 2-4 के समानान्तर है — प्रमुख पद बदलता है: 'मनः' → 'विज्ञानम्'। <em>विज्ञानाद्ध्येव खलु</em> — 'विज्ञानात्' (पञ्चमी) = विज्ञान से; सन्धि: विज्ञानात् + हि = विज्ञानाद्धि (त् + ह = द्ध)। <em>विज्ञानेन जातानि जीवन्ति</em> — 'विज्ञानेन' (तृतीया) = विज्ञान द्वारा। <em>विज्ञानं प्रयन्त्यभिसंविशन्ति</em> — 'विज्ञानम्' (द्वितीया) = विज्ञान में। ध्यातव्य: 'विज्ञान' और 'व्यजानात्' दोनों 'ज्ञा' (जानना) धातु से निर्मित हैं — 'विज्ञान' (वि+ज्ञा+अन / ल्युट्) = विशेष ज्ञान; 'व्यजानात्' (वि+ज्ञा, लङ्) = उसने विशेष रूप से जाना। दोनों में 'वि' उपसर्ग 'विशेष/विभाजन/विवेक' का बोधक है। इसी मूल से 'विजिज्ञासस्व' (देसिडरेटिव = जानने की इच्छा) और 'विज्ञाय' (ल्यप् = जानकर) भी बनते हैं। शेष मन्त्र (पुनः वरुण, 'तपसा ब्रह्म विजिज्ञासस्व, तपो ब्रह्म') — सदैव की भाँति अपरिवर्तित।<br><em>Eng:</em> 'vijñānam' (nom. sg. neut.) = knowledge/discernment; vi+jñāna = special/higher knowledge — determinate knowledge vs. general cognition. 'vijñānāt' (abl.) = from vijñāna; sandhi: vijñānāt + hi = vijñānāddhi (t+h = ddh). 'vijñānena' (instr.) = by vijñāna. Note: 'vijñāna' and 'vyajānāt' share the root jñā (to know) with prefix vi- (special/discriminating). From the same root: 'vijijñāsasva' (desiderative), 'vijñāya' (lyap gerund). The refrain is unchanged.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -246,11 +1066,11 @@
     "dp": [
       {
         "q": "🔍 Vijñāna vs. manas — knowledge vs. thinking",
-        "a": "The transition from <strong>manas (mind) to vijñāna (knowledge)</strong> represents a crucial shift from PROCESSING to KNOWING: <strong>Manas (mind)</strong>: (a) Receives sense-data and forms initial impressions. (b) Considers options: 'is this a rope or a snake?' (c) Has doubts: saṁkalpa-vikalpa (considering and reconsidering). (d) Processes but does not determine. (e) Is reactive — it responds to inputs. <strong>Vijñāna (knowledge/discernment)</strong>: (a) DETERMINES: 'this IS a rope' — settles the question. (b) DECIDES: makes choices based on understanding, not mere consideration. (c) Is certain: adhyavasāya (settled conviction). (d) Includes WILL — not just knowing but acting from knowledge. (e) Is proactive — it penetrates reality rather than merely receiving it. <strong>The Vedāntic distinction</strong>: in standard Vedāntic terminology, manas = the sense-mind (processing faculty) and vijñāna ≈ buddhi = the intellect (determining faculty). The Brahmānandavallī maps this distinction onto the kośa framework: the manomaya kośa processes (structured by the Vedas — external data), while the vijñānamaya kośa KNOWS (structured by faith, truth, yoga — internal qualities). <strong>Why vijñāna is closer to Brahman</strong>: vijñāna is the LAST cognitive faculty before bliss. It represents the highest capacity of the individual — the ability to know truth directly. In Sri Aurobindo's framework, vijñāna = supramental truth-consciousness — the plane where reality is seen whole, not divided by mind's analysis. It is the doorway to ānanda."
+        "a": "<strong>मन (मनस्) से विज्ञान</strong> तक का संक्रमण प्रक्रिया (processing) से ज्ञान (knowing) तक का निर्णायक परिवर्तन है। <strong>मन (मनस्):</strong> (क) इन्द्रिय-आँकड़े ग्रहण करता है और प्रारम्भिक प्रभाव बनाता है। (ख) विकल्पों पर विचार करता है: 'यह रस्सी है या सर्प?' (ग) संशय करता है: संकल्प-विकल्प (सोचना और पुनर्विचार)। (घ) प्रक्रिया करता है, निर्धारण नहीं। (ङ) प्रतिक्रियात्मक है — बाहरी उद्दीपनों पर प्रतिक्रिया करता है। <strong>विज्ञान (ज्ञान/विवेक):</strong> (क) निर्धारण करता है: 'यह रस्सी ही है' — प्रश्न का निपटारा। (ख) निर्णय लेता है: समझ के आधार पर चयन, केवल विचार नहीं। (ग) निश्चित है: अध्यवसाय (स्थिर अवधारणा)। (घ) संकल्प सम्मिलित है — केवल जानना नहीं, ज्ञान से कार्य भी। (ङ) सक्रिय है — यथार्थ में प्रवेश करता है, केवल ग्रहण नहीं करता। <strong>वेदान्तिक भेद:</strong> मन = इन्द्रिय-मन (प्रक्रिया-शक्ति) और विज्ञान = बुद्धि (निर्धारण-शक्ति)। ब्रह्मानन्दवल्ली इस भेद को कोश-ढाँचे में रखती है: मनोमय कोश प्रक्रिया करता है (वेदों द्वारा संरचित — बाह्य आँकड़े), विज्ञानमय कोश जानता है (श्रद्धा, ऋत, सत्य, योग — आन्तरिक गुण)। <strong>विज्ञान ब्रह्म के निकटतम क्यों:</strong> विज्ञान आनन्द से पूर्व अन्तिम संज्ञानात्मक शक्ति है। यह व्यक्ति की सर्वोच्च क्षमता है — सत्य को प्रत्यक्ष जानने की। श्री अरविन्द के ढाँचे में, विज्ञान = अतिमानसिक सत्य-चेतना — जहाँ यथार्थ अखण्ड दिखता है, मन के विश्लेषण से विभाजित नहीं। यह आनन्द का द्वार है।<br><br><em>Eng:</em> The transition from manas (mind) to vijñāna (knowledge) is a crucial shift from PROCESSING to KNOWING. Manas receives sense-data, considers options, and doubts; vijñāna DETERMINES, DECIDES, and acts from knowledge. In Vedāntic terminology: manas = sense-mind (processing), vijñāna = buddhi (determining faculty). The Brahmānandavallī maps this: manomaya processes external data, vijñānamaya knows through faith, truth, and yoga. Vijñāna is the LAST cognitive faculty before bliss — the doorway to ānanda."
       },
       {
         "q": "🔍 The penultimate station — why Bhrigu must go further",
-        "a": "Bhrigu's fourth realisation brings him to the very edge of the ultimate — <strong>vijñāna is the last veil before ānanda</strong>: <strong>What vijñāna gets right</strong>: (a) It is CONSCIOUS — unlike food and breath, vijñāna KNOWS. (b) It is CERTAIN — unlike mind, vijñāna doesn't waver. (c) It includes the faculty of WILL — vijñāna acts from knowledge, not from instinct or reaction. (d) It points toward truth — the Brahmānandavallī calls its wings ṛta and satya (cosmic truth and personal truth). <strong>What vijñāna still lacks</strong>: (a) <em>It is still a faculty, not a state of being</em>: vijñāna KNOWS reality; ānanda IS reality. The difference: a lamp illuminates a room, but light itself doesn't need illumination — it is self-luminous. Similarly, vijñāna illuminates truth, but ānanda (bliss) is the self-luminous nature of the Self. (b) <em>It is relational</em>: knowledge requires a knower and a known. Bliss transcends this duality — it is not the knowledge OF something blissful but the nature of BEING itself. (c) <em>It answers 'how' but not 'why'</em>: vijñāna explains how we know, how we discern, how we determine. But WHY do we seek? WHY does anything exist? The answer — ānanda — is that existence exists because it IS bliss. <strong>The final step</strong>: Bhrigu will perform one more tapas and arrive at ānanda — bliss — the nature of Brahman itself. This is not another faculty but the ground of all faculties, the reason behind all seeking, the joy at the heart of being."
+        "a": "भृगु का चतुर्थ साक्षात्कार उसे परम के ठीक किनारे ले आता है — <strong>विज्ञान आनन्द से पूर्व अन्तिम आवरण है</strong>। <strong>विज्ञान में क्या सही है:</strong> (क) यह चेतन है — अन्न और प्राण के विपरीत, विज्ञान जानता है। (ख) यह निश्चित है — मन के विपरीत, विज्ञान डोलता नहीं। (ग) इसमें संकल्प-शक्ति है — विज्ञान ज्ञान से कार्य करता है, वृत्ति या प्रतिक्रिया से नहीं। (घ) यह सत्य की ओर उन्मुख है — ब्रह्मानन्दवल्ली इसके पक्षों को ऋत और सत्य (ब्रह्माण्डीय सत्य और व्यक्तिगत सत्य) कहती है। <strong>विज्ञान में क्या अभाव है:</strong> (क) <em>यह अभी भी शक्ति (faculty) है, अवस्था (state of being) नहीं</em>: विज्ञान यथार्थ को जानता है; आनन्द यथार्थ है। भेद: दीपक कमरे को प्रकाशित करता है, किन्तु प्रकाश को प्रकाशित करने की आवश्यकता नहीं — वह स्वप्रकाश है। इसी प्रकार, विज्ञान सत्य को प्रकाशित करता है, किन्तु आनन्द आत्मा का स्वप्रकाश स्वभाव है। (ख) <em>यह सम्बन्धात्मक है</em>: ज्ञान के लिए ज्ञाता और ज्ञेय चाहिए। आनन्द इस द्वैत का अतिक्रमण करता है — यह किसी आनन्ददायक वस्तु का ज्ञान नहीं, बल्कि अस्तित्व का स्वभाव ही है। (ग) <em>यह 'कैसे' का उत्तर देता है, 'क्यों' का नहीं</em>: विज्ञान बताता है — हम कैसे जानते हैं, कैसे विवेक करते हैं, कैसे निर्धारण करते हैं। किन्तु हम खोजते क्यों हैं? कुछ भी क्यों अस्तित्व में है? उत्तर — आनन्द — यह है कि अस्तित्व इसलिए है क्योंकि वह आनन्द है। <strong>अन्तिम चरण:</strong> भृगु एक और तप करेगा और आनन्द — परमानन्द — ब्रह्म के स्वरूप तक पहुँचेगा। यह कोई और शक्ति नहीं, बल्कि सभी शक्तियों का आधार है, सभी खोज का कारण है, अस्तित्व के हृदय में विराजमान हर्ष है।<br><br><em>Eng:</em> Bhrigu's fourth realisation brings him to the very edge of the ultimate — vijñāna is the last veil before ānanda. Vijñāna is conscious, certain, willful, and truth-oriented. Yet it is still a FACULTY, not a state of being — vijñāna KNOWS reality; ānanda IS reality. Knowledge is relational (needs knower and known); bliss transcends this duality. Vijñāna answers 'how' but not 'why' — the answer is ānanda: existence exists because it IS bliss. One more tapas, and Bhrigu will arrive at the ground of all grounds."
       }
     ]
   },
@@ -263,26 +1083,171 @@
     "ws": [
       {
         "s": "आनन्दः",
-        "h": "आनन्द / परमानन्द / bliss / supreme joy",
+        "h": "आनन्द / परमानन्द",
         "e": "bliss / supreme joy"
       },
       {
-        "s": "भार्गवी वारुणी विद्या",
-        "h": "भृगु-वरुण की विद्या / the knowledge of Bhrigu and Varuṇa",
-        "e": "the knowledge of Bhrigu (son of Bhṛgu) and Varuṇa"
+        "s": "ब्रह्म",
+        "h": "ब्रह्म / परम सत्य",
+        "e": "Brahman / the Absolute"
       },
       {
-        "s": "ब्रह्मवर्चसेन",
-        "h": "ब्रह्मतेज से / in the radiance of sacred knowledge",
-        "e": "in the radiance of sacred knowledge"
+        "s": "इति",
+        "h": "इस प्रकार / ऐसा",
+        "e": "thus / so"
+      },
+      {
+        "s": "व्यजानात्",
+        "h": "उसने जाना / समझा",
+        "e": "he understood / he realised"
+      },
+      {
+        "s": "आनन्दात्",
+        "h": "आनन्द से",
+        "e": "from bliss"
+      },
+      {
+        "s": "हि एव खलु",
+        "h": "निश्चय ही / वास्तव में ही",
+        "e": "indeed / verily / certainly"
+      },
+      {
+        "s": "इमानि",
+        "h": "ये सब",
+        "e": "these"
+      },
+      {
+        "s": "भूतानि",
+        "h": "प्राणी / जीव",
+        "e": "beings / creatures"
+      },
+      {
+        "s": "जायन्ते",
+        "h": "उत्पन्न होते हैं / जन्म लेते हैं",
+        "e": "are born / arise"
+      },
+      {
+        "s": "आनन्देन",
+        "h": "आनन्द से / आनन्द द्वारा",
+        "e": "by bliss / through bliss"
+      },
+      {
+        "s": "जातानि",
+        "h": "जन्मे हुए / उत्पन्न हुए",
+        "e": "once born / those that are born"
+      },
+      {
+        "s": "जीवन्ति",
+        "h": "जीवित रहते हैं",
+        "e": "live / remain alive"
+      },
+      {
+        "s": "आनन्दम्",
+        "h": "आनन्द में / आनन्द को",
+        "e": "into bliss / towards bliss"
+      },
+      {
+        "s": "प्रयन्ति",
+        "h": "जाते हैं / प्रस्थान करते हैं",
+        "e": "they depart / they go"
+      },
+      {
+        "s": "अभिसंविशन्ति",
+        "h": "प्रवेश करते हैं / लौट कर समा जाते हैं",
+        "e": "they enter into / they merge back"
+      },
+      {
+        "s": "सा एषा",
+        "h": "यह वही",
+        "e": "this (very)"
+      },
+      {
+        "s": "भार्गवी",
+        "h": "भृगु की / भृगु-सम्बन्धी",
+        "e": "of Bhrigu / belonging to Bhṛgu"
+      },
+      {
+        "s": "वारुणी",
+        "h": "वरुण की / वरुण-सम्बन्धी",
+        "e": "of Varuṇa / belonging to Varuṇa"
+      },
+      {
+        "s": "विद्या",
+        "h": "विद्या / ज्ञान",
+        "e": "knowledge / teaching / meditation"
+      },
+      {
+        "s": "परमे व्योमन्",
+        "h": "परम आकाश में / सर्वोच्च व्योम में",
+        "e": "in the highest space / in the supreme ether"
+      },
+      {
+        "s": "प्रतिष्ठिता",
+        "h": "स्थापित / प्रतिष्ठित",
+        "e": "established / grounded"
+      },
+      {
+        "s": "सः यः",
+        "h": "वह जो",
+        "e": "he who"
+      },
+      {
+        "s": "एवम्",
+        "h": "इस प्रकार",
+        "e": "thus / in this manner"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है",
+        "e": "knows"
       },
       {
         "s": "प्रतितिष्ठति",
-        "h": "प्रतिष्ठित होता है / becomes established / becomes firmly grounded",
+        "h": "प्रतिष्ठित होता है / दृढ़ स्थित होता है",
         "e": "becomes established / becomes firmly grounded"
+      },
+      {
+        "s": "अन्नवान्",
+        "h": "अन्न-सम्पन्न / अन्नयुक्त",
+        "e": "possessing food / abundant in food"
+      },
+      {
+        "s": "अन्नादः",
+        "h": "अन्न-भोक्ता / अन्न खाने वाला",
+        "e": "eater of food"
+      },
+      {
+        "s": "भवति",
+        "h": "होता है",
+        "e": "becomes"
+      },
+      {
+        "s": "महान्",
+        "h": "महान् / श्रेष्ठ",
+        "e": "great"
+      },
+      {
+        "s": "प्रजया",
+        "h": "सन्तान से / प्रजा से",
+        "e": "in offspring / in progeny"
+      },
+      {
+        "s": "पशुभिः",
+        "h": "पशुधन से / पशुओं से",
+        "e": "in cattle / in livestock"
+      },
+      {
+        "s": "ब्रह्मवर्चसेन",
+        "h": "ब्रह्मतेज से / ब्रह्मज्ञान के तेज से",
+        "e": "in the radiance of sacred knowledge"
+      },
+      {
+        "s": "कीर्त्या",
+        "h": "कीर्ति से / यश से",
+        "e": "in fame / in renown"
       }
     ],
-    "gr": "<strong>Final realisation — bliss (ānanda) is Brahman</strong>: Bhrigu's fifth and final tapas yields the ultimate answer: ĀNANDA (bliss) is Brahman. <strong>The reasoning</strong>: ānanda satisfies the triple criterion at the deepest possible level: (1) Beings are born FROM bliss — the Brahmānandavallī (2.6) declared 'bahu syāṁ prajāyeya' — Brahman's desire to become many arose from its own bliss/fullness. Creation is an overflow of joy. (2) Beings live BY bliss — the Brahmānandavallī (2.7) asked 'ko hyevānyāt kaḥ prāṇyāt' — 'who would breathe if bliss were not in space?' Bliss sustains all existence. (3) Beings return INTO bliss — at liberation (mokṣa), the individual self merges back into the infinite bliss of Brahman. <strong>Why ānanda is the final answer</strong>: (a) Ānanda is not a faculty (like vijñāna) but a STATE OF BEING — it is what Brahman IS, not what Brahman DOES. (b) Ānanda is self-validating — bliss does not need to be justified or explained; it is its own reason. (c) Ānanda answers the ultimate 'why?' — why does anything exist? Because existence IS joy. (d) Ānanda confirms the Brahmānandavallī's teaching: 'satyaṁ jñānam anantaṁ brahma' — ananta (infinite) ≈ ānanda (bliss). <strong>The Bhārgavī-Vāruṇī Vidyā</strong>: this teaching is now given a formal name — the knowledge of Bhrigu and Varuṇa — established in the highest space (parame vyoman). The same 'parame vyoman' mentioned in the Brahmānandavallī's opening (2.1.1). <strong>The fruits</strong>: the knower of this teaching becomes established, possessing food, eating food, great in offspring, cattle, Brahman-radiance, and fame. These are not mere material rewards but signs of a life lived in harmony with the cosmic order.",
+    "gr": "<strong>व्याकरण:</strong> भृगु का पाँचवाँ और अन्तिम तप — <strong>आनन्दः ब्रह्मेति व्यजानात्</strong> — उसने जाना कि आनन्द ही ब्रह्म है। यह भृगुवल्ली का चरमोत्कर्ष एवं तैत्तिरीय उपनिषद् के केन्द्रीय सिद्धान्त की पुष्टि है। <strong>आनन्द त्रि-सूत्र को पूर्ण करता है:</strong> (1) <em>आनन्दात् भूतानि जायन्ते</em> — आनन्द से सभी प्राणी जन्म लेते हैं — सृष्टि आनन्द का अतिप्रवाह है (ब्रह्मानन्दवल्ली 2.6: 'बहु स्याम् प्रजायेय')। (2) <em>आनन्देन जातानि जीवन्ति</em> — आनन्द से जीवित रहते हैं — 'को ह्येवान्यात् कः प्राण्यात्' — बिना आनन्द कौन श्वास ले? (3) <em>आनन्दम् प्रयन्ति अभिसंविशन्ति</em> — मोक्ष पर सब ब्रह्म के अनन्त आनन्द में लौटते हैं। <strong>आनन्द अन्तिम उत्तर क्यों:</strong> (अ) आनन्द कोई वृत्ति (faculty) नहीं — अस्तित्व की स्वाभाविक स्थिति है — ब्रह्म क्या 'करता है' नहीं, ब्रह्म क्या 'है' — वही आनन्द। (ब) आनन्द स्वयं-प्रमाण है — उसे किसी बाह्य प्रमाण की आवश्यकता नहीं। (स) 'क्यों' का उत्तर — सब कुछ क्यों है? क्योंकि अस्तित्व स्वयं आनन्द-स्वरूप है। (द) ब्रह्मानन्दवल्ली की पुष्टि — 'सत्यं ज्ञानम् अनन्तम् ब्रह्म' — अनन्त ≈ आनन्द। <strong>भार्गवी वारुणी विद्या:</strong> इस ज्ञान को औपचारिक नाम मिलता है — भृगु और वरुण की विद्या — 'परमे व्योमन् प्रतिष्ठिता' — सर्वोच्च आकाश में प्रतिष्ठित। <strong>वरुण का मौन:</strong> पहली बार वरुण 'और तप करो' नहीं कहते — उनका मौन ही पुष्टि है — सत्य मिल गया। <strong>फल:</strong> जानने वाला प्रतिष्ठित, अन्नवान्, अन्नाद, प्रजा-पशु-ब्रह्मवर्चस-कीर्ति से महान् होता है।<br><em>Eng:</em> Bhrigu's fifth and final tapas: ānanda (bliss) = Brahman. Bliss satisfies the triple criterion completely — beings are born from bliss, live by bliss, return to bliss. Unlike vijñāna (a faculty), ānanda is a state of being — what Brahman IS. This teaching is formally named the Bhārgavī Vāruṇī Vidyā, established in the highest space (parame vyoman). Varuṇa's silence — he does not say \"do more tapas\" — is the confirmation. The knower becomes established, possessing food, great in offspring, cattle, brahma-radiance, and fame.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -307,11 +1272,11 @@
     "dp": [
       {
         "q": "🔍 Ānanda as Brahman — the culmination of the five-fold inquiry",
-        "a": "Bhrigu's final realisation — <strong>ānanda (bliss) = Brahman</strong> — is the climax of the Bhṛguvallī and the completion of the Taittirīya Upanishad's central teaching: <strong>The five realisations in sequence</strong>: (1) Anna (food) = Brahman at the physical level — TRUE but limited to matter. (2) Prāṇa (breath) = Brahman at the vital level — TRUE but limited to life-force. (3) Manas (mind) = Brahman at the mental level — TRUE but limited to thought. (4) Vijñāna (knowledge) = Brahman at the intellectual level — TRUE but limited to cognition. (5) Ānanda (bliss) = Brahman at the ultimate level — TRUE and COMPLETE. <strong>Why ānanda is the final answer</strong>: (a) It satisfies the triple criterion COMPLETELY: everything is born from bliss (creation is an overflow of joy), lives by bliss (bliss sustains all existence — 'ko hyevānyāt kaḥ prāṇyāt'), and returns to bliss (liberation = return to infinite joy). (b) It is not a FACULTY but a STATE OF BEING — unlike food, breath, mind, and knowledge, which are instruments or capacities, bliss is the NATURE of reality itself. (c) It is SELF-LUMINOUS — bliss doesn't need anything else to validate it. Joy is its own justification. (d) It connects the Bhṛguvallī to the Brahmānandavallī: the ānandamaya kośa was the innermost sheath, with Brahman as its pratiṣṭhā. Now Bhrigu has experientially confirmed what the Brahmānandavallī taught theoretically. <strong>The silence of Varuṇa</strong>: for the first time, Varuṇa does NOT say 'do more tapas.' His silence IS the confirmation. When the student reaches the truth, the teacher has nothing more to add."
+        "a": "भृगु की अन्तिम उपलब्धि — <strong>आनन्द (bliss) = ब्रह्म</strong> — भृगुवल्ली का चरमोत्कर्ष एवं तैत्तिरीय उपनिषद् की केन्द्रीय शिक्षा की पूर्णता है। <strong>पाँच उपलब्धियों का क्रम:</strong> (1) अन्न (food) = भौतिक स्तर पर ब्रह्म — सत्य परन्तु केवल पदार्थ तक सीमित। (2) प्राण (breath) = प्राणिक स्तर पर ब्रह्म — सत्य परन्तु जीवन-शक्ति तक सीमित। (3) मन (mind) = मानसिक स्तर पर ब्रह्म — सत्य परन्तु विचार तक सीमित। (4) विज्ञान (knowledge) = बौद्धिक स्तर पर ब्रह्म — सत्य परन्तु ज्ञान-वृत्ति तक सीमित। (5) आनन्द (bliss) = परम स्तर पर ब्रह्म — सत्य और पूर्ण। <strong>आनन्द ही अन्तिम क्यों:</strong> (अ) त्रि-सूत्र को पूर्णतः सन्तुष्ट करता है — सब आनन्द से उत्पन्न, आनन्द से जीवित, आनन्द में लौटते हैं। (ब) यह कोई वृत्ति (faculty) नहीं बल्कि अस्तित्व की स्थिति (state of being) है — अन्न, प्राण, मन, विज्ञान सब साधन या क्षमताएँ हैं, आनन्द वास्तविकता का स्वरूप है। (स) स्वयं-प्रकाश (self-luminous) है — आनन्द को प्रमाणित करने के लिए किसी अन्य वस्तु की आवश्यकता नहीं। (द) ब्रह्मानन्दवल्ली से सम्बन्ध — आनन्दमय कोश अन्तरतम कोश था, उसकी प्रतिष्ठा ब्रह्म — अब भृगु ने अनुभव से वही पुष्टि की जो ब्रह्मानन्दवल्ली ने सिद्धान्त रूप में सिखाया था। <strong>वरुण का मौन:</strong> पहली बार वरुण 'और तप करो' नहीं कहते — जब शिष्य सत्य तक पहुँचता है, गुरु के पास जोड़ने को कुछ नहीं बचता।<br><br><em>Eng:</em> Bhrigu's final realisation — ānanda (bliss) = Brahman — completes the Bhṛguvallī. The five discoveries (anna → prāṇa → manas → vijñāna → ānanda) correspond to the five sheaths, each true at its level but incomplete. Ānanda alone is complete: it satisfies the triple criterion fully, is a state of being rather than a faculty, and is self-luminous. Varuṇa's silence — not saying \"do more tapas\" for the first time — is the confirmation that the search has ended."
       },
       {
         "q": "🔍 The Bhārgavī Vāruṇī Vidyā — a named meditation tradition",
-        "a": "The Bhṛguvallī formally names its teaching the <strong>Bhārgavī Vāruṇī Vidyā</strong> (the knowledge of Bhrigu and Varuṇa), establishing it as a meditation tradition: <strong>What the name signifies</strong>: in the Upanishadic tradition, a 'vidyā' (knowledge/meditation) is not just information but a complete PRACTICE — a path of contemplation with a specific method and a specific goal. By naming this the 'Bhārgavī Vāruṇī Vidyā,' the Taittirīya transforms Bhrigu's personal discovery into a TRANSMISSIBLE tradition — anyone can follow the same path. <strong>The method of the vidyā</strong>: (1) Accept the triple criterion: Brahman = the source, sustainer, and goal of all beings. (2) Use tapas (concentrated contemplation) to investigate what satisfies this criterion. (3) Progressively deepen through five levels: food → breath → mind → knowledge → bliss. (4) At each level, test whether the answer is complete. If not, go deeper. (5) Arrive at ānanda — bliss — as the final, complete answer. <strong>'Parame vyoman pratiṣṭhitā'</strong>: this vidyā is 'established in the highest space' — the same 'parame vyoman' mentioned in the Brahmānandavallī's opening declaration ('nihitaṁ guhāyāṁ parame vyoman'). The highest space is both cosmic (the empyrean beyond all worlds) and personal (the innermost space of the heart). The vidyā is established there because its goal — ānanda — is both the cosmic absolute and the innermost self. <strong>The fruits</strong>: the knower becomes established, abundant in food, great in offspring, cattle, spiritual radiance, and fame. The Taittirīya does not set spiritual knowledge against material well-being — the two are complementary. The person established in ānanda naturally thrives in all dimensions of life."
+        "a": "भृगुवल्ली अपनी शिक्षा को औपचारिक नाम देती है — <strong>भार्गवी वारुणी विद्या</strong> (भृगु और वरुण का ज्ञान) — और इसे एक ध्यान-परम्परा के रूप में स्थापित करती है। <strong>नाम का अर्थ:</strong> उपनिषदीय परम्परा में 'विद्या' केवल जानकारी नहीं बल्कि एक सम्पूर्ण साधना-पद्धति है — ध्यान की एक विशिष्ट पद्धति जिसमें निर्दिष्ट प्रक्रिया और लक्ष्य हो। नाम देकर तैत्तिरीय भृगु की व्यक्तिगत खोज को एक हस्तान्तरणीय परम्परा में बदलती है — कोई भी इसी मार्ग पर चल सकता है। <strong>विद्या की विधि:</strong> (1) त्रि-सूत्र (triple criterion) स्वीकार करो — ब्रह्म = सबका उद्गम, आधार, और गन्तव्य। (2) तप (एकाग्र चिन्तन) से अन्वेषण करो। (3) पाँच स्तरों से क्रमशः गहरे उतरो — अन्न → प्राण → मन → विज्ञान → आनन्द। (4) प्रत्येक स्तर पर जाँचो — क्या उत्तर पूर्ण है? यदि नहीं, और गहरे जाओ। (5) आनन्द पर पहुँचो — पूर्ण उत्तर। <strong>'परमे व्योमन् प्रतिष्ठिता':</strong> यह विद्या 'सर्वोच्च आकाश में स्थापित' है — वही 'परमे व्योमन्' जो ब्रह्मानन्दवल्ली (2.1.1) में — 'निहितं गुहायां परमे व्योमन्' — यह आकाश लौकिक (cosmic) भी है (सभी लोकों से परे) और आध्यात्मिक (personal) भी (हृदय-गुहा का अन्तरतम प्रदेश)। <strong>फल:</strong> जानने वाला प्रतिष्ठित, अन्नवान्, महान् — प्रजा, पशु, ब्रह्मवर्चस, कीर्ति से। तैत्तिरीय आध्यात्मिक ज्ञान और भौतिक समृद्धि को विरोधी नहीं मानती — दोनों पूरक हैं।<br><br><em>Eng:</em> The Bhṛguvallī formally names its teaching the Bhārgavī Vāruṇī Vidyā — a complete meditation tradition, not mere information. Its method: accept the triple criterion, use tapas, deepen through five levels (anna → prāṇa → manas → vijñāna → ānanda). The vidyā is \"established in the highest space\" (parame vyoman) — both cosmic and personal. The knower attains both spiritual establishment and material prosperity — the Taittirīya sees these as complementary."
       }
     ]
   },
@@ -323,22 +1288,147 @@
     "en": "One should not despise food (annaṁ na nindyāt). That is the vow (vratam). Breath (prāṇa) is food. The body (śarīra) is the eater of food (annāda). In breath, the body is established. In the body, breath is established. Thus food is established in food (annam anne pratiṣṭhitam). He who knows this — that food is established in food — becomes established. He becomes possessing food and an eater of food. He becomes great — in offspring, cattle, the radiance of sacred knowledge, great in fame.",
     "ws": [
       {
-        "s": "न निन्द्यात्",
-        "h": "निन्दा नहीं करनी चाहिए / one should not despise / depreciate",
-        "e": "one should not despise / depreciate"
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन",
+        "e": "food"
+      },
+      {
+        "s": "न",
+        "h": "नहीं",
+        "e": "not"
+      },
+      {
+        "s": "निन्द्यात्",
+        "h": "निन्दा करे / तिरस्कार करे",
+        "e": "should despise / should disparage"
+      },
+      {
+        "s": "तत्",
+        "h": "वह / यह",
+        "e": "that"
       },
       {
         "s": "व्रतम्",
-        "h": "व्रत / sacred vow / resolution",
+        "h": "व्रत / पवित्र संकल्प",
         "e": "vow / sacred resolution"
       },
       {
-        "s": "अन्नमन्ने प्रतिष्ठितम्",
-        "h": "अन्न अन्न में प्रतिष्ठित / food is established in food",
+        "s": "प्राणः",
+        "h": "प्राण / श्वास / जीवन-शक्ति",
+        "e": "breath / life-force"
+      },
+      {
+        "s": "वा",
+        "h": "ही / निश्चय से",
+        "e": "indeed / verily"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न (यहाँ प्राण = अन्न)",
+        "e": "food (here: prāṇa = food)"
+      },
+      {
+        "s": "शरीरम्",
+        "h": "शरीर / देह",
+        "e": "body"
+      },
+      {
+        "s": "अन्नादम्",
+        "h": "अन्न-भोक्ता / अन्न खाने वाला",
+        "e": "eater of food"
+      },
+      {
+        "s": "प्राणे",
+        "h": "प्राण में",
+        "e": "in breath / in prāṇa"
+      },
+      {
+        "s": "शरीरं प्रतिष्ठितम्",
+        "h": "शरीर प्रतिष्ठित है / स्थापित है",
+        "e": "the body is established"
+      },
+      {
+        "s": "शरीरे",
+        "h": "शरीर में",
+        "e": "in the body"
+      },
+      {
+        "s": "प्राणः प्रतिष्ठितः",
+        "h": "प्राण प्रतिष्ठित है",
+        "e": "breath is established"
+      },
+      {
+        "s": "तत् एतत्",
+        "h": "इस प्रकार यह",
+        "e": "thus this"
+      },
+      {
+        "s": "अन्नम् अन्ने प्रतिष्ठितम्",
+        "h": "अन्न अन्न में प्रतिष्ठित है",
         "e": "food is established in food"
+      },
+      {
+        "s": "सः यः",
+        "h": "वह जो",
+        "e": "he who"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह / इस",
+        "e": "this"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है",
+        "e": "knows"
+      },
+      {
+        "s": "प्रतितिष्ठति",
+        "h": "प्रतिष्ठित होता है / दृढ़ स्थित होता है",
+        "e": "becomes established"
+      },
+      {
+        "s": "अन्नवान्",
+        "h": "अन्न-सम्पन्न",
+        "e": "possessing food"
+      },
+      {
+        "s": "अन्नादः",
+        "h": "अन्न-भोक्ता",
+        "e": "eater of food"
+      },
+      {
+        "s": "भवति",
+        "h": "होता है",
+        "e": "becomes"
+      },
+      {
+        "s": "महान्",
+        "h": "महान् / श्रेष्ठ",
+        "e": "great"
+      },
+      {
+        "s": "प्रजया",
+        "h": "सन्तान से / प्रजा से",
+        "e": "in offspring"
+      },
+      {
+        "s": "पशुभिः",
+        "h": "पशुधन से",
+        "e": "in cattle"
+      },
+      {
+        "s": "ब्रह्मवर्चसेन",
+        "h": "ब्रह्मतेज से",
+        "e": "in the radiance of sacred knowledge"
+      },
+      {
+        "s": "कीर्त्या",
+        "h": "कीर्ति से / यश से",
+        "e": "in fame"
       }
     ],
-    "gr": "<strong>The first food-vow — do not despise food</strong>: after Bhrigu's five-fold realisation, the Bhṛguvallī shifts to PRACTICAL APPLICATION. <strong>The vow</strong>: 'annaṁ na nindyāt — tat vratam' — 'One should not despise food — that is the vow.' This is the first of several food-meditations that translate Bhrigu's insight (food = Brahman at the physical level) into daily practice. <strong>The logic of mutual support</strong>: prāṇa = food (prāṇa sustains life, just as food does). The body = the eater of food. But the body is established IN breath (without breath, the body is dead), and breath is established IN the body (without a body, breath has no home). Therefore: food supports food. The eater and the eaten are interdependent — a circle, not a hierarchy. <strong>The practical teaching</strong>: if food is Brahman, then: (a) NEVER despise food — what you eat is sacred. (b) Treat the preparation, sharing, and consumption of food as sacred acts. (c) Recognise the interdependence of all life through the food-cycle. <strong>The fruits</strong>: the standard formula — becoming established, possessing food, eating food, great in offspring, cattle, spiritual radiance, and fame.",
+    "gr": "<strong>व्याकरण:</strong> प्रथम अन्न-व्रत — <strong>'अन्नं न निन्द्यात् — तद् व्रतम्'</strong> — अन्न की निन्दा न करो — यह व्रत है। भृगु की पञ्चकोशीय साधना के बाद, भृगुवल्ली व्यावहारिक अनुप्रयोग की ओर मुड़ती है। यदि अन्न भौतिक स्तर पर ब्रह्म है तो उसका तिरस्कार ब्रह्म का तिरस्कार है। <strong>परस्पर-आश्रय का ध्यान:</strong> प्राण = अन्न (प्राण जीवन का पोषण करता है जैसे अन्न करता है)। शरीर = अन्नाद (अन्न-भोक्ता)। परन्तु — शरीर प्राण में प्रतिष्ठित (बिना प्राण शरीर = शव), और प्राण शरीर में प्रतिष्ठित (बिना शरीर प्राण = निराश्रय)। अतः अन्न अन्न में प्रतिष्ठित — भोक्ता और भोज्य परस्पर-आश्रित — वृत्त (circle), न कि अनुक्रम (hierarchy)। <strong>व्यावहारिक शिक्षा:</strong> अन्न = ब्रह्म तो — (अ) अन्न की कभी उपेक्षा या तिरस्कार नहीं। (ब) अन्न का निर्माण, बँटवारा, सेवन — सब पवित्र कर्म। (स) जीवन-चक्र में सबकी परस्पर-निर्भरता की पहचान।<br><em>Eng:</em> First food-vow: \"Do not despise food — that is the vow.\" After Bhrigu's fivefold realisation, the Bhṛguvallī turns to practical application. Prāṇa = food, body = the eater; but the body rests in breath and breath rests in the body — mutual support, food established in food. If food is Brahman at the physical level, despising it is despising Brahman. Preparing, sharing, and eating food become sacred acts.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -363,11 +1453,11 @@
     "dp": [
       {
         "q": "🔍 The food-vows — from realisation to practice",
-        "a": "After Bhrigu's climactic realisation (ānanda = Brahman), the Bhṛguvallī takes a surprising turn — it returns to <strong>food (anna)</strong> and offers a series of <strong>practical vows</strong> for daily life: <strong>Why return to food?</strong> Bhrigu's journey went from food (the lowest) to bliss (the highest). But the Taittirīya does not abandon the lower levels after reaching the highest. Instead, it RETURNS to the physical and TRANSFORMS it with the insight gained. This is the Taittirīya's characteristic both-and logic: (a) Ānanda is Brahman — the highest truth. (b) Anna is ALSO Brahman — the most immediate truth. (c) The sage who knows ānanda does not despise anna but REVERENCES it as Brahman's first face. <strong>The first vow</strong>: 'annaṁ na nindyāt — tat vratam' — do not despise food. This is not just dietary advice — it is a spiritual principle: if food is Brahman at the physical level, then despising food is despising a form of Brahman. Every meal becomes a sacred act. <strong>The mutual-support meditation</strong>: breath is food (it sustains like food). The body is the eater. But the body rests in breath, and breath rests in the body. Food supports food — a circle of interdependence. This meditation dissolves the hierarchy of eater and eaten, revealing them as two faces of one reality."
+        "a": "भृगु की चरम उपलब्धि (आनन्द = ब्रह्म) के बाद, भृगुवल्ली एक आश्चर्यजनक मोड़ लेती है — वह <strong>अन्न (food)</strong> पर लौटती है और दैनिक जीवन के लिए <strong>व्यावहारिक व्रत</strong> देती है। <strong>अन्न पर क्यों लौटना?</strong> भृगु की यात्रा अन्न (निम्नतम) से आनन्द (सर्वोच्च) तक गयी। परन्तु तैत्तिरीय सर्वोच्च पर पहुँचकर निम्न स्तरों को त्यागती नहीं — वह भौतिक में लौटकर उसे ज्ञान से रूपान्तरित करती है। यह तैत्तिरीय का विशिष्ट 'दोनों-और' तर्क है: (अ) आनन्द = ब्रह्म — सर्वोच्च सत्य। (ब) अन्न भी ब्रह्म — सबसे तत्काल सत्य। (स) जो आनन्द जानता है वह अन्न का तिरस्कार नहीं करता बल्कि उसे ब्रह्म के प्रथम मुख के रूप में पूजता है। <strong>प्रथम व्रत:</strong> 'अन्नं न निन्द्यात् — तद् व्रतम्' — अन्न की निन्दा न करो। यह केवल आहार-सम्बन्धी सलाह नहीं — आध्यात्मिक सिद्धान्त है: यदि अन्न = ब्रह्म तो निन्दा = ब्रह्म-निन्दा। प्रत्येक भोजन एक पवित्र कर्म बन जाता है। <strong>परस्पर-आश्रय ध्यान:</strong> प्राण = अन्न (पोषक), शरीर = अन्नाद (भोक्ता)। शरीर प्राण पर, प्राण शरीर पर — अन्न अन्न में प्रतिष्ठित — एक वृत्ताकार परस्पर-निर्भरता। यह ध्यान भोक्ता-भोज्य के पदानुक्रम को विलीन करता है — दोनों एक ही सत्य के दो मुख।<br><br><em>Eng:</em> After the climactic realisation (ānanda = Brahman), the Bhṛguvallī returns to food and offers practical vows. The Taittirīya does not abandon lower levels after reaching the highest — it transforms the physical with spiritual insight. The first vow: \"Don't despise food.\" If food is Brahman, despising it = despising Brahman. The mutual-support meditation (prāṇa = food, body = eater, each resting in the other) dissolves the eater-eaten hierarchy into a circle of interdependence."
       },
       {
         "q": "🔍 The circle of support — 'annam anne pratiṣṭhitam'",
-        "a": "The statement <strong>'annam anne pratiṣṭhitam'</strong> (food is established in food) is a meditation on <strong>mutual dependence</strong> and the <strong>circularity of existence</strong>: <strong>The logic</strong>: (1) Prāṇa (breath) = anna (food) — because breath sustains life just as food does. (2) The body (śarīra) = annāda (the eater of food). (3) The body is established IN breath — without breath, the body is dead. (4) Breath is established IN the body — without a body, breath has no vehicle. (5) Therefore: food (as breath) supports food (as body), and food (as body) supports food (as breath). Food is established in food. <strong>The philosophical point</strong>: this is NOT a linear hierarchy (food at the bottom, bliss at the top) but a CIRCLE. The eater depends on the eaten, and the eaten depends on the eater. Subject and object are interdependent. This anticipates the Brahmānandavallī's insight: 'adyate atti ca bhūtāni' — food is eaten AND eats beings. The relationship is reciprocal. <strong>The practical implication</strong>: when you eat, you are not a sovereign consumer exploiting a passive resource. You and your food are in a relationship of MUTUAL SUPPORT. Someday your body will be food for the earth. This awareness transforms eating from consumption into communion — a participation in the great circle of existence."
+        "a": "<strong>'अन्नम् अन्ने प्रतिष्ठितम्'</strong> (अन्न अन्न में प्रतिष्ठित) — यह <strong>परस्पर-निर्भरता</strong> और <strong>अस्तित्व की वृत्ताकारता</strong> पर ध्यान है। <strong>तर्क-क्रम:</strong> (1) प्राण = अन्न — क्योंकि प्राण जीवन का पोषण करता है जैसे अन्न करता है। (2) शरीर = अन्नाद — शरीर अन्न का भोक्ता है। (3) शरीर प्राण में प्रतिष्ठित — बिना प्राण शरीर मृत। (4) प्राण शरीर में प्रतिष्ठित — बिना शरीर प्राण निराश्रय। (5) अतः अन्न (प्राण-रूप) अन्न (शरीर-रूप) को पोषित करता है, और अन्न (शरीर-रूप) अन्न (प्राण-रूप) को पोषित करता है। अन्न अन्न में प्रतिष्ठित। <strong>दार्शनिक अर्थ:</strong> यह रैखिक पदानुक्रम (linear hierarchy) नहीं बल्कि वृत्त (circle) है। भोक्ता भोज्य पर निर्भर, भोज्य भोक्ता पर — कर्ता और कर्म परस्पर-आश्रित। ब्रह्मानन्दवल्ली का पूर्वाभास — 'अद्यते अत्ति च भूतानि' — अन्न खाया भी जाता है और खाता भी है। <strong>व्यावहारिक सन्देश:</strong> जब आप खाते हैं, आप एक सम्प्रभु उपभोक्ता (sovereign consumer) नहीं जो निष्क्रिय संसाधन का शोषण कर रहे। आप और आपका अन्न परस्पर-आश्रय में हैं — एक दिन आपका शरीर भी पृथ्वी का अन्न होगा। यह बोध उपभोग (consumption) को साम्य (communion) में बदलता है — अस्तित्व के महा-वृत्त में भागीदारी।<br><br><em>Eng:</em> \"Food is established in food\" — a meditation on mutual dependence and circularity. Prāṇa (as food/sustainer) supports the body (the eater), and the body houses prāṇa — each depends on the other. This is not a linear hierarchy but a circle. The eater depends on the eaten, and the eaten depends on the eater. One day your body becomes food for the earth. This awareness transforms eating from consumption into communion — participation in the great cycle of existence."
       }
     ]
   },
@@ -379,22 +1469,147 @@
     "en": "One should not reject food (annaṁ na paricakṣīta). That is the vow. Waters (āpaḥ) are food. Fire/light (jyotiḥ) is the eater of food. In waters, fire is established. In fire, waters are established. Thus food is established in food. He who knows this — that food is established in food — becomes established. He becomes possessing food and an eater of food. He becomes great — in offspring, cattle, the radiance of sacred knowledge, great in fame.",
     "ws": [
       {
-        "s": "न परिचक्षीत",
-        "h": "त्याग नहीं करना चाहिए / one should not reject / refuse / turn away",
-        "e": "one should not reject / refuse / turn away from"
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन",
+        "e": "food"
+      },
+      {
+        "s": "न",
+        "h": "नहीं",
+        "e": "not"
+      },
+      {
+        "s": "परिचक्षीत",
+        "h": "त्याग करे / अस्वीकार करे / बर्बाद करे",
+        "e": "should reject / should refuse / should waste"
+      },
+      {
+        "s": "तत्",
+        "h": "वह / यह",
+        "e": "that"
+      },
+      {
+        "s": "व्रतम्",
+        "h": "व्रत / पवित्र संकल्प",
+        "e": "vow / sacred resolution"
       },
       {
         "s": "आपः",
-        "h": "जल / waters",
+        "h": "जल",
         "e": "waters"
       },
       {
+        "s": "वा",
+        "h": "ही / निश्चय से",
+        "e": "indeed / verily"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न (यहाँ जल = अन्न)",
+        "e": "food (here: water = food)"
+      },
+      {
         "s": "ज्योतिः",
-        "h": "अग्नि / प्रकाश / fire / light",
+        "h": "अग्नि / प्रकाश / तेज",
         "e": "fire / light"
+      },
+      {
+        "s": "अन्नादम्",
+        "h": "अन्न-भोक्ता",
+        "e": "eater of food"
+      },
+      {
+        "s": "अप्सु",
+        "h": "जल में",
+        "e": "in waters"
+      },
+      {
+        "s": "ज्योतिः प्रतिष्ठितम्",
+        "h": "अग्नि/ज्योति प्रतिष्ठित है",
+        "e": "fire/light is established"
+      },
+      {
+        "s": "ज्योतिषि",
+        "h": "अग्नि/ज्योति में",
+        "e": "in fire / in light"
+      },
+      {
+        "s": "आपः प्रतिष्ठिताः",
+        "h": "जल प्रतिष्ठित हैं",
+        "e": "waters are established"
+      },
+      {
+        "s": "तत् एतत्",
+        "h": "इस प्रकार यह",
+        "e": "thus this"
+      },
+      {
+        "s": "अन्नम् अन्ने प्रतिष्ठितम्",
+        "h": "अन्न अन्न में प्रतिष्ठित है",
+        "e": "food is established in food"
+      },
+      {
+        "s": "सः यः",
+        "h": "वह जो",
+        "e": "he who"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह / इस",
+        "e": "this"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है",
+        "e": "knows"
+      },
+      {
+        "s": "प्रतितिष्ठति",
+        "h": "प्रतिष्ठित होता है",
+        "e": "becomes established"
+      },
+      {
+        "s": "अन्नवान्",
+        "h": "अन्न-सम्पन्न",
+        "e": "possessing food"
+      },
+      {
+        "s": "अन्नादः",
+        "h": "अन्न-भोक्ता",
+        "e": "eater of food"
+      },
+      {
+        "s": "भवति",
+        "h": "होता है",
+        "e": "becomes"
+      },
+      {
+        "s": "महान्",
+        "h": "महान्",
+        "e": "great"
+      },
+      {
+        "s": "प्रजया",
+        "h": "सन्तान से",
+        "e": "in offspring"
+      },
+      {
+        "s": "पशुभिः",
+        "h": "पशुधन से",
+        "e": "in cattle"
+      },
+      {
+        "s": "ब्रह्मवर्चसेन",
+        "h": "ब्रह्मतेज से",
+        "e": "in the radiance of sacred knowledge"
+      },
+      {
+        "s": "कीर्त्या",
+        "h": "कीर्ति से",
+        "e": "in fame"
       }
     ],
-    "gr": "<strong>The second food-vow — do not reject food</strong>: the second vow shifts from inner attitude (don't despise) to outer action (don't refuse/waste). <strong>The vow</strong>: 'annaṁ na paricakṣīta — tat vratam' — 'One should not reject food — that is the vow.' While the first vow addressed mental attitude (contempt), this addresses physical behaviour (refusal/waste). <strong>The cosmic elements</strong>: this vow meditates on the ELEMENTS: water (āpaḥ) = food, fire (jyotiḥ) = the eater. Water and fire are interdependent: fire evaporates water (eats it), but fire depends on water-based fuel to burn (water sustains fire). Fire established in water; water established in fire. Food in food. <strong>The pattern</strong>: the same structure as the previous vow — a pair of cosmic elements, each supporting the other, demonstrating the mutual establishment of food in food.",
+    "gr": "<strong>व्याकरण:</strong> द्वितीय अन्न-व्रत — <strong>'अन्नं न परिचक्षीत — तद् व्रतम्'</strong> — अन्न का त्याग (refuse/waste) न करो — यह व्रत है। प्रथम व्रत ने आन्तरिक भाव (contempt/तिरस्कार) को सम्बोधित किया; यह द्वितीय व्रत बाह्य आचरण (refusal/अस्वीकार, waste/बर्बादी) को सम्बोधित करता है। <strong>तात्त्विक युगल — जल और अग्नि:</strong> आपः (जल) = अन्न — जल सबसे मूलभूत पोषण है। वैदिक सृष्टि-क्रम में जल पृथ्वी से पूर्व (ब्रह्मानन्दवल्ली 2.1: अग्नेः आपः, अद्भ्यः पृथिवी)। ज्योतिः (अग्नि) = अन्नाद — अग्नि जल को 'खाती' है (वाष्पीकरण — evaporation); शरीर की जठराग्नि (digestive fire) अन्न को रूपान्तरित करती है। <strong>परस्पर-आश्रय:</strong> अग्नि जल में प्रतिष्ठित — अग्नि को ईन्धन चाहिए, सब ईन्धन जल-आधारित (जैविक पदार्थ जल-पृथ्वी से उगता है)। जल अग्नि में प्रतिष्ठित — वर्षा सूर्य (अग्नि) द्वारा समुद्री जल के वाष्पीकरण से होती है। बिना सौर अग्नि, जल-चक्र नहीं। <strong>अन्न अन्न में प्रतिष्ठित</strong> — वही वृत्ताकार सम्बन्ध।<br><em>Eng:</em> Second food-vow: \"Do not reject/waste food.\" While the first vow addressed attitude (contempt), this one addresses action (refusal/waste). Water = food, fire = the eater. Fire evaporates water; water-based fuel sustains fire — mutual dependence. Fire is established in water (needs fuel); water is established in fire (rain depends on solar evaporation). Food supports food in a circle.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -419,11 +1634,11 @@
     "dp": [
       {
         "q": "🔍 Water and fire — the cosmic pair",
-        "a": "The second food-vow meditates on <strong>water (āpaḥ) and fire (jyotiḥ)</strong> as a pair of interdependent cosmic elements: <strong>Water as food</strong>: water is the most fundamental nourishment — more basic than solid food. All living beings require water. In the Vedic cosmology, water precedes earth in the creation sequence (Brahmānandavallī 2.1: agneḥ āpaḥ, adbhyaḥ pṛthivī). Water is the medium in which life first arose, and the substance without which no life can continue. <strong>Fire as the eater</strong>: fire 'eats' water — through evaporation, fire transforms liquid water into vapour. The digestive fire (jāṭharāgni) within the body 'eats' the water and food consumed, transforming them into energy. Fire is the principle of TRANSFORMATION — it converts one form into another. <strong>The mutual dependence</strong>: (a) Fire is 'established in' water — fire needs fuel, and all fuel is ultimately water-based (organic matter grows from water and earth). Without water, there is no fuel; without fuel, fire cannot exist. (b) Water is 'established in' fire — rain falls because the sun (fire) evaporates ocean water. Without solar fire, there would be no rain cycle, no fresh water. Water depends on fire for its circulation. <strong>The teaching</strong>: fire and water are not opposites but PARTNERS in the cycle of existence. Each sustains the other. This cosmic partnership mirrors the food-eater relationship: the eater needs the eaten, and the eaten (through the cycle of nature) needs the eater. All existence is mutual support."
+        "a": "द्वितीय अन्न-व्रत <strong>जल (आपः) और अग्नि (ज्योतिः)</strong> के परस्पर-आश्रित तात्त्विक युगल पर ध्यान कराता है। <strong>जल = अन्न:</strong> जल सबसे मूलभूत पोषण है — ठोस भोजन से भी अधिक आधारभूत। सभी जीवों को जल चाहिए। वैदिक सृष्टि-क्रम में जल पृथ्वी से पूर्व आता है (ब्रह्मानन्दवल्ली 2.1: अग्नेः आपः, अद्भ्यः पृथिवी)। जल वह माध्यम है जिसमें जीवन सर्वप्रथम उत्पन्न हुआ। <strong>अग्नि = अन्नाद:</strong> अग्नि जल को 'खाती' है — वाष्पीकरण (evaporation) द्वारा अग्नि तरल जल को वाष्प में बदलती है। शरीर की जठराग्नि भोजन-जल को ऊर्जा में रूपान्तरित करती है। अग्नि = रूपान्तरण (transformation) का सिद्धान्त — एक रूप को दूसरे में बदलना। <strong>परस्पर-आश्रय:</strong> (अ) अग्नि जल में प्रतिष्ठित — अग्नि को ईन्धन चाहिए, सब ईन्धन जल-आधारित जैविक पदार्थ है। बिना जल, ईन्धन नहीं; बिना ईन्धन, अग्नि नहीं। (ब) जल अग्नि में प्रतिष्ठित — वर्षा सूर्य (अग्नि) के समुद्री जल वाष्पीकरण से होती है। बिना सौर अग्नि, वर्षा-चक्र नहीं, ताज़ा जल नहीं। जल का संचरण अग्नि पर निर्भर। <strong>शिक्षा:</strong> अग्नि और जल विपरीत नहीं बल्कि सहभागी हैं। प्रत्येक दूसरे को पोषित करता है। यह वैश्विक साझेदारी अन्न-अन्नाद सम्बन्ध को प्रतिबिम्बित करती है — भोक्ता को भोज्य चाहिए, भोज्य को (प्रकृति-चक्र द्वारा) भोक्ता चाहिए।<br><br><em>Eng:</em> The second food-vow meditates on water (āpaḥ) and fire (jyotiḥ) as an interdependent cosmic pair. Water is the most basic nourishment; fire is the transformative principle. Fire \"eats\" water (evaporation); water-based fuel sustains fire. Rain depends on solar fire; fire depends on water-based fuel. They are partners, not opposites — each sustains the other, mirroring the food-eater relationship where eater needs the eaten and the eaten (through nature's cycle) needs the eater."
       },
       {
         "q": "🔍 The two food-vows compared — attitude and action",
-        "a": "The first two food-vows address two different dimensions of our relationship with food: <strong>First vow — 'na nindyāt' (don't despise)</strong>: this addresses <em>attitude</em>. Don't hold food in contempt. Don't look down on the physical, the material, the bodily. This is an inner discipline — a shift in how we THINK about food. <strong>Second vow — 'na paricakṣīta' (don't reject)</strong>: this addresses <em>action</em>. Don't refuse food when offered. Don't waste food. Don't turn away from nourishment. This is an outer discipline — a shift in how we ACT toward food. <strong>Together</strong>: the two vows create a complete food-ethics: (a) Inner: reverence for food as a form of Brahman. (b) Outer: acceptance of food, no waste, no refusal. <strong>The deeper principle</strong>: both vows flow from Bhrigu's realisation that food = Brahman at the physical level. If food is sacred, then despising it (inner) or wasting it (outer) is a form of irreverence toward the sacred. The Taittirīya's genius is to translate metaphysical insight into everyday behaviour — you don't just KNOW that food is Brahman; you LIVE that knowledge in how you eat, cook, share, and think about food."
+        "a": "प्रथम दो अन्न-व्रत भोजन के साथ हमारे सम्बन्ध के दो भिन्न आयामों को सम्बोधित करते हैं: <strong>प्रथम व्रत — 'न निन्द्यात्' (निन्दा न करो):</strong> यह <em>भाव/दृष्टिकोण</em> (attitude) को सम्बोधित करता है। अन्न का तिरस्कार न करो, भौतिक को हीन न मानो, शारीरिक को नीचा न देखो। यह आन्तरिक अनुशासन है — अन्न के प्रति हमारी सोच में परिवर्तन। <strong>द्वितीय व्रत — 'न परिचक्षीत' (त्याग/बर्बादी न करो):</strong> यह <em>क्रिया/आचरण</em> (action) को सम्बोधित करता है। दिये जाने पर अन्न अस्वीकार न करो, अन्न बर्बाद न करो, पोषण से मुँह न मोड़ो। यह बाह्य अनुशासन — हमारे व्यवहार में परिवर्तन। <strong>दोनों मिलकर:</strong> पूर्ण अन्न-नैतिकता (food-ethics) का निर्माण: (अ) आन्तरिक — अन्न का ब्रह्म-रूप में आदर। (ब) बाह्य — अन्न की स्वीकृति, न बर्बादी, न अस्वीकार। <strong>गहन सिद्धान्त:</strong> दोनों व्रत भृगु की उपलब्धि (अन्न = भौतिक स्तर पर ब्रह्म) से निकलते हैं। यदि अन्न पवित्र है तो उसकी निन्दा (आन्तरिक) या बर्बादी (बाह्य) = पवित्र का अनादर। तैत्तिरीय की विलक्षणता — आध्यात्मिक अन्तर्दृष्टि को दैनन्दिन आचरण में बदलना — केवल जानना नहीं कि अन्न = ब्रह्म, बल्कि उस ज्ञान को भोजन बनाने, खाने, बाँटने में जीना।<br><br><em>Eng:</em> The first two food-vows address two dimensions: the first (\"don't despise\") addresses inner attitude — don't hold food in contempt; the second (\"don't reject\") addresses outer action — don't refuse or waste food. Together they create a complete food-ethics: inner reverence + outer acceptance. Both flow from the insight that food = Brahman at the physical level. The Taittirīya's genius is translating metaphysical insight into everyday behaviour."
       }
     ]
   },
@@ -435,22 +1650,147 @@
     "en": "One should make food abundant (annaṁ bahu kurvīta). That is the vow. Earth (pṛthivī) is food. Space (ākāśa) is the eater of food. In earth, space is established. In space, earth is established. Thus food is established in food. He who knows this — that food is established in food — becomes established. He becomes possessing food and an eater of food. He becomes great — in offspring, cattle, the radiance of sacred knowledge, great in fame.",
     "ws": [
       {
-        "s": "बहु कुर्वीत",
-        "h": "बहुत बनाना चाहिए / one should make abundant / increase",
-        "e": "one should make abundant / one should increase"
+        "s": "अन्नम्",
+        "h": "अन्न / भोजन",
+        "e": "food"
+      },
+      {
+        "s": "बहु",
+        "h": "बहुत / अधिक",
+        "e": "much / abundant"
+      },
+      {
+        "s": "कुर्वीत",
+        "h": "बनाना चाहिए / उत्पन्न करना चाहिए",
+        "e": "one should make / one should produce"
+      },
+      {
+        "s": "तत्",
+        "h": "वह / यह",
+        "e": "that"
+      },
+      {
+        "s": "व्रतम्",
+        "h": "व्रत / पवित्र संकल्प",
+        "e": "vow / sacred resolution"
       },
       {
         "s": "पृथिवी",
-        "h": "पृथिवी / भूमि / earth",
+        "h": "पृथिवी / भूमि",
         "e": "earth"
       },
       {
+        "s": "वा",
+        "h": "ही / निश्चय से",
+        "e": "indeed / verily"
+      },
+      {
+        "s": "अन्नम्",
+        "h": "अन्न (यहाँ पृथिवी = अन्न)",
+        "e": "food (here: earth = food)"
+      },
+      {
         "s": "आकाशः",
-        "h": "आकाश / space / ether",
+        "h": "आकाश / अन्तरिक्ष",
         "e": "space / ether"
+      },
+      {
+        "s": "अन्नादः",
+        "h": "अन्न-भोक्ता",
+        "e": "eater of food"
+      },
+      {
+        "s": "पृथिव्याम्",
+        "h": "पृथिवी में",
+        "e": "in earth"
+      },
+      {
+        "s": "आकाशः प्रतिष्ठितः",
+        "h": "आकाश प्रतिष्ठित है",
+        "e": "space is established"
+      },
+      {
+        "s": "आकाशे",
+        "h": "आकाश में",
+        "e": "in space"
+      },
+      {
+        "s": "पृथिवी प्रतिष्ठिता",
+        "h": "पृथिवी प्रतिष्ठित है",
+        "e": "earth is established"
+      },
+      {
+        "s": "तत् एतत्",
+        "h": "इस प्रकार यह",
+        "e": "thus this"
+      },
+      {
+        "s": "अन्नम् अन्ने प्रतिष्ठितम्",
+        "h": "अन्न अन्न में प्रतिष्ठित है",
+        "e": "food is established in food"
+      },
+      {
+        "s": "सः यः",
+        "h": "वह जो",
+        "e": "he who"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह / इस",
+        "e": "this"
+      },
+      {
+        "s": "वेद",
+        "h": "जानता है",
+        "e": "knows"
+      },
+      {
+        "s": "प्रतितिष्ठति",
+        "h": "प्रतिष्ठित होता है",
+        "e": "becomes established"
+      },
+      {
+        "s": "अन्नवान्",
+        "h": "अन्न-सम्पन्न",
+        "e": "possessing food"
+      },
+      {
+        "s": "अन्नादः",
+        "h": "अन्न-भोक्ता",
+        "e": "eater of food"
+      },
+      {
+        "s": "भवति",
+        "h": "होता है",
+        "e": "becomes"
+      },
+      {
+        "s": "महान्",
+        "h": "महान्",
+        "e": "great"
+      },
+      {
+        "s": "प्रजया",
+        "h": "सन्तान से",
+        "e": "in offspring"
+      },
+      {
+        "s": "पशुभिः",
+        "h": "पशुधन से",
+        "e": "in cattle"
+      },
+      {
+        "s": "ब्रह्मवर्चसेन",
+        "h": "ब्रह्मतेज से",
+        "e": "in the radiance of sacred knowledge"
+      },
+      {
+        "s": "कीर्त्या",
+        "h": "कीर्ति से",
+        "e": "in fame"
       }
     ],
-    "gr": "<strong>The third food-vow — make food abundant</strong>: the most socially oriented of the three vows. <strong>The vow</strong>: 'annaṁ bahu kurvīta — tat vratam' — 'One should make food abundant — that is the vow.' This is remarkable: the Taittirīya makes PRODUCING FOOD a sacred duty — a vrata (vow). Not just eating reverently or accepting gratefully, but actively INCREASING the supply of food. This is a social and ecological teaching embedded in a spiritual text. <strong>The cosmic elements</strong>: earth (pṛthivī) = food, space (ākāśa) = the eater. Earth and space are interdependent: earth exists IN space (space contains earth), and space exists IN earth (every object contains internal space — the space between atoms, the hollows within things). The most solid (earth) and the most subtle (space) support each other. <strong>The complete food-ethics</strong>: the three vows together form a complete food-ethics: (1) Don't despise food (inner attitude). (2) Don't refuse/waste food (personal action). (3) Make food abundant (social responsibility). Together: reverence + acceptance + generosity = the complete anna-dharma (food-ethics).",
+    "gr": "<strong>व्याकरण:</strong> तृतीय अन्न-व्रत — <strong>'अन्नं बहु कुर्वीत — तद् व्रतम्'</strong> — अन्न को बहुत (abundant) बनाओ — यह व्रत है। तीन व्रतों में सबसे सामाजिक — तैत्तिरीय अन्न-उत्पादन को पवित्र कर्तव्य बनाती है। केवल श्रद्धापूर्वक खाना या कृतज्ञतापूर्वक स्वीकार करना नहीं, बल्कि सक्रिय रूप से अन्न की बहुलता बढ़ाना। <strong>तात्त्विक युगल — पृथिवी और आकाश:</strong> पृथिवी = अन्न — ठोस, स्पर्शयोग्य, भारी, स्थिर — रूप (form) का तत्त्व। सृष्टि-क्रम में अन्तिम तत्त्व — ब्रह्म का सबसे सघन अभिव्यक्ति। आकाश = अन्नाद — अदृश्य, अस्पर्श्य, असीम — सम्भावना (possibility) का तत्त्व। सृष्टि-क्रम में प्रथम तत्त्व — ब्रह्म का सबसे सूक्ष्म अभिव्यक्ति। <strong>परस्पर-आश्रय:</strong> पृथिवी आकाश 'में' है — आकाश पृथिवी को समाहित, परिव्याप्त करता है। आकाश पृथिवी 'में' है — प्रत्येक वस्तु में आन्तरिक आकाश (अणुओं के बीच का स्थान, गुहाएँ, छिद्र)। स्थूलतम और सूक्ष्मतम = परस्पर-व्याप्त। <strong>पूर्ण अन्न-नीति:</strong> तीन व्रत मिलकर: (1) निन्दा न करो (आन्तरिक भाव)। (2) त्याग/बर्बादी न करो (व्यक्तिगत कर्म)। (3) बहुत बनाओ (सामाजिक उत्तरदायित्व)। = श्रद्धा + स्वीकृति + उदारता = पूर्ण अन्न-धर्म।<br><em>Eng:</em> Third food-vow: \"Make food abundant — that is the vow.\" The most socially oriented vow — food-production as sacred duty. Earth = food (the grossest element, last in creation), space = the eater (the subtlest, first in creation). Earth is in space; space pervades earth — the densest and subtlest interpenetrate. Three vows together: (1) don't despise (attitude), (2) don't waste (action), (3) increase abundantly (social responsibility) = the complete food-ethics (anna-dharma).",
     "mt": "",
     "cm": {
       "advaita": {
@@ -475,11 +1815,11 @@
     "dp": [
       {
         "q": "🔍 The three food-vows — a complete ethics of nourishment",
-        "a": "The three food-vows of the Bhṛguvallī form a <strong>complete ethics of nourishment</strong> — progressing from inner attitude to social responsibility: <strong>Vow 1: 'Annaṁ na nindyāt' (Don't despise food)</strong> — INNER ATTITUDE. This addresses the mind: cultivate reverence for food. Don't hold physical nourishment in contempt. Don't privilege the 'spiritual' over the 'material.' Food is Brahman's first face — treat it with the respect due to the sacred. <strong>Vow 2: 'Annaṁ na paricakṣīta' (Don't reject food)</strong> — PERSONAL ACTION. This addresses behaviour: accept food when offered. Don't waste food. Don't be fastidious or squeamish about nourishment. Receive what life offers with gratitude. <strong>Vow 3: 'Annaṁ bahu kurvīta' (Make food abundant)</strong> — SOCIAL RESPONSIBILITY. This addresses the community: produce food, share food, ensure abundance for all. This is the most outward-facing vow — it transforms spiritual insight into social action. <strong>The progressive structure</strong>: (a) Inner → outer: from thought (don't despise) to action (don't refuse) to service (make abundant). (b) Individual → collective: from personal attitude to personal behaviour to social responsibility. (c) Passive → active: from not-despising (passive) to not-refusing (responsive) to actively-producing (creative). <strong>The integration</strong>: together, the three vows integrate Bhrigu's highest realisation (ānanda = Brahman) with the humblest daily reality (food). The sage who knows Brahman as bliss does not withdraw from the world — they engage with the world's most basic need (food) with reverence, acceptance, and generosity. This is the Taittirīya's distinctive teaching: spirituality is not escape from matter but transformation of matter through knowledge."
+        "a": "भृगुवल्ली के तीन अन्न-व्रत मिलकर <strong>पोषण की पूर्ण नैतिकता</strong> (complete ethics of nourishment) बनाते हैं — आन्तरिक भाव से सामाजिक कर्तव्य तक: <strong>व्रत 1: 'अन्नं न निन्द्यात्' (निन्दा न करो)</strong> — आन्तरिक भाव। मन को सम्बोधित करता है: अन्न के प्रति श्रद्धा रखो। भौतिक पोषण को हीन न मानो। 'आध्यात्मिक' को 'भौतिक' से ऊपर न रखो। अन्न = ब्रह्म का प्रथम मुख — उसे पवित्र का सम्मान दो। <strong>व्रत 2: 'अन्नं न परिचक्षीत' (त्याग/बर्बादी न करो)</strong> — व्यक्तिगत कर्म। आचरण को सम्बोधित करता है: दिये जाने पर अन्न स्वीकार करो। अन्न बर्बाद न करो। पोषण से मुँह न मोड़ो। जो जीवन देता है उसे कृतज्ञतापूर्वक ग्रहण करो। <strong>व्रत 3: 'अन्नं बहु कुर्वीत' (बहुत बनाओ)</strong> — सामाजिक उत्तरदायित्व। समुदाय को सम्बोधित करता है: अन्न उत्पन्न करो, बाँटो, बहुलता सुनिश्चित करो। सबसे बहिर्मुखी व्रत — आध्यात्मिक अन्तर्दृष्टि को सामाजिक कर्म में बदलना। <strong>क्रमिक संरचना:</strong> (अ) आन्तर → बाह्य: विचार (निन्दा न करो) → कर्म (त्याग न करो) → सेवा (बहुत बनाओ)। (ब) व्यक्ति → समष्टि: व्यक्तिगत भाव → व्यक्तिगत आचरण → सामाजिक कर्तव्य। (स) निष्क्रिय → सक्रिय: निन्दा-त्याग (passive) → स्वीकृति (responsive) → सक्रिय उत्पादन (creative)। <strong>समन्वय:</strong> तीनों व्रत मिलकर भृगु की सर्वोच्च उपलब्धि (आनन्द = ब्रह्म) को दैनन्दिन जीवन की सबसे विनम्र आवश्यकता (अन्न) से जोड़ते हैं। ब्रह्मज्ञानी संसार से भागता नहीं — श्रद्धा, स्वीकृति और उदारता से संसार की मूलभूत आवश्यकता में भाग लेता है।<br><br><em>Eng:</em> The three food-vows form a complete ethics of nourishment: (1) Don't despise food — inner attitude/reverence. (2) Don't reject/waste food — personal action/acceptance. (3) Make food abundant — social responsibility/generosity. They progress from inner to outer, individual to collective, passive to active. Together, they integrate the highest realisation (ānanda = Brahman) with the humblest daily need (food). The sage doesn't withdraw from the world but engages with it through reverence, acceptance, and generosity."
       },
       {
         "q": "🔍 Earth and space — the grossest and subtlest support each other",
-        "a": "The third vow meditates on <strong>earth (pṛthivī) and space (ākāśa)</strong> — the two extremes of the element spectrum: <strong>Earth = the grossest element</strong>: solid, tangible, heavy, stable. Earth is the element of FORM — it gives things shape, weight, and location. In the creation sequence, earth is the last element to emerge (ātman → ākāśa → vāyu → agni → āpaḥ → pṛthivī) — the most condensed, most material expression of Brahman. <strong>Space = the subtlest element</strong>: invisible, intangible, weightless, boundless. Space is the element of POSSIBILITY — it gives things room to exist. In the creation sequence, space is the FIRST element to emerge — the most immediate, most subtle expression of Brahman. <strong>Their mutual dependence</strong>: (a) Earth is 'in' space — the earth floats in space; space contains, surrounds, and pervades the earth. Without space, earth would have nowhere to be. (b) Space is 'in' earth — every object contains internal space; atoms are mostly empty space; the earth itself is riddled with caves, hollows, pores. Without earth, space would have nothing to pervade. <strong>The teaching</strong>: the subtlest and the grossest are not separate — they interpenetrate. The most material (earth/food) and the most spiritual (space/ākāśa) support each other. This is the Taittirīya's answer to false asceticism: you cannot have the spiritual without the material, or the material without the spiritual. They are food established in food."
+        "a": "तृतीय व्रत <strong>पृथिवी (earth) और आकाश (space)</strong> पर ध्यान करता है — तत्त्व-श्रेणी के दो अन्तिम छोर: <strong>पृथिवी = स्थूलतम तत्त्व:</strong> ठोस, स्पर्शयोग्य, भारी, स्थिर। रूप (form) का तत्त्व — वस्तुओं को आकार, भार और स्थान देता है। सृष्टि-क्रम में पृथिवी अन्तिम तत्त्व (आत्मन् → आकाश → वायु → अग्नि → जल → पृथिवी) — ब्रह्म की सबसे सघन, भौतिक अभिव्यक्ति। <strong>आकाश = सूक्ष्मतम तत्त्व:</strong> अदृश्य, अस्पर्श्य, भारहीन, असीम। सम्भावना (possibility) का तत्त्व — वस्तुओं को अस्तित्व के लिए स्थान देता है। सृष्टि-क्रम में प्रथम तत्त्व — ब्रह्म की सबसे तत्काल, सूक्ष्म अभिव्यक्ति। <strong>परस्पर-आश्रय:</strong> (अ) पृथिवी आकाश 'में' है — पृथिवी आकाश में तैरती है; आकाश पृथिवी को समाहित, परिव्याप्त करता है। बिना आकाश, पृथिवी को कहीं होने का स्थान नहीं। (ब) आकाश पृथिवी 'में' है — प्रत्येक वस्तु में आन्तरिक आकाश; अणु अधिकांशतः रिक्त स्थान; पृथिवी स्वयं गुहाओं, छिद्रों, रन्ध्रों से व्याप्त। बिना पृथिवी, आकाश को व्याप्त करने के लिए कुछ नहीं। <strong>शिक्षा:</strong> सूक्ष्मतम और स्थूलतम पृथक् नहीं — वे परस्पर-व्याप्त (interpenetrate) हैं। सबसे भौतिक (पृथिवी/अन्न) और सबसे आध्यात्मिक (आकाश) एक-दूसरे को आधार देते हैं। मिथ्या वैराग्य (false asceticism) का उत्तर — आध्यात्मिक बिना भौतिक नहीं, भौतिक बिना आध्यात्मिक नहीं। दोनों = अन्न अन्न में प्रतिष्ठित।<br><br><em>Eng:</em> The third vow meditates on earth (pṛthivī) and space (ākāśa) — the two extremes of the element spectrum. Earth = the grossest, last in creation; space = the subtlest, first in creation. Earth floats in space; space pervades earth. Every object contains internal space; without earth, space has nothing to pervade. The subtlest and grossest interpenetrate. The most material (earth/food) and the most spiritual (space) support each other — you cannot have the spiritual without the material, or the material without the spiritual."
       }
     ]
   },
@@ -491,27 +1831,377 @@
     "en": "One should never turn away anyone seeking shelter/food at one's dwelling (na kañcana vasatau pratyācakṣīta). That is the vow. Therefore, by whatever means (yayā kayā ca vidhayā), one should procure abundant food. 'Food has been prepared for him' — they say. If food is prepared well from the beginning (mukhataḥ), food is prepared for him from the beginning. If prepared moderately in the middle (madhyataḥ), food is prepared for him moderately. If prepared minimally at the end (antataḥ), food comes to him minimally. He who knows thus: [Brahman is] security (kṣema) in speech; prosperity and security (yoga-kṣema) in prāṇa and apāna; action (karma) in the hands; movement (gati) in the feet; release (vimukti) in the excretory organ — these are the human recognitions (mānuṣīḥ samājñāḥ). Now the divine: satisfaction (tṛpti) in rain; strength (bala) in lightning; fame (yaśas) in cattle; light (jyoti) in the stars; procreation, immortality, and bliss (prajāti, amṛta, ānanda) in the organ of generation; everything (sarva) in space (ākāśa). One should meditate on That as support (pratiṣṭhā) — one becomes well-supported. As greatness (mahas) — one becomes great. As mind (manas) — one becomes thoughtful. As reverence (namas) — desires bow down to him. As Brahman — one becomes possessed of Brahman. As 'that around which all perishes' (parimara) — his enemies and rivals perish around him. He who is in this person (puruṣa) and He who is in that sun (āditya) — He is ONE (ekaḥ). For one who knows thus — departing from this world, having traversed this self made of food, having traversed the self made of breath, having traversed the self made of mind, having traversed the self made of knowledge, having traversed the self made of bliss — wandering through these worlds, eating food at will (kāma-annī), assuming forms at will (kāma-rūpī) — he sits singing this Sāma: 'Hā vu! Hā vu! Hā vu! I am food! I am food! I am food! I am the eater of food! I am the eater of food! I am the eater of food! I am the maker of verses! I am the first-born of the cosmic order (ṛta) — before the gods! I am the navel-centre of immortality! He who gives me — he alone protects me! I am food — I eat the eater of food! I have pervaded the entire universe! I am golden light (suvarṇa jyotiḥ)!' He who knows thus — this is the Upanishad (iti upaniṣat).",
     "ws": [
       {
-        "s": "न कञ्चन वसतौ प्रत्याचक्षीत",
-        "h": "किसी को भी निवास पर से नहीं लौटाना चाहिए / never turn anyone away from your dwelling",
-        "e": "never turn anyone away from your dwelling"
+        "s": "न",
+        "h": "नहीं",
+        "e": "not"
       },
       {
-        "s": "कामान्नी कामरूपी",
-        "h": "इच्छानुसार अन्न भक्षण करने वाला, इच्छानुसार रूप धारण करने वाला / eating food at will, assuming forms at will",
-        "e": "eating food at will + assuming forms at will"
+        "s": "कञ्चन",
+        "h": "किसी को भी",
+        "e": "anyone"
       },
       {
-        "s": "अहमन्नम्",
-        "h": "मैं अन्न हूँ / I am food",
-        "e": "I am food"
+        "s": "वसतौ",
+        "h": "निवास पर / गृह में",
+        "e": "at one's dwelling / at one's home"
+      },
+      {
+        "s": "प्रत्याचक्षीत",
+        "h": "लौटाना चाहिए / मना करना चाहिए",
+        "e": "should turn away / should refuse"
+      },
+      {
+        "s": "तत् व्रतम्",
+        "h": "वह व्रत है / पवित्र संकल्प है",
+        "e": "that is the vow"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "इसलिए / अतः",
+        "e": "therefore"
+      },
+      {
+        "s": "यया कया च विधया",
+        "h": "जिस किसी भी विधि/उपाय से",
+        "e": "by whatever means"
+      },
+      {
+        "s": "बहु अन्नम्",
+        "h": "बहुत अन्न / प्रचुर भोजन",
+        "e": "abundant food"
+      },
+      {
+        "s": "प्राप्नुयात्",
+        "h": "प्राप्त करे / जुटाये",
+        "e": "one should procure / obtain"
+      },
+      {
+        "s": "अराध्य अस्मा अन्नम्",
+        "h": "इसके लिए अन्न तैयार किया गया",
+        "e": "food has been prepared for him"
+      },
+      {
+        "s": "इति आचक्षते",
+        "h": "ऐसा कहते हैं",
+        "e": "thus they say"
+      },
+      {
+        "s": "एतत् वै मुखतः",
+        "h": "यदि यह प्रारम्भ/मुख से",
+        "e": "this indeed from the beginning/front"
+      },
+      {
+        "s": "अन्नं राद्धम्",
+        "h": "अन्न तैयार किया गया / सिद्ध किया गया",
+        "e": "food is prepared / accomplished"
+      },
+      {
+        "s": "मुखतः अस्मै अन्नं राध्यते",
+        "h": "प्रारम्भ से उसके लिए अन्न तैयार होता है",
+        "e": "from the beginning food is prepared for him"
+      },
+      {
+        "s": "मध्यतः",
+        "h": "मध्य से / मध्यम रूप से",
+        "e": "from the middle / moderately"
+      },
+      {
+        "s": "अन्ततः",
+        "h": "अन्त से / न्यूनतम रूप से",
+        "e": "from the end / minimally"
+      },
+      {
+        "s": "अस्मै अन्नं राध्यते",
+        "h": "उसके लिए अन्न तैयार होता है",
+        "e": "food is prepared for him"
+      },
+      {
+        "s": "यः एवं वेद",
+        "h": "जो इस प्रकार जानता है",
+        "e": "he who knows thus"
+      },
+      {
+        "s": "क्षेमः इति वाचि",
+        "h": "वाणी में सुरक्षा/क्षेम",
+        "e": "security in speech"
+      },
+      {
+        "s": "श्रियः च योगक्षेमः",
+        "h": "श्री (सम्पत्ति) और योगक्षेम (प्राप्ति-रक्षा)",
+        "e": "prosperity and attainment-security"
+      },
+      {
+        "s": "इति प्राणापानयोः",
+        "h": "प्राण-अपान में",
+        "e": "in inhalation and exhalation"
+      },
+      {
+        "s": "कर्म इति हस्तयोः",
+        "h": "हाथों में कर्म",
+        "e": "action in the hands"
+      },
+      {
+        "s": "गतिः इति पादयोः",
+        "h": "पैरों में गति",
+        "e": "movement in the feet"
+      },
+      {
+        "s": "विमुक्तिः इति पायौ",
+        "h": "पायु (मल-त्याग अंग) में विमुक्ति/मोचन",
+        "e": "release in the excretory organ"
+      },
+      {
+        "s": "मानुषीः समाज्ञाः",
+        "h": "ये मानवी (मनुष्य-सम्बन्धी) पहचान/बोध हैं",
+        "e": "these are the human recognitions"
+      },
+      {
+        "s": "अथ दैवीः",
+        "h": "अब दैवी (दिव्य) पहचान",
+        "e": "now the divine recognitions"
+      },
+      {
+        "s": "तृप्तिः इति वृष्टौ",
+        "h": "वर्षा में तृप्ति/सन्तुष्टि",
+        "e": "satisfaction in rain"
+      },
+      {
+        "s": "बलम् इति विद्युति",
+        "h": "विद्युत्/बिजली में बल",
+        "e": "strength in lightning"
+      },
+      {
+        "s": "यशः इति पशुषु",
+        "h": "पशुओं में यश",
+        "e": "fame in cattle"
+      },
+      {
+        "s": "ज्योतिः इति नक्षत्रेषु",
+        "h": "नक्षत्रों/तारों में ज्योति",
+        "e": "light in the stars"
+      },
+      {
+        "s": "प्रजातिः अमृतम् आनन्दः",
+        "h": "सन्तानोत्पत्ति, अमृत (अमरत्व), आनन्द",
+        "e": "procreation, immortality, bliss"
+      },
+      {
+        "s": "इति उपस्थे",
+        "h": "उपस्थ (जनन-अंग) में",
+        "e": "in the organ of generation"
+      },
+      {
+        "s": "सर्वम् इति आकाशे",
+        "h": "आकाश में सब कुछ",
+        "e": "everything in space"
+      },
+      {
+        "s": "तत् प्रतिष्ठा इति उपासीत",
+        "h": "उसकी प्रतिष्ठा (आधार) रूप में उपासना करे",
+        "e": "meditate on That as support"
+      },
+      {
+        "s": "प्रतिष्ठावान् भवति",
+        "h": "प्रतिष्ठावान् (सुप्रतिष्ठित) होता है",
+        "e": "becomes well-established"
+      },
+      {
+        "s": "तत् महः इति उपासीत",
+        "h": "उसकी महत्ता रूप में उपासना करे",
+        "e": "meditate on That as greatness"
+      },
+      {
+        "s": "महावान् भवति",
+        "h": "महावान् (महान्) होता है",
+        "e": "becomes great"
+      },
+      {
+        "s": "तत् मनः इति उपासीत",
+        "h": "उसकी मन रूप में उपासना करे",
+        "e": "meditate on That as mind"
+      },
+      {
+        "s": "मानवान् भवति",
+        "h": "मानवान् (विचारशील/बुद्धिमान्) होता है",
+        "e": "becomes thoughtful"
+      },
+      {
+        "s": "तत् नमः इति उपासीत",
+        "h": "उसकी नमस् (श्रद्धा/प्रणाम) रूप में उपासना करे",
+        "e": "meditate on That as reverence"
+      },
+      {
+        "s": "नम्यन्ते अस्मै कामाः",
+        "h": "उसके सामने कामनाएँ/इच्छाएँ झुकती हैं",
+        "e": "desires bow down to him"
+      },
+      {
+        "s": "तत् ब्रह्म इति उपासीत",
+        "h": "उसकी ब्रह्म रूप में उपासना करे",
+        "e": "meditate on That as Brahman"
+      },
+      {
+        "s": "ब्रह्मवान् भवति",
+        "h": "ब्रह्मवान् (ब्रह्म-सम्पन्न) होता है",
+        "e": "becomes possessed of Brahman"
+      },
+      {
+        "s": "तत् ब्रह्मणः परिमर इति उपासीत",
+        "h": "ब्रह्म के चारों ओर सब नाशवान् — ऐसी उपासना करे",
+        "e": "meditate on That as 'that around which all perishes'"
+      },
+      {
+        "s": "परि एनं म्रियन्ते द्विषन्तः सपत्नाः",
+        "h": "उसके चारों ओर शत्रु और प्रतिद्वन्दी मरते हैं",
+        "e": "enemies and rivals perish around him"
+      },
+      {
+        "s": "परि ये प्रियान् द्विषन्तः",
+        "h": "और जो उसके प्रियजनों से द्वेष करते हैं [वे भी]",
+        "e": "and those who hate his dear ones [also perish]"
+      },
+      {
+        "s": "सः यः च अयं पुरुषे",
+        "h": "वह जो इस पुरुष (व्यक्ति) में है",
+        "e": "he who is in this person"
+      },
+      {
+        "s": "यः च असौ आदित्ये",
+        "h": "और जो उस आदित्य (सूर्य) में है",
+        "e": "and he who is in that sun"
+      },
+      {
+        "s": "सः एकः",
+        "h": "वह एक ही है",
+        "e": "he is one"
+      },
+      {
+        "s": "तस्य ह वा एतस्य एवं विदुषः",
+        "h": "उस इस प्रकार जानने वाले के",
+        "e": "of one who knows thus"
+      },
+      {
+        "s": "अस्मात् लोकात् प्रेत्य",
+        "h": "इस लोक से गमन कर / प्रस्थान कर",
+        "e": "departing from this world"
+      },
+      {
+        "s": "एतम् अन्नमयम् आत्मानम् उपसंक्रम्य",
+        "h": "इस अन्नमय आत्मा को पार कर",
+        "e": "having traversed the self made of food"
+      },
+      {
+        "s": "प्राणमयम् आत्मानम् उपसंक्रम्य",
+        "h": "प्राणमय आत्मा को पार कर",
+        "e": "having traversed the self made of breath"
+      },
+      {
+        "s": "मनोमयम् आत्मानम् उपसंक्रम्य",
+        "h": "मनोमय आत्मा को पार कर",
+        "e": "having traversed the self made of mind"
+      },
+      {
+        "s": "विज्ञानमयम् आत्मानम् उपसंक्रम्य",
+        "h": "विज्ञानमय आत्मा को पार कर",
+        "e": "having traversed the self made of knowledge"
+      },
+      {
+        "s": "आनन्दमयम् आत्मानम् उपसंक्रम्य",
+        "h": "आनन्दमय आत्मा को प्राप्त कर",
+        "e": "having reached the self made of bliss"
+      },
+      {
+        "s": "इमान् लोकान्",
+        "h": "इन सभी लोकों में",
+        "e": "through these worlds"
+      },
+      {
+        "s": "कामान्नी",
+        "h": "इच्छानुसार अन्न भक्षण करने वाला",
+        "e": "eating food at will"
+      },
+      {
+        "s": "कामरूपी",
+        "h": "इच्छानुसार रूप धारण करने वाला",
+        "e": "assuming forms at will"
+      },
+      {
+        "s": "अनुसञ्चरन्",
+        "h": "विचरते हुए / भ्रमण करते हुए",
+        "e": "wandering / roaming"
+      },
+      {
+        "s": "एतत् साम गायन् आस्ते",
+        "h": "यह साम-गान गाते हुए बैठता/रहता है",
+        "e": "sits singing this Sāma chant"
+      },
+      {
+        "s": "हा ३ वु",
+        "h": "हा वु! (आनन्द का उद्गार)",
+        "e": "hā vu! (exclamation of ecstasy)"
+      },
+      {
+        "s": "अहम् अन्नम्",
+        "h": "मैं अन्न हूँ!",
+        "e": "I am food!"
+      },
+      {
+        "s": "अहम् अन्नादः",
+        "h": "मैं अन्न-भोक्ता हूँ!",
+        "e": "I am the eater of food!"
+      },
+      {
+        "s": "अहं श्लोककृत्",
+        "h": "मैं श्लोक-कर्ता (कवि/रचयिता) हूँ!",
+        "e": "I am the maker of verses!"
+      },
+      {
+        "s": "अहम् अस्मि प्रथमजा ऋतस्य",
+        "h": "मैं ऋत (लौकिक व्यवस्था) का प्रथमजन्मा हूँ",
+        "e": "I am the first-born of cosmic order"
+      },
+      {
+        "s": "पूर्वं देवेभ्यः",
+        "h": "देवताओं से भी पूर्व / पहले",
+        "e": "before the gods"
+      },
+      {
+        "s": "अमृतस्य नाभायि",
+        "h": "अमृत (अमरत्व) का नाभि-केन्द्र हूँ",
+        "e": "I am the navel-centre of immortality"
+      },
+      {
+        "s": "यो मा ददाति स इदेव माऽवाः",
+        "h": "जो मुझे देता है वही मेरा रक्षक है",
+        "e": "he who gives me — he alone protects me"
+      },
+      {
+        "s": "अहम् अन्नम् अन्नम् अदन्तम् आद्मि",
+        "h": "मैं अन्न हूँ — अन्न खाने वाले को भी मैं खाता हूँ",
+        "e": "I am food — I eat the eater of food"
+      },
+      {
+        "s": "अहं विश्वं भुवनम् अभ्यभवाम्",
+        "h": "मैंने सम्पूर्ण विश्व/भुवन को व्याप्त कर लिया",
+        "e": "I have pervaded the entire universe"
+      },
+      {
+        "s": "सुवर्ण ज्योतीः",
+        "h": "सूर्य-समान स्वर्णिम ज्योति हूँ",
+        "e": "I am golden light"
+      },
+      {
+        "s": "यः एवं वेद",
+        "h": "जो इस प्रकार जानता है",
+        "e": "he who knows thus"
       },
       {
         "s": "इति उपनिषत्",
-        "h": "यह उपनिषद् है / this is the secret teaching",
+        "h": "यह उपनिषद् है / यह रहस्य-विद्या है",
         "e": "this is the Upanishad / the secret teaching"
       }
     ],
-    "gr": "<strong>The grand finale — hospitality, cosmic identification, and the ecstatic song of liberation</strong>: this extraordinary concluding mantra weaves together hospitality, cosmic meditation, the identity of the inner self with the cosmic Self, the traversal of the five sheaths, and the ecstatic Sāma-song of the liberated soul. <strong>The fourth vow — universal hospitality</strong>: 'na kañcana vasatau pratyācakṣīta' — never turn ANYONE away from your home. This is the supreme food-vow: unconditional hospitality. Not just 'don't despise food' or 'don't waste food' but 'share food with everyone who comes.' This is the Vedic atithi-dharma (duty of hospitality) elevated to a sacred vow. <strong>The principle of reciprocity</strong>: 'arādhyasma annam' — food has been prepared for the giver. The quality of what you give determines what you receive: give generously at the beginning (mukhataḥ), and abundance comes to you from the beginning; give minimally at the end (antataḥ), and only minimal returns come. <strong>The cosmic recognitions</strong>: Brahman is recognised in every aspect of human and divine life — in speech (security), in breath (prosperity), in hands (action), in feet (movement), in the excretory organ (release); and in the divine realm — in rain (satisfaction), in lightning (strength), in cattle (fame), in stars (light), in the generative organ (procreation, immortality, bliss), in space (everything). <strong>The six meditations</strong>: meditate on That as support (pratiṣṭhā), greatness (mahas), mind (manas), reverence (namas), Brahman, and as that around which all perishes (parimara). <strong>The identity declaration</strong>: 'He who is in this person and He who is in that sun — He is ONE.' The inner Self and the cosmic Self are identical — the Taittirīya's version of the mahāvākya. <strong>The five-sheath traversal</strong>: the liberated soul, departing, traverses each sheath — annamaya → prāṇamaya → manomaya → vijñānamaya → ānandamaya — moving from the outer to the inner, from the gross to the subtle. <strong>The Sāma-song of liberation</strong>: the ecstatic song — 'Hā vu! I am food! I am food! I am food! I am the eater of food! I am the maker of verses! I am the first-born of ṛta! I am the navel of immortality! I am food — I eat the eater of food! I have pervaded the entire universe! I am golden light!' This is the voice of the Self that has transcended ALL five sheaths and identified with EVERYTHING — food AND eater, individual AND cosmos, mortal AND immortal. <strong>'Iti upaniṣat'</strong>: 'This is the secret teaching' — the formal conclusion of the entire Taittirīya Upanishad.",
+    "gr": "<strong>व्याकरण:</strong> यह भृगुवल्ली और सम्पूर्ण तैत्तिरीय उपनिषद् का भव्य समापन है — आतिथ्य, ब्रह्माण्डीय ध्यान, आत्म-ब्रह्म ऐक्य, पञ्च-कोश-भेदन, और मुक्त आत्मा का विभोर साम-गान — सब एक मन्त्र में गुँथे हैं। <strong>चतुर्थ व्रत — सर्वव्यापी आतिथ्य:</strong> 'न कञ्चन वसतौ प्रत्याचक्षीत' — किसी को भी अपने निवास से न लौटाओ। यह सर्वोच्च अन्न-व्रत — बिना शर्त आतिथ्य। वैदिक अतिथि-धर्म पवित्र व्रत के स्तर पर। <strong>पारस्परिकता का सिद्धान्त:</strong> 'अराध्य अस्मा अन्नम्' — दाता के लिए अन्न तैयार होता है। दान की गुणवत्ता = प्राप्ति की गुणवत्ता — मुखतः (प्रारम्भ से/उत्तम) दो → उत्तम मिले; मध्यतः (मध्यम) दो → मध्यम मिले; अन्ततः (अन्तिम/न्यून) दो → न्यून मिले। <strong>लौकिक बोध (मानुषीः समाज्ञाः):</strong> ब्रह्म को मानव जीवन के प्रत्येक अंग में पहचानो — वाणी (क्षेम), प्राण-अपान (योगक्षेम), हस्त (कर्म), पाद (गति), पायु (विमुक्ति)। <strong>दैवी बोध (दैवीः):</strong> वर्षा (तृप्ति), विद्युत् (बल), पशु (यश), नक्षत्र (ज्योति), उपस्थ (प्रजाति-अमृत-आनन्द), आकाश (सर्वम्)। <strong>षड्-उपासना:</strong> ब्रह्म की प्रतिष्ठा, महत्, मन, नमस्, ब्रह्म, परिमर (ब्रह्म के चारों ओर सब नश्वर) रूप में उपासना — प्रत्येक से तत्सम्बन्धी फल। <strong>ऐक्य-घोषणा:</strong> 'सः यः च अयं पुरुषे यः च असौ आदित्ये — सः एकः' — पुरुष (व्यक्ति) में जो चेतना और सूर्य में जो चेतना — वह एक ही। तैत्तिरीय का महावाक्य। <strong>पञ्च-कोश-भेदन:</strong> मुक्त आत्मा अन्नमय → प्राणमय → मनोमय → विज्ञानमय → आनन्दमय — स्थूल से सूक्ष्म की ओर — प्रत्येक कोश को पार करता है। <strong>मुक्ति का साम-गान:</strong> 'हा वु! अहम् अन्नम्! अहम् अन्नादः! अहं श्लोककृत्! अहम् अस्मि प्रथमजा ऋतस्य! अमृतस्य नाभायि! अहम् अन्नम् अन्नम् अदन्तम् आद्मि! अहं विश्वं भुवनम् अभ्यभवाम्! सुवर्ण ज्योतीः!' — यह पञ्च-कोश से परे आत्मा की वाणी — अन्न भी मैं, अन्नाद भी मैं, व्यक्ति भी मैं, ब्रह्माण्ड भी मैं — सर्वात्मभाव। <strong>'इति उपनिषत्':</strong> यह रहस्य-विद्या — सम्पूर्ण तैत्तिरीय उपनिषद् का औपचारिक समापन।<br><em>Eng:</em> The grand finale weaves hospitality, cosmic meditation, Self-Brahman identity, five-sheath traversal, and the ecstatic Sāma-song of liberation. The fourth vow: never turn anyone away — unconditional hospitality. Reciprocity: give well and abundance returns. Brahman recognised in human faculties (speech, breath, hands, feet, excretion) and divine phenomena (rain, lightning, cattle, stars, generation, space). Six meditations on Brahman as support, greatness, mind, reverence, Brahman itself, and \"that around which all perishes.\" The identity declaration: the Self in the person and the Self in the sun are ONE. The liberated soul traverses all five sheaths and sings: \"I am food! I am the eater! I am the maker of verses! I am the first-born of cosmic order! I have pervaded the entire universe! I am golden light!\" — iti upaniṣat.",
     "mt": "",
     "cm": {
       "advaita": {
@@ -536,11 +2226,11 @@
     "dp": [
       {
         "q": "🔍 'Aham annam' — the ecstatic song of non-dual realisation",
-        "a": "The concluding Sāma-song — <strong>'aham annam, aham annam, aham annam'</strong> (I am food, I am food, I am food) — is one of the most powerful expressions of <strong>non-dual realisation</strong> in the Upanishads: <strong>The triple identity</strong>: (1) 'Aham annam' — I am food. The Self identifies with the nourishment of all beings. (2) 'Aham annādaḥ' — I am the eater of food. The Self identifies with all beings that eat. (3) 'Ahaṁ ślokakṛt' — I am the maker of verses. The Self identifies with creative expression, with consciousness that articulates reality. <strong>The cosmic claims</strong>: (a) 'Aham asmi prathamajā ṛtasya' — I am the first-born of cosmic order (ṛta). The Self precedes the gods — it is the first expression of the universal law. (b) 'Pūrvaṁ devebhyo amṛtasya nābhāyi' — before the gods, I am the navel-centre of immortality. The Self is the HUB of the immortal — the point from which all immortal beings radiate. (c) 'Aham annam annam adantam ādmi' — I am food; I eat the eater of food. The ultimate collapse of the eater-eaten duality: the Self IS food, and the Self CONSUMES those who consume food. Nothing is outside the Self. (d) 'Ahaṁ viśvaṁ bhuvanam abhyabhavām' — I have pervaded/overcome the entire universe. The Self is not limited to one body or one world — it encompasses ALL worlds. (e) 'Suvarṇa jyotīḥ' — I am golden light. The Self's nature is luminous — the golden light of the sun, the radiance of consciousness. <strong>The Bṛhadāraṇyaka echo</strong>: this song closely parallels BU 1.4.6-10, where the Self realises 'ahaṁ brahmāsmi' (I am Brahman) and 'aham annam, aham annādaḥ' (I am food, I am the eater). The Taittirīya adds the Sāma-chant element — the triple 'hā vu' exclamation — giving it a musical, ecstatic quality."
+        "a": "समापन साम-गान — <strong>'अहम् अन्नम्, अहम् अन्नम्, अहम् अन्नम्'</strong> (मैं अन्न हूँ!) — उपनिषदों में <strong>अद्वैत-अनुभूति</strong> की सबसे शक्तिशाली अभिव्यक्तियों में से एक है। <strong>त्रिविध तादात्म्य:</strong> (1) 'अहम् अन्नम्' — मैं अन्न हूँ — आत्मा सभी प्राणियों के पोषण से तादात्म्य करता है। (2) 'अहम् अन्नादः' — मैं अन्नभोक्ता हूँ — आत्मा सभी भोजन करने वाले प्राणियों से तादात्म्य। (3) 'अहं श्लोककृत्' — मैं श्लोक-रचयिता हूँ — आत्मा सृजनात्मक अभिव्यक्ति से, उस चेतना से तादात्म्य जो सत्य को वाणी देती है। <strong>ब्रह्माण्डीय घोषणाएँ:</strong> (अ) 'अहम् अस्मि प्रथमजा ऋतस्य' — मैं ऋत (cosmic order) का प्रथमजन्मा हूँ — आत्मा देवताओं से भी पूर्व — सार्वभौमिक नियम का प्रथम प्रकटीकरण। (ब) 'पूर्वं देवेभ्यो अमृतस्य नाभायि' — देवताओं से पूर्व, मैं अमृत का नाभि-केन्द्र — अमर तत्त्व का वह बिन्दु जिससे सब अमर सत्ताएँ विकिरित होती हैं। (स) 'अहम् अन्नम् अन्नम् अदन्तम् आद्मि' — मैं अन्न हूँ — अन्न-भक्षक को भी मैं भक्षण करता हूँ — भोक्ता-भोज्य द्वैत का परम विलय: आत्मा अन्न भी है और अन्न-भक्षक का भक्षक भी — कुछ भी आत्मा से बाहर नहीं। (द) 'अहं विश्वं भुवनम् अभ्यभवाम्' — मैंने सम्पूर्ण विश्व को व्याप्त/अभिभूत कर लिया — आत्मा एक शरीर या एक लोक तक सीमित नहीं — सभी लोकों को समाहित करता है। (ङ) 'सुवर्ण ज्योतीः' — मैं स्वर्णिम ज्योति हूँ — आत्मा का स्वरूप प्रकाशमय — सूर्य का स्वर्णिम प्रकाश, चेतना का तेज। <strong>बृहदारण्यक से सम्बन्ध:</strong> यह गान बृ.उ. 1.4.6-10 से गहन साम्य रखता है जहाँ आत्मा 'अहं ब्रह्मास्मि' और 'अहम् अन्नम्, अहम् अन्नादः' का अनुभव करता है। तैत्तिरीय साम-गान तत्त्व जोड़ती है — तिहरा 'हा वु' उद्गार — जो इसे संगीतमय, विभोर गुणवत्ता देता है।<br><br><em>Eng:</em> The concluding Sāma-song — \"I am food! I am food! I am food!\" — is one of the most powerful non-dual declarations in the Upanishads. Three identities: I am food (nourishment), I am the eater (all beings), I am the verse-maker (creative consciousness). The cosmic claims: first-born of cosmic order, navel of immortality, pervader of the entire universe, golden light. \"I eat the eater of food\" — the ultimate collapse of the eater-eaten duality. Nothing is outside the Self. Parallels BU 1.4.6-10, with the added Sāma-chant element giving it ecstatic, musical quality."
       },
       {
         "q": "🔍 'Iti upaniṣat' — the secret teaching completed",
-        "a": "The Taittirīya Upanishad closes with the formula <strong>'iti upaniṣat'</strong> (this is the Upanishad / this is the secret teaching), marking the completion of the entire teaching: <strong>What has been taught</strong>: across three Vallīs, the Taittirīya has offered: (a) <em>Śikṣāvallī (Valli 1)</em>: preparation — phonetics, meditation on OM, the vyāhṛtis, and the convocation address (practical ethics and spiritual readiness). (b) <em>Brahmānandavallī (Valli 2)</em>: theory — the definition of Brahman ('satyaṁ jñānam anantam'), the five-sheath analysis, the bliss-calculus, and the declarations on Brahman's creation, entry, and identity with all things. (c) <em>Bhṛguvallī (Valli 3)</em>: practice — Bhrigu's five-fold discovery (anna → prāṇa → manas → vijñāna → ānanda), the food-vows, and the ecstatic song of liberation. <strong>The three-fold pedagogy</strong>: preparation (how to learn) → theory (what to learn) → practice (how to realise). This is a complete curriculum: the Śikṣāvallī prepares the student; the Brahmānandavallī teaches the doctrine; the Bhṛguvallī shows how to DISCOVER the doctrine for oneself. <strong>The unity of the three Vallīs</strong>: the Śikṣāvallī's teacher says 'svādhyāya-pravacane ca' (study and teaching are the highest tapas). The Brahmānandavallī declares 'satyaṁ jñānam anantaṁ brahma' and analyses the five sheaths. The Bhṛguvallī's student REDISCOVERS the five sheaths through tapas and arrives at ānanda. The final song unifies everything: food, eater, cosmic order, immortality, all worlds, golden light — the Self is ALL. <strong>'Iti upaniṣat'</strong>: this is the secret teaching — secret not because it is hidden but because it can only be known through direct experience. You can HEAR these words, but you can only KNOW their meaning through tapas — through the Bhrigu-method of sustained inquiry and self-discovery."
+        "a": "तैत्तिरीय उपनिषद् <strong>'इति उपनिषत्'</strong> (यह उपनिषद् / रहस्य-विद्या है) सूत्र से समाप्त होती है, जो सम्पूर्ण शिक्षा की पूर्णता चिह्नित करता है। <strong>तीन वल्लियों में क्या सिखाया गया:</strong> (अ) <em>शिक्षावल्ली (वल्ली 1)</em>: तैयारी — ध्वनि-विज्ञान, ॐ-ध्यान, व्याहृतियाँ, दीक्षान्त-उपदेश (व्यावहारिक नैतिकता और आध्यात्मिक तत्परता)। (ब) <em>ब्रह्मानन्दवल्ली (वल्ली 2)</em>: सिद्धान्त — ब्रह्म की परिभाषा ('सत्यं ज्ञानम् अनन्तम्'), पञ्च-कोश-विश्लेषण, आनन्द-गणना, और ब्रह्म की सृष्टि, प्रवेश, व सर्वात्मभाव पर घोषणाएँ। (स) <em>भृगुवल्ली (वल्ली 3)</em>: साधना — भृगु की पञ्चस्तरीय खोज (अन्न → प्राण → मन → विज्ञान → आनन्द), अन्न-व्रत, और मुक्ति का विभोर साम-गान। <strong>त्रिस्तरीय शिक्षा-पद्धति:</strong> तैयारी (कैसे सीखें) → सिद्धान्त (क्या सीखें) → साधना (कैसे अनुभव करें)। पूर्ण पाठ्यक्रम: शिक्षावल्ली शिष्य को तैयार करती है; ब्रह्मानन्दवल्ली सिद्धान्त सिखाती है; भृगुवल्ली दिखाती है कि स्वयं कैसे खोजें। <strong>तीन वल्लियों की एकता:</strong> शिक्षावल्ली का गुरु कहता है 'स्वाध्याय-प्रवचने च' (अध्ययन-अध्यापन ही सर्वश्रेष्ठ तप)। ब्रह्मानन्दवल्ली घोषित करती है 'सत्यं ज्ञानम् अनन्तं ब्रह्म' और पञ्च कोशों का विश्लेषण करती है। भृगुवल्ली का शिष्य तप से उन्हीं पाँच कोशों को पुनः खोजता है और आनन्द पर पहुँचता है। अन्तिम गान सब एकीकृत करता है: अन्न, अन्नाद, ऋत, अमृत, सभी लोक, स्वर्णिम ज्योति — आत्मा = सर्वम्। <strong>'इति उपनिषत्':</strong> यह 'रहस्य' इसलिए नहीं कि छिपा है — बल्कि इसलिए कि केवल प्रत्यक्ष अनुभव से जाना जा सकता है। शब्द सुन सकते हो, परन्तु अर्थ केवल तप से — भृगु-पद्धति के निरन्तर जिज्ञासा और आत्म-खोज से।<br><br><em>Eng:</em> The Taittirīya closes with \"iti upaniṣat\" — marking the completion of its three-part teaching. Śikṣāvallī (preparation), Brahmānandavallī (theory — Brahman defined, five sheaths analysed), Bhṛguvallī (practice — Bhrigu's fivefold discovery, food-vows, the ecstatic song). The three Vallīs form a complete curriculum: how to learn, what to learn, how to realise it yourself. The final song unifies everything — food, eater, cosmic order, immortality, all worlds, golden light — the Self is ALL. \"This is the secret teaching\" — secret not because hidden, but because it can only be known through direct experience and sustained self-inquiry."
       }
     ]
   }
