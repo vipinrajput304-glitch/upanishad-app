@@ -6,6 +6,16 @@
   ],
   "concepts": [
     {
+      "id": "chitta_shuddhi",
+      "name": "चित्त शुद्धि",
+      "en": "Chitta Shuddhi",
+      "icon": "🪷",
+      "color": "#52B788",
+      "desc": "अन्तःकरण शुद्धि — साधन चतुष्टय प्राप्ति का पूर्व-मार्ग",
+      "desc_en": "Purification of mind — the preparatory path to four-fold qualifications",
+      "file": "concepts/chitta_shuddhi.json"
+    },
+    {
       "id": "adhikari",
       "name": "अधिकारी",
       "en": "Adhikari",
