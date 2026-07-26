@@ -1,5 +1,5 @@
 const CACHE_SHELL = "upanishad-shell-v18";
-const CACHE_DATA = "upanishad-data-v23";
+const CACHE_DATA = "upanishad-data-v24";
 
 const SHELL_FILES = [
   "./",
