@@ -14,6 +14,16 @@
       "desc": "साधन चतुष्टय — वेदान्त अध्ययन की चतुर्विध योग्यता",
       "desc_en": "Four-fold qualifications for Vedanta study",
       "file": "concepts/adhikari.json"
+    },
+    {
+      "id": "shravana_manana_nididhyasana",
+      "name": "श्रवण-मनन-निदिध्यासन",
+      "en": "Shravana-Manana-Nididhyasana",
+      "icon": "🔱",
+      "color": "#9CC7D9",
+      "desc": "वेदान्त ज्ञान की त्रिविध साधना — सुनो, विचारो, ध्यान करो",
+      "desc_en": "The triple discipline: listening, reflection & deep meditation",
+      "file": "concepts/shravana_manana_nididhyasana.json"
     }
   ],
   "texts": [
