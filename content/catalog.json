@@ -34,6 +34,16 @@
       "desc": "वेदान्त ज्ञान की त्रिविध साधना — सुनो, विचारो, ध्यान करो",
       "desc_en": "The triple discipline: listening, reflection & deep meditation",
       "file": "concepts/shravana_manana_nididhyasana.json"
+    },
+    {
+      "id": "yajna",
+      "name": "यज्ञ",
+      "en": "Yajña",
+      "icon": "🔥",
+      "color": "#E07A2F",
+      "desc": "यज्ञ-तत्त्व — शब्दमूल से सृष्टि-सिद्धान्त तक",
+      "desc_en": "The principle of sacred offering — from etymology to cosmic law",
+      "file": "concepts/yajna.json"
     }
   ],
   "texts": [

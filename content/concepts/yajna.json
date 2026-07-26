@@ -1,0 +1,147 @@
+{
+  "id": "yajna",
+  "title": "यज्ञ",
+  "subtitle": "Yajña — The Principle of Sacred Offering",
+  "sections": [
+    {
+      "id": "shabda_mula",
+      "num": "१",
+      "sk": "शब्द-मूल — धातु, व्युत्पत्ति एवं ध्वनि",
+      "ro": "Shabda-Mūla — Root, Etymology & Phonetics",
+      "full_sk": "यज् धातोः त्रिविधोऽर्थः — देवपूजा, सङ्गतिकरणं, दानं च। एतेषु त्रिषु अर्थेषु यज्ञस्य समग्रं तत्त्वं निहितम्।",
+      "body_hi": "यज्ञ शब्द संस्कृत धातु **'यज्'** से बना है। पाणिनि के धातुपाठ में इस धातु के तीन मूल अर्थ दिए गए हैं — **देवपूजा** (ईश्वर की उपासना), **सङ्गतिकरण** (समन्वय एवं एकता), और **दान** (त्याग एवं अर्पण)। ये तीन अर्थ यज्ञ के समस्त स्तरों को समाहित करते हैं।\n\n**ध्वनि-विश्लेषण** — 'यज्ञ' में दो ध्वन्यात्मक तत्त्व हैं: 'यज्' (क्रिया, गति, अर्पण) और 'ञ' (नासिक्य ध्वनि जो अनुनाद एवं व्यापकता का संकेत है)। वैदिक उच्चारण में 'ज्ञ' का उच्चारण 'ग्य' नहीं बल्कि **'ज्ञ' (दन्त्य-नासिक्य संयुक्त)** है, जो ज्ञान (जानना) से भी ध्वनि-साम्य रखता है — अर्थात् यज्ञ में ज्ञान अन्तर्निहित है।\n\n**निरुक्त (यास्क) की व्याख्या** — यास्काचार्य ने यज्ञ को 'यजति इति यज्ञः' — जो अर्पित किया जाए वह यज्ञ — इस प्रकार व्युत्पन्न किया। शतपथ ब्राह्मण में कहा गया — **'यज्ञो वै विष्णुः'** (यज्ञ ही विष्णु है), अर्थात् यज्ञ स्वयं परमात्मा का व्यापक रूप है।",
+      "body_en": "The word Yajña derives from the Sanskrit root **'yaj'**. Pāṇini's Dhātupāṭha assigns three meanings to this root — **devapūjā** (worship of the divine), **saṅgatikaraṇa** (bringing together, harmonizing), and **dāna** (giving, offering). These three meanings encompass every level at which yajña operates.\n\n**Phonetic analysis** — The word 'yajña' has two phonetic components: 'yaj' (action, movement, offering) and 'ña' (a nasal sound suggesting resonance and pervasiveness). In Vedic pronunciation, 'jña' is a dental-nasal conjunct (not 'gya'), phonetically linked to 'jñāna' (knowledge) — suggesting that knowledge is inherent in yajña.\n\n**Nirukta (Yāska) etymology** — Yāskācārya derives it as 'yajati iti yajñaḥ' — that which is offered is yajña. The Śatapatha Brāhmaṇa declares **'yajño vai Viṣṇuḥ'** (yajña is Viṣṇu himself), meaning yajña is the all-pervading form of the Supreme.",
+      "sub": [
+        {
+          "t": "यज् धातु के तीन अर्थ",
+          "t_en": "Three meanings of root 'yaj'",
+          "d": "देवपूजा — परमात्मा की आराधना; सङ्गतिकरण — जीवों, तत्त्वों एवं शक्तियों का समन्वय; दान — निःस्वार्थ त्याग। प्रत्येक अर्थ यज्ञ के एक आयाम को प्रकट करता है।",
+          "d_en": "Devapūjā — worship of the Supreme; Saṅgatikaraṇa — harmonizing beings, elements, and forces; Dāna — selfless giving. Each meaning reveals a dimension of yajña."
+        },
+        {
+          "t": "निरुक्त एवं व्याकरण-परम्परा",
+          "t_en": "Nirukta & grammatical tradition",
+          "d": "यास्क के निरुक्त में 'यज्' का विश्लेषण, पाणिनि के सूत्र 'यज देवपूजासङ्गतिकरणदानेषु', तथा उणादि सूत्रों द्वारा 'यज्ञ' शब्द की सिद्धि — ये सब इस शब्द की गहराई दर्शाते हैं।",
+          "d_en": "Yāska's Nirukta analysis, Pāṇini's sūtra 'yaj devapūjā-saṅgatikaraṇa-dāneṣu', and the Uṇādi derivation of the word 'yajña' — all reveal the depth of this term."
+        },
+        {
+          "t": "यज्ञ-ज्ञान ध्वनि-साम्य",
+          "t_en": "Phonetic kinship of yajña & jñāna",
+          "d": "'ज्ञ' ध्वनि यज्ञ और ज्ञान दोनों में है। वैदिक दृष्टि में यह संयोग नहीं — बिना ज्ञान के यज्ञ केवल क्रिया है, और बिना यज्ञ-भाव के ज्ञान केवल सूचना। दोनों का मिलन ही पूर्णता है।",
+          "d_en": "The syllable 'jña' appears in both yajña and jñāna. In Vedic vision this is no accident — without knowledge, yajña is mere ritual; without the spirit of offering, knowledge is mere information. Their union is completeness."
+        }
+      ],
+      "cm": {
+        "advaita": "शङ्कराचार्य — यज्ञ का परम अर्थ आत्म-ज्ञान है। 'ज्ञानाग्नि' में अज्ञान की आहुति ही सर्वश्रेष्ठ यज्ञ है। बाह्य अनुष्ठान अन्तःकरण शुद्धि का साधन मात्र है, साध्य नहीं।",
+        "vishisht": "रामानुजाचार्य — यज्ञ भगवान की प्रीतिकर सेवा है। 'यज्ञो वै विष्णुः' — यज्ञ स्वयं नारायण का स्वरूप है। तीनों अर्थ (पूजा, एकता, दान) भगवत्-समर्पण में एकीभूत होते हैं।",
+        "aurobindo": "श्री अरविन्द — यज्ञ चेतना का उर्ध्वगमन है। निम्नतर प्रकृति को उच्चतर दिव्य शक्ति में अर्पित करना ही वैदिक यज्ञ का गूढ़ अर्थ है। अग्नि = अभीप्सा, सोम = आनन्द, घृत = प्रकाश।"
+      },
+      "refs": ["पाणिनि धातुपाठ १.११५७", "निरुक्त (यास्क) २.७", "शतपथ ब्राह्मण १.१.२.१३", "तैत्तिरीय संहिता १.७.४"]
+    },
+    {
+      "id": "vaidika_yajna",
+      "num": "२",
+      "sk": "वैदिक यज्ञ — अनुष्ठान एवं ऋत-चक्र",
+      "ro": "Vaidika Yajña — Ritual & the Cosmic Cycle",
+      "full_sk": "अग्निर्वै यज्ञस्य मुखम्। अन्नाद् भवन्ति भूतानि पर्जन्यादन्नसम्भवः। यज्ञाद् भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।",
+      "body_hi": "वैदिक परम्परा में यज्ञ का प्रथम एवं प्रत्यक्ष अर्थ **अग्नि-अनुष्ठान** है — मन्त्रोच्चारण के साथ अग्नि में आहुति देना। किन्तु यह केवल कर्मकाण्ड नहीं है; यह **ऋत** (सृष्टि का शाश्वत नियम) को बनाए रखने का माध्यम है।\n\n**अग्नि — यज्ञ का मुख** — ऋग्वेद का प्रथम मन्त्र ही अग्नि की स्तुति है ('अग्निमीळे पुरोहितं')। अग्नि यज्ञ का मुख है — वह अर्पित द्रव्य को देवताओं तक पहुँचाता है। यह भौतिक अग्नि के साथ-साथ चेतना की अग्नि (अभीप्सा) का भी प्रतीक है।\n\n**यज्ञ-चक्र** — गीता (३.१४-१५) में भगवान श्रीकृष्ण ने अद्भुत चक्र दर्शाया — अन्न से प्राणी, वर्षा से अन्न, यज्ञ से वर्षा, कर्म से यज्ञ, ब्रह्म से कर्म। यह चक्र दर्शाता है कि **यज्ञ सृष्टि का केन्द्रीय तन्त्र है** — जो लेता है उसे लौटाना ही ऋत है।\n\n**यज्ञ के वैदिक प्रकार** — श्रौत यज्ञ (वेद-विहित, जैसे अग्निष्टोम, सोमयाग), स्मार्त यज्ञ (गृह्यसूत्र-विहित, जैसे अग्निहोत्र, वैश्वदेव), तथा पञ्च महायज्ञ (ब्रह्मयज्ञ, देवयज्ञ, पितृयज्ञ, भूतयज्ञ, अतिथियज्ञ) — ये प्रत्येक गृहस्थ के नित्य कर्तव्य माने गए।",
+      "body_en": "In the Vedic tradition, the primary and visible meaning of yajña is the **fire ritual** — offering oblations into the sacred fire with mantra recitation. But this is not mere ritualism; it is the means of sustaining **Ṛta** (the eternal cosmic order).\n\n**Agni — the mouth of yajña** — The very first mantra of the Ṛgveda praises Agni ('Agnim īḷe purohitam'). Agni is the mouth of yajña — he carries offerings to the devas. This fire symbolizes both the physical flame and the inner fire of aspiration.\n\n**The Yajña Cycle** — In the Gītā (3.14-15), Śrī Kṛṣṇa reveals the cosmic cycle: from food come beings, from rain comes food, from yajña comes rain, from action comes yajña, from Brahman comes action. This cycle shows that **yajña is the central mechanism of creation** — returning what is received is Ṛta itself.\n\n**Vedic categories of yajña** — Śrauta yajñas (Veda-ordained: Agniṣṭoma, Somayāga), Smārta yajñas (Gṛhyasūtra-based: Agnihotra, Vaiśvadeva), and the Pañca Mahāyajñas (Brahmayajña, Devayajña, Pitṛyajña, Bhūtayajña, Atithiyajña) — daily duties of every householder.",
+      "sub": [
+        {
+          "t": "अग्नि — दूत एवं प्रतीक",
+          "t_en": "Agni — messenger & symbol",
+          "d": "अग्नि देवताओं का दूत (ऋग्वेद), मनुष्य एवं दिव्य लोक के बीच सेतु, तथा आन्तरिक अभीप्सा का प्रतीक है। वैदिक ऋषि ने अग्नि में सृष्टि की रूपान्तरकारी शक्ति देखी।",
+          "d_en": "Agni is the messenger of the devas (Ṛgveda), the bridge between human and divine worlds, and the symbol of inner aspiration. Vedic seers saw in fire the transformative power of creation."
+        },
+        {
+          "t": "पञ्च महायज्ञ",
+          "t_en": "Five Great Sacrifices",
+          "d": "ब्रह्मयज्ञ (स्वाध्याय), देवयज्ञ (हवन), पितृयज्ञ (तर्पण), भूतयज्ञ (प्राणिमात्र को भोजन), अतिथियज्ञ (अतिथि सेवा) — ये पाँच यज्ञ प्रतिदिन करने से गृहस्थ सम्पूर्ण सृष्टि के प्रति अपना ऋण चुकाता है।",
+          "d_en": "Brahmayajña (study), Devayajña (fire offering), Pitṛyajña (ancestral oblation), Bhūtayajña (feeding all creatures), Atithiyajña (hospitality) — these five daily sacrifices help the householder repay their debt to all of creation."
+        },
+        {
+          "t": "ऋत-चक्र — सृष्टि का संतुलन",
+          "t_en": "Ṛta Cycle — cosmic balance",
+          "d": "यज्ञ → पर्जन्य → अन्न → प्राणी → कर्म → यज्ञ — यह चक्र दर्शाता है कि प्रकृति से लेना और लौटाना ही धर्म है। जो केवल लेता है ('स्तेन एव सः' — गीता ३.१२) वह चोर है।",
+          "d_en": "Yajña → rain → food → beings → action → yajña — this cycle shows that receiving from nature and returning is dharma itself. One who only takes is a thief ('stena eva saḥ' — Gītā 3.12)."
+        }
+      ],
+      "cm": {
+        "advaita": "शङ्कराचार्य — कर्मकाण्डीय यज्ञ चित्तशुद्धि का साधन है। शुद्ध चित्त में ज्ञान उदित होता है। अतः यज्ञ परम्परा ज्ञानमार्ग की भूमिका (तैयारी) है, साध्य नहीं। 'सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते' (गीता ४.३३)।",
+        "vishisht": "रामानुजाचार्य — यज्ञ भगवान की आज्ञापालन-रूपी सेवा है। अग्निहोत्र आदि कर्म भगवत्-प्रीत्यर्थ किए जाएँ तो वे भक्ति बन जाते हैं। 'यज्ञार्थात् कर्मणोऽन्यत्र' — यज्ञ (विष्णु) के लिए कर्म ही बन्धन-मुक्त करता है।",
+        "aurobindo": "श्री अरविन्द — वैदिक यज्ञ का गूढ़ अर्थ है चेतना का रूपान्तरण। अग्नि = दिव्य इच्छा (tapas), घृत = प्रकाशमय ज्ञान, सोम = आनन्द-रस। ऋषि यज्ञ द्वारा मानवीय चेतना को दिव्य चेतना में रूपान्तरित करते थे।"
+      },
+      "refs": ["ऋग्वेद १.१.१", "भगवद्गीता ३.९–१६", "शतपथ ब्राह्मण ११.५.६.१-३", "तैत्तिरीय आरण्यक २.१०"]
+    },
+    {
+      "id": "adhyatmika_yajna",
+      "num": "३",
+      "sk": "आध्यात्मिक यज्ञ — गीता के द्वादश यज्ञ",
+      "ro": "Ādhyātmika Yajña — Twelve Sacrifices of the Gītā",
+      "full_sk": "श्रेयान् द्रव्यमयाद् यज्ञाज् ज्ञानयज्ञः परन्तप। सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते॥",
+      "body_hi": "भगवद्गीता के चौथे अध्याय में भगवान श्रीकृष्ण ने यज्ञ की अवधारणा को भौतिक अग्निहोत्र से कहीं आगे ले जाकर **जीवन के प्रत्येक सचेतन कर्म** को यज्ञ बताया। यहाँ यज्ञ का अर्थ है — **किसी भी वस्तु, शक्ति या वृत्ति को उच्चतर लक्ष्य में समर्पित करना**।\n\n**गीता के प्रमुख यज्ञ-प्रकार:**\n• **देवयज्ञ** — देवताओं की आराधना\n• **ब्रह्मयज्ञ** — ब्रह्म में आत्मा की आहुति (आत्म-साक्षात्कार)\n• **द्रव्ययज्ञ** — भौतिक सम्पत्ति का दान\n• **तपोयज्ञ** — तपस्या को यज्ञ-रूप में स्वीकार करना\n• **योगयज्ञ** — अष्टाङ्गयोग का अभ्यास\n• **स्वाध्याययज्ञ** — शास्त्र-अध्ययन\n• **प्राणायामयज्ञ** — श्वास को नियन्त्रित करना\n• **आहारयज्ञ** — इन्द्रिय-संयम, नियमित आहार\n• **ज्ञानयज्ञ** — ज्ञान की प्राप्ति एवं प्रसार (सर्वश्रेष्ठ)\n\nश्रीकृष्ण स्पष्ट कहते हैं — **'श्रेयान् द्रव्यमयाद् यज्ञाज् ज्ञानयज्ञः'** — द्रव्यमय यज्ञ से ज्ञानयज्ञ श्रेष्ठ है, क्योंकि समस्त कर्म ज्ञान में समाप्त होते हैं।\n\nइस प्रकार गीता ने यज्ञ को **सार्वभौमिक सिद्धान्त** बना दिया — जो भी निःस्वार्थ भाव से, उच्चतर लक्ष्य हेतु अर्पित किया जाए, वह यज्ञ है।",
+      "body_en": "In the Gītā's fourth chapter, Śrī Kṛṣṇa expands yajña far beyond the fire ritual, declaring **every conscious act of life** a potential sacrifice. Here yajña means — **offering any object, energy, or tendency toward a higher purpose**.\n\n**Key yajña types in the Gītā:**\n• **Devayajña** — worship of the devas\n• **Brahmayajña** — offering the self into Brahman (Self-realization)\n• **Dravyayajña** — charity and material offering\n• **Tapoyajña** — austerity as sacrifice\n• **Yogayajña** — practice of Aṣṭāṅga Yoga\n• **Svādhyāyayajña** — study of scriptures\n• **Prāṇāyāmayajña** — breath regulation\n• **Āhārayajña** — sense-restraint and disciplined diet\n• **Jñānayajña** — pursuit and sharing of knowledge (the highest)\n\nKṛṣṇa declares — **'śreyān dravyamayād yajñāj jñānayajñaḥ'** — the sacrifice of knowledge is superior to material sacrifice, for all action culminates in knowledge.\n\nThus the Gītā makes yajña a **universal principle** — whatever is offered selflessly toward a higher purpose is yajña.",
+      "sub": [
+        {
+          "t": "ज्ञानयज्ञ — सर्वश्रेष्ठ यज्ञ",
+          "t_en": "Jñānayajña — the supreme sacrifice",
+          "d": "ज्ञान की अग्नि में अज्ञान की आहुति देना सबसे बड़ा यज्ञ है। गीता ४.३७ — 'यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन' — जैसे प्रज्वलित अग्नि ईंधन को भस्म करती है, वैसे ही ज्ञानाग्नि समस्त कर्मों को भस्म करती है।",
+          "d_en": "Offering ignorance into the fire of knowledge is the greatest yajña. Gītā 4.37 — as a blazing fire reduces fuel to ashes, so the fire of knowledge burns all karmic bonds to ashes."
+        },
+        {
+          "t": "प्राणयज्ञ — श्वास ही आहुति",
+          "t_en": "Prāṇayajña — breath as oblation",
+          "d": "गीता ४.२९-३० — कुछ साधक प्राण को अपान में, अपान को प्राण में अर्पित करते हैं। प्रत्येक श्वास को सचेतन अर्पण बनाना — यह योगी का नित्य यज्ञ है। उपनिषदों में इसे 'प्राणाग्निहोत्र' कहा गया।",
+          "d_en": "Gītā 4.29-30 — some offer prāṇa into apāna and apāna into prāṇa. Making each breath a conscious offering is the yogi's perpetual yajña. The Upaniṣads call this 'prāṇāgnihotra.'"
+        },
+        {
+          "t": "जीवन ही यज्ञ — कर्मयोग",
+          "t_en": "Life as yajña — Karmayoga",
+          "d": "गीता ३.९ — 'यज्ञार्थात् कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः' — यज्ञ-भाव से किया कर्म मुक्त करता है, अन्यथा कर्म बन्धन है। प्रत्येक कर्म को ईश्वरार्पण करना ही यज्ञ-जीवन है।",
+          "d_en": "Gītā 3.9 — 'yajñārthāt karmaṇo'nyatra loko'yaṃ karmabandhanaḥ' — action done as yajña liberates; otherwise it binds. Offering every action to the Divine is living as yajña."
+        }
+      ],
+      "cm": {
+        "advaita": "शङ्कराचार्य — गीता के सभी यज्ञ अन्ततः ज्ञानयज्ञ की ओर ले जाते हैं। द्रव्ययज्ञ से चित्तशुद्धि, चित्तशुद्धि से विवेक, विवेक से ज्ञान — यही यज्ञों की श्रेणी है। ज्ञानयज्ञ में कर्ता-कर्म-क्रिया का भेद विलीन होता है।",
+        "vishisht": "रामानुजाचार्य — सभी यज्ञ भगवत्-प्रपत्ति (शरणागति) के अंग हैं। ज्ञानयज्ञ श्रेष्ठ है क्योंकि वह भगवान के स्वरूप को जानने का मार्ग है। किन्तु ज्ञान भी भक्ति में परिणत होना चाहिए — 'भक्त्या त्वनन्यया शक्यः' (गीता ११.५४)।",
+        "aurobindo": "श्री अरविन्द — गीता के यज्ञ-प्रकार चेतना के विभिन्न स्तरों पर रूपान्तरण के साधन हैं। शारीरिक (तप), प्राणिक (प्राणायाम), मानसिक (स्वाध्याय), बौद्धिक (ज्ञान) — प्रत्येक स्तर पर अर्पण होना चाहिए। पूर्णयोग = समग्र यज्ञ।"
+      },
+      "refs": ["भगवद्गीता ४.२३–३३", "भगवद्गीता ३.९–१६", "छान्दोग्य उपनिषद् ५.१९–२४ (प्राणाग्निहोत्र)", "कौषीतकि उपनिषद् २.५"]
+    },
+    {
+      "id": "darshnika_yajna",
+      "num": "४",
+      "sk": "दार्शनिक यज्ञ — सृष्टि-सिद्धान्त एवं आधुनिक प्रासंगिकता",
+      "ro": "Dārśanika Yajña — Cosmic Principle & Modern Relevance",
+      "full_sk": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः। अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्॥",
+      "body_hi": "यज्ञ का सबसे गहन अर्थ दार्शनिक है — यह **सृष्टि का मूल सिद्धान्त** है, केवल एक अनुष्ठान नहीं। वेद, उपनिषद् और गीता सब मिलकर यज्ञ को ब्रह्माण्डीय व्यवस्था का आधार बताते हैं।\n\n**पुरुष सूक्त — सृष्टि ही यज्ञ** — ऋग्वेद (१०.९०) का पुरुष सूक्त बताता है कि सृष्टि स्वयं एक यज्ञ से हुई — विराट पुरुष ने आत्म-अर्पण किया और उससे चन्द्र, सूर्य, इन्द्र, अग्नि, वायु, वर्ण-व्यवस्था, पशु-पक्षी, छन्द — सब उत्पन्न हुए। अर्थात् **सृष्टि = आत्म-दान**।\n\n**ऋत — यज्ञ की दार्शनिक नींव** — ऋत वैदिक दर्शन का केन्द्रीय सिद्धान्त है — वह शाश्वत नियम जो सूर्य को चलाता है, ऋतुओं को बदलता है, और नैतिक व्यवस्था को धारण करता है। यज्ञ ऋत को बनाए रखने का मानवीय कर्तव्य है — प्रकृति देती है, मनुष्य लौटाता है।\n\n**परस्पर-निर्भरता का सिद्धान्त** — गीता (३.१०-११) — प्रजापति ने सृष्टि के साथ यज्ञ की रचना की और कहा — 'इससे एक-दूसरे को पुष्ट करो।' यह **reciprocity** (पारस्परिकता) का सिद्धान्त है — देव मनुष्य को देते हैं, मनुष्य यज्ञ द्वारा देवों को, और यह चक्र सृष्टि को चलाता है।\n\n**आधुनिक प्रासंगिकता** — यज्ञ का दार्शनिक सिद्धान्त आज पारिस्थितिकी (ecology), स्थायी विकास (sustainability), और सेवा-भाव (service) के रूप में प्रासंगिक है। जो सभ्यता केवल लेती है और लौटाती नहीं — वह ऋत का उल्लंघन करती है।",
+      "body_en": "The deepest meaning of yajña is philosophical — it is the **foundational principle of creation**, not merely a ritual. The Vedas, Upaniṣads, and Gītā together present yajña as the basis of cosmic order.\n\n**Puruṣa Sūkta — creation as yajña** — Ṛgveda (10.90) declares that creation itself arose from a cosmic yajña — the Cosmic Puruṣa offered himself, and from that self-offering arose the moon, sun, Indra, Agni, Vāyu, the social order, animals, and the Vedic metres. **Creation = self-giving.**\n\n**Ṛta — the philosophical foundation** — Ṛta is the central principle of Vedic philosophy — the eternal law that moves the sun, changes the seasons, and upholds moral order. Yajña is humanity's duty to sustain Ṛta — nature gives, humans return.\n\n**The principle of interdependence** — Gītā (3.10-11) — Prajāpati created beings along with yajña and said: 'Nourish one another through this.' This is the principle of **reciprocity** — devas give to humans, humans give to devas through yajña, and this cycle sustains creation.\n\n**Modern relevance** — The philosophical principle of yajña is directly relevant today as ecology, sustainability, and service. A civilization that only takes and never returns violates Ṛta — the foundational law of existence.",
+      "sub": [
+        {
+          "t": "पुरुष सूक्त — आदि यज्ञ",
+          "t_en": "Puruṣa Sūkta — the primordial yajña",
+          "d": "ऋग्वेद १०.९० — सृष्टि का प्रथम कार्य ही यज्ञ था। विराट पुरुष ने स्वयं को अर्पित किया — यह बताता है कि अस्तित्व का मूल स्वभाव ही 'देना' है, 'लेना' नहीं।",
+          "d_en": "Ṛgveda 10.90 — the first act of creation was itself a yajña. The Cosmic Puruṣa offered himself — showing that the fundamental nature of existence is 'giving', not 'taking.'"
+        },
+        {
+          "t": "ऋत, धर्म एवं यज्ञ",
+          "t_en": "Ṛta, Dharma & Yajña",
+          "d": "ऋत = सृष्टि का शाश्वत नियम। धर्म = मानवीय स्तर पर ऋत का पालन। यज्ञ = धर्म-पालन का व्यावहारिक साधन। ये तीन एक ही सिद्धान्त के तीन आयाम हैं।",
+          "d_en": "Ṛta = the eternal cosmic law. Dharma = Ṛta observed at the human level. Yajña = the practical means of upholding Dharma. These three are dimensions of a single principle."
+        },
+        {
+          "t": "आधुनिक यज्ञ — पर्यावरण एवं सेवा",
+          "t_en": "Modern yajña — ecology & service",
+          "d": "यज्ञ-सिद्धान्त आज carbon cycle, ecosystem balance, circular economy, और निःस्वार्थ सेवा (volunteering) में दिखाई देता है। जो समाज 'केवल उपभोग' करता है वह वैदिक दृष्टि में अधर्मी है।",
+          "d_en": "The yajña principle manifests today in the carbon cycle, ecosystem balance, circular economy, and selfless service. A society of pure consumption is, in Vedic terms, adharmic."
+        }
+      ],
+      "cm": {
+        "advaita": "शङ्कराचार्य — परम यज्ञ अहंकार का विसर्जन है। जब जीव अपने पृथक अस्तित्व को ब्रह्म में अर्पित करता है — 'ब्रह्मार्पणं ब्रह्म हविः' (गीता ४.२४) — तब अर्पणकर्ता, अर्पण, और जिसे अर्पित किया — सब ब्रह्म ही है। यही यज्ञ की पराकाष्ठा है।",
+        "vishisht": "रामानुजाचार्य — सृष्टि यज्ञ-रूपा है क्योंकि समस्त कर्म भगवान के लीला-विलास हैं। जीव का कर्तव्य है कि वह इस लीला में सहभागी बने — यही प्रपत्ति (शरणागति) है। भगवान देते हैं, भक्त भगवान को समर्पित करता है — यह प्रेम का चक्र है।",
+        "aurobindo": "श्री अरविन्द — यज्ञ विकास (evolution) का आध्यात्मिक नाम है। चेतना अपने निम्नतर रूप को उच्चतर में अर्पित करती है — पदार्थ को जीवन में, जीवन को मन में, मन को अतिमानस में। यह ब्रह्माण्डीय यज्ञ अभी भी जारी है — और मानव इसका सचेत सहभागी बन सकता है।"
+      },
+      "refs": ["ऋग्वेद १०.९० (पुरुष सूक्त)", "भगवद्गीता ३.१०–१५", "भगवद्गीता ४.२४", "ऐतरेय ब्राह्मण ३३.१", "तैत्तिरीय उपनिषद् ३.१०"]
+    }
+  ]
+}
