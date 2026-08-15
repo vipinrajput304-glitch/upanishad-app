@@ -3,8 +3,8 @@
     "id": 1,
     "sk": "ॐ इत्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद् भविष्यदिति सर्वमोंकार एव ।\nयच्चान्यत् त्रिकालातीतं तदप्योंकार एव ॥",
     "ro": "Om ityetadakṣaramidaṃ sarvaṃ tasyopavyākhyānaṃ bhūtaṃ bhavad bhaviṣyaditi sarvamomkāra eva · yaccānyat trikālātītaṃ tadapyomkāra eva",
-    "hi": "ॐ — यह अक्षर ही सब कुछ है। जो भूत, वर्तमान और भविष्य है — सब ओंकार ही है। और जो तीनों कालों से परे है — वह भी ओंकार ही है।",
-    "en": "OM — this syllable is all this. Past, present, future — all is OM. And what transcends the three times — that too is OM.",
+    "hi": "ॐ — यह अक्षर ही सब कुछ है। इसकी विस्तृत व्याख्या यह है — जो भूत, वर्तमान और भविष्य है, सब ओंकार ही है। और जो तीनों कालों से भी परे है — वह भी ओंकार ही है।",
+    "en": "OM — this imperishable syllable is all this. All that is past, present, and future is verily OM. And whatever transcends the three divisions of time — that too is OM alone.",
     "ws": [
       {
         "s": "ॐ इति",
@@ -13,18 +13,18 @@
       },
       {
         "s": "एतत् अक्षरम्",
-        "h": "यह अक्षर",
+        "h": "यह अविनाशी अक्षर",
         "e": "this imperishable syllable"
       },
       {
         "s": "इदम् सर्वम्",
-        "h": "यह सब कुछ",
-        "e": "all this"
+        "h": "यह समस्त जगत्",
+        "e": "all this (universe)"
       },
       {
-        "s": "उपव्याख्यानम्",
-        "h": "विस्तृत व्याख्या",
-        "e": "detailed exposition"
+        "s": "तस्य उपव्याख्यानम्",
+        "h": "उसकी विस्तृत व्याख्या",
+        "e": "its detailed exposition"
       },
       {
         "s": "भूतम् भवत् भविष्यत्",
@@ -37,7 +37,7 @@
         "e": "beyond the three times"
       },
       {
-        "s": "तदपि",
+        "s": "तत् अपि",
         "h": "वह भी",
         "e": "that also"
       },
@@ -47,40 +47,40 @@
         "e": "is OM alone"
       }
     ],
-    "gr": "<strong>अक्षरम्</strong> = a (not) + kṣara (perishable) — the Imperishable. <strong>त्रिकालातीतम्</strong> — beyond all three times — points to the timeless eternal Brahman, the fourth state (turīya). This is the only Upanishad written entirely in prose.",
-    "mt": "Prose (गद्य) — Mandukya is unique: written entirely in prose, pointing directly at truth without metaphor.",
+    "gr": "<strong>अक्षरम्</strong> — न (अ) + क्षरति (नष्ट होता है) = जो कभी नष्ट न हो — अविनाशी। पाणिनि के अनुसार अक्षर शब्द वर्ण और ब्रह्म दोनों का वाचक है (अष्टाध्यायी ६.१.७७)। <strong>उपव्याख्यानम्</strong> — उप (समीप) + वि (विशेष) + आख्यानम् (कथन) = विस्तृत व्याख्या; गौडपाद कहते हैं — ओंकार ही उपनिषद् का अधिष्ठान है (कारिका १.१)। <strong>त्रिकालातीतम्</strong> — त्रि + काल + अतीतम् = तीनों कालों को लाँघा हुआ; यह नित्य ब्रह्म की ओर संकेत है जो तुरीय है। यह उपनिषद् पूर्णतः गद्य में है — वैदिक साहित्य में अत्यंत दुर्लभ।",
+    "mt": "गद्य (Prose) — माण्डूक्य अथर्ववेद की एकमात्र ऐसी उपनिषद् जो पूर्णतः गद्य में है, बिना किसी अलंकार के, सीधे सत्य की ओर संकेत करती है।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य + गौडपाद",
-        "h": "ॐ ब्रह्म का वाचक है। जो काल में है और काल से परे है — दोनों एक ही ब्रह्म हैं। यह मंत्र अद्वैत का प्रवेश-द्वार है।",
-        "en": "OM is the signifier of Brahman. All in time and beyond time is one Brahman. This mantra is the gateway of Advaita.",
-        "ins": "ॐ केवल ध्वनि नहीं — यह ब्रह्मांड की मूल आवृत्ति है।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर भाष्य में कहते हैं — ओंकार ब्रह्म का प्रतीक (वाचक) है और ब्रह्म स्वयं ओंकार का अर्थ (वाच्य) है। 'सर्वम्' शब्द कोई अपवाद नहीं छोड़ता — स्थूल, सूक्ष्म, कारण, तुरीय — सब ओंकार में समाहित है। गौडपाद कारिका (१.१) में स्पष्ट करते हैं: 'भूतं भवच्च भव्यं च सर्वमोंकार एव हि' — काल की सीमा से परे जो कुछ भी है, वह भी ओंकार ही है क्योंकि ओंकार नित्य ब्रह्म है। 'त्रिकालातीतम्' का अर्थ है — वह शुद्ध चेतना जो उत्पत्ति, स्थिति और लय से अप्रभावित है।",
+        "en": "Shankara's Bhashya declares OM the signifier (vācaka) of Brahman while Brahman is the signified (vācya). The word 'sarvam' admits no exception — gross, subtle, causal, Turīya — all is contained in OM. Gaudapada's Kārikā (1.1) clarifies: 'bhūtaṃ bhavacca bhavyaṃ ca sarvamomkāra eva hi' — whatever is beyond time's boundary is also OM, because OM is eternal Brahman. 'Trikālātītam' means that pure consciousness which remains unaffected by creation, sustenance, and dissolution.",
+        "ins": "ॐ केवल ध्वनि नहीं — यह सत्ता की मूल कम्पन (स्पन्द) है जिससे सम्पूर्ण सृष्टि प्रकट होती है।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "ॐ ईश्वर का परम नाम है। तीनों काल उसी की लीला हैं। जो काल से परे है — वह ईश्वर का परम स्वरूप है।",
-        "en": "OM is the supreme name of Ishvara. The three times are His divine play. Beyond time is His supreme form.",
-        "ins": "नाम और नामी एक हैं — OM and God are not different."
+        "h": "वेदार्थसंग्रह में रामानुज कहते हैं — ओंकार ईश्वर का परम नाम है, नाम और नामी में अभेद है। तीनों काल उसी परमात्मा की लीला हैं — सृष्टि उसका विलास, स्थिति उसकी कृपा, प्रलय उसकी विश्रान्ति है। 'त्रिकालातीतम्' वह परमपद है जहाँ भगवान् अपने नित्य-विभूति (श्रीवैकुण्ठ) में विराजते हैं — जो कालातीत और अपरिवर्तनीय है। ओंकार की ध्वनि में 'अ' = विष्णु, 'उ' = श्री (लक्ष्मी), 'म' = जीवात्मा — तीनों मिलकर 'ओम्' बनता है।",
+        "en": "In Vedarthasangraha, Ramanuja holds OM as God's supreme name — name and named are inseparable. The three times are Paramātman's divine play: creation His delight, sustenance His grace, dissolution His rest. 'Trikālātītam' is the supreme abode (Śrīvaikuṇṭha) where the Lord resides in eternal splendor — beyond time and immutable. In OM's sound: 'A' = Vishnu, 'U' = Śrī (Lakshmi), 'M' = jīvātman — together forming the sacred syllable.",
+        "ins": "नाम और नामी में कोई भेद नहीं — ओंकार का उच्चारण स्वयं भगवत्-स्पर्श है।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "OM is the vibration of existence itself — not a symbol but a direct expression of consciousness manifesting as universe.",
-        "en": "OM is the vibration of existence itself — a direct expression of consciousness manifesting as universe. Past, present, future are three faces of the Eternal Now.",
-        "ins": "OM is the Word, the eternal Vibration, the first expression of the Absolute."
+        "h": "अरविंद 'दि अपनिषद्स्' में लिखते हैं — ओंकार सत्ता का आद्य स्पन्दन है, प्रतीक मात्र नहीं अपितु चेतना का सीधा आविर्भाव है जो स्वयं को जगत् के रूप में प्रकट करती है। भूत, वर्तमान और भविष्य शाश्वत वर्तमान (Eternal Now) के तीन मुख हैं। 'लाइफ़ डिवाइन' में वे स्पष्ट करते हैं — काल ब्रह्म की शक्ति है, ब्रह्म की सीमा नहीं; इसलिए कालातीत और कालबद्ध — दोनों एक ही चेतना के दो पक्ष हैं। ओंकार वह सेतु है जो सीमित मन को असीम सत्ता से जोड़ता है।",
+        "en": "In 'The Upanishads,' Aurobindo writes that OM is the primal vibration of Existence itself — not merely a symbol but the direct self-expression of Consciousness manifesting as universe. Past, present, and future are three faces of the Eternal Now. In 'The Life Divine' he clarifies that Time is Brahman's power, not Brahman's limitation — therefore the timeless and the time-bound are two aspects of one Consciousness. OM is the bridge connecting the finite mind to the infinite Reality.",
+        "ins": "ओंकार शब्द नहीं — सत्ता का मूल स्पन्दन है; इसे सुनना ब्रह्मानुभव का प्रथम सोपान है।"
       }
     },
     "dp": [
       {
-        "q": "🎵 OM की चार मात्राएँ",
-        "a": "<strong>अ</strong> = जाग्रत (वैश्वानर) — स्थूल जगत · <strong>उ</strong> = स्वप्न (तैजस) — सूक्ष्म जगत · <strong>म</strong> = सुषुप्ति (प्राज्ञ) — कारण जगत · <strong>मौन</strong> (अमात्र) = तुरीय — ब्रह्म। OM बोलें — फिर मौन में ठहरें। वही तुरीय का स्पर्श है।"
+        "q": "🎵 OM की चार मात्राएँ क्या हैं?",
+        "a": "<strong>अ (A)</strong> = जाग्रत अवस्था (वैश्वानर) — स्थूल जगत् का प्रतीक · <strong>उ (U)</strong> = स्वप्न अवस्था (तैजस) — सूक्ष्म जगत् का प्रतीक · <strong>म (M)</strong> = सुषुप्ति अवस्था (प्राज्ञ) — कारण जगत् का प्रतीक · <strong>मौन (अमात्र)</strong> = तुरीय — शुद्ध ब्रह्म। OM बोलें — फिर मौन में ठहरें। वही तुरीय का स्पर्श है।"
       },
       {
         "q": "♾️ 'त्रिकालातीतम्' — काल से परे क्या है?",
-        "a": "वह जो हमेशा था, हमेशा है, हमेशा रहेगा — बिना किसी परिवर्तन के। वही शुद्ध चेतना है। वही ब्रह्म है। OM उसका प्रतीक है।"
+        "a": "जो न उत्पन्न होता है, न बदलता है, न नष्ट होता है — वह काल से परे है। शंकर कहते हैं: काल माया का धर्म है, ब्रह्म का नहीं। जो तीनों कालों में एक-सा है — वही शुद्ध चेतना है, वही ब्रह्म है, वही ओंकार का परम अर्थ है।"
       },
       {
-        "q": "🧘 OM का अभ्यास",
-        "a": "धीरे-धीरे OM का उच्चारण करें। <strong>अ</strong> — पेट से। <strong>उ</strong> — छाती में। <strong>म</strong> — होंठ बंद, सिर में कंपन। फिर <strong>मौन</strong> — उस शांति में ठहरो। यही तुरीय का स्पर्श है।"
+        "q": "🧘 OM ध्यान की विधि",
+        "a": "धीरे-धीरे OM का उच्चारण करें: <strong>अ</strong> — उदर से, भूमि की तरह स्थिर। <strong>उ</strong> — वक्ष में, ऊर्ध्वगामी। <strong>म</strong> — ओष्ठ बन्द, कपाल में अनुनाद। फिर <strong>मौन</strong> — उस निःशब्दता में ठहरें। माण्डूक्य कारिका (१.२८) कहती है — OM का अभ्यास समस्त दुःखों का निवारक है।"
       }
     ]
   },
@@ -88,17 +88,17 @@
     "id": 2,
     "sk": "सर्वं ह्येतद् ब्रह्म अयमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ॥",
     "ro": "Sarvaṃ hyetad brahma ayamātmā brahma so'yamātmā catuṣpāt",
-    "hi": "यह सब कुछ निश्चित रूप से ब्रह्म है। यह आत्मा ब्रह्म है। और यही आत्मा चार पादों वाली है।",
+    "hi": "यह सब कुछ निश्चय ही ब्रह्म है। यह आत्मा ब्रह्म है। और यही आत्मा चार पादों (अवस्थाओं) वाली है।",
     "en": "All this is verily Brahman. This Self is Brahman. This very Self has four quarters.",
     "ws": [
       {
-        "s": "सर्वम् हि",
-        "h": "सब कुछ निश्चित रूप से",
+        "s": "सर्वम् हि एतत्",
+        "h": "यह सब कुछ निश्चय ही",
         "e": "all this verily"
       },
       {
-        "s": "एतत् ब्रह्म",
-        "h": "यह ब्रह्म है",
+        "s": "ब्रह्म",
+        "h": "ब्रह्म है",
         "e": "is Brahman"
       },
       {
@@ -112,41 +112,46 @@
         "e": "is Brahman"
       },
       {
+        "s": "सः अयम् आत्मा",
+        "h": "वही यह आत्मा",
+        "e": "that very Self"
+      },
+      {
         "s": "चतुष्पात्",
         "h": "चार पादों वाली",
         "e": "having four quarters"
       }
     ],
-    "gr": "<strong>चतुष्पात्</strong> = catuṣ (four) + pāt (foot/quarter). The Self has four dimensions — jāgrat, svapna, suṣupti, and turīya. This is one of the four Mahāvākyas.",
-    "mt": "Prose",
+    "gr": "<strong>चतुष्पात्</strong> — चतुर् (चार) + पाद् (चरण/अंश)। जैसे गाय के चार पैर होते हैं वैसे ही आत्मा के चार 'पाद' हैं — जाग्रत्, स्वप्न, सुषुप्ति और तुरीय। छान्दोग्य (३.१८.२) में भी ब्रह्म को चतुष्पाद कहा है। <strong>अयमात्मा ब्रह्म</strong> — यह चार महावाक्यों में से एक है (माण्डूक्य, अथर्ववेद)। 'अयम्' = यह प्रत्यक्ष सन्निहित; 'आत्मा' = अन्तरात्मा; 'ब्रह्म' = परम सत्ता। <strong>हि</strong> = निश्चयार्थक अव्यय — कोई सन्देह नहीं।",
+    "mt": "गद्य — यह मन्त्र माण्डूक्य का स्तम्भ-वाक्य है; आगे के दस मन्त्र इसी की व्याख्या हैं।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "यह महावाक्य है — अयमात्मा ब्रह्म। बाहर जो ब्रह्म है, भीतर जो आत्मा है — एक ही हैं। 'सर्वं ब्रह्म' = बाहरी सत्य। 'अयमात्मा ब्रह्म' = भीतरी सत्य।",
-        "en": "This is the mahāvākya. The Brahman without and the Ātman within are identical. 'All is Brahman' = outer truth. 'This Self is Brahman' = inner truth.",
-        "ins": "जो तुम खोज रहे हो — वह तुम्हीं हो।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर भाष्य में कहते हैं — 'सर्वं ब्रह्म' = बाह्य सत्य (ब्रह्मांड ब्रह्म है) और 'अयमात्मा ब्रह्म' = आभ्यन्तर सत्य (मेरा अन्तरात्मा वही ब्रह्म है)। जब ये दोनों एक जान लिए जाएँ — तब अद्वैत-बोध होता है। गौडपाद कारिका (३.३३) में समझाते हैं — जगत् ब्रह्म से भिन्न नहीं जैसे स्वप्न द्रष्टा से भिन्न नहीं। 'चतुष्पात्' का अर्थ चार अवस्थाएँ नहीं अपितु एक ही चेतना के चार प्रकट रूप हैं — जैसे एक ही सोना विभिन्न आभूषणों में है।",
+        "en": "Shankara's Bhashya declares: 'sarvaṃ brahma' = the outer truth (the universe is Brahman) and 'ayamātmā brahma' = the inner truth (my innermost Self is that very Brahman). When both are recognized as one, Advaita-realization dawns. Gaudapada's Kārikā (3.33) explains: the world is not different from Brahman just as a dream is not different from the dreamer. 'Catuṣpāt' means not four separate states but four manifestations of one consciousness — like one gold appearing as different ornaments.",
+        "ins": "जो तुम बाहर खोज रहे हो (ब्रह्म) — वह भीतर बैठा है (आत्मा); और जो भीतर है — वही बाहर प्रकट है।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "आत्मा ब्रह्म का अंश है — उससे अभिन्न किंतु अलग। जैसे लहर समुद्र का अंश है।",
-        "en": "Ātman is an inseparable part of Brahman — not identical but not separate. Like a wave of the ocean.",
-        "ins": "आत्मा ब्रह्म में है, ब्रह्म आत्मा में है।"
+        "h": "श्रीभाष्य की दृष्टि से — आत्मा ब्रह्म का अंश है, उससे अभिन्न किन्तु पृथक्। जैसे सागर और लहर — लहर सागर से अलग नहीं, पर लहर सागर नहीं है। 'सर्वं ब्रह्म' का अर्थ है — सब कुछ ब्रह्म में है, ब्रह्म के द्वारा है, ब्रह्म के लिए है। वेदार्थसंग्रह में रामानुज कहते हैं: ब्रह्म = शरीरी, जगत् = शरीर; जैसे शरीर आत्मा से पृथक् होकर भी आत्मा का ही अंग है, वैसे ही जगत् ब्रह्म का प्रकार (विशेषण) है। चार पाद = ईश्वर की चतुर्विध अभिव्यक्ति — व्यापक शक्ति के चार आयाम।",
+        "en": "From Śrībhāṣya's perspective, the Self is an inseparable part of Brahman — not identical but not separate, like wave and ocean. 'Sarvaṃ brahma' means all exists in Brahman, through Brahman, for Brahman. In Vedarthasangraha, Ramanuja explains: Brahman = the Inner Self (śarīrī), the world = the body (śarīra); just as a body, though distinct from the soul, is the soul's own expression, so the world is Brahman's attribute (prakāra). The four quarters = four dimensions of Īśvara's all-pervading power.",
+        "ins": "आत्मा ब्रह्म में है, ब्रह्म आत्मा में है — यह सम्बन्ध प्रेम का है, अभेद का नहीं।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "'सर्वं ब्रह्म' — यह केवल दर्शन नहीं, प्रत्यक्ष अनुभव है। जब यह बोध होता है — जीवन पूरी तरह बदल जाता है।",
-        "en": "'All is Brahman' is not philosophy — it is direct experience. When this is realized, life is completely transformed.",
-        "ins": "The four quarters map the complete territory of consciousness."
+        "h": "अरविंद 'दि लाइफ़ डिवाइन' में लिखते हैं — 'सर्वं ब्रह्म' केवल दार्शनिक सिद्धान्त नहीं, प्रत्यक्ष आध्यात्मिक अनुभव है। जब यह बोध होता है — जीवन का प्रत्येक क्षण, प्रत्येक वस्तु, प्रत्येक प्राणी दिव्य प्रकट होने लगता है। चार पाद चेतना के सम्पूर्ण भूगोल का मानचित्र हैं — भौतिक से अतिमानसिक तक। 'अयमात्मा ब्रह्म' = आत्म-साक्षात्कार वह बिन्दु है जहाँ व्यक्ति अपने भीतर विश्वात्मा को पहचानता है — यही अरविंद का 'आध्यात्मिक रूपान्तरण' (spiritual transformation) का प्रथम सोपान है।",
+        "en": "In 'The Life Divine,' Aurobindo writes: 'sarvaṃ brahma' is not mere philosophical thesis but direct spiritual experience. When this realization dawns, every moment, every object, every being reveals the Divine. The four quarters map the complete geography of consciousness — from the physical to the Supramental. 'Ayamātmā brahma' = Self-realization is the point where the individual recognizes the universal Self within — this is the first step of Aurobindo's 'spiritual transformation.'",
+        "ins": "चार पाद चेतना का सम्पूर्ण भूगोल हैं — भौतिक, प्राणिक, मानसिक और अतिमानसिक।"
       }
     },
     "dp": [
       {
-        "q": "🌟 चार महावाक्य",
-        "a": "(१) <strong>प्रज्ञानं ब्रह्म</strong> — ऐतरेय · (२) <strong>अहं ब्रह्मास्मि</strong> — बृहदारण्यक · (३) <strong>तत् त्वम् असि</strong> — छान्दोग्य · (४) <strong>अयमात्मा ब्रह्म</strong> — माण्डूक्य। चारों एक ही सत्य को चार दिशाओं से कहते हैं।"
+        "q": "🌟 चार महावाक्य कौन से हैं?",
+        "a": "(१) <strong>प्रज्ञानं ब्रह्म</strong> — ऐतरेय उपनिषद् (ऋग्वेद) · (२) <strong>अहं ब्रह्मास्मि</strong> — बृहदारण्यक उपनिषद् (शुक्ल यजुर्वेद) · (३) <strong>तत् त्वम् असि</strong> — छान्दोग्य उपनिषद् (सामवेद) · (४) <strong>अयमात्मा ब्रह्म</strong> — माण्डूक्य उपनिषद् (अथर्ववेद)। चारों एक ही सत्य को चार दिशाओं से प्रकट करते हैं — प्रत्येक वेद से एक।"
       },
       {
-        "q": "4️⃣ चार पाद क्या हैं?",
-        "a": "(१) <strong>वैश्वानर</strong> — जाग्रत · (२) <strong>तैजस</strong> — स्वप्न · (३) <strong>प्राज्ञ</strong> — सुषुप्ति · (४) <strong>तुरीय</strong> — साक्षी चेतना। तुरीय कोई अवस्था नहीं — वह तीनों को देखता है।"
+        "q": "4️⃣ चार पाद कौन से हैं?",
+        "a": "(१) <strong>वैश्वानर</strong> — जाग्रत अवस्था, बहिर्मुखी चेतना, स्थूल भोग · (२) <strong>तैजस</strong> — स्वप्न अवस्था, अन्तर्मुखी चेतना, सूक्ष्म भोग · (३) <strong>प्राज्ञ</strong> — सुषुप्ति अवस्था, एकीभूत चेतना, आनन्दमय · (४) <strong>तुरीय</strong> — साक्षी चेतना, अद्वैत, शान्त, शिव। तुरीय कोई अवस्था नहीं — वह तीनों अवस्थाओं का द्रष्टा है।"
       }
     ]
   },
@@ -154,18 +159,18 @@
     "id": 3,
     "sk": "जागरितस्थानो बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग् वैश्वानरः प्रथमः पादः ॥",
     "ro": "Jāgaritasthāno bahiṣprajñaḥ saptāṅga ekonaviṃśatimukhaḥ sthūlabhug vaiśvānaraḥ prathamaḥ pādaḥ",
-    "hi": "जाग्रत अवस्था में स्थित, बाहरी चेतना वाला, सात अंगों वाला, उन्नीस मुखों वाला, स्थूल विषयों का भोक्ता — यह वैश्वानर है — पहला पाद।",
-    "en": "He whose state is waking, consciousness outward, with seven limbs and nineteen mouths, experiencing the gross — Vaishvanara — the first quarter.",
+    "hi": "जाग्रत अवस्था में स्थित, बाहर की ओर प्रज्ञा वाला, सात अंगों वाला, उन्नीस मुखों वाला, स्थूल विषयों का भोक्ता — यह वैश्वानर है — प्रथम पाद।",
+    "en": "He whose domain is the waking state, whose consciousness is directed outward, who has seven limbs and nineteen mouths, who experiences the gross — Vaishvanara — is the first quarter.",
     "ws": [
       {
         "s": "जागरितस्थानः",
-        "h": "जाग्रत अवस्था में",
-        "e": "in the waking state"
+        "h": "जाग्रत अवस्था में स्थित",
+        "e": "whose domain is the waking state"
       },
       {
         "s": "बहिष्प्रज्ञः",
-        "h": "बाहरी चेतना वाला",
-        "e": "outward consciousness"
+        "h": "बाहर की ओर प्रज्ञा वाला",
+        "e": "outward-conscious"
       },
       {
         "s": "सप्ताङ्गः",
@@ -175,49 +180,49 @@
       {
         "s": "एकोनविंशतिमुखः",
         "h": "उन्नीस मुखों वाला",
-        "e": "having nineteen mouths"
+        "e": "having nineteen mouths/openings"
       },
       {
         "s": "स्थूलभुक्",
         "h": "स्थूल विषयों का भोक्ता",
-        "e": "experiencer of gross"
+        "e": "experiencer of gross objects"
       },
       {
         "s": "वैश्वानरः",
-        "h": "वैश्वानर — विश्व + नर",
-        "e": "Vaishvanara: universal man"
+        "h": "वैश्वानर — विश्व + नर = विश्वरूप पुरुष",
+        "e": "Vaishvanara: the universal being"
       }
     ],
-    "gr": "<strong>एकोनविंशति</strong> = 19: 5 jñānendriyas + 5 karmendriyas + 5 prāṇas + manas + buddhi + citta + ahaṃkāra = 19 mouths through which waking consciousness contacts the world.",
-    "mt": "Prose",
+    "gr": "<strong>सप्ताङ्ग</strong> — छान्दोग्य उपनिषद् (५.१८.२) से — वैश्वानर के सात अङ्ग: (१) द्युलोक = मस्तक, (२) सूर्य = नेत्र, (३) वायु = प्राण, (४) आकाश = शरीर का मध्यभाग, (५) जल = मूत्राशय, (६) पृथिवी = पाद, (७) अग्नि = मुख। यह विराट् पुरुष का वर्णन है — व्यक्ति और ब्रह्माण्ड का एकत्व। <strong>एकोनविंशति</strong> = एक ऊन (कम) + विंशति (बीस) = उन्नीस: ५ ज्ञानेन्द्रियाँ (चक्षु, श्रोत्र, घ्राण, रसना, त्वक्) + ५ कर्मेन्द्रियाँ (वाक्, पाणि, पाद, पायु, उपस्थ) + ५ प्राण (प्राण, अपान, व्यान, उदान, समान) + ४ अन्तःकरण (मनस्, बुद्धि, चित्त, अहंकार)। <strong>वैश्वानर</strong> — विश्व + नर = सब नरों में व्याप्त; ऋग्वेद (१.९८.१) में वैश्वानर अग्नि का विशेषण है।",
+    "mt": "गद्य — मन्त्र ३-६ चार पादों का क्रमिक वर्णन करते हैं।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "वैश्वानर = जाग्रत अवस्था। चेतना बाहर की ओर है। यह चेतना का सबसे स्थूल स्तर है।",
-        "en": "Vaishvanara = waking state. Consciousness directed outward — the grossest level.",
-        "ins": "जागना चेतना की एक अवस्था है — चेतना जागरण नहीं।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर भाष्य में कहते हैं — वैश्वानर जाग्रत अवस्था का अधिष्ठाता है। चेतना बहिर्मुखी है अर्थात् इन्द्रियों के माध्यम से बाह्य जगत् को ग्रहण करती है। यह चेतना का सबसे स्थूल प्रकटीकरण है — किन्तु स्थूल होने से हीन नहीं। गौडपाद कारिका (१.२) में कहते हैं — वैश्वानर 'अ-कार' है क्योंकि 'अ' समस्त वर्णमाला का आदि है, वैसे ही जाग्रत समस्त अनुभवों का आधार है। छान्दोग्य (५.१८) में वैश्वानर-विद्या विस्तार से दी गई है जहाँ पाँच ऋषि राजा अश्वपति से इसका ज्ञान प्राप्त करते हैं।",
+        "en": "Shankara's Bhashya explains: Vaishvanara presides over the waking state. Consciousness is outward-turned, grasping the external world through the senses — the grossest manifestation of consciousness, yet not inferior. Gaudapada's Kārikā (1.2) identifies Vaishvanara with the A-sound, because 'A' is the beginning of all speech, just as waking is the ground of all experience. Chāndogya (5.18) presents the Vaishvanara-vidyā in detail, where five sages receive this knowledge from King Ashvapati.",
+        "ins": "जागना चेतना की एक अवस्था है — स्वयं चेतना नहीं; पर्दे पर चित्र बदलता है, पर्दा नहीं।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "जाग्रत अवस्था में जीव ईश्वर की सृष्टि के साथ सबसे सीधा संपर्क में रहता है। यहाँ ईश्वर को देखना ही साधना है।",
-        "en": "In waking, the soul is in direct contact with God's creation. Seeing God here is the practice.",
-        "ins": "बाहरी जगत में ईश्वर को देखना — यही जाग्रत में साधना है।"
+        "h": "रामानुज की दृष्टि में जाग्रत अवस्था में जीव भगवान् की सृष्टि से सर्वाधिक प्रत्यक्ष सम्पर्क में है। यहाँ ईश्वर के विभूति-रूप दिखते हैं — प्रत्येक पदार्थ में, प्रत्येक प्राणी में। भगवद्गीता (७.८-११) में श्रीकृष्ण कहते हैं 'रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः' — जल में रस, चन्द्र-सूर्य में तेज मैं ही हूँ। जाग्रत में इन विभूतियों को पहचानना ही साधना है। सात अंग = ईश्वर का विराट् रूप — विष्णुसहस्रनाम में 'विश्वमूर्ति' और 'विश्वरूप' ये दोनों नाम इसी को इंगित करते हैं।",
+        "en": "For Ramanuja, in the waking state the soul is in direct contact with God's creation. Here God's glories (vibhūti) are most visible — in every substance, every being. In Bhagavad Gītā (7.8-11), Krishna says 'I am the taste in water, the light of sun and moon.' To recognize these vibhūtis in waking is itself sādhana. The seven limbs = God's cosmic form (virāṭ-rūpa) — the Vishnu Sahasranāma names 'viśvamūrti' and 'viśvarūpa' point to this.",
+        "ins": "बाहरी जगत् ईश्वर की कलाकृति है — यहाँ प्रत्येक वस्तु में उसे देखना ही जाग्रत की साधना है।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "जाग्रत अवस्था matter और life का क्षेत्र है। Divine consciousness यहाँ उतरनी है — पलायन नहीं।",
-        "en": "The waking state is the field of matter and life. Divine consciousness must descend here — not escape from here.",
-        "ins": "The waking world is not illusion — it is the Divine's own field."
+        "h": "अरविंद 'दि लाइफ़ डिवाइन' में लिखते हैं — जाग्रत अवस्था पदार्थ और प्राण का क्षेत्र है। परम्परागत वेदान्त इसे माया कहकर त्यागता है, किन्तु पूर्णयोग (Integral Yoga) की दृष्टि में यही वह क्षेत्र है जहाँ दिव्य चेतना को उतरना है — पलायन नहीं, रूपान्तरण। वैश्वानर 'विश्व-नर' है — सम्पूर्ण मानवता जिसमें प्रकट है। 'Letters on Yoga' में वे कहते हैं — स्थूल शरीर दिव्य चेतना का उपकरण बन सकता है यदि इसे शुद्ध और रूपान्तरित किया जाए। उन्नीस मुख = उन्नीस द्वार जिनसे चेतना जगत् से सम्पर्क करती है — इनमें से प्रत्येक को रूपान्तरित करना योग है।",
+        "en": "In 'The Life Divine,' Aurobindo writes: the waking state is the field of matter and life. Traditional Vedanta rejects it as māyā, but Integral Yoga sees it as the very field where divine consciousness must descend — not escape, but transformation. Vaishvanara as 'universal being' represents all humanity manifest. In 'Letters on Yoga,' he explains that the gross body can become an instrument of divine consciousness when purified and transformed. The nineteen mouths = nineteen doors through which consciousness contacts the world — transforming each is yoga.",
+        "ins": "जाग्रत जगत् भ्रम नहीं — यह दिव्य चेतना का अपना रङ्गमञ्च है; यहीं रूपान्तरण होना है।"
       }
     },
     "dp": [
       {
-        "q": "🔢 19 मुख क्यों?",
-        "a": "5 <strong>ज्ञानेन्द्रियाँ</strong> + 5 <strong>कर्मेन्द्रियाँ</strong> + 5 <strong>प्राण</strong> + 4 <strong>अन्तःकरण</strong> (मन, बुद्धि, चित्त, अहंकार) = 19। यही वे द्वार हैं जिनसे जाग्रत चेतना बाहरी जगत से संपर्क करती है।"
+        "q": "🔢 उन्नीस मुख (१९ द्वार) कौन से हैं?",
+        "a": "५ <strong>ज्ञानेन्द्रियाँ</strong> (आँख, कान, नाक, जिह्वा, त्वचा) + ५ <strong>कर्मेन्द्रियाँ</strong> (वाक्, हाथ, पैर, गुदा, उपस्थ) + ५ <strong>प्राण</strong> (प्राण, अपान, व्यान, उदान, समान) + ४ <strong>अन्तःकरण</strong> (मन, बुद्धि, चित्त, अहंकार) = <strong>१९</strong>। ये वे द्वार हैं जिनसे जाग्रत चेतना बाह्य जगत् से सम्पर्क करती है।"
       },
       {
-        "q": "🌍 'वैश्वानर' — विश्व का पुरुष",
-        "a": "वैश्वानर = विश्व + नर। यह केवल individual नहीं — यह cosmic पुरुष है जो जाग्रत में स्थित है। हर जागते हुए व्यक्ति में वैश्वानर है।"
+        "q": "🌍 वैश्वानर-विद्या (छान्दोग्य ५.१८)",
+        "a": "पाँच ऋषि (प्राचीनशाल, सत्ययज्ञ, इन्द्रद्युम्न, जन, बुडिल) राजा अश्वपति कैकेय के पास गए। प्रत्येक ने वैश्वानर का एक ही अंग जाना था — एक ने द्युलोक, एक ने सूर्य, एक ने वायु। राजा ने बताया: <strong>सम्पूर्ण विराट्-पुरुष को जानो</strong> — खण्ड-ज्ञान अधूरा है।"
       }
     ]
   },
@@ -225,18 +230,18 @@
     "id": 4,
     "sk": "स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक् तैजसो द्वितीयः पादः ॥",
     "ro": "Svapnasthāno'ntaḥprajñaḥ saptāṅga ekonaviṃśatimukhaḥ praviviktabhug taijaso dvitīyaḥ pādaḥ",
-    "hi": "स्वप्न अवस्था में स्थित, भीतरी चेतना वाला, सात अंगों वाला, उन्नीस मुखों वाला, सूक्ष्म विषयों का भोक्ता — यह तैजस है — दूसरा पाद।",
-    "en": "He whose state is dreaming, consciousness inward, seven limbs and nineteen mouths, experiencing the subtle — Taijasa — the second quarter.",
+    "hi": "स्वप्न अवस्था में स्थित, भीतर की ओर प्रज्ञा वाला, सात अंगों वाला, उन्नीस मुखों वाला, सूक्ष्म विषयों का भोक्ता — यह तैजस है — द्वितीय पाद।",
+    "en": "He whose domain is the dream state, whose consciousness is directed inward, who has seven limbs and nineteen mouths, who experiences the subtle — Taijasa — is the second quarter.",
     "ws": [
       {
         "s": "स्वप्नस्थानः",
-        "h": "स्वप्न अवस्था में",
-        "e": "in the dreaming state"
+        "h": "स्वप्न अवस्था में स्थित",
+        "e": "whose domain is the dream state"
       },
       {
         "s": "अन्तःप्रज्ञः",
-        "h": "भीतरी चेतना वाला",
-        "e": "inward consciousness"
+        "h": "भीतर की ओर प्रज्ञा वाला",
+        "e": "inward-conscious"
       },
       {
         "s": "प्रविविक्तभुक्",
@@ -245,40 +250,44 @@
       },
       {
         "s": "तैजसः",
-        "h": "तैजस — तेज/प्रकाश से बना",
+        "h": "तैजस — तेजस् (प्रकाश/अग्नि) से निर्मित",
         "e": "Taijasa: made of light/radiance"
       }
     ],
-    "gr": "<strong>तैजस</strong> = made of Tejas (light/fire). The dream state is self-luminous — the mind creates the entire world from its own light, without any external input.",
-    "mt": "Prose",
+    "gr": "<strong>तैजस</strong> — तेजस् (प्रकाश, अग्नि) से व्युत्पन्न। स्वप्न में कोई बाह्य प्रकाश-स्रोत नहीं होता — फिर भी हम देखते हैं, क्योंकि चेतना स्वयं प्रकाशमान (self-luminous) है। <strong>प्रविविक्तभुक्</strong> — प्र + विविक्त (पृथक्, सूक्ष्म) + भुक् (भोक्ता) = स्थूल से अलग, सूक्ष्म विषयों का भोक्ता। बृहदारण्यक (४.३.९-१४) में यह विस्तार से बताया गया है: 'स्वप्ने महीयमानः' — स्वप्न में आत्मा स्वयं सृष्टि करती है, स्वयं भोगती है। गौडपाद कारिका (२.१) में 'वैतथ्य-प्रकरण' इसी पर आधारित है — स्वप्न की असत्यता से जाग्रत की असत्यता सिद्ध करना।",
+    "mt": "गद्य — द्वितीय पाद का वर्णन।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "तैजस = स्वप्न अवस्था। चेतना भीतर मुड़ती है। बाहरी इन्द्रियाँ बंद — पर मन अपनी दुनिया रचता है। यह चेतना का सूक्ष्म स्तर है।",
-        "en": "Taijasa = dreaming state. Consciousness turns inward. External senses closed — mind creates its own world. Subtle level of consciousness.",
-        "ins": "स्वप्न में जो दुनिया दिखती है — वह उतनी ही 'सच्ची' लगती है जितनी जाग्रत की।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर कहते हैं — तैजस = स्वप्न अवस्था का अधिष्ठाता। चेतना अन्तर्मुखी हो जाती है — बाह्य इन्द्रियाँ विश्राम करती हैं, किन्तु मन अपनी सम्पूर्ण सृष्टि रचता है। गौडपाद कारिका (२.१-४) में 'वैतथ्य-प्रकरण' का आरम्भ करते हैं: जैसे स्वप्न में हाथी, पर्वत, नदी — सब मन की रचना है, वैसे ही जाग्रत जगत् भी चेतना की प्रक्षेपण है। बृहदारण्यक (४.३.१०) में याज्ञवल्क्य जनक से कहते हैं — 'स्वप्ने कृत्वा देवः, स्वयम् एव ज्योतिः' — स्वप्न में जीव स्वयं देवता है, स्वयं प्रकाश है। यह सिद्ध करता है कि चेतना स्वतन्त्र सृजक है — उसे बाह्य पदार्थ की आवश्यकता नहीं।",
+        "en": "Shankara says Taijasa presides over the dream state. Consciousness turns inward — external senses rest, but the mind creates an entire universe. Gaudapada's 'Vaitathya-prakaraṇa' (Kārikā 2.1-4) begins here: just as elephants, mountains, and rivers in dreams are the mind's creation, so the waking world is consciousness's projection. Bṛhadāraṇyaka (4.3.10) has Yājñavalkya tell Janaka: 'In dream the being is its own god, its own light' — proving consciousness is an independent creator needing no external material.",
+        "ins": "स्वप्न प्रमाणित करता है कि चेतना स्वतन्त्र सृजक है — उसे बाहरी पदार्थ की आवश्यकता नहीं।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "स्वप्न में भी ईश्वर है। भीतर मुड़ना = ध्यान। स्वप्न और ध्यान में similarity है।",
-        "en": "God is present even in dreams. Turning inward = meditation. Dream and meditation share a similarity.",
-        "ins": "भीतर भी ईश्वर, बाहर भी ईश्वर।"
+        "h": "रामानुज की दृष्टि में स्वप्न में भी ईश्वर उपस्थित है — वह अन्तर्यामी रूप में जीव के भीतर सदैव विराजमान है। बृहदारण्यक (४.३.१२) कहता है — 'अत्र ब्रह्म भवति' — स्वप्न में भी ब्रह्म है। भीतर मुड़ना = ध्यान की पूर्वभूमि। स्वप्न और ध्यान में समानता है — दोनों में बाह्य इन्द्रियाँ शान्त होती हैं और भीतरी अनुभव प्रबल होता है। किन्तु ध्यान होशपूर्वक है और स्वप्न अनजाने — यही अन्तर है। गीता (६.१५) में 'युक्ताहारविहारस्य' — सन्तुलित जीवनशैली ध्यान-अभ्यास का आधार है।",
+        "en": "For Ramanuja, God is present even in dreams — as the inner controller (antaryāmī) always residing within. Bṛhadāraṇyaka (4.3.12) says 'atra brahma bhavati' — Brahman is present even in dreams. Turning inward = the ground of meditation. Dream and meditation are alike — in both, external senses quiet while inner experience intensifies — the difference is that meditation is conscious while dream is not. Gītā (6.15) says 'yuktāhāravihārasya' — balanced living is the foundation of meditative practice.",
+        "ins": "भीतर भी ईश्वर, बाहर भी ईश्वर — स्वप्न और जाग्रत में अन्तर दृष्टि का है, ईश्वर की उपस्थिति का नहीं।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "The dream state reveals the creative power of consciousness — the mind creates a complete universe from within. This is the same power that creates the waking world.",
-        "en": "The dream state reveals consciousness's creative power — the mind creates a complete universe from within. Same power creates the waking world.",
-        "ins": "You are the dreamer of this dream called waking life."
+        "h": "अरविंद 'Letters on Yoga' में लिखते हैं — स्वप्न अवस्था चेतना की सृजन-शक्ति प्रकट करती है — मन बिना किसी बाह्य सामग्री के सम्पूर्ण जगत् रचता है। यही शक्ति जाग्रत जगत् की भी रचयित्री है। 'दि लाइफ़ डिवाइन' में वे कहते हैं — जो शक्ति स्वप्न में एक क्षण में पर्वत खड़ा कर देती है, वही शक्ति ब्रह्माण्डीय स्तर पर सृष्टि करती है — केवल पैमाना भिन्न है, शक्ति वही है। स्वप्न-अवस्था सूक्ष्म शरीर (subtle body) का क्षेत्र है — योगी इसमें सचेत रहकर सूक्ष्म लोकों की यात्रा कर सकता है।",
+        "en": "In 'Letters on Yoga,' Aurobindo writes: the dream state reveals consciousness's creative power — the mind builds a complete universe from within, without any external material. This same power creates the waking world. In 'The Life Divine' he says: the power that in a dream instant raises a mountain is the same power that creates at the cosmic level — only the scale differs, the force is identical. The dream state is the domain of the subtle body — a yogi who remains conscious here can travel through subtle worlds.",
+        "ins": "तुम जो जाग्रत जगत् देखते हो — वह भी एक विराट् स्वप्न है जो ब्रह्माण्डीय चेतना देख रही है।"
       }
     },
     "dp": [
       {
-        "q": "💭 स्वप्न में जो दुख — वह असली दुख है या नहीं?",
-        "a": "स्वप्न में जब हम रोते हैं — आँसू असली होते हैं। यह सिद्ध करता है कि <strong>अनुभव की सत्यता वस्तु पर नहीं, चेतना पर निर्भर है।</strong> तो जाग्रत का दुख भी?"
+        "q": "💭 स्वप्न में जो दुःख — वह सत्य है या असत्य?",
+        "a": "स्वप्न में जब हम रोते हैं — आँसू सच्चे होते हैं, हृदय-गति बढ़ती है, पसीना आता है। <strong>अनुभव की सत्यता वस्तु पर नहीं, चेतना पर निर्भर है।</strong> गौडपाद इसी तर्क से कहते हैं — तो जाग्रत का दुःख भी क्या उसी चेतना की रचना नहीं? (कारिका २.६)"
       },
       {
-        "q": "🌟 'तैजस' — प्रकाश से बना क्यों?",
-        "a": "स्वप्न में कोई बाहरी प्रकाश नहीं होता — फिर भी हम देखते हैं। क्योंकि चेतना स्वयं प्रकाश है — self-luminous। तैजस = वह जो अपने प्रकाश से जगत् बनाता है।"
+        "q": "🌟 'तैजस' — प्रकाश से बना क्यों कहा?",
+        "a": "स्वप्न में कोई बाह्य प्रकाश नहीं — न सूर्य, न दीपक — फिर भी हम देखते हैं। बृहदारण्यक (४.३.९) में याज्ञवल्क्य कहते हैं: <strong>'आत्मैवास्य ज्योतिः'</strong> — आत्मा ही उसका प्रकाश है। तैजस = वह जो अपने ही प्रकाश से सम्पूर्ण जगत् प्रकाशित करता है।"
+      },
+      {
+        "q": "🔄 गौडपाद का वैतथ्य-प्रकरण",
+        "a": "गौडपाद कारिका अध्याय २ ('वैतथ्य') में सिद्ध करते हैं: (१) स्वप्न की वस्तुएँ असत् हैं — सब जानते हैं। (२) जाग्रत की वस्तुएँ भी आदि-अन्त वाली हैं — अतः वे भी असत् हैं। (३) <strong>दोनों में भेद दृष्टि का है, तत्त्व का नहीं।</strong> यही अद्वैत का सबसे तीक्ष्ण तर्क है।"
       }
     ]
   },
@@ -286,80 +295,89 @@
     "id": 5,
     "sk": "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं पश्यति तत् सुषुप्तम् ।\nसुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः ॥",
     "ro": "Yatra supto na kañcana kāmaṃ kāmayate na kañcana svapnaṃ paśyati tat suṣuptam · suṣuptasthāna ekībhūtaḥ prajñānaghana evānandamayo hyānandabhuk cetomukhaḥ prājñastṛtīyaḥ pādaḥ",
-    "hi": "जहाँ सोया हुआ व्यक्ति न कोई इच्छा करता है, न कोई स्वप्न देखता है — वह सुषुप्ति है। सुषुप्ति में स्थित, एकाकार हो गया, प्रज्ञान का घन पिंड, आनंदमय, आनंद का भोक्ता, चेतना का द्वार — यह प्राज्ञ है — तीसरा पाद।",
-    "en": "Where the sleeper desires nothing and sees no dream — that is deep sleep. There, unified, a mass of intelligence, bliss itself, enjoyer of bliss, door of consciousness — Prajna — the third quarter.",
+    "hi": "जहाँ सोया हुआ व्यक्ति न कोई कामना करता है, न कोई स्वप्न देखता है — वह सुषुप्ति है। सुषुप्ति में स्थित, एकीभूत, प्रज्ञान का सघन पिण्ड, आनन्दमय, आनन्द का भोक्ता, चेतना का द्वार — यह प्राज्ञ है — तृतीय पाद।",
+    "en": "Where the sleeper desires nothing and sees no dream — that is deep sleep. There, unified, a mass of pure consciousness, blissful, the enjoyer of bliss, the gateway of consciousness — this is Prajna — the third quarter.",
     "ws": [
       {
-        "s": "न कामयते",
-        "h": "इच्छा नहीं करता",
-        "e": "desires nothing"
+        "s": "न कामम् कामयते",
+        "h": "किसी कामना की कामना नहीं करता",
+        "e": "desires no desire"
       },
       {
         "s": "न स्वप्नं पश्यति",
-        "h": "स्वप्न नहीं देखता",
+        "h": "कोई स्वप्न नहीं देखता",
         "e": "sees no dream"
+      },
+      {
+        "s": "सुषुप्तम्",
+        "h": "गहरी निद्रा",
+        "e": "deep sleep"
       },
       {
         "s": "एकीभूतः",
         "h": "एकाकार हो गया",
-        "e": "unified, become one"
+        "e": "unified, become one mass"
       },
       {
         "s": "प्रज्ञानघनः",
-        "h": "प्रज्ञान का घन",
-        "e": "mass of intelligence"
+        "h": "प्रज्ञान का सघन पिण्ड",
+        "e": "dense mass of consciousness"
       },
       {
         "s": "आनन्दमयः",
-        "h": "आनंदमय",
-        "e": "blissful"
+        "h": "आनन्द से परिपूर्ण",
+        "e": "full of bliss"
       },
       {
         "s": "आनन्दभुक्",
-        "h": "आनंद का भोक्ता",
+        "h": "आनन्द का भोक्ता",
         "e": "enjoyer of bliss"
       },
       {
         "s": "चेतोमुखः",
         "h": "चेतना का द्वार",
-        "e": "door of consciousness"
+        "e": "gateway of consciousness"
       },
       {
         "s": "प्राज्ञः",
-        "h": "प्राज्ञ",
+        "h": "प्राज्ञ — प्र + ज्ञ = विशेष ज्ञान वाला",
         "e": "Prajna: the knowing one"
       }
     ],
-    "gr": "<strong>प्रज्ञानघन</strong> = dense mass of consciousness. In deep sleep, all differentiations dissolve. The bliss felt on waking ('I slept so well!') is the natural bliss of the Self, momentarily accessible.",
-    "mt": "Prose",
+    "gr": "<strong>प्रज्ञानघन</strong> — प्रज्ञान (विशुद्ध ज्ञान/चेतना) + घन (सघन पिण्ड, जैसे लोहे का ठोस गोला)। सुषुप्ति में ज्ञाता-ज्ञेय-ज्ञान का त्रैत समाप्त हो जाता है, चेतना एक अविभाज्य पिण्ड रह जाती है। <strong>चेतोमुखः</strong> — चेतस् (चेतना) + मुख (द्वार) = वह अवस्था जो चेतना का प्रवेश-द्वार है; सुषुप्ति से जाग्रत और स्वप्न दोनों में प्रवेश होता है, और सुषुप्ति के पार तुरीय है — अतः प्राज्ञ 'द्वार' है। <strong>आनन्दमयः</strong> — तैत्तिरीय (२.५) के 'आनन्दमय कोश' से तुलना करें — यहाँ आनन्द है पर अज्ञान का आवरण भी है।",
+    "mt": "गद्य — तृतीय पाद। यह मन्त्र सर्वाधिक दीर्घ है क्योंकि सुषुप्ति को परिभाषित करने के लिए सबसे अधिक शब्दों की आवश्यकता है।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "प्राज्ञ = गहरी नींद। सब एकाकार। आनंद है — पर अज्ञान का आवरण है। मोक्ष सुषुप्ति नहीं — तुरीय है जहाँ आनंद और जागरूकता दोनों हैं।",
-        "en": "Prajna = deep sleep. All unified. Bliss is there — but covered by ignorance. Liberation is not deep sleep but turīya where both bliss and awareness are present.",
-        "ins": "सुषुप्ति में आनंद है पर होश नहीं। तुरीय में आनंद भी है और होश भी।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर भाष्य में गम्भीर विश्लेषण करते हैं — सुषुप्ति में आनन्द है किन्तु जागरूकता नहीं, इसलिए यह मोक्ष नहीं है। 'प्रज्ञानघन' = सब विभेद विलीन हो गए — ज्ञाता, ज्ञेय और ज्ञान एक हो गए — जैसे समुद्र में सब नदियाँ मिलकर एक जल बन जाती हैं (प्रश्न ६.५)। किन्तु यहाँ अविद्या का बीज सुरक्षित है — इसीलिए जागने पर पुनः द्वैत प्रकट होता है। गौडपाद कारिका (१.११-१४) कहती है — प्राज्ञ बीज-अवस्था (बीजनिद्रा) है, जैसे वृक्ष बीज में छिपा है। मोक्ष = सुषुप्ति + जागरूकता = तुरीय। बृहदारण्यक (४.३.२२) में याज्ञवल्क्य कहते हैं: 'एष अस्य परम गतिः, एषा परमा सम्पत्' — यह आत्मा का परम लक्ष्य है।",
+        "en": "Shankara's Bhashya provides deep analysis: deep sleep has bliss but no awareness — therefore it is not liberation. 'Prajñānaghana' = all distinctions dissolve — knower, known, and knowledge merge — like rivers losing identity in the ocean (Praśna 6.5). But the seed of ignorance survives, so duality re-emerges upon waking. Gaudapada's Kārikā (1.11-14): Prājña is the seed-state (bīja-nidrā), like a tree hidden in a seed. Liberation = deep sleep + awareness = Turīya. Bṛhadāraṇyaka (4.3.22): Yājñavalkya says 'this is its supreme goal, its highest treasure.'",
+        "ins": "सुषुप्ति में आनन्द है किन्तु बोध नहीं — तुरीय में आनन्द भी है और बोध भी; यही मोक्ष है।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "सुषुप्ति में जीव ईश्वर के सबसे करीब होता है — पर होशपूर्वक नहीं। ध्यान में यही अवस्था होशपूर्वक प्राप्त होती है।",
-        "en": "In deep sleep the soul is closest to God — but not consciously. Meditation is this same state experienced consciously.",
-        "ins": "सुषुप्ति = अनजाने में ईश्वर-सान्निध्य।"
+        "h": "रामानुज की दृष्टि में सुषुप्ति में जीव परमात्मा के सर्वाधिक समीप होता है — किन्तु होशपूर्वक नहीं। जैसे बालक माँ की गोद में सोता है — पर उसे माँ की उपस्थिति का भान नहीं। ध्यान (भक्तियोग) में यही अवस्था होशपूर्वक प्राप्त होती है — तब जीव को ईश्वर-सान्निध्य का साक्षात् अनुभव होता है। श्रीभाष्य में रामानुज कहते हैं — सुषुप्ति में जीव का स्वरूप प्रकट होता है, किन्तु भोग का अभाव होने से यह शरणागति (प्रपत्ति) से भिन्न है। गीता (२.६९): 'या निशा सर्वभूतानां तस्यां जागर्ति संयमी' — जो सबके लिए रात्रि है, उसमें योगी जागता है।",
+        "en": "For Ramanuja, in deep sleep the soul is closest to God — but not consciously. Like a child asleep in the mother's lap, unaware of her presence. In meditation (bhakti-yoga), this same state is achieved consciously — then the soul directly experiences God's proximity. In Śrībhāṣya, Ramanuja says: in deep sleep the soul's true nature shines, but lacking awareness it differs from surrender (prapatti). Gītā (2.69): 'What is night for all beings, in that the disciplined one is awake.'",
+        "ins": "सुषुप्ति = अनजाने में ईश्वर-सान्निध्य; ध्यान = जानबूझकर ईश्वर-सान्निध्य — यही भेद है।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "Deep sleep reveals the natural bliss of the Self — not created but the Self's own nature, accessible when the ego rests.",
-        "en": "Deep sleep reveals the Self's natural bliss — not created but the Self's own nature, momentarily accessible when the ego rests.",
-        "ins": "The happiness we seek outside is the happiness we experience naturally when the ego sleeps."
+        "h": "अरविंद 'दि लाइफ़ डिवाइन' में लिखते हैं — सुषुप्ति आत्मा के स्वाभाविक आनन्द को प्रकट करती है — यह आनन्द बाहर से नहीं आता, यह आत्मा का अपना स्वभाव है जो अहंकार के विश्राम करने पर क्षणभर के लिए प्रकट होता है। 'Letters on Yoga' में वे कहते हैं — गहरी नींद के बाद जो ताज़गी और शान्ति अनुभव होती है, वह आत्मा के आनन्दमय स्वरूप की क्षणिक झलक है। सुषुप्ति = कारण शरीर (causal body) का क्षेत्र — यहाँ सृष्टि के बीज संचित हैं। योगी जो इस अवस्था में सचेत रहता है, वह कारण जगत् को प्रत्यक्ष देखता है — और यही अतिमानसिक (Supramental) चेतना का प्रवेश-द्वार है।",
+        "en": "In 'The Life Divine,' Aurobindo writes: deep sleep reveals the Self's natural bliss — not imported from outside but the Self's own nature, momentarily accessible when the ego rests. In 'Letters on Yoga': the freshness and peace after deep sleep is a fleeting glimpse of the Self's blissful nature. Deep sleep = the domain of the causal body — here the seeds of creation are stored. A yogi who remains conscious in this state directly perceives the causal world — this is the gateway to the Supramental consciousness.",
+        "ins": "जो सुख हम बाहर खोजते हैं — वही सुख हमारे भीतर स्वाभाविक है; अहंकार सोने पर वह अपने आप प्रकट होता है।"
       }
     },
     "dp": [
       {
-        "q": "😴 गहरी नींद के बाद 'बड़ा आनंद मिला' — वह कहाँ से?",
-        "a": "कोई विषय नहीं था, इन्द्रियाँ सक्रिय नहीं थीं — फिर भी आनंद। <strong>शंकर:</strong> यह आत्मा का स्वभाव है जो द्वैत हटने पर प्रकट होता है।"
+        "q": "😴 गहरी नींद के बाद 'बड़ा सुख मिला' — वह कहाँ से आया?",
+        "a": "सुषुप्ति में कोई विषय नहीं था, इन्द्रियाँ सक्रिय नहीं थीं, कोई कामना नहीं थी — फिर भी गहन सुख। <strong>शंकर:</strong> यह आत्मा का स्वभाव-सिद्ध आनन्द है जो द्वैत-भ्रम हटने पर स्वतः प्रकट होता है। <strong>तैत्तिरीय (२.७):</strong> 'आनन्दो ब्रह्मेति व्यजानात्' — उसने जाना कि आनन्द ही ब्रह्म है।"
       },
       {
-        "q": "🔑 'चेतोमुखः' — चेतना का द्वार क्यों?",
-        "a": "सुषुप्ति से जागने पर हम जाग्रत में आते हैं। यानी सुषुप्ति ही द्वार है। <strong>तुरीय</strong> = उस द्वार के पार। सुषुप्ति को होशपूर्वक पार करना = तुरीय-ज्ञान।"
+        "q": "🔑 'चेतोमुखः' — चेतना का द्वार कैसे?",
+        "a": "सुषुप्ति से ही जाग्रत और स्वप्न में प्रवेश होता है — जागना = सुषुप्ति से बाहर आना। और सुषुप्ति के पार तुरीय है। इसलिए प्राज्ञ = द्वार जिसके इस ओर संसार है, उस ओर मोक्ष। <strong>जो इस द्वार को होशपूर्वक पार करता है — वही तुरीय-ज्ञानी है।</strong>"
+      },
+      {
+        "q": "🌊 'प्रज्ञानघन' — सघन चेतना",
+        "a": "जैसे जल जमकर बर्फ़ बन जाता है — सब तरंगें शान्त, एक ठोस पिण्ड — वैसे ही सुषुप्ति में चेतना की सारी वृत्तियाँ विलीन होकर एक अविभाज्य, सघन चेतना-पिण्ड बन जाती हैं। <strong>किन्तु बर्फ़ अभी पिघलेगी — क्योंकि अविद्या का बीज अभी जीवित है।</strong>"
       }
     ]
   },
@@ -367,75 +385,79 @@
     "id": 6,
     "sk": "एष सर्वेश्वर एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम् ॥",
     "ro": "Eṣa sarveśvara eṣa sarvajña eṣo'ntaryāmyeṣa yoniḥ sarvasya prabhavāpyayau hi bhūtānām",
-    "hi": "यही सबका ईश्वर है, यही सर्वज्ञ है, यही अन्तर्यामी है, यही सबका उद्गम है — सभी प्राणियों की उत्पत्ति और लय का कारण।",
+    "hi": "यही सबका ईश्वर है, यही सर्वज्ञ है, यही अन्तर्यामी है, यही सबका मूल उद्गम है — समस्त प्राणियों की उत्पत्ति और प्रलय का कारण।",
     "en": "He is the Lord of all, the omniscient, the inner controller, the source of all — the origin and dissolution of all beings.",
     "ws": [
       {
-        "s": "एष सर्वेश्वरः",
+        "s": "एषः सर्वेश्वरः",
         "h": "यही सबका ईश्वर",
-        "e": "He is Lord of all"
+        "e": "He is the Lord of all"
       },
       {
-        "s": "एष सर्वज्ञः",
-        "h": "यही सर्वज्ञ",
+        "s": "एषः सर्वज्ञः",
+        "h": "यही सर्वज्ञ (सब जानने वाला)",
         "e": "He is omniscient"
       },
       {
-        "s": "एष अन्तर्यामी",
-        "h": "यही अन्तर्यामी",
-        "e": "He is inner controller"
+        "s": "एषः अन्तर्यामी",
+        "h": "यही अन्तर्यामी (भीतर से नियन्त्रित करने वाला)",
+        "e": "He is the inner controller"
       },
       {
-        "s": "एष योनिः",
-        "h": "यही उद्गम",
-        "e": "He is the source"
+        "s": "एषः योनिः सर्वस्य",
+        "h": "यही सबका मूल स्रोत",
+        "e": "He is the source of all"
       },
       {
         "s": "प्रभव-अप्ययौ",
-        "h": "उत्पत्ति और लय",
+        "h": "उत्पत्ति और प्रलय",
         "e": "origin and dissolution"
       },
       {
         "s": "भूतानाम्",
-        "h": "सभी प्राणियों का",
+        "h": "समस्त प्राणियों का",
         "e": "of all beings"
       }
     ],
-    "gr": "Prajna (individual deep sleep consciousness) = Ishvara (cosmic consciousness). This is the microcosm-macrocosm equivalence — the Prajna of the individual IS the Ishvara of the cosmos.",
-    "mt": "Prose",
+    "gr": "<strong>अन्तर्यामी</strong> — अन्तर् (भीतर) + यामी (नियन्त्रक)। बृहदारण्यक (३.७.१-२३) में अन्तर्यामी-ब्राह्मण विस्तार से बताता है — जो पृथिवी में रहकर पृथिवी को नियन्त्रित करता है, जिसे पृथिवी नहीं जानती — वही अन्तर्यामी है। यह सूत्र प्रत्येक तत्त्व के लिए दोहराया गया है — जल, अग्नि, वायु, आकाश, आत्मा तक। <strong>योनिः</strong> — जन्म-स्थान, उद्गम। <strong>प्रभवाप्ययौ</strong> — प्रभव (उत्पत्ति) + अप्यय (प्रलय/लय)। यह मन्त्र व्यष्टि (individual) प्राज्ञ को समष्टि (cosmic) ईश्वर से जोड़ता है — microcosm = macrocosm।",
+    "mt": "गद्य — यह मन्त्र प्राज्ञ (व्यक्तिगत तृतीय पाद) और ईश्वर (ब्रह्माण्डीय तृतीय पाद) का सामरस्य स्थापित करता है।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "प्राज्ञ = व्यक्तिगत सुषुप्ति। ईश्वर = सार्वभौमिक प्राज्ञ। दोनों एक। यह microcosm-macrocosm equivalence है।",
-        "en": "Prajna = individual deep sleep. Ishvara = universal Prajna. Both are one. This is the microcosm-macrocosm equivalence.",
-        "ins": "जो व्यक्ति में सोने पर अनुभव होता है — वही ब्रह्मांड में ईश्वर है।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर भाष्य में कहते हैं — प्राज्ञ = व्यक्तिगत सुषुप्ति-चेतना; ईश्वर = सार्वभौमिक प्राज्ञ। दोनों एक ही हैं — जैसे घट-आकाश और महाकाश एक ही आकाश हैं (छान्दोग्य ३.१२.७-९)। 'सर्वेश्वर' = सब का शासक; 'सर्वज्ञ' = सर्वव्यापी ज्ञान; 'अन्तर्यामी' = भीतर से नियन्ता। ये तीन विशेषण ईश्वर के तीन पक्ष हैं — शक्ति, ज्ञान, नियन्त्रण। गौडपाद कारिका (१.६-९) में स्पष्ट करते हैं — ईश्वर माया का अधिष्ठाता है; जीव अविद्या का। दोनों तत्त्वतः ब्रह्म ही हैं — भेद उपाधिजन्य है, वास्तविक नहीं। ब्रह्मसूत्र (१.१.२): 'जन्माद्यस्य यतः' — जिससे सृष्टि, स्थिति, प्रलय होती है — वही ब्रह्म है।",
+        "en": "Shankara's Bhashya: Prājña = individual sleep-consciousness; Īśvara = universal Prājña — both are identical, like pot-space and infinite space being one (Chāndogya 3.12.7-9). 'Sarveśvara' = ruler of all; 'sarvajña' = omniscient; 'antaryāmī' = inner controller — three aspects of Īśvara: power, knowledge, governance. Gaudapada (Kārikā 1.6-9): Īśvara presides over māyā; jīva over avidyā — both are essentially Brahman, the difference is due to limiting adjuncts, not real. Brahmasūtra (1.1.2): 'janmādyasya yataḥ' — from whom arise creation, sustenance, dissolution — that is Brahman.",
+        "ins": "जो व्यक्ति की सुषुप्ति में अनुभव होता है — वही ब्रह्माण्ड में ईश्वर-तत्त्व है; घड़े का आकाश और आकाश — एक ही।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "ईश्वर = सर्वेश्वर, सर्वज्ञ, अन्तर्यामी। यही प्राज्ञ का cosmic counterpart है।",
-        "en": "Ishvara = Lord of all, omniscient, inner controller. The cosmic counterpart of Prajna.",
-        "ins": "अन्तर्यामी ईश्वर सब के भीतर है।"
+        "h": "रामानुज के लिए यह मन्त्र अत्यन्त महत्वपूर्ण है — यह सीधे ईश्वर के स्वरूप का वर्णन करता है। 'सर्वेश्वर' = सर्वशक्तिमान् परमात्मा; 'सर्वज्ञ' = जो सब जानता है (विष्णुसहस्रनाम: 'सर्वज्ञः सर्ववित्'); 'अन्तर्यामी' = हर जीव के हृदय में विराजमान (गीता १८.६१: 'ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति')। वेदार्थसंग्रह में रामानुज बल देते हैं — ईश्वर केवल सृष्टिकर्ता नहीं, वह प्रत्येक प्राणी के भीतर उसके सबसे अन्तरंग साथी के रूप में विद्यमान है। बृहदारण्यक अन्तर्यामी-ब्राह्मण (३.७) रामानुज के विशिष्टाद्वैत का मूल प्रमाण है — ईश्वर = शरीरी, जगत् = शरीर।",
+        "en": "For Ramanuja, this mantra is paramount — it directly describes God's nature. 'Sarveśvara' = omnipotent Lord; 'sarvajña' = omniscient (Vishnu Sahasranāma: 'sarvajñaḥ sarvavit'); 'antaryāmī' = residing in every heart (Gītā 18.61: 'The Lord dwells in the hearts of all beings'). In Vedarthasangraha, Ramanuja emphasizes: God is not only the creator — He exists within every being as the most intimate companion. Bṛhadāraṇyaka's Antaryāmī-brāhmaṇa (3.7) is the foundational proof for Ramanuja's Viśiṣṭādvaita — God = the inner Self (śarīrī), world = body (śarīra).",
+        "ins": "ईश्वर बाहर कहीं दूर नहीं — वह तुम्हारे हृदय में अन्तर्यामी रूप में अभी विद्यमान है।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "Individual and cosmic meet in this state of pure consciousness. The Supramental is the cosmic Prajna.",
-        "en": "Individual and cosmic meet in pure consciousness. The Supramental is the cosmic Prajna — divine Intelligence behind all manifestation.",
-        "ins": "When individual consciousness rests, it touches cosmic consciousness."
+        "h": "अरविंद 'दि लाइफ़ डिवाइन' में लिखते हैं — व्यक्ति और विश्व इस शुद्ध चेतना की अवस्था में मिलते हैं। अतिमानसिक चेतना (Supermind) वह ब्रह्माण्डीय प्राज्ञ है — जो समस्त सृष्टि के पीछे दिव्य बुद्धि (divine Intelligence) के रूप में कार्यरत है। 'अन्तर्यामी' = वह चेतन शक्ति जो पदार्थ के प्रत्येक कण में, प्राण की प्रत्येक धड़कन में, मन के प्रत्येक विचार में सक्रिय है। 'दि सीक्रेट ऑफ़ दि वेद' में अरविंद कहते हैं — 'योनिः सर्वस्य' = ईश्वर न केवल सृष्टि का कारण है, अपितु सृष्टि उसके भीतर है जैसे तरंगें समुद्र में। यह व्यक्ति-चेतना और विश्व-चेतना का मिलन-बिन्दु है।",
+        "en": "In 'The Life Divine,' Aurobindo writes: individual and cosmic meet in this state of pure consciousness. The Supramental is the cosmic Prājña — divine Intelligence active behind all manifestation. 'Antaryāmī' = the conscious force active in every particle of matter, every pulse of life, every thought of mind. In 'The Secret of the Veda': 'yoniḥ sarvasya' = God is not only the cause of creation but creation exists within Him as waves in the ocean. This is the meeting-point of individual consciousness and cosmic consciousness.",
+        "ins": "जब व्यक्ति-चेतना विश्राम करती है, तब वह विश्व-चेतना को स्पर्श करती है — यही ध्यान का रहस्य है।"
       }
     },
     "dp": [
       {
-        "q": "🌌 व्यक्ति का प्राज्ञ = ब्रह्मांड का ईश्वर?",
-        "a": "हाँ — यही माण्डूक्य का bold statement है। गहरी नींद में व्यक्ति जो आनंद अनुभव करता है — वही आनंद cosmic ईश्वर का स्वभाव है। <strong>Microcosm = Macrocosm।</strong>"
+        "q": "🌌 व्यक्ति का प्राज्ञ = ब्रह्माण्ड का ईश्वर?",
+        "a": "हाँ — यही माण्डूक्य का साहसिक वचन है। गहरी नींद में व्यक्ति जो एकत्व-आनन्द अनुभव करता है — वही आनन्द ब्रह्माण्डीय ईश्वर का स्वभाव है। <strong>Microcosm = Macrocosm</strong> — जैसे एक बूँद में सम्पूर्ण सागर का गुण है, वैसे ही एक जीव में सम्पूर्ण ईश्वर-तत्त्व है।"
+      },
+      {
+        "q": "📖 बृहदारण्यक का अन्तर्यामी-ब्राह्मण (३.७)",
+        "a": "उद्दालक आरुणि ने याज्ञवल्क्य से पूछा — अन्तर्यामी कौन? याज्ञवल्क्य ने बताया: जो पृथिवी में रहकर पृथिवी को चलाता है, जिसे पृथिवी नहीं जानती — <strong>तेरा आत्मा, भीतर का नियन्ता, अमृत।</strong> यही अन्तर्यामी-विद्या है — वेदान्त का हृदय।"
       }
     ]
   },
   {
     "id": 7,
     "sk": "नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम् ।\nअदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥",
-    "ro": "Nāntaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥprajñaṃ na prajñānaghanaṃ na prajñaṃ nāprajñam · adṛṣṭamavyavahāryamagṛāhyamalakṣaṇamacintyamavyapadeśyamekātmapratyayasāraṃ prapañcopaśamaṃ śāntaṃ śivamadvaitaṃ caturthaṃ manyante sa ātmā sa vijñeyaḥ",
-    "hi": "न भीतरी चेतना वाला, न बाहरी, न दोनों ओर की, न प्रज्ञान का घन, न सचेत, न अचेत। अदृष्ट, अव्यवहार्य, अग्राह्य, अलक्षण, अचिंत्य, अव्यपदेश्य — एकात्म-प्रत्यय का सार, प्रपंच-रहित, शांत, शिव, अद्वैत — वह चौथा है। वही आत्मा है, वही जानने योग्य है।",
-    "en": "Not inward-knowing, not outward-knowing, not both, not a mass of knowing, not knowing, not unknowing. Unseen, beyond transaction, ungrasped, without marks, unthinkable, unnameable — whose essence is the certainty of the one Self, the cessation of all phenomena, the peaceful, the auspicious, the non-dual — this is the fourth. He is the Self. He is to be known.",
+    "ro": "Nāntaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥprajñaṃ na prajñānaghanaṃ na prajñaṃ nāprajñam · adṛṣṭamavyavahāryamagrāhyamalakṣaṇamacintyamavyapadeśyamekātmapratyayasāraṃ prapañcopaśamaṃ śāntaṃ śivamadvaitaṃ caturthaṃ manyante sa ātmā sa vijñeyaḥ",
+    "hi": "न भीतरी चेतना वाला, न बाहरी चेतना वाला, न दोनों ओर की चेतना वाला, न चेतना का सघन पिण्ड, न सचेत, न अचेत। अदृष्ट, अव्यवहार्य, अग्राह्य, अलक्षण, अचिन्त्य, अव्यपदेश्य — एकात्म-प्रत्यय का सार, प्रपञ्च का उपशम, शान्त, शिव, अद्वैत — वह चौथा है, ऐसा मानते हैं। वही आत्मा है, वही जानने योग्य है।",
+    "en": "Not inward-conscious, not outward-conscious, not conscious both ways, not a mass of consciousness, not conscious, not unconscious. Unseen, beyond transaction, ungraspable, without marks, unthinkable, unnameable — the essence of the certainty of the one Self, the cessation of all phenomena, the peaceful, the auspicious, the non-dual — this is the fourth, so they hold. He is the Self. He is to be known.",
     "ws": [
       {
         "s": "न अन्तःप्रज्ञम्",
@@ -454,294 +476,388 @@
       },
       {
         "s": "अव्यवहार्यम्",
-        "h": "व्यवहार से परे",
+        "h": "व्यवहार (लेनदेन) से परे",
         "e": "beyond transaction"
       },
       {
         "s": "अग्राह्यम्",
-        "h": "ग्रहण न किया जाए",
-        "e": "ungrasped"
+        "h": "जो पकड़ा न जा सके",
+        "e": "ungraspable"
       },
       {
         "s": "अलक्षणम्",
-        "h": "लक्षण-रहित",
-        "e": "without marks"
+        "h": "लक्षण-रहित (चिह्नहीन)",
+        "e": "without marks or characteristics"
       },
       {
         "s": "अचिन्त्यम्",
-        "h": "सोचा न जाए",
+        "h": "जो सोचा न जा सके",
         "e": "unthinkable"
       },
       {
+        "s": "अव्यपदेश्यम्",
+        "h": "जो शब्दों में कहा न जा सके",
+        "e": "unnameable, indescribable"
+      },
+      {
+        "s": "एकात्मप्रत्ययसारम्",
+        "h": "एक आत्मा की निश्चयात्मक अनुभूति का सार",
+        "e": "essence of the certainty of the one Self"
+      },
+      {
+        "s": "प्रपञ्चोपशमम्",
+        "h": "प्रपञ्च (नाम-रूप-जगत्) का उपशम (शान्ति)",
+        "e": "cessation of all phenomena"
+      },
+      {
         "s": "शान्तम्",
-        "h": "शांत",
-        "e": "peaceful"
+        "h": "शान्त — सब द्वन्द्वों का विश्राम",
+        "e": "peaceful, where all dualities rest"
       },
       {
         "s": "शिवम्",
-        "h": "कल्याणमय",
-        "e": "auspicious"
+        "h": "शिव — परम कल्याणकारी",
+        "e": "auspicious, the supremely beneficent"
       },
       {
         "s": "अद्वैतम्",
-        "h": "अद्वैत",
-        "e": "non-dual"
-      },
-      {
-        "s": "चतुर्थम्",
-        "h": "चौथा",
-        "e": "the fourth"
+        "h": "अद्वैत — जहाँ दो नहीं",
+        "e": "non-dual, where there is no second"
       }
     ],
-    "gr": "The most important mantra of Mandukya — Turīya described through <strong>neti-neti</strong>. Six negations remove wrong ideas; then six positive terms point toward it. शांत-शिव-अद्वैत = the three positive descriptors of what cannot be described.",
-    "mt": "Prose",
+    "gr": "माण्डूक्य का सर्वाधिक महत्वपूर्ण मन्त्र — तुरीय का नेति-नेति विधि से वर्णन। <strong>छह नकारात्मक (नेति):</strong> तीन अवस्थाओं (बहिःप्रज्ञ, अन्तःप्रज्ञ, उभयतःप्रज्ञ) + तीन सम्भावित भ्रम (प्रज्ञानघन, प्रज्ञ, अप्रज्ञ) — कुल छह 'नहीं' से सब मिथ्या धारणाएँ नष्ट की गईं। <strong>छह अवर्णनीयता-विशेषण:</strong> अदृष्ट (इन्द्रियातीत), अव्यवहार्य (लौकिक प्रयोजन से परे), अग्राह्य (बुद्धि से पकड़ा न जा सके), अलक्षण (कोई चिह्न नहीं), अचिन्त्य (विचार से परे), अव्यपदेश्य (शब्दातीत)। <strong>तीन सकारात्मक संकेत:</strong> शान्त, शिव, अद्वैत — जो वर्णन नहीं किया जा सकता, उसकी ओर ये तीन अँगुलियाँ इशारा करती हैं। बृहदारण्यक (२.३.६): 'नेति नेति — अतो अन्यद् अर्ति' — यही नेति-नेति विधि का मूल है।",
+    "mt": "गद्य — यह मन्त्र माण्डूक्य का हृदय है; गौडपाद ने सम्पूर्ण तृतीय प्रकरण (अद्वैत-प्रकरण) इसी मन्त्र की व्याख्या में लिखा।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "यह माण्डूक्य का हृदय है। तुरीय को नेति-नेति से describe किया — क्योंकि यह किसी category में नहीं आता। शांत, शिव, अद्वैत — ये तीन positive शब्द पर्याप्त हैं।",
-        "en": "This is the heart of Mandukya. Turīya described through neti-neti — it fits no category. Peaceful, auspicious, non-dual — three positive words that point.",
-        "ins": "तुरीय कोई अवस्था नहीं — वह साक्षी है जो तीनों अवस्थाओं को देखता है।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर कहते हैं — यह माण्डूक्य का हृदय-मन्त्र है। तुरीय को नेति-नेति से वर्णित किया क्योंकि यह किसी भी बौद्धिक कोटि (category) में नहीं आता — यह ज्ञाता नहीं, ज्ञेय नहीं, ज्ञान नहीं — यह इन तीनों का अधिष्ठान है। गौडपाद कारिका (३.३२-३६) में सम्पूर्ण अद्वैत-प्रकरण इसी की व्याख्या है: 'न कश्चिज्जायते जीवः, सम्भवस्य न विद्यते, एतत्तदुत्तमं सत्यं यत्र किञ्चिन्न जायते' — कोई जीव उत्पन्न नहीं होता, उत्पत्ति की सम्भावना ही नहीं, यही परम सत्य है जहाँ कुछ भी उत्पन्न नहीं होता (अजातिवाद)। शान्त = सब द्वन्द्व जहाँ विश्राम पाते हैं; शिव = परम मंगल; अद्वैत = जहाँ भेद का लेशमात्र भी नहीं। बृहदारण्यक (३.९.२६): 'तत्त्वमसि' की भाँति यह भी सीधा अनुभव-वाक्य है।",
+        "en": "Shankara says this is Mandukya's heart-mantra. Turīya is described through neti-neti because it fits no intellectual category — not the knower, not the known, not knowledge — it is the substratum of all three. Gaudapada's entire third prakaraṇa (Advaita) expounds this: Kārikā (3.32-36): 'No jīva is ever born; birth itself is impossible; this is the supreme truth where nothing whatsoever arises' (ajāti-vāda — the doctrine of non-origination). Śānta = where all dualities rest; Śiva = supreme auspiciousness; Advaita = where not even a trace of duality exists. Like 'tat tvam asi,' this is a direct experience-statement.",
+        "ins": "तुरीय कोई चौथी अवस्था नहीं — वह वह साक्षी है जो तीनों अवस्थाओं में अपरिवर्तित रहता है, जैसे रंगमंच नाटक से अप्रभावित।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "तुरीय = ईश्वर का परम स्वरूप। न सगुण, न निर्गुण — पर दोनों का आधार। शांत, शिव — ये ईश्वर के नाम हैं।",
-        "en": "Turīya = God's supreme nature. Neither saguna nor nirguna — but the ground of both.",
-        "ins": "तुरीय में ईश्वर और भक्त का भेद नहीं।"
+        "h": "रामानुज की दृष्टि में तुरीय = ईश्वर का परम स्वरूप जो सगुण और निर्गुण दोनों से परे किन्तु दोनों का आधार है। नकारात्मक विशेषण माया के स्तर पर ईश्वर के अवर्णनीय होने को इंगित करते हैं — किन्तु 'शान्त', 'शिव' ये ईश्वर के सकारात्मक नाम हैं, विष्णुसहस्रनाम में दोनों विष्णु के नाम हैं। वेदार्थसंग्रह में रामानुज कहते हैं — ईश्वर का स्वरूप अचिन्त्य (अद्भुत) है, किन्तु उसकी कृपा से भक्त को प्रत्यक्ष दर्शन होता है। गीता (११.५४): 'भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन' — केवल अनन्य भक्ति से मैं इस रूप में जाना जा सकता हूँ। तुरीय में ईश्वर और भक्त का भेद विलीन नहीं होता — भक्त ईश्वर की अनन्त कृपा में डूबा रहता है।",
+        "en": "For Ramanuja, Turīya = God's supreme nature transcending both saguṇa and nirguṇa yet being the ground of both. The negative epithets indicate God's indescribability at the māyā level — but 'śānta' and 'śiva' are positive divine names, both names of Vishnu in the Sahasranāma. In Vedarthasangraha, Ramanuja says: God's nature is acintyā (beyond thought), yet through grace the devotee receives direct vision. Gītā (11.54): 'Only by undivided devotion can I be known in this form.' In Turīya, the distinction between God and devotee does not dissolve — the devotee is immersed in God's infinite grace.",
+        "ins": "तुरीय में ईश्वर और भक्त का भेद मिटता नहीं — वह प्रेम की चरम अवस्था है जहाँ भक्त ईश्वर में डूबा रहता है।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "Turīya is the Supramental — not a trance but full consciousness beyond the three states. It is the witness that observes all three.",
-        "en": "Turīya is the Supramental — not a trance but full consciousness beyond three states. The witness that observes all three.",
-        "ins": "Turīya is not the fourth state — it is the awareness in which the three states appear."
+        "h": "अरविंद 'दि लाइफ़ डिवाइन' में लिखते हैं — तुरीय अतिमानसिक (Supramental) चेतना है — न समाधि, न जड़ता, अपितु तीनों अवस्थाओं से परे पूर्ण चेतना। यह वह साक्षी है जो तीनों को देखता है — जैसे रंगमंच पर नाटक बदलता है किन्तु रंगमंच स्थिर रहता है। 'Letters on Yoga' में वे कहते हैं — तुरीय प्राप्त करने का अर्थ संसार-त्याग नहीं बल्कि संसार में रहते हुए साक्षी-भाव (witness consciousness) में स्थित होना। 'दि सिन्थेसिस ऑफ़ योग' में: 'शान्तं शिवम् अद्वैतम्' = शान्ति, कल्याण और अद्वैत — ये तीन गुण नहीं, बल्कि तुरीय का स्वभाव है — जैसे जल का स्वभाव तरलता है। जो इसे जानता है — वह जीवनमुक्त है।",
+        "en": "In 'The Life Divine,' Aurobindo writes: Turīya is the Supramental consciousness — not trance, not inertia, but full consciousness beyond three states. It is the witness observing all three — like the stage that remains unchanged while plays change upon it. In 'Letters on Yoga': realizing Turīya does not mean renouncing the world but abiding in witness-consciousness while living in the world. In 'The Synthesis of Yoga': 'śāntaṃ śivam advaitam' = peace, auspiciousness, non-duality — these are not qualities added to Turīya but its very nature, as fluidity is water's nature. One who knows this is liberated while living.",
+        "ins": "तुरीय चौथी अवस्था नहीं — वह वह जागरूकता है जिसमें तीनों अवस्थाएँ प्रकट होती हैं और विलीन होती हैं।"
       }
     },
     "dp": [
       {
-        "q": "🔇 'अव्यपदेश्यम्' — शब्दों से न कहा जाए?",
-        "a": "हाँ। तुरीय को define नहीं किया जा सकता — क्योंकि define करने वाला mind है, और mind तुरीय में नहीं पहुँच सकता। इसीलिए ऋषि <strong>पहले छह बार 'नहीं' कहते हैं</strong> — ताकि मन रुक जाए।"
+        "q": "🔇 'अव्यपदेश्यम्' — शब्दों से क्यों नहीं कहा जा सकता?",
+        "a": "शब्द मन का उपकरण है — और मन तुरीय में नहीं पहुँच सकता। जो सोचा जा सके वह 'अचिन्त्य' नहीं; जो बोला जा सके वह 'अव्यपदेश्य' नहीं। इसीलिए ऋषि <strong>पहले छह बार 'नहीं' कहते हैं</strong> — ताकि मन अपनी सारी कोटियाँ (categories) छोड़ दे — और जो बचे, वही तुरीय है।"
       },
       {
-        "q": "☮️ शांत-शिव-अद्वैत — ये तीन शब्द ही क्यों?",
-        "a": "तुरीय के बारे में positive में तीन ही कहा जा सकता है: (१) <strong>शांत</strong> = सब द्वंद्व जहाँ विश्राम पाते हैं। (२) <strong>शिव</strong> = परम कल्याण। (३) <strong>अद्वैत</strong> = जहाँ दो नहीं।"
+        "q": "☮️ शान्त-शिव-अद्वैत — ये तीन शब्द ही क्यों?",
+        "a": "तुरीय के बारे में सकारात्मक रूप में केवल तीन ही कहा जा सकता है: (१) <strong>शान्त</strong> = सुख-दुःख, हानि-लाभ, जय-पराजय — सब द्वन्द्व जहाँ विश्राम पाते हैं। (२) <strong>शिव</strong> = परम कल्याण, परम मंगल — कोई दुःख सम्भव नहीं। (३) <strong>अद्वैत</strong> = जहाँ 'दो' ही नहीं — न ज्ञाता-ज्ञेय, न कर्ता-कर्म, न भक्त-भगवान्।"
       },
       {
-        "q": "🧘 तुरीय कोई 'अवस्था' नहीं",
-        "a": "जाग्रत, स्वप्न, सुषुप्ति — तीन अवस्थाएँ हैं। तुरीय 'चौथी अवस्था' नहीं — <strong>यह वह साक्षी है जो तीनों को देखता है।</strong> जैसे पर्दा नाटक में नहीं जाता — पर नाटक उसी पर होता है।"
+        "q": "🧘 तुरीय 'चौथी अवस्था' नहीं",
+        "a": "जाग्रत, स्वप्न, सुषुप्ति — तीन अवस्थाएँ हैं जो आती-जाती हैं। तुरीय उनके बीच 'चौथी' अवस्था नहीं — <strong>यह वह अपरिवर्तनीय साक्षी है जो तीनों को देखता है।</strong> जैसे पर्दा नाटक में प्रवेश नहीं करता — किन्तु नाटक उसी पर प्रदर्शित होता है। गौडपाद कारिका (३.३६): 'अजमनिद्रमस्वप्नम्' — अजन्मा, निद्रारहित, स्वप्नरहित — यही तुरीय है।"
       }
     ]
   },
   {
     "id": 8,
-    "sk": "ओमित्येतदक्षरमिदं सर्वम् — अ उ म इति ॥\nजागरितस्थानो वैश्वानरः अकार उत्क्रमेण सम्पद्यते ।",
-    "ro": "Omityetadakṣaramidaṃ sarvam — a u m iti · jāgaritasthāno vaiśvānaraḥ akāra utkrameṇa sampadyate",
-    "hi": "ओम् — यह अक्षर यह सब कुछ है। इसका विश्लेषण: अ, उ और म। जाग्रत-अवस्था वैश्वानर — अ-मात्रा — व्यापकता और आदित्व के कारण।",
-    "en": "OM — this syllable is all this. Its analysis: A, U, and M. Vaishvanara of the waking state is A — first measure — because of its pervasiveness and being the first.",
+    "sk": "सोऽयमात्माऽध्यक्षरमोंकारोऽधिमात्रं पादा मात्रा मात्राश्च पादा अकार उकारो मकार इति ॥",
+    "ro": "So'yamātmā'dhyakṣaramomkāro'dhimātraṃ pādā mātrā mātrāśca pādā akāra ukāro makāra iti",
+    "hi": "वही यह आत्मा अक्षर की दृष्टि से ओंकार है, मात्राओं की दृष्टि से — पाद ही मात्राएँ हैं और मात्राएँ ही पाद हैं — अकार, उकार, मकार।",
+    "en": "This very Self, from the standpoint of the syllable, is OM. From the standpoint of the measures — the quarters are the measures and the measures are the quarters — A, U, M.",
     "ws": [
       {
-        "s": "ओम् इति",
-        "h": "ओम् — यह",
-        "e": "OM — this"
+        "s": "सः अयम् आत्मा",
+        "h": "वही यह आत्मा",
+        "e": "this very Self"
       },
       {
-        "s": "अक्षरम्",
-        "h": "अक्षर",
-        "e": "syllable, imperishable"
+        "s": "अधि अक्षरम्",
+        "h": "अक्षर की दृष्टि से",
+        "e": "from the standpoint of the syllable"
       },
       {
-        "s": "अ-उ-म",
-        "h": "तीन मात्राएँ",
-        "e": "three measures: A, U, M"
+        "s": "ओंकारः",
+        "h": "ओंकार है",
+        "e": "is OM"
       },
       {
-        "s": "वैश्वानरः",
-        "h": "वैश्वानर — जाग्रत",
-        "e": "Vaishvanara — waking"
+        "s": "अधि मात्रम्",
+        "h": "मात्रा की दृष्टि से",
+        "e": "from the standpoint of measures"
       },
       {
-        "s": "अकारः",
-        "h": "अ-कार",
-        "e": "the A-element"
+        "s": "पादाः मात्राः",
+        "h": "पाद ही मात्राएँ हैं",
+        "e": "the quarters are the measures"
       },
       {
-        "s": "उत्क्रमेण",
-        "h": "व्यापकता के कारण",
-        "e": "because of pervasiveness"
+        "s": "अकारः उकारः मकारः",
+        "h": "अ, उ, म",
+        "e": "A, U, M"
       }
     ],
-    "gr": "The Upanishad now maps OM's three sounds (A, U, M) to the three states. <strong>अ</strong> = first letter, ground of all speech, just as the waking state is ground of all experience. Silence after M = Turīya.",
-    "mt": "Prose",
+    "gr": "यह मन्त्र दो समानान्तर संरचनाओं (parallel structures) को जोड़ता है: <strong>चेतना के चार पाद</strong> (मन्त्र ३-७ में वर्णित) = <strong>OM की तीन मात्राएँ + मौन</strong>। पाद = मात्रा, मात्रा = पाद — यह दोतरफ़ा समीकरण है (bidirectional mapping)। <strong>अकार</strong> = वर्णमाला का प्रथम वर्ण, जैसे जाग्रत अनुभव का आधार है; <strong>उकार</strong> = मध्यवर्ती, जैसे स्वप्न जाग्रत और सुषुप्ति के बीच; <strong>मकार</strong> = ओष्ठ बन्द करने वाला अन्तिम वर्ण, जैसे सुषुप्ति सब को समेट लेती है। चतुर्थ मात्रा = मौन (अमात्र) = तुरीय — OM के बाद जो निःशब्दता है।",
+    "mt": "गद्य — यह मन्त्र OM-विश्लेषण श्रृंखला (मन्त्र ८-११) का प्रारम्भ है।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "OM के तीन अक्षर = तीन पाद। OM के बाद का मौन = तुरीय। यह systematic mapping है।",
-        "en": "OM's three sounds = three quarters. Silence after OM = turīya. Systematic mapping of sound and consciousness.",
-        "ins": "OM में पूरा ब्रह्मांड समाया है।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर कहते हैं — अब उपनिषद् OM और आत्मा के बीच प्रत्यय-प्रत्यय सम्बन्ध (systematic mapping) स्थापित करती है। OM के तीन अक्षर = चेतना के तीन पाद। OM के बाद का मौन = तुरीय। गौडपाद कारिका (१.१९-२३) में इसे विस्तार से समझाते हैं: 'अकारो नयते विश्वमुकारस्तैजसं तथा, मकारश्च पुनः प्राज्ञं नामात्रे विद्यते गतिः' — अ विश्व (वैश्वानर) को ले जाता है, उ तैजस को, म प्राज्ञ को; अमात्र (मौन) में कोई गति नहीं — वह स्वयं गन्तव्य है। यह OM-ध्यान की विधि है — ध्वनि से मौन की ओर, जगत् से ब्रह्म की ओर।",
+        "en": "Shankara says the Upanishad now establishes a systematic mapping between OM and the Self. OM's three sounds = three quarters of consciousness. Silence after OM = Turīya. Gaudapada's Kārikā (1.19-23) explains in detail: 'akāro nayate viśvam ukārastaijasaṃ tathā, makāraśca punaḥ prājñaṃ nāmātre vidyate gatiḥ' — A leads to Vishva (Vaishvanara), U to Taijasa, M to Prājña; in Amātra (silence) there is no movement — it is the destination itself. This is the method of OM-meditation: from sound to silence, from the world to Brahman.",
+        "ins": "OM बोलो — ध्वनि में जगत् है; OM के बाद जो मौन है — उसमें ब्रह्म है।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "OM = ईश्वर का नाम। उसके तीन अक्षर उसकी तीन शक्तियों के प्रतीक हैं: सृष्टि, स्थिति, लय।",
-        "en": "OM = God's name. Its three letters symbolize His three powers: creation, sustenance, dissolution.",
-        "ins": "OM के तीन अक्षर = सृष्टि, स्थिति, लय।"
+        "h": "रामानुज के अनुसार OM = ईश्वर का पवित्रतम नाम जो तीन अक्षरों में उसकी तीन शक्तियों को प्रकट करता है: अ = सृष्टि-शक्ति (ब्रह्मा), उ = पालन-शक्ति (विष्णु), म = संहार-शक्ति (शिव)। तीनों शक्तियाँ एक ही परमात्मा की हैं। वेदार्थसंग्रह में रामानुज OM को 'तारक-मन्त्र' कहते हैं — जो भवसागर से तारता है। विष्णुपुराण (६.५.७९) में: 'ओमिति ब्रह्म परमं' — OM ही परम ब्रह्म है। गीता (८.१३): 'ॐ इत्येकाक्षरं ब्रह्म व्याहरन् मामनुस्मरन्, यः प्रयाति त्यजन् देहं स याति परमां गतिम्' — OM का उच्चारण करते हुए, मुझे स्मरण करते हुए जो शरीर छोड़ता है — वह परमगति को प्राप्त होता है।",
+        "en": "For Ramanuja, OM = God's most sacred name revealing His three powers through three letters: A = creative power (Brahmā), U = sustaining power (Vishnu), M = dissolving power (Shiva). All three are powers of one Supreme. In Vedarthasangraha, Ramanuja calls OM the 'tāraka-mantra' — which ferries across the ocean of existence. Vishnu Purāṇa (6.5.79): 'Omiti brahma paramaṃ' — OM is the supreme Brahman. Gītā (8.13): 'Uttering OM, the one-syllabled Brahman, remembering Me, he who departs leaving the body attains the supreme goal.'",
+        "ins": "OM के तीन अक्षर = ईश्वर की सृष्टि, पालन और संहार — तीन शक्तियाँ, एक परमात्मा।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "OM is a complete cosmological and psychological map. A = consciousness-in-matter, U = consciousness-in-mind, M = consciousness-in-bliss, Silence = pure consciousness.",
-        "en": "OM is a complete map. A = consciousness-in-matter, U = consciousness-in-mind, M = consciousness-in-bliss, Silence = pure consciousness.",
-        "ins": "OM contains within itself the complete science of consciousness."
+        "h": "अरविंद 'दि अपनिषद्स्' में लिखते हैं — OM एक सम्पूर्ण ब्रह्माण्डीय और मनोवैज्ञानिक मानचित्र है। अ = पदार्थ में चेतना (consciousness in matter), उ = मन में चेतना (consciousness in mind), म = आनन्द में चेतना (consciousness in bliss), मौन = शुद्ध चेतना (pure consciousness)। यह केवल प्रतीक-व्यवस्था नहीं — यह ध्यान-विधि है। 'Letters on Yoga' में वे कहते हैं — OM का उच्चारण करते समय चेतना स्वाभाविक रूप से स्थूल से सूक्ष्म की ओर, सूक्ष्म से कारण की ओर, और कारण से तुरीय की ओर गति करती है। यह चेतना की स्वाभाविक ऊर्ध्वगति (ascending movement) है — जो OM की ध्वनि-संरचना में निहित है।",
+        "en": "In 'The Upanishads,' Aurobindo writes: OM is a complete cosmological and psychological map. A = consciousness-in-matter, U = consciousness-in-mind, M = consciousness-in-bliss, Silence = pure consciousness. This is not merely a symbolic system — it is a meditation method. In 'Letters on Yoga': while chanting OM, consciousness naturally moves from gross to subtle, subtle to causal, causal to Turīya. This ascending movement of consciousness is inherent in OM's very sound-structure.",
+        "ins": "OM में चेतना-विज्ञान का सम्पूर्ण मानचित्र समाया है — ध्वनि से मौन तक की यात्रा ही योग है।"
       }
     },
     "dp": [
       {
-        "q": "🎵 A-U-M का precise meaning",
-        "a": "<strong>अ (A)</strong>: सबसे पहला व्यंजन — पेट से। जाग्रत = physical world। <strong>उ (U)</strong>: मध्य — छाती से। स्वप्न = subtle world। <strong>म (M)</strong>: अंतिम — होंठ बंद। सुषुप्ति = causal world। <strong>मौन</strong>: तुरीय = pure awareness।"
+        "q": "🎵 A-U-M का सटीक अर्थ",
+        "a": "<strong>अ (A)</strong>: मुख का सबसे पहला वर्ण — उदर से उत्पन्न। जाग्रत = भौतिक जगत् — सब अनुभवों का आधार। <strong>उ (U)</strong>: मध्यवर्ती — वक्ष में। स्वप्न = सूक्ष्म जगत् — ऊर्ध्वगामी। <strong>म (M)</strong>: ओष्ठ बन्द — अन्तिम व्यंजन। सुषुप्ति = कारण जगत् — सब समेटता है। <strong>मौन</strong>: OM के बाद — तुरीय = शुद्ध जागरूकता।"
+      },
+      {
+        "q": "🔗 पाद = मात्रा, मात्रा = पाद — यह दोतरफ़ा क्यों?",
+        "a": "OM जानो तो आत्मा जान लोगे। आत्मा जान लो तो OM समझ में आ जाएगा। <strong>दोनों एक ही सत्य के दो पक्ष हैं</strong> — एक ध्वनि का, दूसरा चेतना का। OM = आत्मा का श्रव्य रूप; आत्मा = OM का अनुभवगम्य रूप।"
       }
     ]
   },
   {
     "id": 9,
-    "sk": "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रा उत्कर्षाद्उभयत्वाद् वा ।\nउत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित्कुले भवति य एवं वेद ॥",
-    "ro": "Svapnasthānastaijasa ukāro dvitīyā mātrā utkarṣādubhayatvādvā · utkarsati ha vai jñānasantatiṃ samānaśca bhavati nāsyābrahmavitkule bhavati ya evaṃ veda",
-    "hi": "स्वप्न-अवस्था तैजस — उ-मात्रा — दूसरी मात्रा है — उत्कर्ष और उभयत्व के कारण। जो इस प्रकार जानता है — ज्ञान-परंपरा उन्नत होती है और उसके कुल में ब्रह्म न जानने वाला नहीं होता।",
-    "en": "Taijasa of the dreaming state is U — second measure — because of elevation and intermediate position. One who knows thus elevates the stream of knowledge; his family will produce none ignorant of Brahman.",
+    "sk": "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्रा आप्तेरादिमत्त्वाद् वा ।\nआप्नोति ह वै सर्वान् कामानादिश्च भवति य एवं वेद ॥",
+    "ro": "Jāgaritasthāno vaiśvānaro'kāraḥ prathamā mātrā āpterādimattvādvā · āpnoti ha vai sarvān kāmānādiśca bhavati ya evaṃ veda",
+    "hi": "जाग्रत-अवस्था का वैश्वानर — अ-कार — प्रथम मात्रा है — व्यापकता (आप्ति) और प्रथमत्व (आदिमत्त्व) के कारण। जो इस प्रकार जानता है — वह सब कामनाओं को प्राप्त करता है और आदि (सबसे प्रथम) होता है।",
+    "en": "Vaishvanara of the waking state is the letter A — the first measure — because of pervasiveness and being the first. One who knows thus obtains all desires and becomes foremost.",
     "ws": [
       {
-        "s": "उकारः",
-        "h": "उ-कार",
-        "e": "the U-sound"
+        "s": "अकारः",
+        "h": "अ-कार (OM का प्रथम अक्षर)",
+        "e": "the letter A"
       },
       {
-        "s": "द्वितीया मात्रा",
-        "h": "दूसरी मात्रा",
-        "e": "second measure"
+        "s": "प्रथमा मात्रा",
+        "h": "पहली मात्रा",
+        "e": "the first measure"
       },
       {
-        "s": "उत्कर्षात्",
-        "h": "उत्कर्ष के कारण",
-        "e": "because of elevation"
+        "s": "आप्तेः",
+        "h": "व्यापकता (आप्ति) के कारण",
+        "e": "because of pervasiveness (obtaining)"
       },
       {
-        "s": "उभयत्वात्",
-        "h": "मध्यवर्ती होने के",
-        "e": "because of being between both"
+        "s": "आदिमत्त्वात्",
+        "h": "प्रथमत्व (आदि होने) के कारण",
+        "e": "because of being the first"
       },
       {
-        "s": "ज्ञानसन्तति",
-        "h": "ज्ञान-परंपरा",
-        "e": "stream of knowledge"
+        "s": "आप्नोति सर्वान् कामान्",
+        "h": "सब कामनाओं को प्राप्त करता है",
+        "e": "obtains all desires"
       },
       {
-        "s": "अब्रह्मवित्",
-        "h": "ब्रह्म न जाने वाला",
-        "e": "ignorant of Brahman"
+        "s": "आदिः च भवति",
+        "h": "और आदि (प्रथम) होता है",
+        "e": "and becomes foremost"
       }
     ],
-    "gr": "U is between A and M — it elevates from A toward M. Similarly the dream state is between waking and sleep. The promise: family of one who knows this will produce none ignorant of Brahman.",
-    "mt": "Prose",
+    "gr": "<strong>आप्तेः</strong> — आप् धातु (प्राप्त करना, व्याप्त होना) + क्तिन् प्रत्यय। अ-कार और वैश्वानर में दो समानताएँ: (१) <strong>आप्ति</strong> — अ समस्त वर्णमाला में व्याप्त है (प्रत्येक व्यंजन में अ निहित है — क = क् + अ), वैसे ही जाग्रत सब अनुभवों का आधार है; (२) <strong>आदिमत्त्व</strong> — अ वर्णमाला का प्रथम वर्ण है, वैसे ही जाग्रत हमारा प्रथम अनुभव-क्षेत्र है। <strong>फलश्रुति:</strong> जो इसे जानता है — वह सर्वकामनापूर्ण और श्रेष्ठ होता है। यह उपासना-फल है (अध्यात्मिक ज्ञान का लौकिक लाभ)।",
+    "mt": "गद्य — प्रथम मात्रा (अ) का विवेचन।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "उ = मध्यवर्ती। स्वप्न = जाग्रत और सुषुप्ति के बीच। उत्कर्ष = उठाना। जो इसे जानता है — उसके परिवार में ब्रह्मज्ञान बना रहता है।",
-        "en": "U = intermediate. Dream = between waking and sleep. Elevation = lifting. One who knows this — their family maintains Brahman-knowledge.",
-        "ins": "ज्ञान परिवार में संस्कार बनकर आता है।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर भाष्य में कहते हैं — अ-कार = जाग्रत = वैश्वानर। जैसे 'अ' वर्णमाला में सर्वव्यापी है (प्रत्येक व्यंजन में 'अ' छिपा है — पाणिनि: 'अकारः सर्ववर्णानामादिः'), वैसे ही जाग्रत अवस्था सब अनुभवों का मूल है। गौडपाद कारिका (१.१९): 'अकारो नयते विश्वम्' — अ-कार विश्व (जाग्रत) को ले जाता है। 'आप्नोति सर्वान् कामान्' = उपासना-फल — जो इस रहस्य को जानता है, उसकी कामनाएँ स्वतः पूर्ण होती हैं, क्योंकि वह जगत् के मूल को जानता है। किन्तु शंकर स्मरण कराते हैं — परम लक्ष्य कामना-पूर्ति नहीं, कामना-मुक्ति है; यह मध्यम फल है।",
+        "en": "Shankara's Bhashya: A = waking = Vaishvanara. As 'A' pervades all speech (every consonant contains 'A' — Pāṇini: 'akāraḥ sarvavarṇānāmādiḥ'), so waking is the ground of all experience. Gaudapada Kārikā (1.19): 'akāro nayate viśvam' — A leads to Vishva (waking). 'Obtains all desires' = the fruit of this contemplation — one who knows the root of the world has desires spontaneously fulfilled. But Shankara reminds: the supreme goal is not fulfillment of desires but freedom from desire; this is an intermediate fruit.",
+        "ins": "जैसे 'अ' प्रत्येक व्यंजन में छिपा है, वैसे ही ब्रह्म प्रत्येक अनुभव में छिपा है — देखने की दृष्टि चाहिए।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "भक्त का परिवार ज्ञान-संपन्न होता है। ज्ञान family culture बन जाता है।",
-        "en": "The devotee's family becomes rich in knowledge. Knowledge becomes family culture.",
-        "ins": "भक्त का परिवार ज्ञान-संपन्न होता है।"
+        "h": "रामानुज की दृष्टि में 'अ' = विष्णु — सृष्टि के आदि, सबमें व्याप्त। 'आप्नोति सर्वान् कामान्' = भगवान् की कृपा से भक्त की समस्त मनोकामनाएँ पूर्ण होती हैं। गीता (७.२२): 'स तया श्रद्धया युक्तस्तस्या आराधनमीहते, लभते च ततः कामान् मयैव विहितान् हि तान्' — श्रद्धायुक्त भक्त की कामनाएँ मेरे द्वारा ही पूर्ण की जाती हैं। किन्तु गीता (७.२३) में श्रीकृष्ण यह भी कहते हैं — 'अन्तवत्तु फलं तेषाम्' — उन फलों का अन्त है; अनन्त फल = ईश्वर-प्रेम ही है। विष्णुपुराण: 'आदिमध्यान्तरहितं' — जो आदि, मध्य और अन्त से रहित है — वही OM का 'अ' है।",
+        "en": "For Ramanuja, 'A' = Vishnu — the beginning of creation, pervading all. 'Obtains all desires' = through God's grace the devotee's wishes are fulfilled. Gītā (7.22): 'Endowed with faith, he worships that deity and obtains his desires, which are in reality granted by Me alone.' But Gītā (7.23): 'the fruits of those desires are finite' — infinite fruit = love of God alone. Vishnu Purāṇa: 'ādimadhyāntarahitaṃ' — that which is without beginning, middle, or end — this is the 'A' of OM.",
+        "ins": "ईश्वर-कृपा से सब कामनाएँ पूर्ण होती हैं — किन्तु सर्वोत्तम कामना स्वयं ईश्वर-प्रेम है।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "The U-state represents elevation — the movement from gross to subtle. One who understands this transition can consciously move between states.",
-        "en": "U represents elevation — movement from gross to subtle. One who understands this transition can move consciously between states.",
-        "ins": "Yoga is the conscious use of the transitions between states."
+        "h": "अरविंद 'दि अपनिषद्स्' में लिखते हैं — अ-कार = पदार्थ में चेतना = भौतिक जगत्। जो इसे जानता है — वह भौतिक जगत् को बोध-पूर्वक ग्रहण करता है, भयभीत या आसक्त नहीं होता। 'सर्वान् कामान् आप्नोति' = सच्चा ज्ञानी कामनाओं से नहीं भागता — वह उन्हें अपने भीतर की दिव्य इच्छा (divine will) से रूपान्तरित करता है। 'Letters on Yoga' में: कामना = चेतना की गति; यह स्वयं में बुरी नहीं — बुरा तब है जब अहंकार इसे अपना दावा बनाता है। OM का 'अ' = पदार्थ जगत् को दिव्य दृष्टि से देखने का अभ्यास। यही पूर्णयोग का प्रथम चरण है — भौतिक जीवन को अस्वीकार नहीं करना, उसे रूपान्तरित करना।",
+        "en": "In 'The Upanishads,' Aurobindo writes: A = consciousness-in-matter = physical world. One who knows this embraces the physical world with awareness — neither fearful nor attached. 'Obtains all desires' = the true knower doesn't flee desires but transforms them through the divine will within. In 'Letters on Yoga': desire = movement of consciousness, not inherently evil — evil enters when the ego claims it. OM's 'A' = the practice of seeing the material world with divine vision. This is Integral Yoga's first step: not rejecting physical life but transforming it.",
+        "ins": "भौतिक जगत् त्याग का विषय नहीं — रूपान्तरण का क्षेत्र है; यही 'अ' की शिक्षा है।"
       }
     },
     "dp": [
       {
-        "q": "👨‍👩‍👧 'कुल में ब्रह्मवित् होंगे' — यह कैसे?",
-        "a": "जब माता-पिता साधना में हों — संस्कार बच्चों में जाते हैं। <strong>ज्ञान hereditary नहीं — पर conducive environment hereditary हो सकता है।</strong> घर का वातावरण बच्चों को shape करता है।"
+        "q": "📐 'अ' सब व्यंजनों में क्यों छिपा है?",
+        "a": "संस्कृत व्याकरण में प्रत्येक व्यंजन में 'अ' अन्तर्निहित है: <strong>क = क् + अ</strong>; <strong>ग = ग् + अ</strong>; <strong>त = त् + अ</strong>। बिना 'अ' के कोई व्यंजन बोला ही नहीं जा सकता। वैसे ही बिना जाग्रत चेतना के कोई अनुभव सम्भव नहीं — <strong>'अ' भाषा का आधार है, जाग्रत अनुभव का।</strong>"
+      },
+      {
+        "q": "🎯 'सर्वान् कामान् आप्नोति' — सब कामनाएँ कैसे?",
+        "a": "यह लौकिक वरदान नहीं — यह आध्यात्मिक सत्य है। <strong>जो सृष्टि के मूल को जानता है — उसे किसी वस्तु की कमी नहीं रहती।</strong> जैसे जो सागर जानता है — उसे बूँदें माँगने की आवश्यकता नहीं।"
       }
     ]
   },
   {
     "id": 10,
-    "sk": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा ।\nमिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥",
-    "ro": "Suṣuptasthānaḥ prājño makārastṛtīyā mātrā miterapītervā · minoti ha vā idaṃ sarvamapītiśca bhavati ya evaṃ veda",
-    "hi": "सुषुप्ति-अवस्था प्राज्ञ — म-मात्रा — तीसरी मात्रा है — मापन और लय के कारण। जो इस प्रकार जानता है — वह इस सब को मापता है और लय को प्राप्त होता है।",
-    "en": "Prajna of deep sleep is M — third measure — because of measuring and dissolution. One who knows thus measures all things and attains dissolution.",
+    "sk": "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रा उत्कर्षाद्उभयत्वाद् वा ।\nउत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति नास्याब्रह्मवित्कुले भवति य एवं वेद ॥",
+    "ro": "Svapnasthānastaijasa ukāro dvitīyā mātrā utkarṣādubhayatvādvā · utkarṣati ha vai jñānasantatiṃ samānaśca bhavati nāsyābrahmavitkule bhavati ya evaṃ veda",
+    "hi": "स्वप्न-अवस्था का तैजस — उ-कार — द्वितीय मात्रा है — उत्कर्ष (उत्थान) और उभयत्व (दोनों के बीच) के कारण। जो इस प्रकार जानता है — वह ज्ञान-परम्परा को ऊँचा उठाता है, समान (निष्पक्ष) होता है, और उसके कुल में ब्रह्म न जानने वाला कोई नहीं होता।",
+    "en": "Taijasa of the dream state is U — the second measure — because of elevation and being between both. One who knows thus elevates the stream of knowledge, becomes equal-minded, and none in his lineage will be ignorant of Brahman.",
     "ws": [
       {
-        "s": "मकारः",
-        "h": "म-कार",
-        "e": "the M-sound"
+        "s": "उकारः",
+        "h": "उ-कार (OM का दूसरा अक्षर)",
+        "e": "the letter U"
       },
       {
-        "s": "तृतीया मात्रा",
-        "h": "तीसरी मात्रा",
-        "e": "third measure"
+        "s": "द्वितीया मात्रा",
+        "h": "दूसरी मात्रा",
+        "e": "the second measure"
       },
       {
-        "s": "मितेः",
-        "h": "मापन के कारण",
-        "e": "because of measuring"
+        "s": "उत्कर्षात्",
+        "h": "उत्कर्ष (ऊँचा उठाने) के कारण",
+        "e": "because of elevation/exaltation"
       },
       {
-        "s": "अपीतेः",
-        "h": "लय के कारण",
-        "e": "because of dissolution"
+        "s": "उभयत्वात्",
+        "h": "उभयत्व (दोनों के बीच होने) के कारण",
+        "e": "because of being between both"
       },
       {
-        "s": "मिनोति",
-        "h": "मापता है",
-        "e": "measures, encompasses"
+        "s": "उत्कर्षति ज्ञानसन्ततिम्",
+        "h": "ज्ञान-परम्परा को ऊँचा उठाता है",
+        "e": "elevates the stream of knowledge"
       },
       {
-        "s": "अपीतिः",
-        "h": "लय",
-        "e": "dissolution, merging"
+        "s": "समानः च भवति",
+        "h": "और समान (निष्पक्ष) होता है",
+        "e": "and becomes equal-minded"
+      },
+      {
+        "s": "न अब्रह्मवित् कुले भवति",
+        "h": "उसके कुल में ब्रह्म-अज्ञानी नहीं होता",
+        "e": "none ignorant of Brahman in his family"
       }
     ],
-    "gr": "<strong>म</strong> = the closing sound, like dissolution. M measures (encompasses) all — just as deep sleep dissolves all differentiation. The promise: one who knows this can measure/comprehend all.",
-    "mt": "Prose",
+    "gr": "<strong>उत्कर्ष</strong> — उत् (ऊपर) + कर्ष (खींचना) = ऊँचा उठाना। 'उ' OM में 'अ' और 'म' के बीच है — जैसे स्वप्न जाग्रत और सुषुप्ति के बीच। <strong>उभयत्व</strong> — उभय (दोनों) + त्व (भाव) = दोनों से सम्बन्ध रखना। 'उ' में 'अ' का अंश भी है और 'म' की ओर गति भी — वह सेतु है। <strong>ज्ञानसन्तति</strong> — ज्ञान + सन्तति (परम्परा, धारा) = ज्ञान की अविच्छिन्न धारा। <strong>फलश्रुति:</strong> कुल में ब्रह्मज्ञानी होंगे — अर्थात् ज्ञान संस्कार-रूप में पीढ़ियों तक बहेगा।",
+    "mt": "गद्य — द्वितीय मात्रा (उ) का विवेचन।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "म = अंतिम। सुषुप्ति = लय। जो इसे जानता है — वह सब को 'मापता' है — अर्थात् सब का आधार जानता है।",
-        "en": "M = the last sound, dissolution. One who knows this 'measures' all — meaning knows the ground of all experience.",
-        "ins": "म = समापन। सब लय में। फिर मौन — तुरीय।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर भाष्य में कहते हैं — उ = मध्यवर्ती। जैसे स्वप्न जाग्रत और सुषुप्ति का सेतु है, वैसे ही 'उ' वर्ण 'अ' और 'म' का सेतु है। 'उत्कर्ष' = उत्थान — जो 'अ' (स्थूल) से 'म' (कारण) की ओर ले जाता है। गौडपाद कारिका (१.२०): 'उकारस्तैजसं तथा' — उ-कार तैजस (स्वप्न) को ले जाता है। 'ज्ञानसन्ततिम् उत्कर्षति' = जो इसे जानता है, वह ज्ञान की धारा को ऊँचा उठाता है — अर्थात् उसके ज्ञान में निरन्तर उत्कर्ष होता है, वह स्थूल से सूक्ष्म की ओर बढ़ता है। 'समानः' = समदर्शी — जो स्वप्न और जाग्रत दोनों को एक समान समझता है (कारिका २.५ — दोनों समान रूप से चेतना की रचना हैं)।",
+        "en": "Shankara: U = intermediate. As dream bridges waking and deep sleep, so 'U' bridges 'A' and 'M.' 'Utkarṣa' = elevation — leading from 'A' (gross) toward 'M' (causal). Gaudapada Kārikā (1.20): 'ukārastaijasaṃ tathā' — U leads to Taijasa. 'Elevates the stream of knowledge' = the knower's understanding continuously ascends from gross to subtle. 'Samāna' = equal-visioned — one who sees dream and waking as equally projections of consciousness (Kārikā 2.5).",
+        "ins": "ज्ञान एक सतत उत्थान है — स्थूल से सूक्ष्म, सूक्ष्म से कारण, कारण से तुरीय — 'उ' इसी गति का प्रतीक है।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "म = ईश्वर में लय। जो सब कुछ ईश्वर में अर्पित करता है — वह 'मापता है' अर्थात् सब का सच्चा स्वामी जानता है।",
-        "en": "M = dissolution into God. One who offers all to God — truly knows the master of all.",
-        "ins": "ईश्वर में लय = true freedom."
+        "h": "रामानुज कहते हैं — भक्त का कुल ज्ञान-सम्पन्न होता है; ज्ञान पारिवारिक संस्कृति बन जाता है। गीता (६.४१-४२) में श्रीकृष्ण कहते हैं: 'शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते, अथवा योगिनामेव कुले भवति धीमताम्' — योगभ्रष्ट शुद्ध और श्रीमान् के घर में या योगियों के कुल में जन्म लेता है। अर्थात् ज्ञान-संस्कार वंशानुगत नहीं किन्तु अनुकूल वातावरण वंशानुगत होता है। 'उ' = ऊर्ध्वगति, उत्थान — श्री (लक्ष्मी) का तत्त्व जो जीव को ऊपर उठाती है। उभयत्व = जीव ईश्वर और जगत् दोनों से सम्बद्ध है, यही विशिष्टाद्वैत की स्थिति है।",
+        "en": "Ramanuja says: the devotee's family becomes rich in knowledge — knowledge becomes family culture. Gītā (6.41-42): 'The fallen yogi is born in the house of the pure and prosperous, or in a family of wise yogis' — knowledge-impressions (saṃskāra) are not hereditary but conducive environments are. 'U' = upward movement, elevation — the principle of Śrī (Lakshmi) who lifts the soul. Ubhayatva = the soul is connected to both God and world — this is Viśiṣṭādvaita's position.",
+        "ins": "ज्ञान वंशानुगत (hereditary) नहीं — किन्तु अनुकूल वातावरण पीढ़ियों तक बना रहता है।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "M = the closure, the turning inward. In deep sleep the ego dissolves temporarily — in liberation it dissolves permanently.",
-        "en": "M = the closure, turning inward. In sleep the ego dissolves temporarily — in liberation permanently.",
-        "ins": "Every night we taste liberation unknowingly."
+        "h": "अरविंद 'Letters on Yoga' में लिखते हैं — उ-कार उत्थान (elevation) का प्रतीक है — स्थूल से सूक्ष्म की ओर चेतना की गति। जो इस संक्रमण (transition) को समझता है, वह होशपूर्वक अवस्थाओं के बीच आ-जा सकता है — यही योग है। 'दि सिन्थेसिस ऑफ़ योग' में वे कहते हैं — ज्ञान-परम्परा को ऊँचा उठाना = अपनी चेतना का स्तर बढ़ाना जिससे आस-पास के लोग भी प्रभावित हों। 'समानः' = समदर्शी — जो स्थूल और सूक्ष्म में एक ही चेतना देखता है। उभयत्व = मध्यवर्ती स्थिति — जहाँ भौतिक और आध्यात्मिक दोनों दृष्टियाँ सक्रिय हों — यही पूर्णयोगी का आदर्श है।",
+        "en": "In 'Letters on Yoga,' Aurobindo writes: U represents elevation — the movement from gross to subtle. One who understands this transition can consciously move between states — this is yoga. In 'The Synthesis of Yoga': elevating the stream of knowledge = raising one's level of consciousness so that those around are also affected. 'Samāna' = equal-visioned — seeing one consciousness in both gross and subtle. Ubhayatva = the intermediate position where both material and spiritual visions are active — this is the ideal of the Integral Yogi.",
+        "ins": "योग = अवस्थाओं के बीच के संक्रमण (transition) को होशपूर्वक जीना — यही 'उ' की शिक्षा है।"
       }
     },
     "dp": [
       {
-        "q": "🌙 हर रात हम मृत्यु का अभ्यास करते हैं?",
-        "a": "शंकर: सुषुप्ति = मृत्यु का practice। हर रात 'मैं' dissolve होता है — हर सुबह फिर आता है। <strong>मोक्ष = यही dissolution permanent हो जाना।</strong> So'ham — That I Am — कभी नहीं मरता।"
+        "q": "👨‍👩‍👧 'कुल में ब्रह्मज्ञानी होंगे' — यह कैसे सम्भव?",
+        "a": "ज्ञान जैविक रूप से वंशानुगत (hereditary) नहीं होता — किन्तु <strong>संस्कार वातावरण के माध्यम से संचारित होते हैं।</strong> जब माता-पिता साधना में हों — घर का वातावरण, संस्कार, मूल्य बच्चों को आकार देते हैं। गीता (६.४२): 'योगिनामेव कुले भवति' — योगी के कुल में जन्म = अनुकूल संस्कार-भूमि।"
       }
     ]
   },
   {
     "id": 11,
-    "sk": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोंकार आत्मैव ।\nसंविशत्यात्मनाऽऽत्मानं य एवं वेद ॥",
-    "ro": "Amātraścaturtho'vyavahāryaḥ prapañcopaśamaḥ śivo'dvaita evamomkāra ātmaiva · saṃviśatyātmanā''tmānaṃ ya evaṃ veda",
-    "hi": "चौथा अमात्र है — अव्यवहार्य, प्रपंच-रहित, शिव, अद्वैत। इस प्रकार ओंकार ही आत्मा है। जो इस प्रकार जानता है — वह अपनी आत्मा से अपनी आत्मा में प्रवेश करता है।",
-    "en": "The fourth is without measure — beyond transaction, peaceful, auspicious, non-dual. Thus OM is the Self. The knower enters the Self by the Self.",
+    "sk": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा ।\nमिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥",
+    "ro": "Suṣuptasthānaḥ prājño makārastṛtīyā mātrā miterapītervā · minoti ha vā idaṃ sarvamapītiśca bhavati ya evaṃ veda",
+    "hi": "सुषुप्ति-अवस्था का प्राज्ञ — म-कार — तृतीय मात्रा है — मापन (मिति) और लय (अपीति) के कारण। जो इस प्रकार जानता है — वह इस सब को मापता (समझता) है और लय में प्रवेश करता है।",
+    "en": "Prajna of deep sleep is M — the third measure — because of measuring and merging. One who knows thus measures (comprehends) all this and attains dissolution.",
+    "ws": [
+      {
+        "s": "मकारः",
+        "h": "म-कार (OM का तीसरा अक्षर)",
+        "e": "the letter M"
+      },
+      {
+        "s": "तृतीया मात्रा",
+        "h": "तीसरी मात्रा",
+        "e": "the third measure"
+      },
+      {
+        "s": "मितेः",
+        "h": "मापन (मिति) के कारण",
+        "e": "because of measuring"
+      },
+      {
+        "s": "अपीतेः",
+        "h": "लय (विलय, प्रवेश) के कारण",
+        "e": "because of merging/dissolution"
+      },
+      {
+        "s": "मिनोति इदम् सर्वम्",
+        "h": "इस सब को मापता (जानता) है",
+        "e": "measures/comprehends all this"
+      },
+      {
+        "s": "अपीतिः च भवति",
+        "h": "और लय को प्राप्त होता है",
+        "e": "and attains dissolution/merging"
+      }
+    ],
+    "gr": "<strong>मितेः</strong> — मि धातु (मापना) + क्तिन् प्रत्यय। 'म' = मापना, समेटना। जैसे 'म' बोलते समय ओष्ठ बन्द होते हैं और ध्वनि समाप्त होती है — वैसे ही सुषुप्ति में सब विभेद विलीन हो जाते हैं। <strong>अपीतेः</strong> — अपि + इ (जाना) = विलय, लय, प्रवेश। जैसे नदियाँ सागर में अपीति (प्रवेश/विलय) प्राप्त करती हैं (प्रश्न ६.५), वैसे ही सुषुप्ति में इन्द्रियाँ और मन प्राज्ञ में विलीन होते हैं। <strong>फलश्रुति:</strong> जो इसे जानता है — वह सम्पूर्ण जगत् को 'मापता' है अर्थात् उसकी सीमाओं और स्वरूप को जानता है, और 'अपीति' = लय = जगत्-भ्रम से मुक्ति प्राप्त करता है।",
+    "mt": "गद्य — तृतीय मात्रा (म) का विवेचन। 'म' OM की अन्तिम श्रव्य ध्वनि है।",
+    "cm": {
+      "advaita": {
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर कहते हैं — म = समापन, लय। जैसे 'म' बोलने पर मुख बन्द होता है और ध्वनि समाप्त — वैसे ही सुषुप्ति में सब भेद लय पाते हैं। गौडपाद कारिका (१.२१): 'मकारश्च पुनः प्राज्ञम्' — म-कार प्राज्ञ की ओर ले जाता है। 'मिनोति' = मापना = सबका अधिष्ठान जानना; जो सागर जानता है, उसने सब नदियों को 'माप' लिया। 'अपीतिः' = लय = जगत् के सब नाम-रूप जिसमें विलीन होते हैं — वही जानने योग्य है। किन्तु शंकर स्पष्ट करते हैं — सुषुप्ति = अस्थायी लय; मोक्ष = स्थायी लय + जागरूकता = तुरीय। अगला मन्त्र (११) = OM के बाद का मौन = तुरीय = परम लक्ष्य।",
+        "en": "Shankara: M = closure, dissolution. As lips close on 'M' and sound ceases, so in deep sleep all distinctions dissolve. Gaudapada Kārikā (1.21): 'makāraśca punaḥ prājñam' — M leads to Prājña. 'Minoti' = measuring = knowing the ground of all; one who knows the ocean has 'measured' all rivers. 'Apīti' = dissolution = that into which all names and forms dissolve — that is worth knowing. But Shankara clarifies: deep sleep = temporary dissolution; liberation = permanent dissolution + awareness = Turīya. The next mantra (11) = silence after OM = Turīya = the supreme goal.",
+        "ins": "म = सब समेट लेना — जो उत्पन्न हुआ वह विलीन होगा; जो कभी विलीन नहीं होता — वही सत्य है।"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य",
+        "h": "रामानुज कहते हैं — म = ईश्वर में लय। जो सब कुछ ईश्वर को अर्पित करता है — वही सच्चा 'मापने' वाला है, क्योंकि वह जानता है कि सब ईश्वर का ही है। 'अपीतिः' = ईश्वर-शरणागति (प्रपत्ति)। गीता (१८.६६): 'सर्वधर्मान् परित्यज्य मामेकं शरणं व्रज' — सब कर्म छोड़कर मेरी शरण आओ। यह 'म' का गूढ़ अर्थ है — समर्पण, लय, शरणागति। विष्णुपुराण में 'म' = जीवात्मा — जो 'अ' (विष्णु) और 'उ' (श्री) की शरण में आती है। OM का पूर्ण अर्थ: जीवात्मा (म) श्री (उ) सहित नारायण (अ) की शरण में है — यही शरणागति का बीज-मन्त्र है।",
+        "en": "Ramanuja says: M = dissolution into God. One who surrenders all to God truly 'measures' — for he knows all belongs to God. 'Apīti' = surrender to God (prapatti). Gītā (18.66): 'Abandoning all duties, take refuge in Me alone.' This is M's deep meaning — surrender, dissolution, refuge. In Vishnu Purāṇa, 'M' = jīvātman — who takes refuge in 'A' (Vishnu) with 'U' (Śrī). OM's complete meaning: the jīvātman (M) through Śrī (U) takes refuge in Nārāyaṇa (A) — this is the seed-mantra of surrender.",
+        "ins": "OM का पूर्ण रहस्य: जीवात्मा (म) श्री-लक्ष्मी (उ) के माध्यम से नारायण (अ) की शरण में — यही प्रपत्ति है।"
+      },
+      "aurobindo": {
+        "a": "श्री अरविंद",
+        "h": "अरविंद 'दि लाइफ़ डिवाइन' में लिखते हैं — म = समापन, अन्तर्मुखी गति। सुषुप्ति में अहंकार अस्थायी रूप से विलीन होता है — मोक्ष में वह स्थायी रूप से विलीन होता है। 'Letters on Yoga' में: हर रात्रि हम मृत्यु का अभ्यास करते हैं — 'मैं' विलीन होता है, सुबह पुनः प्रकट होता है। यदि इसी विलय को होशपूर्वक किया जाए — तो वही समाधि है, वही तुरीय का द्वार है। 'दि सिन्थेसिस ऑफ़ योग' में: म-कार सिखाता है कि चेतना अपने भीतर लौटकर अपने मूल स्रोत को खोज सकती है — यह प्रत्यावर्तन (return) आवश्यक है इसके पूर्व कि चेतना रूपान्तरित होकर पुनः जगत् में उतरे।",
+        "en": "In 'The Life Divine,' Aurobindo writes: M = closure, the inward turn. In deep sleep the ego dissolves temporarily; in liberation it dissolves permanently. In 'Letters on Yoga': every night we practice death — 'I' dissolves, reappears at dawn. If this dissolution is done consciously — that is samādhi, the doorway to Turīya. In 'The Synthesis of Yoga': M teaches that consciousness can return within to find its source — this return is necessary before consciousness can transform and descend again into the world.",
+        "ins": "हर रात्रि हम अनजाने मोक्ष का अभ्यास करते हैं — म-कार इसी लय को होशपूर्वक करने की शिक्षा देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌙 हर रात हम मृत्यु का अभ्यास करते हैं?",
+        "a": "शंकर कहते हैं — सुषुप्ति = मृत्यु का दैनिक अभ्यास। हर रात 'मैं' विलीन होता है — सब इच्छाएँ, भय, स्मृतियाँ शान्त। हर सुबह पुनः प्रकट। <strong>मोक्ष = यही विलय स्थायी हो जाना — किन्तु जागरूकता के साथ।</strong> गीता (२.२७): 'जातस्य हि ध्रुवो मृत्युः' — जो जन्मा है उसकी मृत्यु निश्चित है।"
+      },
+      {
+        "q": "📏 'मिनोति' — मापना क्यों?",
+        "a": "जो सागर जानता है — उसने सब नदियों, झरनों, बूँदों को 'माप' लिया। <strong>जो लय (मूल) जानता है — उसने सृष्टि (विस्तार) को जान लिया।</strong> म-कार = मूल में लौटना = सबकी सीमा जान लेना।"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोंकार आत्मैव ।\nसंविशत्यात्मनाऽऽत्मानं य एवं वेद ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
+    "ro": "Amātraścaturtho'vyavahāryaḥ prapañcopaśamaḥ śivo'dvaita evamomkāra ātmaiva · saṃviśatyātmanā''tmānaṃ ya evaṃ veda · Om śāntiḥ śāntiḥ śāntiḥ",
+    "hi": "चौथा अमात्र है — अव्यवहार्य, प्रपञ्च का उपशम, शिव, अद्वैत। इस प्रकार ओंकार ही आत्मा है। जो इस प्रकार जानता है — वह अपनी आत्मा से अपनी आत्मा में प्रवेश करता है।\nॐ — शान्ति, शान्ति, शान्ति।",
+    "en": "The fourth is without measure — beyond transaction, the cessation of the manifold, auspicious, non-dual. Thus OM is the Self itself. One who knows thus enters the Self through the Self.\nOM — Peace, Peace, Peace.",
     "ws": [
       {
         "s": "अमात्रः",
-        "h": "मात्रा-रहित",
-        "e": "without measure"
+        "h": "मात्रा-रहित (OM के बाद का मौन)",
+        "e": "without measure (silence after OM)"
       },
       {
         "s": "चतुर्थः",
@@ -750,130 +866,97 @@
       },
       {
         "s": "अव्यवहार्यः",
-        "h": "व्यवहार से परे",
+        "h": "व्यवहार (लौकिक प्रयोजन) से परे",
         "e": "beyond transaction"
       },
       {
         "s": "प्रपञ्चोपशमः",
-        "h": "प्रपंच-रहित",
-        "e": "cessation of phenomena"
+        "h": "प्रपञ्च (नाम-रूप-जगत्) का उपशम (शान्ति)",
+        "e": "cessation of the manifold"
       },
       {
         "s": "शिवः",
-        "h": "शिव / कल्याण",
-        "e": "auspicious, Shiva"
+        "h": "शिव — परम कल्याण",
+        "e": "auspicious"
       },
       {
         "s": "अद्वैतः",
-        "h": "अद्वैत",
+        "h": "अद्वैत — जहाँ दो नहीं",
         "e": "non-dual"
       },
       {
-        "s": "ओंकार आत्मा",
+        "s": "ओंकारः आत्मा एव",
         "h": "ओंकार ही आत्मा है",
-        "e": "OM is the Self"
+        "e": "OM is the Self itself"
       },
       {
         "s": "संविशति",
         "h": "प्रवेश करता है",
         "e": "enters"
-      }
-    ],
-    "gr": "The culminating mantra. <strong>आत्मनाऽऽत्मानं संविशति</strong> — 'enters the Self by the Self.' The reflexive construction: the seer = the seen. Subject = Object. This IS Advaita.",
-    "mt": "Prose — the final teaching",
-    "cm": {
-      "advaita": {
-        "a": "शंकराचार्य",
-        "h": "यह माण्डूक्य का समापन मंत्र है। अमात्र = तुरीय — मौन जो OM के बाद आता है। 'आत्मा से आत्मा में प्रवेश' = स्वयं को स्वयं में देखना।",
-        "en": "Mandukya's final mantra. Amātra = Turīya — the silence after OM. 'Entering Self by Self' = seeing oneself in oneself. This IS the realization.",
-        "ins": "OM पूर्ण हुआ — अब मौन। वही ब्रह्म है।"
-      },
-      "vishisht": {
-        "a": "रामानुजाचार्य",
-        "h": "ओंकार पूर्ण हुआ। तुरीय = ईश्वर का परम स्वरूप। आत्मा से आत्मा में प्रवेश = ईश्वर में विलीन होना।",
-        "en": "OM is complete. Turīya = God's supreme nature. Entering Self by Self = merging into God.",
-        "ins": "ओंकार में प्रवेश = ईश्वर में प्रवेश।"
-      },
-      "aurobindo": {
-        "a": "श्री अरविंद",
-        "h": "There is nowhere to go and nothing to attain — only the recognition of what always was. The Self enters itself — this is Self-realization.",
-        "en": "There is nowhere to go and nothing to attain — only the recognition of what always was. The Self enters itself — this is Self-realization.",
-        "ins": "The final silence after OM = Supramental. The journey was always already complete."
-      }
-    },
-    "dp": [
-      {
-        "q": "🕉️ माण्डूक्य का सार",
-        "a": "(१) OM = सब कुछ। (२) आत्मा = ब्रह्म। (३) चार पाद = चेतना का पूरा मानचित्र। (४) तुरीय = साक्षी। (५) OM का मौन = तुरीय। <strong>निष्कर्ष:</strong> तुम पहले से ब्रह्म हो — केवल यह जानना है।"
       },
       {
-        "q": "🔇 'आत्मनाऽऽत्मानं' — आत्मा से आत्मा में",
-        "a": "यह reflexive construction अद्भुत है। देखने वाला = देखा जाने वाला। ज्ञाता = ज्ञेय। Subject = Object। <strong>यही अद्वैत का direct experience है।</strong> इसके आगे शब्द नहीं।"
+        "s": "आत्मना आत्मानम्",
+        "h": "आत्मा द्वारा आत्मा में",
+        "e": "the Self through the Self"
       },
       {
-        "q": "⭕ पूरी Mandukya का circle",
-        "a": "मंत्र १: OM = सब कुछ। मंत्र २: आत्मा = ब्रह्म। मंत्र ३-५: तीन पाद। मंत्र ६: प्राज्ञ = ईश्वर। मंत्र ७: तुरीय (नेति-नेति)। मंत्र ८-१०: A, U, M। मंत्र ११: मौन = पूर्णता।"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "sk": "इत्युपनिषत् ॥\nॐ शान्तिः शान्तिः शान्तिः ॥",
-    "ro": "Ityupaniṣat · Om śāntiḥ śāntiḥ śāntiḥ",
-    "hi": "यह उपनिषद् है। ॐ — शांति, शांति, शांति।",
-    "en": "Thus ends the Upanishad. OM — Peace, Peace, Peace.",
-    "ws": [
-      {
-        "s": "इति",
-        "h": "इस प्रकार",
-        "e": "thus"
+        "s": "ॐ",
+        "h": "ॐ — परम ब्रह्म",
+        "e": "OM — the supreme Brahman"
       },
       {
-        "s": "उपनिषत्",
-        "h": "उपनिषद्",
-        "e": "Upanishad: sitting near (the teacher)"
-      },
-      {
-        "s": "ॐ शान्तिः",
-        "h": "ॐ शांति",
-        "e": "OM Peace"
+        "s": "शान्तिः",
+        "h": "शान्ति",
+        "e": "Peace"
       },
       {
         "s": "शान्तिः शान्तिः शान्तिः",
-        "h": "शांति तीन बार",
-        "e": "Peace × 3"
+        "h": "शान्ति तीन बार",
+        "e": "Peace thrice"
       }
     ],
-    "gr": "<strong>शांतिः × ३</strong> — three-fold peace: (१) शांति from obstacles from the cosmos (आधिभौतिक). (२) शांति from obstacles from other beings (आधिदैविक). (३) शांति from obstacles from within oneself (आध्यात्मिक).",
-    "mt": "Peace invocation — Shanti Patha",
+    "gr": "माण्डूक्य का समापन-मन्त्र और परमोच्च शिक्षा। <strong>अमात्र</strong> — अ (बिना) + मात्र (मात्रा/ध्वनि-इकाई) = जिसकी कोई ध्वनि-मात्रा नहीं — OM के बाद का मौन। यही तुरीय है। <strong>आत्मना आत्मानं संविशति</strong> — सम् + विश् (प्रवेश करना)। यह reflexive construction अद्वैत का सार है — प्रवेश करने वाला = जिसमें प्रवेश है; देखने वाला = देखा जाने वाला; ज्ञाता = ज्ञेय; कर्ता = कर्म। यह 'विज्ञान' शब्द-शास्त्र का चरम है — जहाँ विषय और विषयी एक हो जाते हैं। गौडपाद कारिका (१.२५): 'ओंकारं पादशो विद्यात् पादा मात्रा न संशयः' — OM को पादशः जानो, पाद = मात्रा, इसमें कोई सन्देह नहीं।\n<strong>शान्तिः × ३</strong> — तीन बार शान्ति का उच्चारण तीन प्रकार की बाधाओं (ताप) से रक्षा की प्रार्थना है: (१) <strong>आधिदैविक</strong> — दैवीय/प्राकृतिक शक्तियों से उत्पन्न (भूकम्प, बाढ़, तूफ़ान); (२) <strong>आधिभौतिक</strong> — अन्य प्राणियों से उत्पन्न (शत्रु, सर्प, रोगाणु); (३) <strong>आध्यात्मिक</strong> — स्वयं के भीतर से उत्पन्न (काम, क्रोध, भय, शोक)। प्रथम 'शान्तिः' ऊँचे स्वर में (दैवीय बाधा दूर है), दूसरी सामान्य स्वर में (भौतिक बाधा निकट है), तीसरी धीमे स्वर में (आत्मिक बाधा भीतर है)। शान्तिपाठ प्रत्येक उपनिषद् के आरम्भ और अन्त में होता है — यह विद्या-प्राप्ति का आवरण (protective envelope) है।",
+    "mt": "गद्य — माण्डूक्य का अन्तिम शिक्षा-मन्त्र; अगला मन्त्र शान्ति-पाठ है। शान्तिपाठ — प्रत्येक उपनिषद् का अनिवार्य अंग। माण्डूक्य का शान्तिपाठ: 'ॐ भद्रं कर्णेभिः शृणुयाम देवाः' — किन्तु यहाँ संक्षिप्त रूप में केवल 'ॐ शान्तिः' दिया गया है।",
     "cm": {
       "advaita": {
-        "a": "शंकराचार्य",
-        "h": "तीन बार शांति: (१) बाहरी बाधाओं से शांति। (२) दूसरों से आने वाली बाधाओं से शांति। (३) स्वयं के भीतर से आने वाली बाधाओं से शांति।",
-        "en": "Three-fold peace: (1) from external obstacles, (2) from obstacles caused by others, (3) from obstacles from within oneself.",
-        "ins": "शांति = मोक्ष की पूर्व-भूमि है।"
+        "a": "शंकराचार्य · गौडपादाचार्य",
+        "h": "शंकर कहते हैं — यह माण्डूक्य का समापन-मन्त्र और अद्वैत-वेदान्त का सार है। अमात्र = तुरीय = OM के बाद का मौन — जहाँ ध्वनि समाप्त होती है, वहीं ब्रह्म आरम्भ होता है। 'आत्मना आत्मानं संविशति' = आत्मा अपने आप में प्रवेश करती है — यह reflexive क्रिया है, जैसे दर्पण स्वयं को देखे। यहाँ कोई साधक नहीं, कोई साध्य नहीं, कोई साधन नहीं — केवल आत्मा है जो स्वयं को पहचानती है। गौडपाद कारिका (१.२९): 'ओंकारं हि अविज्ञाय न किञ्चित् सम्प्रसिद्ध्यति' — OM को जाने बिना कुछ भी सिद्ध नहीं होता। कारिका (३.४७-४८): 'अस्पर्शयोगो वै नाम सर्वसत्त्वसुखो हितः, अविवादो अविरुद्धश्च देशितस्तं नमाम्यहम्' — जो अस्पर्श-योग है, सब प्राणियों के सुख के लिए, विवादरहित — उसे नमन।",
+        "en": "Shankara says this is Mandukya's culminating mantra and the essence of Advaita Vedanta. Amātra = Turīya = the silence after OM — where sound ends, Brahman begins. 'Ātmanā ātmānaṃ saṃviśati' = the Self enters itself — a reflexive act, like a mirror seeing itself. Here there is no seeker, no sought, no means — only the Self recognizing itself. Gaudapada Kārikā (1.29): 'Without knowing OM, nothing is accomplished.' Kārikā (3.47-48): 'That Asparsha-yoga (touchless yoga), beneficial to all beings, free from dispute — to that I bow.'",
+        "ins": "OM पूर्ण हुआ — अब मौन। कहीं जाना नहीं, कुछ पाना नहीं — केवल वही पहचानना है जो सदा से हो।"
       },
       "vishisht": {
         "a": "रामानुजाचार्य",
-        "h": "ॐ शांति = ईश्वर-शरण में शांति। जो ईश्वर में है — उसे तीनों प्रकार की शांति मिलती है।",
-        "en": "OM Peace = peace in God's shelter. One who rests in God attains all three kinds of peace.",
-        "ins": "ईश्वर-शरण ही परम शांति है।"
+        "h": "रामानुज कहते हैं — ओंकार पूर्ण हुआ; OM का मौन = ईश्वर का परम स्वरूप जो शब्दातीत है। 'आत्मना आत्मानं संविशति' = जीवात्मा ईश्वर-कृपा से परमात्मा में प्रवेश करती है — यह शरणागति (प्रपत्ति) की चरम अवस्था है। वेदार्थसंग्रह में रामानुज कहते हैं — मोक्ष = ईश्वर-सान्निध्य में नित्य वास, न कि आत्मा का विलय। गीता (१५.६): 'यद्गत्वा न निवर्तन्ते तद्धाम परमं मम' — जहाँ पहुँचकर लौटना नहीं होता — वही मेरा परम धाम है। OM के तीन अक्षरों की यात्रा मौन में समाप्त होती है — जैसे भक्ति-मार्ग ईश्वर-दर्शन में। विष्णुपुराण: OM = प्रणव = जो सदैव नवीन है (प्र + नव)।",
+        "en": "Ramanuja says: OM is complete; its silence = God's supreme nature beyond words. 'The Self enters the Self through the Self' = the soul, by God's grace, enters the Supreme — this is the culmination of surrender (prapatti). In Vedarthasangraha: liberation = eternal dwelling in God's proximity, not dissolution of the soul. Gītā (15.6): 'Reaching where one never returns — that is My supreme abode.' The journey through OM's three letters ends in silence — as the path of devotion ends in divine vision. Vishnu Purāṇa: OM = praṇava = ever new (pra + nava).",
+        "ins": "OM की यात्रा मौन में समाप्त होती है — जैसे भक्ति-मार्ग ईश्वर-दर्शन में; पहुँचकर लौटना नहीं होता।"
       },
       "aurobindo": {
         "a": "श्री अरविंद",
-        "h": "शांति OM से शुरू होती है और OM पर समाप्त होती है। The entire Upanishad is a journey from the OM of all existence to the OM of the deepest Self.",
-        "en": "Peace begins with OM and ends with OM. The Upanishad is a journey from the OM of all existence to the OM of the deepest Self.",
-        "ins": "In the beginning was OM. In the end is OM. Between them — the play of consciousness."
+        "h": "अरविंद 'दि अपनिषद्स्' में लिखते हैं — कहीं जाना नहीं, कुछ प्राप्त नहीं करना — केवल वह पहचानना है जो सदा से था। आत्मा स्वयं में प्रवेश करती है — यह आत्म-साक्षात्कार है। 'दि लाइफ़ डिवाइन' में: OM के बाद का मौन = अतिमानसिक (Supramental) चेतना — वह मौन जो शून्यता नहीं बल्कि पूर्णता है, जहाँ से सब ध्वनि उत्पन्न होती है और जहाँ सब ध्वनि विश्राम करती है। 'दि सिन्थेसिस ऑफ़ योग' में: यात्रा सदैव पहले से पूर्ण थी — हम खोजते नहीं, पहचानते हैं। OM का आरम्भ (मन्त्र १) और अन्त (मन्त्र १२) — दोनों OM ही हैं। OM से OM — वृत्त पूर्ण हुआ। यही चक्रीय (cyclic) सत्य है — सृष्टि ब्रह्म से आती है, ब्रह्म में लौटती है।",
+        "en": "In 'The Upanishads,' Aurobindo writes: there is nowhere to go and nothing to attain — only the recognition of what always was. The Self enters itself — this is Self-realization. In 'The Life Divine': the silence after OM = the Supramental consciousness — a silence that is not emptiness but fullness, from which all sound arises and where all sound rests. In 'The Synthesis of Yoga': the journey was always already complete — we don't seek, we recognize. OM's beginning (mantra 1) and end (mantra 12) are both OM. OM to OM — the circle is complete. This is the cyclic truth: creation comes from Brahman, returns to Brahman.",
+        "ins": "यात्रा सदैव पूर्ण थी — हम गन्तव्य तक नहीं जाते, हम पहचानते हैं कि हम सदा गन्तव्य में ही थे।"
       }
     },
     "dp": [
       {
-        "q": "🙏 'शांति' तीन बार क्यों?",
-        "a": "तीन प्रकार की बाधाएँ हैं: (१) <strong>आधिभौतिक</strong> = प्रकृति से (बीमारी, प्राकृतिक आपदा)। (२) <strong>आधिदैविक</strong> = देव-शक्तियों से। (३) <strong>आध्यात्मिक</strong> = अपने मन से (विकार, भय)। तीनों से शांति की प्रार्थना।"
+        "q": "🕉️ माण्डूक्य का सार एक वाक्य में",
+        "a": "(१) OM = सब कुछ · (२) आत्मा = ब्रह्म · (३) चार पाद = चेतना का पूर्ण मानचित्र · (४) तुरीय = साक्षी · (५) OM का मौन = तुरीय · <strong>निष्कर्ष: तुम पहले से ब्रह्म हो — केवल यह पहचानो।</strong>"
       },
       {
-        "q": "🏁 माण्डूक्य का समापन",
-        "a": "जो मंत्र १ में OM से शुरू हुआ — वह मंत्र १२ में OM पर समाप्त होता है। <strong>OM से OM तक।</strong> यही ब्रह्म का स्वभाव है — सर्वत्र, सदा, शांत।"
+        "q": "🔇 'आत्मना आत्मानम्' — आत्मा से आत्मा में",
+        "a": "यह reflexive construction अद्वैत का सबसे सटीक अभिव्यक्ति है। <strong>देखने वाला = देखा जाने वाला। ज्ञाता = ज्ञेय। विषय = विषयी।</strong> यहाँ कोई 'दूसरा' नहीं बचा — इसके आगे शब्दों का अधिकार नहीं। गौडपाद कारिका (३.३२): 'न निरोधो न चोत्पत्तिः' — न निरोध है, न उत्पत्ति; न बद्ध, न साधक, न मुमुक्षु — यही परमार्थ-सत्य है।"
+      },
+      {
+        "q": "⭕ सम्पूर्ण माण्डूक्य का वृत्त",
+        "a": "मन्त्र १: OM = सब कुछ। मन्त्र २: आत्मा = ब्रह्म, चार पाद। मन्त्र ३: वैश्वानर — जाग्रत। मन्त्र ४: तैजस — स्वप्न। मन्त्र ५: प्राज्ञ — सुषुप्ति। मन्त्र ६: प्राज्ञ = ईश्वर। मन्त्र ७: तुरीय — नेति-नेति। मन्त्र ८: A-U-M = तीन पाद। मन्त्र ९: A = वैश्वानर। मन्त्र १०: U = तैजस। मन्त्र ११: M = प्राज्ञ। <strong>मन्त्र १२: मौन = तुरीय = आत्मा = OM = पूर्णता।</strong>"
+      },
+      {
+        "q": "🙏 शान्ति तीन बार क्यों?",
+        "a": "तीन प्रकार के ताप (कष्ट) हैं: (१) <strong>आधिदैविक</strong> = दैवीय/प्राकृतिक शक्तियों से (भूकम्प, बाढ़, तूफ़ान, महामारी) · (२) <strong>आधिभौतिक</strong> = अन्य प्राणियों/पदार्थों से (शत्रु, सर्प, रोग) · (३) <strong>आध्यात्मिक</strong> = अपने ही मन-शरीर से (काम, क्रोध, भय, शोक, रोग)। तीनों से शान्ति की प्रार्थना — प्रथम ऊँचे स्वर में, द्वितीय मध्यम, तृतीय मन्द।"
+      },
+      {
+        "q": "🏁 माण्डूक्य का समापन — वृत्त पूर्ण",
+        "a": "मन्त्र १ OM से आरम्भ — मन्त्र १२ OM पर समापन। <strong>OM से OM तक — वृत्त पूर्ण।</strong> इसी बीच उपनिषद् ने चेतना का सम्पूर्ण मानचित्र दे दिया — जाग्रत, स्वप्न, सुषुप्ति, तुरीय; A, U, M, मौन। <strong>१२ मन्त्रों में सम्पूर्ण वेदान्त।</strong> मुक्तिकोपनिषद् में राम कहते हैं: 'माण्डूक्यमेकमेवालं मुमुक्षूणां विमुक्तये' — मोक्ष के लिए अकेली माण्डूक्य ही पर्याप्त है।"
       }
     ]
   }
