@@ -44,6 +44,16 @@
       "desc": "यज्ञ-तत्त्व — शब्दमूल से सृष्टि-सिद्धान्त तक",
       "desc_en": "The principle of sacred offering — from etymology to cosmic law",
       "file": "concepts/yajna.json"
+    },
+    {
+      "id": "panchabhuta_srishti",
+      "name": "पञ्चभूत-सृष्टि",
+      "en": "Panchabhuta-Srishti",
+      "icon": "🌍",
+      "color": "#6B8E6B",
+      "desc": "पञ्चमहाभूत — तन्मात्रा से पञ्चीकरण तक सृष्टि का वैदान्तिक विवरण",
+      "desc_en": "Five great elements — Vedantic account of creation from tanmatras to quintuplication",
+      "file": "concepts/panchabhuta_srishti.json"
     }
   ],
   "texts": [
