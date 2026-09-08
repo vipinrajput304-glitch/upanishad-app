@@ -152,6 +152,18 @@
       "desc": "Creation of universe — Consciousness is Brahman",
       "total": 33,
       "files": ["aitareya.json"]
+    },
+    {
+      "id": "shvetashvatara",
+      "category": "upanishad",
+      "name": "श्वेताश्वतर",
+      "en": "Shvetashvatara",
+      "icon": "🙏",
+      "color": "#7B68EE",
+      "veda": "Krishna Yajurveda",
+      "desc": "The one God hidden in all — Māyā, Rudra & liberation",
+      "total": 113,
+      "files": ["shvetashvatara_1.json", "shvetashvatara_2.json", "shvetashvatara_3.json", "shvetashvatara_4.json", "shvetashvatara_5.json", "shvetashvatara_6.json"]
     }
   ]
 }
