@@ -1,0 +1,901 @@
+[
+  {
+    "id": 1,
+    "sk": "य एकोऽवर्णो बहुधा शक्तियोगाद्वर्णाननेकान्निहितार्थो दधाति । वि चैति चान्ते विश्वमादौ स देवः स नो बुद्ध्या शुभया संयुनक्तु ॥",
+    "ro": "yaḥ · ekaḥ · avarṇaḥ · bahudhā · śakti-yogāt · varṇān · anekān · nihita-arthaḥ · dadhāti | vi · ca · eti · ca · ante · viśvam · ādau · saḥ · devaḥ · saḥ · naḥ · buddhyā · śubhayā · saṁyunaktu ||",
+    "hi": "जो एक अवर्ण (वर्णरहित / रंगहीन) है, किन्तु अपनी शक्ति के योग (शक्तियोग) से बहुत-से वर्णों (रूपों) को — निहित अर्थ (गूढ़ प्रयोजन) से — धारण करता है; जो आदि (सृष्टि के आरम्भ) में विश्व को रचता है और अन्त में (उसका) संहार करता है — वह देव हमें शुभ बुद्धि से संयुक्त करे।",
+    "en": "He who is one, colourless (avarṇa), yet through the yoga of His power (śakti-yoga) ordains many colours (forms) with a hidden purpose — who at the beginning creates the universe and at the end withdraws it — that God, may He unite us with an auspicious understanding (śubhā buddhi).",
+    "ws": [
+      {"s": "यः", "h": "जो", "e": "He who"},
+      {"s": "एकः", "h": "एक / अद्वितीय", "e": "the one / without a second"},
+      {"s": "अवर्णः", "h": "वर्णरहित / रंगहीन / गुणातीत", "e": "colourless / without attribute"},
+      {"s": "बहुधा", "h": "बहुत प्रकार से / अनेक रूपों में", "e": "in many ways / manifoldly"},
+      {"s": "शक्तियोगात्", "h": "शक्ति के योग (संयोग) से", "e": "through the yoga of (His) power"},
+      {"s": "वर्णान्", "h": "वर्णों को / रूपों को / रंगों को", "e": "colours / forms"},
+      {"s": "अनेकान्", "h": "अनेक / बहुत-से", "e": "many"},
+      {"s": "निहितार्थः", "h": "गूढ़ प्रयोजनवाला / छिपे हुए अर्थ से", "e": "with a hidden purpose"},
+      {"s": "दधाति", "h": "धारण करता है / रचता है", "e": "ordains / creates"},
+      {"s": "वि चैति", "h": "विलय करता है / लीन करता है", "e": "withdraws / dissolves"},
+      {"s": "अन्ते", "h": "अन्त में / प्रलय काल में", "e": "at the end"},
+      {"s": "विश्वम्", "h": "विश्व को / सम्पूर्ण जगत् को", "e": "the universe"},
+      {"s": "आदौ", "h": "आदि में / आरम्भ में", "e": "at the beginning"},
+      {"s": "स देवः", "h": "वह देव", "e": "that God"},
+      {"s": "बुद्ध्या शुभया", "h": "शुभ (कल्याणकारी) बुद्धि से", "e": "with auspicious understanding"},
+      {"s": "संयुनक्तु", "h": "संयुक्त करे / जोड़े", "e": "may He unite (us)"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अवर्णः</em> = अ + वर्ण (नञ् तत्पुरुष) — 'वर्णरहित / रंगहीन।' <em>शक्तियोगात्</em> = शक्ति + योग (तत्पुरुष) + पञ्चमी विभक्ति — 'शक्ति के योग (संयोग) से।' <em>निहितार्थः</em> = निहित + अर्थ (बहुव्रीहि) — 'जिसका अर्थ (प्रयोजन) निहित (छिपा) है।' <em>दधाति</em> = √धा (जुहोत्यादिगण, परस्मैपदी, लट् लकार, प्रथम पुरुष, एकवचन) — 'धारण करता है।' <em>वि चैति</em> = वि + च + एति (√इ, अदादिगण) — सन्धि: च + एति = चैति (गुण) — 'और (विपरीत दिशा में) जाता है = संहार करता है।' <em>संयुनक्तु</em> = सम् + √युज् (रुधादिगण, लोट् लकार, प्रथम पुरुष, एकवचन) — 'संयुक्त करे।'<br><em>Eng:</em> <em>avarṇaḥ</em> = a + varṇa (nañ-tatpuruṣa) — 'without colour.' <em>śakti-yogāt</em> = ablative — 'through the yoga of power.' <em>dadhāti</em> = √dhā (juhotyādi, parasmaipada, laṭ, 3rd singular) — 'ordains.' <em>vi caiti</em> = vi + ca + eti (√i) — 'goes back = withdraws.' <em>saṁyunaktu</em> = sam + √yuj (rudhādi, loṭ, 3rd singular) — 'may He unite.'",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'अवर्ण' = निर्गुण ब्रह्म स्वयं सर्वथा निर्विशेष (attribute-less) है। 'शक्तियोग' = माया-शक्ति के द्वारा वह अनेक नाम-रूप प्रकट करता है। वर्ण (रंग/रूप) ब्रह्म में अध्यस्त (superimposed) हैं — ब्रह्म स्वयं अवर्ण ही रहता है। सृष्टि और प्रलय दोनों माया के कार्य हैं; ब्रह्म सदा अपरिवर्तनशील है।",
+        "en": "Shankara says 'avarṇa' means Brahman is entirely without attributes (nirviśeṣa). 'Śakti-yoga' refers to the power of Māyā through which It projects manifold names and forms. The colours/forms are superimposed (adhyasta) on Brahman — Brahman itself remains colourless. Both creation and dissolution are operations of Māyā; Brahman itself is ever changeless.",
+        "ins": "The painter has no colour of his own — every colour on the canvas is his power, not his nature. Know the colourless source behind the colourful world."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'अवर्ण' = भगवान् अप्राकृत (transcendent) हैं, प्राकृतिक गुणों (सत्त्व-रजस्-तमस्) से परे हैं। 'शक्तियोग' = उनकी स्वाभाविक शक्ति, जिससे वे वास्तविक (real) नाम-रूपों की सृष्टि करते हैं। जगत् मिथ्या नहीं — भगवान् का वास्तविक विकार (real transformation / pariṇāma) है।",
+        "en": "Ramanuja says 'avarṇa' means the Lord is transcendent (aprākṛta), beyond the material guṇas (sattva-rajas-tamas). 'Śakti-yoga' is His natural power by which He creates real names and forms. The world is not illusion — it is a real transformation (pariṇāma) of the Lord's energy.",
+        "ins": "God is beyond every colour in nature — yet every colour is genuinely His creation. The world is real precisely because its source is real."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'अवर्ण' = परम चेतना (Supreme Consciousness) स्वयं निराकार है। 'शक्तियोग' = चित्-शक्ति (Consciousness-Force) का सृजनात्मक योग, जिससे अनन्त रूप प्रकट होते हैं। यह शक्ति भ्रम नहीं — चेतना की सृजनात्मक अभिव्यक्ति है।",
+        "en": "Sri Aurobindo says 'avarṇa' = the Supreme Consciousness is itself formless. 'Śakti-yoga' = the creative yoga of Consciousness-Force (Chit-Shakti), from which infinite forms manifest. This power is not illusion but the creative self-expression of Consciousness.",
+        "ins": "Consciousness is colourless — yet it is the artist of every colour in existence. The formless does not deny form; it creates form as its own delight."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "sk": "तदेवाग्निस्तदादित्यस्तद्वायुस्तदु चन्द्रमाः । तदेव शुक्रं तद्ब्रह्म तदापस्तत्प्रजापतिः ॥",
+    "ro": "tat · eva · agniḥ · tat · ādityaḥ · tat · vāyuḥ · tat · u · candramāḥ | tat · eva · śukram · tat · brahma · tat · āpaḥ · tat · prajāpatiḥ ||",
+    "hi": "वही (तत्त्व) अग्नि है, वही आदित्य (सूर्य) है, वही वायु है, वही चन्द्रमा है। वही शुक्र (शुद्ध ज्योति / नक्षत्र) है, वही ब्रह्म (वेद / ब्रह्मन्) है, वही जल है, वही प्रजापति है।",
+    "en": "That alone is fire, That is the sun, That is the wind, That indeed is the moon. That alone is the bright one (the stars), That is Brahman, That is the waters, That is Prajāpati (the Lord of creatures).",
+    "ws": [
+      {"s": "तत्", "h": "वह / वही (परब्रह्म)", "e": "That (the Supreme)"},
+      {"s": "एव", "h": "ही / निश्चय ही", "e": "alone / indeed"},
+      {"s": "अग्निः", "h": "अग्नि / आग", "e": "fire"},
+      {"s": "आदित्यः", "h": "सूर्य / आदित्य", "e": "the sun"},
+      {"s": "वायुः", "h": "वायु / पवन", "e": "the wind"},
+      {"s": "चन्द्रमाः", "h": "चन्द्रमा", "e": "the moon"},
+      {"s": "शुक्रम्", "h": "शुक्र / शुद्ध ज्योति / नक्षत्र", "e": "the bright one / stars"},
+      {"s": "ब्रह्म", "h": "ब्रह्म / वेद / परम तत्त्व", "e": "Brahman / the Veda"},
+      {"s": "आपः", "h": "जल / आप", "e": "the waters"},
+      {"s": "प्रजापतिः", "h": "प्रजापति / प्रजाओं का स्वामी", "e": "Prajāpati / Lord of creatures"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> समस्त मन्त्र 'तत्' (That) की आवृत्ति पर आधारित है — सम्पूर्ण सृष्टि एक ही तत्त्व की अभिव्यक्ति। <em>तदेवाग्निः</em> = तत् + एव + अग्निः — सन्धि: त् + ए = दे (व्यञ्जन सन्धि), एव + अ = एवा (दीर्घ सन्धि)। <em>तदादित्यः</em> = तत् + आदित्यः। <em>शुक्रम्</em> = √शुच् (दीप्ति) + रक् — 'शुद्ध / उज्ज्वल / ज्योतिर्मय।' <em>आपः</em> = जल (बहुवचन, प्रथमा विभक्ति)। <em>प्रजापतिः</em> = प्रजा + पति (षष्ठी तत्पुरुष) — 'प्रजाओं का पति / स्वामी।'<br><em>Eng:</em> The entire verse is built on the refrain 'tat' (That) — the whole creation is the expression of one Reality. <em>śukram</em> = √śuc (to shine) + rak — 'bright / luminous.' <em>āpaḥ</em> = waters (nominative plural). <em>prajāpatiḥ</em> = prajā + pati (ṣaṣṭhī-tatpuruṣa) — 'lord of creatures.'",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — अग्नि, सूर्य, वायु आदि सब ब्रह्म के ही विवर्त (apparent transformation) हैं। 'तदेव' ('वही') — इस आवृत्ति से स्पष्ट है कि अनेकता केवल आभास है; वस्तुतः एक ही अद्वय तत्त्व सर्वत्र विद्यमान है।",
+        "en": "Shankara says fire, sun, wind etc. are all vivarta (apparent transformations) of Brahman. The refrain 'tat eva' ('That alone') makes clear that multiplicity is mere appearance; in truth one non-dual Reality pervades all.",
+        "ins": "One substance, many costumes. Fire, sun, moon, wind — strip away the costume, and the same actor stands behind every role."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — अग्नि, सूर्य आदि भगवान् के शरीर (body / śarīra) हैं। प्रत्येक तत्त्व में भगवान् अन्तर्यामी (inner controller) रूप से विराजमान हैं। 'तदेव' का अर्थ है कि प्रत्येक वस्तु का सत्य स्वरूप नारायण ही है।",
+        "en": "Ramanuja says fire, sun etc. are the body (śarīra) of the Lord. The Lord is the indwelling controller (antaryāmī) of every element. 'Tat eva' means the true nature of every entity is Nārāyaṇa.",
+        "ins": "The Lord does not replace fire or sun — He inhabits them. Everything you see is His body, and He is the soul within it."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — यह मन्त्र ब्रह्माण्डीय एकता (cosmic unity) का उद्घोष है। अग्नि, सूर्य, वायु — ये सब एक ही चेतना-शक्ति (Consciousness-Force) के विभिन्न स्तर और अभिव्यक्तियाँ हैं।",
+        "en": "Sri Aurobindo says this verse is a declaration of cosmic unity. Fire, sun, wind — all are different levels and expressions of one Consciousness-Force. The material elements are not separate from the Spirit; they are Spirit in its cosmic self-manifestation.",
+        "ins": "The universe is not many things — it is one Thing wearing many masks. Fire, wind, sun, moon — one Consciousness playing every cosmic role."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "sk": "त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी । त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः ॥",
+    "ro": "tvam · strī · tvam · pumān · asi · tvam · kumāraḥ · uta · vā · kumārī | tvam · jīrṇaḥ · daṇḍena · vañcasi · tvam · jātaḥ · bhavasi · viśvatomukhaḥ ||",
+    "hi": "तू स्त्री है, तू पुरुष है, तू कुमार (बालक) है अथवा कुमारी (बालिका) है। तू वृद्ध होकर दण्ड (लाठी) के सहारे चलता है; तू जन्म लेकर (सब दिशाओं में मुख वाला) विश्वतोमुख होता है।",
+    "en": "You are the woman, You are the man, You are the youth, or the maiden. You are the old man tottering with a staff; You are born with faces turned in every direction (viśvatomukha).",
+    "ws": [
+      {"s": "त्वम्", "h": "तू / आप (परमात्मा)", "e": "You (the Supreme)"},
+      {"s": "स्त्री", "h": "स्त्री / नारी", "e": "woman"},
+      {"s": "पुमान्", "h": "पुरुष / मनुष्य", "e": "man"},
+      {"s": "असि", "h": "हो / है (√अस्, लट्, मध्यम पुरुष)", "e": "are (2nd person singular)"},
+      {"s": "कुमारः", "h": "बालक / युवक", "e": "boy / youth"},
+      {"s": "कुमारी", "h": "बालिका / युवती", "e": "maiden / girl"},
+      {"s": "जीर्णः", "h": "वृद्ध / जर्जर", "e": "old / decrepit"},
+      {"s": "दण्डेन", "h": "दण्ड (लाठी) से / छड़ी के सहारे", "e": "with a staff"},
+      {"s": "वञ्चसि", "h": "चलता है / लड़खड़ाता है", "e": "you totter / walk unsteadily"},
+      {"s": "विश्वतोमुखः", "h": "सब दिशाओं में मुख वाला / सर्वव्यापी", "e": "with faces in every direction / omnipresent"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>पुमान्</em> = पुंस् शब्द, प्रथमा विभक्ति, एकवचन — 'पुरुष।' <em>वञ्चसि</em> = √वञ्च् (गतौ, भ्वादिगण, लट् लकार, मध्यम पुरुष) — 'चलता है / लड़खड़ाता है।' <em>विश्वतोमुखः</em> = विश्वतः + मुख (बहुव्रीहि) — 'जिसका मुख सब दिशाओं में है = सर्वव्यापी।' सम्पूर्ण मन्त्र में 'त्वम्' की सातवार आवृत्ति — ईश्वर ही सब रूपों में विद्यमान है।<br><em>Eng:</em> <em>pumān</em> = puṁs, nominative singular — 'man.' <em>vañcasi</em> = √vañc (to go/totter, bhvādi, laṭ, 2nd singular) — 'you totter.' <em>viśvatomukhaḥ</em> = viśvataḥ + mukha (bahuvrīhi) — 'having faces everywhere = omnipresent.' The sevenfold repetition of 'tvam' drives home that God is present in every form of existence.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'त्वम्' की आवृत्ति से यह सिद्ध होता है कि स्त्री, पुरुष, बालक, वृद्ध — ये सब उपाधियाँ (limiting adjuncts) हैं; इन सबका अधिष्ठान (substrate) एक ही निर्गुण ब्रह्म है। रूप अनेक, तत्त्व एक।",
+        "en": "Shankara says the repetition of 'tvam' proves that woman, man, boy, old man — all are upādhis (limiting adjuncts); the substrate (adhiṣṭhāna) of all is one nirguṇa Brahman. Forms are many, the Reality is one.",
+        "ins": "Every age, every gender, every form you meet — the same infinite Self wearing a new disguise. Not metaphor — the literal structure of reality."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् प्रत्येक जीव में अन्तर्यामी रूप से विद्यमान हैं। स्त्री, पुरुष, बालक, वृद्ध — ये सब भगवान् के शरीर (body) के अंश हैं। 'त्वम्' = नारायण, जो सर्वात्मा (soul of all) हैं।",
+        "en": "Ramanuja says the Lord is present as the inner controller (antaryāmī) in every being. Woman, man, youth, old person — all are parts of the Lord's body. 'Tvam' = Nārāyaṇa, the soul of all (sarvātman).",
+        "ins": "God does not merely observe every life-stage — He lives through it. From birth to old age, He is the soul walking through every human journey."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — दिव्य चेतना (Divine Consciousness) प्रत्येक रूप में, प्रत्येक अवस्था में अनुभव प्राप्त कर रही है। शैशव, यौवन, वार्धक्य — ये चेतना के विकास (evolution) के चरण हैं। 'विश्वतोमुख' = चेतना सब दिशाओं में, सब अनुभवों की ओर मुख किए हुए है।",
+        "en": "Sri Aurobindo says the Divine Consciousness is gathering experience in every form, every stage. Childhood, youth, old age — these are stages in the evolution of consciousness. 'Viśvatomukha' = consciousness facing in all directions, towards all experiences.",
+        "ins": "The Divine is not watching life from above — He is living it. Every age of every creature is His direct experience, His face turned towards a new horizon."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "sk": "नीलः पतङ्गो हरितो लोहिताक्षस्तडिद्गर्भ ऋतवः समुद्राः । अनादिमांस्त्वं विभुत्वेन वर्तसे यतो जातानि भुवनानि विश्वा ॥",
+    "ro": "nīlaḥ · pataṅgaḥ · haritaḥ · lohita-akṣaḥ · taḍit-garbhaḥ · ṛtavaḥ · samudrāḥ | anādi-mān · tvam · vibhutvena · vartase · yataḥ · jātāni · bhuvanāni · viśvā ||",
+    "hi": "तू नीला (गहरे रंग का) पतंग (तितली / सूर्य), हरित (हरा), लोहिताक्ष (लाल नेत्रों वाला), तड़ित्-गर्भ (विद्युत् को गर्भ में धारण करने वाला मेघ), ऋतुएँ और समुद्र — ये सब तू ही है। तू अनादि (आदिरहित) है; अपनी विभुता (सर्वव्यापकता) से विद्यमान है — जिससे सम्पूर्ण भुवन (लोक) उत्पन्न हुए हैं।",
+    "en": "You are the dark-blue butterfly (or sun-bird), the green one, the red-eyed, the lightning-bearing cloud, the seasons, the oceans. You, the beginningless (anādimān), exist through Your all-pervading nature (vibhutva) — from You all the worlds are born.",
+    "ws": [
+      {"s": "नीलः", "h": "नीला / गहरे रंग का", "e": "dark-blue"},
+      {"s": "पतङ्गः", "h": "पतंग / तितली / सूर्य-पक्षी", "e": "butterfly / sun-bird"},
+      {"s": "हरितः", "h": "हरा / हरित वर्ण का", "e": "green"},
+      {"s": "लोहिताक्षः", "h": "लोहित (लाल) अक्षि (नेत्र) वाला", "e": "red-eyed"},
+      {"s": "तडिद्गर्भः", "h": "विद्युत् को गर्भ में धारण करने वाला (मेघ)", "e": "bearing lightning in the womb (cloud)"},
+      {"s": "ऋतवः", "h": "ऋतुएँ", "e": "the seasons"},
+      {"s": "समुद्राः", "h": "समुद्र / सागर", "e": "the oceans"},
+      {"s": "अनादिमान्", "h": "आदिरहित / अनादि", "e": "beginningless"},
+      {"s": "विभुत्वेन", "h": "विभुता (सर्वव्यापकता) से", "e": "through all-pervading nature"},
+      {"s": "वर्तसे", "h": "विद्यमान है / स्थित है (√वृत्, लट्, मध्यम पुरुष)", "e": "You exist / abide"},
+      {"s": "भुवनानि विश्वा", "h": "सम्पूर्ण भुवन / सब लोक", "e": "all the worlds"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>लोहिताक्षः</em> = लोहित + अक्ष (बहुव्रीहि) — 'जिसके नेत्र लोहित (लाल) हैं।' <em>तडिद्गर्भः</em> = तडित् + गर्भ (बहुव्रीहि) — 'जिसके गर्भ में तड़ित् (विद्युत्) है' = मेघ। <em>अनादिमान्</em> = अनादि + मतुप् (मत्वर्थीय प्रत्यय) — 'आदि से रहित = अनादि।' <em>वर्तसे</em> = √वृत् (भ्वादिगण, आत्मनेपदी, लट् लकार, मध्यम पुरुष, एकवचन) — 'वर्तमान है / विद्यमान है।' <em>विभुत्वेन</em> = विभु + त्व (भावप्रत्यय) + तृतीया विभक्ति — 'सर्वव्यापकता के द्वारा।'<br><em>Eng:</em> <em>lohitākṣaḥ</em> = lohita + akṣa (bahuvrīhi) — 'red-eyed.' <em>taḍidgarbhaḥ</em> = taḍit + garbha (bahuvrīhi) — 'bearing lightning within = cloud.' <em>anādimān</em> = anādi + matup — 'beginningless.' <em>vartase</em> = √vṛt (bhvādi, ātmanepada, laṭ, 2nd singular) — 'you exist.'",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — नीलपतंग, हरित, लोहिताक्ष — ये सब विविध रंगों और रूपों की सृष्टि 'शक्तियोग' (मन्त्र 4.1) से ही होती है। ब्रह्म 'अनादि' है अर्थात् कारण-कार्य श्रृंखला में उसका कोई पूर्ववर्ती कारण नहीं। ब्रह्म ही ऋतु, समुद्र, मेघ — सबका उपादान (material cause) और निमित्त (efficient cause) कारण है।",
+        "en": "Shankara says the dark-blue butterfly, the green, the red-eyed — these manifold colours and forms arise from 'śakti-yoga' (verse 4.1). Brahman is 'anādi' — It has no prior cause in the cause-effect chain. Brahman is both the material (upādāna) and efficient (nimitta) cause of seasons, oceans, clouds — everything.",
+        "ins": "The butterfly, the cloud, the ocean — every colour in nature is evidence. Evidence not of a distant creator, but of a formless presence wearing each form from within."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् की विभूति (divine glory) प्रकृति के प्रत्येक रूप में प्रकट होती है। पतंग, मेघ, ऋतु, समुद्र — ये सब भगवान् के ऐश्वर्य (divine opulence) के दृश्य प्रमाण हैं। 'अनादिमान्' = भगवान् नित्य हैं; सृष्टि उनकी लीला (divine play) है।",
+        "en": "Ramanuja says the Lord's divine glory (vibhūti) is manifest in every form of nature. The butterfly, cloud, seasons, oceans — all are visible proof of the Lord's opulence (aiśvarya). 'Anādimān' = the Lord is eternal; creation is His divine play (līlā).",
+        "ins": "Nature is not a veil over God — nature is God's visible splendour. Every season, every ocean is a direct display of His infinite wealth."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — यह मन्त्र प्रकृति के सौन्दर्य में दिव्य उपस्थिति का दर्शन कराता है। नीलपतंग = जीवन का सूक्ष्म रूप, समुद्र = विराट् रूप — दोनों में वही अनादि चेतना विद्यमान है। सृष्टि चेतना का आत्म-विस्तार (self-extension) है।",
+        "en": "Sri Aurobindo says this verse reveals the Divine Presence in the beauty of nature. The blue butterfly = the minute form of life, the ocean = the vast form — in both the same beginningless Consciousness is present. Creation is the self-extension of Consciousness.",
+        "ins": "From the wing of a butterfly to the depth of an ocean — one Consciousness unfolds. Smallness and vastness are equally its body."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "sk": "अजामेकां लोहितशुक्लकृष्णां बह्वीः प्रजाः सृजमानां सरूपाः । अजो ह्येको जुषमाणोऽनुशेते जहात्येनां भुक्तभोगामजोऽन्यः ॥",
+    "ro": "ajām · ekām · lohita-śukla-kṛṣṇām · bahvīḥ · prajāḥ · sṛjamānām · sarūpāḥ | ajaḥ · hi · ekaḥ · juṣamāṇaḥ · anuśete · jahāti · enām · bhukta-bhogām · ajaḥ · anyaḥ ||",
+    "hi": "एक अजा (अजन्मा स्त्री = प्रकृति) है जो लोहित (लाल = रजस्), शुक्ल (सफ़ेद = सत्त्व) और कृष्ण (काला = तमस्) वर्ण की है, जो बहुत-सी प्रजाओं (जीवों) को अपने सदृश (सरूप) सृजती है। एक अज (अजन्मा पुरुष = जीवात्मा) उसका उपभोग करते हुए (जुषमाण) उसके साथ शयन करता है (अनुशेते); दूसरा अज (परमात्मा) उसे — जिसका भोग किया जा चुका है (भुक्तभोगा) — त्याग देता है (जहाति)।",
+    "en": "There is one unborn (ajā) female — red (= rajas), white (= sattva), and black (= tamas) — who produces many offspring resembling herself. One unborn (aja) male, delighting in her, lies with her; another unborn male abandons her after her pleasures have been enjoyed (bhukta-bhogā).",
+    "ws": [
+      {"s": "अजाम्", "h": "अजन्मा (स्त्री) को / प्रकृति को", "e": "the unborn female / Prakṛti (accusative)"},
+      {"s": "एकाम्", "h": "एक", "e": "one"},
+      {"s": "लोहितशुक्लकृष्णाम्", "h": "लाल-सफ़ेद-काली / रजोगुणी-सत्त्वगुणी-तमोगुणी", "e": "red-white-black / rajasic-sattvic-tamasic"},
+      {"s": "बह्वीः प्रजाः", "h": "बहुत-सी प्रजाओं को / अनेक सन्तानें", "e": "many offspring"},
+      {"s": "सृजमानाम्", "h": "सृजती हुई / उत्पन्न करती हुई", "e": "producing / creating"},
+      {"s": "सरूपाः", "h": "अपने सदृश / समान रूप वाली", "e": "resembling herself"},
+      {"s": "अजः", "h": "अजन्मा (पुरुष) / जीवात्मा", "e": "the unborn male / the individual soul"},
+      {"s": "जुषमाणः", "h": "उपभोग करता हुआ / आसक्त होकर", "e": "delighting in / enjoying"},
+      {"s": "अनुशेते", "h": "साथ शयन करता है / अनुसरण करता है", "e": "lies with / follows"},
+      {"s": "जहाति", "h": "त्याग देता है / छोड़ देता है", "e": "abandons / renounces"},
+      {"s": "एनाम्", "h": "इसे / इस (प्रकृति) को", "e": "her (Prakṛti)"},
+      {"s": "भुक्तभोगाम्", "h": "जिसका भोग किया जा चुका / भोगी हुई", "e": "whose pleasures have been enjoyed"},
+      {"s": "अजः अन्यः", "h": "दूसरा अजन्मा (पुरुष) / परमात्मा", "e": "another unborn male / the Supreme Self"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अजाम्</em> = अ + √जन् (जन्म) + अच् (कृत् प्रत्यय) — 'न जन्मा = अजन्मा'; स्त्रीलिङ्ग, द्वितीया विभक्ति। <em>लोहितशुक्लकृष्णाम्</em> = द्वन्द्व समास: लोहित (लाल = रजस्) + शुक्ल (सफ़ेद = सत्त्व) + कृष्ण (काला = तमस्) — त्रिगुणात्मक प्रकृति। <em>सृजमानाम्</em> = √सृज् (सृष्टि करना, शानच् प्रत्यय, आत्मनेपदी, वर्तमान कृदन्त) — 'सृजती हुई।' <em>जुषमाणः</em> = √जुष् (उपभोग, शानच्) — 'उपभोग करता हुआ / भोगता हुआ।' <em>अनुशेते</em> = अनु + √शी (शयन, आत्मनेपदी, लट्) — 'साथ शयन करता है / अनुसरण करता है।' <em>भुक्तभोगाम्</em> = भुक्त (√भुज् + क्त) + भोग (बहुव्रीहि) — 'जिसका भोग भोगा जा चुका है।' <strong>दार्शनिक महत्त्व:</strong> यह मन्त्र सांख्य-दर्शन के त्रिगुण सिद्धान्त का उपनिषदीय मूल स्रोत है।<br><em>Eng:</em> <em>ajām</em> = a + √jan + ac (kṛt) — 'unborn'; feminine accusative. <em>lohita-śukla-kṛṣṇām</em> = dvandva: red (rajas) + white (sattva) + black (tamas) — triguṇātmaka Prakṛti. <em>sṛjamānām</em> = √sṛj (śānac, present participle, ātmanepada) — 'creating.' <em>juṣamāṇaḥ</em> = √juṣ (śānac) — 'enjoying.' <em>anuśete</em> = anu + √śī (ātmanepada, laṭ) — 'lies alongside.' <em>bhukta-bhogām</em> = bhukta + bhoga (bahuvrīhi). This verse is the Upanishadic source of the triguṇa doctrine later systematised in Sāṅkhya.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'अजा' = माया / अविद्या / प्रकृति, जो तीन गुणों (सत्त्व-रजस्-तमस्) से युक्त है। प्रथम 'अज' = जीवात्मा, जो अविद्यावश प्रकृति का भोग करता है और संसार में बँधता है। द्वितीय 'अज' = परमात्मा (या विवेकी मुमुक्षु), जो प्रकृति के भोग से निवृत्त होकर उसे त्याग देता है। मुक्ति = प्रकृति (माया) से असंग होना, यह जानना कि आत्मा सदा अजन्मा और अभोक्ता है।",
+        "en": "Shankara says 'ajā' = Māyā / Avidyā / Prakṛti, possessed of three guṇas (sattva-rajas-tamas). The first 'aja' = the individual soul (jīva), who through ignorance (avidyā) enjoys Prakṛti and remains bound in saṁsāra. The second 'aja' = the Supreme Self (or the discriminating seeker), who renounces Prakṛti after realising the Self's true nature. Liberation = disidentification from Prakṛti, knowing the Self as ever unborn and non-enjoyer.",
+        "ins": "Two unborn males with the same unborn female: one gets entangled, the other walks free. The difference is not in what they encounter — it is in whether they identify with the encounter."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'अजा' = प्रकृति (नित्य, वास्तविक, भगवान् पर आश्रित)। तीन वर्ण = तीन गुण। प्रथम 'अज' = बद्ध जीवात्मा, जो प्रकृति के भोग में आसक्त है। द्वितीय 'अज' = मुक्त जीवात्मा (या भगवान् स्वयं), जो प्रकृति से अनासक्त है। भगवान् प्रकृति के नियन्ता हैं, भोक्ता नहीं।",
+        "en": "Ramanuja says 'ajā' = Prakṛti (eternal, real, dependent on the Lord). The three colours = the three guṇas. The first 'aja' = the bound soul, attached to enjoying Prakṛti. The second 'aja' = the liberated soul (or the Lord Himself), unattached to Prakṛti. The Lord controls Prakṛti but does not enjoy it as a bound soul does.",
+        "ins": "Prakṛti is real, her three colours are real — but one soul gets lost in them while another stands sovereign. Attachment makes the difference between bondage and freedom."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'अजा' = सृजनात्मक प्रकृति (Creative Nature), जिसके तीन गुण तीन रंगों से प्रतीक रूप में दर्शाए गए हैं। एक 'अज' = अज्ञानी पुरुष (Purusha in ignorance), जो प्रकृति में डूबा रहता है। दूसरा 'अज' = ज्ञानी पुरुष (Purusha in knowledge), जो प्रकृति से ऊपर उठकर उसका साक्षी बनता है। यह वैदिक दृष्टि सांख्य के पुरुष-प्रकृति द्वैत से पूर्व की है।",
+        "en": "Sri Aurobindo says 'ajā' = Creative Nature (Prakṛti), whose three guṇas are symbolised by three colours. One 'aja' = Purusha in ignorance, immersed in Nature's play. The other 'aja' = Purusha in knowledge, who rises above Nature and becomes its witness. This is the Vedic vision that precedes the Sāṅkhya dualism of Purusha and Prakṛti.",
+        "ins": "Nature is the eternal artist — red passion, white clarity, black inertia are her three pigments. One soul drowns in the painting; the other steps back and sees the painter."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "sk": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते । तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥",
+    "ro": "dvā · suparṇā · sayujā · sakhāyā · samānam · vṛkṣam · pariṣasvajāte | tayoḥ · anyaḥ · pippalam · svādu · atti · anaśnan · anyaḥ · abhicākaśīti ||",
+    "hi": "दो सुन्दर पंखों वाले पक्षी (सुपर्ण) — जो सदा संयुक्त (सयुज) और सखा (मित्र) हैं — एक ही वृक्ष को आश्रय लिए हुए हैं (परिषस्वजाते)। उनमें से एक पिप्पल (वृक्ष के फल) को स्वाद लेकर खाता है; दूसरा बिना खाए (अनश्नन्) केवल देखता रहता है (अभिचाकशीति)।",
+    "en": "Two birds of beautiful plumage (suparṇa), inseparable companions (sayuja sakhāya), cling to the same tree. Of the two, one eats the sweet fruit (pippala); the other, without eating (anaśnan), merely looks on (abhicākaśīti).",
+    "ws": [
+      {"s": "द्वा", "h": "दो", "e": "two"},
+      {"s": "सुपर्णा", "h": "सुन्दर पंखों वाले (पक्षी)", "e": "birds of beautiful plumage"},
+      {"s": "सयुजा", "h": "सदा संयुक्त / अविभाज्य", "e": "inseparable / ever united"},
+      {"s": "सखाया", "h": "सखा / मित्र", "e": "companions / friends"},
+      {"s": "समानं वृक्षम्", "h": "एक ही वृक्ष को", "e": "the same tree"},
+      {"s": "परिषस्वजाते", "h": "आलिंगन किए हुए हैं / आश्रय लिए हैं", "e": "cling to / embrace"},
+      {"s": "पिप्पलम्", "h": "पिप्पल (वृक्ष का फल)", "e": "the pippala fruit"},
+      {"s": "स्वादु", "h": "स्वादिष्ट / मधुर", "e": "sweet / tasty"},
+      {"s": "अत्ति", "h": "खाता है (√अद्, लट्)", "e": "eats"},
+      {"s": "अनश्नन्", "h": "बिना खाए / न खाते हुए", "e": "without eating"},
+      {"s": "अभिचाकशीति", "h": "देखता रहता है / साक्षी रूप से देखता है (√चक्ष्, यङ्लुगन्त)", "e": "looks on / witnesses (intensive of √cakṣ)"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सुपर्णा</em> = सु + पर्ण (बहुव्रीहि, द्विवचन) — 'जिनके पर्ण (पंख) सुन्दर हैं।' <em>सयुजा</em> = स + युज् — 'संयुक्त / जुड़े हुए' (द्विवचन)। <em>सखाया</em> = सखि (द्विवचन, प्रथमा) — 'दो सखा / मित्र।' <em>परिषस्वजाते</em> = परि + √स्वज् (आलिंगन, आत्मनेपदी, लट्, द्विवचन) — 'आलिंगन करते हैं / आश्रय लेते हैं।' <em>अत्ति</em> = √अद् (खाना, अदादिगण, लट्, प्रथम पुरुष, एकवचन) — 'खाता है।' <em>अभिचाकशीति</em> = अभि + √चक्ष् (देखना, यङ्लुगन्त / intensive form) — 'बार-बार देखता है / सतत साक्षी है।' यह मन्त्र ऋग्वेद 1.164.20 और मुण्डक 3.1.1 में भी पाया जाता है।<br><em>Eng:</em> <em>suparṇā</em> = su + parṇa (bahuvrīhi, dual) — 'of beautiful wings.' <em>pariṣasvajāte</em> = pari + √svaj (ātmanepada, laṭ, dual) — 'they cling to.' <em>atti</em> = √ad (adādi, laṭ, 3rd singular) — 'eats.' <em>abhicākaśīti</em> = abhi + √cakṣ (yaṅluganta / intensive) — 'looks on intently / witnesses.' This verse also appears in Ṛg Veda 1.164.20 and Muṇḍaka 3.1.1.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — वृक्ष = शरीर (देह)। दो पक्षी = जीवात्मा और परमात्मा। जीवात्मा कर्मफल (पिप्पल) भोगता है — सुख-दुःख का अनुभव करता है। परमात्मा = साक्षी चैतन्य (witness consciousness), जो कभी भोग में लिप्त नहीं होता — केवल देखता है। जब जीवात्मा को ज्ञान होता है कि 'मैं वह साक्षी हूँ' — तब भोग समाप्त, बन्धन समाप्त।",
+        "en": "Shankara says the tree = the body. The two birds = the individual soul (jīva) and the Supreme Self (Paramātman). The jīva eats the fruit of karma — experiences pleasure and pain. The Paramātman = witness consciousness (sākṣī caitanya), never entangled in enjoyment — merely witnessing. When the jīva realises 'I am that witness' — enjoyment ceases, bondage ends.",
+        "ins": "Two birds, one tree. One eats, one watches. You have been the eating bird all your life. The moment you discover you are actually the watching bird — suffering ends."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — दो पक्षी = जीवात्मा और परमात्मा, जो सदा भिन्न (distinct) हैं। जीवात्मा कर्मफल भोगता है; परमात्मा (नारायण) अन्तर्यामी रूप से साक्षी बने रहते हैं, कर्मबन्धन से सर्वथा मुक्त। दोनों का सम्बन्ध शरीर-आत्मा (body-soul) का है। मुक्ति = भगवान् की शरण में जाना, न कि अभेद (identity) का बोध।",
+        "en": "Ramanuja says the two birds = the individual soul and the Supreme, who are eternally distinct. The jīva eats karma-fruit; the Lord (Nārāyaṇa) remains the inner witness, wholly free from karmic bondage. Their relation is body-soul (śarīra-ātman). Liberation = surrender to the Lord, not realisation of identity.",
+        "ins": "The two birds are friends but never merge into one. The soul and God remain distinct — the soul's freedom lies not in becoming God but in recognising God as the ever-present companion."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — दो पक्षी = एक ही चेतना के दो पक्ष: (1) सतह की चेतना (surface consciousness) जो अनुभवों में डूबी है, और (2) गहन आत्मा (psychic being / antarātman) जो सतत साक्षी है। वृक्ष = जीवन का क्षेत्र। जब सतह की चेतना गहन आत्मा की ओर मुड़ती है — तब रूपान्तरण (transformation) आरम्भ होता है।",
+        "en": "Sri Aurobindo says the two birds = two aspects of one Consciousness: (1) the surface consciousness immersed in experience, and (2) the deeper soul (psychic being / antarātman), the silent witness. The tree = the field of life. When the surface consciousness turns towards the deeper soul — transformation begins.",
+        "ins": "You are both birds simultaneously — the one lost in experience and the one silently watching. The spiritual journey is the eating bird's slow turn to discover it has always been the watching bird as well."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "sk": "समाने वृक्षे पुरुषो निमग्नोऽनीशया शोचति मुह्यमानः । जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः ॥",
+    "ro": "samāne · vṛkṣe · puruṣaḥ · nimagnaḥ · anīśayā · śocati · muhyamānaḥ | juṣṭam · yadā · paśyati · anyam · īśam · asya · mahimānam · iti · vīta-śokaḥ ||",
+    "hi": "उसी वृक्ष पर पुरुष (जीवात्मा) निमग्न (डूबा हुआ) है; अनीशता (असमर्थता / अज्ञान) के कारण शोक करता है, मुह्यमान (मोहग्रस्त) है। जब वह दूसरे को — जो जुष्ट (पूजित / सेवित) ईश (स्वामी) है — और उसकी महिमा को देखता है, तब वीतशोक (शोकरहित) हो जाता है।",
+    "en": "On the same tree, the person (puruṣa / the individual soul) sits drowned (nimagna), grieving because of helplessness (anīśā), bewildered (muhyamāna). When he sees the other — the worshipped Lord (juṣṭam īśam) — and His glory, then he becomes free from sorrow (vīta-śoka).",
+    "ws": [
+      {"s": "समाने वृक्षे", "h": "उसी वृक्ष पर / एक ही वृक्ष में", "e": "on the same tree"},
+      {"s": "पुरुषः", "h": "पुरुष / जीवात्मा / व्यक्ति", "e": "the person / the individual soul"},
+      {"s": "निमग्नः", "h": "डूबा हुआ / निमग्न", "e": "drowned / immersed"},
+      {"s": "अनीशया", "h": "अनीशता (असमर्थता / अशक्ति) से", "e": "because of helplessness / lack of lordship"},
+      {"s": "शोचति", "h": "शोक करता है / दुःखी होता है", "e": "grieves"},
+      {"s": "मुह्यमानः", "h": "मोहग्रस्त होता हुआ / भ्रमित", "e": "bewildered / deluded"},
+      {"s": "जुष्टम्", "h": "पूजित / सेवित / आराधित", "e": "the worshipped / the adored"},
+      {"s": "ईशम्", "h": "ईश / स्वामी / भगवान्", "e": "the Lord"},
+      {"s": "महिमानम्", "h": "महिमा / वैभव", "e": "glory / greatness"},
+      {"s": "वीतशोकः", "h": "शोकरहित / शोक से मुक्त", "e": "free from sorrow"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>निमग्नः</em> = नि + √मज्ज् (डूबना, क्त प्रत्यय) — 'डूबा हुआ।' <em>अनीशया</em> = अन् + ईशा (तृतीया विभक्ति) — 'ईशत्व (lordship) के अभाव से = असमर्थता से।' <em>शोचति</em> = √शुच् (शोक करना, भ्वादिगण, लट्) — 'शोक करता है।' <em>मुह्यमानः</em> = √मुह् (मोह, शानच्, कर्मवाच्य / भाववाच्य) — 'मोहग्रस्त होता हुआ।' <em>जुष्टम्</em> = √जुष् (सेवन, क्त) — 'सेवित / पूजित।' <em>वीतशोकः</em> = वीत (गत / नष्ट) + शोक (बहुव्रीहि) — 'जिसका शोक चला गया है।' यह मन्त्र मुण्डक 3.1.2 से समान है।<br><em>Eng:</em> <em>nimagnaḥ</em> = ni + √majj + kta — 'drowned/immersed.' <em>anīśayā</em> = an + īśā (instrumental) — 'due to lack of lordship = helplessness.' <em>muhyamānaḥ</em> = √muh (śānac) — 'being deluded.' <em>juṣṭam</em> = √juṣ + kta — 'worshipped.' <em>vītaśokaḥ</em> = vīta + śoka (bahuvrīhi) — 'freed from sorrow.' Parallel in Muṇḍaka 3.1.2.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — जीवात्मा अज्ञानवश अपने को 'अनीश' (असमर्थ / सीमित) मानता है और शोक-मोह में डूबता है। जब वह 'अन्य' (ईश्वर = अपने ही वास्तविक स्वरूप) को और उसकी महिमा को देखता है — अर्थात् आत्मज्ञान होता है — तब शोक तत्काल नष्ट हो जाता है। 'अन्य' वस्तुतः 'अन्य' नहीं — वही अद्वय आत्मा है।",
+        "en": "Shankara says the jīva, through ignorance, considers itself 'anīśa' (helpless/limited) and drowns in grief and delusion. When it sees the 'other' (Īśvara = its own true nature) and His glory — i.e., self-knowledge dawns — sorrow is instantly destroyed. The 'other' is not truly other — it is the same non-dual Self.",
+        "ins": "Sorrow is a case of mistaken identity. The grieving bird thinks it is small and helpless. The moment it recognises itself as the watching bird — the grief was never real."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — जीवात्मा 'अनीश' है — भगवान् के बिना वह स्वयं सीमित और दुःखी है। जब वह भगवान् (ईश) को — जो 'जुष्ट' (उपासनीय / शरणागति योग्य) हैं — और उनकी महिमा को देखता है, तब शोक से मुक्त हो जाता है। मुक्ति भगवान् के दर्शन और शरण से प्राप्त होती है, स्वयं ब्रह्म बनने से नहीं।",
+        "en": "Ramanuja says the jīva is 'anīśa' — without the Lord, it is inherently limited and sorrowful. When it beholds the Lord (Īśa) — who is 'juṣṭa' (worthy of worship/surrender) — and His glory, it becomes free from sorrow. Liberation comes through the vision of and surrender to the Lord, not through becoming Brahman.",
+        "ins": "Sorrow ends not by becoming God but by seeing God. The moment the soul recognises its Lord seated on the same tree — grief dissolves in that recognition."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'निमग्न' = सतह-चेतना अनुभवों में डूबी हुई है। 'अनीश' = वह अपने को शक्तिहीन मानती है क्योंकि वह अपनी गहन शक्ति (deeper power) से विच्छिन्न है। जब यह चेतना 'ईश' को — अपनी ही गहराई में स्थित दिव्य उपस्थिति को — देखती है, तब शोक का अन्त और रूपान्तरण का आरम्भ होता है।",
+        "en": "Sri Aurobindo says 'nimagna' = the surface consciousness drowned in experiences. 'Anīśa' = it considers itself powerless because it is cut off from its deeper power. When this consciousness sees 'Īśa' — the Divine Presence seated in its own depths — sorrow ends and transformation begins.",
+        "ins": "You grieve because you have forgotten who you really are. The Lord is not far — He sits on the same tree, in the same body. Turn inward, see Him, and sorrow ends."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "sk": "ऋचो अक्षरे परमे व्योमन्यस्मिन्देवा अधि विश्वे निषेदुः । यस्तन्न वेद किमृचा करिष्यति य इत्तद्विदुस्त इमे समासते ॥",
+    "ro": "ṛcaḥ · akṣare · parame · vyoman · yasmin · devāḥ · adhi · viśve · niṣeduḥ | yaḥ · tat · na · veda · kim · ṛcā · kariṣyati · ye · it · tat · viduḥ · te · ime · samāsate ||",
+    "hi": "ऋचाएँ (वेदमन्त्र) उस परम अक्षर (अविनाशी) व्योम (आकाश / ब्रह्म) में स्थित हैं, जिसमें सम्पूर्ण देवता निवास करते हैं। जो उसे (उस अक्षर तत्त्व को) नहीं जानता, वह ऋचा (वेदमन्त्र) से क्या करेगा? जो उसे जानते हैं, वे ही यहाँ (इस ज्ञान में) सम्यक् स्थित हैं।",
+    "en": "The Ṛg verses rest in the supreme imperishable space (akṣara parama vyoman) in which all the gods are seated. What will he who does not know That do with the Ṛg verse? Those who know That — they alone are truly established here.",
+    "ws": [
+      {"s": "ऋचः", "h": "ऋचाएँ / वेदमन्त्र", "e": "the Ṛg verses / Vedic hymns"},
+      {"s": "अक्षरे", "h": "अक्षर (अविनाशी तत्त्व) में", "e": "in the imperishable"},
+      {"s": "परमे व्योमन्", "h": "परम व्योम (सर्वोच्च आकाश / ब्रह्म) में", "e": "in the supreme space / Brahman"},
+      {"s": "देवाः विश्वे", "h": "सम्पूर्ण देवता / सभी देव", "e": "all the gods"},
+      {"s": "निषेदुः", "h": "निवास करते हैं / स्थित हैं (√सद्, लिट्)", "e": "are seated / dwell"},
+      {"s": "वेद", "h": "जानता है (√विद्, लट्)", "e": "knows"},
+      {"s": "ऋचा", "h": "ऋचा (वेदमन्त्र) से", "e": "with the Ṛg verse"},
+      {"s": "करिष्यति", "h": "क्या करेगा (√कृ, लृट्)", "e": "what will he do"},
+      {"s": "समासते", "h": "सम्यक् स्थित हैं / एकत्र बैठे हैं (सम् + √आस्)", "e": "are truly established / sit together"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अक्षरे</em> = अ + √क्षर् (नाश) — 'जो नष्ट न हो = अविनाशी'; सप्तमी विभक्ति — 'अक्षर में।' <em>व्योमन्</em> = व्योमन् (नपुंसकलिङ्ग, सप्तमी) — 'आकाश में / अन्तराकाश में।' <em>निषेदुः</em> = नि + √सद् (बैठना, लिट् लकार, प्रथम पुरुष, बहुवचन) — 'बैठे हैं / स्थित हैं।' <em>करिष्यति</em> = √कृ (लृट् लकार, प्रथम पुरुष, एकवचन) — 'करेगा।' <em>समासते</em> = सम् + √आस् (बैठना, आत्मनेपदी, लट् लकार, बहुवचन) — 'सम्यक् स्थित हैं।' यह मन्त्र ऋग्वेद 1.164.39 से उद्धृत है।<br><em>Eng:</em> <em>akṣare</em> = a + √kṣar — 'imperishable'; locative. <em>vyoman</em> = locative of vyoman — 'in the space.' <em>niṣeduḥ</em> = ni + √sad (liṭ, 3rd plural) — 'are seated.' <em>kariṣyati</em> = √kṛ (lṛṭ, 3rd singular) — 'will do.' <em>samāsate</em> = sam + √ās (laṭ, 3rd plural) — 'are established.' Quoted from Ṛg Veda 1.164.39.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'अक्षर परम व्योम' = निर्गुण ब्रह्म, जो सब मन्त्रों, सब देवताओं, सब ज्ञान का आधार (substratum) है। वेद का पाठ करना पर्याप्त नहीं — वेद के मूल (ब्रह्म) को जानना आवश्यक है। बिना ब्रह्मज्ञान के वेदपाठ केवल शब्दजाल है।",
+        "en": "Shankara says 'akṣara parama vyoman' = nirguṇa Brahman, the substratum of all mantras, all gods, all knowledge. Reciting the Veda is not enough — one must know the source (Brahman) of the Veda. Without brahma-jñāna, Vedic recitation is mere verbiage.",
+        "ins": "The Veda is a map. Brahman is the territory. If you memorise the map but never visit the territory — what use is the map?"
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'अक्षर परम व्योम' = भगवान् का परमधाम (Vaikuṇṭha), जहाँ सब देवता और सब वेदमन्त्र स्थित हैं। वेदाध्ययन का सच्चा उद्देश्य भगवान् को जानना है। जो भगवान् को नहीं जानता, उसके लिए वेद निरर्थक है।",
+        "en": "Ramanuja says 'akṣara parama vyoman' = the Lord's supreme abode (Vaikuṇṭha), where all gods and all Vedic mantras abide. The true purpose of Vedic study is to know the Lord. For one who does not know the Lord, the Veda is fruitless.",
+        "ins": "The Vedas are not an end — they are a road. The road leads to God. Walk the road without knowing the destination, and you wander in circles."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'अक्षर परम व्योम' = चेतना का परम अव्यक्त आयाम (supreme unmanifest dimension of Consciousness), जहाँ सब ज्ञान अव्यक्त रूप में विद्यमान है। वेदमन्त्र उस चेतना के शाब्दिक प्रतीक हैं; प्रतीक को जानना पर्याप्त नहीं — उस चेतना को प्रत्यक्ष अनुभव करना आवश्यक है।",
+        "en": "Sri Aurobindo says 'akṣara parama vyoman' = the supreme unmanifest dimension of Consciousness, where all knowledge exists in seed form. Vedic mantras are verbal symbols of that Consciousness; knowing the symbol is not enough — one must directly experience that Consciousness.",
+        "ins": "Words are containers of consciousness. The Vedic verses rest in a space beyond words — know that space, and every verse comes alive."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "sk": "मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम् । तस्यावयवभूतैस्तु व्याप्तं सर्वमिदं जगत् ॥",
+    "ro": "māyām · tu · prakṛtim · vidyāt · māyinam · tu · maheśvaram | tasya · avayava-bhūtaiḥ · tu · vyāptam · sarvam · idam · jagat ||",
+    "hi": "माया को प्रकृति जानो, और मायी (माया के स्वामी) को महेश्वर (परम ईश्वर) जानो। उसके (महेश्वर के) अवयवभूत (अंशभूत / अवयव-स्वरूप) तत्त्वों से यह सम्पूर्ण जगत् व्याप्त (परिपूर्ण) है।",
+    "en": "Know Māyā to be Prakṛti (Nature), and the Māyin (the wielder of Māyā) to be Maheśvara (the Great Lord). This entire world is pervaded by beings that are His parts (avayava-bhūta).",
+    "ws": [
+      {"s": "मायाम्", "h": "माया को", "e": "Māyā (accusative)"},
+      {"s": "प्रकृतिम्", "h": "प्रकृति (को) / मूल प्रकृति", "e": "Prakṛti / Nature"},
+      {"s": "विद्यात्", "h": "जानो / जानना चाहिए (√विद्, विधिलिङ्)", "e": "one should know (optative of √vid)"},
+      {"s": "मायिनम्", "h": "मायी (माया के स्वामी) को", "e": "the Māyin / the wielder of Māyā"},
+      {"s": "महेश्वरम्", "h": "महेश्वर / परम ईश्वर", "e": "Maheśvara / the Great Lord"},
+      {"s": "तस्य", "h": "उसके / महेश्वर के", "e": "His (of the Great Lord)"},
+      {"s": "अवयवभूतैः", "h": "अवयवभूत (अंशरूप) तत्त्वों से", "e": "by beings that are His parts"},
+      {"s": "व्याप्तम्", "h": "व्याप्त / परिपूर्ण", "e": "pervaded / filled"},
+      {"s": "सर्वम् इदम् जगत्", "h": "यह सम्पूर्ण जगत्", "e": "this entire world"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>मायाम्</em> = माया (द्वितीया विभक्ति) — 'माया को।' <em>विद्यात्</em> = √विद् (ज्ञान, विधिलिङ् लकार, प्रथम पुरुष, एकवचन) — 'जानना चाहिए / जाने।' <em>मायिनम्</em> = मायिन् (द्वितीया विभक्ति) — 'माया को धारण करने वाले को'; मायिन् = माया + इनि (तद्धित प्रत्यय) — 'माया का स्वामी।' <em>महेश्वरम्</em> = महत् + ईश्वर (कर्मधारय) — 'महान ईश्वर।' <em>अवयवभूतैः</em> = अवयव + भूत (बहुव्रीहि / तत्पुरुष, तृतीया बहुवचन) — 'जो (उसके) अवयव (अंश) बने हुए हैं — उनके द्वारा।' <em>व्याप्तम्</em> = वि + √आप् (क्त प्रत्यय) — 'व्याप्त / परिपूर्ण।' <strong>यह मन्त्र उपनिषदीय साहित्य में माया की सबसे प्रसिद्ध परिभाषा है।</strong><br><em>Eng:</em> <em>vidyāt</em> = √vid (vidhiliṅ, 3rd singular) — 'one should know.' <em>māyinam</em> = māyin (accusative) — māyā + ini (taddhita) — 'possessor of Māyā.' <em>maheśvaram</em> = mahat + īśvara (karmadhāraya) — 'the Great Lord.' <em>avayavabhūtaiḥ</em> = avayava + bhūta (instrumental plural) — 'by those that are His parts.' <strong>This is the most celebrated definition of Māyā in Upanishadic literature.</strong>",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — यह मन्त्र माया-वाद का मूल स्रोत है। 'माया = प्रकृति' — यह ब्रह्म की अनिर्वचनीय (indescribable) शक्ति है, जो न सत् है न असत् (neither real nor unreal)। 'मायी = महेश्वर' — ब्रह्म ही माया का अधिष्ठान (substrate) है; माया स्वतन्त्र नहीं। 'अवयवभूत' = जगत् ब्रह्म का वास्तविक अंश नहीं — माया-कृत आभास है। निर्गुण ब्रह्म माया से अस्पृष्ट (untouched) रहता है, जैसे रज्जु सर्पभ्रम से। माया का 'ज्ञान' (विद्यात्) ही उसका निवारण है।",
+        "en": "Shankara says this is the foundational verse of Māyā-vāda. 'Māyā = Prakṛti' — this is the indescribable (anirvacanīya) power of Brahman, neither real nor unreal. 'Māyin = Maheśvara' — Brahman is the substrate of Māyā; Māyā has no independent existence. 'Avayava-bhūta' = the world is not a real part of Brahman — it is an appearance created by Māyā. Nirguṇa Brahman remains untouched by Māyā, as the rope remains untouched by the snake-illusion. Knowledge of Māyā (vidyāt) is itself its dissolution.",
+        "ins": "Māyā is not an independent enemy — it is your own power seen through ignorance. Know the magician, and the magic dissolves. This verse is the key: the Lord and His Māyā are not two."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'माया = प्रकृति' — प्रकृति वास्तविक (real) है, मिथ्या नहीं। यह भगवान् की शक्ति और उनका शरीर है। 'मायी = महेश्वर' — नारायण, जो प्रकृति के नियन्ता, स्वामी और अन्तर्यामी हैं। 'माया' का अर्थ 'अद्भुत शक्ति' (wonderful power) है, 'भ्रम' (illusion) नहीं। 'अवयवभूत' = जगत् के समस्त प्राणी और तत्त्व भगवान् के वास्तविक अंश (real parts / modes / prakāra) हैं। जगत् = भगवान् का शरीर; आत्मा = भगवान्।",
+        "en": "Ramanuja says 'Māyā = Prakṛti' — Prakṛti is real, not illusion. It is the Lord's power and His body. 'Māyin = Maheśvara' — Nārāyaṇa, who is the controller, master, and inner soul of Prakṛti. 'Māyā' means 'wonderful power,' not 'illusion.' 'Avayava-bhūta' = all beings and elements of the world are real parts (modes / prakāra) of the Lord. The world = the Lord's body; the soul = the Lord.",
+        "ins": "Māyā is not illusion — it is God's power of wonder. The world is not a dream — it is God's real body. Know the body's soul, and you know everything."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'माया = प्रकृति' — प्रकृति चेतना-शक्ति (Consciousness-Force / Chit-Shakti) है, जो सृजन का माध्यम है। 'मायी = महेश्वर' — वह परम चेतना जो प्रकृति को अपनी अभिव्यक्ति के रूप में प्रयोग करती है। माया न तो पूर्ण सत्य है (शंकर), न केवल अद्भुत शक्ति (रामानुज) — यह चेतना की सृजनात्मक आत्म-सीमितीकरण (creative self-limitation) है, जिससे अनन्त रूप प्रकट होते हैं। 'अवयवभूत' = प्रत्येक प्राणी परम चेतना का वास्तविक अंश है — भ्रम नहीं, अभिव्यक्ति है।",
+        "en": "Sri Aurobindo says 'Māyā = Prakṛti' — Prakṛti is Consciousness-Force (Chit-Shakti), the medium of creation. 'Māyin = Maheśvara' — the Supreme Consciousness that uses Prakṛti as its means of self-expression. Māyā is neither mere illusion nor mere wonder — it is the creative self-limitation of Consciousness, from which infinite forms emerge. 'Avayava-bhūta' = every being is a real portion of the Supreme Consciousness — not illusion but expression.",
+        "ins": "Māyā is the art of the Infinite becoming finite — not as a mistake, but as a creative act. The world is not a veil over God; it is God in the act of self-expression."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "sk": "यो योनिं योनिमधितिष्ठत्येको विश्वानि रूपाणि योनीश्च सर्वाः । ऋषिं प्रसूतं कपिलं यस्तमग्रे ज्ञानैर्बिभर्ति जायमानं च पश्येत् ॥",
+    "ro": "yaḥ · yonim · yonim · adhitiṣṭhati · ekaḥ · viśvāni · rūpāṇi · yonīḥ · ca · sarvāḥ | ṛṣim · prasūtam · kapilam · yaḥ · tam · agre · jñānaiḥ · bibharti · jāyamānam · ca · paśyet ||",
+    "hi": "जो एक (अद्वितीय) होकर प्रत्येक योनि (उत्पत्ति-स्थान) को अधिष्ठित (preside over) करता है — सम्पूर्ण रूपों और सम्पूर्ण योनियों को — तथा जिसने ऋषि कपिल को, जो (सृष्टि के) आदि में उत्पन्न हुए, ज्ञान से पोषित किया (बिभर्ति) और उन्हें जन्म लेते हुए देखा (पश्येत्)।",
+    "en": "He who, being one, presides over every womb (yoni), over all forms and all sources — who, at the beginning, nourished with knowledge the seer Kapila who was born (prasūta) and beheld him being born —",
+    "ws": [
+      {"s": "योनिं योनिम्", "h": "प्रत्येक योनि को / हर उत्पत्ति-स्थान को", "e": "every womb / every source of birth"},
+      {"s": "अधितिष्ठति", "h": "अधिष्ठित करता है / शासन करता है", "e": "presides over / governs"},
+      {"s": "एकः", "h": "एक / अद्वितीय", "e": "the One"},
+      {"s": "विश्वानि रूपाणि", "h": "सम्पूर्ण रूप", "e": "all forms"},
+      {"s": "योनीः सर्वाः", "h": "सम्पूर्ण योनियाँ / सब उत्पत्ति-स्थान", "e": "all sources of birth"},
+      {"s": "ऋषिम्", "h": "ऋषि को", "e": "the seer"},
+      {"s": "प्रसूतम्", "h": "उत्पन्न / जन्मा हुआ", "e": "born / produced"},
+      {"s": "कपिलम्", "h": "कपिल (ऋषि) को", "e": "Kapila (the sage)"},
+      {"s": "ज्ञानैः", "h": "ज्ञान से / ज्ञानों के द्वारा", "e": "with knowledge(s)"},
+      {"s": "बिभर्ति", "h": "पोषण करता है / धारण करता है (√भृ, लट्)", "e": "nourishes / sustains"},
+      {"s": "जायमानम्", "h": "जन्म लेते हुए / उत्पन्न होते हुए", "e": "being born"},
+      {"s": "पश्येत्", "h": "देखे / देखता था (विधिलिङ्)", "e": "may one see / beheld"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>योनिं योनिम्</em> = योनि शब्द की आवृत्ति — 'प्रत्येक योनि को' (distributive repetition)। <em>अधितिष्ठति</em> = अधि + √स्था (तिष्ठति, लट्, प्रथम पुरुष) — 'अधिष्ठित करता है / शासन करता है।' <em>प्रसूतम्</em> = प्र + √सू (उत्पन्न, क्त) — 'उत्पन्न हुआ।' <em>कपिलम्</em> — कपिल = सांख्यदर्शन के प्रवर्तक ऋषि, या 'पिङ्गल वर्ण वाला' (tawny-coloured)। शंकर के अनुसार यह हिरण्यगर्भ (ब्रह्मा) का ही नाम है। <em>बिभर्ति</em> = √भृ (धारण/पोषण, जुहोत्यादिगण, लट्, प्रथम पुरुष) — 'धारण/पोषण करता है।' <em>पश्येत्</em> = √दृश् (विधिलिङ्) — 'देखे / देखा।'<br><em>Eng:</em> <em>yoniṁ yonim</em> = distributive repetition — 'every womb.' <em>adhitiṣṭhati</em> = adhi + √sthā (laṭ) — 'presides over.' <em>kapilam</em> = the sage Kapila, or Hiraṇyagarbha (according to Śaṅkara). <em>bibharti</em> = √bhṛ (juhotyādi, laṭ) — 'nourishes.' <em>paśyet</em> = √dṛś (vidhiliṅ) — 'may one see.'",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'एक' = निर्गुण ब्रह्म, जो समस्त योनियों (उत्पत्ति-स्थानों) का अधिष्ठाता है। 'कपिल' = हिरण्यगर्भ (ब्रह्मा), सृष्टि का प्रथम जीव। ब्रह्म ने हिरण्यगर्भ को ज्ञान दिया — स्वयं अकर्ता (non-agent) रहते हुए। सब योनियाँ ब्रह्म में अध्यस्त (superimposed) हैं; ब्रह्म योनिरहित है।",
+        "en": "Shankara says 'eka' = nirguṇa Brahman, the substratum of all wombs (sources of creation). 'Kapila' = Hiraṇyagarbha (Brahmā), the first being of creation. Brahman gave knowledge to Hiraṇyagarbha while itself remaining the non-agent. All wombs are superimposed on Brahman; Brahman is itself without any womb/source.",
+        "ins": "Every origin has its origin — and that origin is one. The Lord who presides over every womb is Himself without origin."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् (नारायण) प्रत्येक योनि (species) में अन्तर्यामी रूप से विराजमान हैं। 'कपिल' = कपिल ऋषि, जिन्हें भगवान् ने ज्ञान प्रदान किया। भगवान् ही समस्त जीवों और रूपों के नियन्ता और पोषक हैं।",
+        "en": "Ramanuja says the Lord (Nārāyaṇa) is the indwelling controller in every species (yoni). 'Kapila' = the sage Kapila, to whom the Lord gave knowledge. The Lord alone is the governor and sustainer of all beings and forms.",
+        "ins": "No being is born without God's presence in its origin. He presides over every womb — from the first sage to the smallest creature."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'योनिं योनिम्' — दिव्य चेतना प्रत्येक सृजन-बिन्दु (creative nexus) में उपस्थित है। 'कपिल' = प्रथम ज्ञानी ऋषि, जिसे दिव्य ज्ञान प्राप्त हुआ। सृष्टि एक चेतन प्रक्रिया है — चेतना (Consciousness) प्रत्येक जन्म में स्वयं को प्रकट करती है और प्रत्येक ज्ञानी में स्वयं को पहचानती है।",
+        "en": "Sri Aurobindo says 'yoniṁ yonim' — the Divine Consciousness is present at every creative nexus. 'Kapila' = the first knowing seer, endowed with divine knowledge. Creation is a conscious process — Consciousness manifests itself in every birth and recognises itself in every seer.",
+        "ins": "God does not create from outside — He enters every womb, every origin, every beginning. Creation is consciousness unfolding from within."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "sk": "छन्दांसि यज्ञाः क्रतवो व्रतानि भूतं भव्यं यच्च वेदा वदन्ति । अस्मान्मायी सृजते विश्वमेतत्तस्मिंश्चान्यो मायया सन्निरुद्धः ॥",
+    "ro": "chandāṁsi · yajñāḥ · kratavaḥ · vratāni · bhūtam · bhavyam · yat · ca · vedāḥ · vadanti | asmāt · māyī · sṛjate · viśvam · etat · tasmin · ca · anyaḥ · māyayā · sanniruddhaḥ ||",
+    "hi": "छन्द (वेदमन्त्र), यज्ञ, क्रतु (कर्मकाण्ड), व्रत, भूत (अतीत), भव्य (भविष्य) — और जो कुछ वेद कहते हैं — यह सब (विश्व) उस मायी (माया के स्वामी) से सृजित होता है। और उसमें (उस विश्व में) दूसरा (जीवात्मा) माया से बँधा हुआ (सन्निरुद्ध) है।",
+    "en": "The metres (chandas), the sacrifices, the rituals, the vows, the past, the future, and all that the Vedas declare — from this (Supreme), the Māyin (Lord of Māyā) projects this entire universe. And in it, the other (the individual soul) is held captive (sanniruddha) by Māyā.",
+    "ws": [
+      {"s": "छन्दांसि", "h": "छन्द / वेदमन्त्र / वैदिक छन्द", "e": "the metres / Vedic hymns"},
+      {"s": "यज्ञाः", "h": "यज्ञ", "e": "sacrifices"},
+      {"s": "क्रतवः", "h": "क्रतु / वैदिक कर्मकाण्ड", "e": "rituals"},
+      {"s": "व्रतानि", "h": "व्रत / नियम", "e": "vows / observances"},
+      {"s": "भूतम्", "h": "अतीत / जो हो चुका", "e": "the past"},
+      {"s": "भव्यम्", "h": "भविष्य / जो होने वाला है", "e": "the future"},
+      {"s": "मायी", "h": "मायी / माया का स्वामी", "e": "the Māyin / wielder of Māyā"},
+      {"s": "सृजते", "h": "सृजता है / रचता है", "e": "projects / creates"},
+      {"s": "सन्निरुद्धः", "h": "बँधा हुआ / अवरुद्ध / कैद", "e": "held captive / bound / confined"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>छन्दांसि</em> = छन्दस् (नपुंसकलिङ्ग, प्रथमा, बहुवचन) — 'छन्द / वेदमन्त्र।' <em>क्रतवः</em> = क्रतु (प्रथमा, बहुवचन) — 'कर्मकाण्ड / वैदिक अनुष्ठान।' <em>सृजते</em> = √सृज् (विसर्गादिगण, आत्मनेपदी, लट्, प्रथम पुरुष) — 'सृजता है।' <em>सन्निरुद्धः</em> = सम् + नि + √रुध् (अवरोध, क्त) — 'सम्यक् रूप से अवरुद्ध / बँधा हुआ।' <em>अस्मात्</em> = इदम् (पञ्चमी विभक्ति) — 'इससे / इस (परमात्मा) से।' <em>मायी</em> = माया + इनि — 'माया को धारण करने वाला।'<br><em>Eng:</em> <em>chandāṁsi</em> = chandas (neuter, nominative plural) — 'metres.' <em>sṛjate</em> = √sṛj (ātmanepada, laṭ) — 'projects.' <em>sanniruddhaḥ</em> = sam + ni + √rudh + kta — 'held captive / confined.' <em>māyī</em> = māyā + ini — 'possessor of Māyā.'",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — छन्द, यज्ञ, काल (भूत-भविष्य) — सब माया-कृत हैं। 'मायी' = ब्रह्म (सगुण दृष्टि से)। 'अन्य' = जीवात्मा, जो अविद्या (माया) से बँधा है। माया से मुक्ति = ज्ञान द्वारा; माया का आश्रय (support) ब्रह्म है, किन्तु ब्रह्म माया में बँधा नहीं।",
+        "en": "Shankara says metres, sacrifices, time (past-future) — all are products of Māyā. 'Māyī' = Brahman (from the saguṇa perspective). 'Anya' = the individual soul, bound by avidyā (Māyā). Liberation from Māyā = through knowledge; Māyā rests on Brahman but Brahman is never bound by it.",
+        "ins": "Even the Vedas, even time itself, are within Māyā. The soul trapped in Māyā cannot escape by using Māyā's own products — only by knowing the one who wields Māyā."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् (मायी) अपनी अद्भुत शक्ति (माया) से वेद, यज्ञ, काल — सब की सृष्टि करते हैं। 'अन्य' (जीवात्मा) प्रकृति के बन्धन में है — किन्तु यह बन्धन भगवान् की कृपा और भक्ति से टूट सकता है।",
+        "en": "Ramanuja says the Lord (Māyin) through His wonderful power (Māyā) creates the Vedas, sacrifices, and time itself. The 'other' (jīva) is bound in the fetters of Prakṛti — but this bondage can be broken through the Lord's grace and devotion.",
+        "ins": "Māyā creates everything — even sacred rituals. The soul is trapped not because rituals are false, but because without the Lord's grace, even sacred acts cannot free you."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — चेतना-शक्ति (Consciousness-Force) ही छन्द, यज्ञ, काल — सब कुछ प्रक्षेपित करती है। 'अन्य' = व्यक्तिगत चेतना, जो सृष्टि के जाल में बँधी है। मुक्ति = इस चेतना-शक्ति को उसके मूल (Source) में पहचानना — तब बन्धन रूपान्तरित होकर स्वतन्त्रता बन जाता है।",
+        "en": "Sri Aurobindo says Consciousness-Force projects metres, sacrifices, time — everything. The 'other' = the individual consciousness caught in the web of creation. Liberation = recognising this Consciousness-Force at its Source — then bondage transforms into freedom.",
+        "ins": "Everything — time, ritual, scripture — is projected from one source. The soul is confined in the projection until it turns to see the projector."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "sk": "यो देवानां प्रभवश्चोद्भवश्च विश्वाधिपो रुद्रो महर्षिः । हिरण्यगर्भं पश्यत जायमानं स नो बुद्ध्या शुभया संयुनक्तु ॥",
+    "ro": "yaḥ · devānām · prabhavaḥ · ca · udbhavaḥ · ca · viśva-adhipaḥ · rudraḥ · maharṣiḥ | hiraṇya-garbham · paśyata · jāyamānam · saḥ · naḥ · buddhyā · śubhayā · saṁyunaktu ||",
+    "hi": "जो देवताओं का प्रभव (उत्पत्ति का कारण) और उद्भव (प्रकट होने का स्रोत) है, विश्वाधिप (विश्व का स्वामी) है, रुद्र है, महर्षि है — जिसने हिरण्यगर्भ (ब्रह्मा) को जन्म लेते हुए देखा — वह हमें शुभ बुद्धि से संयुक्त करे।",
+    "en": "He who is the origin (prabhava) and source (udbhava) of the gods, the overlord of the universe, Rudra, the great seer — who beheld Hiraṇyagarbha (the Golden Embryo / Brahmā) being born — may He unite us with an auspicious understanding.",
+    "ws": [
+      {"s": "देवानाम्", "h": "देवताओं का", "e": "of the gods"},
+      {"s": "प्रभवः", "h": "उत्पत्ति का कारण / प्रभव", "e": "the origin / source of arising"},
+      {"s": "उद्भवः", "h": "उद्भव / प्रकट होने का स्रोत", "e": "the source of manifestation"},
+      {"s": "विश्वाधिपः", "h": "विश्व का अधिपति / स्वामी", "e": "overlord of the universe"},
+      {"s": "रुद्रः", "h": "रुद्र / शिव", "e": "Rudra"},
+      {"s": "महर्षिः", "h": "महान ऋषि / परम द्रष्टा", "e": "the great seer"},
+      {"s": "हिरण्यगर्भम्", "h": "हिरण्यगर्भ / ब्रह्मा / सुवर्ण-गर्भ", "e": "Hiraṇyagarbha / the Golden Embryo"},
+      {"s": "जायमानम्", "h": "जन्म लेते हुए / उत्पन्न होते हुए", "e": "being born"},
+      {"s": "पश्यत", "h": "देखा / अवलोकन किया (√दृश्, लट् / लङ्)", "e": "beheld / saw"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रभवः</em> = प्र + √भू (भावप्रत्यय) — 'उत्पत्ति / कारण।' <em>उद्भवः</em> = उत् + √भू — 'प्रकट होना / उद्गम।' <em>विश्वाधिपः</em> = विश्व + अधिप (षष्ठी तत्पुरुष) — 'विश्व का अधिपति।' <em>हिरण्यगर्भम्</em> = हिरण्य (स्वर्ण) + गर्भ (बहुव्रीहि) — 'जिसका गर्भ सुवर्णमय है'; यह ब्रह्मा / सृष्टि के प्रथम जन्मे का नाम है। <em>पश्यत</em> = √दृश् (लट् / लुङ्, प्रथम पुरुष / लोट् बहुवचन) — 'देखा / देखो।' अन्तिम पंक्ति 'स नो बुद्ध्या शुभया संयुनक्तु' मन्त्र 4.1 से समान — यह अध्याय की आवर्ती प्रार्थना (recurring prayer) है।<br><em>Eng:</em> <em>prabhavaḥ</em> = pra + √bhū — 'source.' <em>hiraṇyagarbham</em> = hiraṇya + garbha (bahuvrīhi) — 'Golden Embryo / Brahmā.' <em>paśyata</em> = √dṛś. The closing line echoes 4.1 — the chapter's recurring prayer refrain.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — रुद्र = ब्रह्म का ईश्वर-रूप (Brahman as Īśvara)। ब्रह्म ने हिरण्यगर्भ (ब्रह्मा / सृष्टि का प्रथम जीव) को उत्पन्न होते हुए देखा — यह दर्शाता है कि ब्रह्म सृष्टि से पूर्व भी विद्यमान था। 'पश्यत' — ब्रह्म साक्षी (witness) है; वह स्वयं सृष्टि का अंश नहीं बनता।",
+        "en": "Shankara says Rudra = Brahman in its aspect as Īśvara. Brahman witnessed Hiraṇyagarbha being born — this shows Brahman existed prior to creation. 'Paśyata' — Brahman is the witness; It does not itself become a part of creation.",
+        "ins": "Even Brahmā — the creator — was created. Before the first-born was born, the Witness was already watching. That Witness is the true absolute."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — रुद्र = नारायण का एक नाम (destroyer of sorrow = दुःख-विनाशक)। भगवान् ने हिरण्यगर्भ (ब्रह्मा) को उत्पन्न किया और उन्हें ज्ञान दिया। भगवान् सम्पूर्ण देवताओं के भी कारण (cause) और आश्रय (support) हैं।",
+        "en": "Ramanuja says Rudra = a name of Nārāyaṇa (the destroyer of sorrow). The Lord created Hiraṇyagarbha (Brahmā) and gave him knowledge. The Lord is the cause and support of all gods.",
+        "ins": "The Lord of the gods is not one of the gods — He is their origin, their support, and their teacher. Even the creator was created."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — रुद्र = शक्ति और ज्ञान का संयोग; हिरण्यगर्भ = सृष्टि की प्रथम चेतन अभिव्यक्ति (first conscious manifestation)। परम चेतना (Supreme Consciousness) ने सृष्टि के प्रथम चरण (हिरण्यगर्भ) को 'देखा' — यह 'देखना' ही सृजन का कारण बना।",
+        "en": "Sri Aurobindo says Rudra = the union of power and knowledge; Hiraṇyagarbha = the first conscious manifestation of creation. The Supreme Consciousness 'saw' the first stage of creation — this 'seeing' itself was the act of creation.",
+        "ins": "Creation begins with seeing. The Supreme saw Hiraṇyagarbha being born — the act of divine seeing is the act of divine creating."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "sk": "यो देवानामधिपो यस्मिन्लोका अधिश्रिताः । य ईशेऽस्य द्विपदश्चतुष्पदः कस्मै देवाय हविषा विधेम ॥",
+    "ro": "yaḥ · devānām · adhipaḥ · yasmin · lokāḥ · adhiśritāḥ | yaḥ · īśe · asya · dvipadaḥ · catuṣpadaḥ · kasmai · devāya · haviṣā · vidhema ||",
+    "hi": "जो देवताओं का अधिपति (स्वामी) है, जिसमें सब लोक आश्रित (स्थित) हैं, जो इस (सृष्टि के) द्विपद (दो पैर वाले = मनुष्य) और चतुष्पद (चार पैर वाले = पशु) का ईश (स्वामी / शासक) है — उस देव को हम हवि (आहुति) से किस प्रकार सेवन करें (विधेम)?",
+    "en": "He who is the lord of the gods, in whom all the worlds rest, who rules over this (creation's) two-footed and four-footed beings — to that God let us offer worship (havis).",
+    "ws": [
+      {"s": "अधिपः", "h": "अधिपति / स्वामी", "e": "the lord / sovereign"},
+      {"s": "लोकाः", "h": "लोक / संसार", "e": "the worlds"},
+      {"s": "अधिश्रिताः", "h": "आश्रित / स्थित", "e": "resting in / dependent on"},
+      {"s": "ईशे", "h": "शासन करता है / स्वामी है (√ईश्, लट्)", "e": "rules / lords over"},
+      {"s": "द्विपदः", "h": "दो पैर वाले / मनुष्य आदि", "e": "the two-footed / humans"},
+      {"s": "चतुष्पदः", "h": "चार पैर वाले / पशु आदि", "e": "the four-footed / animals"},
+      {"s": "कस्मै", "h": "किस (देव) को", "e": "to which (God)"},
+      {"s": "हविषा", "h": "हवि (आहुति) से", "e": "with oblation"},
+      {"s": "विधेम", "h": "सेवन करें / पूजन करें (√विध्, विधिलिङ्)", "e": "let us worship / serve"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अधिश्रिताः</em> = अधि + √श्रि (क्त, बहुवचन) — 'आश्रित / अवलम्बित।' <em>ईशे</em> = √ईश् (शासन, आत्मनेपदी, लट्, प्रथम पुरुष) — 'शासन करता है।' <em>द्विपदः</em> = द्वि + पद (बहुव्रीहि) — 'दो पैरों वाले = मनुष्य।' <em>चतुष्पदः</em> = चतुर् + पद — 'चार पैरों वाले = पशु।' <em>कस्मै</em> = किम् (चतुर्थी, एकवचन) — 'किसको / किसके लिए?' <em>विधेम</em> = √विध् (सेवन / पूजन, विधिलिङ्, उत्तम पुरुष, बहुवचन) — 'हम सेवन करें / पूजें।' यह मन्त्र ऋग्वेद 10.121 (हिरण्यगर्भ सूक्त) के 'कस्मै देवाय हविषा विधेम' प्रश्न की प्रतिध्वनि है।<br><em>Eng:</em> <em>adhiśritāḥ</em> = adhi + √śri + kta (plural) — 'resting in.' <em>dvipadaḥ</em> = dvi + pada (bahuvrīhi) — 'two-footed = humans.' <em>vidhema</em> = √vidh (vidhiliṅ, 1st plural) — 'let us worship.' This verse echoes the refrain 'kasmai devāya haviṣā vidhema' from Ṛg Veda 10.121 (the Hiraṇyagarbha Sūkta).",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'कस्मै देवाय' — यह प्रश्न नहीं, बल्कि उपदेश है: सब देवताओं के अधिपति, सब लोकों के आश्रय, सब जीवों के ईश्वर — उसी को हवि देनी चाहिए। वह ब्रह्म ही सर्वोच्च उपासना-योग्य है।",
+        "en": "Shankara says 'kasmai devāya' — this is not a question but an instruction: the lord of all gods, support of all worlds, ruler of all beings — to Him alone should oblation be offered. That Brahman alone is the supreme object of worship.",
+        "ins": "The question 'To which God shall we offer worship?' is its own answer: to that God who is the Lord of all gods — not one deity among many, but the One behind all."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'कस्मै देवाय' = नारायण, जो सब देवताओं के कारण और आश्रय हैं। सब लोक उनमें स्थित हैं; सब जीव (द्विपद और चतुष्पद) उनके शासन में हैं। उन्हीं की भक्ति और पूजा सर्वश्रेष्ठ है।",
+        "en": "Ramanuja says 'kasmai devāya' = Nārāyaṇa, the cause and support of all gods. All worlds rest in Him; all beings are under His rule. Devotion and worship of Him alone is supreme.",
+        "ins": "When the Veda asks 'To which God?' — the answer is always the same: to the One in whom all worlds rest, the supreme Nārāyaṇa."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'कस्मै देवाय' — यह वैदिक खोज (Vedic seeking) का सारांश है: सब देवताओं के पीछे कौन है? सब शक्तियों का आधार कौन है? उसी अज्ञात दिव्य को यज्ञ अर्पित करना — यही सच्ची उपासना है।",
+        "en": "Sri Aurobindo says 'kasmai devāya' — this is the essence of Vedic seeking: who is behind all the gods? Who is the base of all powers? To offer sacrifice to that unknown Divine — that is true worship.",
+        "ins": "The deepest question the Vedas ever asked: 'To which God?' Behind fire, sun, wind, thunder — who is the God of gods? That question is the beginning of all wisdom."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "sk": "सूक्ष्मातिसूक्ष्मं कलिलस्य मध्ये विश्वस्य स्रष्टारमनेकरूपम् । विश्वस्यैकं परिवेष्टितारं ज्ञात्वा शिवं शान्तिमत्यन्तमेति ॥",
+    "ro": "sūkṣma-ati-sūkṣmam · kalilasya · madhye · viśvasya · sraṣṭāram · aneka-rūpam | viśvasya · ekam · pariveṣṭitāram · jñātvā · śivam · śāntim · atyantam · eti ||",
+    "hi": "जो सूक्ष्म से भी अतिसूक्ष्म है, कलिल (संकीर्ण / गहन) के मध्य में (स्थित) है, विश्व का स्रष्टा (सृजनकर्ता) है, अनेक-रूप है, और विश्व का एकमात्र परिवेष्टिता (encompasser / आच्छादन करने वाला) है — उस शिव (कल्याणकारी) को जानकर (ज्ञात्वा) मनुष्य अत्यन्त (परम) शान्ति को प्राप्त होता है।",
+    "en": "Subtler than the subtle, in the midst of the tangled (kalila), the creator of the universe, of manifold forms, the one encompasser of all — knowing that Auspicious One (Śiva), one attains supreme peace (śānti).",
+    "ws": [
+      {"s": "सूक्ष्मातिसूक्ष्मम्", "h": "सूक्ष्म से भी अतिसूक्ष्म", "e": "subtler than the subtle"},
+      {"s": "कलिलस्य मध्ये", "h": "कलिल (गहन / जटिल / संकीर्ण) के मध्य में", "e": "in the midst of the tangled / complex"},
+      {"s": "स्रष्टारम्", "h": "स्रष्टा / सृजनकर्ता (√सृज् + तृच्)", "e": "the creator"},
+      {"s": "अनेकरूपम्", "h": "अनेक रूपों वाला", "e": "of manifold forms"},
+      {"s": "परिवेष्टितारम्", "h": "परिवेष्टिता / आच्छादन करने वाला / सबको घेरने वाला", "e": "the encompasser / the one who envelops all"},
+      {"s": "शिवम्", "h": "शिव / कल्याणकारी / मंगलमय", "e": "the Auspicious One / Śiva"},
+      {"s": "शान्तिम् अत्यन्तम्", "h": "अत्यन्त (परम) शान्ति को", "e": "supreme peace"},
+      {"s": "एति", "h": "प्राप्त होता है (√इ, लट्)", "e": "attains / goes to"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सूक्ष्मातिसूक्ष्मम्</em> = सूक्ष्म + अति + सूक्ष्म — 'सूक्ष्म से भी अतिसूक्ष्म' (उपमान-अतिशय)। <em>कलिलस्य</em> = कलिल (गहन / संकीर्ण / गूढ़), षष्ठी विभक्ति — 'गहनता के (बीच)।' <em>स्रष्टारम्</em> = √सृज् + तृच् (कर्तृवाचक) — 'सृजनकर्ता को।' <em>परिवेष्टितारम्</em> = परि + √वेष्ट् + तृच् — 'सबको घेरने वाले / परिवेष्टिता को।' <em>ज्ञात्वा</em> = √ज्ञा (क्त्वा प्रत्यय) — 'जानकर।' <em>एति</em> = √इ (गमन, अदादिगण, लट्) — 'प्राप्त होता है।' <em>शिवम्</em> — यहाँ विशेषण 'कल्याणकारी' और रुद्र का नाम दोनों अर्थ ध्वनित हैं।<br><em>Eng:</em> <em>sūkṣmātisūkṣmam</em> = sūkṣma + ati + sūkṣma — 'subtler than subtle.' <em>kalilasya</em> = kalila (tangled/dense/deep); genitive. <em>sraṣṭāram</em> = √sṛj + tṛc — 'creator.' <em>pariveṣṭitāram</em> = pari + √veṣṭ + tṛc — 'encompasser.' <em>śivam</em> — both the adjective 'auspicious' and the proper name Śiva resonate here.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — ब्रह्म 'सूक्ष्मातिसूक्ष्म' है — इन्द्रियों, मन और बुद्धि — सबसे परे। 'कलिलस्य मध्ये' — संसार-जाल के मध्य में भी वह विद्यमान है। वह स्रष्टा भी है और परिवेष्टिता भी — क्योंकि वह उपादान और निमित्त दोनों कारण है। 'शिव' = शुद्ध, मंगलमय ब्रह्म।",
+        "en": "Shankara says Brahman is 'subtler than the subtle' — beyond senses, mind and intellect. 'In the midst of the tangled' — even in the web of saṁsāra, It is present. It is both creator and encompasser — being both material and efficient cause. 'Śiva' = pure, auspicious Brahman.",
+        "ins": "The subtlest thing in existence is right here, in the thickest tangle of life. You need not leave the world to find Brahman — it is already the innermost core of every complication."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् सूक्ष्मतम हैं — प्रत्येक अणु से सूक्ष्म, प्रत्येक आत्मा से अन्तरतम। 'परिवेष्टिता' = सर्वव्यापी; 'शिव' = भगवान् का कल्याणकारी स्वरूप। भगवान् को जानकर परम शान्ति — वैकुण्ठ-प्राप्ति — होती है।",
+        "en": "Ramanuja says the Lord is the subtlest — subtler than every atom, more inward than every soul. 'Pariveṣṭitā' = all-pervading; 'Śiva' = the Lord's auspicious form. Knowing the Lord leads to supreme peace — attainment of Vaikuṇṭha.",
+        "ins": "God is smaller than the smallest atom and larger than the largest universe — both at once. Knowing this paradox is the gateway to peace."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'सूक्ष्मातिसूक्ष्म' — चेतना का वह आयाम जो भौतिक से लेकर अतिमानसिक (supramental) तक सबसे सूक्ष्म है। 'कलिलस्य मध्ये' = जीवन की जटिलता के बीच में ही वह दिव्य उपस्थिति विद्यमान है। उसे जानना = परम शान्ति, जो संसार-त्याग से नहीं बल्कि सत्य-दर्शन से प्राप्त होती है।",
+        "en": "Sri Aurobindo says 'subtler than the subtle' = the dimension of Consciousness finer than any physical or mental subtlety. 'In the midst of the tangled' = the Divine Presence is found right within life's complexity. Knowing It = supreme peace, attained not by world-rejection but by true vision.",
+        "ins": "Peace is not found by escaping complexity — it is found by discovering the subtlest presence hidden within the very centre of complexity."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "sk": "स एव काले भुवनस्य गोप्ता विश्वाधिपः सर्वभूतेषु गूढः । यस्मिन्युक्ता ब्रह्मर्षयो देवताश्च तमेवं ज्ञात्वा मृत्युपाशांश्छिनत्ति ॥",
+    "ro": "saḥ · eva · kāle · bhuvanasya · goptā · viśva-adhipaḥ · sarva-bhūteṣu · gūḍhaḥ | yasmin · yuktāḥ · brahma-ṛṣayaḥ · devatāḥ · ca · tam · evam · jñātvā · mṛtyu-pāśān · chinatti ||",
+    "hi": "वही (परमात्मा) उचित काल में भुवन (लोक) का गोप्ता (रक्षक) है, विश्वाधिप (विश्व का स्वामी) है, सर्वभूतों में गूढ़ (छिपा हुआ) है। जिसमें ब्रह्मर्षि (वेदविद् ऋषि) और देवता युक्त (लीन / स्थित) हैं — उसे इस प्रकार जानकर मनुष्य मृत्यु के पाशों को काट देता है।",
+    "en": "He alone, at the proper time, is the protector (goptā) of the world, the overlord of all, hidden (gūḍha) in all beings. In whom the brahma-seers and the gods are absorbed — knowing Him thus, one cuts asunder the fetters of death (mṛtyu-pāśa).",
+    "ws": [
+      {"s": "काले", "h": "काल में / उचित समय पर", "e": "at the (proper) time"},
+      {"s": "गोप्ता", "h": "रक्षक / पालक (√गुप् + तृच्)", "e": "the protector / guardian"},
+      {"s": "गूढः", "h": "छिपा हुआ / गूढ़ / अव्यक्त", "e": "hidden / concealed"},
+      {"s": "ब्रह्मर्षयः", "h": "ब्रह्मर्षि / ब्रह्मविद् ऋषि", "e": "brahma-seers / sages who know Brahman"},
+      {"s": "युक्ताः", "h": "युक्त / लीन / स्थित", "e": "absorbed / established"},
+      {"s": "मृत्युपाशान्", "h": "मृत्यु के पाश (बन्धन)", "e": "fetters of death"},
+      {"s": "छिनत्ति", "h": "काट देता है / नष्ट करता है (√छिद्, लट्)", "e": "cuts asunder / severs"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गोप्ता</em> = √गुप् (रक्षा) + तृच् — 'रक्षक।' <em>गूढः</em> = √गुह् (छिपाना, क्त) — 'छिपा हुआ / गुप्त।' <em>ब्रह्मर्षयः</em> = ब्रह्म + ऋषि (कर्मधारय, बहुवचन) — 'ब्रह्मविद् ऋषि।' <em>मृत्युपाशान्</em> = मृत्यु + पाश (षष्ठी तत्पुरुष) — 'मृत्यु के बन्धन।' <em>छिनत्ति</em> = √छिद् (रुधादिगण, लट्, प्रथम पुरुष, एकवचन) — 'काटता है।' <em>युक्ताः</em> = √युज् (क्त, बहुवचन) — 'स्थित / लीन / संयुक्त।'<br><em>Eng:</em> <em>goptā</em> = √gup + tṛc — 'protector.' <em>gūḍhaḥ</em> = √guh + kta — 'hidden.' <em>mṛtyupāśān</em> = mṛtyu + pāśa (ṣaṣṭhī-tatpuruṣa) — 'fetters of death.' <em>chinatti</em> = √chid (rudhādi, laṭ, 3rd singular) — 'cuts.'",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — ब्रह्म 'सर्वभूतेषु गूढ' — सब जीवों में छिपा है, फिर भी अज्ञान के कारण दिखाई नहीं देता। ब्रह्म को जानना = मृत्यु के पाश काटना = मोक्ष। 'ज्ञात्वा' — ज्ञान ही मोक्ष का एकमात्र साधन है; कर्म या उपासना गौण है।",
+        "en": "Shankara says Brahman is 'hidden in all beings' — present in all yet invisible due to ignorance. Knowing Brahman = cutting death's fetters = mokṣa. 'Jñātvā' — knowledge alone is the sole means of liberation; karma and worship are secondary.",
+        "ins": "Death's power lies in ignorance. The moment you know what is hidden in all beings — death's ropes snap. Knowledge is the only blade sharp enough."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् 'सर्वभूतेषु गूढ' — प्रत्येक जीव में अन्तर्यामी रूप से विराजमान हैं, किन्तु अविद्या के कारण जीव उन्हें नहीं देखता। भगवान् को जानकर (भक्ति और ज्ञान से) मृत्यु-बन्धन से मुक्ति मिलती है।",
+        "en": "Ramanuja says the Lord is 'hidden in all beings' — present as the indwelling controller in every soul, yet unseen due to ignorance. Knowing the Lord (through devotion and knowledge) frees one from the bondage of death.",
+        "ins": "God is hidden in every being — not because He chooses to hide, but because we choose not to see. Seeing Him cuts the ropes of death."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'सर्वभूतेषु गूढ' — दिव्य चेतना पदार्थ (matter) से लेकर मन तक सबमें गुप्त रूप से विद्यमान है। 'मृत्युपाश' = अचेतनता (inconscience) का बन्धन। जब चेतना अपने गुप्त दिव्य स्रोत को पहचानती है — तब मृत्यु का आधिपत्य समाप्त हो जाता है।",
+        "en": "Sri Aurobindo says 'hidden in all beings' — the Divine Consciousness is secretly present in matter, life and mind. 'Mṛtyu-pāśa' = the bonds of inconscience. When consciousness recognises its hidden divine source — death's dominion ends.",
+        "ins": "Death rules because consciousness is asleep. When consciousness wakes to the Divine hidden within — death's chains dissolve. That awakening is liberation."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "sk": "घृतात्परं मण्डमिवातिसूक्ष्मं ज्ञात्वा शिवं सर्वभूतेषु गूढम् । विश्वस्यैकं परिवेष्टितारं ज्ञात्वा देवं मुच्यते सर्वपाशैः ॥",
+    "ro": "ghṛtāt · param · maṇḍam · iva · ati-sūkṣmam · jñātvā · śivam · sarva-bhūteṣu · gūḍham | viśvasya · ekam · pariveṣṭitāram · jñātvā · devam · mucyate · sarva-pāśaiḥ ||",
+    "hi": "जैसे घृत (घी) से परे (ऊपर) अतिसूक्ष्म मण्ड (मक्खन की मलाई / सार) होता है — वैसे ही सर्वभूतों में गूढ़ (छिपे) शिव (कल्याणकारी तत्त्व) को जानकर, विश्व के एकमात्र परिवेष्टिता (आच्छादक) देव को जानकर, (मनुष्य) सर्व पाशों (बन्धनों) से मुक्त हो जाता है।",
+    "en": "Like the cream (maṇḍa) that is subtler than butter (ghṛta) — knowing the Auspicious One (Śiva) hidden in all beings, knowing the one God who encompasses the universe — one is freed from all fetters (sarva-pāśa).",
+    "ws": [
+      {"s": "घृतात्", "h": "घृत (घी) से / मक्खन से", "e": "than ghee / butter"},
+      {"s": "परम्", "h": "परे / ऊपर / श्रेष्ठ", "e": "beyond / above / superior"},
+      {"s": "मण्डम्", "h": "मण्ड / मलाई / सार / क्रीम", "e": "cream / essence"},
+      {"s": "अतिसूक्ष्मम्", "h": "अत्यन्त सूक्ष्म", "e": "extremely subtle"},
+      {"s": "शिवम्", "h": "शिव / कल्याणकारी", "e": "the Auspicious One"},
+      {"s": "गूढम्", "h": "छिपा हुआ / गूढ़", "e": "hidden / concealed"},
+      {"s": "मुच्यते", "h": "मुक्त हो जाता है (√मुच्, कर्मवाच्य)", "e": "is freed / is liberated"},
+      {"s": "सर्वपाशैः", "h": "सर्व (सब) पाशों (बन्धनों) से", "e": "from all fetters / bonds"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>घृतात्</em> = घृत (पञ्चमी विभक्ति) — 'घी से (ऊपर / परे)।' <em>मण्डम्</em> — दूध या घी का सार / क्रीम / मलाई। <em>इव</em> = 'जैसे' (उपमा-वाचक अव्यय)। <em>गूढम्</em> = √गुह् (क्त) — 'छिपा हुआ।' <em>परिवेष्टितारम्</em> = परि + √वेष्ट् + तृच् — 'सबको घेरने वाला।' <em>मुच्यते</em> = √मुच् (कर्मवाच्य, लट्, प्रथम पुरुष) — 'मुक्त किया जाता है / मुक्त हो जाता है।' <em>सर्वपाशैः</em> = सर्व + पाश (तृतीया, बहुवचन) — 'सब बन्धनों से।' उपमा: जैसे मक्खन में मलाई अत्यन्त सूक्ष्म और छिपी होती है, वैसे ही ब्रह्म सब भूतों में गूढ़ है।<br><em>Eng:</em> <em>maṇḍam</em> = cream/essence. <em>iva</em> = 'like' (simile particle). <em>mucyate</em> = √muc (passive, laṭ) — 'is freed.' The simile: as cream is subtler than and hidden within butter, so Brahman is subtler than and hidden within all beings.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — घी-मलाई का दृष्टान्त: जैसे मलाई घी में छिपी है और मन्थन से प्रकट होती है — वैसे ही ब्रह्म जगत् में छिपा है और ज्ञान-मन्थन (vicāra / आत्म-विचार) से प्रकट होता है। 'सर्वपाश' = अविद्या, काम, कर्म — ये सब ज्ञान से एक साथ नष्ट हो जाते हैं।",
+        "en": "Shankara says the ghee-cream analogy: as cream is hidden in ghee and revealed by churning — so Brahman is hidden in the world and revealed by the churning of knowledge (vicāra / self-inquiry). 'Sarva-pāśa' = avidyā, desire, karma — all are destroyed together by knowledge.",
+        "ins": "Brahman is not far away in some other realm — it is hidden within the world like cream within butter. The churning that reveals it is self-inquiry."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् सब भूतों में गूढ़ हैं — जैसे मलाई घी में छिपी होती है। भक्ति और ज्ञान रूपी मन्थन से भगवान् का साक्षात्कार होता है। 'सर्वपाश' = संसार के समस्त बन्धन; भगवान् को जानकर मुक्ति।",
+        "en": "Ramanuja says the Lord is hidden in all beings — as cream is hidden in butter. Through the churning of devotion and knowledge, the Lord is directly realised. 'Sarva-pāśa' = all bonds of saṁsāra; knowing the Lord brings liberation.",
+        "ins": "The Lord is hidden in the world as cream is hidden in butter — present everywhere but visible only to those who churn with devotion."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — मलाई-घी का दृष्टान्त चेतना के सूक्ष्मतम स्तर को इंगित करता है — वह भौतिक जगत् में छिपा है पर भौतिक से सूक्ष्मतर है। 'सर्वपाश' = अचेतनता, अज्ञान, विभाजन — चेतना के खुलने पर सब एक साथ गिर जाते हैं।",
+        "en": "Sri Aurobindo says the cream-butter analogy points to the subtlest level of consciousness — hidden within the material world yet subtler than the material. 'Sarva-pāśa' = inconscience, ignorance, division — all fall away together when consciousness opens to its divine source.",
+        "ins": "The Divine is the cream of existence — invisible in the butter of the world, yet revealed the moment you churn with the right seeking."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "sk": "यो ब्रह्माणं विदधाति पूर्वं यो वै वेदांश्च प्रहिणोति तस्मै । तं ह देवमात्मबुद्धिप्रकाशं मुमुक्षुर्वै शरणमहं प्रपद्ये ॥",
+    "ro": "yaḥ · brahmāṇam · vidadhāti · pūrvam · yaḥ · vai · vedān · ca · prahiṇoti · tasmai | tam · ha · devam · ātma-buddhi-prakāśam · mumukṣuḥ · vai · śaraṇam · aham · prapadye ||",
+    "hi": "जिसने ब्रह्मा (हिरण्यगर्भ / चतुर्मुख सृष्टिकर्ता) को पूर्व (सबसे पहले) विधान किया (रचा) और जो उसे (ब्रह्मा को) वेदों का प्रहिणन (प्रदान / प्रेषण) करता है — उस देव को, जो आत्म-बुद्धि-प्रकाश (आत्मा और बुद्धि का प्रकाशक) है, मैं मुमुक्षु (मोक्षेच्छु) होकर शरण में प्रपन्न होता हूँ (जाता हूँ)।",
+    "en": "He who created Brahmā (Hiraṇyagarbha) first and who delivered the Vedas to him — that God, the light of the Self and the intellect (ātma-buddhi-prakāśa), to Him I, a seeker of liberation (mumukṣu), take refuge (prapadye).",
+    "ws": [
+      {"s": "ब्रह्माणम्", "h": "ब्रह्मा को / चतुर्मुख को / हिरण्यगर्भ को", "e": "Brahmā / Hiraṇyagarbha (accusative)"},
+      {"s": "विदधाति", "h": "विधान करता है / रचता है (वि + √धा, लट्)", "e": "creates / ordains"},
+      {"s": "पूर्वम्", "h": "पहले / सबसे पहले / सृष्टि के आदि में", "e": "first / at the beginning"},
+      {"s": "वेदान्", "h": "वेदों को", "e": "the Vedas (accusative plural)"},
+      {"s": "प्रहिणोति", "h": "प्रदान करता है / भेजता है / प्रेषित करता है (प्र + √हि)", "e": "delivers / sends forth"},
+      {"s": "तस्मै", "h": "उसे / उसके लिए (चतुर्थी)", "e": "to him (dative)"},
+      {"s": "आत्मबुद्धिप्रकाशम्", "h": "आत्मा और बुद्धि का प्रकाशक", "e": "the light of the Self and intellect"},
+      {"s": "मुमुक्षुः", "h": "मुमुक्षु / मोक्ष का इच्छुक", "e": "one desirous of liberation"},
+      {"s": "शरणम्", "h": "शरण / आश्रय", "e": "refuge / shelter"},
+      {"s": "प्रपद्ये", "h": "प्रपन्न होता हूँ / शरण जाता हूँ (प्र + √पद्, आत्मनेपदी)", "e": "I take refuge / I surrender"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>विदधाति</em> = वि + √धा (जुहोत्यादिगण, लट्, प्रथम पुरुष) — 'विधान करता है / रचता है / स्थापित करता है।' <em>प्रहिणोति</em> = प्र + √हि (स्वादिगण, लट्) — 'भेजता है / प्रदान करता है।' <em>आत्मबुद्धिप्रकाशम्</em> = आत्मन् + बुद्धि + प्रकाश (बहुव्रीहि या षष्ठी तत्पुरुष) — 'जो आत्मा और बुद्धि का प्रकाशक है' / 'जिसका प्रकाश आत्मा और बुद्धि है।' <em>मुमुक्षुः</em> = √मुच् + सन् + उ — 'मोक्ष की इच्छा रखने वाला।' <em>प्रपद्ये</em> = प्र + √पद् (आत्मनेपदी, लट्, उत्तम पुरुष) — 'मैं शरण जाता हूँ।' यह मन्त्र शरणागति (surrender / prapattiḥ) का वैदिक मूल स्रोत है; श्वेताश्वतर 6.18 में भी इसी प्रकार का पाठ मिलता है।<br><em>Eng:</em> <em>vidadhāti</em> = vi + √dhā (juhotyādi, laṭ) — 'creates.' <em>prahiṇoti</em> = pra + √hi (svādi, laṭ) — 'delivers.' <em>ātma-buddhi-prakāśam</em> = bahuvrīhi — 'whose light illumines the Self and intellect.' <em>mumukṣuḥ</em> = √muc + san + u — 'seeker of liberation.' <em>prapadye</em> = pra + √pad (ātmanepada, laṭ, 1st singular) — 'I take refuge.' This verse is the Vedic root-text of prapattiḥ (surrender/refuge); a parallel reading appears in Śvetāśvatara 6.18.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — जिसने ब्रह्मा (हिरण्यगर्भ = सृष्टि का प्रथम जीव) को रचा और वेद-ज्ञान दिया — वही ब्रह्म सबसे पहले (पूर्वम्) विद्यमान था। 'शरणं प्रपद्ये' — शंकर इसे 'ज्ञान की शरण' मानते हैं: मुमुक्षु ज्ञान के प्रकाश-स्वरूप ब्रह्म की शरण लेता है। 'आत्मबुद्धिप्रकाश' = ब्रह्म ही आत्मा और बुद्धि दोनों का प्रकाशक है — कोई बाह्य प्रकाश नहीं।",
+        "en": "Shankara says He who created Brahmā and gave him Vedic knowledge was already existent before creation. 'Śaraṇaṁ prapadye' — Shankara interprets this as taking refuge in the light of knowledge. 'Ātma-buddhi-prakāśa' = Brahman alone illumines both Self and intellect — there is no external illuminator.",
+        "ins": "Even the creator was created — and was taught. The one who taught the creator is the ultimate refuge. Not a person, not a deity — the light of pure awareness itself."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — यह मन्त्र प्रपत्ति (शरणागति) का वैदिक मूल है। भगवान् (नारायण) ने ब्रह्मा को रचा और उन्हें वेद दिए — अतः भगवान् सर्वज्ञ, सर्वशक्तिमान, परम आश्रय हैं। 'शरणं प्रपद्ये' — भगवान् के चरणों में पूर्ण समर्पण; यही मोक्ष का मार्ग है।",
+        "en": "Ramanuja says this verse is the Vedic root of prapatti (surrender). The Lord (Nārāyaṇa) created Brahmā and gave him the Vedas — therefore the Lord is omniscient, omnipotent, the supreme refuge. 'Śaraṇaṁ prapadye' = complete surrender at the Lord's feet; this is the path to mokṣa.",
+        "ins": "The supreme prayer: 'I take refuge.' Not 'I understand' or 'I achieve' — simply 'I surrender.' This is the Vedic seed of all devotion."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'ब्रह्मा को रचा और वेद दिए' — चेतना ने अपनी प्रथम अभिव्यक्ति (first expression) को ज्ञान-शक्ति (knowledge-power) से सम्पन्न किया। 'शरणं प्रपद्ये' — यह अहंकार का समर्पण (surrender of the ego) है — व्यक्तिगत चेतना दिव्य चेतना के प्रति आत्मदान करती है। 'आत्मबुद्धिप्रकाश' — वह चेतना जो स्वयं प्रकाशित है और सबको प्रकाशित करती है।",
+        "en": "Sri Aurobindo says 'created Brahmā and gave him the Vedas' — Consciousness endowed its first expression with knowledge-power. 'Śaraṇaṁ prapadye' — this is the surrender of the ego — individual consciousness offers itself to the Divine Consciousness. 'Ātma-buddhi-prakāśa' — the self-luminous Consciousness that illumines all.",
+        "ins": "Surrender is not defeat — it is the ego opening itself to a light greater than its own. The mumukṣu does not lose himself; he finds the source of his own light."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "sk": "एष देवो विश्वकर्मा महात्मा सदा जनानां हृदये सन्निविष्टः । हृदा मनीषा मनसाभिक्लृप्तो य एतद्विदुरमृतास्ते भवन्ति ॥",
+    "ro": "eṣaḥ · devaḥ · viśva-karmā · mahā-ātmā · sadā · janānām · hṛdaye · sanniviṣṭaḥ | hṛdā · manīṣā · manasā · abhikḷptaḥ · ye · etat · viduḥ · amṛtāḥ · te · bhavanti ||",
+    "hi": "यह देव विश्वकर्मा (सबका निर्माता) है, महात्मा (महान आत्मा वाला) है, सदा जनों (प्राणियों) के हृदय में सन्निविष्ट (स्थित) है। जो हृदय से, मनीषा (बुद्धि-शक्ति) से, मन से उसे अभिकल्पित (साक्षात्कृत / ध्यान-गम्य) करते हैं — वे अमृत (अमर) हो जाते हैं।",
+    "en": "This God, the maker of all (Viśvakarmā), the great-souled (Mahātmā), is ever seated in the hearts of beings. He is realised (abhikḷpta) through the heart, through the intellect (manīṣā), through the mind — those who know this become immortal (amṛta).",
+    "ws": [
+      {"s": "विश्वकर्मा", "h": "विश्वकर्मा / सबका निर्माता", "e": "the maker of all / Viśvakarmā"},
+      {"s": "महात्मा", "h": "महान आत्मा वाला / महान", "e": "the great-souled"},
+      {"s": "सन्निविष्टः", "h": "सम्यक् स्थित / विराजमान (सम् + नि + √विश्, क्त)", "e": "seated / established in"},
+      {"s": "हृदा", "h": "हृदय से / हृदय के द्वारा", "e": "through the heart"},
+      {"s": "मनीषा", "h": "मनीषा / बुद्धि-शक्ति / प्रज्ञा", "e": "intellect / wisdom"},
+      {"s": "मनसा", "h": "मन से / मन के द्वारा", "e": "through the mind"},
+      {"s": "अभिक्लृप्तः", "h": "अभिकल्पित / ध्यान-गम्य / साक्षात्कृत", "e": "realised / conceived / meditated upon"},
+      {"s": "अमृताः", "h": "अमृत / अमर / मृत्यु-रहित", "e": "immortal"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>विश्वकर्मा</em> = विश्व + कर्मन् (बहुव्रीहि) — 'जिसका कर्म (कृत्य) सम्पूर्ण विश्व है = सबका निर्माता।' <em>सन्निविष्टः</em> = सम् + नि + √विश् (प्रवेश, क्त) — 'भीतर स्थित / प्रवेश कर बैठा हुआ।' <em>मनीषा</em> = मनस् + ईषा (तत्पुरुष / कृदन्त) — 'मन की शक्ति / बुद्धि / प्रज्ञा।' <em>अभिक्लृप्तः</em> = अभि + √कॢप् (क्त) — 'अभिकल्पित / ध्यान से साक्षात्कृत / परिकल्पित।' <em>विदुः</em> = √विद् (लिट्, प्रथम पुरुष, बहुवचन) — 'जानते हैं।' <em>अमृताः</em> = अ + मृत — 'मृत्यु-रहित = अमर।'<br><em>Eng:</em> <em>viśvakarmā</em> = viśva + karman (bahuvrīhi) — 'whose work is the entire universe.' <em>sanniviṣṭaḥ</em> = sam + ni + √viś + kta — 'seated within.' <em>manīṣā</em> = manas + īṣā — 'intellect/wisdom.' <em>abhikḷptaḥ</em> = abhi + √kḷp + kta — 'realised/conceived.' <em>amṛtāḥ</em> = a + mṛta — 'immortal.'",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — ब्रह्म 'हृदये सन्निविष्ट' — प्रत्येक जीव की बुद्धि-गुहा (intellect-cave / हृदयाकाश) में विराजमान है। 'हृदा, मनीषा, मनसा' — ब्रह्म हृदय, बुद्धि और शुद्ध मन से ही जाना जाता है — इन्द्रियों से नहीं। ज्ञान = अमृतत्व; जो ब्रह्म को जानता है, वह ब्रह्म हो जाता है।",
+        "en": "Shankara says Brahman is 'seated in the heart' — present in the intellect-cave (hṛdayākāśa) of every being. 'Through heart, intellect, mind' — Brahman is known only through purified inner faculties, not through the senses. Knowledge = immortality; the knower of Brahman becomes Brahman.",
+        "ins": "God is not in a temple or a heaven — He is seated in your heart. The faculties that can reach Him are heart, wisdom and mind. Purify those, and He is found."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् (विश्वकर्मा) प्रत्येक जीव के हृदय में अन्तर्यामी रूप से 'सदा' विराजमान हैं — कभी अलग नहीं होते। भक्ति, ज्ञान और ध्यान (हृदा-मनीषा-मनसा) से भगवान् का साक्षात्कार होता है। अमृतत्व = भगवान् का सान्निध्य / मोक्ष।",
+        "en": "Ramanuja says the Lord (Viśvakarmā) is 'always seated' in the heart of every being as the indwelling controller — never absent. Through devotion, knowledge and meditation (hṛdā-manīṣā-manasā), the Lord is directly realised. Immortality = proximity to / union with the Lord.",
+        "ins": "The Lord never leaves your heart — not for a moment. He is always there, waiting to be seen by a heart that seeks, a mind that meditates, a wisdom that opens."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'हृदये सन्निविष्ट' — अन्तरात्मा (psychic being) जीव के हृदय-केन्द्र में स्थित है। 'हृदा-मनीषा-मनसा' — हृदय (अन्तर्ज्ञान), बुद्धि (विवेक) और मन (ध्यान) — तीनों साधनों से दिव्य चेतना का अनुभव होता है। अमृतत्व = चेतना का रूपान्तरण (transformation)।",
+        "en": "Sri Aurobindo says 'seated in the heart' — the psychic being (antarātman) is established in the heart-centre of every individual. 'Through heart, intellect, mind' — intuition (heart), discrimination (intellect), and meditation (mind) — all three are means to experience the Divine Consciousness. Immortality = transformation of consciousness.",
+        "ins": "Three doors open to the Divine: the heart's intuition, the mind's meditation, the intellect's discrimination. All three converge in the same heart-centre where God is already seated."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "sk": "यदात्मस्तन्न दिवा न रात्रिर्न सन्न चासच्छिव एव केवलः । तदक्षरं तत्सवितुर्वरेण्यं प्रज्ञा च तस्मात्प्रसृता पुराणी ॥",
+    "ro": "yadā · atamaḥ · tat · na · divā · na · rātriḥ · na · sat · na · ca · asat · śivaḥ · eva · kevalaḥ | tat · akṣaram · tat · savituḥ · vareṇyam · prajñā · ca · tasmāt · prasṛtā · purāṇī ||",
+    "hi": "जहाँ तम (अन्धकार) नहीं है, दिन नहीं, रात नहीं, सत् (अस्तित्व) नहीं, असत् (अनस्तित्व) भी नहीं — वहाँ केवल शिव (कल्याणकारी) ही है, अकेला। वही अक्षर (अविनाशी) है, वही सविता (सूर्य) का वरेण्य (उपासना-योग्य तेज) है; और उसी से पुराणी (सनातन) प्रज्ञा (ज्ञान-शक्ति) प्रसृत (प्रवाहित) हुई है।",
+    "en": "Where there is no darkness (tamas), no day, no night, neither being (sat) nor non-being (asat) — there is Śiva alone, the Absolute (kevala). That is the Imperishable (akṣara), that is the adorable (vareṇya) splendour of the Sun (Savitṛ); and from That has streamed forth the ancient Wisdom (prajñā purāṇī).",
+    "ws": [
+      {"s": "अतमः", "h": "तम-रहित / जहाँ अन्धकार नहीं", "e": "where there is no darkness"},
+      {"s": "दिवा", "h": "दिन / दिवस", "e": "day"},
+      {"s": "रात्रिः", "h": "रात्रि / रात", "e": "night"},
+      {"s": "सत्", "h": "सत् / अस्तित्व / होना", "e": "being / existence"},
+      {"s": "असत्", "h": "असत् / अनस्तित्व / न होना", "e": "non-being / non-existence"},
+      {"s": "शिवः केवलः", "h": "केवल शिव / अकेला कल्याणकारी", "e": "Śiva alone / the Absolute alone"},
+      {"s": "अक्षरम्", "h": "अक्षर / अविनाशी", "e": "the Imperishable"},
+      {"s": "सवितुः वरेण्यम्", "h": "सविता (सूर्य) का वरेण्य (उपासना योग्य तेज)", "e": "the adorable (splendour) of the Sun"},
+      {"s": "प्रज्ञा", "h": "प्रज्ञा / ज्ञान-शक्ति / बोध", "e": "Wisdom / cognitive power"},
+      {"s": "पुराणी", "h": "पुरातन / सनातन", "e": "ancient / primeval"},
+      {"s": "प्रसृता", "h": "प्रसृत / प्रवाहित / निकली", "e": "streamed forth / emanated"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अतमः</em> = अ + तमस् — 'तम-रहित / जहाँ अन्धकार नहीं।' कुछ पाठ 'यदातमः' को 'यदा + अतमः' मानते हैं, कुछ 'यत् + आत्मतत्त्वेन' — यहाँ प्रथम पाठ अपनाया गया है। <em>सत्</em> = √अस् (शतृ) — 'होना / अस्तित्व'; <em>असत्</em> = अ + सत् — 'न-होना।' <em>केवलः</em> = 'अकेला / एकमात्र / निरपेक्ष।' <em>सवितुः</em> = सवितृ (षष्ठी) — 'सविता (सूर्य) का।' <em>वरेण्यम्</em> = √वृ (चुनना) + एण्य (कृत्य प्रत्यय) — 'वरण करने योग्य / उपासना योग्य।' <em>प्रज्ञा</em> = प्र + √ज्ञा — 'प्रज्ञा / ज्ञान-शक्ति।' <em>पुराणी</em> = पुराणा (स्त्रीलिङ्ग) — 'सनातन / प्राचीन।' <em>प्रसृता</em> = प्र + √सृ (क्त, स्त्रीलिङ्ग) — 'प्रवाहित / निर्गत।' 'सवितुर्वरेण्यम्' — यह गायत्री मन्त्र (ṛg 3.62.10) की प्रतिध्वनि है। 'प्रज्ञा च तस्मात् प्रसृता पुराणी' — इस पंक्ति को वेदों की उत्पत्ति का स्रोत माना जाता है।<br><em>Eng:</em> <em>atamaḥ</em> = a + tamas — 'darkness-free.' <em>kevalaḥ</em> = 'alone / absolute.' <em>savituḥ vareṇyam</em> echoes the Gāyatrī mantra (Ṛg 3.62.10). <em>prajñā purāṇī</em> = 'ancient wisdom' — this line is interpreted as the Vedic source of all knowledge emanating from the Supreme.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — 'न सत् न असत्' — ब्रह्म व्यावहारिक (empirical) सत् और असत् दोनों से परे है। वह 'केवल शिव' — शुद्ध चैतन्य मात्र है, सब द्वन्द्वों (opposites) से अतीत। 'प्रज्ञा पुराणी' = वेद-ज्ञान ब्रह्म से ही प्रसृत (emanated) हुआ — ब्रह्म ही सब ज्ञान का मूल स्रोत है।",
+        "en": "Shankara says 'neither being nor non-being' — Brahman transcends empirical categories of existence and non-existence. It is 'Śiva alone' — pure consciousness, beyond all dualities. 'Prajñā purāṇī' = Vedic knowledge emanated from Brahman — Brahman is the ultimate source of all knowledge.",
+        "ins": "Beyond light and darkness, beyond existence and non-existence — there the Absolute stands alone. From That alone, all wisdom was born. Even the Gāyatrī points here."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् प्राकृतिक गुणों (सत्-रजस्-तमस्) से परे हैं — 'न दिवा न रात्रि' = काल से परे, 'न सत् न असत्' = प्राकृतिक पदार्थ से परे। 'प्रज्ञा पुराणी' = वेद-ज्ञान भगवान् की नित्य (eternal) शक्ति है — वेद भगवान् से ही प्रकट होते हैं।",
+        "en": "Ramanuja says the Lord is beyond the material guṇas — 'no day, no night' = beyond time, 'neither being nor non-being' = beyond material categories. 'Prajñā purāṇī' = Vedic knowledge is the Lord's eternal power — the Vedas manifest from the Lord.",
+        "ins": "The Lord is not found in any category the mind can construct — not in being, not in non-being, not in light, not in dark. He is beyond them all, and from Him all wisdom flows."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'न सत् न असत्' — परम तत्त्व अस्तित्व और अनस्तित्व के द्वन्द्व से परे है। 'प्रज्ञा पुराणी' = सनातन ज्ञान-शक्ति जो परम चेतना से निकली — यह चेतना-बल (Consciousness-Force) का ज्ञान-पक्ष है। 'सवितुर्वरेण्यम्' = सत्य-चेतना (Supramental Truth-Consciousness) का प्रतीक।",
+        "en": "Sri Aurobindo says 'neither being nor non-being' — the Supreme transcends the duality of existence and non-existence. 'Prajñā purāṇī' = the eternal knowledge-power flowing from the Supreme Consciousness — this is the knowledge-aspect of Consciousness-Force. 'Savituḥ vareṇyam' = the symbol of the Supramental Truth-Consciousness.",
+        "ins": "Before existence existed and before non-existence was conceived — there was the Auspicious Alone. From That, all wisdom streamed forth. The Gāyatrī mantra points to this same supreme Light."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "sk": "नैनमूर्ध्वं न तिर्यञ्चं न मध्ये परिजग्रभत् । न तस्य प्रतिमा अस्ति यस्य नाम महद्यशः ॥",
+    "ro": "na · enam · ūrdhvam · na · tiryañcam · na · madhye · parijagrabhat | na · tasya · pratimā · asti · yasya · nāma · mahat · yaśaḥ ||",
+    "hi": "उसे (परमात्मा को) किसी ने ऊर्ध्व (ऊपर) में नहीं पकड़ा, न तिर्यक् (तिरछे / आड़े) में, न मध्य में। उसकी कोई प्रतिमा (image / समानता) नहीं है — जिसका नाम 'महद् यशः' (महान यश) है।",
+    "en": "None has grasped Him above, nor across, nor in the middle. There is no image (pratimā) of Him whose name is Great Glory (mahad yaśaḥ).",
+    "ws": [
+      {"s": "एनम्", "h": "इसे / उसे (परमात्मा को)", "e": "Him"},
+      {"s": "ऊर्ध्वम्", "h": "ऊपर / ऊर्ध्व दिशा में", "e": "above"},
+      {"s": "तिर्यञ्चम्", "h": "तिर्यक् / तिरछे / आड़े", "e": "across / sideways"},
+      {"s": "मध्ये", "h": "बीच में / मध्य में", "e": "in the middle"},
+      {"s": "परिजग्रभत्", "h": "पकड़ा / ग्रहण किया (परि + √ग्रह्, लुङ्)", "e": "grasped / seized"},
+      {"s": "प्रतिमा", "h": "प्रतिमा / छवि / समानता / तुलना", "e": "image / likeness / comparison"},
+      {"s": "महद् यशः", "h": "महान यश / विशाल कीर्ति", "e": "Great Glory"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>परिजग्रभत्</em> = परि + √ग्रह् (लुङ् लकार, प्रथम पुरुष, एकवचन) — 'चारों ओर से पकड़ा / ग्रहण किया।' <em>प्रतिमा</em> = प्रति + √मा (माप) — 'समानता / प्रतिरूप / तुलना / मूर्ति।' <em>महद् यशः</em> = महत् + यशस् (कर्मधारय) — 'महान यश / कीर्ति।' <em>ऊर्ध्वम्</em> = 'ऊपर'; <em>तिर्यञ्चम्</em> = तिरश्चीन (तिर्यक्) — 'तिरछे / क्षैतिज।' यह मन्त्र ब्रह्म की अवर्णनीयता (indescribability) और निराकारता (formlessness) का उद्घोष है।<br><em>Eng:</em> <em>parijagrabhat</em> = pari + √grah (luṅ, 3rd singular) — 'grasped.' <em>pratimā</em> = prati + √mā — 'image / likeness / comparison.' <em>mahad yaśaḥ</em> = mahat + yaśas (karmadhāraya) — 'Great Glory.' This verse proclaims Brahman's indescribability and formlessness.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — ब्रह्म देश (space) और काल (time) से परे है — 'ऊर्ध्व, तिर्यक्, मध्य' = कोई भी दिशा या स्थान उसे सीमित नहीं कर सकता। 'प्रतिमा नास्ति' — उसकी कोई प्रतिकृति, तुलना या मूर्ति सम्भव नहीं। 'महद् यशः' — यही उसका 'नाम' है — महान कीर्ति; किन्तु वास्तव में नाम भी उसे सीमित नहीं करता।",
+        "en": "Shankara says Brahman is beyond space and time — 'above, across, in the middle' = no direction or location can contain It. 'No pratimā' — no likeness, comparison, or image is possible. 'Mahad yaśaḥ' is His 'name' — Great Glory; but in truth even a name cannot limit Him.",
+        "ins": "No image, no direction, no location can contain Him. Even calling Him 'Great Glory' is just the mind's best attempt to point at what cannot be pointed at."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — 'प्रतिमा नास्ति' = भगवान् का कोई भौतिक (material) प्रतिरूप नहीं — उनका दिव्य रूप (divya-rūpa) अप्राकृत (transcendent) है। 'महद् यशः' = भगवान् की अनन्त कीर्ति और ऐश्वर्य। वे दिशाओं से परे हैं — सर्वव्यापी होने के कारण।",
+        "en": "Ramanuja says 'no pratimā' = the Lord has no material likeness — His divine form (divya-rūpa) is transcendent. 'Mahad yaśaḥ' = the Lord's infinite glory and opulence. He is beyond directions because He is all-pervading.",
+        "ins": "No material image can capture God — not because He has no form, but because His form transcends everything material. He is Great Glory beyond all measurement."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'प्रतिमा नास्ति' — परम चेतना किसी भी मानसिक प्रत्यय (mental concept) या दृश्य प्रतीक (visual symbol) से परे है। 'महद् यशः' — उसकी 'महिमा' ही उसकी एकमात्र पहचान है — किन्तु यह महिमा बौद्धिक समझ से अतीत है।",
+        "en": "Sri Aurobindo says 'no pratimā' — the Supreme Consciousness is beyond every mental concept and visual symbol. 'Mahad yaśaḥ' — His 'glory' is His only identity — but this glory transcends intellectual comprehension.",
+        "ins": "The Infinite cannot be grasped by any direction of the mind — not above, not below, not sideways. It can only be known by becoming it."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "sk": "न संदृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम् । हृदा हृदिस्थं मनसा य एनमेवं विदुरमृतास्ते भवन्ति ॥",
+    "ro": "na · saṁdṛśe · tiṣṭhati · rūpam · asya · na · cakṣuṣā · paśyati · kaścana · enam | hṛdā · hṛdi-stham · manasā · ye · enam · evam · viduḥ · amṛtāḥ · te · bhavanti ||",
+    "hi": "इसका (परमात्मा का) रूप दृष्टि के समक्ष (संदृश में) नहीं ठहरता; कोई भी इसे चक्षु (आँखों) से नहीं देख सकता। जो हृदय से, हृदि-स्थ (हृदय में स्थित) उसे मन से इस प्रकार जानते हैं — वे अमृत (अमर) हो जाते हैं।",
+    "en": "His form does not stand within the range of sight (saṁdṛśa); no one sees Him with the eye. Those who know Him — seated in the heart (hṛdi-stha) — through the heart and through the mind, in this manner, they become immortal (amṛta).",
+    "ws": [
+      {"s": "संदृशे", "h": "दृष्टि-गोचर / दृष्टि-क्षेत्र में", "e": "in the range of sight"},
+      {"s": "रूपम्", "h": "रूप / आकार", "e": "form"},
+      {"s": "चक्षुषा", "h": "चक्षु (आँख) से / नेत्रों से", "e": "with the eye"},
+      {"s": "हृदा", "h": "हृदय से", "e": "through the heart"},
+      {"s": "हृदिस्थम्", "h": "हृदय में स्थित", "e": "seated in the heart"},
+      {"s": "मनसा", "h": "मन से", "e": "through the mind"},
+      {"s": "अमृताः", "h": "अमृत / अमर", "e": "immortal"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>संदृशे</em> = सम् + √दृश् (भावप्रत्यय, सप्तमी) — 'दृष्टि-क्षेत्र में / साक्षात् दर्शन में।' <em>तिष्ठति</em> = √स्था (लट्, प्रथम पुरुष) — 'ठहरता है / स्थित होता है।' <em>चक्षुषा</em> = चक्षुस् (तृतीया) — 'नेत्र से।' <em>हृदिस्थम्</em> = हृदि (सप्तमी) + स्थ (√स्था) — 'हृदय में स्थित।' <em>विदुः</em> = √विद् (लिट्, प्रथम पुरुष, बहुवचन) — 'जानते हैं।' इस मन्त्र का मुख्य सन्देश: परमात्मा इन्द्रियों (विशेषतः चक्षु / दृष्टि) से अगोचर है; केवल शुद्ध हृदय और एकाग्र मन से जाना जा सकता है। कठोपनिषद् 2.3.9 में समानार्थक मन्त्र मिलता है।<br><em>Eng:</em> <em>saṁdṛśe</em> = sam + √dṛś (locative of abstract noun) — 'in the field of vision.' <em>hṛdistham</em> = hṛdi + stha — 'seated in the heart.' The key message: the Supreme is imperceptible to the senses (especially sight); knowable only through a purified heart and concentrated mind. Parallel in Kaṭha 2.3.9.",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — ब्रह्म इन्द्रिय-ग्राह्य नहीं — 'न चक्षुषा पश्यति' = नेत्रों का विषय नहीं। 'हृदा मनसा' — शुद्ध अन्तःकरण (purified inner instrument) से ही ज्ञान सम्भव है। 'अमृताः' = जो ब्रह्म को जानता है वह जन्म-मृत्यु चक्र से मुक्त हो जाता है — यही मोक्ष है।",
+        "en": "Shankara says Brahman is not sense-perceptible — 'no one sees with the eye.' 'Through heart and mind' — knowledge is possible only through the purified inner instrument (antaḥkaraṇa). 'Amṛtāḥ' = the knower of Brahman is freed from the cycle of birth and death — this is mokṣa.",
+        "ins": "You cannot photograph God. You cannot see Him with open eyes. But close your eyes, turn within, and the heart recognises what the eyes never could."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — भगवान् का दिव्य रूप भौतिक चक्षुओं से नहीं देखा जा सकता — 'ज्ञान-चक्षु' (knowledge-eye) और भक्ति-भाव से ही दर्शन सम्भव है। 'हृदिस्थ' — भगवान् सदा हृदय में विराजमान हैं। भक्ति और ध्यान से उनके दर्शन होते हैं।",
+        "en": "Ramanuja says the Lord's divine form cannot be seen with material eyes — only through 'knowledge-eye' (jñāna-cakṣu) and devotional feeling. 'Hṛdistha' — the Lord is always seated in the heart. Through devotion and meditation, His vision is granted.",
+        "ins": "The eyes of flesh cannot see God — but the eye of the heart can. He sits in the heart, waiting for the inner eye to open."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — 'न संदृशे' — दिव्य चेतना बाह्य इन्द्रियों के क्षेत्र में नहीं आती। 'हृदा मनसा' — अन्तर्मुखी (inward-turned) चेतना ही उस तक पहुँच सकती है। अमृतत्व = चेतना की वह अवस्था जो मृत्यु और जन्म के चक्र से ऊपर उठ चुकी है।",
+        "en": "Sri Aurobindo says 'na saṁdṛśe' — Divine Consciousness does not enter the field of external perception. 'Through heart and mind' — only inward-turned consciousness can reach It. Immortality = the state of consciousness that has risen above the cycle of death and birth.",
+        "ins": "The Divine is invisible to outward-looking eyes. Turn consciousness inward — to the heart where He dwells — and what was invisible becomes the most intimate presence."
+      }
+    }
+  },
+  {
+    "id": 22,
+    "sk": "मा नस्तोके तनये मा न आयुषि मा नो गोषु मा नो अश्वेषु रीरिषः । वीरान्मा नो रुद्र भामितो वधीर्हविष्मन्तः सदमित्त्वा हवामहे ॥",
+    "ro": "mā · naḥ · toke · tanaye · mā · naḥ · āyuṣi · mā · naḥ · goṣu · mā · naḥ · aśveṣu · rīriṣaḥ | vīrān · mā · naḥ · rudra · bhāmitaḥ · vadhīḥ · haviṣmantaḥ · sadam · it · tvā · havāmahe ||",
+    "hi": "हे रुद्र! हमारे पुत्र (तोक) में, पौत्र (तनय) में, हमारे आयु (प्राण) में, हमारी गायों में, हमारे अश्वों में हमें हानि मत पहुँचाओ (मा रीरिषः)। हे रुद्र! क्रोधित होकर (भामितः) हमारे वीरों (योद्धाओं) को मत मारो। हम हविष्मन्तः (हवि-सम्पन्न) होकर सदा तुम्हें पुकारते हैं (हवामहे)।",
+    "en": "O Rudra, do not harm us in our children (toka), in our descendants (tanaya), in our lives (āyus), in our cattle (go), in our horses (aśva). Do not, in anger (bhāmita), slay our heroes (vīra). Bearing oblations (haviṣmantaḥ), we call upon You always (sadam).",
+    "ws": [
+      {"s": "मा", "h": "मत / नहीं (निषेधार्थक अव्यय)", "e": "do not (prohibitive particle)"},
+      {"s": "तोके", "h": "पुत्र में / सन्तान में", "e": "in children / offspring"},
+      {"s": "तनये", "h": "वंशज में / पौत्र में", "e": "in descendants / progeny"},
+      {"s": "आयुषि", "h": "आयु (जीवन) में", "e": "in life / lifespan"},
+      {"s": "गोषु", "h": "गायों में / पशुओं में", "e": "in cattle"},
+      {"s": "अश्वेषु", "h": "अश्वों (घोड़ों) में", "e": "in horses"},
+      {"s": "रीरिषः", "h": "हानि पहुँचाओ / नष्ट करो (√रिष्, यङ्लुगन्त, लुङ् निषेध)", "e": "do harm / injure (intensive desiderative of √riṣ)"},
+      {"s": "वीरान्", "h": "वीरों को / योद्धाओं को", "e": "the heroes / warriors"},
+      {"s": "भामितः", "h": "क्रोधित होकर / कुपित", "e": "in anger / enraged"},
+      {"s": "वधीः", "h": "मत मारो / वध मत करो", "e": "do not slay"},
+      {"s": "हविष्मन्तः", "h": "हवि-सम्पन्न / यज्ञ-सामग्री सहित", "e": "bearing oblations"},
+      {"s": "सदम् इत्", "h": "सदा / सर्वदा", "e": "always / ever"},
+      {"s": "हवामहे", "h": "पुकारते हैं / आह्वान करते हैं (√हू, आत्मनेपदी)", "e": "we call upon / we invoke"}
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>रीरिषः</em> = √रिष् (हिंसा, यङ्लुगन्त / intensive form, लुङ्, मध्यम पुरुष) — 'बार-बार / तीव्रता से हानि पहुँचाना'; मा + लुङ् = निषेध — 'हानि मत पहुँचाओ।' <em>भामितः</em> = √भाम् (क्रोध, क्त) — 'क्रोधित।' <em>वधीः</em> = √वध् (हन्, लुङ् / विधिलिङ्, मध्यम पुरुष) — 'मत मारो।' <em>हविष्मन्तः</em> = हविस् + मतुप् (प्रथमा, बहुवचन) — 'हवि धारण किए हुए।' <em>हवामहे</em> = √हू (आह्वान, आत्मनेपदी, लट्, उत्तम पुरुष, बहुवचन) — 'हम पुकारते हैं।' यह मन्त्र ऋग्वेद 1.114.8 से उद्धृत है — रुद्र-प्रार्थना। अध्याय 4 का उपसंहार रुद्र/शिव/महेश्वर की स्तुति-प्रार्थना से होता है — जो इस अध्याय के 'मायी = महेश्वर' विषय से सुसंगत है।<br><em>Eng:</em> <em>rīriṣaḥ</em> = √riṣ (yaṅluganta / intensive, luṅ) — 'do (grievous) harm'; mā + luṅ = prohibition. <em>bhāmitaḥ</em> = √bhām + kta — 'angered.' <em>haviṣmantaḥ</em> = havis + matup — 'bearing oblations.' <em>havāmahe</em> = √hū (ātmanepada, laṭ, 1st plural) — 'we invoke.' Quoted from Ṛg Veda 1.114.8. Chapter 4 concludes with this prayer to Rudra/Śiva/Maheśvara — fitting for a chapter whose theme is 'Māyin = Maheśvara.'",
+    "mt": "त्रिष्टुभ् · Triṣṭubh",
+    "cm": {
+      "advaita": {
+        "a": "आदि शंकराचार्य · Adi Shankaracharya",
+        "h": "शंकर कहते हैं — अध्याय का उपसंहार रुद्र-प्रार्थना से है। ज्ञानी भी ईश्वर की शरण लेता है — क्योंकि ज्ञानोदय तक प्रारब्ध कर्म सक्रिय रहता है। 'हविष्मन्तः सदमित्' — यज्ञ और उपासना ज्ञान-मार्ग की तैयारी (preparation) हैं। रुद्र = संहारक शक्ति; उससे रक्षा माँगना = अविद्या-जनित दुःख से रक्षा माँगना।",
+        "en": "Shankara says the chapter concludes with a Rudra prayer. Even the wise seek the Lord's protection — because prārabdha karma remains active until knowledge fully dawns. 'Haviṣmantaḥ sadam it' — sacrifice and worship prepare the way for the path of knowledge. Rudra = the destructive power; seeking protection from Him = seeking protection from the suffering born of ignorance.",
+        "ins": "After the highest philosophy — a humble prayer. The wisest soul still bows to the Lord of dissolution. Philosophy without humility is incomplete; knowledge without devotion is dry."
+      },
+      "vishisht": {
+        "a": "रामानुजाचार्य · Ramanujacharya",
+        "h": "रामानुज कहते हैं — यह मन्त्र भगवान् रुद्र (नारायण के एक रूप) से रक्षा की प्रार्थना है। भक्त भगवान् से सन्तान, पशु, जीवन — सब की रक्षा माँगता है। 'सदमित् हवामहे' — सदा भगवान् का आह्वान करना ही भक्ति का सार है। यह अध्याय महेश्वर (4.9) की स्तुति और शरणागति (4.17) के साथ इस प्रार्थना से पूर्ण होता है।",
+        "en": "Ramanuja says this is a prayer for protection to Lord Rudra (a form of Nārāyaṇa). The devotee asks the Lord to protect children, cattle, life — everything. 'Sadam it havāmahe' — constantly invoking the Lord is the essence of bhakti. The chapter completes with praise of Maheśvara (4.9), surrender (4.17), and this prayer.",
+        "ins": "The chapter that began with philosophy ends with prayer. After understanding Māyā and Maheśvara, the devotee does the only thing that makes sense — he calls upon the Lord for protection, always."
+      },
+      "aurobindo": {
+        "a": "श्री अरविन्द · Sri Aurobindo",
+        "h": "श्री अरविन्द कहते हैं — यह प्राचीन ऋग्वैदिक प्रार्थना अध्याय 4 का उपयुक्त समापन है। रुद्र = चेतना की रूपान्तरकारी शक्ति (transformative power), जो पुराने को नष्ट करके नये को जन्म देती है। यह प्रार्थना इस शक्ति से सुरक्षा माँगती है — किन्तु गहरे अर्थ में, यह रूपान्तरण की प्रक्रिया में सहायता की याचना है।",
+        "en": "Sri Aurobindo says this ancient Ṛg Vedic prayer is a fitting conclusion to chapter 4. Rudra = the transformative power of consciousness that destroys the old to give birth to the new. This prayer asks for protection from that power — but at a deeper level, it is a request for help through the process of transformation.",
+        "ins": "Rudra does not destroy to punish — he destroys to transform. This prayer asks: let the transformation be gentle. Let our children, our lives, our world survive the fire of change."
+      }
+    }
+  }
+]
