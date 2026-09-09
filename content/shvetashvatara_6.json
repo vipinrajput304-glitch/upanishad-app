@@ -6,20 +6,76 @@
     "hi": "कुछ विचारक (कवि) स्वभाव (पदार्थों के निजी स्वभाव) को जगत् का कारण कहते हैं, अन्य मोह में पड़कर काल (समय) को कारण मानते हैं। किन्तु वस्तुतः यह देव (परमेश्वर) की महिमा है जिसके द्वारा यह ब्रह्मचक्र (सृष्टिचक्र) घुमाया जाता है।",
     "en": "Some thinkers declare svabhava (inherent nature) to be the cause of the world; others, deluded, say it is kala (time). But it is the glory of God alone by which this wheel of Brahman (the cosmic cycle) is made to revolve.",
     "ws": [
-      {"s": "स्वभावम्", "h": "अपना स्वभाव / निजी प्रकृति", "e": "inherent nature"},
-      {"s": "एके", "h": "कुछ (लोग)", "e": "some"},
-      {"s": "कवयः", "h": "विचारशील विद्वान्", "e": "thinkers, sages"},
-      {"s": "वदन्ति", "h": "कहते हैं", "e": "declare, say"},
-      {"s": "कालम्", "h": "समय", "e": "time"},
-      {"s": "तथा अन्ये", "h": "इसी प्रकार अन्य", "e": "likewise others"},
-      {"s": "परिमुह्यमानाः", "h": "मोहित होते हुए", "e": "being deluded"},
-      {"s": "देवस्य", "h": "देव (परमेश्वर) की", "e": "of God"},
-      {"s": "महिमा", "h": "महत्ता / गौरव", "e": "glory, majesty"},
-      {"s": "लोके", "h": "संसार में", "e": "in the world"},
-      {"s": "येन", "h": "जिसके द्वारा", "e": "by whom"},
-      {"s": "इदम्", "h": "यह", "e": "this"},
-      {"s": "भ्राम्यते", "h": "घुमाया जाता है", "e": "is made to revolve"},
-      {"s": "ब्रह्मचक्रम्", "h": "ब्रह्म का चक्र / सृष्टिचक्र", "e": "the wheel of Brahman, cosmic cycle"}
+      {
+        "s": "स्वभावम्",
+        "h": "अपना स्वभाव / निजी प्रकृति",
+        "e": "inherent nature"
+      },
+      {
+        "s": "एके",
+        "h": "कुछ (लोग)",
+        "e": "some"
+      },
+      {
+        "s": "कवयः",
+        "h": "विचारशील विद्वान्",
+        "e": "thinkers, sages"
+      },
+      {
+        "s": "वदन्ति",
+        "h": "कहते हैं",
+        "e": "declare, say"
+      },
+      {
+        "s": "कालम्",
+        "h": "समय",
+        "e": "time"
+      },
+      {
+        "s": "तथा अन्ये",
+        "h": "इसी प्रकार अन्य",
+        "e": "likewise others"
+      },
+      {
+        "s": "परिमुह्यमानाः",
+        "h": "मोहित होते हुए",
+        "e": "being deluded"
+      },
+      {
+        "s": "देवस्य",
+        "h": "देव (परमेश्वर) की",
+        "e": "of God"
+      },
+      {
+        "s": "महिमा",
+        "h": "महत्ता / गौरव",
+        "e": "glory, majesty"
+      },
+      {
+        "s": "लोके",
+        "h": "संसार में",
+        "e": "in the world"
+      },
+      {
+        "s": "येन",
+        "h": "जिसके द्वारा",
+        "e": "by whom"
+      },
+      {
+        "s": "इदम्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "भ्राम्यते",
+        "h": "घुमाया जाता है",
+        "e": "is made to revolve"
+      },
+      {
+        "s": "ब्रह्मचक्रम्",
+        "h": "ब्रह्म का चक्र / सृष्टिचक्र",
+        "e": "the wheel of Brahman, cosmic cycle"
+      }
     ],
     "gr": "<strong>स्वभावम्</strong> — स्व + भाव (√भू): अपना होना, निजी प्रकृति। <strong>कवयः</strong> — कवि शब्द, प्रथमा बहुवचन; यहाँ 'कवि' का अर्थ 'दार्शनिक विचारक'। <strong>परिमुह्यमानाः</strong> — परि + √मुह् (मोहित होना), शानच् प्रत्यय, कर्मणि प्रयोग: 'मोहित होते हुए'। <strong>भ्राम्यते</strong> — √भ्रम् (घूमना), कर्मणि लट्: 'घुमाया जाता है'। <strong>ब्रह्मचक्रम्</strong> — ब्रह्म + चक्र, षष्ठी तत्पुरुष: ब्रह्म का चक्र अर्थात् सृष्टि-स्थिति-प्रलय का चक्र।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -42,7 +98,17 @@
         "en": "Aurobindo says the Rishi rises above philosophical disputes (materialism, determinism) to declare that a single divine Power sets everything in motion. Svabhava and kala are expressions of that Power, not independent causes.",
         "ins": "बौद्धिक विवाद अंश-सत्य हैं — दिव्य महिमा ही सम्पूर्ण सत्य है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🤔 'स्वभाव', 'काल', 'नियति' — जगत् का कारण क्या?",
+        "a": "कुछ कवि (दार्शनिक) '<strong>स्वभाव</strong>' (inherent nature) को, कुछ '<strong>काल</strong>' (time) को, कुछ '<strong>नियति</strong>' (fate/destiny) को जगत् का कारण मानते हैं। किन्तु यह सब '<strong>देवस्य महिमा</strong>' — देव की महिमा/शक्ति है। '<strong>तेनैव आवृतम्</strong>' = उसी के द्वारा यह सब आवृत (enveloped) है। स्वभाव, काल, नियति — ये कारण नहीं, <strong>ईश्वर-शक्ति के व्यक्त रूप</strong> हैं।"
+      },
+      {
+        "q": "⚡ 'देवस्य एष महिमा तु लोके' — सांसारिक कारणों से परे?",
+        "a": "यह मन्त्र अध्याय 6 का <strong>प्रारम्भिक सूत्र</strong> है — जो अध्याय 1 के प्रश्न (किम् कारणम् ब्रह्म?) का अन्तिम उत्तर देता है। सब कथित कारण — स्वभाव, काल, कर्म, भूत-संयोग — ये सब '<strong>देवस्य महिमा</strong>' के अंश हैं। <strong>ईश्वर ही एकमात्र परम कारण</strong> है — बाकी सब उपकरण (instruments) हैं, कारण नहीं। गीता 7.6 — '<strong>अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा</strong>'।"
+      }
+    ]
   },
   {
     "id": 2,
@@ -51,18 +117,66 @@
     "hi": "जिसने इस सम्पूर्ण जगत् को सदा आवृत (व्याप्त) कर रखा है, जो सर्वज्ञ है, काल का कर्ता (नियन्ता) है, गुणों का स्वामी है, सर्वविद्या-सम्पन्न है — उसी के द्वारा शासित यह कर्म (सृष्टि-कार्य) विभक्त किया जाता है — पृथ्वी, जल, तेज, वायु, आकाश — इस प्रकार चिन्तनीय है।",
     "en": "He by whom this entire world is ever enveloped — the Knower, the author of time, possessor of qualities, omniscient — by Him is this work (of creation) differentiated: earth, water, fire, air, and space. This is to be contemplated.",
     "ws": [
-      {"s": "येन", "h": "जिसके द्वारा", "e": "by whom"},
-      {"s": "आवृतम्", "h": "आवृत / व्याप्त", "e": "enveloped, pervaded"},
-      {"s": "नित्यम्", "h": "सदा", "e": "always, eternally"},
-      {"s": "ज्ञः", "h": "सर्वज्ञ", "e": "the Knower, omniscient"},
-      {"s": "कालकारः", "h": "काल का कर्ता / नियन्ता", "e": "author/maker of time"},
-      {"s": "गुणी", "h": "गुणों का स्वामी", "e": "possessor of qualities"},
-      {"s": "सर्वविद्यः", "h": "सम्पूर्ण विद्याओं का ज्ञाता", "e": "omniscient, knower of all sciences"},
-      {"s": "ईशितम्", "h": "शासित / नियन्त्रित", "e": "ruled, governed"},
-      {"s": "कर्म", "h": "सृष्टि-कार्य", "e": "work, action of creation"},
-      {"s": "विविच्यते", "h": "विभक्त किया जाता है", "e": "is differentiated"},
-      {"s": "पृथिवी-अप्-तेजः-अनिल-खानि", "h": "पृथ्वी, जल, अग्नि, वायु, आकाश", "e": "earth, water, fire, air, space"},
-      {"s": "चिन्त्यम्", "h": "चिन्तनीय / ध्यान करने योग्य", "e": "to be contemplated"}
+      {
+        "s": "येन",
+        "h": "जिसके द्वारा",
+        "e": "by whom"
+      },
+      {
+        "s": "आवृतम्",
+        "h": "आवृत / व्याप्त",
+        "e": "enveloped, pervaded"
+      },
+      {
+        "s": "नित्यम्",
+        "h": "सदा",
+        "e": "always, eternally"
+      },
+      {
+        "s": "ज्ञः",
+        "h": "सर्वज्ञ",
+        "e": "the Knower, omniscient"
+      },
+      {
+        "s": "कालकारः",
+        "h": "काल का कर्ता / नियन्ता",
+        "e": "author/maker of time"
+      },
+      {
+        "s": "गुणी",
+        "h": "गुणों का स्वामी",
+        "e": "possessor of qualities"
+      },
+      {
+        "s": "सर्वविद्यः",
+        "h": "सम्पूर्ण विद्याओं का ज्ञाता",
+        "e": "omniscient, knower of all sciences"
+      },
+      {
+        "s": "ईशितम्",
+        "h": "शासित / नियन्त्रित",
+        "e": "ruled, governed"
+      },
+      {
+        "s": "कर्म",
+        "h": "सृष्टि-कार्य",
+        "e": "work, action of creation"
+      },
+      {
+        "s": "विविच्यते",
+        "h": "विभक्त किया जाता है",
+        "e": "is differentiated"
+      },
+      {
+        "s": "पृथिवी-अप्-तेजः-अनिल-खानि",
+        "h": "पृथ्वी, जल, अग्नि, वायु, आकाश",
+        "e": "earth, water, fire, air, space"
+      },
+      {
+        "s": "चिन्त्यम्",
+        "h": "चिन्तनीय / ध्यान करने योग्य",
+        "e": "to be contemplated"
+      }
     ],
     "gr": "<strong>आवृतम्</strong> — आ + √वृ (ढकना), कर्मणि भूत कृदन्त। <strong>कालकारः</strong> — काल + कार (√कृ), कर्तृ तत्पुरुष: 'काल को करने वाला' — काल भी इस ईश्वर द्वारा निर्मित है। <strong>गुणी</strong> — गुण + इनि प्रत्यय: 'गुणों का स्वामी'। <strong>विविच्यते</strong> — वि + √विच् (विभक्त करना), कर्मणि लट्। <strong>पृथिव्यप्तेजोऽनिलखानि</strong> — पञ्चमहाभूतों का द्वन्द्व समास।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -85,7 +199,17 @@
         "en": "Aurobindo says the divine consciousness is called 'sarvavidya' — it knows all because all is its own expression. The five elements are progressive condensations of that consciousness.",
         "ins": "सृष्टि ज्ञान-शक्ति की क्रमिक अभिव्यक्ति है — आकाश से पृथ्वी तक।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "⏰ 'कालकारः' — ईश्वर 'काल का रचयिता' कैसे?",
+        "a": "'<strong>कालकारः</strong>' = काल + कार — काल का निर्माता/रचयिता। ईश्वर समय से <strong>पूर्व</strong> (before time) है — उसने काल को रचा, काल ने उसे नहीं। वह '<strong>गुणी</strong>' (गुणों का स्वामी) और '<strong>सर्वविद्यः</strong>' (सर्वज्ञ) है। '<strong>तेनेशितम्</strong>' = उसके द्वारा शासित। तैत्तिरीय 2.6 — '<strong>सोऽकामयत — बहु स्यां प्रजायेय</strong>' — उसने इच्छा की — मैं बहुत हो जाऊँ — यह काल से पूर्व की इच्छा है।"
+      },
+      {
+        "q": "🌊 'पृथिवी-तेजो-अनिल-खे समुत्थिते' — पंचभूत का सम्बन्ध?",
+        "a": "ब्रह्म-ज्ञान (<strong>ज्ञान-योग</strong>) वहाँ प्रकट होता है जहाँ <strong>पञ्चभूत</strong> — पृथिवी, तेजस् (अग्नि), अनिल (वायु), अम्बर (आकाश) और जल — '<strong>समुत्थिते</strong>' (एक साथ उत्पन्न/प्रकट) होते हैं। यह शरीर पंचभूतमय है — <strong>शरीर में ही</strong> ब्रह्म-ज्ञान सम्भव है। तैत्तिरीय 2.1 — '<strong>तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः</strong>' — आत्मा से आकाश, आकाश से वायु, वायु से अग्नि...।"
+      }
+    ]
   },
   {
     "id": 3,
@@ -94,19 +218,71 @@
     "hi": "उस (ईश्वर ने) यह सृष्टि-कर्म करके, फिर उसे वापस समेटकर, तत्त्व (प्रकृति) के साथ तत्त्व (आत्मा) का योग (संयोग) करके — एक, दो, तीन, आठ (तत्त्वों) से, काल के साथ, और आत्मा के सूक्ष्म गुणों के साथ (यह सब होता है)।",
     "en": "Having performed that work (of creation) and having withdrawn it again, having united the essence (soul) with the essence (nature) — through one, two, three, or eight (principles), and through time, and through the subtle qualities of the self (this operates).",
     "ws": [
-      {"s": "तत् कर्म", "h": "वह (सृष्टि) कार्य", "e": "that work (of creation)"},
-      {"s": "कृत्वा", "h": "करके", "e": "having done"},
-      {"s": "विनिवर्त्य", "h": "वापस समेटकर / लौटाकर", "e": "having withdrawn"},
-      {"s": "भूयः", "h": "पुनः", "e": "again"},
-      {"s": "तत्त्वस्य तत्त्वेन", "h": "तत्त्व (आत्मा) का तत्त्व (प्रकृति) के साथ", "e": "of the essence with the essence"},
-      {"s": "समेत्य", "h": "मिलकर / संयोग करके", "e": "having united"},
-      {"s": "योगम्", "h": "संयोग", "e": "union, conjunction"},
-      {"s": "एकेन", "h": "एक से", "e": "by one"},
-      {"s": "द्वाभ्याम्", "h": "दो से", "e": "by two"},
-      {"s": "त्रिभिः", "h": "तीन से", "e": "by three"},
-      {"s": "अष्टभिः", "h": "आठ से", "e": "by eight"},
-      {"s": "कालेन", "h": "काल के द्वारा", "e": "through time"},
-      {"s": "आत्मगुणैः सूक्ष्मैः", "h": "आत्मा के सूक्ष्म गुणों से", "e": "through the subtle qualities of the self"}
+      {
+        "s": "तत् कर्म",
+        "h": "वह (सृष्टि) कार्य",
+        "e": "that work (of creation)"
+      },
+      {
+        "s": "कृत्वा",
+        "h": "करके",
+        "e": "having done"
+      },
+      {
+        "s": "विनिवर्त्य",
+        "h": "वापस समेटकर / लौटाकर",
+        "e": "having withdrawn"
+      },
+      {
+        "s": "भूयः",
+        "h": "पुनः",
+        "e": "again"
+      },
+      {
+        "s": "तत्त्वस्य तत्त्वेन",
+        "h": "तत्त्व (आत्मा) का तत्त्व (प्रकृति) के साथ",
+        "e": "of the essence with the essence"
+      },
+      {
+        "s": "समेत्य",
+        "h": "मिलकर / संयोग करके",
+        "e": "having united"
+      },
+      {
+        "s": "योगम्",
+        "h": "संयोग",
+        "e": "union, conjunction"
+      },
+      {
+        "s": "एकेन",
+        "h": "एक से",
+        "e": "by one"
+      },
+      {
+        "s": "द्वाभ्याम्",
+        "h": "दो से",
+        "e": "by two"
+      },
+      {
+        "s": "त्रिभिः",
+        "h": "तीन से",
+        "e": "by three"
+      },
+      {
+        "s": "अष्टभिः",
+        "h": "आठ से",
+        "e": "by eight"
+      },
+      {
+        "s": "कालेन",
+        "h": "काल के द्वारा",
+        "e": "through time"
+      },
+      {
+        "s": "आत्मगुणैः सूक्ष्मैः",
+        "h": "आत्मा के सूक्ष्म गुणों से",
+        "e": "through the subtle qualities of the self"
+      }
     ],
     "gr": "<strong>कृत्वा</strong> — √कृ + क्त्वा (ल्यबन्त): 'करके'। <strong>विनिवर्त्य</strong> — वि + नि + √वृत् (लौटना) + ल्यप्: 'वापस लौटाकर'। <strong>समेत्य</strong> — सम् + √इ (जाना) + ल्यप्: 'मिलकर'। <strong>एकेन द्वाभ्यां त्रिभिः अष्टभिः</strong> — एक = प्रकृति/माया, दो = पुरुष-प्रकृति, तीन = तीन गुण, आठ = प्रकृति की अष्टधा विभूति (पृथ्वी, जल, तेज, वायु, आकाश, मन, बुद्धि, अहंकार)। <strong>आत्मगुणैः</strong> — आत्मन् + गुण, षष्ठी तत्पुरुष।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -129,7 +305,17 @@
         "en": "Aurobindo says the numbers (1, 2, 3, 8) point to tattva-analysis (Sankhya). The divine consciousness progressively differentiates itself into multiple principles and then returns to unity.",
         "ins": "एक से अनेक, अनेक से एक — यही सृष्टि-चक्र है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🔗 'तत्त्वस्य तत्त्वेन समेत्य योगम्' — तत्त्व से तत्त्व का योग?",
+        "a": "'<strong>तत्त्वस्य तत्त्वेन</strong>' = तत्त्व (essence/reality) के साथ तत्त्व (स्वरूप) का — '<strong>समेत्य योगम्</strong>' = योग (union/संयोग) प्राप्त करके। ईश्वर सृष्टि-कर्म करके ('<strong>तत्कर्म कृत्वा</strong>') फिर '<strong>विनिवर्त्य</strong>' (वापस समेटकर) अपने <strong>स्वरूप</strong> में स्थित होता है। '<strong>एकेन द्वाभ्यां त्रिभिः</strong>' = एक, दो, तीन... गुणों से — यह <strong>सृष्टि-क्रम</strong> का विवरण है।"
+      },
+      {
+        "q": "🕐 'कालेन च' — समय की भूमिका क्या?",
+        "a": "ईश्वर '<strong>कालेन</strong>' (time के साथ), '<strong>आत्मगुणैः</strong>' (आत्म-गुणों से), '<strong>विशेषैः</strong>' (विशेषताओं से) सृष्टि रचता है। काल ईश्वर का <strong>उपकरण</strong> (instrument) है — जैसे कुम्हार चक्र का उपयोग करता है। '<strong>भूतादि</strong>' = महत्तत्त्व (mahat) — सांख्य की सृष्टि-शृंखला: प्रकृति → महत् → अहंकार → पंचतन्मात्रा → पंचभूत। गीता 11.32 — '<strong>कालोऽस्मि लोकक्षयकृत्प्रवृद्धः</strong>'।"
+      }
+    ]
   },
   {
     "id": 4,
@@ -138,17 +324,61 @@
     "hi": "जो (ईश्वर) गुणयुक्त कर्मों को आरम्भ करता है और सम्पूर्ण भावों (अस्तित्वों) को नियोजित करता है — उन (कर्मों) के न रहने पर कृतकर्म का नाश हो जाता है, और कर्मक्षय होने पर वह (जीव) तत्त्वतः अन्य (देह से भिन्न) होकर जाता है (मुक्त हो जाता है)।",
     "en": "He who initiates actions endowed with gunas and arranges all existences — when those (actions) cease, the accumulated karma is destroyed, and upon the exhaustion of karma, he (the soul) goes forth as essentially other (than the body) — liberated.",
     "ws": [
-      {"s": "आरभ्य", "h": "आरम्भ करके", "e": "having initiated"},
-      {"s": "कर्माणि", "h": "कर्मों को", "e": "actions"},
-      {"s": "गुणान्वितानि", "h": "गुणयुक्त", "e": "endowed with gunas"},
-      {"s": "भावान्", "h": "भावों / अस्तित्वों को", "e": "existences, states of being"},
-      {"s": "सर्वान्", "h": "सभी", "e": "all"},
-      {"s": "विनियोजयेत्", "h": "नियोजित करे / व्यवस्थित करे", "e": "arranges, appoints"},
-      {"s": "तेषाम् अभावे", "h": "उनके न रहने पर", "e": "in the absence of those"},
-      {"s": "कृतकर्मनाशः", "h": "किये हुए कर्मों का नाश", "e": "destruction of accumulated karma"},
-      {"s": "कर्मक्षये", "h": "कर्म के क्षय होने पर", "e": "upon exhaustion of karma"},
-      {"s": "याति", "h": "जाता है / प्राप्त करता है", "e": "goes, attains"},
-      {"s": "तत्त्वतः अन्यः", "h": "तत्त्वतः (वास्तव में) शरीर से भिन्न", "e": "essentially other (than the body)"}
+      {
+        "s": "आरभ्य",
+        "h": "आरम्भ करके",
+        "e": "having initiated"
+      },
+      {
+        "s": "कर्माणि",
+        "h": "कर्मों को",
+        "e": "actions"
+      },
+      {
+        "s": "गुणान्वितानि",
+        "h": "गुणयुक्त",
+        "e": "endowed with gunas"
+      },
+      {
+        "s": "भावान्",
+        "h": "भावों / अस्तित्वों को",
+        "e": "existences, states of being"
+      },
+      {
+        "s": "सर्वान्",
+        "h": "सभी",
+        "e": "all"
+      },
+      {
+        "s": "विनियोजयेत्",
+        "h": "नियोजित करे / व्यवस्थित करे",
+        "e": "arranges, appoints"
+      },
+      {
+        "s": "तेषाम् अभावे",
+        "h": "उनके न रहने पर",
+        "e": "in the absence of those"
+      },
+      {
+        "s": "कृतकर्मनाशः",
+        "h": "किये हुए कर्मों का नाश",
+        "e": "destruction of accumulated karma"
+      },
+      {
+        "s": "कर्मक्षये",
+        "h": "कर्म के क्षय होने पर",
+        "e": "upon exhaustion of karma"
+      },
+      {
+        "s": "याति",
+        "h": "जाता है / प्राप्त करता है",
+        "e": "goes, attains"
+      },
+      {
+        "s": "तत्त्वतः अन्यः",
+        "h": "तत्त्वतः (वास्तव में) शरीर से भिन्न",
+        "e": "essentially other (than the body)"
+      }
     ],
     "gr": "<strong>आरभ्य</strong> — आ + √रभ् (आरम्भ करना) + ल्यप्। <strong>गुणान्वितानि</strong> — गुण + अन्वित (अनु + √इ: 'के साथ गया हुआ'), बहुव्रीहि। <strong>विनियोजयेत्</strong> — वि + नि + √युज् (जोड़ना), णिजन्त विधिलिङ्। <strong>कृतकर्मनाशः</strong> — कृत + कर्म + नाश, षष्ठी तत्पुरुष: 'किये हुए कर्मों का नाश'। <strong>तत्त्वतः</strong> — तत्त्व + तसिल् प्रत्यय: 'वास्तव में, सारतः'।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -171,7 +401,17 @@
         "en": "Aurobindo says karma-kshaya means the dissolution of the ego-sense of doership. When consciousness returns to its divine source, the bondage of karma automatically ceases.",
         "ins": "कर्ता-भाव (ego) ही कर्मबन्ध है — जब कर्ता मिटा, कर्म मुक्त हो गया।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🎬 ईश्वर कर्म 'आरम्भ' करता है, फिर 'अभाव' में क्या?",
+        "a": "'<strong>आरभ्य कर्माणि गुणान्वितानि</strong>' = गुण-युक्त कर्मों को आरम्भ करके; '<strong>तेषाम् अभावे</strong>' = उन (कर्मों) के अभाव (cessation) में। जब कर्म समाप्त होते हैं, '<strong>कृतकर्मनाशः</strong>' — कर्म-विनाश होता है — तब '<strong>तत्त्वतोऽन्यः</strong>' — वह तत्त्वतः (in reality) अन्य (पृथक) प्रकट होता है। कर्म <strong>माया</strong> है; ईश्वर कर्म से परे है — कर्म-लीला करते हुए भी <strong>अलिप्त</strong>। गीता 4.13 — '<strong>न मां कर्माणि लिम्पन्ति</strong>'।"
+      },
+      {
+        "q": "🌅 'आद्यः' — ईश्वर 'प्रथम' कैसे?",
+        "a": "'<strong>आद्यः</strong>' = आदि / सबसे प्रथम — ईश्वर कालक्रम में नहीं, <strong>अस्तित्व-क्रम</strong> (ontological order) में प्रथम है। वह '<strong>विश्वकर्मा</strong>' (विश्व का रचयिता) और '<strong>महात्मा</strong>' है। '<strong>सदा जनानां हृदये सन्निविष्टः</strong>' — वह सदा लोगों के हृदय में विराजमान है। कठ 2.1.12 — '<strong>अंगुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति — ईशानो भूतभव्यस्य</strong>'।"
+      }
+    ]
   },
   {
     "id": 5,
@@ -180,17 +420,61 @@
     "hi": "जिस ईश्वर ने इस अनेक तन्तुओं वाले जाल (सृष्टि-जाल) को फैलाया है — वह इसे (सृष्टि में) प्रकट करता है और इसमें वापस समेटता है। सर्वेश्वर सबकी कामनाएँ पूर्ण करता है; उसी में समस्त लोक शान्त हो जाते हैं (विलीन हो जाते हैं)।",
     "en": "He who stretched out this web of many threads — the Lord brings it forth in this (world) and withdraws it again. The Lord of all fulfills desires; in Him all worlds find their peace (dissolution).",
     "ws": [
-      {"s": "यः", "h": "जो", "e": "who"},
-      {"s": "ततान्", "h": "फैलाया / विस्तृत किया", "e": "stretched out, wove"},
-      {"s": "ऋशाम् जालम्", "h": "अनेक तन्तुओं का जाल", "e": "web/net of many threads"},
-      {"s": "एतत्", "h": "यह", "e": "this"},
-      {"s": "प्रभवति", "h": "प्रकट होता है / उत्पन्न करता है", "e": "brings forth, produces"},
-      {"s": "उपसंहरति", "h": "वापस समेटता है", "e": "withdraws"},
-      {"s": "ईशः", "h": "ईश्वर", "e": "the Lord"},
-      {"s": "सर्वेश्वरः", "h": "सबका ईश्वर", "e": "Lord of all"},
-      {"s": "विदधाति", "h": "पूर्ण करता है / विधान करता है", "e": "grants, ordains"},
-      {"s": "कामान्", "h": "कामनाओं को", "e": "desires"},
-      {"s": "उपशाम्यन्ति", "h": "शान्त हो जाते हैं / विलीन हो जाते हैं", "e": "find peace, dissolve"}
+      {
+        "s": "यः",
+        "h": "जो",
+        "e": "who"
+      },
+      {
+        "s": "ततान्",
+        "h": "फैलाया / विस्तृत किया",
+        "e": "stretched out, wove"
+      },
+      {
+        "s": "ऋशाम् जालम्",
+        "h": "अनेक तन्तुओं का जाल",
+        "e": "web/net of many threads"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह",
+        "e": "this"
+      },
+      {
+        "s": "प्रभवति",
+        "h": "प्रकट होता है / उत्पन्न करता है",
+        "e": "brings forth, produces"
+      },
+      {
+        "s": "उपसंहरति",
+        "h": "वापस समेटता है",
+        "e": "withdraws"
+      },
+      {
+        "s": "ईशः",
+        "h": "ईश्वर",
+        "e": "the Lord"
+      },
+      {
+        "s": "सर्वेश्वरः",
+        "h": "सबका ईश्वर",
+        "e": "Lord of all"
+      },
+      {
+        "s": "विदधाति",
+        "h": "पूर्ण करता है / विधान करता है",
+        "e": "grants, ordains"
+      },
+      {
+        "s": "कामान्",
+        "h": "कामनाओं को",
+        "e": "desires"
+      },
+      {
+        "s": "उपशाम्यन्ति",
+        "h": "शान्त हो जाते हैं / विलीन हो जाते हैं",
+        "e": "find peace, dissolve"
+      }
     ],
     "gr": "<strong>ततान्</strong> — √तन् (फैलाना), लिट् लकार, प्रथम पुरुष एकवचन: 'उसने फैलाया'। <strong>ऋशाम्</strong> — ऋश् / ऋक् = रेशे, तन्तु (threads)। <strong>उपसंहरति</strong> — उप + सम् + √हृ (ले जाना): 'वापस लेता है'। <strong>विदधाति</strong> — वि + √धा (रखना), लट् लकार: 'विधान करता है, प्रदान करता है'। <strong>उपशाम्यन्ति</strong> — उप + √शम् (शान्त होना): 'शान्त हो जाते हैं, विलीन हो जाते हैं'।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -213,7 +497,17 @@
         "en": "Aurobindo says the image of the 'web' is beautiful — creation is a complex, interwoven network of threads, all woven from one consciousness. When consciousness returns to its source, the web is withdrawn.",
         "ins": "सृष्टि एक दिव्य जाल है — सब तन्तु एक ही स्रोत से निकलते हैं।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🕸 'तन्तामृशां जालम्' — यह 'बहु-तन्तु' जाल क्या है?",
+        "a": "'<strong>तन्ता</strong>' = तन्तु (threads/धागे); '<strong>अमृशाम्</strong>' = अनेक प्रकार के; '<strong>जालम्</strong>' = जाल/network। ईश्वर इस <strong>बहु-तन्तु माया-जाल</strong> को फैलाता है ('<strong>प्रभवति</strong>') और समेटता है ('<strong>उपसंहरति</strong>')। '<strong>सर्वेश्वरः</strong>' = सबका ईश्वर। यह मुण्डक 1.1.7 की मकड़ी-उपमा जैसा है — <strong>यथोर्णनाभिः सृजते गृह्णते च</strong> — जैसे मकड़ी जाल बुनती और वापस खींचती है।"
+      },
+      {
+        "q": "🧘 'विदधत्ययं' — ईश्वर 'विदधाति' = व्यवस्था करता है?",
+        "a": "'<strong>विदधाति</strong>' (√धा, वि-उपसर्ग) = व्यवस्थित करना / रचना करना। ईश्वर केवल <strong>रचता</strong> नहीं, <strong>व्यवस्थित</strong> करता है — प्रत्येक तन्तु (धागा) यथास्थान। यह <strong>intelligent design</strong> नहीं (बौद्धिक अर्थ में), बल्कि <strong>चेतना की सहज व्यवस्था</strong> है — जैसे बीज में वृक्ष की सम्पूर्ण रचना '<strong>अन्तर्निहित</strong>' (inherent) है। ईशा उपनिषद् 8 — '<strong>स पर्यगाच्छुक्रम् — कविर्मनीषी — स्वयम्भूर्याथातथ्यतोऽर्थान् व्यदधात्</strong>'।"
+      }
+    ]
   },
   {
     "id": 6,
@@ -222,17 +516,61 @@
     "hi": "वह (परमात्मा) वृक्ष (संसार-वृक्ष), काल, और आकृतियों (शरीरों) से परे और भिन्न है — जिससे यह प्रपञ्च (जगत्) परिवर्तित होता है। उसे — जो धर्म लाने वाला, पाप-नाशक, ऐश्वर्य का स्वामी, आत्मा में स्थित, अमृतस्वरूप, और विश्व का धाम (आश्रय) है — जानकर (मुक्ति होती है)।",
     "en": "He is beyond and other than the tree (of samsara), time, and forms — from whom this manifold world revolves. Knowing Him who brings dharma, who destroys sin, the Lord of blessings, dwelling in the self, immortal, the abode of the universe — (one is liberated).",
     "ws": [
-      {"s": "वृक्षकालाकृतिभिः", "h": "वृक्ष (संसार), काल, और आकृतियों से", "e": "from the tree (of samsara), time, and forms"},
-      {"s": "परः अन्यः", "h": "परे और भिन्न", "e": "beyond and other"},
-      {"s": "यस्मात्", "h": "जिससे", "e": "from whom"},
-      {"s": "प्रपञ्चः", "h": "जगत् का विस्तार", "e": "the manifold world"},
-      {"s": "परिवर्तते", "h": "परिवर्तित होता है / घूमता है", "e": "revolves, transforms"},
-      {"s": "धर्मावहम्", "h": "धर्म लाने वाला", "e": "bringer of dharma"},
-      {"s": "पापनुदम्", "h": "पाप-नाशक", "e": "destroyer of sin"},
-      {"s": "भगेशम्", "h": "ऐश्वर्य (भग) का ईश्वर", "e": "Lord of blessings/glory"},
-      {"s": "आत्मस्थम्", "h": "आत्मा में स्थित", "e": "dwelling in the self"},
-      {"s": "अमृतम्", "h": "अमृत / अमरणशील", "e": "immortal"},
-      {"s": "विश्वधाम", "h": "विश्व का आश्रय / धाम", "e": "abode of the universe"}
+      {
+        "s": "वृक्षकालाकृतिभिः",
+        "h": "वृक्ष (संसार), काल, और आकृतियों से",
+        "e": "from the tree (of samsara), time, and forms"
+      },
+      {
+        "s": "परः अन्यः",
+        "h": "परे और भिन्न",
+        "e": "beyond and other"
+      },
+      {
+        "s": "यस्मात्",
+        "h": "जिससे",
+        "e": "from whom"
+      },
+      {
+        "s": "प्रपञ्चः",
+        "h": "जगत् का विस्तार",
+        "e": "the manifold world"
+      },
+      {
+        "s": "परिवर्तते",
+        "h": "परिवर्तित होता है / घूमता है",
+        "e": "revolves, transforms"
+      },
+      {
+        "s": "धर्मावहम्",
+        "h": "धर्म लाने वाला",
+        "e": "bringer of dharma"
+      },
+      {
+        "s": "पापनुदम्",
+        "h": "पाप-नाशक",
+        "e": "destroyer of sin"
+      },
+      {
+        "s": "भगेशम्",
+        "h": "ऐश्वर्य (भग) का ईश्वर",
+        "e": "Lord of blessings/glory"
+      },
+      {
+        "s": "आत्मस्थम्",
+        "h": "आत्मा में स्थित",
+        "e": "dwelling in the self"
+      },
+      {
+        "s": "अमृतम्",
+        "h": "अमृत / अमरणशील",
+        "e": "immortal"
+      },
+      {
+        "s": "विश्वधाम",
+        "h": "विश्व का आश्रय / धाम",
+        "e": "abode of the universe"
+      }
     ],
     "gr": "<strong>वृक्षकालाकृतिभिः</strong> — वृक्ष + काल + आकृति, द्वन्द्व समास, तृतीया बहुवचन। <strong>परः अन्यः</strong> — दो विशेषण: 'श्रेष्ठ' और 'भिन्न'। <strong>धर्मावहम्</strong> — धर्म + आवह (आ + √वह्: 'लाने वाला'), कर्मधारय। <strong>पापनुदम्</strong> — पाप + नुद् (√नुद्: 'दूर करने वाला')। <strong>भगेशम्</strong> — भग (ऐश्वर्य, ज्ञान आदि छह भग) + ईश, षष्ठी तत्पुरुष। <strong>विश्वधाम</strong> — विश्व + धामन् (स्थान, आश्रय)।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -255,7 +593,17 @@
         "en": "Aurobindo says 'paro'nyah' and 'atmastham' — the divine Reality is simultaneously transcendent and immanent. This paradox is the hallmark of spiritual experience.",
         "ins": "परम सत्ता एक साथ सब से परे और सब में विद्यमान है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🌳 'स वृक्ष-काल-आकृतिभिः परः' — ईश्वर वृक्ष और काल से परे?",
+        "a": "'<strong>वृक्षः</strong>' = संसार-वृक्ष (tree of samsara, गीता 15.1 — अश्वत्थ); '<strong>कालः</strong>' = समय; '<strong>आकृतिभिः</strong>' = आकारों/रूपों से। ईश्वर इन सबसे '<strong>परः अन्यः</strong>' — परे और पृथक है। '<strong>यस्मात् प्रपञ्चः परिवर्तते</strong>' — जिससे यह प्रपञ्च (manifold world) घूमता/परिवर्तित होता है। वृक्ष, काल, रूप — ये <strong>माया के प्रकटीकरण</strong> हैं; ईश्वर माया का <strong>अधिष्ठान</strong> है।"
+      },
+      {
+        "q": "⚖ 'धर्मावहं पापनुदम्' — धर्म लाने वाला और पाप हटाने वाला?",
+        "a": "'<strong>धर्मावहम्</strong>' = धर्म + आवह — धर्म को लाने वाला / धर्म-प्रदाता; '<strong>पापनुदम्</strong>' = पाप + नुद् — पाप को दूर करने वाला। ईश्वर की दो भूमिकाएँ: (1) <strong>धर्म-स्थापक</strong> — वह धर्म का स्रोत है; (2) <strong>पाप-निवारक</strong> — भक्ति/ज्ञान से वह पाप मिटाता है। गीता 4.7-8 — '<strong>यदा यदा हि धर्मस्य ग्लानिर्भवति — तदात्मानं सृजाम्यहम् — धर्मसंस्थापनार्थाय</strong>'।"
+      }
+    ]
   },
   {
     "id": 7,
@@ -264,18 +612,66 @@
     "hi": "उन्हें, जो ईश्वरों के परम महेश्वर हैं, देवताओं के परम दैवत हैं, पतियों (स्वामियों) के परम पति हैं, सबसे परे हैं — उस स्तुत्य देव को, भुवनों के ईश्वर को हम जानें।",
     "en": "Him, the supreme Lord of lords, the supreme Deity of deities, the supreme Master of masters, transcendent beyond all — may we know that adorable God, the Lord of the worlds.",
     "ws": [
-      {"s": "तम्", "h": "उसको", "e": "Him"},
-      {"s": "ईश्वराणाम्", "h": "ईश्वरों का", "e": "of lords"},
-      {"s": "परमम्", "h": "सर्वोच्च", "e": "supreme"},
-      {"s": "महेश्वरम्", "h": "महान् ईश्वर", "e": "the great Lord"},
-      {"s": "देवतानाम्", "h": "देवताओं का", "e": "of deities"},
-      {"s": "दैवतम्", "h": "दैवत / देवता", "e": "Deity, divine being"},
-      {"s": "पतिम्", "h": "स्वामी / पति", "e": "Master, Lord"},
-      {"s": "पतीनाम्", "h": "स्वामियों / पतियों का", "e": "of masters"},
-      {"s": "परस्तात्", "h": "परे / ऊपर", "e": "beyond, transcendent"},
-      {"s": "विदाम", "h": "हम जानें", "e": "may we know"},
-      {"s": "भुवनेशम्", "h": "भुवनों (लोकों) का ईश्वर", "e": "Lord of the worlds"},
-      {"s": "ईड्यम्", "h": "स्तुत्य / पूज्य", "e": "adorable, worthy of praise"}
+      {
+        "s": "तम्",
+        "h": "उसको",
+        "e": "Him"
+      },
+      {
+        "s": "ईश्वराणाम्",
+        "h": "ईश्वरों का",
+        "e": "of lords"
+      },
+      {
+        "s": "परमम्",
+        "h": "सर्वोच्च",
+        "e": "supreme"
+      },
+      {
+        "s": "महेश्वरम्",
+        "h": "महान् ईश्वर",
+        "e": "the great Lord"
+      },
+      {
+        "s": "देवतानाम्",
+        "h": "देवताओं का",
+        "e": "of deities"
+      },
+      {
+        "s": "दैवतम्",
+        "h": "दैवत / देवता",
+        "e": "Deity, divine being"
+      },
+      {
+        "s": "पतिम्",
+        "h": "स्वामी / पति",
+        "e": "Master, Lord"
+      },
+      {
+        "s": "पतीनाम्",
+        "h": "स्वामियों / पतियों का",
+        "e": "of masters"
+      },
+      {
+        "s": "परस्तात्",
+        "h": "परे / ऊपर",
+        "e": "beyond, transcendent"
+      },
+      {
+        "s": "विदाम",
+        "h": "हम जानें",
+        "e": "may we know"
+      },
+      {
+        "s": "भुवनेशम्",
+        "h": "भुवनों (लोकों) का ईश्वर",
+        "e": "Lord of the worlds"
+      },
+      {
+        "s": "ईड्यम्",
+        "h": "स्तुत्य / पूज्य",
+        "e": "adorable, worthy of praise"
+      }
     ],
     "gr": "<strong>ईश्वराणाम्</strong> — ईश्वर, षष्ठी बहुवचन। <strong>महेश्वरम्</strong> — महा + ईश्वर, कर्मधारय: 'महान् ईश्वर'। <strong>दैवतम्</strong> — देवता + अण् प्रत्यय। <strong>पतीनाम्</strong> — पति, षष्ठी बहुवचन। <strong>परस्तात्</strong> — अव्यय: 'परे, ऊपर, अतीत'। <strong>विदाम</strong> — √विद् (जानना), लोट् लकार, उत्तम पुरुष बहुवचन: 'हम जानें'। <strong>भुवनेशम्</strong> — भुवन + ईश, षष्ठी तत्पुरुष। <strong>ईड्यम्</strong> — √ईड् (स्तुति करना) + यत् प्रत्यय: 'स्तुति के योग्य'।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -298,7 +694,17 @@
         "en": "Aurobindo says this mantra is a sublime hymn of adoration — the Rishi's consciousness bows before that supreme Reality which transcends all centres of power. 'Vidama' — to know is itself worship.",
         "ins": "ज्ञान ही सच्ची स्तुति है — जो जानता है, वह पूजता है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "👑 'ईश्वराणां परमं महेश्वरम्' — ईश्वरों का भी ईश्वर?",
+        "a": "यह उपनिषद् का सबसे प्रसिद्ध मन्त्रों में है। '<strong>ईश्वराणां परमं महेश्वरम्</strong>' = ईश्वरों में <strong>परम महेश्वर</strong>; '<strong>देवतानां परमं दैवतम्</strong>' = देवताओं में परम देवता; '<strong>पतिं पतीनाम्</strong>' = स्वामियों का स्वामी। तीन स्तरों पर <strong>सर्वोच्चता</strong>: शासन (ईश्वर), दिव्यता (देवता), और स्वामित्व (पति)। '<strong>परस्तात्</strong>' = सबसे ऊपर — '<strong>विदाम देवं भुवनेशमीड्यम्</strong>' = उस स्तुति-योग्य भुवनेश्वर को हम जानें!"
+      },
+      {
+        "q": "🙏 यह मन्त्र किस सम्प्रदाय में सर्वाधिक महत्त्वपूर्ण?",
+        "a": "यह मन्त्र <strong>शैव सम्प्रदाय</strong> का मूल-मन्त्र माना जाता है — '<strong>महेश्वर</strong>' = शिव। किन्तु <strong>अद्वैत</strong> में यह निर्गुण ब्रह्म का वर्णन है — 'महेश्वर' = परम ईश्वर (not sectarian); <strong>विशिष्टाद्वैत</strong> में यह नारायण/विष्णु है — सर्वेश्वरेश्वर। सभी सम्प्रदाय इस मन्त्र को स्वीकार करते हैं — विवाद '<strong>महेश्वर</strong>' की पहचान पर है, <strong>सर्वोच्चता के सिद्धान्त</strong> पर नहीं।"
+      }
+    ]
   },
   {
     "id": 8,
@@ -307,19 +713,71 @@
     "hi": "उस (परमेश्वर) का न कोई कार्य (करने योग्य कर्तव्य) है, न कोई करण (इन्द्रिय/साधन)। उसके समान या उससे श्रेष्ठ कोई नहीं दिखता। उसकी परा (श्रेष्ठ) शक्ति विविध प्रकार की सुनी जाती है — स्वाभाविक ज्ञानशक्ति, बलशक्ति, और क्रियाशक्ति।",
     "en": "He has no task to perform, no organ (of action or sense). None is seen equal to Him or superior. His supreme power (para shakti) is heard to be manifold — naturally consisting of knowledge, strength, and action.",
     "ws": [
-      {"s": "न तस्य", "h": "उसका नहीं (है)", "e": "not His"},
-      {"s": "कार्यम्", "h": "कार्य / कर्तव्य", "e": "task, duty"},
-      {"s": "करणम्", "h": "करण / इन्द्रिय / साधन", "e": "organ, instrument"},
-      {"s": "विद्यते", "h": "पाया जाता है", "e": "is found, exists"},
-      {"s": "तत्समः", "h": "उसके समान", "e": "equal to Him"},
-      {"s": "अभ्यधिकः", "h": "उससे अधिक / श्रेष्ठ", "e": "superior to Him"},
-      {"s": "दृश्यते", "h": "दिखाई देता है", "e": "is seen"},
-      {"s": "परा", "h": "श्रेष्ठ / उच्चतम", "e": "supreme"},
-      {"s": "शक्तिः", "h": "शक्ति", "e": "power"},
-      {"s": "विविधा एव", "h": "विविध ही / अनेक प्रकार की ही", "e": "indeed manifold"},
-      {"s": "श्रूयते", "h": "सुनी जाती है (श्रुति में)", "e": "is heard (in the Veda)"},
-      {"s": "स्वाभाविकी", "h": "स्वाभाविक / निज", "e": "natural, inherent"},
-      {"s": "ज्ञानबलक्रिया", "h": "ज्ञान, बल, और क्रिया", "e": "knowledge, strength, and action"}
+      {
+        "s": "न तस्य",
+        "h": "उसका नहीं (है)",
+        "e": "not His"
+      },
+      {
+        "s": "कार्यम्",
+        "h": "कार्य / कर्तव्य",
+        "e": "task, duty"
+      },
+      {
+        "s": "करणम्",
+        "h": "करण / इन्द्रिय / साधन",
+        "e": "organ, instrument"
+      },
+      {
+        "s": "विद्यते",
+        "h": "पाया जाता है",
+        "e": "is found, exists"
+      },
+      {
+        "s": "तत्समः",
+        "h": "उसके समान",
+        "e": "equal to Him"
+      },
+      {
+        "s": "अभ्यधिकः",
+        "h": "उससे अधिक / श्रेष्ठ",
+        "e": "superior to Him"
+      },
+      {
+        "s": "दृश्यते",
+        "h": "दिखाई देता है",
+        "e": "is seen"
+      },
+      {
+        "s": "परा",
+        "h": "श्रेष्ठ / उच्चतम",
+        "e": "supreme"
+      },
+      {
+        "s": "शक्तिः",
+        "h": "शक्ति",
+        "e": "power"
+      },
+      {
+        "s": "विविधा एव",
+        "h": "विविध ही / अनेक प्रकार की ही",
+        "e": "indeed manifold"
+      },
+      {
+        "s": "श्रूयते",
+        "h": "सुनी जाती है (श्रुति में)",
+        "e": "is heard (in the Veda)"
+      },
+      {
+        "s": "स्वाभाविकी",
+        "h": "स्वाभाविक / निज",
+        "e": "natural, inherent"
+      },
+      {
+        "s": "ज्ञानबलक्रिया",
+        "h": "ज्ञान, बल, और क्रिया",
+        "e": "knowledge, strength, and action"
+      }
     ],
     "gr": "<strong>कार्यम्</strong> — √कृ + य (कर्मणि कृदन्त): 'करने योग्य कार्य'। <strong>करणम्</strong> — √कृ + ल्युट्: 'साधन, इन्द्रिय'। <strong>तत्समः</strong> — तत् + सम, बहुव्रीहि: 'उसके समान'। <strong>अभ्यधिकः</strong> — अभि + अधिक: 'उससे अधिक, श्रेष्ठ'। <strong>परा</strong> — पर शब्द, स्त्रीलिंग प्रथमा: 'श्रेष्ठ'। <strong>स्वाभाविकी</strong> — स्वभाव + इक + ङीप्: 'स्वभाव से उत्पन्न, सहज'। <strong>ज्ञानबलक्रिया</strong> — ज्ञान + बल + क्रिया, द्वन्द्व समास: तीन शक्तियाँ — इच्छाशक्ति (ज्ञान), क्रियाशक्ति (क्रिया), ज्ञानशक्ति (बल)।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -342,7 +800,17 @@
         "en": "Aurobindo says this mantra reveals the three powers of the divine Being — knowledge, force, and action. These powers are 'svabhaviki' — not acquired from outside, but the natural expression of the divine nature.",
         "ins": "ज्ञान, बल, क्रिया — ये तीन शक्तियाँ दिव्य स्वभाव से स्वतः प्रकट हैं।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🔧 'न तस्य कार्यं करणं च विद्यते' — ईश्वर को न कार्य है, न करण?",
+        "a": "'<strong>कार्यम्</strong>' = करने योग्य कार्य; '<strong>करणम्</strong>' = इन्द्रिय/उपकरण (organ/instrument)। ईश्वर के पास न कोई <strong>अधूरा कार्य</strong> है (वह पूर्ण है), न उसे किसी <strong>बाह्य उपकरण</strong> की आवश्यकता (वह स्वयं सर्वशक्तिमान)। '<strong>न तत्समः</strong>' = कोई उसके समान नहीं; '<strong>न अभ्यधिकः</strong>' = कोई उससे श्रेष्ठ नहीं। ईशा उपनिषद् 8 — '<strong>अकायम् अव्रणम् अस्नाविरम्</strong>' — शरीररहित, घावरहित, नस-रहित।"
+      },
+      {
+        "q": "💪 'परास्य शक्तिः विविधैव श्रूयते' — ईश्वर की शक्ति 'विविध'?",
+        "a": "यह <strong>शक्ति-सिद्धान्त</strong> का मूल वाक्य है। '<strong>परा</strong>' = परम/श्रेष्ठ; '<strong>शक्तिः</strong>' = शक्ति; '<strong>विविधा</strong>' = अनेक प्रकार की; '<strong>स्वाभाविकी</strong>' = स्वाभाविक/सहज। '<strong>ज्ञान-बल-क्रिया</strong>' = ज्ञान (knowledge), बल (power), क्रिया (action) — ये तीन शक्तियाँ सहज हैं, अर्जित नहीं। शंकर इसे <strong>माया-शक्ति</strong> मानते हैं; रामानुज इसे <strong>वास्तविक दिव्य शक्ति</strong>; श्री अरविन्द इसे <strong>चित्-शक्ति</strong> (consciousness-force) कहते हैं।"
+      }
+    ]
   },
   {
     "id": 9,
@@ -351,15 +819,51 @@
     "hi": "इस लोक में उसका कोई स्वामी (पति) नहीं है, न कोई उसका शासक (ईशिता) है, न उसका कोई चिह्न (लिंग/पहचान) है। वही (सबका) कारण है, करणों (इन्द्रियों) के अधिपतियों का भी अधिपति है। उसका न कोई जनक (उत्पत्तिकर्ता) है, न कोई अधिपति।",
     "en": "No one in the world is His master, nor is there any ruler over Him, nor any distinguishing mark of Him. He is the Cause, the Lord of the lords of the senses. He has no progenitor, no overlord.",
     "ws": [
-      {"s": "न तस्य कश्चित्", "h": "उसका कोई नहीं", "e": "no one is His"},
-      {"s": "पतिः", "h": "स्वामी", "e": "master, lord"},
-      {"s": "लोके", "h": "लोक में", "e": "in the world"},
-      {"s": "ईशिता", "h": "शासक / नियन्ता", "e": "ruler, controller"},
-      {"s": "लिङ्गम्", "h": "चिह्न / पहचान / लक्षण", "e": "mark, sign, distinguishing feature"},
-      {"s": "कारणम्", "h": "कारण", "e": "the Cause"},
-      {"s": "करणाधिपाधिपः", "h": "करणों (इन्द्रियों) के अधिपतियों का भी अधिपति", "e": "Lord of the lords of the organs"},
-      {"s": "जनिता", "h": "जनक / उत्पत्तिकर्ता", "e": "progenitor, parent"},
-      {"s": "अधिपः", "h": "अधिपति / स्वामी", "e": "overlord"}
+      {
+        "s": "न तस्य कश्चित्",
+        "h": "उसका कोई नहीं",
+        "e": "no one is His"
+      },
+      {
+        "s": "पतिः",
+        "h": "स्वामी",
+        "e": "master, lord"
+      },
+      {
+        "s": "लोके",
+        "h": "लोक में",
+        "e": "in the world"
+      },
+      {
+        "s": "ईशिता",
+        "h": "शासक / नियन्ता",
+        "e": "ruler, controller"
+      },
+      {
+        "s": "लिङ्गम्",
+        "h": "चिह्न / पहचान / लक्षण",
+        "e": "mark, sign, distinguishing feature"
+      },
+      {
+        "s": "कारणम्",
+        "h": "कारण",
+        "e": "the Cause"
+      },
+      {
+        "s": "करणाधिपाधिपः",
+        "h": "करणों (इन्द्रियों) के अधिपतियों का भी अधिपति",
+        "e": "Lord of the lords of the organs"
+      },
+      {
+        "s": "जनिता",
+        "h": "जनक / उत्पत्तिकर्ता",
+        "e": "progenitor, parent"
+      },
+      {
+        "s": "अधिपः",
+        "h": "अधिपति / स्वामी",
+        "e": "overlord"
+      }
     ],
     "gr": "<strong>ईशिता</strong> — √ईश् (शासन करना) + तृच्: 'शासक'। <strong>लिङ्गम्</strong> — 'चिह्न, लक्षण' — यहाँ अर्थ है कि उसे किसी बाह्य चिह्न से पहचाना नहीं जा सकता। <strong>करणाधिपाधिपः</strong> — करण + अधिप + अधिप, विशिष्ट तत्पुरुष: 'इन्द्रियों के स्वामियों (मनोदैवतों) का भी स्वामी'। <strong>जनिता</strong> — √जन् (उत्पन्न होना) + तृच्: 'जन्म देने वाला'। यह सम्पूर्ण मन्त्र नकारात्मक (अपवाद) पद्धति से ब्रह्म-वर्णन करता है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -382,7 +886,17 @@
         "en": "Aurobindo says 'na tasya lingam' — the divine Reality cannot be confined to any limited sign or symbol. It is 'karanam karanadhipadhipah' — both the Cause and the ultimate source of the causal chain.",
         "ins": "दिव्य सत्ता सभी लक्षणों और चिह्नों से परे है — वह स्वयं ही कारणों का कारण है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🏔 'न तस्य कश्चित् पतिः अस्ति लोके' — ईश्वर का कोई स्वामी नहीं?",
+        "a": "'<strong>न कश्चित् पतिः</strong>' = कोई स्वामी/प्रभु नहीं; '<strong>न ईशिता</strong>' = कोई शासक नहीं। ईश्वर <strong>अनियन्त्रित</strong> (uncontrolled) है — कोई उससे ऊपर नहीं। '<strong>न तस्य लिङ्गम्</strong>' = उसका कोई '<strong>लिङ्ग</strong>' (distinguishing mark/चिह्न) नहीं — वह किसी <strong>बाह्य चिह्न</strong> से पहचाना नहीं जा सकता। '<strong>स कारणं करणाधिपाधिपः</strong>' = वह कारणों का कारण, करणों (इन्द्रियों) के अधिपतियों का भी अधिपति है।"
+      },
+      {
+        "q": "🧬 'न चास्य कश्चिज्जनिता न चाधिपः' — न जन्मदाता, न अधिपति?",
+        "a": "'<strong>जनिता</strong>' = जन्म देने वाला (father/creator); '<strong>अधिपः</strong>' = अधिपति/स्वामी। ईश्वर <strong>अजन्मा</strong> (unborn) है — किसी ने उसे नहीं बनाया; <strong>स्वतन्त्र</strong> (independent) — कोई उसका शासक नहीं। यह <strong>causa sui</strong> (self-caused) का सिद्धान्त है। बृहदारण्यक 3.9.28 — '<strong>विज्ञानमानन्दं ब्रह्म</strong>' — ब्रह्म स्वयं-सिद्ध विज्ञान-आनन्द है, किसी अन्य पर निर्भर नहीं।"
+      }
+    ]
   },
   {
     "id": 10,
@@ -391,15 +905,51 @@
     "hi": "जो देव अग्नि में (प्रवेश कर गया है), जो जल में, जो सम्पूर्ण भुवन में प्रविष्ट हो गया है, जो औषधियों (अन्न-जड़ी-बूटियों) में, जो वनस्पतियों में — उस देव को नमस्कार, नमस्कार!",
     "en": "The God who is in fire, who is in water, who has entered the whole universe, who is in plants, who is in trees — to that God, salutations, salutations!",
     "ws": [
-      {"s": "यः देवः", "h": "जो देव", "e": "the God who"},
-      {"s": "अग्नौ", "h": "अग्नि में", "e": "in fire"},
-      {"s": "अप्सु", "h": "जल में", "e": "in water"},
-      {"s": "विश्वम् भुवनम्", "h": "सम्पूर्ण संसार / भुवन", "e": "the whole universe"},
-      {"s": "आविवेश", "h": "प्रवेश कर गया (है)", "e": "has entered"},
-      {"s": "ओषधीषु", "h": "औषधियों / अन्न-वनस्पतियों में", "e": "in herbs/plants"},
-      {"s": "वनस्पतिषु", "h": "वनस्पतियों / वृक्षों में", "e": "in trees"},
-      {"s": "तस्मै", "h": "उसके लिए", "e": "to Him"},
-      {"s": "नमो नमः", "h": "बार-बार नमस्कार", "e": "salutations, salutations"}
+      {
+        "s": "यः देवः",
+        "h": "जो देव",
+        "e": "the God who"
+      },
+      {
+        "s": "अग्नौ",
+        "h": "अग्नि में",
+        "e": "in fire"
+      },
+      {
+        "s": "अप्सु",
+        "h": "जल में",
+        "e": "in water"
+      },
+      {
+        "s": "विश्वम् भुवनम्",
+        "h": "सम्पूर्ण संसार / भुवन",
+        "e": "the whole universe"
+      },
+      {
+        "s": "आविवेश",
+        "h": "प्रवेश कर गया (है)",
+        "e": "has entered"
+      },
+      {
+        "s": "ओषधीषु",
+        "h": "औषधियों / अन्न-वनस्पतियों में",
+        "e": "in herbs/plants"
+      },
+      {
+        "s": "वनस्पतिषु",
+        "h": "वनस्पतियों / वृक्षों में",
+        "e": "in trees"
+      },
+      {
+        "s": "तस्मै",
+        "h": "उसके लिए",
+        "e": "to Him"
+      },
+      {
+        "s": "नमो नमः",
+        "h": "बार-बार नमस्कार",
+        "e": "salutations, salutations"
+      }
     ],
     "gr": "<strong>आविवेश</strong> — आ + √विश् (प्रवेश करना), लिट् लकार (perfect tense), द्विर्वचन: 'प्रविष्ट हो गया है'। <strong>ओषधीषु</strong> — ओषधि, सप्तमी बहुवचन। ओषधि = जो पकने पर नष्ट हो जाए (अन्न, जड़ी-बूटियाँ)। <strong>वनस्पतिषु</strong> — वनस्पति (वन + पति: 'वन के स्वामी' — बड़े वृक्ष), सप्तमी बहुवचन। <strong>नमो नमः</strong> — नमस् की आवृत्ति भक्ति-पूर्ण आग्रह व्यक्त करती है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -422,7 +972,17 @@
         "en": "Aurobindo says this mantra awakens the sense of divine presence in every element of nature. The divine consciousness is not separate from matter — matter is consciousness condensed. 'Namo namah' — reverent wonder.",
         "ins": "प्रकृति के प्रत्येक अणु में दिव्य चेतना विद्यमान है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🌊 'यो देवो अग्नौ यो अप्सु' — ईश्वर अग्नि में, जल में?",
+        "a": "यह <strong>सर्वव्यापकता</strong> (omnipresence) का प्रत्यक्ष वर्णन है। ईश्वर '<strong>अग्नौ</strong>' (अग्नि में), '<strong>अप्सु</strong>' (जल में), '<strong>विश्वं भुवनम्</strong>' (सम्पूर्ण भुवन में), '<strong>ओषधीषु</strong>' (औषधियों/पौधों में), '<strong>वनस्पतिषु</strong>' (वृक्षों में) — <strong>सर्वत्र</strong> प्रवेश कर चुका है। '<strong>तस्मै देवाय नमो नमः</strong>' = उस देव को बार-बार नमस्कार! यह <strong>नमस्कार-मन्त्र</strong> है — ज्ञान + भक्ति का संगम।"
+      },
+      {
+        "q": "🌿 ओषधि और वनस्पति में ईश्वर — क्या अर्थ?",
+        "a": "'<strong>ओषधीषु</strong>' = औषधि-पौधों में; '<strong>वनस्पतिषु</strong>' = वन-वृक्षों में। ईश्वर <strong>जड़ पदार्थों</strong> में भी विद्यमान है — यह <strong>सर्वात्मवाद</strong> (pantheism/panentheism) का उद्घोष है। प्रत्येक पत्ती, प्रत्येक बूँद, प्रत्येक अग्नि-शिखा में वही एक चेतना। गीता 10.39 — '<strong>यच्चापि सर्वभूतानां बीजं तदहमर्जुन — न तदस्ति विना यत्स्यात् मया भूतं चराचरम्</strong>' — कोई भी चर-अचर मेरे बिना नहीं।"
+      }
+    ]
   },
   {
     "id": 11,
@@ -431,18 +991,66 @@
     "hi": "एक ही देव सम्पूर्ण प्राणियों में गूढ (छिपा हुआ) है, सर्वव्यापी है, समस्त भूतों का अन्तरात्मा है। वह कर्मों का अध्यक्ष (निरीक्षक) है, सम्पूर्ण प्राणियों का अधिवास (निवासस्थान) है — साक्षी, चेतन, एकमात्र (केवल), और निर्गुण।",
     "en": "ONE GOD, hidden in all beings, all-pervading, the inner Self of all creatures, the overseer of all actions, dwelling in all beings — the Witness, the Consciousness, the Absolute, free from the gunas.",
     "ws": [
-      {"s": "एकः", "h": "एक ही / अद्वितीय", "e": "one, the only"},
-      {"s": "देवः", "h": "देव / ईश्वर", "e": "God"},
-      {"s": "सर्वभूतेषु", "h": "सम्पूर्ण प्राणियों में", "e": "in all beings"},
-      {"s": "गूढः", "h": "गूढ / छिपा हुआ", "e": "hidden, concealed"},
-      {"s": "सर्वव्यापी", "h": "सर्वव्यापी / सब में व्याप्त", "e": "all-pervading"},
-      {"s": "सर्वभूतान्तरात्मा", "h": "सब प्राणियों का अन्तरात्मा", "e": "the inner Self of all beings"},
-      {"s": "कर्माध्यक्षः", "h": "कर्मों का अध्यक्ष / निरीक्षक", "e": "overseer of actions"},
-      {"s": "सर्वभूताधिवासः", "h": "सब प्राणियों में निवास करने वाला", "e": "dwelling in all beings"},
-      {"s": "साक्षी", "h": "साक्षी / द्रष्टा", "e": "the Witness"},
-      {"s": "चेता", "h": "चेतन / चैतन्यस्वरूप", "e": "the Consciousness, the sentient one"},
-      {"s": "केवलः", "h": "एकमात्र / शुद्ध / असंग", "e": "the Absolute, alone, pure"},
-      {"s": "निर्गुणः", "h": "गुणरहित / त्रिगुणातीत", "e": "without gunas, beyond qualities"}
+      {
+        "s": "एकः",
+        "h": "एक ही / अद्वितीय",
+        "e": "one, the only"
+      },
+      {
+        "s": "देवः",
+        "h": "देव / ईश्वर",
+        "e": "God"
+      },
+      {
+        "s": "सर्वभूतेषु",
+        "h": "सम्पूर्ण प्राणियों में",
+        "e": "in all beings"
+      },
+      {
+        "s": "गूढः",
+        "h": "गूढ / छिपा हुआ",
+        "e": "hidden, concealed"
+      },
+      {
+        "s": "सर्वव्यापी",
+        "h": "सर्वव्यापी / सब में व्याप्त",
+        "e": "all-pervading"
+      },
+      {
+        "s": "सर्वभूतान्तरात्मा",
+        "h": "सब प्राणियों का अन्तरात्मा",
+        "e": "the inner Self of all beings"
+      },
+      {
+        "s": "कर्माध्यक्षः",
+        "h": "कर्मों का अध्यक्ष / निरीक्षक",
+        "e": "overseer of actions"
+      },
+      {
+        "s": "सर्वभूताधिवासः",
+        "h": "सब प्राणियों में निवास करने वाला",
+        "e": "dwelling in all beings"
+      },
+      {
+        "s": "साक्षी",
+        "h": "साक्षी / द्रष्टा",
+        "e": "the Witness"
+      },
+      {
+        "s": "चेता",
+        "h": "चेतन / चैतन्यस्वरूप",
+        "e": "the Consciousness, the sentient one"
+      },
+      {
+        "s": "केवलः",
+        "h": "एकमात्र / शुद्ध / असंग",
+        "e": "the Absolute, alone, pure"
+      },
+      {
+        "s": "निर्गुणः",
+        "h": "गुणरहित / त्रिगुणातीत",
+        "e": "without gunas, beyond qualities"
+      }
     ],
     "gr": "<strong>एकः देवः</strong> — यह उपनिषद् का सबसे प्रसिद्ध और निर्णायक वाक्य है। 'एक' अंकवाचक नहीं, अद्वितीयवाचक है। <strong>गूढः</strong> — √गुह् (छिपाना) + क्त: 'छिपा हुआ' — ईश्वर प्रत्यक्ष नहीं, अन्तर्हित है। <strong>सर्वव्यापी</strong> — सर्व + वि + √आप् (व्याप्त होना) + इनि: 'सब में व्याप्त'। <strong>सर्वभूतान्तरात्मा</strong> — सर्व + भूत + अन्तर + आत्मन्, बहुव्रीहि: 'जो सब प्राणियों का अन्तरात्मा है'। <strong>कर्माध्यक्षः</strong> — कर्म + अध्यक्ष (अधि + अक्ष: 'ऊपर से देखने वाला'), षष्ठी तत्पुरुष। <strong>सर्वभूताधिवासः</strong> — सर्व + भूत + अधिवास (अधि + √वस्: 'निवास'), षष्ठी तत्पुरुष। <strong>साक्षी</strong> — स + अक्षि (नेत्र) = 'साक्षात् देखने वाला', पर कर्ता नहीं। <strong>चेता</strong> — √चित् (चेतना), तृच् प्रत्यय: 'चैतन्यस्वरूप'। <strong>केवलः</strong> — 'अकेला, शुद्ध, असंसृष्ट'। <strong>निर्गुणः</strong> — निस् + गुण: 'त्रिगुणातीत' — सत्त्व, रजस्, तमस् से परे। यह एक ही श्लोक में ईश्वर के विश्वातीत (transcendent) और विश्वान्तर्गत (immanent) दोनों रूपों को व्यक्त करता है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -465,7 +1073,17 @@
         "en": "Aurobindo says this mantra expresses the central truth of Indian spiritual philosophy in a single verse. 'Eko devah' — there is one divine Reality in all; 'gudhah' — It is hidden from external senses but revealed by inner experience. 'Sarvavyapi' and 'sarvabhutantaratma' — It is simultaneously universal and innermost — the same within and without. 'Sakshi ceta kevalah' — this describes pure Consciousness that witnesses all actions yet remains unaltered. 'Nirgunah' — It is beyond the three gunas of prakriti, but not beyond activity — It rests in a higher, divine activity that transcends the gunas. This mantra unites jnana, bhakti, and yoga at a single point.",
         "ins": "एक ही दिव्य सत्ता — बाहर सर्वव्यापी, भीतर अन्तरात्मा — ज्ञान, भक्ति, योग सब इसी बिन्दु पर मिलते हैं।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🕉 'एको देवः सर्वभूतेषु गूढः' — यह क्यों सर्वाधिक प्रसिद्ध?",
+        "a": "यह <strong>श्वेताश्वतर का सर्वाधिक उद्धृत मन्त्र</strong> है। '<strong>एको देवः</strong>' = एक देव; '<strong>सर्वभूतेषु गूढः</strong>' = सब प्राणियों में छिपा हुआ; '<strong>सर्वव्यापी</strong>' = all-pervading; '<strong>सर्वभूतान्तरात्मा</strong>' = सब प्राणियों का अन्तरात्मा। '<strong>कर्माध्यक्षः</strong>' = कर्मों का अध्यक्ष; '<strong>सर्वभूताधिवासः</strong>' = सबमें निवास करने वाला; '<strong>साक्षी चेता केवलो निर्गुणश्च</strong>' = साक्षी, चेतन, केवल (alone), निर्गुण। यह <strong>एकेश्वरवाद</strong> (monotheism) + <strong>सर्वान्तर्यामित्व</strong> (immanence) का सम्पूर्ण वक्तव्य है।"
+      },
+      {
+        "q": "👁 'साक्षी चेता केवलो निर्गुणश्च' — साक्षी और निर्गुण एक साथ?",
+        "a": "'<strong>साक्षी</strong>' = witness — देखता है पर कर्म नहीं करता; '<strong>चेता</strong>' = conscious/aware; '<strong>केवलः</strong>' = alone/absolute — सब कुछ उसमें, पर वह सबसे पृथक; '<strong>निर्गुणः</strong>' = गुणरहित — सत्त्व-रजस्-तमस् से परे। ये चार विशेषण <strong>परमात्मा</strong> के स्वरूप का सार हैं — वह <strong>द्रष्टा</strong> है (दृश्य नहीं), <strong>चेतन</strong> है (जड़ नहीं), <strong>एकमात्र</strong> है (द्वैत नहीं), <strong>गुणातीत</strong> है (प्रकृति नहीं)। गीता 13.22 — '<strong>उपद्रष्टा अनुमन्ता च</strong>'।"
+      }
+    ]
   },
   {
     "id": 12,
@@ -474,17 +1092,61 @@
     "hi": "एक ही नियन्ता, सम्पूर्ण प्राणियों का अन्तरात्मा — जो एक ही रूप को बहुविध बनाता है। जो धीर (बुद्धिमान्) पुरुष उसे अपनी आत्मा में स्थित देखते हैं — शाश्वत सुख उन्हीं का है, अन्यों का नहीं।",
     "en": "The one Controller, the inner Self of all beings, who makes His one form manifold — the wise who perceive Him dwelling within the self, to them belongs eternal bliss, and to no others.",
     "ws": [
-      {"s": "एकः", "h": "एक", "e": "the one"},
-      {"s": "वशी", "h": "नियन्ता / वश में करने वाला", "e": "Controller, master"},
-      {"s": "सर्वभूतान्तरात्मा", "h": "सब प्राणियों का अन्तरात्मा", "e": "the inner Self of all beings"},
-      {"s": "एकं रूपम्", "h": "एक रूप को", "e": "one form"},
-      {"s": "बहुधा", "h": "बहुत प्रकार से / अनेक रूपों में", "e": "manifold, in many ways"},
-      {"s": "करोति", "h": "करता है / बनाता है", "e": "makes"},
-      {"s": "आत्मस्थम्", "h": "आत्मा में स्थित", "e": "dwelling in the self"},
-      {"s": "अनुपश्यन्ति", "h": "देखते हैं / अनुभव करते हैं", "e": "perceive, see within"},
-      {"s": "धीराः", "h": "धीर / बुद्धिमान्", "e": "the wise, the steadfast"},
-      {"s": "सुखम् शाश्वतम्", "h": "शाश्वत सुख", "e": "eternal bliss"},
-      {"s": "न इतरेषाम्", "h": "अन्यों का नहीं", "e": "not of others"}
+      {
+        "s": "एकः",
+        "h": "एक",
+        "e": "the one"
+      },
+      {
+        "s": "वशी",
+        "h": "नियन्ता / वश में करने वाला",
+        "e": "Controller, master"
+      },
+      {
+        "s": "सर्वभूतान्तरात्मा",
+        "h": "सब प्राणियों का अन्तरात्मा",
+        "e": "the inner Self of all beings"
+      },
+      {
+        "s": "एकं रूपम्",
+        "h": "एक रूप को",
+        "e": "one form"
+      },
+      {
+        "s": "बहुधा",
+        "h": "बहुत प्रकार से / अनेक रूपों में",
+        "e": "manifold, in many ways"
+      },
+      {
+        "s": "करोति",
+        "h": "करता है / बनाता है",
+        "e": "makes"
+      },
+      {
+        "s": "आत्मस्थम्",
+        "h": "आत्मा में स्थित",
+        "e": "dwelling in the self"
+      },
+      {
+        "s": "अनुपश्यन्ति",
+        "h": "देखते हैं / अनुभव करते हैं",
+        "e": "perceive, see within"
+      },
+      {
+        "s": "धीराः",
+        "h": "धीर / बुद्धिमान्",
+        "e": "the wise, the steadfast"
+      },
+      {
+        "s": "सुखम् शाश्वतम्",
+        "h": "शाश्वत सुख",
+        "e": "eternal bliss"
+      },
+      {
+        "s": "न इतरेषाम्",
+        "h": "अन्यों का नहीं",
+        "e": "not of others"
+      }
     ],
     "gr": "<strong>वशी</strong> — √वश् (वश में करना) + इनि: 'वश करने वाला, नियन्ता'। <strong>बहुधा</strong> — बहु + धा (प्रकार-वाचक अव्यय): 'बहुत प्रकार से'। <strong>अनुपश्यन्ति</strong> — अनु + √पश् (दृश्): 'अनुभवपूर्वक देखते हैं' — केवल बौद्धिक ज्ञान नहीं, प्रत्यक्ष अनुभव। <strong>धीराः</strong> — धी (बुद्धि) + र: 'बुद्धिमान्, स्थिरमति'। <strong>शाश्वतम्</strong> — शश्वत् + अण्: 'नित्य, सदा रहने वाला'। यह मन्त्र कठोपनिषद् 2.2.12 से लगभग समान है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -507,7 +1169,17 @@
         "en": "Aurobindo says 'ekam rupam bahudha karoti' — creation is the self-extension of one consciousness into many forms. Eternal bliss belongs to those who experience this unity within — 'anupashyanti' — they see it, not merely believe it.",
         "ins": "आनन्द विश्वास से नहीं, अनुभव ('अनुपश्यन्ति') से मिलता है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🎨 'एकं रूपं बहुधा यः करोति' — एक रूप को अनेक कैसे?",
+        "a": "'<strong>एकं रूपम्</strong>' = एक स्वरूप; '<strong>बहुधा करोति</strong>' = अनेक प्रकार से बनाता है। यह <strong>विवर्तवाद</strong> (apparent transformation) या <strong>परिणामवाद</strong> (real transformation) — दृष्टिकोण पर निर्भर। शंकर कहते हैं — जैसे रज्जु में सर्प <strong>प्रतीत</strong> होता है (विवर्त); रामानुज कहते हैं — जैसे समुद्र से <strong>तरंगें</strong> उठती हैं (वास्तविक विस्तार)। '<strong>तम् आत्मस्थम्</strong>' = जो आत्मा में स्थित है — '<strong>ये अनुपश्यन्ति</strong>' = जो देखते हैं — '<strong>तेषां सुखं शाश्वतम्</strong>' = उनका सुख शाश्वत है।"
+      },
+      {
+        "q": "😊 'तेषां सुखं शाश्वतं नेतरेषाम्' — शाश्वत सुख, दूसरों को नहीं?",
+        "a": "'<strong>शाश्वतम्</strong>' = eternal/permanent; '<strong>न इतरेषाम्</strong>' = अन्यों को नहीं। शाश्वत सुख केवल उन्हें मिलता है जो ईश्वर को '<strong>आत्मस्थम्</strong>' (आत्मा में स्थित) '<strong>अनुपश्यन्ति</strong>' (देखते हैं)। सांसारिक सुख <strong>क्षणिक</strong> है — कठ 2.1.2 — '<strong>श्रेयश्च प्रेयश्च</strong>' — श्रेय (शाश्वत) और प्रेय (क्षणिक)। जो प्रेय चुनते हैं, उन्हें शाश्वत सुख <strong>नहीं</strong>।"
+      }
+    ]
   },
   {
     "id": 13,
@@ -516,17 +1188,61 @@
     "hi": "नित्यों में नित्य (शाश्वत), चेतनों में चेतन (ज्ञानस्वरूप), अनेकों में एक — जो बहुतों की कामनाएँ पूर्ण करता है। उस कारण (परमात्मा) को — जो सांख्य और योग द्वारा जाना जा सकता है — जानकर (मनुष्य) सम्पूर्ण बन्धनों (पाशों) से मुक्त हो जाता है।",
     "en": "The Eternal among eternals, the Conscious among the conscious, the One among many, who fulfills the desires of many — knowing that God, the Cause, attainable through Sankhya and Yoga, one is freed from all bondage.",
     "ws": [
-      {"s": "नित्यः नित्यानाम्", "h": "नित्यों में (सर्वोच्च) नित्य", "e": "the Eternal among the eternals"},
-      {"s": "चेतनः चेतनानाम्", "h": "चेतनों में (सर्वोच्च) चेतन", "e": "the Conscious among the conscious"},
-      {"s": "एकः बहूनाम्", "h": "बहुतों में एक", "e": "the One among the many"},
-      {"s": "विदधाति", "h": "पूर्ण करता है / विधान करता है", "e": "fulfills, provides"},
-      {"s": "कामान्", "h": "कामनाओं को / इच्छाओं को", "e": "desires"},
-      {"s": "तत् कारणम्", "h": "वह (परम) कारण", "e": "that Cause"},
-      {"s": "सांख्ययोगाधिगम्यम्", "h": "सांख्य और योग द्वारा जानने योग्य", "e": "attainable through Sankhya and Yoga"},
-      {"s": "ज्ञात्वा", "h": "जानकर", "e": "having known"},
-      {"s": "देवम्", "h": "देव को", "e": "God"},
-      {"s": "मुच्यते", "h": "मुक्त हो जाता है", "e": "is freed"},
-      {"s": "सर्वपाशैः", "h": "सम्पूर्ण बन्धनों से", "e": "from all bonds"}
+      {
+        "s": "नित्यः नित्यानाम्",
+        "h": "नित्यों में (सर्वोच्च) नित्य",
+        "e": "the Eternal among the eternals"
+      },
+      {
+        "s": "चेतनः चेतनानाम्",
+        "h": "चेतनों में (सर्वोच्च) चेतन",
+        "e": "the Conscious among the conscious"
+      },
+      {
+        "s": "एकः बहूनाम्",
+        "h": "बहुतों में एक",
+        "e": "the One among the many"
+      },
+      {
+        "s": "विदधाति",
+        "h": "पूर्ण करता है / विधान करता है",
+        "e": "fulfills, provides"
+      },
+      {
+        "s": "कामान्",
+        "h": "कामनाओं को / इच्छाओं को",
+        "e": "desires"
+      },
+      {
+        "s": "तत् कारणम्",
+        "h": "वह (परम) कारण",
+        "e": "that Cause"
+      },
+      {
+        "s": "सांख्ययोगाधिगम्यम्",
+        "h": "सांख्य और योग द्वारा जानने योग्य",
+        "e": "attainable through Sankhya and Yoga"
+      },
+      {
+        "s": "ज्ञात्वा",
+        "h": "जानकर",
+        "e": "having known"
+      },
+      {
+        "s": "देवम्",
+        "h": "देव को",
+        "e": "God"
+      },
+      {
+        "s": "मुच्यते",
+        "h": "मुक्त हो जाता है",
+        "e": "is freed"
+      },
+      {
+        "s": "सर्वपाशैः",
+        "h": "सम्पूर्ण बन्धनों से",
+        "e": "from all bonds"
+      }
     ],
     "gr": "<strong>नित्यः नित्यानाम्</strong> — षष्ठी तत्पुरुष + विशेषण: 'नित्यों का (सर्वोच्च) नित्य'। यह वाक्य-रचना (superlative-among-a-class) भारतीय दर्शन में अत्यन्त प्रसिद्ध है — ठीक वैसे ही 'चेतनश्चेतनानाम्'। <strong>एकः बहूनाम्</strong> — 'बहुतों में एक' — ईश्वर और जीवात्माओं का भेद स्पष्ट है। <strong>विदधाति</strong> — वि + √धा (रखना), लट् लकार: 'विधान करता है'। <strong>सांख्ययोगाधिगम्यम्</strong> — सांख्य + योग + अधिगम्य (अधि + √गम् + य): 'सांख्य और योग द्वारा जानने/प्राप्त करने योग्य'। <strong>मुच्यते</strong> — √मुच् (छोड़ना), कर्मणि लट्: 'छोड़ा जाता है, मुक्त होता है'। <strong>सर्वपाशैः</strong> — सर्व + पाश (बन्धन), तृतीया बहुवचन।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -549,7 +1265,17 @@
         "en": "Aurobindo says 'nityo nityanam' — this formula is the supreme summary of Indian spirituality. The divine Reality is the one supreme consciousness among many consciousnesses — It inspires, sustains, and fulfills them. 'Sankhya-yoga' — the synthesis of knowledge (discernment) and practice (yoga) is the path to liberation.",
         "ins": "अनेक चेतनाओं में एक सर्वोच्च चेतना — ज्ञान और योग का समन्वय ही मुक्ति है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "♾ 'नित्यो नित्यानां चेतनश्चेतनानाम्' — नित्यों का नित्य?",
+        "a": "यह कठ उपनिषद् 2.2.13 का <strong>प्रतिध्वनि</strong> है। '<strong>नित्यः नित्यानाम्</strong>' = शाश्वत चीजों (जीवात्माओं) में शाश्वत; '<strong>चेतनः चेतनानाम्</strong>' = चेतन चीजों में चेतन; '<strong>एकः बहूनाम्</strong>' = अनेकों में एक। '<strong>यो विदधाति कामान्</strong>' = जो सबकी इच्छाओं/आवश्यकताओं की पूर्ति करता है। ईश्वर जीवों से <strong>गुणात्मक रूप से</strong> भिन्न नहीं (चेतन ही), पर <strong>परिमाण में</strong> अनन्त है — जैसे समुद्र और बूँद दोनों जल हैं, पर समुद्र अनन्त।"
+      },
+      {
+        "q": "🧘‍♂ 'सांख्ययोगाभिगम्यम्' — सांख्य और योग दोनों से?",
+        "a": "'<strong>तत्कारणम्</strong>' = वह कारण (ब्रह्म); '<strong>सांख्ययोगाभिगम्यम्</strong>' = सांख्य (ज्ञान-विचार) और योग (ध्यान-अभ्यास) द्वारा '<strong>अभिगम्यम्</strong>' (प्राप्य)। दोनों मार्ग <strong>पूरक</strong> हैं, विरोधी नहीं — सांख्य (विवेक) = <strong>बौद्धिक</strong> साधन; योग (ध्यान) = <strong>अनुभवात्मक</strong> साधन। गीता 5.4-5 — '<strong>सांख्ययोगौ पृथक् बालाः प्रवदन्ति न पण्डिताः — एकमप्यास्थितः सम्यक् उभयोर्विन्दते फलम्</strong>' — बालक दोनों को अलग मानते हैं, पण्डित नहीं।"
+      }
+    ]
   },
   {
     "id": 14,
@@ -558,18 +1284,66 @@
     "hi": "वहाँ (उस ब्रह्म में/ब्रह्मलोक में) न सूर्य चमकता है, न चन्द्र-तारा, न ये विद्युत् (बिजलियाँ) चमकती हैं — फिर यह अग्नि की क्या बात? उसी के प्रकाशित होने पर सब कुछ प्रकाशित होता है; उसी की ज्योति से यह सम्पूर्ण (जगत्) प्रकाशमान है।",
     "en": "There the sun does not shine, nor the moon and stars, nor do these lightnings shine — how then could this fire? Him alone shining, everything shines after; by His light all this is illumined.",
     "ws": [
-      {"s": "न तत्र", "h": "वहाँ नहीं", "e": "there... not"},
-      {"s": "सूर्यः", "h": "सूर्य", "e": "sun"},
-      {"s": "भाति", "h": "चमकता है / प्रकाशित होता है", "e": "shines"},
-      {"s": "चन्द्रतारकम्", "h": "चन्द्रमा और तारे", "e": "moon and stars"},
-      {"s": "विद्युतः", "h": "विद्युत् / बिजलियाँ", "e": "lightnings"},
-      {"s": "कुतः", "h": "कहाँ से? / कैसे?", "e": "how then?"},
-      {"s": "अग्निः", "h": "अग्नि", "e": "fire"},
-      {"s": "तम् एव भान्तम्", "h": "उसी के प्रकाशित होने पर", "e": "Him alone shining"},
-      {"s": "अनुभाति", "h": "पीछे-पीछे प्रकाशित होता है", "e": "shines after, reflects"},
-      {"s": "सर्वम्", "h": "सब कुछ", "e": "everything"},
-      {"s": "तस्य भासा", "h": "उसकी ज्योति से / प्रकाश से", "e": "by His light"},
-      {"s": "विभाति", "h": "प्रकाशमान है", "e": "is illumined"}
+      {
+        "s": "न तत्र",
+        "h": "वहाँ नहीं",
+        "e": "there... not"
+      },
+      {
+        "s": "सूर्यः",
+        "h": "सूर्य",
+        "e": "sun"
+      },
+      {
+        "s": "भाति",
+        "h": "चमकता है / प्रकाशित होता है",
+        "e": "shines"
+      },
+      {
+        "s": "चन्द्रतारकम्",
+        "h": "चन्द्रमा और तारे",
+        "e": "moon and stars"
+      },
+      {
+        "s": "विद्युतः",
+        "h": "विद्युत् / बिजलियाँ",
+        "e": "lightnings"
+      },
+      {
+        "s": "कुतः",
+        "h": "कहाँ से? / कैसे?",
+        "e": "how then?"
+      },
+      {
+        "s": "अग्निः",
+        "h": "अग्नि",
+        "e": "fire"
+      },
+      {
+        "s": "तम् एव भान्तम्",
+        "h": "उसी के प्रकाशित होने पर",
+        "e": "Him alone shining"
+      },
+      {
+        "s": "अनुभाति",
+        "h": "पीछे-पीछे प्रकाशित होता है",
+        "e": "shines after, reflects"
+      },
+      {
+        "s": "सर्वम्",
+        "h": "सब कुछ",
+        "e": "everything"
+      },
+      {
+        "s": "तस्य भासा",
+        "h": "उसकी ज्योति से / प्रकाश से",
+        "e": "by His light"
+      },
+      {
+        "s": "विभाति",
+        "h": "प्रकाशमान है",
+        "e": "is illumined"
+      }
     ],
     "gr": "<strong>भाति</strong> — √भा (प्रकाशित होना), लट् लकार। <strong>चन्द्रतारकम्</strong> — चन्द्र + तारक, द्वन्द्व समास, नपुंसक एकवचन (समूहवाचक)। <strong>कुतः</strong> — अव्यय: 'कहाँ से, कैसे'। <strong>भान्तम्</strong> — √भा + शतृ, द्वितीया एकवचन: 'प्रकाशित होते हुए'। <strong>अनुभाति</strong> — अनु + √भा: 'पीछे-पीछे प्रकाशित होता है' — derivative, reflected light। <strong>भासा</strong> — भास् (प्रकाश), तृतीया एकवचन। <strong>विभाति</strong> — वि + √भा: 'विशेष रूप से प्रकाशित होता है'। यह मन्त्र कठोपनिषद् 2.2.15 और मुण्डकोपनिषद् 2.2.10 में भी आता है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -592,7 +1366,17 @@
         "en": "Aurobindo says this mantra reveals the fundamental nature of consciousness — consciousness is itself Light; physical light (sun, fire) is merely a gross imitation of that original Light. 'Tam eva bhantam anubhati sarvam' — all existence is a reflection of that one consciousness.",
         "ins": "भौतिक प्रकाश चेतना-प्रकाश की छाया मात्र है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🌑 'न तत्र सूर्यो भाति' — वहाँ सूर्य नहीं चमकता?",
+        "a": "यह <strong>सर्वाधिक प्रसिद्ध उपनिषद्-मन्त्रों</strong> में है (कठ 2.2.15, मुण्डक 2.2.10 में भी)। '<strong>न सूर्यः भाति</strong>' = सूर्य नहीं चमकता; '<strong>न चन्द्रतारकम्</strong>' = न चन्द्र-तारे; '<strong>न इमा विद्युतः</strong>' = न ये बिजलियाँ; '<strong>कुतः अयम् अग्निः</strong>' = फिर यह अग्नि कहाँ! '<strong>तमेव भान्तम् अनुभाति सर्वम्</strong>' = <strong>उसी के प्रकाशित होने पर सब प्रकाशित होता है</strong> — '<strong>तस्य भासा सर्वम् इदं विभाति</strong>'।"
+      },
+      {
+        "q": "💡 'तमेव भान्तम् अनुभाति सर्वम्' — 'अनु-भाति' का गहरा अर्थ?",
+        "a": "'<strong>अनुभाति</strong>' = अनु + √भा (प्रकाशना) — '<strong>पीछे-पीछे</strong> प्रकाशित होना' / '<strong>अनुसरण में</strong> चमकना।' सूर्य, चन्द्र, तारे, अग्नि — ये सब ब्रह्म के प्रकाश का <strong>अनुकरण</strong> करते हैं, <strong>स्वतन्त्र</strong> प्रकाश-स्रोत नहीं। जैसे चन्द्रमा सूर्य का प्रकाश <strong>परावर्तित</strong> करता है — वैसे ही सब प्रकाश ब्रह्म का <strong>प्रतिबिम्ब</strong> है। गीता 15.12 — '<strong>यदादित्यगतं तेजो जगद्भासयतेऽखिलम् — तद्विद्धि मामकम्</strong>' — सूर्य का तेज मेरा ही है।"
+      }
+    ]
   },
   {
     "id": 15,
@@ -601,17 +1385,61 @@
     "hi": "इस भुवन (संसार) के मध्य में एक हंस (परमात्मा/सूर्य-आत्मा) है — वही अग्नि है जो सलिल (जल/कारण-जल) के भीतर स्थित है। उसी को जानकर (मनुष्य) मृत्यु को पार कर जाता है — अन्य कोई मार्ग मुक्ति के लिए विद्यमान नहीं है।",
     "en": "The one Swan (supreme Self) is in the midst of this world. He indeed is the fire that has entered the waters. Knowing Him alone, one transcends death — there is no other path to liberation.",
     "ws": [
-      {"s": "एकः हंसः", "h": "एक हंस (परमात्मा)", "e": "the one Swan (supreme Self)"},
-      {"s": "भुवनस्य अस्य", "h": "इस संसार का / के", "e": "of this world"},
-      {"s": "मध्ये", "h": "मध्य में / बीच में", "e": "in the midst"},
-      {"s": "अग्निः", "h": "अग्नि", "e": "fire"},
-      {"s": "सलिले", "h": "जल में / सलिल (कारण-जल) में", "e": "in the waters"},
-      {"s": "अन्तः श्रितः", "h": "भीतर स्थित", "e": "dwelling within"},
-      {"s": "विदित्वा", "h": "जानकर", "e": "having known"},
-      {"s": "अतिमृत्युम् एति", "h": "मृत्यु को पार कर जाता है", "e": "transcends death"},
-      {"s": "न अन्यः पन्थाः", "h": "कोई अन्य मार्ग नहीं", "e": "no other path"},
-      {"s": "विद्यते", "h": "है / विद्यमान है", "e": "exists"},
-      {"s": "अयनाय", "h": "मुक्ति के लिए / मार्ग के लिए", "e": "for the way, for liberation"}
+      {
+        "s": "एकः हंसः",
+        "h": "एक हंस (परमात्मा)",
+        "e": "the one Swan (supreme Self)"
+      },
+      {
+        "s": "भुवनस्य अस्य",
+        "h": "इस संसार का / के",
+        "e": "of this world"
+      },
+      {
+        "s": "मध्ये",
+        "h": "मध्य में / बीच में",
+        "e": "in the midst"
+      },
+      {
+        "s": "अग्निः",
+        "h": "अग्नि",
+        "e": "fire"
+      },
+      {
+        "s": "सलिले",
+        "h": "जल में / सलिल (कारण-जल) में",
+        "e": "in the waters"
+      },
+      {
+        "s": "अन्तः श्रितः",
+        "h": "भीतर स्थित",
+        "e": "dwelling within"
+      },
+      {
+        "s": "विदित्वा",
+        "h": "जानकर",
+        "e": "having known"
+      },
+      {
+        "s": "अतिमृत्युम् एति",
+        "h": "मृत्यु को पार कर जाता है",
+        "e": "transcends death"
+      },
+      {
+        "s": "न अन्यः पन्थाः",
+        "h": "कोई अन्य मार्ग नहीं",
+        "e": "no other path"
+      },
+      {
+        "s": "विद्यते",
+        "h": "है / विद्यमान है",
+        "e": "exists"
+      },
+      {
+        "s": "अयनाय",
+        "h": "मुक्ति के लिए / मार्ग के लिए",
+        "e": "for the way, for liberation"
+      }
     ],
     "gr": "<strong>हंसः</strong> — हंस = 'अहम् सः' (मैं वही हूँ) — श्वास-प्रश्वास में गूँजने वाला मन्त्र; यहाँ परमात्मा का प्रतीक। <strong>सलिले</strong> — सलिल (जल), सप्तमी एकवचन। <strong>अतिमृत्युम् एति</strong> — अति + मृत्यु + √इ: 'मृत्यु के परे जाता है'। <strong>न अन्यः पन्थाः विद्यते अयनाय</strong> — यह वाक्य पुरुषसूक्त और ऋग्वेद 10.90 से आया है — 'नान्यः पन्था अयनाय विद्यते' — मोक्ष का एकमात्र मार्ग यही है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -634,7 +1462,17 @@
         "en": "Aurobindo says 'hamsa' — the bird of consciousness that soars in the midst of the world-ocean. 'Salile agnih' — fire (consciousness) is hidden in water (inert matter) — the spirit within matter. 'Na anyah pantha' — knowing this one truth is the only path.",
         "ins": "पदार्थ के भीतर चेतना छिपी है — इसे पहचानना ही एकमात्र मार्ग।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🦢 'एको हंसः' — 'हंस' कौन है?",
+        "a": "'<strong>हंसः</strong>' = swan/goose — वैदिक परम्परा में परमात्मा का प्रतीक। '<strong>एको हंसः भुवनस्य अस्य मध्ये</strong>' = इस भुवन (विश्व) के मध्य में एक हंस (परमात्मा)। '<strong>स एव अग्निः यः सलिले अन्तः श्रितः</strong>' = वही अग्नि है जो जल के भीतर आश्रित है (submarine fire / बड़वाग्नि)। '<strong>हंस</strong>' = ह + अं + सः = '<strong>अहं सः</strong>' (मैं वह हूँ) — यह <strong>महावाक्य</strong>-सूचक है। बृहदारण्यक 4.3.12 में भी हंस-प्रतीक प्रयुक्त।"
+      },
+      {
+        "q": "🔥 'अग्निः सलिले' — जल में अग्नि?",
+        "a": "यह '<strong>बड़वाग्नि</strong>' (submarine fire / वडवानल) का सन्दर्भ है — वैदिक विश्वदृष्टि में समुद्र की गहराई में अग्नि विद्यमान है। '<strong>तम् एव विदित्वा अतिमृत्युम् एति</strong>' = उसे जानकर ही मृत्यु को पार करता है। '<strong>नान्यः पन्थाः विद्यतेऽयनाय</strong>' = <strong>अन्य कोई मार्ग नहीं</strong> है मुक्ति के लिए — यह श्वेताश्वतर 3.8 की प्रतिध्वनि है, और पुरुषसूक्त (ऋग्वेद 10.90.16) से उद्धृत।"
+      }
+    ]
   },
   {
     "id": 16,
@@ -643,16 +1481,56 @@
     "hi": "वह प्रधान (प्रकृति) और क्षेत्रज्ञ (जीवात्मा) का पति (स्वामी) है, गुणों का ईश्वर है, संसार, मोक्ष, स्थिति, और बन्ध का कारण है। वह विश्व का कर्ता, विश्व का ज्ञाता, आत्मयोनि (स्वयम्भू), ज्ञानस्वरूप, काल का भी काल (नियन्ता), गुणी, और सर्वविद्य (सर्वज्ञ) है।",
     "en": "He is the Lord of pradhana (primordial matter) and kshetrajna (the knower of the field/soul), the ruler of the gunas, the cause of samsara, moksha, continuance, and bondage. He is the creator of the universe, the knower of all, self-born, the knower, the Lord of time itself, possessor of qualities, omniscient.",
     "ws": [
-      {"s": "प्रधानक्षेत्रज्ञपतिः", "h": "प्रकृति और क्षेत्रज्ञ (जीव) का स्वामी", "e": "Lord of pradhana and kshetrajna"},
-      {"s": "गुणेशः", "h": "गुणों का ईश्वर", "e": "ruler of the gunas"},
-      {"s": "संसारमोक्षस्थितिबन्धहेतुः", "h": "संसार, मोक्ष, स्थिति, बन्ध का कारण", "e": "cause of samsara, moksha, continuance, and bondage"},
-      {"s": "विश्वकृत्", "h": "विश्व का कर्ता / सृष्टिकर्ता", "e": "creator of the universe"},
-      {"s": "विश्वविद्", "h": "विश्व का ज्ञाता", "e": "knower of the universe"},
-      {"s": "आत्मयोनिः", "h": "स्वयम्भू / आत्मा से उत्पन्न", "e": "self-born, self-caused"},
-      {"s": "ज्ञः", "h": "ज्ञानस्वरूप", "e": "the knower"},
-      {"s": "कालकालः", "h": "काल का भी काल / नियन्ता", "e": "the time of time, Lord of time"},
-      {"s": "गुणी", "h": "गुणयुक्त / गुणस्वामी", "e": "possessor of qualities"},
-      {"s": "सर्वविद्यः", "h": "सर्वज्ञ / सब विद्याओं का ज्ञाता", "e": "omniscient"}
+      {
+        "s": "प्रधानक्षेत्रज्ञपतिः",
+        "h": "प्रकृति और क्षेत्रज्ञ (जीव) का स्वामी",
+        "e": "Lord of pradhana and kshetrajna"
+      },
+      {
+        "s": "गुणेशः",
+        "h": "गुणों का ईश्वर",
+        "e": "ruler of the gunas"
+      },
+      {
+        "s": "संसारमोक्षस्थितिबन्धहेतुः",
+        "h": "संसार, मोक्ष, स्थिति, बन्ध का कारण",
+        "e": "cause of samsara, moksha, continuance, and bondage"
+      },
+      {
+        "s": "विश्वकृत्",
+        "h": "विश्व का कर्ता / सृष्टिकर्ता",
+        "e": "creator of the universe"
+      },
+      {
+        "s": "विश्वविद्",
+        "h": "विश्व का ज्ञाता",
+        "e": "knower of the universe"
+      },
+      {
+        "s": "आत्मयोनिः",
+        "h": "स्वयम्भू / आत्मा से उत्पन्न",
+        "e": "self-born, self-caused"
+      },
+      {
+        "s": "ज्ञः",
+        "h": "ज्ञानस्वरूप",
+        "e": "the knower"
+      },
+      {
+        "s": "कालकालः",
+        "h": "काल का भी काल / नियन्ता",
+        "e": "the time of time, Lord of time"
+      },
+      {
+        "s": "गुणी",
+        "h": "गुणयुक्त / गुणस्वामी",
+        "e": "possessor of qualities"
+      },
+      {
+        "s": "सर्वविद्यः",
+        "h": "सर्वज्ञ / सब विद्याओं का ज्ञाता",
+        "e": "omniscient"
+      }
     ],
     "gr": "<strong>प्रधानक्षेत्रज्ञपतिः</strong> — प्रधान (= प्रकृति/मूल-तत्त्व) + क्षेत्रज्ञ (= जीवात्मा, गीता 13.1 के अनुसार) + पति, षष्ठी तत्पुरुष: 'प्रकृति और जीवात्मा दोनों का स्वामी'। <strong>गुणेशः</strong> — गुण + ईश, षष्ठी तत्पुरुष: 'गुणों का स्वामी'। <strong>संसारमोक्षस्थितिबन्धहेतुः</strong> — चार-पदीय द्वन्द्व + हेतु: संसार, मोक्ष, स्थिति, बन्ध — इन चारों का हेतु। <strong>आत्मयोनिः</strong> — आत्मन् + योनि: 'जिसकी योनि (उत्पत्ति) स्वयं वह ही है' — स्वयम्भू। <strong>कालकालः</strong> — काल + काल: 'काल का भी काल' — जो काल को भी नियन्त्रित करता है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -675,7 +1553,17 @@
         "en": "Aurobindo says this mantra reveals the vast domain of Ishvara — prakriti, soul, gunas, time, bondage, liberation — all are under Him. 'Atmayonih' — He is self-born, not produced by any other cause. 'Kalakalah' — time itself is His instrument, not His master.",
         "ins": "सब कुछ — प्रकृति, आत्मा, काल, बन्ध, मोक्ष — एक ही ईश्वर के अधीन।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🏛 'प्रधान-क्षेत्रज्ञ-पतिः' — तीनों का स्वामी?",
+        "a": "'<strong>प्रधान</strong>' = मूल प्रकृति (primordial matter/pradhana); '<strong>क्षेत्रज्ञ</strong>' = क्षेत्र का ज्ञाता (जीवात्मा); '<strong>पतिः</strong>' = स्वामी। ईश्वर <strong>तीनों</strong> — प्रकृति, जीव, और उनके सम्बन्ध — का <strong>शासक</strong> है। '<strong>गुणेशः</strong>' = गुणों (सत्त्व-रजस्-तमस्) का ईश्वर। '<strong>संसार-मोक्ष-स्थिति-बन्ध-हेतुः</strong>' = संसार (बन्धन) और मोक्ष (मुक्ति) दोनों का हेतु। गीता 13.2 — '<strong>क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु</strong>'।"
+      },
+      {
+        "q": "🔄 'संसार-मोक्ष-स्थिति-बन्ध-हेतुः' — बन्ध और मोक्ष दोनों का कारण एक?",
+        "a": "हाँ — ईश्वर ही बन्धन (<strong>संसार</strong>) का कारण (माया द्वारा) और मुक्ति (<strong>मोक्ष</strong>) का कारण (कृपा/ज्ञान द्वारा)। '<strong>स्थिति</strong>' = sustenance/अवस्था — बन्ध और मोक्ष के बीच की स्थिति भी ईश्वराधीन। यह <strong>विरोधाभास</strong> नहीं — जैसे सूर्य ही छाया (shadow) का कारण है और प्रकाश का भी; जैसे जल ही बर्फ और भाप दोनों बनता है। बन्ध = ईश्वर से <strong>विमुखता</strong>; मोक्ष = ईश्वर से <strong>सन्मुखता</strong>।"
+      }
+    ]
   },
   {
     "id": 17,
@@ -684,15 +1572,51 @@
     "hi": "उसका (परमेश्वर का) कोई कार्य (कर्तव्य) नहीं पाया जाता, और उसका कोई विशिष्ट करण (साधन/इन्द्रिय) नहीं है। और वह जाल (सृष्टि-जाल) पहले (सृष्टि से पूर्व) प्रधान (प्रकृति) से विशेष रूप से उत्पन्न हुआ था।",
     "en": "No task (or duty) is found for Him, nor any specific organ. And that web (of creation) arose first from pradhana (primordial nature) in a particular manner.",
     "ws": [
-      {"s": "तस्य", "h": "उसका", "e": "His"},
-      {"s": "कार्यम्", "h": "कार्य / कर्तव्य", "e": "task, duty"},
-      {"s": "न एव अविद्यते", "h": "पाया नहीं जाता", "e": "is not found"},
-      {"s": "करणम्", "h": "इन्द्रिय / साधन", "e": "organ, instrument"},
-      {"s": "जालम्", "h": "जाल", "e": "web, net"},
-      {"s": "अभूत्", "h": "हुआ / उत्पन्न हुआ", "e": "arose, came into being"},
-      {"s": "पूर्वम्", "h": "पहले", "e": "first, before"},
-      {"s": "विशेषात्", "h": "विशेष रूप से", "e": "particularly"},
-      {"s": "प्रधानतः", "h": "प्रधान (प्रकृति) से", "e": "from pradhana (primordial nature)"}
+      {
+        "s": "तस्य",
+        "h": "उसका",
+        "e": "His"
+      },
+      {
+        "s": "कार्यम्",
+        "h": "कार्य / कर्तव्य",
+        "e": "task, duty"
+      },
+      {
+        "s": "न एव अविद्यते",
+        "h": "पाया नहीं जाता",
+        "e": "is not found"
+      },
+      {
+        "s": "करणम्",
+        "h": "इन्द्रिय / साधन",
+        "e": "organ, instrument"
+      },
+      {
+        "s": "जालम्",
+        "h": "जाल",
+        "e": "web, net"
+      },
+      {
+        "s": "अभूत्",
+        "h": "हुआ / उत्पन्न हुआ",
+        "e": "arose, came into being"
+      },
+      {
+        "s": "पूर्वम्",
+        "h": "पहले",
+        "e": "first, before"
+      },
+      {
+        "s": "विशेषात्",
+        "h": "विशेष रूप से",
+        "e": "particularly"
+      },
+      {
+        "s": "प्रधानतः",
+        "h": "प्रधान (प्रकृति) से",
+        "e": "from pradhana (primordial nature)"
+      }
     ],
     "gr": "<strong>अविद्यते</strong> — न + विद्यते (√विद्, कर्मणि लट्): 'पाया नहीं जाता'। <strong>अभूत्</strong> — √भू (होना), लङ् लकार, प्रथम पुरुष एकवचन: 'हो गया, उत्पन्न हुआ'। <strong>प्रधानतः</strong> — प्रधान + तसिल् प्रत्यय: 'प्रधान (मूल-प्रकृति) से'। यह मन्त्र 6.8 के विचार को दोहराता है — ईश्वर के पास करणे और कार्य नहीं।",
     "mt": "Anuṣṭubh (अनुष्टुभ्) · 8 syllables per quarter",
@@ -715,7 +1639,17 @@
         "en": "Aurobindo says the divine Reality needs no external instrument. Creation manifests from pradhana (prakriti), which is itself an expression of the divine power.",
         "ins": "सृष्टि = प्रधान (प्रकृति) से — पर प्रधान भी दिव्य शक्ति की अभिव्यक्ति।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🕸 'तच्च जालम् अभूत् पूर्वम्' — जाल 'पहले' कैसे उत्पन्न हुआ?",
+        "a": "'<strong>तत् जालम्</strong>' = वह जाल (माया/सृष्टि); '<strong>अभूत् पूर्वम्</strong>' = पहले उत्पन्न हुआ। '<strong>यद् विशेषात् प्रवर्तते</strong>' = जो विशेष (differentiation) से प्रवर्तित होता है। सृष्टि '<strong>अव्यक्त</strong>' (unmanifest) से '<strong>व्यक्त</strong>' (manifest) की ओर — यह माया-जाल का '<strong>विस्तार</strong>' है। ऐतरेय 1.1 — '<strong>आत्मा वा इदमेक एवाग्र आसीत्</strong>' — पहले केवल आत्मा ही था, और कुछ नहीं।"
+      },
+      {
+        "q": "⚙ 'न तस्य कार्यम् अविद्यते' — 'अविद्यते' का विशेष अर्थ?",
+        "a": "'<strong>न कार्यम् अविद्यते</strong>' = उसके लिए कोई कार्य (duty/task) <strong>नहीं पाया जाता</strong>। '<strong>करणम् अस्य विद्यते</strong>' = उसका करण (instrument) <strong>पाया जाता है</strong> — किन्तु वह करण कोई बाह्य उपकरण नहीं, <strong>स्वयं उसकी शक्ति</strong> ही है (6.8 — परास्य शक्तिर्विविधैव)। ईश्वर <strong>अकर्ता</strong> होते हुए भी सब कुछ करता है — यह <strong>अकर्तृत्व में कर्तृत्व</strong> (agency without agenthood) का विरोधाभास है। ईशा 8 — '<strong>स पर्यगात्</strong>'।"
+      }
+    ]
   },
   {
     "id": 18,
@@ -724,17 +1658,61 @@
     "hi": "जो (सबसे) पहले ब्रह्मा (विधाता/हिरण्यगर्भ) को रचता है और जो उसे वेदों का ज्ञान प्रदान करता है — उस देव को, जो आत्मा और बुद्धि को प्रकाशित करता है — मैं मुमुक्षु (मोक्षेच्छु) होकर शरण में जाता हूँ।",
     "en": "He who creates Brahma (the creator) first and who delivers the Vedas to him — to that God who illumines the self and the intellect — I, seeking liberation, take refuge.",
     "ws": [
-      {"s": "यः", "h": "जो", "e": "who"},
-      {"s": "ब्रह्माणम्", "h": "ब्रह्मा (विधाता) को", "e": "Brahma (the creator)"},
-      {"s": "विदधाति", "h": "रचता है / विधान करता है", "e": "creates, ordains"},
-      {"s": "पूर्वम्", "h": "सबसे पहले", "e": "first"},
-      {"s": "वेदान्", "h": "वेदों को", "e": "the Vedas"},
-      {"s": "प्रहिणोति", "h": "प्रदान करता है / भेजता है", "e": "delivers, sends forth"},
-      {"s": "तस्मै", "h": "उसके (ब्रह्मा के) लिए", "e": "to him"},
-      {"s": "आत्मबुद्धिप्रकाशम्", "h": "आत्मा और बुद्धि का प्रकाश", "e": "the light of the self and intellect"},
-      {"s": "मुमुक्षुः", "h": "मोक्ष की इच्छा रखने वाला", "e": "seeker of liberation"},
-      {"s": "शरणम्", "h": "शरण / आश्रय", "e": "refuge"},
-      {"s": "अहम् प्रपद्ये", "h": "मैं शरण जाता हूँ", "e": "I take refuge"}
+      {
+        "s": "यः",
+        "h": "जो",
+        "e": "who"
+      },
+      {
+        "s": "ब्रह्माणम्",
+        "h": "ब्रह्मा (विधाता) को",
+        "e": "Brahma (the creator)"
+      },
+      {
+        "s": "विदधाति",
+        "h": "रचता है / विधान करता है",
+        "e": "creates, ordains"
+      },
+      {
+        "s": "पूर्वम्",
+        "h": "सबसे पहले",
+        "e": "first"
+      },
+      {
+        "s": "वेदान्",
+        "h": "वेदों को",
+        "e": "the Vedas"
+      },
+      {
+        "s": "प्रहिणोति",
+        "h": "प्रदान करता है / भेजता है",
+        "e": "delivers, sends forth"
+      },
+      {
+        "s": "तस्मै",
+        "h": "उसके (ब्रह्मा के) लिए",
+        "e": "to him"
+      },
+      {
+        "s": "आत्मबुद्धिप्रकाशम्",
+        "h": "आत्मा और बुद्धि का प्रकाश",
+        "e": "the light of the self and intellect"
+      },
+      {
+        "s": "मुमुक्षुः",
+        "h": "मोक्ष की इच्छा रखने वाला",
+        "e": "seeker of liberation"
+      },
+      {
+        "s": "शरणम्",
+        "h": "शरण / आश्रय",
+        "e": "refuge"
+      },
+      {
+        "s": "अहम् प्रपद्ये",
+        "h": "मैं शरण जाता हूँ",
+        "e": "I take refuge"
+      }
     ],
     "gr": "<strong>विदधाति</strong> — वि + √धा, लट् लकार: 'विधान करता है'। <strong>प्रहिणोति</strong> — प्र + √हि (भेजना), लट् लकार: 'प्रदान करता है, भेजता है'। <strong>आत्मबुद्धिप्रकाशम्</strong> — आत्मन् + बुद्धि + प्रकाश, बहुव्रीहि: 'जो आत्मा और बुद्धि को प्रकाशित करता है'। <strong>मुमुक्षुः</strong> — √मुच् + सन् + उ: 'मुक्त होने की इच्छा रखने वाला'। <strong>प्रपद्ये</strong> — प्र + √पद् (जाना), आत्मनेपद: 'शरण जाता हूँ'। यह मन्त्र श्वेताश्वतर 4.12 से लगभग समान है।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -757,7 +1735,17 @@
         "en": "Aurobindo says this mantra beautifully unites knowledge and devotion. 'Atma-buddhi-prakasha' — the Being who illumines consciousness (knowledge); 'sharanam prapadye' — surrender to It (devotion). The mumukshu reaches that Being through both knowledge and devotion.",
         "ins": "ज्ञान और भक्ति दोनों का समन्वय — यही मुमुक्षु का मार्ग।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🔱 'यो ब्रह्माणं विदधाति पूर्वम्' — ब्रह्मा को भी किसने बनाया?",
+        "a": "'<strong>यः ब्रह्माणं विदधाति पूर्वम्</strong>' = जो <strong>ब्रह्मा</strong> (सृष्टिकर्ता) को भी <strong>पहले</strong> रचता है; '<strong>यः वेदांश्च प्रहिणोति तस्मै</strong>' = और उसे <strong>वेद</strong> प्रदान करता है। ब्रह्मा स्वयं ईश्वर-सृष्ट है — वह <strong>परम कारण</strong> नहीं। '<strong>आत्मबुद्धिप्रकाशम्</strong>' = जो आत्म-बुद्धि (self-knowledge) का प्रकाश देता है। यह मन्त्र <strong>ज्ञान-परम्परा</strong> (lineage of knowledge) का मूल दर्शाता है: ईश्वर → ब्रह्मा → ऋषि → शिष्य। मुण्डक 1.1.1 — '<strong>ब्रह्मा देवानां प्रथमः सम्बभूव</strong>'।"
+      },
+      {
+        "q": "🙏 'मुमुक्षुर्वै शरणमहं प्रपद्ये' — शरणागति क्यों?",
+        "a": "'<strong>मुमुक्षुः</strong>' = मुक्ति चाहने वाला; '<strong>शरणम् प्रपद्ये</strong>' = शरण ग्रहण करता हूँ। यह <strong>प्रपत्ति</strong> (surrender/शरणागति) का मन्त्र है — ज्ञान-मार्ग का <strong>परिपूर्ण बिन्दु</strong> शरणागति है। जो ईश्वर ब्रह्मा को भी रचता है और वेद भी देता है — उसके सामने '<strong>अहं प्रपद्ये</strong>' (मैं शरण लेता हूँ) ही एकमात्र विकल्प है। गीता 18.66 — '<strong>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज</strong>'।"
+      }
+    ]
   },
   {
     "id": 19,
@@ -766,16 +1754,56 @@
     "hi": "निष्कल (अंशरहित), निष्क्रिय (क्रियारहित), शान्त, निरवद्य (दोषरहित), निरञ्जन (मलरहित) — अमृत (मोक्ष) का परम सेतु (पुल) — जैसे ईंधन जलने पर अग्नि (शुद्ध ज्योति) रह जाती है।",
     "en": "Without parts, without action, tranquil, without blemish, without stain — the supreme bridge to immortality — like fire when its fuel is consumed.",
     "ws": [
-      {"s": "निष्कलम्", "h": "अंशरहित / अखण्ड", "e": "without parts, indivisible"},
-      {"s": "निष्क्रियम्", "h": "क्रियारहित / कर्मरहित", "e": "without action"},
-      {"s": "शान्तम्", "h": "शान्त", "e": "tranquil, peaceful"},
-      {"s": "निरवद्यम्", "h": "दोषरहित / निर्दोष", "e": "without blemish, faultless"},
-      {"s": "निरञ्जनम्", "h": "मलरहित / शुद्ध", "e": "without stain, untainted"},
-      {"s": "अमृतस्य", "h": "अमृत (मोक्ष) का", "e": "of immortality"},
-      {"s": "परम् सेतुम्", "h": "परम पुल / सर्वोच्च सेतु", "e": "the supreme bridge"},
-      {"s": "दग्धेन्धनम्", "h": "जिसका ईंधन जल गया है", "e": "whose fuel is consumed"},
-      {"s": "इव", "h": "जैसे", "e": "like"},
-      {"s": "अनलम्", "h": "अग्नि", "e": "fire"}
+      {
+        "s": "निष्कलम्",
+        "h": "अंशरहित / अखण्ड",
+        "e": "without parts, indivisible"
+      },
+      {
+        "s": "निष्क्रियम्",
+        "h": "क्रियारहित / कर्मरहित",
+        "e": "without action"
+      },
+      {
+        "s": "शान्तम्",
+        "h": "शान्त",
+        "e": "tranquil, peaceful"
+      },
+      {
+        "s": "निरवद्यम्",
+        "h": "दोषरहित / निर्दोष",
+        "e": "without blemish, faultless"
+      },
+      {
+        "s": "निरञ्जनम्",
+        "h": "मलरहित / शुद्ध",
+        "e": "without stain, untainted"
+      },
+      {
+        "s": "अमृतस्य",
+        "h": "अमृत (मोक्ष) का",
+        "e": "of immortality"
+      },
+      {
+        "s": "परम् सेतुम्",
+        "h": "परम पुल / सर्वोच्च सेतु",
+        "e": "the supreme bridge"
+      },
+      {
+        "s": "दग्धेन्धनम्",
+        "h": "जिसका ईंधन जल गया है",
+        "e": "whose fuel is consumed"
+      },
+      {
+        "s": "इव",
+        "h": "जैसे",
+        "e": "like"
+      },
+      {
+        "s": "अनलम्",
+        "h": "अग्नि",
+        "e": "fire"
+      }
     ],
     "gr": "<strong>निष्कलम्</strong> — निस् + कला (अंश): 'अंशरहित, अखण्ड'। <strong>निष्क्रियम्</strong> — निस् + क्रिया: 'क्रियारहित'। <strong>निरवद्यम्</strong> — निस् + अवद्य (दोष): 'दोषरहित'। <strong>निरञ्जनम्</strong> — निस् + अञ्जन (काजल/मल): 'कलंकरहित'। <strong>सेतुम्</strong> — √सि (बाँधना): 'सेतु, पुल' — मुण्डकोपनिषद् 2.2.5 में भी: 'तरत अमृतस्य सेतुम्'। <strong>दग्धेन्धनम्</strong> — दग्ध (√दह् + क्त: 'जला हुआ') + इन्धन (ईंधन) — 'जिसका ईंधन जल चुका है'। यह उपमा — अग्नि अपने ईंधन के बिना शुद्ध ज्योतिरूप रहती है — ब्रह्म की शुद्ध चेतना का प्रतीक।",
     "mt": "Anuṣṭubh (अनुष्टुभ्) · 8 syllables per quarter",
@@ -798,7 +1826,17 @@
         "en": "Aurobindo says 'dagdhendhanam iva analam' — this simile depicts the final state of the yogi. When karmic impressions (fuel) are destroyed, consciousness (fire) reveals itself in its pure divine form — tranquil, indivisible, unstained.",
         "ins": "संस्कार-ईंधन जलने पर चेतना शुद्ध दिव्य ज्योति बनकर चमकती है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🌊 'निष्कलं निष्क्रियं शान्तम्' — ब्रह्म के 'नकारात्मक' विशेषण?",
+        "a": "'<strong>निष्कलम्</strong>' = कला/भाग रहित (without parts); '<strong>निष्क्रियम्</strong>' = क्रिया-रहित (without action); '<strong>शान्तम्</strong>' = शान्त; '<strong>निरवद्यम्</strong>' = दोष-रहित; '<strong>निरञ्जनम्</strong>' = मल/कलुष-रहित (unstained)। ये <strong>नेति-नेति</strong> (not this, not this) शैली के विशेषण हैं — ब्रह्म को जो <strong>नहीं है</strong> बताकर परिभाषित करना। '<strong>अमृतस्य परं सेतुम्</strong>' = अमृतत्व का <strong>परम सेतु</strong> (supreme bridge) — ब्रह्म ही मृत्यु से अमृतत्व की ओर जाने वाला पुल है।"
+      },
+      {
+        "q": "🔥 'दग्धेन्धनम् इव' — बुझी अग्नि जैसा?",
+        "a": "'<strong>दग्ध-इन्धनम् इव</strong>' = जली हुई ईंधन (fuel) वाली अग्नि के समान। जैसे ईंधन जलने के बाद अग्नि <strong>शान्त</strong> हो जाती है (बुझ नहीं जाती — अव्यक्त हो जाती है), वैसे ही ब्रह्म-ज्ञानी का <strong>कर्म-ईंधन</strong> जल जाता है, संसार-अग्नि शान्त होती है। मुण्डक 2.2.8 — '<strong>क्षीयन्ते चास्य कर्माणि</strong>' — उसके कर्म क्षीण होते हैं। गीता 4.37 — '<strong>ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते</strong>' — ज्ञान-अग्नि सब कर्मों को भस्म कर देती है।"
+      }
+    ]
   },
   {
     "id": 20,
@@ -807,17 +1845,61 @@
     "hi": "जब (कोई) आत्मतत्त्व के द्वारा ब्रह्मतत्त्व को — दीपक (प्रज्वलित बत्ती) की उपमा से — योगयुक्त होकर देख ले — (उस) अजन्मा, ध्रुव (अचल), सम्पूर्ण तत्त्वों से विशुद्ध देव को जानकर — (वह) सम्पूर्ण बन्धनों से मुक्त हो जाता है।",
     "en": "When, through the essence of the self, one perceives the essence of Brahman — as through the simile of the lamp — the yogi sees the unborn, the steadfast, the God purified of all tattvas — knowing Him, one is freed from all bonds.",
     "ws": [
-      {"s": "यदा", "h": "जब", "e": "when"},
-      {"s": "आत्मतत्त्वेन", "h": "आत्मा के तत्त्व से", "e": "through the essence of the self"},
-      {"s": "ब्रह्मतत्त्वम्", "h": "ब्रह्म का तत्त्व", "e": "the essence of Brahman"},
-      {"s": "दीपोपमेन", "h": "दीपक (बत्ती) की उपमा से", "e": "by the simile of the lamp"},
-      {"s": "इह", "h": "यहाँ", "e": "here"},
-      {"s": "युक्तः", "h": "योगयुक्त", "e": "the yogi, one united in yoga"},
-      {"s": "प्रपश्येत्", "h": "देखे / साक्षात् करे", "e": "perceives, sees directly"},
-      {"s": "अजम्", "h": "अजन्मा", "e": "unborn"},
-      {"s": "ध्रुवम्", "h": "ध्रुव / स्थिर / अचल", "e": "steadfast, immovable"},
-      {"s": "सर्वतत्त्वैः विशुद्धम्", "h": "सम्पूर्ण तत्त्वों से विशुद्ध", "e": "purified from all tattvas"},
-      {"s": "मुच्यते सर्वपाशैः", "h": "सम्पूर्ण बन्धनों से मुक्त हो जाता है", "e": "is freed from all bonds"}
+      {
+        "s": "यदा",
+        "h": "जब",
+        "e": "when"
+      },
+      {
+        "s": "आत्मतत्त्वेन",
+        "h": "आत्मा के तत्त्व से",
+        "e": "through the essence of the self"
+      },
+      {
+        "s": "ब्रह्मतत्त्वम्",
+        "h": "ब्रह्म का तत्त्व",
+        "e": "the essence of Brahman"
+      },
+      {
+        "s": "दीपोपमेन",
+        "h": "दीपक (बत्ती) की उपमा से",
+        "e": "by the simile of the lamp"
+      },
+      {
+        "s": "इह",
+        "h": "यहाँ",
+        "e": "here"
+      },
+      {
+        "s": "युक्तः",
+        "h": "योगयुक्त",
+        "e": "the yogi, one united in yoga"
+      },
+      {
+        "s": "प्रपश्येत्",
+        "h": "देखे / साक्षात् करे",
+        "e": "perceives, sees directly"
+      },
+      {
+        "s": "अजम्",
+        "h": "अजन्मा",
+        "e": "unborn"
+      },
+      {
+        "s": "ध्रुवम्",
+        "h": "ध्रुव / स्थिर / अचल",
+        "e": "steadfast, immovable"
+      },
+      {
+        "s": "सर्वतत्त्वैः विशुद्धम्",
+        "h": "सम्पूर्ण तत्त्वों से विशुद्ध",
+        "e": "purified from all tattvas"
+      },
+      {
+        "s": "मुच्यते सर्वपाशैः",
+        "h": "सम्पूर्ण बन्धनों से मुक्त हो जाता है",
+        "e": "is freed from all bonds"
+      }
     ],
     "gr": "<strong>आत्मतत्त्वेन</strong> — आत्मन् + तत्त्व, तृतीया: 'आत्मा के सार/तत्त्व के द्वारा'। <strong>दीपोपमेन</strong> — दीप + उपमा, तृतीया: 'दीपक की उपमा से' — जैसे दीपक अँधेरे में वस्तुओं को प्रकट करता है, वैसे ध्यान ब्रह्मतत्त्व को प्रकट करता है। <strong>प्रपश्येत्</strong> — प्र + √पश् (दृश्), विधिलिङ्: 'देखे, साक्षात् करे'। <strong>सर्वतत्त्वैः विशुद्धम्</strong> — सर्व + तत्त्व, तृतीया बहुवचन + वि + शुद्ध: 'सब तत्त्वों से शुद्ध/अलग'।",
     "mt": "Triṣṭubh (त्रिष्टुभ्) · 11 syllables per quarter",
@@ -840,7 +1922,17 @@
         "en": "Aurobindo says 'dipopamena' — in meditation, consciousness burns like a lamp — steady, quiet, concentrated. In that still flame, the truth of Brahman is revealed — 'ajam dhruvam' — unborn, immovable, eternal.",
         "ins": "ध्यान = स्थिर दीपक; उसकी शान्त ज्योति में ब्रह्म प्रकट।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🪔 'दीपोपमेन' — दीपक-उपमा का क्या अर्थ?",
+        "a": "'<strong>दीपोपमेन</strong>' = दीपक (lamp) की उपमा से। '<strong>आत्मतत्त्वेन ब्रह्मतत्त्वम् प्रपश्येत्</strong>' — आत्मा के तत्त्व से ब्रह्म के तत्त्व को देखे। दीपक = <strong>आत्म-ज्ञान</strong>; अन्धकार = <strong>अविद्या</strong>; प्रकाशित वस्तुएँ = <strong>ब्रह्म-दर्शन</strong>। जैसे दीपक स्वयं प्रकाशित होकर दूसरों को प्रकाशित करता है, वैसे ही <strong>आत्मा को जानकर ब्रह्म को जानो</strong>। छान्दोग्य 6.1.3 — '<strong>आत्मा वा अरे द्रष्टव्यः</strong>' — आत्मा ही देखने योग्य है।"
+      },
+      {
+        "q": "🌌 'अजं ध्रुवम्' — अजन्मा और ध्रुव?",
+        "a": "'<strong>अजम्</strong>' = अजन्मा (unborn); '<strong>ध्रुवम्</strong>' = स्थिर/अचल (firm/fixed); '<strong>सर्वतत्त्वैः विशुद्धम्</strong>' = सर्व तत्त्वों से विशुद्ध (purified from all principles)। ब्रह्म-ज्ञान से '<strong>सर्वपाशान् प्रमुच्यते</strong>' — सब बन्धन कट जाते हैं। '<strong>अज</strong>' = ब्रह्म जन्म-मरण चक्र से परे; '<strong>ध्रुव</strong>' = ध्रुव-तारे की तरह अचल — सब परिवर्तन के बीच एकमात्र स्थिर तत्त्व। गीता 2.20 — '<strong>न जायते म्रियते वा कदाचित्</strong>'।"
+      }
+    ]
   },
   {
     "id": 21,
@@ -849,17 +1941,61 @@
     "hi": "वहाँ (उस परम अवस्था में) न यह (दृश्य जगत्) है, न वह (कोई अन्य), न अन्तरिक्ष है, न पृथ्वी, न परलोक। यही सर्वेश्वर है — साक्षात् आत्मा, ब्रह्म, परम, महत् (महान्)।",
     "en": "There (in that supreme state) — neither this nor that exists, neither sky, nor earth, nor beyond. This is the Lord of all — the Self directly, Brahman, the supreme, the Great.",
     "ws": [
-      {"s": "न एव", "h": "निश्चित रूप से नहीं", "e": "certainly not"},
-      {"s": "तत्र", "h": "वहाँ (उस अवस्था में)", "e": "there"},
-      {"s": "इदम्", "h": "यह (दृश्य जगत्)", "e": "this"},
-      {"s": "अन्तरिक्षम्", "h": "अन्तरिक्ष / आकाश", "e": "sky, space"},
-      {"s": "भूः", "h": "पृथ्वी", "e": "earth"},
-      {"s": "परम्", "h": "परलोक / ऊपर", "e": "beyond, the other world"},
-      {"s": "सर्वेश्वरः", "h": "सबका ईश्वर", "e": "Lord of all"},
-      {"s": "साक्षात्", "h": "प्रत्यक्ष / साक्षात्", "e": "directly, in person"},
-      {"s": "आत्मा", "h": "आत्मा", "e": "the Self"},
-      {"s": "ब्रह्म", "h": "ब्रह्म", "e": "Brahman"},
-      {"s": "परम् महत्", "h": "सर्वोच्च महान्", "e": "the supreme Great"}
+      {
+        "s": "न एव",
+        "h": "निश्चित रूप से नहीं",
+        "e": "certainly not"
+      },
+      {
+        "s": "तत्र",
+        "h": "वहाँ (उस अवस्था में)",
+        "e": "there"
+      },
+      {
+        "s": "इदम्",
+        "h": "यह (दृश्य जगत्)",
+        "e": "this"
+      },
+      {
+        "s": "अन्तरिक्षम्",
+        "h": "अन्तरिक्ष / आकाश",
+        "e": "sky, space"
+      },
+      {
+        "s": "भूः",
+        "h": "पृथ्वी",
+        "e": "earth"
+      },
+      {
+        "s": "परम्",
+        "h": "परलोक / ऊपर",
+        "e": "beyond, the other world"
+      },
+      {
+        "s": "सर्वेश्वरः",
+        "h": "सबका ईश्वर",
+        "e": "Lord of all"
+      },
+      {
+        "s": "साक्षात्",
+        "h": "प्रत्यक्ष / साक्षात्",
+        "e": "directly, in person"
+      },
+      {
+        "s": "आत्मा",
+        "h": "आत्मा",
+        "e": "the Self"
+      },
+      {
+        "s": "ब्रह्म",
+        "h": "ब्रह्म",
+        "e": "Brahman"
+      },
+      {
+        "s": "परम् महत्",
+        "h": "सर्वोच्च महान्",
+        "e": "the supreme Great"
+      }
     ],
     "gr": "<strong>तत्र</strong> — 'वहाँ' — परमात्मा की शुद्ध अवस्था में। <strong>इदम्</strong> — 'यह' — दृश्य जगत्। <strong>अन्तरिक्षम्</strong> — अन्तर + इक्ष (दृश्य): 'बीच का स्थान, आकाश'। <strong>भूः</strong> — √भू: 'पृथ्वी'। <strong>साक्षात्</strong> — स + अक्ष (नेत्र): 'प्रत्यक्ष, सीधे'। <strong>महत्</strong> — 'महान्' — प्रथमा एकवचन (नपुंसक, 'ब्रह्म' का विशेषण)। यह मन्त्र 'न तत्र सूर्यो भाति' (6.14/कठ 2.2.15) का विस्तार है — वहाँ न केवल प्रकाश-स्रोत अनावश्यक हैं, वहाँ दृश्य जगत् ही नहीं है।",
     "mt": "Anuṣṭubh (अनुष्टुभ्) · 8 syllables per quarter",
@@ -882,7 +2018,17 @@
         "en": "Aurobindo says when consciousness transcends all object-awareness, it sees neither earth nor sky — only pure Being (sat) remains. 'Esha sarveshvarah sakshat atma' — this Being is the Lord of all, the Self, Brahman.",
         "ins": "सभी विषय-बोध पार होने पर — शुद्ध 'सत्' शेष रहता है — वही सर्वेश्वर, वही आत्मा।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🌀 'नैव तत्र न तत्र' — 'वहाँ' न यह, न वह?",
+        "a": "'<strong>न एव तत्र न तत्र</strong>' = न यहाँ, न वहाँ; '<strong>न अन्तरिक्षम्</strong>' = न अन्तरिक्ष; '<strong>न भूः</strong>' = न पृथ्वी; '<strong>परम्</strong>' = न परलोक। परम अवस्था में <strong>द्वैत</strong> (duality) विलीन हो जाता है — यहाँ-वहाँ, ऊपर-नीचे, पृथ्वी-आकाश — ये सब <strong>सापेक्ष</strong> (relative) विभाजन हैं। '<strong>एष सर्वेश्वरः साक्षात्</strong>' = यही प्रत्यक्ष सर्वेश्वर है; '<strong>आत्मा विश्वस्य एकः</strong>' = विश्व का एक आत्मा — <strong>अद्वैत</strong> का सार।"
+      },
+      {
+        "q": "🧘 यह अनुभव कैसे प्राप्त होता है?",
+        "a": "यह '<strong>निर्विकल्प समाधि</strong>' (thought-free absorption) का वर्णन है — जहाँ स्थान (space), काल (time), और वस्तु (object) का भेद <strong>विलीन</strong> हो जाता है। '<strong>स्वभावम् अस्य अवति विश्वयोनिः</strong>' — विश्वयोनि (विश्व का स्रोत) उसके (जीव के) स्वभाव की रक्षा करता है। यह अनुभव <strong>श्रवण</strong> (गुरु से सुनना), <strong>मनन</strong> (विचार करना), <strong>निदिध्यासन</strong> (गहन ध्यान) से आता है — बृहदारण्यक 2.4.5 — '<strong>आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः</strong>'।"
+      }
+    ]
   },
   {
     "id": 22,
@@ -891,15 +2037,51 @@
     "hi": "यह वेदान्त (वेद के अन्त) में परम गोपनीय (रहस्य) है, जो पूर्वकल्प (प्राचीन काल) में प्रकट किया गया था। जो शान्त (विरक्त) नहीं है उसे यह ज्ञान नहीं देना चाहिए, न उसे जो पुत्र नहीं है (अयोग्य अधिकारी), और न उसे जो शिष्य नहीं है।",
     "en": "This supreme secret of Vedanta, proclaimed in ancient times — it should not be given to one who is not tranquil, nor to one who is not a son (worthy recipient), nor again to one who is not a disciple.",
     "ws": [
-      {"s": "वेदान्ते", "h": "वेद के अन्त (उपनिषदों) में", "e": "in Vedanta (the Upanishads)"},
-      {"s": "परमम् गुह्यम्", "h": "परम गोपनीय / सर्वोच्च रहस्य", "e": "the supreme secret"},
-      {"s": "पुराकल्पे", "h": "पूर्व काल / प्राचीन युग में", "e": "in ancient times"},
-      {"s": "प्रचोदितम्", "h": "प्रकट किया गया / उपदिष्ट किया गया", "e": "proclaimed, taught"},
-      {"s": "न अप्रशान्ताय", "h": "जो शान्त (विरक्त) नहीं है उसे नहीं", "e": "not to one who is not tranquil"},
-      {"s": "दातव्यम्", "h": "देना चाहिए", "e": "should be given"},
-      {"s": "न अपुत्राय", "h": "जो पुत्र (योग्य शिष्य/अधिकारी) नहीं", "e": "not to one who is not a son (worthy recipient)"},
-      {"s": "अशिष्याय", "h": "जो शिष्य नहीं है", "e": "not to one who is not a disciple"},
-      {"s": "पुनः", "h": "पुनः / और फिर", "e": "again, also"}
+      {
+        "s": "वेदान्ते",
+        "h": "वेद के अन्त (उपनिषदों) में",
+        "e": "in Vedanta (the Upanishads)"
+      },
+      {
+        "s": "परमम् गुह्यम्",
+        "h": "परम गोपनीय / सर्वोच्च रहस्य",
+        "e": "the supreme secret"
+      },
+      {
+        "s": "पुराकल्पे",
+        "h": "पूर्व काल / प्राचीन युग में",
+        "e": "in ancient times"
+      },
+      {
+        "s": "प्रचोदितम्",
+        "h": "प्रकट किया गया / उपदिष्ट किया गया",
+        "e": "proclaimed, taught"
+      },
+      {
+        "s": "न अप्रशान्ताय",
+        "h": "जो शान्त (विरक्त) नहीं है उसे नहीं",
+        "e": "not to one who is not tranquil"
+      },
+      {
+        "s": "दातव्यम्",
+        "h": "देना चाहिए",
+        "e": "should be given"
+      },
+      {
+        "s": "न अपुत्राय",
+        "h": "जो पुत्र (योग्य शिष्य/अधिकारी) नहीं",
+        "e": "not to one who is not a son (worthy recipient)"
+      },
+      {
+        "s": "अशिष्याय",
+        "h": "जो शिष्य नहीं है",
+        "e": "not to one who is not a disciple"
+      },
+      {
+        "s": "पुनः",
+        "h": "पुनः / और फिर",
+        "e": "again, also"
+      }
     ],
     "gr": "<strong>वेदान्ते</strong> — वेद + अन्त, सप्तमी: 'वेद के अन्त (उपनिषदों) में'। <strong>गुह्यम्</strong> — √गुह् (छिपाना) + यत्: 'छिपाने योग्य, गोपनीय'। <strong>पुराकल्पे</strong> — पुरा + कल्प, सप्तमी: 'पूर्व-कल्प (प्राचीन काल) में'। <strong>प्रचोदितम्</strong> — प्र + √चुद् (प्रेरित करना) + क्त: 'प्रेरित / प्रकट किया गया'। <strong>दातव्यम्</strong> — √दा (देना) + तव्य: 'देना चाहिए'। <strong>अप्रशान्ताय</strong> — अ + प्रशान्त (प्र + √शम्: 'शान्त'), चतुर्थी: 'जो शान्त नहीं है उसे'। <strong>अपुत्राय</strong> — अ + पुत्र, चतुर्थी; यहाँ 'पुत्र' = शिष्य-समान अधिकारी। <strong>अशिष्याय</strong> — अ + शिष्य (√शिष्: 'शिक्षित करना'): 'जो शिष्य नहीं है'।",
     "mt": "Anuṣṭubh (अनुष्टुभ्) · 8 syllables per quarter",
@@ -922,7 +2104,17 @@
         "en": "Aurobindo says this knowledge was 'proclaimed in ancient times' — it is an eternal truth, not any individual's invention. Its secrecy is not for concealment but because the unprepared mind cannot receive it — a prepared vessel is needed.",
         "ins": "गोपनीयता = तैयारी — अयोग्य मन इस सत्य को ग्रहण नहीं कर सकता।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "🤫 'नाप्रशान्ताय दातव्यम्' — अशान्त को क्यों नहीं देना?",
+        "a": "'<strong>वेदान्ते परमं गुह्यम्</strong>' = वेदान्त का परम रहस्य; '<strong>न अप्रशान्ताय दातव्यम्</strong>' = अशान्त (restless) व्यक्ति को <strong>नहीं देना</strong> चाहिए; '<strong>न अपुत्राय</strong>' = न अपुत्र को (यहाँ 'अपुत्र' = अयोग्य शिष्य); '<strong>न अशिष्याय</strong>' = न गैर-शिष्य को। यह <strong>अधिकार-भेद</strong> (qualification filter) है — ज्ञान '<strong>गोपनीय</strong>' नहीं, बल्कि '<strong>ग्रहण-योग्यता</strong>' आवश्यक है। गीता 18.67 — '<strong>इदं ते नातपस्काय नाभक्ताय कदाचन</strong>'।"
+      },
+      {
+        "q": "📜 'पुराकल्पे प्रचोदितम्' — पुराकल्प से कैसे?",
+        "a": "'<strong>पुराकल्पे</strong>' = प्राचीन काल (कल्प) में; '<strong>प्रचोदितम्</strong>' = प्रेरित/प्रकाशित। यह ज्ञान <strong>नवीन नहीं</strong> — अनादि काल से चला आ रहा है। '<strong>पुराकल्प</strong>' = पिछला कल्प/युग — यह <strong>गुरु-शिष्य परम्परा</strong> (lineage) की प्राचीनता दर्शाता है। गीता 4.1-2 — '<strong>इमं विवस्वते योगं प्रोक्तवानहमव्ययम् — विवस्वान् मनवे प्राह</strong>' — मैंने यह अविनाशी योग विवस्वान् (सूर्य) को कहा, उसने मनु को।"
+      }
+    ]
   },
   {
     "id": 23,
@@ -931,17 +2123,61 @@
     "hi": "जिसकी देव (परमेश्वर) में परा (सर्वोच्च) भक्ति है, और जैसी भक्ति देव में है वैसी ही गुरु में — उस महात्मा को ही ये कथित अर्थ (उपनिषद् के रहस्य) प्रकाशित होते हैं (स्वयं प्रकट हो जाते हैं)।",
     "en": "One who has supreme devotion to God, and equal devotion to the Guru as to God — to that great soul, these truths that have been spoken shine forth (reveal themselves).",
     "ws": [
-      {"s": "यस्य", "h": "जिसकी", "e": "whose"},
-      {"s": "देवे", "h": "देव (परमेश्वर) में", "e": "in God"},
-      {"s": "परा भक्तिः", "h": "सर्वोच्च भक्ति", "e": "supreme devotion"},
-      {"s": "यथा देवे", "h": "जैसी देव में", "e": "as to God"},
-      {"s": "तथा गुरौ", "h": "वैसी ही गुरु में", "e": "so to the Guru"},
-      {"s": "तस्य", "h": "उसकी / उसको", "e": "to that one"},
-      {"s": "एते", "h": "ये", "e": "these"},
-      {"s": "कथिताः", "h": "कहे गये", "e": "spoken, narrated"},
-      {"s": "अर्थाः", "h": "अर्थ / रहस्य / तत्त्व", "e": "meanings, truths"},
-      {"s": "प्रकाशन्ते", "h": "प्रकाशित होते हैं / स्वयं प्रकट होते हैं", "e": "shine forth, reveal themselves"},
-      {"s": "महात्मनः", "h": "महात्मा (महान् आत्मा वाले) को", "e": "to the great soul"}
+      {
+        "s": "यस्य",
+        "h": "जिसकी",
+        "e": "whose"
+      },
+      {
+        "s": "देवे",
+        "h": "देव (परमेश्वर) में",
+        "e": "in God"
+      },
+      {
+        "s": "परा भक्तिः",
+        "h": "सर्वोच्च भक्ति",
+        "e": "supreme devotion"
+      },
+      {
+        "s": "यथा देवे",
+        "h": "जैसी देव में",
+        "e": "as to God"
+      },
+      {
+        "s": "तथा गुरौ",
+        "h": "वैसी ही गुरु में",
+        "e": "so to the Guru"
+      },
+      {
+        "s": "तस्य",
+        "h": "उसकी / उसको",
+        "e": "to that one"
+      },
+      {
+        "s": "एते",
+        "h": "ये",
+        "e": "these"
+      },
+      {
+        "s": "कथिताः",
+        "h": "कहे गये",
+        "e": "spoken, narrated"
+      },
+      {
+        "s": "अर्थाः",
+        "h": "अर्थ / रहस्य / तत्त्व",
+        "e": "meanings, truths"
+      },
+      {
+        "s": "प्रकाशन्ते",
+        "h": "प्रकाशित होते हैं / स्वयं प्रकट होते हैं",
+        "e": "shine forth, reveal themselves"
+      },
+      {
+        "s": "महात्मनः",
+        "h": "महात्मा (महान् आत्मा वाले) को",
+        "e": "to the great soul"
+      }
     ],
     "gr": "<strong>परा भक्तिः</strong> — पर (श्रेष्ठ) + भक्ति (√भज्: 'सेवा, प्रेम'), स्त्रीलिंग प्रथमा: 'सर्वोच्च भक्ति'। <strong>यथा...तथा</strong> — 'जैसा...वैसा' — यह तुलनात्मक अव्यय-युग्म है। <strong>गुरौ</strong> — गुरु, सप्तमी एकवचन: 'गुरु में'; गुरु = गु (अन्धकार) + रु (दूर करने वाला)। <strong>कथिताः</strong> — √कथ् (कहना) + क्त: 'कहे गये'। <strong>प्रकाशन्ते</strong> — प्र + √काश् (प्रकाशित होना), आत्मनेपद लट्: 'स्वयं प्रकट होते हैं' — ज्ञान बाहर से नहीं आता, अन्दर से प्रकट होता है। <strong>महात्मनः</strong> — महा + आत्मन्, षष्ठी एकवचन: 'महात्मा को/की'। यह मन्त्र गुरु-शिष्य परम्परा का आधार-वाक्य है — भक्ति और गुरु-श्रद्धा ज्ञान-प्रकाश की दो अनिवार्य शर्तें हैं।",
     "mt": "Anuṣṭubh (अनुष्टुभ्) · 8 syllables per quarter",
@@ -964,6 +2200,16 @@
         "en": "Aurobindo says this mantra expresses the ultimate synthesis of knowledge and devotion. 'Para bhakti' — complete surrender to the divine Reality. 'Yatha deve tatha gurau' — the Guru is the human form in which the divine appears as Teacher. 'Prakashante' — truth is not 'taught' but 'illumined' — just as sunrise reveals itself, truth reveals itself in the prepared consciousness. Bhakti and shraddha are the preparation that makes consciousness receptive. This is the Upanishad's most human and moving conclusion — without love and faith, knowledge is incomplete.",
         "ins": "सत्य सिखाया नहीं जाता — तैयार चेतना में स्वयं प्रकट होता है। भक्ति और श्रद्धा ही वह तैयारी है।"
       }
-    }
+    },
+    "dp": [
+      {
+        "q": "❤ 'यस्य देवे परा भक्तिः' — भक्ति ही अन्तिम शर्त?",
+        "a": "यह <strong>श्वेताश्वतर उपनिषद् का अन्तिम मन्त्र</strong> और <strong>सम्पूर्ण उपनिषद् का निष्कर्ष</strong> है। '<strong>यस्य देवे परा भक्तिः</strong>' = जिसकी देव (ईश्वर) में <strong>परम भक्ति</strong> है; '<strong>यथा देवे तथा गुरौ</strong>' = जैसी ईश्वर में, <strong>वैसी ही गुरु</strong> में। '<strong>तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः</strong>' = उस <strong>महात्मा</strong> को ही ये बताए गए अर्थ <strong>प्रकाशित</strong> होते हैं। भक्ति + गुरु-भक्ति = <strong>ज्ञान-प्रकाश</strong> की शर्त।"
+      },
+      {
+        "q": "🎓 'यथा देवे तथा गुरौ' — गुरु को ईश्वर के समान क्यों?",
+        "a": "गुरु = ज्ञान का <strong>माध्यम</strong>; ईश्वर = ज्ञान का <strong>स्रोत</strong>। जो भक्ति ईश्वर में है, <strong>वही गुरु में</strong> — क्योंकि गुरु ही वह व्यक्ति है जो ब्रह्म-ज्ञान '<strong>प्रदान</strong>' करता है। मुण्डक 1.2.12 — '<strong>तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत्</strong>' — उस ज्ञान के लिए गुरु के पास ही जाए। यह उपनिषद् जो '<strong>किम् कारणम् ब्रह्म?</strong>' (1.1) से आरम्भ हुआ, वह '<strong>परा भक्ति + गुरु-भक्ति</strong>' के उत्तर पर समाप्त होता है — ज्ञान का मार्ग भक्ति से होकर जाता है।"
+      }
+    ]
   }
 ]
