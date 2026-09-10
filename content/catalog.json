@@ -1,8 +1,21 @@
 {
   "version": 1,
   "categories": [
-    {"id": "upanishad", "name": "उपनिषद्", "en": "Upanishads"},
-    {"id": "concept", "name": "मूल सिद्धांत", "en": "Key Concepts"}
+    {
+      "id": "upanishad",
+      "name": "उपनिषद्",
+      "en": "Upanishads"
+    },
+    {
+      "id": "concept",
+      "name": "मूल सिद्धांत",
+      "en": "Key Concepts"
+    },
+    {
+      "id": "darshana",
+      "name": "दर्शन",
+      "en": "Philosophical Texts"
+    }
   ],
   "concepts": [
     {
@@ -67,7 +80,9 @@
       "veda": "Shukla Yajurveda",
       "desc": "Divine immanence — renunciation & action",
       "total": 18,
-      "files": ["isha.json"]
+      "files": [
+        "isha.json"
+      ]
     },
     {
       "id": "kena",
@@ -79,7 +94,9 @@
       "veda": "Samaveda",
       "desc": "By whom is the mind directed? — inquiry into Brahman",
       "total": 35,
-      "files": ["kena.json"]
+      "files": [
+        "kena.json"
+      ]
     },
     {
       "id": "katha",
@@ -91,7 +108,14 @@
       "veda": "Krishna Yajurveda",
       "desc": "Nachiketa & Death — the secret of immortality",
       "total": 118,
-      "files": ["katha_1_1.json", "katha_1_2.json", "katha_1_3.json", "katha_2_1.json", "katha_2_2.json", "katha_2_3.json"]
+      "files": [
+        "katha_1_1.json",
+        "katha_1_2.json",
+        "katha_1_3.json",
+        "katha_2_1.json",
+        "katha_2_2.json",
+        "katha_2_3.json"
+      ]
     },
     {
       "id": "prashna",
@@ -103,7 +127,14 @@
       "veda": "Atharvaveda",
       "desc": "Six questions on creation, Prana, mind & Purusha",
       "total": 67,
-      "files": ["prashna_q1.json", "prashna_q2.json", "prashna_q3.json", "prashna_q4.json", "prashna_q5.json", "prashna_q6.json"]
+      "files": [
+        "prashna_q1.json",
+        "prashna_q2.json",
+        "prashna_q3.json",
+        "prashna_q4.json",
+        "prashna_q5.json",
+        "prashna_q6.json"
+      ]
     },
     {
       "id": "mundaka",
@@ -115,7 +146,14 @@
       "veda": "Atharvaveda",
       "desc": "Two birds on one tree — Satyameva Jayate",
       "total": 64,
-      "files": ["mundaka_1_1.json", "mundaka_1_2.json", "mundaka_2_1.json", "mundaka_2_2.json", "mundaka_3_1.json", "mundaka_3_2.json"]
+      "files": [
+        "mundaka_1_1.json",
+        "mundaka_1_2.json",
+        "mundaka_2_1.json",
+        "mundaka_2_2.json",
+        "mundaka_3_1.json",
+        "mundaka_3_2.json"
+      ]
     },
     {
       "id": "mandukya",
@@ -127,7 +165,9 @@
       "veda": "Atharvaveda",
       "desc": "OM & four states of consciousness",
       "total": 12,
-      "files": ["mandukya.json"]
+      "files": [
+        "mandukya.json"
+      ]
     },
     {
       "id": "taittiriya",
@@ -139,7 +179,13 @@
       "veda": "Krishna Yajurveda",
       "desc": "Five sheaths — from food to bliss",
       "total": 31,
-      "files": ["taittiriya_1a.json", "taittiriya_1b.json", "taittiriya_2a.json", "taittiriya_2b.json", "taittiriya_3.json"]
+      "files": [
+        "taittiriya_1a.json",
+        "taittiriya_1b.json",
+        "taittiriya_2a.json",
+        "taittiriya_2b.json",
+        "taittiriya_3.json"
+      ]
     },
     {
       "id": "aitareya",
@@ -151,7 +197,9 @@
       "veda": "Rigveda",
       "desc": "Creation of universe — Consciousness is Brahman",
       "total": 33,
-      "files": ["aitareya.json"]
+      "files": [
+        "aitareya.json"
+      ]
     },
     {
       "id": "shvetashvatara",
@@ -163,7 +211,29 @@
       "veda": "Krishna Yajurveda",
       "desc": "The one God hidden in all — Māyā, Rudra & liberation",
       "total": 113,
-      "files": ["shvetashvatara_1.json", "shvetashvatara_2.json", "shvetashvatara_3.json", "shvetashvatara_4.json", "shvetashvatara_5.json", "shvetashvatara_6.json"]
+      "files": [
+        "shvetashvatara_1.json",
+        "shvetashvatara_2.json",
+        "shvetashvatara_3.json",
+        "shvetashvatara_4.json",
+        "shvetashvatara_5.json",
+        "shvetashvatara_6.json"
+      ]
+    },
+    {
+      "id": "mmk",
+      "category": "darshana",
+      "name": "मूलमाध्यमककारिका",
+      "en": "Mulamadhyamakakarika",
+      "icon": "☸️",
+      "color": "#D4A017",
+      "veda": "Nāgārjuna · Mādhyamaka",
+      "desc": "Emptiness & dependent origination — the root verses of the Middle Way",
+      "total": 16,
+      "files": [
+        "mmk_dedication.json",
+        "mmk_1.json"
+      ]
     }
   ]
 }

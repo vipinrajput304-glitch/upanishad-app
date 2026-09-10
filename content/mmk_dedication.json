@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "sk": "अनिरोधमनुत्पादमनुच्छेदमशाश्वतम् ।\nअनेकार्थमनानार्थमनागममनिर्गमम् ॥",
+    "ro": "anirodham · anutpādam · anucchedam · aśāśvatam | anekārtham · anānārtham · anāgamam · anirgamam ||",
+    "hi": "न विनाश है, न उत्पत्ति; न सर्वथा नाश है, न सदा रहना; न अनेक अर्थ है, न एक अर्थ; न कहीं से आना है, न कहीं जाना — ये आठ बातें प्रतीत्यसमुत्पाद के बारे में कही गई हैं।",
+    "en": "Neither ceasing nor arising; neither annihilation nor permanence; neither many meanings nor one meaning; neither coming nor going — these eight negations describe dependent origination.",
+    "ws": [
+      {
+        "s": "अनिरोधम्",
+        "h": "निरोध-रहित / बिना विनाश के",
+        "e": "without cessation"
+      },
+      {
+        "s": "अनुत्पादम्",
+        "h": "उत्पत्ति-रहित / बिना जन्म के",
+        "e": "without arising"
+      },
+      {
+        "s": "अनुच्छेदम्",
+        "h": "उच्छेद-रहित / बिना पूर्ण नाश के",
+        "e": "without annihilation"
+      },
+      {
+        "s": "अशाश्वतम्",
+        "h": "शाश्वतता-रहित / सदा न रहने वाला",
+        "e": "without permanence"
+      },
+      {
+        "s": "अनेकार्थम्",
+        "h": "अनेक अर्थ-रहित / बहुत्व-रहित",
+        "e": "without plurality of meaning"
+      },
+      {
+        "s": "अनानार्थम्",
+        "h": "एक अर्थ-रहित / एकत्व-रहित",
+        "e": "without unity of meaning"
+      },
+      {
+        "s": "अनागमम्",
+        "h": "आगमन-रहित / बिना आने के",
+        "e": "without coming"
+      },
+      {
+        "s": "अनिर्गमम्",
+        "h": "निर्गमन-रहित / बिना जाने के",
+        "e": "without going"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> आठ नकारात्मक विशेषण — सभी 'अन्/अ' उपसर्ग (नञ्-समास) से बने हैं: अ + निरोध = अनिरोध, अन् + उत्पाद = अनुत्पाद, आदि। ये सभी द्वितीया विभक्ति (accusative) में हैं — 'प्रतीत्यसमुत्पाद' के विशेषण। यह <strong>अष्ट-निषेध</strong> (eight negations) नागार्जुन की पद्धति का सार है — किसी भी चरम दृष्टि (extreme view) का निषेध।<br><em>Eng:</em> Eight negative adjectives, all formed with the nañ-prefix (a/an-). All in accusative, modifying pratītyasamutpāda. These <em>aṣṭa-niṣedha</em> (eight negations) encapsulate Nāgārjuna's method — negation of all extreme views.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — ये आठ निषेध प्रतीत्यसमुत्पाद की सही समझ बताते हैं। लोग सोचते हैं चीज़ें 'पैदा होती हैं' और 'नष्ट होती हैं' — पर प्रतीत्यसमुत्पाद में न कोई जन्म है, न कोई मृत्यु। ये आठ चरम दृष्टियाँ हैं जो संसार-बन्धन का कारण हैं — इनका निषेध ही मध्यम मार्ग है।",
+        "en": "Candrakīrti says these eight negations describe the correct understanding of dependent origination. People think things 'arise' and 'cease,' but in dependent origination there is neither birth nor death. These eight extreme views cause bondage — negating them IS the Middle Way.",
+        "ins": "आठ निषेध = आठ भ्रमों से मुक्ति। हम 'जन्म-मृत्यु', 'एक-अनेक', 'आना-जाना' में सोचते हैं — पर वास्तविकता इन सबसे परे है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — ये आठ निषेध चार जोड़ों में हैं: उत्पाद-निरोध, उच्छेद-शाश्वत, एकार्थ-अनेकार्थ, आगम-निर्गम। हर जोड़ा एक द्वन्द्व (binary opposition) है — नागार्जुन दोनों पक्षों को नकारते हैं। यही माध्यमक (Middle Way) है — किसी भी चरम में न फँसना।",
+        "en": "Buddhapālita says these eight negations form four pairs: arising-ceasing, annihilation-permanence, unity-plurality, coming-going. Each pair is a binary opposition — Nāgārjuna negates both sides. This IS the Middle Way — not clinging to any extreme.",
+        "ins": "चार जोड़े, आठ निषेध — हर द्वन्द्व का दोनों पक्ष गलत है। सत्य बीच में नहीं, बल्कि दोनों चरमों के पार है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — ये आठ निषेध परमार्थ सत्य में लागू होते हैं। व्यावहारिक स्तर पर चीज़ें उत्पन्न होती हैं और नष्ट होती हैं — यह संवृति सत्य है। पर परमार्थ में न उत्पत्ति है, न निरोध। दोनों सत्य-स्तरों को अलग-अलग समझना ज़रूरी है।",
+        "en": "Bhāviveka says these eight negations apply at the ultimate level. Conventionally, things do arise and cease — that's conventional truth. But ultimately, there is neither arising nor ceasing. Understanding both levels separately is essential.",
+        "ins": "भाववेक की कुंजी: 'किस स्तर पर?' — व्यावहारिक में चीज़ें होती हैं, परमार्थ में नहीं। दोनों सत्य हैं — भ्रम दोनों को मिलाने में है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🚫 आठ निषेध — ये आठ 'नहीं' क्यों ज़रूरी हैं?",
+        "a": "नागार्जुन <strong>आठ चरम दृष्टियों</strong> को नकारते हैं: (1) <strong>उत्पाद</strong> — चीज़ें कहीं से 'पैदा' होती हैं, (2) <strong>निरोध</strong> — चीज़ें 'नष्ट' होती हैं, (3) <strong>शाश्वत</strong> — कुछ सदा रहता है, (4) <strong>उच्छेद</strong> — सब कुछ पूरी तरह मिट जाता है, (5-6) <strong>एक/अनेक</strong> — वस्तु एक है या अनेक, (7-8) <strong>आगम/निर्गम</strong> — कुछ कहीं से आता या जाता है। ये सब <strong>स्वभाव-दृष्टि</strong> (inherent existence) की भ्रान्तियाँ हैं। प्रतीत्यसमुत्पाद में कुछ 'है' ही नहीं जो पैदा हो, मरे, आए या जाए — सब <strong>प्रतीत्य</strong> (dependent) है।"
+      },
+      {
+        "q": "☸ प्रतीत्यसमुत्पाद और शून्यता में क्या सम्बन्ध?",
+        "a": "यही MMK का <strong>केन्द्रीय सिद्धान्त</strong> है — <strong>प्रतीत्यसमुत्पाद = शून्यता</strong>। 'शून्यता' का अर्थ 'कुछ नहीं है' ऐसा नहीं — बल्कि 'कुछ भी अपने आप में, अकेले, स्वतन्त्र रूप से नहीं है।' जो कुछ भी है, वह <strong>दूसरी चीज़ों पर निर्भर</strong> (प्रतीत्य) होकर है। यही शून्यता है — स्वभाव-शून्यता, पूर्ण अभाव नहीं। MMK 24.18 में नागार्जुन स्पष्ट कहेंगे — '<strong>यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे</strong>' — जो प्रतीत्यसमुत्पाद है, उसी को हम शून्यता कहते हैं।"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sk": "यः प्रतीत्यसमुत्पादं प्रपञ्चोपशमं शिवम् ।\nदेशयामास संबुद्धस्तं वन्दे वदतां वरम् ॥",
+    "ro": "yaḥ · pratītyasamutpādaṁ · prapañcopaśamaṁ · śivam | deśayāmāsa · saṁbuddhas · taṁ · vande · vadatāṁ · varam ||",
+    "hi": "जिन्होंने प्रतीत्यसमुत्पाद का उपदेश दिया — जो सभी प्रपंच की शान्ति है, जो कल्याणकारी है — उन सम्यक् सम्बुद्ध को, वक्ताओं में श्रेष्ठ को, मैं नमन करता हूँ।",
+    "en": "I bow to the fully awakened Buddha, the best among teachers, who taught dependent origination — the calming of all conceptual elaboration, the auspicious.",
+    "ws": [
+      {
+        "s": "प्रतीत्यसमुत्पादम्",
+        "h": "प्रतीत्यसमुत्पाद को / परस्पर-निर्भर उत्पत्ति",
+        "e": "dependent origination"
+      },
+      {
+        "s": "प्रपञ्चोपशमम्",
+        "h": "प्रपञ्च (विस्तार/जटिलता) का उपशम (शान्ति)",
+        "e": "the calming of conceptual elaboration"
+      },
+      {
+        "s": "शिवम्",
+        "h": "कल्याणकारी / मंगलमय",
+        "e": "auspicious / blissful"
+      },
+      {
+        "s": "देशयामास",
+        "h": "उपदेश दिया / सिखाया",
+        "e": "taught / expounded"
+      },
+      {
+        "s": "संबुद्धः",
+        "h": "सम्यक् बुद्ध / पूर्ण जाग्रत",
+        "e": "the fully awakened one"
+      },
+      {
+        "s": "वन्दे",
+        "h": "नमन करता हूँ / प्रणाम करता हूँ",
+        "e": "I bow to / I salute"
+      },
+      {
+        "s": "वदताम् वरम्",
+        "h": "बोलने वालों में श्रेष्ठ / सर्वोत्तम वक्ता",
+        "e": "the best among speakers"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>देशयामास</em> = √दिश् (दिशति — दिखाना/उपदेश देना) — लिट् लकार, परोक्ष भूत — 'उपदेश दिया।' <em>प्रपञ्चोपशमम्</em> = प्रपञ्च + उपशम — कर्मधारय समास — 'प्रपञ्च का शमन।' <em>प्रपञ्च</em> = प्र + √पञ्च् — 'फैलाना' — मानसिक निर्माण, वैचारिक जटिलता। <em>वदतां वरम्</em> = वदत् (बोलने वाले, षष्ठी बहुवचन) + वर (श्रेष्ठ) — 'वक्ताओं में सर्वश्रेष्ठ।' यह मंगलश्लोक बुद्ध के प्रति श्रद्धा-अर्पण और ग्रन्थ का विषय-कथन दोनों है।<br><em>Eng:</em> <em>deśayāmāsa</em> = √diś (liṭ) — 'taught.' <em>prapañcopaśamam</em> = prapañca + upaśama — 'the calming of elaboration.' <em>vadatāṁ varam</em> = 'the best of speakers.' This verse is both homage to the Buddha and the thesis statement of the entire work.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — 'प्रपञ्चोपशम' ही इस पूरे ग्रन्थ का लक्ष्य है। प्रपञ्च = मन के बनाए हुए भेद — 'यह है, वह नहीं है, यह ऐसा है, वह वैसा है।' जब प्रतीत्यसमुत्पाद सही समझ में आता है, तो ये सब भेद शान्त हो जाते हैं। बुद्ध ने यही सिखाया — और यही नागार्जुन सिखाएँगे।",
+        "en": "Candrakīrti says 'prapañcopaśama' is the goal of the entire treatise. Prapañca = mental fabrications — 'this exists, that doesn't, this is such, that is otherwise.' When dependent origination is truly understood, all these fabrications become calm. This is what the Buddha taught — and what Nāgārjuna will teach.",
+        "ins": "प्रपञ्च = मन का शोर। शून्यता = उस शोर का शान्त होना। बुद्ध ने शान्ति सिखाई, शून्य नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — नागार्जुन 'संबुद्ध' शब्द का प्रयोग करते हैं — सम्यक् + बुद्ध = जिन्होंने सही तरह से जाना। बुद्ध ने प्रतीत्यसमुत्पाद को जाना, और जानने के बाद दूसरों को सिखाया। 'वन्दे' = मैं नमन करता हूँ — यह केवल श्रद्धा नहीं, यह ज्ञान-परम्परा की स्वीकृति है।",
+        "en": "Buddhapālita says Nāgārjuna uses 'saṁbuddha' — sam + buddha = one who has known correctly. The Buddha knew dependent origination and then taught it to others. 'Vande' (I bow) is not mere devotion — it's acknowledging the lineage of wisdom.",
+        "ins": "'वन्दे' = मैं इस ज्ञान-परम्परा को स्वीकार करता हूँ। दर्शन श्रद्धा से शुरू होता है — अन्धविश्वास से नहीं, बल्कि ज्ञान के प्रति सम्मान से।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — 'शिवम्' शब्द महत्त्वपूर्ण है — प्रतीत्यसमुत्पाद कल्याणकारी है, भयावह नहीं। शून्यता सुनकर लोग डरते हैं कि 'कुछ नहीं है' — पर नागार्जुन कहते हैं यह 'शिव' (auspicious) है। शून्यता = दुःख का अन्त, क्योंकि दुःख स्वभाव-दृष्टि से आता है।",
+        "en": "Bhāviveka says the word 'śivam' is crucial — dependent origination is auspicious, not frightening. People fear hearing about śūnyatā, thinking 'nothing exists.' But Nāgārjuna says it's 'śiva' (auspicious). Śūnyatā = end of suffering, because suffering comes from the view of inherent existence.",
+        "ins": "शून्यता डरावनी नहीं, 'शिव' (कल्याणकारी) है — क्योंकि जब 'मेरा' स्वभाव ही नहीं, तो 'मेरा' दुःख भी नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🙏 नागार्जुन ग्रन्थ की शुरुआत बुद्ध-वन्दना से क्यों करते हैं?",
+        "a": "भारतीय दार्शनिक परम्परा में ग्रन्थ का आरम्भ <strong>मंगलाचरण</strong> से होता है — यह केवल औपचारिकता नहीं है। नागार्जुन स्पष्ट करते हैं कि वे <strong>कुछ नया नहीं कह रहे</strong> — बुद्ध ने जो सिखाया, उसी को तार्किक रूप से प्रस्तुत कर रहे हैं। '<strong>वदतां वरम्</strong>' = सबसे अच्छा बोलने वाला — बुद्ध इसलिए श्रेष्ठ वक्ता हैं क्योंकि उन्होंने <strong>प्रतीत्यसमुत्पाद</strong> सिखाया, जो सभी दार्शनिक भ्रमों को शान्त करता है।"
+      },
+      {
+        "q": "🌊 'प्रपञ्चोपशम' — विचारों का 'शान्त' होना क्या है?",
+        "a": "'<strong>प्रपञ्च</strong>' = मन द्वारा बनाए गए भेद और विस्तार — 'यह अलग है, वह अलग है, मैं अलग हूँ, दुनिया अलग है।' '<strong>उपशम</strong>' = शान्ति, थमना। जब प्रतीत्यसमुत्पाद सही तरह से समझ में आता है, तो मन की यह <strong>भेद-बुद्धि शान्त</strong> हो जाती है — चीज़ों को 'स्वतन्त्र, अलग-अलग, ठोस' मानने का भ्रम टूटता है। यह <strong>निर्वाण</strong> नहीं है (वह बाद में आता है) — यह निर्वाण की ओर पहला कदम है: सही दृष्टि (सम्यक् दृष्टि)।"
+      }
+    ]
+  }
+]

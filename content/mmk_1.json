@@ -1,0 +1,639 @@
+[
+  {
+    "id": 1,
+    "sk": "न स्वतो नापि परतो न द्वाभ्यां नाप्यहेतुतः ।\nउत्पन्ना जातु विद्यन्ते भावाः क्वचन केचन ॥",
+    "ro": "na · svato · nāpi · parato · na · dvābhyāṁ · nāpy · ahetutaḥ | utpannā · jātu · vidyante · bhāvāḥ · kvacana · kecana ||",
+    "hi": "कोई भी चीज़ कहीं भी कभी भी पैदा नहीं होती — न अपने आप से, न किसी दूसरे से, न दोनों से, और न ही बिना कारण के।",
+    "en": "No thing whatsoever arises anywhere — not from itself, not from another, not from both, and not without a cause.",
+    "ws": [
+      { "s": "स्वतः", "h": "अपने आप से / स्वयं से", "e": "from itself" },
+      { "s": "परतः", "h": "दूसरे से / किसी और से", "e": "from another" },
+      { "s": "द्वाभ्याम्", "h": "दोनों से", "e": "from both" },
+      { "s": "अहेतुतः", "h": "बिना हेतु (कारण) के", "e": "without a cause" },
+      { "s": "उत्पन्नाः", "h": "उत्पन्न / पैदा हुई", "e": "arisen / originated" },
+      { "s": "भावाः", "h": "वस्तुएँ / पदार्थ / अस्तित्व", "e": "things / entities / existents" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>स्वतः, परतः, अहेतुतः</em> — तसिल् प्रत्यय (पञ्चमी/अपादान अर्थ) — 'से।' <em>द्वाभ्याम्</em> = द्वि, तृतीया द्विवचन — 'दोनों से।' <em>विद्यन्ते</em> = √विद् (पाए जाना), आत्मनेपद, लट् — 'पाए जाते हैं।' <em>जातु</em> = 'कभी भी' (निषेधार्थक)। <em>क्वचन</em> = 'कहीं भी' (निषेधार्थक)। <em>केचन</em> = 'कोई भी' (निषेधार्थक)। यह <strong>चतुष्कोटि</strong> (tetralemma) — चार सम्भावनाओं का निषेध — नागार्जुन की मूल पद्धति है।<br><em>Eng:</em> The <em>catuṣkoṭi</em> (tetralemma) — negation of four possibilities. <em>jātu, kvacana, kecana</em> are emphatic indefinites used with <em>na</em> = 'never, nowhere, nothing.'",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह सम्पूर्ण MMK का बीज-श्लोक है। चार विकल्प हैं: (1) चीज़ अपने आप से पैदा हो — तो सांख्य का सत्कार्यवाद; (2) दूसरे से — तो वैभाषिक का असत्कार्यवाद; (3) दोनों से — तो जैन का अनेकान्तवाद; (4) बिना कारण — तो लोकायत का अहेतुवाद। चारों असम्भव हैं — क्योंकि कोई भी 'स्वभाव' नहीं है जो 'उत्पन्न' हो।",
+        "en": "Candrakīrti says this is the seed-verse of the entire MMK. Four options: (1) from self = Sāṁkhya's satkāryavāda; (2) from other = Vaibhāṣika's asatkāryavāda; (3) from both = Jain anekāntavāda; (4) causeless = Lokāyata's ahetuvāda. All four are impossible because there is no 'svabhāva' that could 'arise.'",
+        "ins": "चार दार्शनिक परम्पराएँ, चार उत्तर — और चारों गलत। नागार्जुन कहते हैं: समस्या उत्तर में नहीं, प्रश्न की पूर्वधारणा में है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — अगर चीज़ अपने आप से पैदा होती है, तो उसे पैदा होने की ज़रूरत ही नहीं — वह पहले से है। अगर दूसरे से, तो अंधेरे से आग पैदा हो सकती है — कुछ भी कहीं से भी आ सकता है। दोनों से — तो दोनों दोष एक साथ। और बिना कारण — तो कहीं भी कुछ भी कभी भी हो जाएगा। इसलिए 'उत्पत्ति' ही एक भ्रम है।",
+        "en": "Buddhapālita says — if something arises from itself, it doesn't need to arise — it's already there. From another? Then fire could come from darkness — anything from anywhere. From both? Both flaws combined. Without cause? Then anything happens anywhere anytime. Therefore 'arising' itself is an illusion.",
+        "ins": "सबसे सरल तर्क: अगर चीज़ पहले से है तो पैदा होने की ज़रूरत नहीं। अगर नहीं है तो पैदा कैसे होगी?"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह परमार्थ-स्तर का विश्लेषण है। व्यावहारिक रूप से बीज से अंकुर 'पैदा' होता है — यह संवृति सत्य है। पर अगर हम गहराई से पूछें: 'वास्तव में क्या पैदा हुआ?' — तो चार में से कोई भी उत्तर काम नहीं करता। यह स्वतन्त्र अनुमान से सिद्ध होता है।",
+        "en": "Bhāviveka says this is analysis at the ultimate level. Conventionally, a sprout does arise from a seed — that's conventional truth. But if we investigate deeply: 'what really arises?' — none of the four answers works. This is established through independent inference (svatantra-anumāna).",
+        "ins": "रोज़मर्रा में बीज से पौधा उगता है — कोई शक नहीं। पर 'वास्तव में' क्या हो रहा है? — यही MMK का सवाल है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 चतुष्कोटि — 'चार विकल्प और चारों गलत' — कैसे?",
+        "a": "नागार्जुन की <strong>चतुष्कोटि</strong> (tetralemma) पद्धति यह है: किसी भी प्रश्न के चार सम्भव उत्तर होते हैं — <strong>हाँ, नहीं, दोनों, कोई नहीं</strong>। यहाँ 'चीज़ कैसे पैदा होती है?' के चार उत्तर: (1) अपने से — पर तब वह पहले से है, पैदा होने का मतलब ही क्या? (2) दूसरे से — पर 'दूसरा' और 'यह' में सम्बन्ध कैसे? (3) दोनों से — दोनों दोषों का योग। (4) बिना कारण — तो सब कुछ अराजक। <strong>चारों गलत हैं</strong> — क्योंकि ये सब 'स्वभाव' मानकर चलते हैं।"
+      },
+      {
+        "q": "🌱 तो फिर बीज से पौधा कैसे उगता है?",
+        "a": "नागार्जुन यह <strong>नहीं</strong> कह रहे कि बीज से पौधा नहीं उगता — वे कह रहे हैं कि '<strong>उगना</strong>' (उत्पत्ति) को 'अपने आप से' या 'दूसरे से' के रूप में समझना गलत है। बीज और पौधा न एक हैं (बीज ≠ पौधा), न पूरी तरह अलग (बिना बीज पौधा नहीं)। वे <strong>प्रतीत्यसमुत्पन्न</strong> हैं — परस्पर निर्भर, बिना किसी 'ठोस स्वभाव' के। यह '<strong>मध्यम मार्ग</strong>' है — न शाश्वतवाद (बीज = पौधा), न उच्छेदवाद (बीज से पौधे का कोई सम्बन्ध नहीं)।"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sk": "चत्वारः प्रत्ययाः हेतुरालम्बनमनन्तरम् ।\nतथैवाधिपतेयं च प्रत्ययो नास्ति पञ्चमः ॥",
+    "ro": "catvāraḥ · pratyayāḥ · hetur · ālambanam · anantaram | tathaivādhipateyaṁ · ca · pratyayo · nāsti · pañcamaḥ ||",
+    "hi": "चार प्रत्यय माने जाते हैं — हेतु, आलम्बन, समनन्तर और अधिपति। इनके अलावा कोई पाँचवाँ प्रत्यय नहीं है।",
+    "en": "Four conditions are recognized — the efficient cause, the object-support, the immediately preceding, and the dominant. There is no fifth condition.",
+    "ws": [
+      { "s": "चत्वारः", "h": "चार", "e": "four" },
+      { "s": "प्रत्ययाः", "h": "प्रत्यय / कारण-परिस्थितियाँ", "e": "conditions" },
+      { "s": "हेतुः", "h": "मुख्य कारण / बीज-कारण", "e": "efficient cause / primary cause" },
+      { "s": "आलम्बनम्", "h": "आश्रय / विषय-आधार", "e": "object-support" },
+      { "s": "अनन्तरम्", "h": "ठीक पहले वाला / समनन्तर", "e": "immediately preceding" },
+      { "s": "अधिपतेयम्", "h": "प्रमुख / अधिष्ठाता कारण", "e": "dominant condition" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>चत्वारः</em> = चतुर्, प्रथमा बहुवचन — 'चार।' <em>हेतुः</em> = √हि (प्रेरित करना) — 'कारण/प्रेरक।' <em>आलम्बनम्</em> = आ + √लम्ब् (लटकना/आश्रित होना) — 'जिस पर आश्रित हो / विषय।' <em>अनन्तरम्</em> = अन् + अन्तर — 'बिना अन्तराल के / ठीक पहले का।' <em>अधिपतेयम्</em> = अधिपति + ठक् (ष्यञ्) — 'अधिपत्य सम्बन्धी / प्रमुख कारण।' यह अभिधर्म का मानक वर्गीकरण है — नागार्जुन पहले प्रतिपक्ष का पक्ष प्रस्तुत करते हैं, फिर उसकी परीक्षा करते हैं।<br><em>Eng:</em> Standard Abhidharma classification of four pratyayas. Nāgārjuna first presents the opponent's thesis, then examines it.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — नागार्जुन यहाँ अभिधर्म के मानक सिद्धान्त को प्रस्तुत करते हैं। बौद्ध दर्शन में चार प्रत्यय माने जाते हैं: (1) हेतु — मुख्य कारण, जैसे बीज; (2) आलम्बन — विषय, जैसे आँख के लिए रूप; (3) समनन्तर — ठीक पहले की मानसिक अवस्था; (4) अधिपति — बाकी सब सहायक कारण। नागार्जुन इन्हें नकारेंगे नहीं, बल्कि दिखाएँगे कि ये 'स्वभाव' से काम नहीं करतीं।",
+        "en": "Candrakīrti says Nāgārjuna presents the standard Abhidharma doctrine. Four conditions: (1) hetu — primary cause, like a seed; (2) ālambana — object, like a visual form for the eye; (3) samanantara — immediately preceding mental state; (4) adhipati — all other supporting conditions. Nāgārjuna won't deny these, but will show they don't work through 'svabhāva.'",
+        "ins": "नागार्जुन प्रत्ययों को नकारते नहीं — वे दिखाते हैं कि 'कारणता' खुद को ठीक से समझाने में असमर्थ है, अगर हम 'स्वभाव' माने बैठें।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'प्रत्ययो नास्ति पञ्चमः' — पाँचवाँ प्रत्यय नहीं है। इसका अर्थ है कि अगर इन चार से 'उत्पत्ति' नहीं सिद्ध होती, तो कोई और रास्ता भी नहीं बचता। यह 'पूर्णता का दावा' है — इन चार में ही सारी कारणता समा जानी चाहिए। अगर ये चार भी काम नहीं करतीं, तो कारणता ही सिद्ध नहीं हो पाती।",
+        "en": "Buddhapālita says 'no fifth condition' means if arising isn't established through these four, there's no escape route either. This is a claim of exhaustiveness — all causality must fit within these four. If even these four fail, causality itself is unestablished.",
+        "ins": "'पाँचवाँ नहीं' = और कोई रास्ता नहीं। चार में से कोई काम नहीं करता, और पाँचवाँ है नहीं — तो 'स्वभाव से उत्पत्ति' असम्भव।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — ये चार प्रत्यय व्यावहारिक स्तर पर मान्य हैं। बीज, मिट्टी, पानी, धूप — इनसे पौधा उगता है — यह संवृति सत्य है। नागार्जुन का लक्ष्य यह दिखाना है कि ये परमार्थ स्तर पर 'स्वभावतः' काम नहीं करतीं — पर व्यावहारिक उपयोगिता बनी रहती है।",
+        "en": "Bhāviveka says these four conditions are valid at the conventional level. Seed, soil, water, sunlight — these produce a plant — that's conventional truth. Nāgārjuna's aim is to show these don't work 'svabhāvataḥ' (inherently) at the ultimate level — but conventional utility remains.",
+        "ins": "व्यावहारिक में कारणता काम करती है — पर 'सच में' क्या हो रहा है? — यही माध्यमक का प्रश्न।"
+      }
+    },
+    "dp": [
+      {
+        "q": "📋 चार प्रत्यय क्या हैं — सरल भाषा में?",
+        "a": "बौद्ध अभिधर्म में हर घटना के <strong>चार प्रकार के कारण</strong> माने जाते हैं: (1) <strong>हेतु-प्रत्यय</strong> — मुख्य कारण, जैसे बीज पौधे का मुख्य कारण है; (2) <strong>आलम्बन-प्रत्यय</strong> — विषय-आधार, जैसे आँख को देखने के लिए कोई 'रूप' (चीज़) चाहिए; (3) <strong>समनन्तर-प्रत्यय</strong> — ठीक पहले की मानसिक अवस्था, जैसे एक विचार के बाद दूसरा आता है; (4) <strong>अधिपति-प्रत्यय</strong> — बाकी सब सहायक, जैसे पौधे के लिए मिट्टी-पानी-धूप। नागार्जुन कहते हैं: <strong>और कोई पाँचवाँ नहीं</strong> — बस यही चार।"
+      },
+      {
+        "q": "🤔 नागार्जुन ये चार प्रत्यय क्यों गिनाते हैं?",
+        "a": "यह <strong>पूर्वपक्ष</strong> (opponent's position) है — नागार्जुन पहले <strong>प्रतिपक्ष का तर्क</strong> पूरी ईमानदारी से प्रस्तुत करते हैं, फिर उसकी परीक्षा करते हैं। यह भारतीय दर्शन की शैली है: पहले सामने वाले की बात कहो, फिर उसकी जाँच करो। अभिधर्मिक कहते हैं: 'ये चार प्रत्यय हैं, इनसे सब कुछ पैदा होता है।' नागार्जुन आगे के श्लोकों में दिखाएँगे कि ये चारों '<strong>स्वभाव</strong>' (inherent existence) मानकर चलें तो <strong>काम नहीं करतीं</strong>।"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sk": "न हि स्वभावो भावानां प्रत्ययादिषु विद्यते ।\nअविद्यमाने स्वभावे परभावो न विद्यते ॥",
+    "ro": "na · hi · svabhāvo · bhāvānāṁ · pratyayādiṣu · vidyate | avidyamāne · svabhāve · parabhāvo · na · vidyate ||",
+    "hi": "वस्तुओं का अपना स्वभाव उनके प्रत्ययों में नहीं मिलता। और जब स्वभाव ही नहीं, तो दूसरे का स्वभाव भी नहीं मिल सकता।",
+    "en": "The inherent nature of things is not found in their conditions. When inherent nature is absent, other-nature too cannot exist.",
+    "ws": [
+      { "s": "स्वभावः", "h": "अपना स्वरूप / निजी अस्तित्व", "e": "inherent nature / own-being" },
+      { "s": "भावानाम्", "h": "वस्तुओं का / पदार्थों का", "e": "of things / entities" },
+      { "s": "प्रत्ययादिषु", "h": "प्रत्ययों आदि में", "e": "in conditions and so on" },
+      { "s": "अविद्यमाने", "h": "न होने पर / अनुपस्थित होने पर", "e": "being absent" },
+      { "s": "परभावः", "h": "दूसरे का स्वरूप / अन्य-स्वभाव", "e": "other-nature / nature dependent on another" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>स्वभावः</em> = स्व + भाव — 'अपना अस्तित्व / निजी स्वरूप' — MMK का केन्द्रीय शब्द। <em>परभावः</em> = पर + भाव — 'दूसरे का स्वरूप / अन्य-निर्भर अस्तित्व।' <em>अविद्यमाने</em> = अ + विद्यमान (√विद्, शानच्) + सप्तमी — 'उपस्थित न होने पर।' तर्क: यदि A का स्वभाव A में ही नहीं, तो B का 'परभाव' (A-निर्भर अस्तित्व) भी नहीं — क्योंकि 'पर' (other) की पहचान 'स्व' (self) के सापेक्ष ही होती है।<br><em>Eng:</em> <em>svabhāva</em> = sva + bhāva — 'own-being/inherent nature' — the central term of MMK. <em>parabhāva</em> = para + bhāva — 'other-nature.' If A's own-nature isn't in A, then B's 'other-nature' (identity relative to A) can't exist either — 'other' is defined only relative to 'self.'",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक MMK का दार्शनिक आधार है। अगर कार्य का 'स्वभाव' उसके कारणों में पहले से मौजूद है — तो वह पहले से है, उत्पत्ति अर्थहीन है। अगर मौजूद नहीं है — तो 'कुछ नहीं' में से 'कुछ' कैसे आएगा? और अगर स्वभाव ही नहीं, तो 'परभाव' (दूसरे से अलग होना) भी नहीं — क्योंकि 'दूसरा' तभी है जब 'अपना' हो।",
+        "en": "Candrakīrti says this is the philosophical foundation of MMK. If the effect's 'svabhāva' already exists in its conditions — it already exists, arising is meaningless. If it doesn't exist — how can something come from nothing? And if there's no svabhāva, there's no parabhāva either — because 'other' exists only relative to 'self.'",
+        "ins": "'अपना' नहीं है तो 'दूसरे का' भी नहीं है — जैसे बिना 'दाएँ' के 'बाएँ' का कोई अर्थ नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — प्रत्ययों में कार्य का स्वभाव खोजो: बीज में पौधे का 'पौधापन' कहाँ है? मिट्टी में? पानी में? किसी में भी नहीं। और अगर 'पौधापन' बीज में नहीं, तो 'बीज-पन' भी खोखला है — क्योंकि बीज तभी 'बीज' है जब पौधा सम्भव हो। दोनों एक-दूसरे पर निर्भर हैं — कोई स्वतन्त्र नहीं।",
+        "en": "Buddhapālita asks: search for the effect's nature in the conditions — where is the 'plant-ness' in the seed? In the soil? In the water? Nowhere. And if 'plant-ness' isn't in the seed, then 'seed-ness' is also hollow — because a seed is a 'seed' only if a plant is possible. Both depend on each other — neither is independent.",
+        "ins": "बीज में 'पौधा' खोजो — नहीं मिलेगा। पौधे में 'बीज' खोजो — नहीं मिलेगा। दोनों एक-दूसरे के बिना अधूरे हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह तर्क स्वतन्त्र अनुमान के रूप में प्रस्तुत किया जा सकता है: 'भाव परमार्थतः प्रत्ययों से उत्पन्न नहीं होते — क्योंकि उनका स्वभाव प्रत्ययों में विद्यमान नहीं है।' यह परमार्थ-स्तरीय विश्लेषण है — व्यावहारिक स्तर पर प्रत्ययों की उपयोगिता अक्षुण्ण है।",
+        "en": "Bhāviveka says this argument can be stated as an independent inference: 'Things do not arise from conditions ultimately — because their svabhāva is not found in the conditions.' This is ultimate-level analysis — conventional utility of conditions remains intact.",
+        "ins": "भाववेक हमेशा कहते हैं: 'परमार्थतः' (ultimately) — इसे जोड़ना ज़रूरी है, नहीं तो लगता है कि कारणता ही नकारी जा रही है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔍 'स्वभाव' क्या है — और यह इतना महत्त्वपूर्ण क्यों?",
+        "a": "'<strong>स्वभाव</strong>' (svabhāva) = किसी चीज़ का <strong>अपना, निजी, स्वतन्त्र अस्तित्व</strong> — वह गुण जो उसे 'वह' बनाता है, जो किसी और चीज़ पर निर्भर नहीं। जैसे हम मानते हैं कि पानी का 'स्वभाव' गीलापन है — यह पानी का अपना गुण है। नागार्जुन कहते हैं: <strong>ऐसा कोई स्वभाव कहीं नहीं है</strong>। हर चीज़ दूसरी चीज़ों पर निर्भर है। पानी का गीलापन भी तापमान, दबाव, अणु-संरचना पर निर्भर है — कोई 'अपना' गुण नहीं। <strong>स्वभाव-शून्यता ही शून्यता है</strong>।"
+      },
+      {
+        "q": "🪞 'परभाव' स्वभाव पर क्यों निर्भर है?",
+        "a": "'<strong>परभाव</strong>' = दूसरे का स्वरूप, दूसरे के सापेक्ष पहचान। अगर A का अपना स्वभाव नहीं, तो B को A से '<strong>अलग</strong>' कहने का कोई आधार नहीं — क्योंकि '<strong>अलग</strong>' तभी सार्थक है जब '<strong>अपना</strong>' पहले स्पष्ट हो। उदाहरण: 'लम्बा' तभी है जब 'छोटा' हो। अगर 'छोटा' ही निश्चित नहीं, तो 'लम्बा' भी अनिश्चित। <strong>सभी पहचान सापेक्ष (relative) हैं</strong> — कोई भी निरपेक्ष (absolute) नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sk": "क्रिया न प्रत्ययवती नाप्रत्ययवती क्रिया ।\nप्रत्ययो नाक्रियावांश्च नाक्रियावन्त एव च ॥",
+    "ro": "kriyā · na · pratyayavatī · nāpratyayavatī · kriyā | pratyayo · nākriyāvāṁś · ca · nākriyāvanta · eva · ca ||",
+    "hi": "कारण-शक्ति प्रत्ययों के पास नहीं है, और बिना प्रत्ययों के भी कारण-शक्ति नहीं होती। प्रत्ययों में न कारण-शक्ति है, और न ही वे कारण-शक्ति से रहित हैं।",
+    "en": "Causal activity does not belong to conditions, nor is there activity without conditions. Conditions neither possess causal power nor are they devoid of it.",
+    "ws": [
+      { "s": "क्रिया", "h": "कारण-शक्ति / कार्य-क्षमता / क्रिया", "e": "causal activity / causal power" },
+      { "s": "प्रत्ययवती", "h": "प्रत्ययों वाली / प्रत्यय-युक्त", "e": "possessing conditions" },
+      { "s": "अक्रियावान्", "h": "क्रिया-रहित / कारण-शक्ति-रहित", "e": "without causal activity" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रत्ययवती</em> = प्रत्यय + मतुप् (स्त्रीलिंग) — 'प्रत्ययों से युक्त।' <em>अक्रियावान्</em> = अ + क्रिया + मतुप् — 'क्रिया-रहित।' यह चतुष्कोटि फिर: (1) क्रिया प्रत्ययवती नहीं, (2) क्रिया अप्रत्ययवती नहीं, (3) प्रत्यय अक्रियावान् नहीं, (4) प्रत्यय साक्रिय भी नहीं।<br><em>Eng:</em> Another tetralemma on kriyā (causal efficacy) and pratyaya.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — अगर प्रत्ययों में 'कारण-शक्ति' है, तो वह कहाँ है? बीज को तोड़कर देखो — 'पौधा बनाने की शक्ति' कहाँ दिखती है? और अगर शक्ति नहीं है, तो ये प्रत्यय कैसे? यह दिखाता है कि 'कारण-शक्ति' कोई वस्तु नहीं जो प्रत्ययों में 'रखी' हो।",
+        "en": "Candrakīrti asks: if conditions have 'causal power,' where is it? Break open a seed — where is the 'power to create a plant'? But if there's no power, how are these conditions? This shows 'causal power' isn't a thing 'contained' in conditions.",
+        "ins": "बीज में 'शक्ति' खोजो — नहीं मिलेगी। पर बीज के बिना पौधा भी नहीं। 'शक्ति' कोई वस्तु नहीं, एक सम्बन्ध है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — चारों विकल्प असम्भव हैं। अगर क्रिया प्रत्ययों में है — तो प्रत्यय पहले से 'कर रहे' हैं, कार्य अलग क्यों? अगर नहीं है — तो ये प्रत्यय ही नहीं। अगर प्रत्ययों में क्रिया नहीं — तो ये निष्क्रिय हैं, प्रत्यय कैसे? अगर है — तो ऊपर वाला दोष।",
+        "en": "Buddhapālita says all four options fail. If activity is in conditions — conditions are already 'acting,' why a separate effect? If not — these aren't conditions. If conditions lack activity — they're inert, how can they be conditions? If they have it — the first flaw recurs.",
+        "ins": "हर विकल्प गोल-गोल घूमता है — यही नागार्जुन का तरीका: दिखाना कि सब विकल्प अपने ही भीतर विरोधाभासी हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — परमार्थ में 'कारण-शक्ति' नामक कोई स्वतन्त्र गुण नहीं है। व्यावहारिक स्तर पर हम कहते हैं 'बीज में शक्ति है' — यह सुविधा की भाषा है, परमार्थ सत्य नहीं।",
+        "en": "Bhāviveka says ultimately there's no independent property called 'causal power.' Conventionally we say 'the seed has power' — that's convenient language, not ultimate truth.",
+        "ins": "'शक्ति' शब्द सुविधा है, तथ्य नहीं — जैसे 'सूर्योदय' कहते हैं पर सूर्य 'उदय' नहीं होता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⚡ 'कारण-शक्ति' अगर प्रत्ययों में नहीं, तो कहाँ है?",
+        "a": "यही नागार्जुन का मूल प्रश्न है: <strong>'कारण-शक्ति' कोई वस्तु नहीं है</strong> जो कहीं 'रखी' हो। बीज में 'पौधा बनाने की शक्ति' कोई चीज़ नहीं जो माइक्रोस्कोप से दिखे। '<strong>शक्ति</strong>' एक <strong>सम्बन्ध</strong> है — बीज, मिट्टी, पानी, धूप, समय — सब मिलकर 'शक्ति' बनाते हैं। अकेले किसी में 'शक्ति' नहीं। यही <strong>प्रतीत्यसमुत्पाद</strong> है — शक्ति किसी एक में नहीं, सम्बन्धों के <strong>जाल</strong> में है।"
+      },
+      {
+        "q": "🔄 यह तर्क रोज़मर्रा की ज़िन्दगी को कैसे प्रभावित करता है?",
+        "a": "हम रोज़ कहते हैं: '<strong>उसने</strong> मुझे गुस्सा दिलाया' — मानो 'गुस्सा दिलाने की शक्ति' उस व्यक्ति <strong>में</strong> है। पर नागार्जुन दिखाते हैं: गुस्सा न उस व्यक्ति 'में' है, न मुझ 'में' — यह <strong>कई कारणों का संयोग</strong> है (उसके शब्द + मेरी पूर्वधारणा + मेरी थकान + परिस्थिति)। जब हम '<strong>शक्ति किसी एक में नहीं</strong>' समझते हैं, तो <strong>दोषारोपण</strong> (blame) कम होता है और <strong>सम्पूर्ण तस्वीर</strong> दिखती है।"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sk": "उत्पद्यते प्रतीत्येमानिति एते प्रत्ययाः किल ।\nयावन्नोत्पद्यत इदं तावन्नाप्रत्ययाः कथम् ॥",
+    "ro": "utpadyate · pratītyemān · iti · ete · pratyayāḥ · kila | yāvan · notpadyata · idaṁ · tāvan · nāpratyayāḥ · katham ||",
+    "hi": "'इन पर निर्भर होकर यह पैदा होता है — इसलिए ये प्रत्यय हैं' — ऐसा कहा जाता है। पर जब तक यह पैदा ही नहीं हुआ, तब तक ये 'अप्रत्यय' क्यों नहीं?",
+    "en": "'Something arises depending on these — therefore these are conditions' — so it is claimed. But as long as this hasn't arisen, why aren't these non-conditions?",
+    "ws": [
+      { "s": "उत्पद्यते", "h": "पैदा होता है / उत्पन्न होता है", "e": "arises" },
+      { "s": "प्रतीत्य", "h": "निर्भर होकर / आश्रित होकर", "e": "depending on" },
+      { "s": "इमान्", "h": "इन (को/से)", "e": "these" },
+      { "s": "किल", "h": "कहा जाता है / माना जाता है", "e": "so it is said / allegedly" },
+      { "s": "अप्रत्ययाः", "h": "गैर-प्रत्यय / कारण नहीं", "e": "non-conditions" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रतीत्य</em> = प्रति + √इ (जाना) — ल्यप् (gerund) — 'निर्भर होकर / पहुँचकर' — यही शब्द 'प्रतीत्यसमुत्पाद' में भी है। <em>किल</em> = 'ऐसा कहा जाता है' — यह शब्द दूसरे के मत को उद्धृत करता है (ironic quotation)। <em>अप्रत्ययाः</em> = अ + प्रत्यय — 'गैर-प्रत्यय / वे जो कारण नहीं हैं।' तर्क: 'प्रत्यय' की परिभाषा कार्य पर निर्भर है — कार्य के बिना प्रत्यय की पहचान ही नहीं।<br><em>Eng:</em> <em>pratītya</em> = gerund of prati + √i — 'having depended on' — the same word in 'pratītyasamutpāda.' <em>kila</em> = 'allegedly' — marks the opponent's claim.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह एक चक्रीय तर्क (circular reasoning) उजागर करता है। 'ये प्रत्यय हैं क्योंकि इनसे कार्य पैदा होता है' — पर कार्य अभी पैदा हुआ ही नहीं! तो इन्हें प्रत्यय कहने का आधार क्या? बीज को 'कारण' तभी कहते हैं जब पौधा उगे — पर पौधा उगने से पहले बीज 'कारण' है ही नहीं।",
+        "en": "Candrakīrti says this exposes circular reasoning. 'These are conditions because an effect arises from them' — but the effect hasn't arisen yet! So what basis is there to call these conditions? A seed is called a 'cause' only when a plant grows — before that, the seed is not yet a 'cause.'",
+        "ins": "कारण-कार्य एक-दूसरे को परिभाषित करते हैं — कोई पहले नहीं, कोई बाद नहीं। दोनों एक साथ हैं — या कोई नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'किल' शब्द पर ध्यान दो — नागार्जुन व्यंग्य से कह रहे हैं: 'ऐसा माना जाता है।' यह बताता है कि प्रत्यय की परिभाषा ही दोषपूर्ण है — कार्य को प्रत्ययों से समझाते हो, पर प्रत्ययों को कार्य से परिभाषित करते हो। यह मुर्गी-अण्डा समस्या है।",
+        "en": "Buddhapālita notes the word 'kila' (allegedly) — Nāgārjuna is being ironic. The definition of 'condition' is flawed — you explain the effect through conditions, but define conditions through the effect. It's the chicken-and-egg problem.",
+        "ins": "'किल' = 'ऐसा तो कहते हैं' — एक शब्द में पूरे तर्क पर प्रश्नचिह्न। नागार्जुन की भाषा में व्यंग्य भी दर्शन है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — परमार्थ में 'प्रत्यय' और 'अप्रत्यय' का भेद टिकता नहीं — क्योंकि दोनों एक-दूसरे पर निर्भर हैं। व्यावहारिक स्तर पर 'यह बीज है, यह प्रत्यय है' — ठीक है। पर अगर गहराई से पूछो: 'कब बीज प्रत्यय बना?' — तो कोई स्पष्ट क्षण नहीं मिलता।",
+        "en": "Bhāviveka says ultimately the distinction between 'condition' and 'non-condition' doesn't hold — both depend on each other. Conventionally 'this is a seed, this is a condition' — fine. But ask deeply: 'when did the seed become a condition?' — no clear moment can be found.",
+        "ins": "कब बीज 'कारण' बना? — बोने से पहले? बोने के बाद? उगने पर? कोई स्पष्ट क्षण नहीं — 'कारणता' एक प्रक्रिया है, एक क्षण नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🥚 मुर्गी-अण्डा समस्या — कारण पहले या कार्य?",
+        "a": "नागार्जुन दिखाते हैं: <strong>कारण और कार्य एक-दूसरे को परिभाषित करते हैं</strong>। बीज 'कारण' तभी है जब पौधा 'कार्य' हो। पर पौधा अभी है ही नहीं — तो बीज अभी 'कारण' भी नहीं। और जब पौधा आ गया, तो बीज रहा ही नहीं। तो <strong>'कारण' कब 'कारण' था?</strong> — न पहले (क्योंकि कार्य नहीं था), न बाद में (क्योंकि कारण नहीं रहा), न साथ-साथ (क्योंकि कारण का काम ही 'कार्य से पहले' होना है)। यह <strong>स्वभाव-दृष्टि</strong> की असम्भवता का प्रमाण है।"
+      },
+      {
+        "q": "💬 'किल' — यह एक शब्द इतना महत्त्वपूर्ण क्यों?",
+        "a": "'<strong>किल</strong>' = 'ऐसा कहा जाता है / माना जाता है।' नागार्जुन इस शब्द से बताते हैं कि वे प्रतिपक्ष का मत <strong>उद्धृत</strong> कर रहे हैं, स्वीकार नहीं। यह सूक्ष्म <strong>व्यंग्य</strong> है — 'लोग कहते हैं कि ये प्रत्यय हैं... पर ज़रा सोचो तो!' संस्कृत दर्शन में एक शब्द पूरी दिशा बदल देता है — '<strong>किल</strong>' = 'मैं नहीं मान रहा, तुम मान रहे हो।'"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sk": "नासतो नापि सतश्च प्रत्ययोऽर्थो हि युज्यते ।\nअसतः प्रत्ययः कस्य सतश्च प्रत्ययेन किम् ॥",
+    "ro": "nāsato · nāpi · sataś · ca · pratyayo · 'rtho · hi · yujyate | asataḥ · pratyayaḥ · kasya · sataś · ca · pratyayena · kim ||",
+    "hi": "न जो है उसके लिए 'प्रत्यय' सम्भव है, न जो नहीं है उसके लिए। जो है ही नहीं, उसका प्रत्यय किसके लिए? और जो पहले से है, उसे प्रत्यय की ज़रूरत ही क्या?",
+    "en": "The concept of 'condition' fits neither the existent nor the non-existent. What would be a condition for something non-existent? And what need does the already-existent have for a condition?",
+    "ws": [
+      { "s": "असतः", "h": "जो नहीं है / अविद्यमान का", "e": "of the non-existent" },
+      { "s": "सतः", "h": "जो है / विद्यमान का", "e": "of the existent" },
+      { "s": "अर्थः", "h": "अर्थ / प्रयोजन / तात्पर्य", "e": "meaning / purpose" },
+      { "s": "युज्यते", "h": "सम्भव है / उचित है", "e": "is appropriate / fits" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>असतः</em> = अ + सत् (√अस्, शतृ, षष्ठी) — 'अविद्यमान का।' <em>सतः</em> = सत् (षष्ठी) — 'विद्यमान का।' <em>युज्यते</em> = √युज् (जुड़ना/उचित होना, कर्मणि) — 'उचित है / सम्भव है।' यह <strong>सत्-असत् द्वैध</strong> (existent-nonexistent dilemma) है — कार्य के बारे में दो ही विकल्प हैं: या तो वह पहले से 'है', या 'नहीं है' — दोनों स्थितियों में प्रत्यय अर्थहीन।<br><em>Eng:</em> The sat-asat dilemma. If the effect already exists, it doesn't need a condition. If it doesn't exist, nothing can serve as its condition.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह सबसे सीधा तर्क है। अगर पौधा पहले से 'है' (बीज में) — तो बीज 'कारण' किस बात का? कुछ नया हुआ ही नहीं। अगर पौधा पहले 'नहीं है' — तो 'कुछ नहीं' को बीज 'कारण' कैसे देगा? 'कुछ नहीं' का कारण नहीं होता। दोनों तरफ़ से कारणता फँसती है।",
+        "en": "Candrakīrti says this is the most direct argument. If the plant already 'exists' in the seed — the seed is a 'cause' of what? Nothing new happened. If the plant 'doesn't exist' beforehand — how can a seed be the cause of 'nothing'? You can't cause nothingness. Causality is trapped either way.",
+        "ins": "जो है — उसे बनाने की ज़रूरत नहीं। जो नहीं है — उसे बनाना असम्भव। तो 'बनाना' (उत्पत्ति) ही एक भ्रम है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — रोज़मर्रा का उदाहरण: 'मैंने चाय बनाई।' पर चाय बनाने से पहले चाय कहाँ थी? 'नहीं थी' — तो 'कुछ नहीं' को 'बनाया'? या 'थी' — तो बनाने की ज़रूरत क्या? यह दिखाता है कि 'बनाना' शब्द व्यावहारिक है — गहराई में यह वैसा नहीं जैसा लगता है।",
+        "en": "Buddhapālita gives an everyday example: 'I made tea.' But where was the tea before you made it? 'It wasn't' — so you 'made' nothing? Or 'it was' — then why make it? This shows 'making' is a conventional word — deeply, things aren't as they seem.",
+        "ins": "'बनाना' = न कुछ नहीं से कुछ, न कुछ से कुछ — बल्कि शर्तों के बदलने से अनुभव का बदलना।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह सत्कार्यवाद (सांख्य) और असत्कार्यवाद (न्याय-वैशेषिक) दोनों का खण्डन है। परमार्थ में कार्य न 'सत्' है न 'असत्' — दोनों स्वभाव-दृष्टि हैं। व्यावहारिक रूप से चाय 'बनती' है — यह ठीक है, पर यह अन्तिम सत्य नहीं।",
+        "en": "Bhāviveka says this refutes both satkāryavāda (Sāṁkhya — effect pre-exists in cause) and asatkāryavāda (Nyāya — effect doesn't pre-exist). Ultimately the effect is neither 'existent' nor 'non-existent' — both are svabhāva-views.",
+        "ins": "सत्कार्यवाद: पौधा बीज में 'है' — नागार्जुन: तो पैदा होने का मतलब क्या? असत्कार्यवाद: नहीं 'है' — नागार्जुन: तो पैदा कैसे होगा?"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 अगर न 'है' काम करता है, न 'नहीं है' — तो सही उत्तर क्या?",
+        "a": "नागार्जुन का उत्तर: <strong>प्रश्न ही गलत है</strong>। 'कार्य पहले से है या नहीं?' — यह प्रश्न 'स्वभाव' (ठोस, स्वतन्त्र अस्तित्व) मानकर चलता है। पर चीज़ें <strong>न 'हैं' न 'नहीं हैं'</strong> — वे <strong>प्रतीत्यसमुत्पन्न</strong> हैं। बीज से पौधा — यह 'है/नहीं' का सवाल नहीं, <strong>प्रक्रिया</strong> (process) है। शून्यता = 'है/नहीं' से परे — <strong>निरन्तर बदलती, परस्पर निर्भर प्रक्रिया</strong>।"
+      },
+      {
+        "q": "🔬 क्या आधुनिक विज्ञान में भी ऐसा कुछ दिखता है?",
+        "a": "हाँ — <strong>क्वांटम भौतिकी</strong> में कण (particle) 'है' या 'नहीं है' — यह स्पष्ट नहीं होता जब तक मापन (observation) न हो। कण <strong>सम्भावना-तरंग</strong> (probability wave) के रूप में 'है' — न पूरी तरह 'सत्', न 'असत्'। नागार्जुन 1800 साल पहले कह रहे थे: '<strong>है/नहीं</strong>' का द्वन्द्व वास्तविकता पर लागू नहीं होता। पर ध्यान रहे — यह समानता (analogy) है, समीकरण (equation) नहीं। नागार्जुन भौतिक विज्ञान नहीं कर रहे, दार्शनिक विश्लेषण कर रहे हैं।"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sk": "न सन्नासन्न सदसद्धर्मो निर्वर्तते यदा ।\nकथं निर्वर्तको हेतुरेवं सति हि युज्यते ॥",
+    "ro": "na · san · nāsan · na · sadasad · dharmo · nirvartate · yadā | kathaṁ · nirvartako · hetur · evaṁ · sati · hi · yujyate ||",
+    "hi": "जब कोई धर्म न 'है' के रूप में, न 'नहीं है' के रूप में, और न 'है-भी-और-नहीं-भी' के रूप में उत्पन्न होता है — तब 'उत्पन्न करने वाला कारण' कैसे सम्भव हो सकता है?",
+    "en": "When a thing is established neither as existent, nor as non-existent, nor as both existent and non-existent — how can a 'producing cause' be possible in such a case?",
+    "ws": [
+      { "s": "सन्", "h": "विद्यमान / जो है", "e": "existent" },
+      { "s": "असन्", "h": "अविद्यमान / जो नहीं है", "e": "non-existent" },
+      { "s": "सदसत्", "h": "सत् और असत् दोनों", "e": "both existent and non-existent" },
+      { "s": "निर्वर्तते", "h": "उत्पन्न होता है / निष्पन्न होता है", "e": "is produced / comes into being" },
+      { "s": "निर्वर्तकः", "h": "उत्पन्न करने वाला / निर्माता", "e": "producer / that which brings about" },
+      { "s": "हेतुः", "h": "कारण", "e": "cause" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>निर्वर्तते</em> = निर् + √वृत् (होना/बनना, आत्मनेपद) — 'उत्पन्न होना / पूर्ण होना।' <em>निर्वर्तकः</em> = निर् + √वृत् + णिच् + ण्वुल् — 'उत्पन्न करने वाला।' <em>एवं सति</em> = 'ऐसी स्थिति में।' यह 1.6 का विस्तार है — अब तीसरा विकल्प (सदसत्) भी नकारा: न सत्, न असत्, न दोनों — तो हेतु 'किसका' हेतु?<br><em>Eng:</em> Extension of 1.6 — the third option (both sat and asat) is also negated. If the dharma is none of the three, what is the hetu a hetu OF?",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — 1.6 में 'सत्' और 'असत्' को नकारा। अब तीसरा विकल्प — 'दोनों' — भी असम्भव: अगर कार्य 'सत्' भी है और 'असत्' भी — तो यह विरोधाभास (contradiction) है। एक ही चीज़ एक ही समय 'है' भी और 'नहीं' भी — असम्भव। तीनों विकल्प गिरे — अब 'निर्वर्तक हेतु' (producing cause) की संकल्पना ही ढह जाती है।",
+        "en": "Candrakīrti says 1.6 negated 'existent' and 'non-existent.' Now the third option — 'both' — is also impossible: if the effect is both existent and non-existent, that's a contradiction. Something can't both be and not-be simultaneously. All three options fail — the concept of 'producing cause' collapses.",
+        "ins": "तीन विकल्प — सत्, असत्, सदसत् — सब गिरे। कारण 'किसको' बनाएगा जब 'किसी' का अस्तित्व ही अनिश्चित?"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह जैन 'अनेकान्तवाद' का खण्डन भी है। जैन कहते हैं: 'किसी दृष्टिकोण से है, किसी से नहीं।' नागार्जुन: पर 'है-भी-और-नहीं-भी' — यह आत्मविरोधी है। एक ही वस्तु के बारे में 'है' और 'नहीं' साथ कहना तर्क-विरुद्ध है।",
+        "en": "Buddhapālita says this also refutes the Jain 'anekāntavāda.' Jains say: 'from one perspective it exists, from another it doesn't.' Nāgārjuna: but 'both exists and doesn't exist' is self-contradictory.",
+        "ins": "'कुछ हद तक है, कुछ हद तक नहीं' — यह भी 'स्वभाव' मानता है। माध्यमक कहता है: 'हद' ही नहीं है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — तर्कशास्त्र में विरोधाभास (contradiction) सबसे मौलिक दोष है। 'A है और A नहीं है' — यह किसी भी दार्शनिक व्यवस्था में अमान्य है। इसलिए 'सदसत्' विकल्प तर्कतः असम्भव है — इसके लिए किसी विशेष बौद्ध सिद्धान्त की ज़रूरत नहीं, सामान्य तर्क ही पर्याप्त है।",
+        "en": "Bhāviveka says contradiction is the most fundamental logical flaw. 'A exists AND A doesn't exist' is invalid in any philosophical system. The 'both' option is logically impossible — no special Buddhist doctrine needed, ordinary logic suffices.",
+        "ins": "कभी-कभी सबसे सरल तर्क सबसे शक्तिशाली होता है: 'है और नहीं है' एक साथ — असम्भव। बस।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧩 1.6 और 1.7 मिलकर क्या सिद्ध करते हैं?",
+        "a": "1.6 ने दो विकल्प गिराए: <strong>सत्</strong> (पहले से है — तो कारण की ज़रूरत नहीं) और <strong>असत्</strong> (है ही नहीं — तो कारण 'किसका'?)। 1.7 तीसरा विकल्प गिराता है: <strong>सदसत्</strong> (दोनों — तर्क-विरुद्ध)। चौथा विकल्प (न सत् न असत्) अध्याय भर में निहित है। इन चारों की असम्भवता = <strong>'कारण' की स्वभाव-सिद्ध धारणा ही ग़लत है</strong>। कारणता काम करती है — पर 'स्वभाव' से नहीं, <strong>प्रतीत्य</strong> (परस्पर निर्भरता) से।"
+      },
+      {
+        "q": "⚖ क्या नागार्जुन तर्क (logic) को ही नकार रहे हैं?",
+        "a": "<strong>नहीं!</strong> नागार्जुन तर्क का <strong>प्रयोग</strong> कर रहे हैं, नकार नहीं। वे दिखाते हैं कि तर्क के नियम (जैसे विरोधाभास-निषेध) लागू करने पर '<strong>स्वभाव</strong>' की धारणा टूट जाती है। तर्क ठीक है — <strong>पूर्वधारणा</strong> (assumption) ग़लत है। जैसे गणित में: सूत्र सही है, पर अगर इनपुट ग़लत डालो तो उत्तर ग़लत आएगा। नागार्जुन कहते हैं: तुम्हारा 'इनपुट' (स्वभाव) ग़लत है — इसलिए हर उत्तर विरोधाभासी निकलता है।"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "sk": "अनालम्बन एवायं सन्धर्म उपदिश्यते ।\nअथानालम्बने धर्मे कुत आलम्बनं पुनः ॥",
+    "ro": "anālambana · evāyaṁ · san · dharma · upadiśyate | athānālambane · dharme · kuta · ālambanaṁ · punaḥ ||",
+    "hi": "एक विद्यमान धर्म भी 'बिना विषय-आधार' के कहा जाता है। तो जब धर्म ही आलम्बन-रहित है, तब आलम्बन-प्रत्यय कहाँ से आएगा?",
+    "en": "An existing dharma is said to be without an object-support. When the dharma is without an object-support, where then is the object-support condition?",
+    "ws": [
+      { "s": "अनालम्बनः", "h": "आलम्बन-रहित / विषय-आधार के बिना", "e": "without object-support" },
+      { "s": "सन्", "h": "विद्यमान / जो है", "e": "existing" },
+      { "s": "धर्मः", "h": "वस्तु / तत्त्व / गुणधर्म", "e": "dharma / entity / phenomenon" },
+      { "s": "उपदिश्यते", "h": "कहा जाता है / बताया जाता है", "e": "is taught / is said to be" },
+      { "s": "आलम्बनम्", "h": "विषय-आधार / आश्रय", "e": "object-support / referent" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अनालम्बनः</em> = अन् + आलम्बन — 'विषय-आधार-रहित।' <em>उपदिश्यते</em> = उप + √दिश् (कर्मणि, लट्) — 'सिखाया/कहा जाता है।' <em>पुनः</em> = 'फिर / कहाँ से' — यहाँ प्रश्नवाचक अर्थ में। यह <strong>आलम्बन-प्रत्यय</strong> (चारों में दूसरा) का परीक्षण है — अगर धर्म का विषय ही स्वभावतः निश्चित नहीं, तो 'विषय-आधार कारण' कैसे स्थापित होगा?<br><em>Eng:</em> <em>anālambana</em> = without ālambana (object-referent). This examines the second pratyaya — ālambana-pratyaya. If the dharma's referent isn't inherently fixed, how is the 'object-support condition' established?",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — आलम्बन-प्रत्यय का अर्थ है: मानसिक ज्ञान (विज्ञान) का विषय। जैसे आँख का आलम्बन 'रूप' (दृश्य) है। पर नागार्जुन पूछते हैं: क्या 'रूप' स्वभाव से 'आलम्बन' है? अगर 'रूप' ही स्वभाव-शून्य है, तो उस पर आधारित ज्ञान का 'आलम्बन' कैसे? आलम्बन तभी है जब विषय 'ठोस' हो — पर कुछ भी ठोस नहीं।",
+        "en": "Candrakīrti explains ālambana-pratyaya means the object of a cognition. For example, the eye's ālambana is a visible form. But Nāgārjuna asks: is 'form' inherently an ālambana? If form itself is empty of svabhāva, how can the cognition based on it have an 'object-support'? An ālambana requires a 'solid' object — but nothing is solid.",
+        "ins": "आँख 'देखती' है — पर क्या देखती है? 'रूप' — पर 'रूप' खुद कहाँ है? प्रत्ययों में? प्रत्यय भी शून्य!"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'सन् धर्मः' (विद्यमान वस्तु) भी 'अनालम्बन' (आधार-रहित) है — यह चौंकाने वाली बात है। हम सोचते हैं: चीज़ें 'हैं' — तो उनका कोई ठोस आधार भी होगा। पर नागार्जुन दिखाते हैं: होने (सत्) और आधार होने (आलम्बन) में अन्तर है। चीज़ 'है' पर किसी ठोस आधार पर नहीं — वह 'शून्य' होकर 'है।'",
+        "en": "Buddhapālita says even a 'san dharma' (existing entity) is 'anālambana' (without support) — this is surprising. We think: things 'exist,' so they must have a solid basis. But Nāgārjuna shows: being (sat) and having a basis (ālambana) are different. A thing 'is' but not on any solid basis — it 'is' while being 'empty.'",
+        "ins": "चीज़ें 'हैं' — पर किस आधार पर? किसी ठोस आधार पर नहीं! शून्यता = आधार-रहित अस्तित्व।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — परमार्थ में 'आलम्बन' की स्वतन्त्र सत्ता नहीं है। व्यावहारिक स्तर पर आँख 'रूप' को देखती है, कान 'शब्द' सुनता है — यह ठीक है। पर 'रूप' अपने आप में कोई स्वतन्त्र 'आलम्बन' नहीं — वह भी अनेक कारणों पर निर्भर है।",
+        "en": "Bhāviveka says ultimately ālambana has no independent existence. Conventionally, the eye sees form, the ear hears sound — that's fine. But 'form' by itself isn't an independent ālambana — it too depends on many conditions.",
+        "ins": "'देखना' = आँख + रूप + प्रकाश + ध्यान + ... कोई एक 'आलम्बन' अकेले काम नहीं करता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "👁 'आलम्बन-प्रत्यय' — यह कैसे काम करता है?",
+        "a": "<strong>आलम्बन-प्रत्यय</strong> = वह विषय जिस पर मन/इन्द्रिय टिकती है। जैसे आँख का आलम्बन = <strong>रूप</strong> (दृश्य वस्तु), कान का = <strong>शब्द</strong>। अभिधर्म कहता है: बिना 'विषय' के ज्ञान नहीं — विषय = <strong>आलम्बन-प्रत्यय</strong>। पर नागार्जुन पूछते हैं: '<strong>विषय</strong>' खुद कहाँ से आया? वह भी अपने प्रत्ययों पर निर्भर है। तो <strong>आलम्बन का आलम्बन, उसका आलम्बन</strong> — अनन्त पीछे हटना (infinite regress)। कोई 'अन्तिम विषय' नहीं मिलता।"
+      },
+      {
+        "q": "🌀 अगर आधार ही नहीं, तो दुनिया 'दिखती' कैसे है?",
+        "a": "नागार्जुन यह <strong>नहीं</strong> कह रहे कि दुनिया नहीं दिखती। वे कह रहे हैं: दुनिया <strong>दिखती है, पर किसी 'ठोस आधार' पर नहीं</strong>। जैसे सपने में चीज़ें 'दिखती' हैं — पर उनका कोई <strong>स्वतन्त्र अस्तित्व</strong> नहीं। जागते हुए भी, जो दिखता है वह <strong>अनेक शर्तों के संयोग</strong> से दिखता है — आँख, प्रकाश, ध्यान, पूर्व अनुभव, मस्तिष्क की व्याख्या। किसी एक 'ठोस वस्तु' पर नहीं टिका — <strong>सम्बन्धों के जाल</strong> पर टिका है।"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "sk": "अनुत्पन्नेषु धर्मेषु निरोधो नोपपद्यते ।\nनानन्तरमतो युक्तं निरुद्धे प्रत्ययश्च कः ॥",
+    "ro": "anutpanneṣu · dharmeṣu · nirodho · nopapadyate | nānantaram · ato · yuktaṁ · niruddhe · pratyayaś · ca · kaḥ ||",
+    "hi": "जब धर्म उत्पन्न ही नहीं हुए, तब उनका निरोध (नाश) कैसे सम्भव है? इसलिए 'समनन्तर' प्रत्यय भी उचित नहीं। और जो निरुद्ध (नष्ट) हो चुका, वह प्रत्यय कैसे हो सकता है?",
+    "en": "When dharmas have not arisen, their cessation is not possible. Therefore the immediately-preceding condition is not tenable. And for what has already ceased — how can it be a condition?",
+    "ws": [
+      { "s": "अनुत्पन्नेषु", "h": "जो उत्पन्न नहीं हुए / अ-जन्मे", "e": "in the unarisen" },
+      { "s": "निरोधः", "h": "विनाश / नाश / समाप्ति", "e": "cessation / destruction" },
+      { "s": "नोपपद्यते", "h": "सम्भव नहीं / उचित नहीं", "e": "is not tenable / not possible" },
+      { "s": "अनन्तरम्", "h": "समनन्तर-प्रत्यय / ठीक पहले वाला", "e": "immediately-preceding condition" },
+      { "s": "निरुद्धे", "h": "निरुद्ध होने पर / नष्ट होने पर", "e": "when ceased / when destroyed" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अनुत्पन्नेषु</em> = अन् + उत्पन्न (√पद् + उत्, क्त) + सप्तमी बहुवचन — 'उत्पन्न न हुई वस्तुओं में।' <em>नोपपद्यते</em> = न + उपपद्यते (उप + √पद्, आत्मनेपद) — 'उचित/सम्भव नहीं।' <em>निरुद्धे</em> = नि + √रुध् (क्त, सप्तमी) — 'रुकने/नष्ट होने पर।' यह <strong>समनन्तर-प्रत्यय</strong> (तीसरा प्रत्यय) का परीक्षण है — पिछला मानसिक क्षण नष्ट होकर अगले का 'प्रत्यय' बनता है, पर अगर न उत्पत्ति सिद्ध हुई न निरोध, तो यह प्रत्यय कैसे?<br><em>Eng:</em> Examination of samanantara-pratyaya (3rd condition). The previous mental moment ceases to condition the next — but if neither arising nor ceasing is established, this condition collapses.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — समनन्तर-प्रत्यय का सिद्धान्त है: पिछला मानसिक क्षण 'निरुद्ध' (नष्ट) होकर अगले क्षण का कारण बनता है। पर पहली बात — अगर धर्म 'उत्पन्न' ही नहीं हुआ, तो 'निरुद्ध' कैसे होगा? और अगर 'निरुद्ध' हो गया — तो जो है ही नहीं, वह प्रत्यय कैसे? दोनों तरफ़ से यह प्रत्यय टिकता नहीं।",
+        "en": "Candrakīrti says the samanantara-pratyaya theory holds: the previous mental moment ceases and causes the next. But first — if a dharma hasn't arisen, how can it 'cease'? And if it has ceased — what no longer exists, how can it be a condition? The condition fails from both directions.",
+        "ins": "पिछला विचार 'मरकर' अगले को 'जन्म' देता है — पर 'मरा' कुछ कैसे 'जन्म' दे सकता है?"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह 'क्षणवाद' (momentariness) की समस्या उजागर करता है। अभिधर्म कहता है: हर चीज़ एक क्षण रहती है, फिर नष्ट होती है — और यही नाश अगले क्षण का 'कारण' है। पर 'नष्ट' = 'नहीं है' — और 'जो नहीं है' कारण कैसे? यह 'असत्-कार्यवाद' वही समस्या है जो 1.6 में दिखाई।",
+        "en": "Buddhapālita says this exposes the problem of 'momentariness.' Abhidharma says everything lasts one moment, then ceases — and this cessation 'causes' the next moment. But 'ceased' = 'doesn't exist' — and how can what doesn't exist be a cause? This is the same asat-problem from 1.6.",
+        "ins": "'नष्ट' = 'नहीं है।' 'नहीं है' कारण कैसे? — 1.6 का तर्क यहाँ भी लागू।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यावहारिक स्तर पर विचारों की श्रृंखला चलती है — एक विचार के बाद दूसरा — यह अनुभव सत्य है। पर परमार्थ में 'पिछला विचार' कोई स्वतन्त्र 'वस्तु' नहीं जो 'अगले' को 'पैदा' करे। यह प्रक्रिया अवधारणात्मक है, ठोस नहीं।",
+        "en": "Bhāviveka says conventionally thoughts follow thoughts — one after another — this is experientially true. But ultimately, the 'previous thought' is not an independent 'thing' that 'produces' the 'next.' This process is conceptual, not substantial.",
+        "ins": "विचार आते हैं, जाते हैं — पर 'कौन' किसे 'भेज' रहा है? कोई नहीं — बस प्रवाह है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⏳ 'समनन्तर-प्रत्यय' रोज़ाना की ज़िन्दगी में कहाँ है?",
+        "a": "<strong>समनन्तर-प्रत्यय</strong> = ठीक पहले वाली मानसिक अवस्था। उदाहरण: आप एक <strong>गाना सुन रहे हैं</strong> — पहले स्वर को सुनने का अनुभव 'नष्ट' होता है, और वही अगले स्वर को सुनने का 'कारण' बनता है। बिना पहले स्वर के अगला स्वर 'अगला' नहीं। पर नागार्जुन पूछते हैं: <strong>जो 'नष्ट' हो गया, वह कारण कैसे?</strong> मरा हुआ स्वर कैसे कुछ 'पैदा' कर सकता है? यह दिखाता है कि 'कारणता' <strong>हमारी व्याख्या</strong> है, वास्तविकता का ठोस गुण नहीं।"
+      },
+      {
+        "q": "🔗 उत्पत्ति और निरोध एक-दूसरे पर कैसे निर्भर हैं?",
+        "a": "नागार्जुन दिखाते हैं: <strong>निरोध</strong> (नाश) तभी सम्भव है जब पहले <strong>उत्पत्ति</strong> (जन्म) हो। और उत्पत्ति ही सिद्ध नहीं (1.1 से)। तो निरोध भी असिद्ध। और जब निरोध नहीं, तो <strong>समनन्तर-प्रत्यय</strong> का आधार ही नहीं — क्योंकि यह प्रत्यय 'पिछले क्षण के <strong>निरोध</strong>' पर टिका है। यह <strong>डोमिनो इफ़ेक्ट</strong> है: अगर पहला गिरा नहीं (उत्पत्ति), तो दूसरा नहीं गिरेगा (निरोध), तो तीसरा भी नहीं (अगला क्षण)।"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "sk": "भावानां निःस्वभावानां न सत्ता विद्यते यतः ।\nसतीदमस्मिन्भवतीत्येतन्नैवोपपद्यते ॥",
+    "ro": "bhāvānāṁ · niḥsvabhāvānāṁ · na · sattā · vidyate · yataḥ | satīdam · asmin · bhavatīty · etan · naivopapadyate ||",
+    "hi": "जब वस्तुएँ स्वभाव-शून्य हैं, तब उनका वास्तविक अस्तित्व नहीं पाया जाता। इसलिए 'यह होने पर वह होता है' — यह कथन भी ठीक से नहीं टिकता।",
+    "en": "Since things are devoid of inherent nature, their real existence is not found. Therefore the statement 'this being, that comes to be' is simply not tenable.",
+    "ws": [
+      { "s": "निःस्वभावानाम्", "h": "स्वभाव-रहित / निज-अस्तित्व-शून्य", "e": "devoid of inherent nature" },
+      { "s": "सत्ता", "h": "अस्तित्व / सत्य-रूप", "e": "real existence / being" },
+      { "s": "सति इदम् अस्मिन् भवति", "h": "'यह होने पर वह होता है' — प्रतीत्यसमुत्पाद का सूत्र", "e": "'this being, that comes to be' — the dependent origination formula" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>निःस्वभावानाम्</em> = निस् + स्वभाव + षष्ठी बहुवचन — 'स्वभाव से रहित वस्तुओं का।' <em>सत्ता</em> = सत् + ताल् (भाववाचक) — 'अस्तित्व / होना-पन।' <em>सतीदमस्मिन्भवति</em> = सति (सप्तमी, √अस्) + इदम् + अस्मिन् (सप्तमी) + भवति — 'यह होने पर, इसमें, वह होता है' — यह <strong>प्रतीत्यसमुत्पाद-सूत्र</strong> (idappaccayatā) का संस्कृत रूप है।<br><em>Eng:</em> The formula 'idam asmin sati, idam bhavati' is the classic Buddhist dependent origination formula (idappaccayatā in Pāli). Nāgārjuna is not rejecting dependent origination but showing it can't be understood through svabhāva.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह सबसे सूक्ष्म और खतरनाक श्लोक है। लोग सोचते हैं नागार्जुन प्रतीत्यसमुत्पाद को नकार रहे हैं — पर नहीं! वे कह रहे हैं: 'यह होने पर वह होता है' — यह सूत्र तभी काम करता है जब 'यह' और 'वह' स्वभाव-शून्य हों। अगर 'यह' स्वभावतः 'है' — तो 'उस' पर निर्भर नहीं, प्रतीत्य ही नहीं। शून्यता के बिना प्रतीत्यसमुत्पाद ही सम्भव नहीं।",
+        "en": "Candrakīrti says this is the most subtle and dangerous verse. People think Nāgārjuna rejects dependent origination — but no! He says 'this being, that arises' works ONLY when 'this' and 'that' are empty of svabhāva. If 'this' inherently 'is' — it doesn't depend on 'that,' so there's no pratītya. Without emptiness, dependent origination itself isn't possible.",
+        "ins": "शून्यता ≠ प्रतीत्यसमुत्पाद का विरोध। शून्यता = प्रतीत्यसमुत्पाद की शर्त! बिना शून्यता के निर्भरता ही असम्भव।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'इदमस्मिन्सति इदं भवति' बुद्ध का मूल सूत्र है — 'अविद्या होने पर संस्कार होते हैं' आदि। नागार्जुन दिखाते हैं: अगर 'अविद्या' स्वभावतः 'है' — तो वह किसी पर निर्भर नहीं, प्रतीत्यसमुत्पाद नहीं। प्रतीत्यसमुत्पाद तभी काम करता है जब सब कड़ियाँ शून्य हों।",
+        "en": "Buddhapālita says 'idam asmin sati idaṁ bhavati' is the Buddha's root formula — 'when ignorance is, formations arise,' etc. Nāgārjuna shows: if 'ignorance' inherently 'is,' it doesn't depend on anything — no pratītyasamutpāda. Dependent origination works ONLY when all links are empty.",
+        "ins": "बुद्ध का सूत्र + नागार्जुन का विश्लेषण = शून्यता ही प्रतीत्यसमुत्पाद है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह स्वतन्त्र अनुमान से सिद्ध करें: 'भाव परमार्थतः प्रतीत्यसमुत्पन्न नहीं — क्योंकि वे निःस्वभाव हैं।' पर व्यावहारिक स्तर पर 'यह होने पर वह होता है' — पूरी तरह मान्य। दोनों स्तर अलग-अलग सत्य हैं।",
+        "en": "Bhāviveka establishes through independent inference: 'Things are not ultimately dependently originated — because they are devoid of svabhāva.' But conventionally, 'this being, that arises' — fully valid. Both levels are separately true.",
+        "ins": "परमार्थ में प्रतीत्यसमुत्पाद भी 'ठोस' नहीं — यह स्वयं भी शून्य है। शून्यता की शून्यता!"
+      }
+    },
+    "dp": [
+      {
+        "q": "📿 'यह होने पर वह होता है' — बुद्ध के इस सूत्र पर नागार्जुन क्या कह रहे हैं?",
+        "a": "बुद्ध का मूल सूत्र है: '<strong>इदं सति इदं भवति</strong>' — यह होने पर वह होता है (12 निदान — अविद्या → संस्कार → विज्ञान... → जरा-मरण)। नागार्जुन <strong>इसे नकार नहीं रहे</strong> — वे इसे गहरा कर रहे हैं। वे कहते हैं: यह सूत्र <strong>तभी काम करता है जब 'यह' और 'वह' दोनों स्वभाव-शून्य हों</strong>। अगर 'अविद्या' स्वभावतः 'है' — तो वह किसी पर 'निर्भर' कैसे? <strong>शून्यता प्रतीत्यसमुत्पाद की शर्त है, उसका विरोध नहीं</strong>।"
+      },
+      {
+        "q": "🌊 शून्यता और प्रतीत्यसमुत्पाद — ये दो हैं या एक?",
+        "a": "नागार्जुन के लिए ये <strong>एक ही बात के दो नाम</strong> हैं। '<strong>शून्यता</strong>' = कोई चीज़ अपने आप में, अकेली, ठोस रूप से 'नहीं है।' '<strong>प्रतीत्यसमुत्पाद</strong>' = हर चीज़ दूसरी चीज़ों पर निर्भर होकर 'है।' <strong>दोनों एक ही सिक्के के दो पहलू</strong>: 'निर्भर है' = 'अकेली नहीं' = 'शून्य है।' MMK 24.18 में नागार्जुन स्पष्ट कहेंगे: '<strong>यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे</strong>' — जो प्रतीत्यसमुत्पाद है, उसी को हम शून्यता कहते हैं।"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "sk": "न च व्यस्तसमस्तेषु प्रत्ययेष्वस्ति तत्फलम् ।\nप्रत्ययेभ्यः कथं तच्च भवेन्न प्रत्ययेषु यत् ॥",
+    "ro": "na · ca · vyastasamasteṣu · pratyayeṣv · asti · tat · phalam | pratyayebhyaḥ · kathaṁ · tac · ca · bhaven · na · pratyayeṣu · yat ||",
+    "hi": "प्रत्ययों में — न अलग-अलग में, न सबके संयोग में — वह फल मौजूद है। जो चीज़ प्रत्ययों में है ही नहीं, वह प्रत्ययों से कैसे पैदा हो सकती है?",
+    "en": "The effect is not found in the conditions — neither in each separately nor in all combined. How can something come from conditions when it is not present in those conditions?",
+    "ws": [
+      { "s": "व्यस्तसमस्तेषु", "h": "अलग-अलग और एक साथ / विभक्त और संयुक्त", "e": "separately and collectively" },
+      { "s": "फलम्", "h": "फल / परिणाम / कार्य", "e": "effect / result / fruit" },
+      { "s": "प्रत्ययेभ्यः", "h": "प्रत्ययों से", "e": "from conditions" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>व्यस्तसमस्तेषु</em> = व्यस्त (vi + √अस्, क्त — 'अलग किए गए') + समस्त (सम् + √अस्, क्त — 'साथ रखे गए') + सप्तमी बहुवचन — 'अलग-अलग और संयुक्त दोनों में।' <em>फलम्</em> = √फल् (फलना) — 'परिणाम/कार्य।' तर्क: कार्य न किसी एक कारण में है, न सबके संयोग में — तो कारणों से कैसे?<br><em>Eng:</em> <em>vyasta-samasta</em> = 'distributed and collected' = separately and collectively. The effect isn't in any one condition nor in the aggregate — so how can it arise from them?",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — 'पौधा' बीज में है? नहीं। मिट्टी में? नहीं। पानी में? नहीं। धूप में? नहीं। तो सबको मिला दो — 'पौधा' अब है? — पर 'नहीं + नहीं + नहीं + नहीं = हाँ' कैसे? शून्य को शून्य से जोड़ो — शून्य ही रहेगा। संयोग से 'कुछ नया' कैसे?",
+        "en": "Candrakīrti asks: is the 'plant' in the seed? No. In soil? No. In water? No. In sunlight? No. Then combine all — 'plant' now exists? But 'no + no + no + no = yes' how? Zero plus zero remains zero. How does 'something new' come from aggregation?",
+        "ins": "0 + 0 + 0 + 0 ≠ 1 — अगर फल किसी एक में नहीं, तो सबके जोड़ में भी नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क 'संयोगवाद' (emergence from combination) को तोड़ता है। कोई कह सकता है: 'एक-एक कारण में फल नहीं, पर सबके मिलने से होता है।' पर नागार्जुन: मिलने (संयोग) से 'कैसे'? मिलना कोई जादू नहीं जो शून्य से कुछ बना दे। 'मिलना' खुद भी एक घटना है — उसका कारण क्या?",
+        "en": "Buddhapālita says this refutes 'emergence from combination.' One might say: 'The effect isn't in any single condition, but emerges when they combine.' But Nāgārjuna: 'how' does combining produce it? Combining isn't magic that creates something from nothing. 'Combining' itself is an event — what's its cause?",
+        "ins": "बीज + मिट्टी + पानी = पौधा — पर 'इन तीन का जुड़ना' किसने किया? और 'जुड़ने' से 'पौधा' — यह रिश्ता किसने तय किया?"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — परमार्थ में न व्यस्त (अलग-अलग) प्रत्ययों में फल है, न समस्त (संयुक्त) में। व्यावहारिक स्तर पर 'सामग्री जुटाओ तो खाना बनेगा' — सही है। पर 'वास्तव में' खाना सामग्री 'में' नहीं था — न अकेले में, न सबमें।",
+        "en": "Bhāviveka says ultimately the effect exists neither in conditions separately nor together. Conventionally 'gather ingredients and food is made' — correct. But 'truly' the food wasn't 'in' the ingredients — neither individually nor collectively.",
+        "ins": "आटा + पानी + आग = रोटी — पर 'रोटी' आटे में नहीं, पानी में नहीं, आग में नहीं, तीनों के 'जोड़' में भी नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧮 0 + 0 + 0 = 1 कैसे? संयोग से नई चीज़ कैसे बनती है?",
+        "a": "यह माध्यमक का सबसे <strong>व्यावहारिक प्रश्न</strong> है। आटा, पानी, आग — तीनों में 'रोटी' नहीं है। तीनों को मिलाओ — '<strong>रोटी</strong>' आ गई। <strong>कहाँ से आई?</strong> नागार्जुन कहते हैं: 'आई' कहना ही गलत है — <strong>रोटी 'आई' नहीं</strong>। शर्तें बदलीं, अनुभव बदला। 'रोटी' एक <strong>नाम</strong> है जो हम इस नए अनुभव को देते हैं। वह किसी 'जगह' से 'आई' नहीं — वह <strong>प्रतीत्यसमुत्पन्न</strong> है — शर्तों के बदलने से <strong>प्रतीत</strong> (apparent) हुई।"
+      },
+      {
+        "q": "🔬 तो क्या 'emergence' (उद्भव) असम्भव है?",
+        "a": "नागार्जुन '<strong>emergence</strong>' को नकार नहीं रहे — वे उसकी <strong>'स्वभाव'-आधारित समझ</strong> नकार रहे हैं। आधुनिक विज्ञान में भी emergence (जैसे <strong>चेतना</strong> न्यूरॉन्स से, <strong>जीवन</strong> रसायनों से) एक बड़ी पहेली है: अंश (parts) में जो नहीं है, वह पूरे (whole) में <strong>कैसे</strong>? नागार्जुन कहते हैं: यह '<strong>कैसे</strong>' स्वभाव-दृष्टि से कभी हल नहीं होगा — क्योंकि '<strong>अंश</strong>' और '<strong>पूरा</strong>' दोनों प्रतीत्यसमुत्पन्न हैं, दोनों शून्य हैं।"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "अथासदपि तत्तेभ्यः प्रत्ययेभ्यः प्रवर्तते ।\nफलमप्रत्ययेभ्योऽपि कस्मान्नाभिप्रवर्तते ॥",
+    "ro": "athāsad · api · tat · tebhyaḥ · pratyayebhyaḥ · pravartate | phalam · apratyayebhyo · 'pi · kasmān · nābhipravartate ||",
+    "hi": "अगर वह अविद्यमान फल भी उन प्रत्ययों से पैदा होता है, तो फिर गैर-प्रत्ययों (जो कारण नहीं हैं) से भी क्यों नहीं पैदा हो सकता?",
+    "en": "If a non-existent effect proceeds from those conditions, why doesn't the effect also proceed from non-conditions?",
+    "ws": [
+      { "s": "असत्", "h": "जो नहीं है / अविद्यमान", "e": "non-existent" },
+      { "s": "प्रवर्तते", "h": "प्रवृत्त होता है / उत्पन्न होता है", "e": "proceeds / arises" },
+      { "s": "अप्रत्ययेभ्यः", "h": "गैर-प्रत्ययों से / जो कारण नहीं", "e": "from non-conditions" },
+      { "s": "नाभिप्रवर्तते", "h": "प्रवृत्त नहीं होता", "e": "does not proceed" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>असत्</em> = अ + सत् (√अस्, शतृ) — 'अविद्यमान / जो नहीं है।' <em>प्रवर्तते</em> = प्र + √वृत् (आत्मनेपद) — 'प्रवृत्त होना / उत्पन्न होना।' <em>अभिप्रवर्तते</em> = अभि + प्र + √वृत् — 'प्रवृत्त होना' (अधिक बलपूर्वक)। तर्क: अगर जो 'नहीं है' वह प्रत्ययों से आ सकता है — तो गैर-प्रत्ययों से क्यों नहीं? दोनों स्थितियों में फल 'नहीं है' — फिर प्रत्यय 'विशेष' क्यों?<br><em>Eng:</em> If a nonexistent effect can arise from conditions, why not from non-conditions too? In both cases the effect 'doesn't exist' — so why are conditions 'special'?",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह 'प्रसङ्ग' (absurd consequence) तर्क है। अगर तुम मानते हो कि 'नहीं था' पौधा बीज (प्रत्यय) से 'आया' — तो पत्थर (अप्रत्यय) से भी 'आ' सकता है! क्योंकि दोनों मामलों में पौधा पहले 'नहीं था।' अगर 'नहीं होना' काफ़ी है आने के लिए — तो स्रोत का कोई फ़र्क नहीं पड़ता।",
+        "en": "Candrakīrti says this is a prasaṅga (reductio) argument. If you accept that a 'non-existent' plant 'came' from a seed (condition) — it could also 'come' from a stone (non-condition)! In both cases the plant 'wasn't there before.' If 'not existing' is sufficient for arising — the source doesn't matter.",
+        "ins": "अगर 'कुछ नहीं' से 'कुछ' आ सकता है — तो 'कहीं से भी' आ सकता है। बीज विशेष क्यों?"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह 'अति-प्रसङ्ग' (absurd over-extension) दिखाता है। अगर 'पौधा' बीज में 'नहीं था' और फिर भी 'आया' — तो वह पत्थर में भी 'नहीं था' — और वहाँ से भी 'आ' सकता है। जो 'नहीं है' उसका कोई 'विशेष स्रोत' कैसे? अंधेरे से भी आ सकता है!",
+        "en": "Buddhapālita shows the 'over-extension.' If the plant 'wasn't' in the seed and yet 'came' — it also 'wasn't' in a stone — so it could 'come' from there too. How can what 'doesn't exist' have a 'special source'? It could come from darkness itself!",
+        "ins": "अगर रेत से तेल निकल सकता — क्योंकि तेल रेत में भी 'नहीं' था, बीज में भी 'नहीं' — तो 'नहीं' = 'नहीं', फ़र्क क्या?"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह स्वतन्त्र अनुमान में ऐसे: 'फल परमार्थतः प्रत्ययों से उत्पन्न नहीं — क्योंकि वह प्रत्ययों में विद्यमान नहीं — जैसे अप्रत्ययों में।' व्यावहारिक स्तर पर प्रत्यय-अप्रत्यय का भेद मान्य है — बीज से पौधा, पत्थर से नहीं — पर परमार्थ में यह भेद स्वभावतः नहीं टिकता।",
+        "en": "Bhāviveka formulates as inference: 'The effect doesn't ultimately arise from conditions — because it doesn't exist in them — just as in non-conditions.' Conventionally the condition/non-condition distinction holds — plant from seed, not from stone — but ultimately this distinction doesn't hold inherently.",
+        "ins": "रोज़ाना: बीज → पौधा, पत्थर → नहीं। गहराई में: दोनों में 'पौधा' समान रूप से 'नहीं' — तो भेद कहाँ?"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪨 अगर बीज से पौधा, तो पत्थर से क्यों नहीं?",
+        "a": "यह नागार्जुन का <strong>प्रसङ्ग</strong> (reductio ad absurdum) तर्क है — प्रतिपक्ष के तर्क को उसके <strong>तार्किक अन्त</strong> तक ले जाकर दिखाना कि वह बेतुका है। अगर प्रतिपक्ष कहता है: 'पौधा बीज में <strong>नहीं था</strong>, फिर भी बीज से <strong>आया</strong>' — तो नागार्जुन पूछते हैं: पौधा पत्थर में भी '<strong>नहीं था</strong>' — तो वहाँ से भी <strong>आना</strong> चाहिए! '<strong>नहीं होना</strong>' सबमें बराबर है — तो बीज '<strong>विशेष</strong>' क्यों? यह दिखाता है कि '<strong>असत्कार्यवाद</strong>' (effect arises from nothing) बेतुका है।"
+      },
+      {
+        "q": "🌀 तो फिर बीज और पत्थर में फ़र्क क्या है?",
+        "a": "फ़र्क <strong>है</strong> — पर '<strong>स्वभाव</strong>' का नहीं, '<strong>शर्तों</strong>' का। बीज में वह <strong>रासायनिक संरचना</strong> है जो मिट्टी, पानी, धूप के साथ मिलकर पौधे को <strong>सम्भव</strong> बनाती है। पत्थर में वह संरचना <strong>नहीं</strong>। पर यह '<strong>पौधापन</strong>' बीज का '<strong>स्वभाव</strong>' नहीं — यह <strong>शर्तों का जाल</strong> है। बीज को फ्रीज़र में रखो — पौधा नहीं उगेगा। बीज का '<strong>बीजपन</strong>' शर्तों पर निर्भर है — ठोस, स्वतन्त्र '<strong>स्वभाव</strong>' नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "sk": "फलं च प्रत्ययमयं प्रत्ययाश्चास्वयंमयाः ।\nफलमस्वमयेभ्यो यत्तत्प्रत्ययमयं कथम् ॥",
+    "ro": "phalaṁ · ca · pratyayamayaṁ · pratyayāś · cāsvayaṁmayāḥ | phalam · asvamayebhyo · yat · tat · pratyayamayaṁ · katham ||",
+    "hi": "कहते हैं फल प्रत्ययों से बना है। पर प्रत्यय खुद अपने आप से नहीं बने। जो फल 'अपने आप से न बनी' चीज़ों से आया, वह 'प्रत्यय-मय' (प्रत्ययों से बना) कैसे कहलाएगा?",
+    "en": "The effect is said to consist of conditions. But the conditions themselves are not self-constituted. How can an effect that comes from things not self-constituted be called 'made of conditions'?",
+    "ws": [
+      { "s": "प्रत्ययमयम्", "h": "प्रत्ययों से बना / प्रत्यय-निर्मित", "e": "made of conditions / consisting of conditions" },
+      { "s": "अस्वयंमयाः", "h": "अपने आप से नहीं बने / स्व-निर्मित नहीं", "e": "not self-constituted" },
+      { "s": "अस्वमयेभ्यः", "h": "जो अपने आप से नहीं बने, उनसे", "e": "from things not self-constituted" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रत्ययमयम्</em> = प्रत्यय + मयट् — 'प्रत्ययों से भरा / प्रत्ययों से बना।' <em>अस्वयंमयाः</em> = अ + स्वयम् + मयट् + प्रथमा बहुवचन — 'स्वयं अपने आप से न बने।' <em>अस्वमयेभ्यः</em> = अ + स्व + मयट् + पञ्चमी बहुवचन — 'अपने आप से न बनी चीज़ों से।' तर्क: कारण खुद 'ठोस' नहीं → कार्य कैसे 'ठोस'? कमज़ोर नींव पर मज़बूत इमारत नहीं।<br><em>Eng:</em> <em>-maya</em> suffix = 'made of/consisting of.' If the conditions aren't self-constituted (asvayaṁmaya), the effect that 'consists of' them can't be solidly constituted either.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह 'संक्रामक शून्यता' (infectious emptiness) का तर्क है। प्रत्यय शून्य → फल शून्य। अगर बीज, मिट्टी, पानी — सब शून्य हैं — तो इनसे बना 'पौधा' कैसे ठोस? जैसे रेत की दीवारों से बना घर रेत का ही होगा — ठोस ईंट का नहीं। शून्य सामग्री से ठोस परिणाम असम्भव।",
+        "en": "Candrakīrti calls this 'infectious emptiness.' Empty conditions → empty effect. If seed, soil, water are all empty — how can the 'plant' made from them be solid? Like a house built of sand walls will be sand, not solid brick. Solid results from empty materials is impossible.",
+        "ins": "रेत की ईंटों से पक्का घर नहीं बनता — शून्य प्रत्ययों से ठोस फल नहीं आता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह सबसे गहरा तर्क है: प्रत्यय 'अस्वयंमय' हैं — अपने आप से नहीं बने। वे भी किसी और पर निर्भर हैं। और वह 'किसी और' भी किसी पर — अनन्त श्रृंखला (infinite regress)। कहीं कोई 'ठोस' नींव नहीं। सब कुछ 'खड़ा' है बिना किसी 'ज़मीन' के — यही शून्यता।",
+        "en": "Buddhapālita says this is the deepest argument: conditions are 'asvayaṁmaya' — not self-constituted. They too depend on other conditions. And those 'others' depend on yet others — infinite regress. No 'solid' foundation anywhere. Everything 'stands' without any 'ground' — this is emptiness.",
+        "ins": "A, B पर टिका; B, C पर; C, D पर — किसी की 'अपनी ज़मीन' नहीं। सब हवा में तैर रहे हैं — और फिर भी 'दिख' रहे हैं!"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — परमार्थ में 'मय' (बना हुआ) की संकल्पना ही असम्भव है — क्योंकि जिनसे बना, वे खुद 'ठोस' नहीं। व्यावहारिक में 'पौधा बीज से बना' — ठीक है। पर 'बना' शब्द एक उपयोगी भ्रम (उपचार) है, सत्य नहीं।",
+        "en": "Bhāviveka says ultimately the concept of being 'made of' (maya) is itself impossible — because the materials aren't 'solid.' Conventionally 'plant is made from seed' — fine. But 'made' is a useful fiction (upacāra), not truth.",
+        "ins": "'बना' = उपचार (convenient label)। कुछ किसी चीज़ से 'बना' नहीं — सब कुछ सब कुछ के साथ 'बदल' रहा है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏗 कमज़ोर नींव पर मज़बूत इमारत — क्या यह सम्भव है?",
+        "a": "नागार्जुन कहते हैं: <strong>नहीं!</strong> अगर प्रत्यय (कारण) खुद '<strong>अपने आप से नहीं बने</strong>' (अस्वयंमय) — तो उनसे बना फल '<strong>ठोस</strong>' कैसे? यह '<strong>संक्रामक शून्यता</strong>' है — शून्यता कारणों से कार्य में '<strong>फैलती</strong>' है। जैसे अगर <strong>ईंटें गीली मिट्टी</strong> की हैं, तो दीवार भी गीली मिट्टी की होगी — चाहे कितनी भी ईंटें लगा दो। कारणों की '<strong>खोखलापन</strong>' कार्य में आ जाती है। <strong>इसीलिए सब कुछ शून्य है</strong> — क्योंकि हर चीज़ शून्य चीज़ों से 'बनी' है।"
+      },
+      {
+        "q": "♾ अनन्त श्रृंखला — क्या कहीं कोई 'ठोस ज़मीन' है?",
+        "a": "नागार्जुन का उत्तर: <strong>नहीं, और ज़रूरत भी नहीं!</strong> हम सोचते हैं: '<strong>कहीं तो</strong> कोई ठोस आधार होगा — ईश्वर, परमाणु, ब्रह्म, चेतना — कुछ तो!' पर नागार्जुन दिखाते हैं: <strong>सब कुछ सब पर निर्भर</strong> — कहीं कोई 'अन्तिम सत्य' नहीं जो अपने आप 'हो।' और यह <strong>डरावना नहीं, मुक्तिदायक</strong> है — अगर कुछ भी ठोस नहीं, तो कुछ भी '<strong>बदल</strong>' सकता है — दुःख भी। <strong>शून्यता = परिवर्तन की सम्भावना</strong>।"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "sk": "तस्मान्न प्रत्ययमयं नाप्रत्ययमयं फलम् ।\nसंविद्यते फलाभावात्प्रत्ययाप्रत्ययाः कुतः ॥",
+    "ro": "tasmān · na · pratyayamayaṁ · nāpratyayamayaṁ · phalam | saṁvidyate · phalābhāvāt · pratyayāpratyayāḥ · kutaḥ ||",
+    "hi": "इसलिए न प्रत्ययों से बना फल पाया जाता है, न अप्रत्ययों से बना। और जब फल ही नहीं, तो प्रत्यय और अप्रत्यय कहाँ से होंगे?",
+    "en": "Therefore neither a conditioned effect nor an unconditioned effect is found. Since the effect does not exist, where then are conditions and non-conditions?",
+    "ws": [
+      { "s": "तस्मात्", "h": "इसलिए / अतः", "e": "therefore" },
+      { "s": "प्रत्ययमयम्", "h": "प्रत्ययों से बना", "e": "made of conditions / conditioned" },
+      { "s": "अप्रत्ययमयम्", "h": "अप्रत्ययों से बना / बिना प्रत्ययों के बना", "e": "unconditioned / made of non-conditions" },
+      { "s": "संविद्यते", "h": "पाया जाता है / मिलता है", "e": "is found / exists" },
+      { "s": "फलाभावात्", "h": "फल के अभाव से / फल न होने के कारण", "e": "because of the absence of the effect" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>तस्मात्</em> = तद्, पञ्चमी — 'इसलिए' — निष्कर्ष-सूचक। <em>संविद्यते</em> = सम् + √विद् (कर्मणि, लट्) — 'पाया जाता है।' <em>फलाभावात्</em> = फल + अभाव + पञ्चमी — 'फल के अभाव के कारण।' <em>प्रत्ययाप्रत्ययाः</em> = प्रत्यय + अप्रत्यय + प्रथमा बहुवचन — 'प्रत्यय और अप्रत्यय।' यह अध्याय का <strong>उपसंहार</strong> है — फल नहीं → प्रत्यय नहीं → अप्रत्यय भी नहीं — तीनों अवधारणाएँ ढह जाती हैं।<br><em>Eng:</em> The conclusion: no effect → no conditions → no non-conditions. All three concepts collapse together. <em>tasmāt</em> signals the chapter's conclusion.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अध्याय का निचोड़ है। न फल प्रत्ययों से बना — न अप्रत्ययों से। और जब फल ही 'नहीं' (स्वभावतः), तो 'प्रत्यय' किसके? और 'अप्रत्यय' भी किसके? — तीनों अवधारणाएँ एक साथ गिरती हैं। यह शून्यता की स्थापना है — किसी भी 'ठोस' कारण-कार्य सम्बन्ध का निषेध।",
+        "en": "Candrakīrti says this is the chapter's essence. The effect isn't conditioned — nor unconditioned. When the effect itself 'doesn't exist' (svabhāvataḥ), conditions are 'of what'? And non-conditions too 'of what'? — all three concepts collapse together. This establishes śūnyatā — negation of any 'solid' causal relationship.",
+        "ins": "फल नहीं → कारण किसके? → अकारण भी किसके? — तीनों तास के पत्तों की तरह साथ गिरते हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'कुतः' = 'कहाँ से?' — यह अन्तिम प्रश्न है। जब 'फल' की स्वभाव-सिद्ध सत्ता नहीं, तो 'प्रत्यय' शब्द अर्थहीन हो जाता है — किसका प्रत्यय? और 'अप्रत्यय' भी — क्योंकि 'अप्रत्यय' 'प्रत्यय' के सापेक्ष ही है। एक गिरा तो दूसरा भी गिरा।",
+        "en": "Buddhapālita says 'kutaḥ' (from where?) is the final question. When the effect has no svabhāva-established existence, the word 'condition' loses meaning — condition of what? And 'non-condition' too — because 'non-condition' is relative to 'condition.' One falls, the other falls too.",
+        "ins": "'कुतः' = 'कहाँ से?' — यह प्रश्न ही उत्तर है: कहीं से नहीं!"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह परमार्थ-स्तरीय निष्कर्ष है। व्यावहारिक स्तर पर कारण-कार्य चलता रहता है — बीज बोओ, पौधा उगेगा — यह संवृति सत्य है, इसे नागार्जुन नकार नहीं रहे। पर परमार्थ में — कोई 'ठोस' कारण नहीं, कोई 'ठोस' कार्य नहीं, कोई 'ठोस' सम्बन्ध नहीं।",
+        "en": "Bhāviveka says this is the ultimate-level conclusion. Conventionally, cause-effect operates — sow a seed, a plant grows — that's conventional truth, Nāgārjuna isn't denying it. But ultimately — no 'solid' cause, no 'solid' effect, no 'solid' relationship.",
+        "ins": "बीज बोओ, पौधा उगेगा — यह सच है, पर 'सच' दो स्तरों पर: व्यावहारिक (हाँ) और परमार्थ (नहीं)।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏁 पूरे अध्याय का सार एक वाक्य में?",
+        "a": "<strong>'कारण-कार्य सम्बन्ध स्वभावतः सिद्ध नहीं।'</strong> नागार्जुन ने चारों प्रत्ययों की परीक्षा की — हेतु, आलम्बन, समनन्तर, अधिपति — और दिखाया कि कोई भी 'स्वभाव' (inherent nature) से काम नहीं करता। फल न प्रत्ययों में है, न बाहर; न सत् है, न असत्; न प्रत्ययों 'से' बनता है, न बिना प्रत्ययों के। <strong>इसका अर्थ यह नहीं कि कारणता काम नहीं करती</strong> — बल्कि यह कि कारणता <strong>शून्य</strong> (svabhāva-śūnya) होकर काम करती है — ठीक वैसे जैसे <strong>सपने में चीज़ें 'होती' हैं बिना 'ठोस' हुए</strong>।"
+      },
+      {
+        "q": "🌅 शून्यता भयावह लगती है — क्या यह निराशावादी दर्शन है?",
+        "a": "<strong>बिल्कुल नहीं!</strong> नागार्जुन (और बुद्ध) कहते हैं शून्यता '<strong>शिव</strong>' (auspicious / कल्याणकारी) है। क्यों? क्योंकि अगर चीज़ें '<strong>ठोस, स्वभावतः सिद्ध</strong>' होतीं — तो <strong>बदल नहीं सकतीं</strong>। दुःख ठोस होता, मुक्ति असम्भव। पर शून्यता = <strong>कुछ भी ठोस नहीं</strong> = <strong>सब कुछ बदल सकता है</strong> = दुःख भी बदल सकता है = <strong>मुक्ति सम्भव</strong>। शून्यता <strong>आशा</strong> का दर्शन है, निराशा का नहीं। जैसे मंगलश्लोक में कहा: '<strong>प्रपञ्चोपशमं शिवम्</strong>' — सभी भ्रमों की शान्ति, कल्याणकारी।"
+      }
+    ]
+  }
+]
