@@ -572,6 +572,16 @@ const SECTIONS={
 // ═══════════════════════════════════════════════════
 let CU=null,CS=null,CMI=0,CTR='advaita',CTB='path';
 let SP=false,SS=0.55,SR=false,WI=null,CST='';
+const TRAD_STYLE={
+  advaita:{bg:'rgba(200,149,106,0.08)',bd:'rgba(200,149,106,0.25)',col:'var(--or)'},
+  vishisht:{bg:'rgba(82,183,136,0.08)',bd:'rgba(82,183,136,0.25)',col:'var(--green)'},
+  aurobindo:{bg:'rgba(192,132,212,0.1)',bd:'rgba(192,132,212,0.25)',col:'var(--pu)'},
+  candrakirti:{bg:'rgba(212,160,23,0.08)',bd:'rgba(212,160,23,0.25)',col:'#D4A017'},
+  buddhapālita:{bg:'rgba(74,158,188,0.08)',bd:'rgba(74,158,188,0.25)',col:'#4A9EBC'},
+  bhavaviveka:{bg:'rgba(128,90,180,0.08)',bd:'rgba(128,90,180,0.25)',col:'#805AB4'}
+};
+const _DF_STYLE={bg:'rgba(150,150,150,0.08)',bd:'rgba(150,150,150,0.25)',col:'var(--tf)'};
+function getTradStyle(k){return TRAD_STYLE[k]||_DF_STYLE;}
 
 const _store={};function gP(){try{return JSON.parse(localStorage.getItem('up3_p')||'{}')}catch(e){return _store['p']||{}}}
 function sP(u,i){const p=gP();p[u]=Math.max(p[u]??0,i);_store['p']=p;try{localStorage.setItem('up3_p',JSON.stringify(p))}catch(e){}}
@@ -845,12 +855,7 @@ function togGn(){const w=document.getElementById('gnw'),f=document.getElementByI
 
 function renderBody(m){
   const bars=Array.from({length:20},(_,i)=>`<div class="wb" id="wb${i}" style="height:${6+Math.round(Math.sin(i*0.7)*7+5)}px"></div>`).join('');
-  const trads=['advaita','vishisht','aurobindo'];
-  const tnames={advaita:'अद्वैत<br><span style="font-size:9px">Shankara</span>',vishisht:'विशिष्टाद्वैत<br><span style="font-size:9px">Ramanuja</span>',aurobindo:'अरविंद<br><span style="font-size:9px">Integral</span>'};
-  const tcls={advaita:'ta',vishisht:'tv',aurobindo:'tu'};
-  const tbg={advaita:'rgba(200,149,106,0.08)',vishisht:'rgba(82,183,136,0.08)',aurobindo:'rgba(192,132,212,0.1)'};
-  const tbd={advaita:'rgba(200,149,106,0.25)',vishisht:'rgba(82,183,136,0.25)',aurobindo:'rgba(192,132,212,0.25)'};
-  const tcol={advaita:'var(--or)',vishisht:'var(--green)',aurobindo:'var(--pu)'};
+  const trads=m.cm?Object.keys(m.cm):[];
 
   document.getElementById('mvb').innerHTML=`
 <div class="tabs">
@@ -906,12 +911,12 @@ function renderBody(m){
 <div class="pn ${CTB==='reflection'?'on':''}" id="p-reflection">
   <div class="lbl" style="padding-top:2px">परंपरा दृष्टि · TRADITION VIEWS</div>
   ${trads.map(t=>{
-    const c=m.cm[t]||{};
-    return `<div class="cb on trad-card" style="background:${tbg[t]};border:1px solid ${tbd[t]}">
-      <div class="cba" style="color:${tcol[t]}">${c.a||''}</div>
+    const c=m.cm[t]||{};const st=getTradStyle(t);
+    return `<div class="cb on trad-card" style="background:${st.bg};border:1px solid ${st.bd}">
+      <div class="cba" style="color:${st.col}">${c.a||''}</div>
       <div class="chi">${c.h||''}</div>
       <div class="cen">${c.en||''}</div>
-      ${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}
+      ${c.ins?`<div class="ci2" style="color:${st.col};border-color:${st.col}">${c.ins}</div>`:''}
     </div>`;
   }).join('')}
   <div class="lbl" style="padding-top:12px">मनन प्रश्न · REFLECTION QUESTIONS</div>
@@ -1195,10 +1200,7 @@ function renderCvDetail(){
   document.getElementById('cvd-lbl').textContent=s.sk;
   document.getElementById('cvd-pos').textContent=(CCVI+1)+' of '+total;
 
-  const trads=['advaita','vishisht','aurobindo'];
-  const tbg={advaita:'rgba(200,149,106,0.08)',vishisht:'rgba(82,183,136,0.08)',aurobindo:'rgba(192,132,212,0.1)'};
-  const tbd={advaita:'rgba(200,149,106,0.25)',vishisht:'rgba(82,183,136,0.25)',aurobindo:'rgba(192,132,212,0.25)'};
-  const tcol={advaita:'var(--or)',vishisht:'var(--green)',aurobindo:'var(--pu)'};
+  const trads=s.cm?Object.keys(s.cm):[];
 
   let html=`
     <div class="cv-qual">
@@ -1223,12 +1225,12 @@ function renderCvDetail(){
 
   html+=`<div class="cv-cm-lbl">परंपरा दृष्टि · Tradition Views</div>`;
   trads.forEach(t=>{
-    const c=s.cm[t]||{};
-    html+=`<div class="cb on trad-card" style="background:${tbg[t]};border:1px solid ${tbd[t]}">
-      <div class="cba" style="color:${tcol[t]}">${c.a||''}</div>
+    const c=s.cm[t]||{};const st=getTradStyle(t);
+    html+=`<div class="cb on trad-card" style="background:${st.bg};border:1px solid ${st.bd}">
+      <div class="cba" style="color:${st.col}">${c.a||''}</div>
       <div class="chi">${c.h||''}</div>
       <div class="cen">${c.en||''}</div>
-      ${c.ins?`<div class="ci2" style="color:${tcol[t]};border-color:${tcol[t]}">${c.ins}</div>`:''}
+      ${c.ins?`<div class="ci2" style="color:${st.col};border-color:${st.col}">${c.ins}</div>`:''}
     </div>`;
   });
 
