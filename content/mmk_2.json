@@ -1,0 +1,1487 @@
+[
+  {
+    "id": 1,
+    "sk": "गतं न गम्यते तावदगतं नैव गम्यते ।\nगतागतविनिर्मुक्तं गम्यमानं न गम्यते ॥",
+    "ro": "gataṃ · na · gamyate · tāvad · agataṃ · naiva · gamyate | gatāgatavinirmuktaṃ · gamyamānaṃ · na · gamyate ||",
+    "hi": "जहाँ जा चुके हैं वहाँ गमन नहीं हो रहा; जहाँ अभी गए नहीं वहाँ भी गमन नहीं। इन दोनों से अलग 'अभी जा रहे हैं' में भी गमन नहीं सिद्ध होता।",
+    "en": "The gone-to is not being gone to; the not-yet-gone-to is not being gone to. Apart from both, the being-gone-to is also not being gone to.",
+    "ws": [
+      {
+        "s": "गतम्",
+        "h": "गया हुआ / पार किया हुआ मार्ग",
+        "e": "the gone-to / already traversed"
+      },
+      {
+        "s": "अगतम्",
+        "h": "अभी न गया हुआ मार्ग",
+        "e": "the not-yet-gone-to"
+      },
+      {
+        "s": "गम्यमानम्",
+        "h": "अभी जाया जा रहा (वर्तमान क्रिया)",
+        "e": "the being-gone-to / presently being traversed"
+      },
+      {
+        "s": "गम्यते",
+        "h": "जाया जाता है (कर्मवाच्य)",
+        "e": "is being gone to (passive)"
+      },
+      {
+        "s": "विनिर्मुक्तम्",
+        "h": "से मुक्त / अलग",
+        "e": "freed from / apart from"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गम्यते</em> = √गम् (जाना), कर्मवाच्य लट्, प्रथम पुरुष एकवचन — 'जाया जाता है।' <em>गतम्, अगतम्, गम्यमानम्</em> तीनों कृदन्त रूप हैं — भूत कृदन्त, नञ्-भूत कृदन्त, और वर्तमान कृदन्त (शानच् प्रत्यय, कर्मवाच्य) — जो मार्ग के तीन कालिक खण्डों को दर्शाते हैं। नागार्जुन यहाँ समय को तीन भागों में बाँटकर हर भाग में गमन की सम्भावना जाँचते हैं।<br><em>Eng:</em> <em>gamyate</em> is passive present of √gam. The three participles <em>gata, agata, gamyamāna</em> partition the path into past, future, and present segments — Nāgārjuna tests each for the presence of actual motion.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक त्रैकालिक विश्लेषण (काल-त्रय परीक्षा) की शुरुआत है, जो पूरे अध्याय की नींव है। मार्ग को तीन भागों में बाँटा गया है — जो पार हो चुका (गत), जो अभी पार नहीं हुआ (अगत), और जो अभी पार हो रहा है (गम्यमान)। पहले दो में गति नहीं हो सकती क्योंकि वे स्थिर खण्ड हैं। तीसरा — गम्यमान — भी वास्तव में गत और अगत के मिश्रण से बना एक काल्पनिक विभाजन है, इसलिए स्वतन्त्र रूप से 'गमन' उसमें भी नहीं टिकता।",
+        "en": "Candrakīrti says this verse opens the three-time analysis (kāla-traya-parīkṣā) foundational to the whole chapter. The path divides into gone, not-gone, and being-gone-to. Motion cannot exist in the first two static segments. The third, gamyamāna, is itself only a conceptual overlay built from the other two, so motion does not independently reside there either.",
+        "ins": "गति को समय के टुकड़ों में बाँटकर खोजने की कोशिश हर बार खाली हाथ लौटती है — क्योंकि गति किसी एक क्षण में 'ठहरी हुई' नहीं मिलती।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत सीधा है। जो रास्ता पार हो चुका, उस पर अभी चलना कैसे हो सकता है? वह तो बीत चुका। जो रास्ता अभी छुआ ही नहीं गया, उस पर भी चलना अभी नहीं हो सकता। और तीसरा भाग — जिसे हम 'जा रहे हैं' कहते हैं — वह इन्हीं दोनों की सीमा पर टिका एक नाम मात्र है, उसका कोई स्वतन्त्र अस्तित्व नहीं जिसमें गमन रखा जा सके।",
+        "en": "Buddhapālita says the argument is simple. On the already-traversed part, walking cannot happen now — it is past. On the untouched part, walking is likewise absent. The third portion, 'being gone,' is merely a name resting on the boundary between the other two, with no independent existence to house motion.",
+        "ins": "रोज़मर्रा की भाषा में हम 'अभी जा रहा हूँ' कहते हैं — पर बारीकी से देखने पर वह 'अभी' कहीं टिकता ही नहीं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यावहारिक स्तर पर हम बिना किसी कठिनाई के कहते हैं 'वह जा रहा है' — यह लोकव्यवहार में सत्य है। पर जब हम परमार्थ दृष्टि से पूछते हैं 'गमन ठीक-ठीक कहाँ स्थित है?' — तो गत, अगत, गम्यमान तीनों में वह नहीं मिलता। यही अन्तर परमार्थ और संवृति सत्य के बीच है।",
+        "en": "Bhāviveka says conventionally we say 'he is going' without any trouble — this holds at the level of everyday usage. But when we ask, from the ultimate standpoint, 'exactly where does motion reside?' — it is found in none of the three: gone, not-gone, being-gone-to. This is the gap between ultimate and conventional truth.",
+        "ins": "व्यवहार में गमन बिलकुल ठीक काम करता है — पर 'ठीक कहाँ है गमन?' पूछते ही वह हाथ से फिसल जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🚶 अगर 'अभी जा रहा हूँ' में भी गमन नहीं है, तो चलना हो कैसे रहा है?",
+        "a": "नागार्जुन यह नहीं कह रहे कि चलना नहीं होता — रोज़मर्रा में लोग चलते ही हैं। वे दिखा रहे हैं कि जब हम गमन को <strong>'गत' (past), 'अगत' (future), 'गम्यमान' (present)</strong> — इन तीन ठोस, स्वतन्त्र खण्डों में बाँटकर उसका 'ठोस स्थान' खोजने जाते हैं, तो कहीं नहीं मिलता। यह गमन के <strong>अस्तित्व से इनकार नहीं</strong>, बल्कि गमन को एक 'स्वभाव-सिद्ध वस्तु' मानने से इनकार है — गमन <strong>प्रतीत्यसमुत्पन्न</strong> है, टुकड़ों में बँटा हुआ ठोस पदार्थ नहीं।"
+      },
+      {
+        "q": "⏳ यह ज़ेनो के विरोधाभास (Zeno's paradox) जैसा तो नहीं?",
+        "a": "समानता है पर उद्देश्य अलग है। ज़ेनो <strong>गति के असम्भव होने</strong> को सिद्ध करना चाहते थे — यानी संशयवाद। नागार्जुन <strong>गति की शून्यता (स्वभाव-शून्यता)</strong> दिखाना चाहते हैं — यानी गति होती है, पर 'अपने-आप में ठोस, स्वतन्त्र चीज़' के रूप में नहीं। लक्ष्य गति को नकारना नहीं, बल्कि यह समझना है कि वह <strong>निर्भरता से उपजी</strong> है — इसीलिए इसे 'मध्यम मार्ग' कहा जाता है, न शाश्वतवाद न उच्छेदवाद।"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sk": "चेष्टा यत्र गतिस्तत्र गम्यमाने च सा यतः ।\nन गते नागते चेष्टा गम्यमाने गतिस्ततः ॥",
+    "ro": "ceṣṭā · yatra · gatis · tatra · gamyamāne · ca · sā · yataḥ | na · gate · nāgate · ceṣṭā · gamyamāne · gatis · tataḥ ||",
+    "hi": "जहाँ क्रिया है वहीं गति है। चूँकि 'गत' और 'अगत' में क्रिया नहीं है, इसलिए गति 'गम्यमान' में होनी चाहिए।",
+    "en": "Where there is activity, there is motion. Since there is no activity in the gone-to or the not-yet-gone-to, motion must be in the being-gone-to.",
+    "ws": [
+      {
+        "s": "चेष्टा",
+        "h": "क्रिया / प्रयत्न / हलचल",
+        "e": "activity / effort / movement"
+      },
+      {
+        "s": "गतिः",
+        "h": "गति / गमन",
+        "e": "motion"
+      },
+      {
+        "s": "गते",
+        "h": "गए हुए (भाग) में",
+        "e": "in the gone-to"
+      },
+      {
+        "s": "अगते",
+        "h": "न गए हुए (भाग) में",
+        "e": "in the not-yet-gone-to"
+      },
+      {
+        "s": "यतः / ततः",
+        "h": "जिस कारण से / उस कारण से",
+        "e": "because / therefore"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>चेष्टा</em> = √चेष्ट् (हिलना-डुलना, प्रयत्न करना) से स्त्रीलिंग नाम — 'क्रियाशीलता।' <em>यत्र...तत्र</em> सम्बन्धवाचक अव्यय-युग्म — 'जहाँ...वहाँ।' <em>यतः...ततः</em> हेतुवाचक — 'क्योंकि...इसलिए।' यह पूर्वपक्ष (opponent's view) है — विरोधी तर्क देता है कि चूँकि गत और अगत निष्क्रिय हैं, अतः क्रिया अनिवार्यतः गम्यमान में ही होनी चाहिए।<br><em>Eng:</em> This verse states the opponent's (pūrvapakṣa) argument: since gata and agata lack activity, motion is forced into gamyamāna by elimination.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक विरोधी (पूर्वपक्षी) का तर्क है, जिसे नागार्जुन आगे खण्डित करेंगे। विरोधी कहता है: 'चेष्टा जहाँ है वहीं गति है — और चूँकि गत व अगत में कोई क्रिया नहीं दिखती, तो शेष बचा गम्यमान — वहीं गति होगी।' यह प्रत्यक्ष रूप से बुद्धिसंगत लगता है, पर अगले श्लोकों में इसकी वृत्तिगत त्रुटि उजागर होगी।",
+        "en": "Candrakīrti says this is the opponent's own reasoning, which Nāgārjuna will dismantle next. The opponent argues: since gata and agata show no activity, motion by elimination must belong to gamyamāna. This seems intuitively sound but conceals a circularity exposed in the following verses.",
+        "ins": "'बचे हुए विकल्प में सच होना चाहिए' — यह तर्क तभी काम करता है जब विकल्प सचमुच परस्पर स्वतन्त्र हों। यहाँ वे नहीं हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — विरोधी का यह तर्क साधारण बुद्धि से बना है: चलते हुए व्यक्ति में हलचल दिखती है, इसलिए वहीं गति है। पर 'गम्यमान' शब्द स्वयं ही 'गति' के अर्थ को अपने भीतर पहले से समाहित किए हुए है — यह तर्क अपनी सिद्धि के लिए जिसे सिद्ध करना चाहता है, उसी को पहले से मान लेता है।",
+        "en": "Buddhapālita says the opponent's reasoning is built on ordinary intuition: a moving person visibly stirs, so motion is there. But the word 'gamyamāna' already smuggles in the very notion of motion it seeks to prove — the argument presupposes its conclusion.",
+        "ins": "'गम्यमान' नाम ही गति मान लेता है — इसलिए इसे गति का प्रमाण बनाना घुमावदार तर्क है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह विरोधी का पक्ष स्वीकार्य लगता है क्योंकि व्यवहार में हम गतिशील वस्तु में ही चेष्टा देखते हैं। पर आगे नागार्जुन दिखाएँगे कि यह 'चेष्टा' और 'गम्यमान' का सम्बन्ध ही परमार्थतः असंगत है — दोनों परस्पर एक-दूसरे को परिभाषित करते घूमते हैं।",
+        "en": "Bhāviveka says the opponent's position seems acceptable since we conventionally observe activity only in moving things. But Nāgārjuna will show the relation between 'ceṣṭā' and 'gamyamāna' is ultimately incoherent — each circularly defines the other.",
+        "ins": "आगे के श्लोक दिखाएँगे कि यह 'सीधा-सादा' तर्क अपने ही भीतर एक चक्र (circularity) छुपाए है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🤔 यह विरोधी का तर्क कमज़ोर कैसे है?",
+        "a": "विरोधी कहता है: गत और अगत में क्रिया नहीं, तो बचा गम्यमान — इसलिए गति वहीं है। यह तर्क तभी वैध होता जब 'गम्यमान' एक <strong>स्वतन्त्र, पहले से परिभाषित</strong> तीसरी वस्तु होती। पर 'गम्यमान' का शाब्दिक अर्थ ही है 'जो गति में है' — तो यह कहना कि 'गति गम्यमान में है क्योंकि वह बचा हुआ विकल्प है' असल में यह मान लेना है कि <strong>जिसे साबित करना था वह पहले से मान लिया गया</strong>। अगले श्लोकों में नागार्जुन ठीक यही परिपथ (circularity) उघाड़ते हैं।"
+      },
+      {
+        "q": "🔍 'क्रिया जहाँ है वहीं गति है' — यह सामान्य सिद्धान्त गलत क्यों?",
+        "a": "सिद्धान्त अपने आप में गलत नहीं — समस्या यह है कि यह <strong>तीन कालिक खण्डों को पहले से ठोस, स्वतन्त्र वस्तुएँ मान लेता है</strong>, और फिर उनमें 'क्रिया' खोजने निकलता है, मानो क्रिया कोई अलग चीज़ हो जो किसी खण्ड में 'रखी' जा सकती है। नागार्जुन का पूरा तर्क यही दिखाना है कि <strong>क्रिया और उसका 'स्थान' परस्पर-निर्भर हैं</strong> — एक को दूसरे से अलग करके नहीं खोजा जा सकता।"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sk": "गम्यमानस्य गमनं कथं नामोपपद्यते ।\nगम्यमानं विगमनं यदा नैवोपपद्यते ॥",
+    "ro": "gamyamānasya · gamanaṃ · kathaṃ · nāmopapadyate | gamyamānaṃ · vigamanaṃ · yadā · naivopapadyate ||",
+    "hi": "'अभी जा रहे हैं' में गमन कैसे सिद्ध होगा? जब 'अभी जा रहे हैं' बिना गमन के सम्भव ही नहीं है।",
+    "en": "How can motion be established in the being-gone-to? For the being-gone-to without motion is never possible.",
+    "ws": [
+      {
+        "s": "गम्यमानस्य",
+        "h": "अभी जाए जा रहे (मार्ग) का",
+        "e": "of the being-gone-to"
+      },
+      {
+        "s": "गमनम्",
+        "h": "गमन / चलना (क्रिया)",
+        "e": "motion / going"
+      },
+      {
+        "s": "कथं नाम",
+        "h": "आखिर कैसे / भला कैसे",
+        "e": "how indeed"
+      },
+      {
+        "s": "उपपद्यते",
+        "h": "सिद्ध होता है / सम्भव होता है",
+        "e": "is established / is possible"
+      },
+      {
+        "s": "विगमनम्",
+        "h": "गमन से रहित / गमन के बिना",
+        "e": "devoid of motion"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>उपपद्यते</em> = उप + √पद् (सिद्ध होना), आत्मनेपद लट् — 'सिद्ध होता है/तर्कसंगत बैठता है।' <em>कथं नाम</em> आश्चर्य-व्यंजक प्रश्नवाचक — 'भला कैसे।' <em>विगमनम्</em> = वि + गमन, यहाँ 'गमन-रहित' अर्थ में — बहुव्रीहि जैसा प्रयोग। यह पद 'गम्यमान' शब्द की भीतरी असंगति दिखाता है: यदि 'गम्यमान' में स्वयं गमन न हो तो वह 'गम्यमान' ही नहीं कहलाएगा।<br><em>Eng:</em> The verse exposes an internal inconsistency: 'gamyamāna' presupposes gamana within its very meaning, so asking whether motion exists 'in' it is circular.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — नागार्जुन यहाँ विरोधी से पूछते हैं: तुम कहते हो गम्यमान में गमन है — पर यह 'गम्यमान' है ही इसलिए क्योंकि इसमें गमन है। तो क्या तुम गमन को गमन से सिद्ध कर रहे हो? यह वृत्तिगत तर्क (circular reasoning) है, प्रमाण नहीं।",
+        "en": "Candrakīrti says Nāgārjuna asks the opponent: you claim motion is in the being-gone-to — but it is called 'being-gone-to' precisely because motion is already there. Are you proving motion by motion? This is circular reasoning, not proof.",
+        "ins": "जो शब्द अपनी परिभाषा में ही 'गति' रखता है, उसे 'गति है' कहकर सिद्ध करना कुछ भी सिद्ध नहीं करता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'गम्यमान' शब्द स्वयं गमन-सहित वस्तु का द्योतक है। यदि हम पूछें 'गम्यमान में गमन कैसे सिद्ध होगा' तो यह वैसा ही है जैसे पूछना 'गर्म वस्तु में गर्मी कैसे सिद्ध होगी' — नाम में ही उत्तर छिपा है, पर यही वृत्ति (circularity) असली समस्या है।",
+        "en": "Buddhapālita says the very word 'gamyamāna' denotes something possessing motion. Asking how motion is established in it is like asking how heat is established in a hot object — the name already contains the answer, but this circularity is exactly the problem.",
+        "ins": "नाम में उत्तर छिपा देना असली सिद्धि नहीं है — यह भाषा का खेल है, तर्क का प्रमाण नहीं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह तर्क दिखाता है कि 'गम्यमान' कोई स्वतन्त्र, स्वभाव-सिद्ध श्रेणी नहीं है जिसमें गति 'डाली' जाए — बल्कि गति और गम्यमान परस्पर परिभाषा से बँधे हैं। परमार्थतः इनमें से कोई भी स्वतन्त्र सिद्ध नहीं होता।",
+        "en": "Bhāviveka says this shows 'gamyamāna' is not an independent, inherently-established category into which motion is 'inserted' — rather, motion and gamyamāna are bound by mutual definition. Ultimately, neither is independently established.",
+        "ins": "जो दो अवधारणाएँ एक-दूसरे को परिभाषित करती हैं, वे परस्पर-निर्भर हैं — किसी एक को दूसरे का 'मूल कारण' नहीं कहा जा सकता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 यह तर्क वृत्तिगत (circular) कैसे है?",
+        "a": "'गम्यमान' शब्द का अर्थ ही है 'जो गति में है।' अगर कोई पूछे 'गम्यमान में गति है, यह कैसे सिद्ध होगा?' तो उत्तर 'क्योंकि यह गम्यमान है' कहना वैसा ही है जैसे पूछना 'क्या यह गोल है?' और जवाब देना 'हाँ, क्योंकि यह वृत्त है।' <strong>परिभाषा को प्रमाण बना देना</strong> कुछ नया सिद्ध नहीं करता — यही नागार्जुन दिखाना चाहते हैं: 'गम्यमान' को गति का 'ठोस स्थान' बताना भाषा का चक्कर है, वास्तविक विश्लेषण नहीं।"
+      },
+      {
+        "q": "🧩 अगर गम्यमान भी गति का ठोस स्थान नहीं, तो गति किसमें है?",
+        "a": "यही नागार्जुन का मुख्य बिंदु है — गति <strong>किसी एक ठोस, स्वतन्त्र 'स्थान' में नहीं टिकती</strong>, न गत में, न अगत में, न गम्यमान में। इसका मतलब यह नहीं कि गति नहीं होती, बल्कि यह कि गति को 'कहीं रखी हुई ठोस वस्तु' मानना ही गलत प्रश्न है। गति <strong>सम्बन्धों और अवधारणाओं के जाल</strong> से उपजती है — चलने वाला, चला जाने वाला मार्ग, और समय — ये तीनों परस्पर-निर्भर होकर ही अर्थ पाते हैं, अलग-अलग ठोस खण्डों में नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sk": "गम्यमानस्य गमनं यस्य तस्य प्रसज्यते ।\nऋते गतेर्गम्यमानं गम्यमानं हि गम्यते ॥",
+    "ro": "gamyamānasya · gamanaṃ · yasya · tasya · prasajyate | ṛte · gater · gamyamānaṃ · gamyamānaṃ · hi · gamyate ||",
+    "hi": "जो कहता है कि गम्यमान में गमन है, उसे यह मानना पड़ेगा कि गमन के बिना भी गम्यमान है — पर गम्यमान तो गमन से ही बनता है।",
+    "en": "For one who holds that there is motion in the being-gone-to, it follows that the being-gone-to exists without motion — but the being-gone-to is defined by motion.",
+    "ws": [
+      {
+        "s": "प्रसज्यते",
+        "h": "प्रसंग/अनिष्ट परिणाम आ जाता है",
+        "e": "it follows as an absurd consequence"
+      },
+      {
+        "s": "ऋते गतेः",
+        "h": "गमन के बिना",
+        "e": "without motion"
+      },
+      {
+        "s": "गम्यमानम्",
+        "h": "जो जाया जा रहा है",
+        "e": "the being-gone-to"
+      },
+      {
+        "s": "गम्यते",
+        "h": "जाया जाता है",
+        "e": "is being gone to"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रसज्यते</em> = प्र + √सञ्ज् (चिपकना/परिणाम में जुड़ना), कर्मवाच्य — नैयायिक-न्याय शैली में 'अनिष्ट प्रसंग' (अवांछित परिणाम) दिखाने वाला पारिभाषिक शब्द। <em>ऋते</em> + पञ्चमी विभक्ति — 'के बिना।' यह प्रसंग-अनुमान (reductio ad absurdum) है — विरोधी के पक्ष से एक विरोधाभासी परिणाम निकाला जाता है।<br><em>Eng:</em> <em>prasajyate</em> is technical vocabulary for an unwanted logical consequence (prasaṅga) — a reductio drawn from the opponent's own premise.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति यहाँ प्रसंगापादन (prasaṅga) की क्लासिक विधि दिखाते हैं। विरोधी कहता है 'गम्यमान में गमन है' — इसका अर्थ है कि 'गम्यमान' पहले से मौजूद है, और फिर उसमें 'गमन' जोड़ा जाता है। पर यह मानना पड़ेगा कि गमन से रहित भी कोई 'गम्यमान' हो सकता है — जो कि विरोधाभासी है, क्योंकि 'गम्यमान' की परिभाषा ही गमन पर टिकी है।",
+        "en": "Candrakīrti shows the classic prasaṅga method. The opponent's claim that 'motion is in gamyamāna' implies gamyamāna pre-exists and motion is then added to it — but this entails a motion-less gamyamāna, which is absurd since gamyamāna is defined by motion itself.",
+        "ins": "अगर 'X में Y है' कहा जाए, तो X को Y से पहले, स्वतन्त्र रूप से मौजूद होना चाहिए। पर गम्यमान, गमन के बिना अस्तित्व में ही नहीं आ सकता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क सीधा प्रसंग है: 'में' शब्द के प्रयोग से यह मान लिया जाता है कि दोनों चीज़ें अलग-अलग हैं — पात्र और उसकी विषयवस्तु। पर गम्यमान और गमन अलग-अलग नहीं हैं, एक ही घटना के दो नाम हैं। इसलिए 'गम्यमान में गमन' कहना ही तार्किक भूल है।",
+        "en": "Buddhapālita says the argument is a direct prasaṅga: saying 'motion is in gamyamāna' presumes a container and its content are separate. But gamyamāna and gamana are not separate — they are two names for one event. Hence 'motion in gamyamāna' is itself a category error.",
+        "ins": "जब दो शब्द एक ही घटना के दो पहलू हों, तो एक को दूसरे का 'पात्र' और दूसरे को उसकी 'विषयवस्तु' बताना ग़लत बँटवारा है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह प्रसंग-अनुमान परमार्थ स्तर पर लागू होता है। व्यावहारिक भाषा में 'वह जा रहा है' कहना सम्भव है, पर जब हम उसकी 'आन्तरिक संरचना' परमार्थतः खोजते हैं, तो 'गम्यमान बिना गमन के' का विरोधाभास सामने आता है — यह दिखाता है कि गम्यमान स्वभावतः सिद्ध नहीं।",
+        "en": "Bhāviveka says this prasaṅga applies at the ultimate level. Conventionally 'he is going' is fine to say, but when we seek the ultimate inner structure, the absurdity of 'gamyamāna without motion' surfaces — showing gamyamāna is not established by inherent nature.",
+        "ins": "भाषा हमें 'में' कहकर दो अलग चीज़ें सोचने पर मजबूर करती है — पर वास्तविकता में यह विभाजन नकली हो सकता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧭 'गमन के बिना गम्यमान' का विरोधाभास असल में क्या दिखाता है?",
+        "a": "जब विरोधी कहता है 'गम्यमान में गमन है' तो वह भाषा की संरचना से यह मान बैठता है कि <strong>गम्यमान (पात्र) और गमन (विषयवस्तु) दो अलग चीज़ें हैं</strong> — जैसे 'घड़े में पानी है।' पर घड़ा बिना पानी के भी घड़ा रहता है, जबकि <strong>गम्यमान बिना गमन के गम्यमान ही नहीं रह सकता</strong> — क्योंकि उसका पूरा अर्थ ही गमन पर निर्भर है। यही विरोधाभास दिखाता है कि 'में' का प्रयोग यहाँ ग़लत रूपक है।"
+      },
+      {
+        "q": "🪞 क्या यह हमारी भाषा की एक बड़ी समस्या की तरफ इशारा करता है?",
+        "a": "हाँ — नागार्जुन दिखा रहे हैं कि भाषा अक्सर <strong>क्रिया (verb) को वस्तु (noun) जैसा बना देती है</strong>। 'गम्यमान' शब्द एक संज्ञा जैसा लगता है, मानो कोई ठोस चीज़ हो जिसमें गमन 'रखा' जा सके। पर वास्तव में गम्यमान <strong>स्वयं एक प्रक्रिया है</strong>, वस्तु नहीं। यह भाषा-निर्मित भ्रम — क्रियाओं को वस्तुओं में बदल देना — बौद्ध दर्शन में <strong>प्रज्ञप्ति (nominal designation)</strong> कहलाता है, और यह शून्यता को समझने की कुंजी है।"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sk": "गम्यमानस्य गमने प्रसक्तं गमनद्वयम् ।\nयेन तद्गम्यमानं च यच्चात्र गमनं पुनः ॥",
+    "ro": "gamyamānasya · gamane · prasaktaṃ · gamanadvayam | yena · tad · gamyamānaṃ · ca · yac · cātra · gamanaṃ · punaḥ ||",
+    "hi": "गम्यमान में गमन मानने से दो गमन हो जाते हैं — एक जिससे वह गम्यमान है, और दूसरा जिसे अलग से गमन कहा जा रहा है।",
+    "en": "If motion belongs to the being-gone-to, two motions follow — one by which it is being-gone-to, and another that is additionally called motion.",
+    "ws": [
+      {
+        "s": "गमनद्वयम्",
+        "h": "दो गमन / दुहरी गति",
+        "e": "two motions / doubled going"
+      },
+      {
+        "s": "प्रसक्तम्",
+        "h": "प्रसंगवश जुड़ जाता है / अवश्यम्भावी परिणाम",
+        "e": "necessarily follows / results"
+      },
+      {
+        "s": "येन",
+        "h": "जिस (गमन) के द्वारा",
+        "e": "by which"
+      },
+      {
+        "s": "पुनः",
+        "h": "फिर से / दुबारा",
+        "e": "again / additionally"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गमनद्वयम्</em> = गमन + द्वय (द्विवचन-सूचक बहुव्रीहि जैसा समास) — 'दो गमन।' <em>प्रसक्तम्</em> = प्र + √सञ्ज् का भूतकृदन्त — 'अवश्यम्भावी रूप से जुड़ा हुआ।' <em>येन...तत्...यत्...च</em> सम्बन्धवाचक सर्वनाम-युग्म जो दो भिन्न गमनों को अलग-अलग इंगित करता है — एक जो 'गम्यमान' नाम की रचना करता है, दूसरा जो उस पर 'पुनः' आरोपित होता है।<br><em>Eng:</em> The relative-correlative <em>yena...tat...yac ca</em> distinguishes two motions: the one that constitutes the name 'gamyamāna' and the one additionally superimposed as its predicate.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति समझाते हैं — 'गम्यमान' शब्द बनता ही एक गमन से है (जिससे वस्तु 'गम्यमान' कहलाती है)। अब अगर हम कहें 'गम्यमान में गमन है' तो यह दूसरा, अतिरिक्त गमन हो गया। तो एक ही घटना में दो गमन मानने पड़ेंगे — जो स्पष्टतः फिजूल (अनावश्यक बहुलीकरण) है।",
+        "en": "Candrakīrti explains: the term 'gamyamāna' is itself constituted by a motion (the one making it 'being-gone-to'). If we then say 'motion is in gamyamāna,' that is a second, additional motion. So one single event ends up requiring two motions — a plainly needless multiplication.",
+        "ins": "एक ही घटना को दो बार गिनना, उसे दुगना 'वास्तविक' नहीं बना देता — यह केवल भाषा की गड़बड़ी है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह ठीक वैसे ही है जैसे किसी 'दौड़ते हुए व्यक्ति' के बारे में कहें 'उसकी दौड़ में दौड़ है' — यह वाक्य दौड़ को दोहरा देता है, बिना कुछ नया कहे। नागार्जुन इसी अनावश्यक द्विगुणन को उजागर करते हैं ताकि दिखाया जा सके कि 'गम्यमान में गमन' मानना तर्कतः फिजूल है।",
+        "en": "Buddhapālita says this is like saying of a running person 'there is running in his running' — the sentence doubles the running without adding anything new. Nāgārjuna exposes this needless doubling to show that positing 'motion in gamyamāna' is logically superfluous.",
+        "ins": "जब कोई कथन खुद को दोहराने के अलावा कुछ नहीं जोड़ता, तो वह विश्लेषण नहीं, पुनरुक्ति है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह दोष तभी उठता है जब हम गम्यमान और गमन को दो स्वतन्त्र, स्वभाव-सिद्ध पदार्थ मान लें। परमार्थतः विश्लेषण करने पर यह द्विगुणन-दोष सामने आता है, जो दिखाता है कि इन दोनों को स्वतन्त्र वस्तुएँ मानना ही गलत आधार है।",
+        "en": "Bhāviveka says this fault arises only if we take gamyamāna and gamana as two independently, inherently established entities. Ultimate analysis reveals this doubling-fault, showing that treating them as independent entities is itself the wrong premise.",
+        "ins": "दो नामों को दो अलग 'ठोस चीज़ें' मान लेना अक्सर तर्क में अनावश्यक द्विगुणन पैदा कर देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "♻️ 'दो गमन' का यह दोष असल में क्या सिखाता है?",
+        "a": "जब हम कहते हैं 'गम्यमान में गमन है,' तो हम भूल जाते हैं कि <strong>'गम्यमान' शब्द स्वयं पहले से गमन को समाहित किए हुए है</strong> — इसीलिए वह 'गम्यमान' कहलाता है। अब अगर उसमें फिर से 'गमन' जोड़ा जाए, तो हम अनजाने में एक ही घटना को दो बार गिन रहे हैं। यह सिखाता है कि <strong>भाषा में सूक्ष्म पुनरुक्तियाँ (redundancies)</strong> अक्सर छिपी होती हैं, जो ग़लती से 'दो अलग वास्तविकताओं' जैसी दिखने लगती हैं।"
+      },
+      {
+        "q": "💡 रोज़मर्रा की सोच में हम ऐसी 'दोहरी गिनती' और कहाँ करते हैं?",
+        "a": "यह पैटर्न बहुत आम है — जैसे कहना 'मेरे विचार में यह विचार है' या 'मेरी पहचान में मेरा 'मैं' है।' हम अक्सर किसी <strong>प्रक्रिया को एक संज्ञा बना देते हैं</strong> (विचार, पहचान, गमन), और फिर उसी संज्ञा में दुबारा वही प्रक्रिया खोजने लगते हैं, जैसे वह कोई अलग वस्तु हो। नागार्जुन का यह विश्लेषण हमें सिखाता है कि <strong>प्रक्रिया और उसके नाम को अलग-अलग 'चीज़ें' न मानें</strong> — यही चूक कई दार्शनिक और मनोवैज्ञानिक भ्रमों की जड़ है।"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sk": "द्वौ गन्तारौ प्रसज्येते प्रसक्ते गमनद्वये ।\nगन्तारं हि तिरस्कृत्य गमनं नोपपद्यते ॥",
+    "ro": "dvau · gantārau · prasajyete · prasakte · gamanadvaye | gantāraṃ · hi · tiraskṛtya · gamanaṃ · nopapadyate ||",
+    "hi": "दो गमन मानें तो दो चलने वाले भी मानने पड़ेंगे — क्योंकि चलने वाले के बिना गमन सम्भव ही नहीं।",
+    "en": "If two motions follow, two goers would also follow — for motion is impossible without a goer.",
+    "ws": [
+      {
+        "s": "द्वौ गन्तारौ",
+        "h": "दो चलने वाले",
+        "e": "two goers"
+      },
+      {
+        "s": "प्रसज्येते",
+        "h": "दोनों (परिणामस्वरूप) आ जाते हैं",
+        "e": "both necessarily follow"
+      },
+      {
+        "s": "तिरस्कृत्य",
+        "h": "छोड़कर / अलग करके / रहित करके",
+        "e": "having set aside / excluding"
+      },
+      {
+        "s": "नोपपद्यते",
+        "h": "सिद्ध/सम्भव नहीं होता",
+        "e": "is not established / not possible"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रसज्येते</em> = द्विवचन आत्मनेपद — 'दोनों जुड़ जाते हैं (अनिष्ट परिणाम स्वरूप)।' <em>तिरस्कृत्य</em> = तिरस् + कृ का ल्यबन्त (सम्बन्धक भूतकृदन्त) — 'को छोड़कर/निकालकर।' यह श्लोक पिछले 'दो गमन' के दोष को आगे बढ़ाकर 'दो गन्ता' (goer) तक ले जाता है — प्रसंग शृंखला (chain of absurd consequences) का उदाहरण।<br><em>Eng:</em> This extends the 'two motions' fault to 'two goers' — a chained prasaṅga, since a goer is the necessary correlate of any motion.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — जैसे बिना अग्नि के धुआँ नहीं होता, वैसे ही बिना चलने वाले के गमन नहीं होता। पिछले श्लोक में दो गमन सिद्ध हुए थे, तो अब हर गमन के साथ एक चलने वाला जुड़ना अनिवार्य है — इसलिए दो चलने वाले मानने पड़ेंगे, जो स्पष्टतः असंगत है।",
+        "en": "Candrakīrti says just as there is no smoke without fire, there is no motion without a goer. Since the previous verse established two motions, each requires its own goer — so two goers must follow, which is plainly absurd.",
+        "ins": "एक अनिष्ट परिणाम अक्सर श्रृंखलाबद्ध होकर और अनिष्ट परिणाम पैदा करता है — यही प्रसंग-तर्क की शक्ति है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत व्यावहारिक है: कोई भी सामान्य व्यक्ति यह स्वीकार नहीं करेगा कि एक ही चलने की घटना में दो अलग-अलग चलने वाले हों। यह प्रसंग विरोधी के मूल दावे — 'गम्यमान में गमन है' — को उसकी जड़ से ही असंगत साबित करता है।",
+        "en": "Buddhapālita says this is intuitively obvious — no ordinary person would accept two separate goers in one single act of walking. This absurdity undermines the opponent's original claim at its root.",
+        "ins": "जब कोई सिद्धान्त सामान्य बुद्धि के विरुद्ध दो चलने वालों जैसा अजीब परिणाम दे, तो सिद्धान्त में ही खोट है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह प्रसंग दिखाता है कि गमन और गन्ता (चलने वाला) परस्पर-सम्बद्ध श्रेणियाँ हैं — एक को स्वतन्त्र, ठोस मानते ही दूसरे में भी अनावश्यक द्विगुणन फैल जाता है। यह उनके परस्पर-निर्भर, अ-स्वभाव-सिद्ध होने का प्रमाण है।",
+        "en": "Bhāviveka says this shows motion and goer are correlative categories — treating one as independently solid causes the doubling to spread into the other too, evidencing their mutual dependence and lack of inherent existence.",
+        "ins": "एक श्रेणी में की गई ग़लती अक्सर उससे जुड़ी दूसरी श्रेणी में भी फैल जाती है — यही दिखाता है कि वे मूलतः जुड़ी हुई हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏃 'दो चलने वाले' का विचार इतना अजीब क्यों लगता है?",
+        "a": "क्योंकि हमारा सामान्य अनुभव कहता है कि <strong>एक चलने की घटना में एक ही चलने वाला होता है</strong> — यह लगभग आत्म-स्पष्ट सत्य लगता है। नागार्जुन इसी सहज-बोध का प्रयोग करते हैं: अगर विरोधी का तर्क मानने से एक इतना स्पष्ट-असम्भव परिणाम (दो गन्ता) निकलता है, तो ज़रूर शुरुआती मान्यता — 'गम्यमान में गमन है' — में ही कोई गहरी गड़बड़ है। यह <strong>प्रसंगापत्ति (reductio ad absurdum)</strong> की क्लासिक चाल है।"
+      },
+      {
+        "q": "🧩 यह चेन-रिएक्शन जैसा तर्क आगे कहाँ तक जाएगा?",
+        "a": "यही इस पूरे अध्याय की रणनीति है — नागार्जुन एक-एक करके दिखाते हैं कि विरोधी की एक छोटी मान्यता ('गम्यमान में गति') से <strong>दो गमन → दो गन्ता → और आगे बढ़ने पर पूरे कर्ता-कर्म ढाँचे का विघटन</strong> होता जाता है। आगे के श्लोकों (18-19) में यह सीधे 'कर्ता और कर्म एक हैं या भिन्न' के गहरे प्रश्न तक पहुँचेगा — जो बताएगा कि चलने वाला और चलना दोनों <strong>स्वतन्त्र स्वभाव से रहित</strong> और केवल परस्पर-निर्भरता से अर्थवान हैं।"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sk": "गन्तारं चेत्तिरस्कृत्य गमनं नोपपद्यते ।\nगमने ह्यसति गन्ता कुत एव भविष्यति ॥",
+    "ro": "gantāraṃ · cet · tiraskṛtya · gamanaṃ · nopapadyate | gamane · hy · asati · gantā · kuta · eva · bhaviṣyati ||",
+    "hi": "चलने वाले के बिना गमन नहीं हो सकता। और गमन के बिना चलने वाला कहाँ से आएगा?",
+    "en": "If motion is impossible without a goer, then when there is no motion, where will the goer come from?",
+    "ws": [
+      {
+        "s": "चेत्",
+        "h": "यदि / अगर",
+        "e": "if"
+      },
+      {
+        "s": "असति",
+        "h": "न होने पर / अभाव में (सप्तमी)",
+        "e": "when absent / not existing"
+      },
+      {
+        "s": "कुतः एव",
+        "h": "आखिर कहाँ से",
+        "e": "from where indeed"
+      },
+      {
+        "s": "भविष्यति",
+        "h": "होगा / उत्पन्न होगा (भविष्यत्)",
+        "e": "will come to be"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>असति</em> = अस् (होना) धातु का वर्तमान कृदन्त, नञ्-पूर्वक, सप्तम्यन्त — 'सति सप्तमी' रचना — 'न होने पर।' <em>भविष्यति</em> = √भू, लृट् लकार, प्रथम पुरुष — 'होगा।' यह श्लोक पारस्परिक-निर्भरता (अन्योन्याश्रय) का सीधा कथन है — गमन और गन्ता एक-दूसरे के बिना सिद्ध नहीं होते, इसलिए किसी एक को 'मूल/स्वतन्त्र' आधार नहीं बनाया जा सकता।<br><em>Eng:</em> A direct statement of mutual dependence (anyonyāśraya) — motion and goer cannot be established without each other, so neither can serve as an independent foundation.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 'अन्योन्याश्रय दोष' (mutual dependence fallacy) को उजागर करता है। गमन को गन्ता चाहिए, गन्ता को गमन चाहिए — दोनों एक-दूसरे पर लटके हैं, कोई एक स्वतन्त्र आधार नहीं बन सकता। यह ठीक वैसा ही है जैसे कोई कहे 'पिता के बिना पुत्र नहीं, पुत्र के बिना पिता नहीं' — दोनों साथ-साथ, परस्पर-सापेक्ष अर्थ पाते हैं, स्वतन्त्र स्वभाव से नहीं।",
+        "en": "Candrakīrti says this exposes the fallacy of mutual dependence (anyonyāśraya). Motion needs a goer, the goer needs motion — each hangs on the other, neither can be an independent foundation. It is like saying 'no son without a father, no father without a son' — both gain meaning only relationally, never through inherent, independent nature.",
+        "ins": "जब दो चीज़ें केवल एक-दूसरे से परिभाषित होती हैं, तो कोई भी उनमें से 'मूल कारण' या 'स्वतन्त्र आधार' नहीं हो सकता — यही शून्यता का सार है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह वैसा ही चक्रीय गतिरोध है जैसे 'मुर्गी पहले या अंडा' का प्रश्न। न गन्ता बिना गमन के सिद्ध होता है, न गमन बिना गन्ता के — तो दोनों में से किसी एक को भी स्वतन्त्र, प्राथमिक तत्त्व मानना असम्भव है।",
+        "en": "Buddhapālita says this is a circular impasse like 'which came first, the chicken or the egg.' Neither the goer is established without motion, nor motion without a goer — so neither can be posited as an independent, primary entity.",
+        "ins": "परस्पर-निर्भर जोड़ी में किसी एक को 'पहला' या 'मूल' बताने की कोशिश हमेशा चक्कर में फँस जाती है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह अन्योन्याश्रय व्यावहारिक स्तर पर कोई समस्या नहीं है — भाषा में हम सहज ही 'गमन' और 'गन्ता' दोनों का प्रयोग परस्पर-सापेक्ष रूप से करते हैं। समस्या तभी आती है जब हम इनमें से किसी एक को परमार्थतः 'स्वतन्त्र, मूल सत्ता' सिद्ध करना चाहें — वहाँ यह अन्योन्याश्रय बाधा बन जाता है।",
+        "en": "Bhāviveka says this mutual dependence poses no problem at the conventional level — in language we naturally use 'motion' and 'goer' relationally. The problem arises only when we try to establish either as an independently, ultimately existing entity — there this mutual dependence becomes an obstacle.",
+        "ins": "सम्बन्ध-आधारित अवधारणाएँ व्यवहार में बिना किसी दिक्कत के काम करती हैं — दिक्कत तब आती है जब हम उन्हें 'स्वतन्त्र सत्य' बनाना चाहें।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 'मुर्गी-अंडे' जैसी यह पहेली गमन-गन्ता में कैसे लागू होती है?",
+        "a": "प्रश्न पूछें: <strong>पहले चलने वाला बनता है, या पहले गमन शुरू होता है?</strong> अगर कहें 'पहले गन्ता है, फिर वह गमन करता है' — तो सवाल उठता है, गमन के बिना कोई 'गन्ता' कैसे कहलाया? और अगर कहें 'पहले गमन है, फिर उससे गन्ता बनता है' — तो सवाल उठता है, बिना गन्ता के गमन किसका है? दोनों एक-दूसरे को <strong>अनिवार्य रूप से पूर्व-अपेक्षित</strong> करते हैं, इसलिए कोई भी अकेले 'प्रथम' नहीं हो सकता — वे <strong>साथ-साथ, परस्पर-निर्भर होकर ही</strong> उत्पन्न होते हैं।"
+      },
+      {
+        "q": "🌊 क्या यह प्रतीत्यसमुत्पाद (dependent origination) का सीधा उदाहरण है?",
+        "a": "बिलकुल — यही इसका गहरा अर्थ है। <strong>प्रतीत्यसमुत्पाद</strong> कहता है कोई भी चीज़ अपने आप में, स्वतन्त्र रूप से मौजूद नहीं होती; वह हमेशा किसी और चीज़ के सापेक्ष होकर अस्तित्व में आती है। गमन और गन्ता का यह परस्पर-निर्भर सम्बन्ध ठीक यही दिखाता है — <strong>न गमन 'स्वयंभू' है, न गन्ता</strong> — दोनों एक साथ, एक-दूसरे के सन्दर्भ में ही अर्थ पाते हैं। यही 'शून्यता' का व्यावहारिक चेहरा है — शून्यता का अर्थ 'कुछ नहीं है' नहीं, बल्कि 'कुछ भी स्वतन्त्र रूप से नहीं है' है।"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "sk": "गन्ता न गच्छति तावदगन्ता नैव गच्छति ।\nअन्यो गन्तुरगन्तुश्च कस्तृतीयोऽथ गच्छति ॥",
+    "ro": "gantā · na · gacchati · tāvad · agantā · naiva · gacchati | anyo · gantur · agantuś · ca · kas · tṛtīyo · 'tha · gacchati ||",
+    "hi": "चलने वाला नहीं चलता; न चलने वाला भी नहीं चलता। चलने वाले और न चलने वाले के अलावा कौन तीसरा चलेगा?",
+    "en": "The goer does not go; the non-goer does not go. What third one, other than goer and non-goer, could go?",
+    "ws": [
+      {
+        "s": "गन्ता",
+        "h": "चलने वाला (कर्ता)",
+        "e": "the goer"
+      },
+      {
+        "s": "अगन्ता",
+        "h": "न चलने वाला",
+        "e": "the non-goer"
+      },
+      {
+        "s": "गच्छति",
+        "h": "चलता है",
+        "e": "goes / walks"
+      },
+      {
+        "s": "तृतीयः",
+        "h": "तीसरा (विकल्प)",
+        "e": "a third (option)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गच्छति</em> = √गम् का लट् लकार, प्रथम पुरुष एकवचन — 'चलता है।' <em>अन्यः...च...कः तृतीयः</em> — यह एक द्वि-कोटि जाँच है (गन्ता या अगन्ता) जिसमें तीसरे विकल्प की सम्भावना को भी नकारा गया है, यानी उत्सर्ग-विधि (exhaustive dichotomy) से कोई पलायन-मार्ग नहीं बचता। यह अध्याय के पहले भाग (गमन पर) से अब दूसरे भाग (गन्ता पर) में मोड़ है।<br><em>Eng:</em> An exhaustive dichotomy (goer/non-goer) with the third-option escape explicitly closed off. This marks the chapter's pivot from analyzing gamana to analyzing gantā (the goer).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — अब नागार्जुन विश्लेषण को 'गमन' से 'गन्ता' (चलने वाला) की ओर मोड़ते हैं। यह वही त्रि-कोटि पद्धति है, गन्ता के तल पर लागू: चलने वाला (जो पहले से चलने वाला है) नहीं चलता क्योंकि वह पहले से 'चलने वाला' है; न चलने वाला भी नहीं चलता क्योंकि वह परिभाषा से ही स्थिर है; और इन दोनों से अलग कोई तीसरा 'चलने वाला-न-चलने वाला' नहीं हो सकता।",
+        "en": "Candrakīrti says Nāgārjuna now turns the analysis from motion to the goer. The same three-fold method applies: a goer (already a goer) does not 'go' in an additional sense since he already is one; a non-goer does not go, being static by definition; and no third category exists between the two.",
+        "ins": "जो पहले से 'चलने वाला' है, उसके लिए 'चलना' कोई नई घटना नहीं — यह वैसा ही पुनरुक्ति-दोष है जो हमने गमन में देखा।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क साफ है: अगर 'गन्ता' शब्द से ही चलने का भाव सिद्ध है, तो यह कहना कि 'गन्ता चलता है' कुछ नया नहीं जोड़ता, बस दोहराव है। और 'अगन्ता' (जो नहीं चल रहा) उसके चलने की तो बात ही व्यर्थ है। तीसरा कोई विकल्प भाषा में उपलब्ध नहीं — इसलिए 'गन्ता गच्छति' कहना विश्लेषणहीन पुनरुक्ति मात्र रह जाता है।",
+        "en": "Buddhapālita says the reasoning is clear: if 'gantā' already implies going, saying 'the goer goes' adds nothing new — it is mere repetition. And a non-goer going is simply nonsensical. No third option exists in language, so 'the goer goes' collapses into empty tautology.",
+        "ins": "जब कोई कथन शब्दकोश की परिभाषा से आगे कुछ नहीं जोड़ता, तो वह ज्ञान नहीं, केवल शब्दों की पुनरावृत्ति है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यवहार में 'चलने वाला चलता है' कहना बिलकुल सामान्य और उपयोगी वाक्य है। पर परमार्थ विश्लेषण में यह वाक्य किसी नई सूचना का बोध नहीं कराता — यह दिखाता है कि 'गन्ता' और 'गमन' के बीच कोई स्वतन्त्र कारण-कार्य सम्बन्ध सिद्ध नहीं होता, बल्कि वे परस्पर पूर्वाकांक्षित हैं।",
+        "en": "Bhāviveka says conventionally 'the goer goes' is a perfectly ordinary and useful sentence. But under ultimate analysis, it conveys no new information — showing no independent causal relation between 'gantā' and 'gamana' can be established; they are mutually presupposed instead.",
+        "ins": "भाषा में उपयोगी वाक्य ज़रूरी नहीं कि तात्त्विक रूप से कुछ नया सिद्ध भी करे — उपयोगिता और परमार्थ-सत्य अलग-अलग स्तर हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 'चलने वाला नहीं चलता' — यह वाक्य विरोधाभासी क्यों नहीं है?",
+        "a": "यह विरोधाभास नहीं, बल्कि एक भाषिक अवलोकन है। जब हम किसी को 'गन्ता' (चलने वाला) कहते हैं, तो हम पहले ही मान चुके होते हैं कि वह चल रहा है — यानी <strong>'गन्ता' शब्द में चलना पहले से शामिल है</strong>। अब अगर हम फिर कहें 'गन्ता चलता है' तो यह कोई नई सूचना नहीं जोड़ता — जैसे कहना 'गीला पानी गीला है।' नागार्जुन यह दिखा रहे हैं कि <strong>'गन्ता चलता है' का वाक्य विश्लेषणात्मक रूप से खाली (empty tautology) है</strong>, यह गति के किसी 'तंत्र' को नहीं समझाता।"
+      },
+      {
+        "q": "🧭 अगर गन्ता, अगन्ता, और तीसरा — कोई भी नहीं चलता, तो चलना समझें कैसे?",
+        "a": "नागार्जुन का सन्देश यह है कि <strong>'कौन चलता है' पूछने का तरीका ही गलत है</strong> — जैसे हम किसी ठोस, स्वतन्त्र 'चलने वाले' की तलाश कर रहे हों जिसमें 'चलना' नाम की चीज़ रखी जा सके। असल में <strong>'चलना' एक सतत, सम्बन्धात्मक प्रक्रिया है</strong> — कोई अकेला, संज्ञा-रूपी 'गन्ता' उससे पहले मौजूद नहीं होता। भाषा हमें कर्ता-क्रिया का ढाँचा (subject-verb structure) थोप देती है, जबकि वास्तविकता में <strong>कर्ता और क्रिया एक साथ, परस्पर-निर्भर होकर ही उपजते हैं।</strong>"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "sk": "गन्ता तावद्गच्छतीति कथमेवोपपत्स्यते ।\nगमनेन विना गन्ता यदा नैवोपपद्यते ॥",
+    "ro": "gantā · tāvad · gacchatīti · katham · evopapatsyate | gamanena · vinā · gantā · yadā · naivopapadyate ||",
+    "hi": "'चलने वाला चलता है' — यह कैसे सिद्ध होगा? जब गमन के बिना चलने वाला ही सिद्ध नहीं होता।",
+    "en": "How can 'the goer goes' be established? For without motion, the goer is not established at all.",
+    "ws": [
+      {
+        "s": "कथम् एव",
+        "h": "आखिर कैसे",
+        "e": "how indeed"
+      },
+      {
+        "s": "उपपत्स्यते",
+        "h": "सिद्ध होगा (भविष्यत्)",
+        "e": "will be established"
+      },
+      {
+        "s": "गमनेन विना",
+        "h": "गमन के बिना",
+        "e": "without motion"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>उपपत्स्यते</em> = उप + √पद् का लृट् लकार — 'सिद्ध होगा।' <em>विना</em> + तृतीया विभक्ति (गमनेन) — 'के बिना।' यह श्लोक 3 के तर्क (गम्यमान बिना गमन के सिद्ध नहीं) को अब 'गन्ता' पर लागू करता है — समानान्तर संरचना (parallel structure) से नागार्जुन दिखाते हैं कि दोनों विश्लेषण एक ही सिद्धान्त पर आधारित हैं।<br><em>Eng:</em> This mirrors verse 3's argument (gamyamāna cannot be established without motion), now applied to gantā — a parallel structure showing both analyses rest on the same principle.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 3 का दर्पण-प्रतिबिम्ब है, पर 'गन्ता' के तल पर। जैसे गम्यमान गमन के बिना असम्भव था, वैसे ही गन्ता भी गमन के बिना सिद्ध नहीं हो सकता — तो 'गन्ता गच्छति' कहना भी वही वृत्तिगत दोष दोहराता है।",
+        "en": "Candrakīrti says this verse mirrors verse 3, now at the level of gantā. Just as gamyamāna was impossible without motion, gantā too cannot be established without motion — so 'the goer goes' repeats the same circularity.",
+        "ins": "दोनों विश्लेषण — गमन का और गन्ता का — एक ही अन्तर्निहित सत्य को अलग-अलग कोणों से दिखाते हैं: कोई भी पद स्वतन्त्र रूप से सिद्ध नहीं होता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यहाँ नागार्जुन दिखाते हैं कि गन्ता कोई ऐसी स्वतन्त्र इकाई नहीं है जो पहले मौजूद हो और फिर गमन करे। बल्कि 'गन्ता' नाम ही गमन की उपस्थिति से मिलता है — इसलिए गमन से पहले कोई 'गन्ता' है ही नहीं जो चल सके।",
+        "en": "Buddhapālita says Nāgārjuna shows the goer is not an independent entity existing first and then moving. Rather, the name 'gantā' itself derives from motion's presence — so prior to motion, there is no goer at all who could go.",
+        "ins": "पहचान (गन्ता होना) और क्रिया (गमन) एक साथ जन्म लेते हैं — एक दूसरे से पहले नहीं आ सकता।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यावहारिक रूप से हम मान लेते हैं कि पहले 'चलने वाला व्यक्ति' है, फिर वह 'चलता है।' पर परमार्थ विश्लेषण में यह क्रम टूट जाता है — गन्ता की पहचान ही गमन पर निर्भर है, इसलिए दोनों एक साथ, परस्पर-सापेक्ष रूप से ही स्थापित होते हैं।",
+        "en": "Bhāviveka says conventionally we assume a 'walking person' exists first and then 'walks.' But under ultimate analysis this sequence breaks down — the goer's identity depends on motion, so both are established together, relationally.",
+        "ins": "हमारी भाषा हमें 'पहले वस्तु, फिर क्रिया' का क्रम सिखाती है — पर तत्त्वतः दोनों एक साथ उपजते हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪞 क्या यह हमारी 'पहचान' (identity) की समझ पर भी लागू होता है?",
+        "a": "बिल्कुल — यह प्रश्न सीधे 'मैं कौन हूँ' के प्रश्न से जुड़ता है। जैसे 'गन्ता' गमन के बिना सिद्ध नहीं होता, वैसे ही <strong>हमारी पहचान भी हमारी क्रियाओं, सम्बन्धों और अनुभवों से अलग, स्वतन्त्र रूप से मौजूद नहीं होती</strong>। हम सोचते हैं 'पहले मैं हूँ, फिर मैं काम करता हूँ' — पर नागार्जुन जैसी विश्लेषण-पद्धति दिखाती है कि <strong>'मैं' और 'मेरे कर्म' एक साथ, परस्पर-निर्भर होकर ही अर्थ पाते हैं</strong> — यही बौद्ध अनात्मवाद (non-self) का तार्किक आधार है।"
+      },
+      {
+        "q": "⏳ तो क्या 'गन्ता, फिर गमन' का क्रम पूरी तरह गलत है?",
+        "a": "व्यावहारिक भाषा में यह क्रम पूरी तरह उपयोगी और सही है — हम रोज़ ऐसे वाक्य बोलते और समझते हैं। नागार्जुन का प्रश्न <strong>व्यवहार को नकारना नहीं</strong>, बल्कि यह दिखाना है कि जब हम गहराई से पूछें 'वास्तव में, तत्त्वतः, क्या पहले आता है?' — तो उत्तर में <strong>कोई एक-दिशीय, स्वतन्त्र क्रम नहीं मिलता</strong>, केवल परस्पर-निर्भरता मिलती है। यह संवृति (conventional) और परमार्थ (ultimate) सत्य के बीच का सटीक भेद है।"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "sk": "पक्षो गन्ता गच्छतीति यस्य तस्य प्रसज्यते ।\nगमनेन विना गन्ता गन्तुर्गमनमिच्छतः ॥",
+    "ro": "pakṣo · gantā · gacchatīti · yasya · tasya · prasajyate | gamanena · vinā · gantā · gantur · gamanam · icchataḥ ||",
+    "hi": "जो 'चलने वाला चलता है' यह पक्ष रखता है, उसे गमन के बिना चलने वाले को मानना पड़ता है — क्योंकि वह चलने वाले के लिए अलग गमन चाहता है।",
+    "en": "For one who holds the thesis 'the goer goes,' a goer without motion follows — since he desires a separate motion for the goer.",
+    "ws": [
+      {
+        "s": "पक्षः",
+        "h": "पक्ष / दावा / सिद्धान्त",
+        "e": "thesis / position"
+      },
+      {
+        "s": "इच्छतः",
+        "h": "चाहने वाले का / इच्छा रखने वाले का",
+        "e": "of one who desires / wishes"
+      },
+      {
+        "s": "गन्तुः गमनम्",
+        "h": "चलने वाले का (अलग से) गमन",
+        "e": "the goer's (separate) motion"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>पक्षः</em> न्याय-शास्त्रीय पारिभाषिक शब्द — 'प्रस्तावित सिद्धान्त/दावा।' <em>इच्छतः</em> = √इष् का वर्तमान कृदन्त, षष्ठ्यन्त — 'चाहने वाले का।' यह श्लोक 4 के तर्क को गन्ता पर लागू करता है — जो व्यक्ति गन्ता के लिए अलग से गमन चाहता है (यह मानते हुए कि गन्ता पहले से मौजूद है), उसे विरोधाभासतः 'गमन-रहित गन्ता' मानना पड़ता है।<br><em>Eng:</em> Applies verse 4's structure to gantā: positing a separate motion for an already-existing goer entails, paradoxically, a motion-less goer.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 4 के तर्क को दोहराता है, पर गन्ता के सन्दर्भ में। यदि गन्ता पहले से (गमन के बिना) मौजूद माना जाए और फिर उसमें गमन 'जोड़ा' जाए, तो यह मानना पड़ता है कि गमन-रहित गन्ता सम्भव है — जो कि स्ववचन-विरोध है, क्योंकि गन्ता की परिभाषा ही गमन पर टिकी है।",
+        "en": "Candrakīrti says this repeats verse 4's logic for gantā. If the goer is assumed to pre-exist (without motion) and motion is then 'added,' it implies a motion-less goer is possible — self-contradictory, since gantā is defined by motion.",
+        "ins": "जो पद अपनी परिभाषा में ही किसी गुण को मानता है, उसे उस गुण से 'रहित' मानना आत्म-विरोधाभासी है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — विरोधी जब यह पक्ष रखता है कि 'गन्ता चलता है,' तो वह अनजाने में यह मान लेता है कि गन्ता, गमन से पहले, स्वतन्त्र रूप से मौजूद है, और फिर वह गमन 'प्राप्त' करता है। पर यह ठीक वैसे ही असंगत है जैसे कहना 'आग बिना गर्मी के मौजूद है, और फिर वह गर्मी प्राप्त करती है।'",
+        "en": "Buddhapālita says when the opponent asserts 'the goer goes,' he unknowingly assumes the goer pre-exists motion independently, and then 'acquires' motion. But this is as incoherent as saying 'fire exists without heat, and then acquires heat.'",
+        "ins": "जो गुण किसी वस्तु की पहचान का अभिन्न हिस्सा है, उसे उस वस्तु से बाद में 'जुड़ने वाला' नहीं माना जा सकता।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह विरोधाभास तभी उठता है जब हम गन्ता को गमन से पृथक्, स्वतन्त्र सत्ता मान लें। परमार्थ विश्लेषण दिखाता है कि ऐसी पृथक् सत्ता कल्पित है — व्यवहार में गन्ता और गमन साथ-साथ ही समझे और उपयोग किए जाते हैं, कभी अलग-अलग नहीं।",
+        "en": "Bhāviveka says this paradox arises only if we take the goer as separate, independently existing from motion. Ultimate analysis shows such separateness is merely conceptual — conventionally goer and motion are always understood and used together, never apart.",
+        "ins": "जो दो अवधारणाएँ व्यवहार में सदैव साथ प्रयुक्त होती हैं, उन्हें तत्त्वतः अलग-अलग, स्वतन्त्र सत्ताएँ मानना कृत्रिम विभाजन है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔍 यह तर्क श्लोक 4 से किस तरह जुड़ा है?",
+        "a": "यह श्लोक 4 की <strong>वही संरचना</strong> दोहराता है, पर गम्यमान की जगह अब 'गन्ता' पर लागू करता है। दोनों में एक ही चूक है: विरोधी मान लेता है कि <strong>वस्तु (गम्यमान/गन्ता) पहले से, स्वतन्त्र रूप से मौजूद है</strong>, और फिर उसमें गमन 'जोड़ा' जाता है। नागार्जुन बार-बार यही दिखाते हैं — चाहे विश्लेषण का कोण कोई भी हो, <strong>'पहले से मौजूद वस्तु + बाद में जुड़ा गुण' का ढाँचा गमन-गन्ता के मामले में टिकता नहीं</strong>।"
+      },
+      {
+        "q": "🧩 यह बार-बार दोहराई गई संरचना (verses 3-4, 9-10) क्यों ज़रूरी है?",
+        "a": "नागार्जुन जान-बूझकर <strong>समान तर्क-संरचना को अलग-अलग पदों (गम्यमान, फिर गन्ता) पर लागू करते हैं</strong> — यह दिखाने के लिए कि समस्या किसी एक विशेष शब्द में नहीं, बल्कि <strong>'क्रिया को वस्तु में समाहित मानने' के पूरे ढाँचे में है</strong>। यह पुनरावृत्ति पाठक को सिखाती है कि यह कोई शब्द-खेल नहीं, बल्कि एक <strong>सार्वभौमिक विश्लेषणात्मक विधि</strong> है जो किसी भी कर्ता-क्रिया सम्बन्ध पर लागू की जा सकती है।"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "sk": "गमने द्वे प्रसज्येते गन्ता यद्युत गच्छति ।\nगन्तेति चोच्यते येन गन्ता सन् यच्च गच्छति ॥",
+    "ro": "gamane · dve · prasajyete · gantā · yady · uta · gacchati | ganteti · cocyate · yena · gantā · san · yac · ca · gacchati ||",
+    "hi": "अगर चलने वाला चलता है तो दो गमन हो जाते हैं — एक जिससे उसे 'चलने वाला' कहा जाता है, और दूसरा जो वह चलने वाला होकर चलता है।",
+    "en": "If the goer goes, two goings follow — one by which he is called 'goer,' and another that he, being a goer, goes.",
+    "ws": [
+      {
+        "s": "गमने द्वे",
+        "h": "दो गमन",
+        "e": "two goings"
+      },
+      {
+        "s": "यदि उत",
+        "h": "यदि / अगर (बलदायक)",
+        "e": "if indeed"
+      },
+      {
+        "s": "उच्यते",
+        "h": "कहा जाता है",
+        "e": "is called / is said"
+      },
+      {
+        "s": "सन्",
+        "h": "होता हुआ / विद्यमान",
+        "e": "being / existing"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रसज्येते</em> = द्विवचन, 'दोनों अनिष्ट-रूप से जुड़ जाते हैं।' <em>उच्यते</em> = √वच् कर्मवाच्य लट् — 'कहा जाता है।' <em>सन्</em> = अस् धातु का शतृ-प्रत्ययान्त वर्तमान कृदन्त, प्रथमा एकवचन (पुल्लिंग) — 'होता हुआ।' यह श्लोक 5 की तरह ही 'गन्ता' के तल पर द्विगुणन-दोष दिखाता है — यह इस अध्याय की केन्द्रीय तकनीक (समानान्तर द्वि-चक्र विश्लेषण) की पुनरावृत्ति है।<br><em>Eng:</em> Mirrors verse 5's doubling-fault, now at the level of gantā — reinforcing the chapter's central parallel technique.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 5 का प्रतिबिम्ब है। 'गन्ता' नाम पहले ही एक गमन को समाहित किए हुए है (जिससे वह गन्ता कहलाया)। अब अगर हम कहें 'गन्ता चलता है' तो यह दूसरा, अतिरिक्त गमन है। इस तरह एक ही व्यक्ति में दो गमन मानने पड़ते हैं — जो कि अनावश्यक द्विगुणन है।",
+        "en": "Candrakīrti says this mirrors verse 5. The name 'gantā' already contains one motion (by which he came to be called goer). Saying 'the goer goes' introduces a second, additional motion — a needless doubling in one person.",
+        "ins": "जो पहले पाँचवें श्लोक में गमन के लिए हुआ, वही अब गन्ता के लिए दोहराया गया — यह विधि की स्थिरता दिखाता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह द्विगुणन-दोष विशेष रूप से स्पष्ट करता है कि हम शब्दों की परिभाषा में छिपे अर्थ को भूलकर उन्हें दोबारा 'सिद्ध' करने की कोशिश करते हैं। 'गन्ता' का अर्थ ही 'जो चल रहा है' है — तो उसके 'चलने' को अलग से सिद्ध करना उसी बात को दो बार कहना है।",
+        "en": "Buddhapālita says this doubling-fault clarifies how we forget the meaning already embedded in a word and try to 'prove' it again. 'Gantā' already means 'one who is going' — so proving his 'going' separately is saying the same thing twice.",
+        "ins": "शब्दों में छिपे अर्थ को भूलकर उन्हें फिर से सिद्ध करने की कोशिश ही ज़्यादातर वृत्तिगत तर्कदोषों की जड़ है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह दोहराव तभी दोष बनता है जब हम 'गन्ता' और 'गमन' को दो स्वतन्त्र, स्वभाव-सिद्ध वस्तुएँ मान लें। परमार्थ विश्लेषण दिखाता है कि दोनों परस्पर-निर्भर नाम हैं, स्वतन्त्र पदार्थ नहीं — इसलिए एक को दूसरे में 'जोड़ने' से द्विगुणन का भ्रम पैदा होता है।",
+        "en": "Bhāviveka says this repetition becomes a fault only when we take 'gantā' and 'gamana' as two independent, inherently-existing things. Ultimate analysis shows both are mutually dependent labels, not independent substances — so 'adding' one to the other creates the illusion of doubling.",
+        "ins": "जब दो परस्पर-निर्भर नामों को स्वतन्त्र वस्तुएँ मान लिया जाता है, तो हर विश्लेषण में द्विगुणन का भ्रम अनिवार्यतः प्रकट होता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔁 श्लोक 5 और 11 में यह 'दो गमन' का तर्क क्यों दोहराया गया?",
+        "a": "नागार्जुन यह दिखाना चाहते हैं कि यह दोष <strong>किसी एक विशेष शब्द ('गम्यमान') की खामी नहीं</strong> बल्कि एक <strong>सार्वभौमिक पैटर्न</strong> है — जहाँ भी हम किसी क्रिया-वाचक नाम (गम्यमान, गन्ता) में <strong>दुबारा वही क्रिया 'खोजने'</strong> जाते हैं, वहाँ द्विगुणन अनिवार्य रूप से पैदा होता है। यह पुनरावृत्ति पाठक को याद दिलाती है कि समस्या भाषा की गहरी संरचना में है, किसी एक शब्द में नहीं।"
+      },
+      {
+        "q": "💡 इस पैटर्न को पहचानने से हमें क्या फ़ायदा है?",
+        "a": "एक बार यह पैटर्न पहचान लेने पर, हम अपनी रोज़मर्रा की सोच में भी ऐसी <strong>छिपी हुई पुनरुक्तियाँ</strong> पकड़ सकते हैं — जैसे 'मेरा गुस्सा मुझे गुस्सा दिला रहा है' या 'मेरी आदत मुझसे यह आदत करवाती है।' इनमें भी हम एक <strong>प्रक्रिया को संज्ञा बनाकर फिर उसी में कारण खोज रहे</strong> होते हैं। नागार्जुन का यह विश्लेषण हमें सिखाता है कि ऐसे मामलों में <strong>सीधे कारण-कार्य सम्बन्ध खोजने के बजाय, परस्पर-निर्भर प्रक्रिया के रूप में देखना</strong> ज़्यादा सटीक है।"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "sk": "गते नारभ्यते गन्तुं गन्तुं नारभ्यतेऽगते ।\nगम्यमानेऽप्यनारम्भः कुत आरभ्यते गतिः ॥",
+    "ro": "gate · nārabhyate · gantuṃ · gantuṃ · nārabhyate · 'gate | gamyamāne · 'py · anārambhaḥ · kuta · ārabhyate · gatiḥ ||",
+    "hi": "'गए हुए' में चलना शुरू नहीं होता; 'न गए' में भी नहीं। 'जा रहे' में भी शुरुआत नहीं — तो गति कहाँ शुरू होती है?",
+    "en": "Going is not begun in the gone-to; it is not begun in the not-yet-gone-to. Nor does it begin in the being-gone-to — so where is motion begun?",
+    "ws": [
+      {
+        "s": "आरभ्यते",
+        "h": "शुरू किया जाता है / आरम्भ होता है",
+        "e": "is begun / is initiated"
+      },
+      {
+        "s": "गन्तुम्",
+        "h": "चलने के लिए (तुमुन्नन्त)",
+        "e": "to go (infinitive)"
+      },
+      {
+        "s": "अनारम्भः",
+        "h": "आरम्भ का अभाव / शुरुआत नहीं",
+        "e": "absence of beginning"
+      },
+      {
+        "s": "गतिः",
+        "h": "गति / गमन-क्रिया",
+        "e": "motion"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>आरभ्यते</em> = आ + √रभ् कर्मवाच्य लट् — 'शुरू किया जाता है।' <em>गन्तुम्</em> = तुमुन् प्रत्ययान्त, 'चलने के लिए' — प्रयोजनवाचक अनन्त। यह नई दिशा में तर्क खोलता है — अब गमन के 'आरम्भ-बिन्दु' (starting point) की खोज तीनों कालिक खण्डों में की जाती है, यह दिखाने के लिए कि गति कहीं भी 'शुरू' होती नहीं दिखती।<br><em>Eng:</em> Opens a new line of inquiry — searching for motion's beginning point across all three temporal segments, showing it cannot be located anywhere.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — नागार्जुन अब गमन के 'आरम्भ' पर प्रश्न उठाते हैं। गत में आरम्भ नहीं हो सकता, क्योंकि वह तो पहले ही समाप्त हो चुका। अगत में भी नहीं, क्योंकि वहाँ अभी कुछ हुआ ही नहीं। और गम्यमान में भी नहीं, क्योंकि गम्यमान स्वयं ही 'गति पहले से जारी होने' की मान्यता पर टिका है — इसलिए वह आरम्भ का क्षण नहीं हो सकता।",
+        "en": "Candrakīrti says Nāgārjuna now questions where motion begins. It cannot begin in the gone-to, already finished; not in the not-yet-gone-to, where nothing has occurred; and not in gamyamāna either, since gamyamāna presupposes motion already underway — it cannot itself be the moment of beginning.",
+        "ins": "जो अवस्था स्वयं 'गति पहले से जारी' मान लेती है, वह गति के 'आरम्भ' का उत्तर नहीं हो सकती — यह एक नया, गहरा गतिरोध है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह वैसे ही है जैसे कोई पूछे 'दिन कब शुरू होता है — रात में, दिन में, या सन्धिकाल में?' हर उत्तर में कुछ न कुछ अन्तर्विरोध निकलता है। इसी तरह गति का 'आरम्भ-बिन्दु' खोजना असम्भव है — यह दिखाता है कि 'शुरुआत' खुद एक स्वतन्त्र, ठोस क्षण नहीं, बल्कि एक अवधारणात्मक निर्माण है।",
+        "en": "Buddhapālita says this is like asking 'when does the day begin — at night, in daytime, or at twilight?' Every answer generates some contradiction. Similarly, motion's starting point cannot be pinpointed — showing 'beginning' is itself a conceptual construct, not an independent solid moment.",
+        "ins": "'शुरुआत' को एक ठोस, पिन-प्वाइंट करने योग्य क्षण मानना ही मूल भ्रम है — समय निरन्तर है, टुकड़ों में नहीं बँटा।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यवहार में हम बिना किसी कठिनाई के कहते हैं 'उसने चलना शुरू किया।' पर परमार्थतः जब हम 'आरम्भ के ठीक क्षण' की खोज करते हैं, वह तीनों कालिक खण्डों में नहीं मिलता — यह दिखाता है कि गति का 'आरम्भ' भी स्वभावतः सिद्ध नहीं, केवल प्रज्ञप्ति (नामकरण) है।",
+        "en": "Bhāviveka says conventionally we say 'he began to walk' without difficulty. But ultimately, seeking the precise moment of beginning, it is found in none of the three temporal segments — showing that motion's 'beginning' too is not inherently established, only a nominal designation.",
+        "ins": "'आरम्भ' एक उपयोगी व्यावहारिक धारणा है, पर उसका कोई एक ठोस, खोजने-योग्य क्षण परमार्थतः नहीं मिलता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⏳ गति का 'आरम्भ-क्षण' खोजना असम्भव क्यों है?",
+        "a": "सोचिए — <strong>ठीक कौन-सा क्षण</strong> 'न-चलना' से 'चलना' में बदलता है? अगर वह क्षण 'गत' (बीता हुआ) में है, तो चलना पहले ही 'बीत' चुका, शुरू नहीं हो रहा। अगर वह 'अगत' (भविष्य) में है, तो अभी कुछ हुआ ही नहीं। अगर वह 'गम्यमान' (वर्तमान) में है, तो 'गम्यमान' स्वयं यह मान लेता है कि <strong>गति पहले से जारी है</strong> — तो वह 'शुरुआत' कैसे हो सकता है? यह ठीक वैसा ही विरोधाभास है जैसे यह पूछना कि '0 से 1 के बीच कौन-सी सटीक संख्या है जहाँ 'शून्य' 'एक' में बदलता है' — निरन्तरता में कोई तीक्ष्ण विभाजन-रेखा नहीं मिलती।"
+      },
+      {
+        "q": "🌀 अगर आरम्भ नहीं मिलता, तो क्या गति की कोई 'शुरुआत' ही नहीं होती?",
+        "a": "नागार्जुन का बिंदु यह नहीं कि चीज़ें शुरू नहीं होतीं — बल्कि यह कि <strong>'शुरुआत' को एक स्वतन्त्र, स्वयं-सिद्ध, बिन्दु-जैसा क्षण मानना ग़लत है</strong>। समय और गति <strong>निरन्तर, अखण्ड प्रवाह</strong> हैं — हम व्यावहारिक सुविधा के लिए उन्हें 'पहले, अभी, आगे' में बाँटते हैं, पर यह बँटवारा वास्तविकता में कोई तीक्ष्ण रेखा नहीं खींचता। यह ठीक वैसे ही है जैसे नदी में कोई 'ठोस बिन्दु' नहीं होता जहाँ 'ऊपर की धारा' 'नीचे की धारा' में बदलती है — पूरी नदी एक सतत प्रवाह है।"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "sk": "न पूर्वं गमनारम्भाद्गम्यमानं न वा गतम् ।\nयत्रारभ्यते गमनमगते गमनं कुतः ॥",
+    "ro": "na · pūrvaṃ · gamanārambhād · gamyamānaṃ · na · vā · gatam | yatrārabhyeta · gamanaṃ · agate · gamanaṃ · kutaḥ ||",
+    "hi": "गमन शुरू होने से पहले न 'जा रहा' है न 'गया हुआ'। जहाँ गमन शुरू हो — वह 'न गया' में कैसे?",
+    "en": "Before the beginning of motion, there is neither being-gone-to nor gone-to. Where could motion begin? It cannot begin in the not-yet-gone-to.",
+    "ws": [
+      {
+        "s": "पूर्वम्",
+        "h": "पहले / पूर्व में",
+        "e": "before / prior"
+      },
+      {
+        "s": "गमनारम्भात्",
+        "h": "गमन के आरम्भ से (पहले)",
+        "e": "prior to the beginning of motion"
+      },
+      {
+        "s": "यत्र",
+        "h": "जहाँ",
+        "e": "where"
+      },
+      {
+        "s": "कुतः",
+        "h": "कैसे / कहाँ से",
+        "e": "how / whence"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गमनारम्भात्</em> = गमन + आरम्भ, पञ्चम्यन्त समास — 'गमन के आरम्भ से (पहले)।' <em>यत्र...कुतः</em> — प्रश्नवाचक निर्माण जो दिखाता है कि 'अगत' अवस्था में गमन का आरम्भ असम्भव है, क्योंकि अगत की परिभाषा ही 'गमन-रहित' अवस्था है। यह पिछले श्लोक की जाँच को और गहराई से आगे बढ़ाता है।<br><em>Eng:</em> Deepens the previous verse's inquiry — before motion begins, one is in neither gamyamāna nor gata; and agata, being defined as motion-less, cannot house the beginning either.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — गमन शुरू होने से ठीक पहले की अवस्था न 'गम्यमान' कहलाई जा सकती है (क्योंकि अभी गति शुरू ही नहीं हुई) न 'गत' (क्योंकि अभी कुछ पार हुआ ही नहीं)। तो वह अवस्था 'अगत' ही होगी — पर 'अगत' की परिभाषा ही 'गमन-रहित' होने से है, इसलिए वहाँ गमन कैसे 'शुरू' हो सकता है? यह गहरा अन्तर्विरोध है।",
+        "en": "Candrakīrti says the moment just before motion begins can be called neither 'gamyamāna' (since motion hasn't started) nor 'gata' (since nothing has been traversed). So it must be 'agata' — but agata is defined by the absence of motion, so how can motion 'begin' there? This is a deep contradiction.",
+        "ins": "'आरम्भ' के लिए एक ऐसी अवस्था चाहिए जो न गति-रहित हो, न गति-सहित — पर ऐसी कोई तीसरी अवस्था उपलब्ध नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क श्लोक 12 को और तीखा बनाता है। अगर 'अगत' में गमन शुरू नहीं हो सकता (क्योंकि वहाँ गमन का अभाव ही उसकी परिभाषा है), तो आरम्भ के लिए कोई जगह ही नहीं बचती। यह दिखाता है कि 'आरम्भ' की अवधारणा स्वयं ही तार्किक रूप से असंगत है, जब उसे किसी ठोस कालिक बिन्दु में रखने की कोशिश की जाती है।",
+        "en": "Buddhapālita says this sharpens verse 12's argument further. If motion cannot begin in agata (since absence of motion is its very definition), no place remains for the beginning at all. This shows the concept of 'beginning' is itself logically incoherent when pinned to a solid temporal point.",
+        "ins": "जो अवस्था 'गमन-रहित' के रूप में परिभाषित है, उसमें गमन का 'शुरू होना' ढूँढना अपनी ही परिभाषा से टकराना है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह विश्लेषण दिखाता है कि 'आरम्भ' की धारणा परमार्थतः तीनों कालिक विभाजनों में फिट नहीं बैठती। व्यवहार में यह कोई बाधा नहीं क्योंकि हम भाषा में 'शुरुआत' को एक सुविधाजनक चिह्न की तरह उपयोग करते हैं, न कि किसी स्वभाव-सिद्ध वास्तविकता की तरह।",
+        "en": "Bhāviveka says this analysis shows 'beginning' does not ultimately fit into any of the three temporal divisions. Conventionally this poses no obstacle since we use 'beginning' as a convenient marker in language, not as an inherently established reality.",
+        "ins": "भाषा के सुविधाजनक चिह्न (जैसे 'शुरुआत') को परमार्थ सत्य समझ लेना ही मूल भ्रम है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧩 यह विरोधाभास श्लोक 12 से आगे कैसे बढ़ता है?",
+        "a": "श्लोक 12 ने दिखाया कि तीनों खण्डों (गत, अगत, गम्यमान) में <strong>आरम्भ नहीं मिलता</strong>। यह श्लोक विशेष रूप से 'अगत' पर ज़ोर देता है: गमन शुरू होने से ठीक पहले की स्थिति को <strong>'अगत' कहना ही होगा</strong> (क्योंकि गम्यमान और गत दोनों पहले ही गति मान लेते हैं)। पर 'अगत' का शाब्दिक अर्थ ही 'गमन-रहित' है — तो कैसे कोई 'गमन-रहित' अवस्था अचानक 'गमन-सहित' हो जाए? यह <strong>अवस्था-परिवर्तन (change of state) की गहरी पहेली</strong> है, जो पूरे परिवर्तन के विचार पर लागू होती है, न केवल गमन पर।"
+      },
+      {
+        "q": "🌱 क्या यह पहेली किसी भी 'बदलाव' (change) पर लागू होती है?",
+        "a": "बिल्कुल — यह पूरे बौद्ध दर्शन में <strong>'परिवर्तन कैसे होता है'</strong> के प्रश्न से जुड़ता है। जैसे बीज से अंकुर, या ठण्डे से गर्म पानी — हर परिवर्तन में यही पहेली उठती है: <strong>ठीक कौन-सा क्षण 'पुरानी अवस्था' को 'नई अवस्था' में बदलता है?</strong> नागार्जुन दिखाते हैं कि ऐसा कोई तीक्ष्ण, स्वतन्त्र 'बदलाव का क्षण' नहीं मिलता। यही कारण है कि बौद्ध दर्शन <strong>क्षणभंगुरता (momentariness)</strong> और <strong>प्रतीत्यसमुत्पाद</strong> जैसी अवधारणाओं की ओर मुड़ता है — जहाँ 'चीज़ें' ठोस, स्थिर इकाइयाँ नहीं, बल्कि निरन्तर प्रवाहित प्रक्रियाएँ हैं।"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "sk": "गतं किं गम्यमानं किमगतं किं विकल्प्यते ।\nअदृश्यमान आरम्भे गमनस्यैव सर्वथा ॥",
+    "ro": "gataṃ · kiṃ · gamyamānaṃ · kim · agataṃ · kiṃ · vikalpyate | adṛśyamāna · ārambhe · gamanasyaiva · sarvathā ||",
+    "hi": "गत क्या है? गम्यमान क्या? अगत क्या? — इनकी कल्पना कैसे की जाए, जब गमन की शुरुआत ही कहीं दिखाई नहीं देती?",
+    "en": "What is gone-to? What is being-gone-to? What is not-yet-gone-to? — How can these be conceived when the beginning of motion is nowhere to be seen?",
+    "ws": [
+      {
+        "s": "विकल्प्यते",
+        "h": "कल्पना की जाती है / भेद किया जाता है",
+        "e": "is conceived / is distinguished"
+      },
+      {
+        "s": "अदृश्यमाने",
+        "h": "न दिखाई देने पर (सप्तमी)",
+        "e": "when not seen / not perceived"
+      },
+      {
+        "s": "सर्वथा",
+        "h": "सब प्रकार से / सर्वथा (किसी भी तरह)",
+        "e": "in every way / altogether"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>विकल्प्यते</em> = वि + √कॢप् कर्मवाच्य लट् — 'कल्पना/भेद किया जाता है।' <em>अदृश्यमाने...सर्वथा</em> — सति सप्तमी रचना, 'जब सर्वथा (किसी भी प्रकार) से न दिखे।' यह श्लोक 12-13 के निष्कर्ष को समेटता है — जब आरम्भ ही अदृश्य/असिद्ध है, तो तीनों कोटियाँ (गत, गम्यमान, अगत) स्वयं निराधार हो जाती हैं।<br><em>Eng:</em> Concludes verses 12-13's inquiry: since the beginning is nowhere to be found, the three categories themselves (gata, gamyamāna, agata) lose their foundation.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक इस उप-खण्ड (आरम्भ की जाँच) का निष्कर्ष है। यदि गमन का आरम्भ कहीं सिद्ध नहीं होता (जैसा श्लोक 12-13 में दिखाया गया), तो 'गत,' 'अगत,' और 'गम्यमान' — ये तीनों कोटियाँ, जो आरम्भ के सन्दर्भ में ही अर्थ पाती हैं, स्वयं निराधार हो जाती हैं। पूरा कालिक ढाँचा ही ढह जाता है।",
+        "en": "Candrakīrti says this concludes the sub-inquiry into the beginning. If motion's beginning cannot be established anywhere (as shown in verses 12-13), then the three categories — gata, agata, gamyamāna — which gain meaning only relative to that beginning, themselves become groundless. The entire temporal framework collapses.",
+        "ins": "अगर आधार ही नहीं मिलता, तो उस आधार पर बनी सारी श्रेणियाँ अपने आप ढह जाती हैं — यह तर्क की एक गहरी, समग्र चोट है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'सर्वथा' शब्द पर ध्यान दें — यह किसी आंशिक निषेध की बात नहीं कर रहा, बल्कि 'हर तरह से, हर दृष्टिकोण से' आरम्भ के अदृश्य होने की बात कर रहा है। इसलिए तीनों कोटियों की कल्पना करना ही व्यर्थ हो जाता है — वे किसी अदृश्य, असिद्ध आधार पर खड़ी अवधारणाएँ हैं।",
+        "en": "Buddhapālita says note the word 'sarvathā' — it isn't speaking of a partial negation but of the beginning being invisible 'in every way, from every angle.' Hence conceiving the three categories becomes futile — they are concepts standing on an invisible, unestablished foundation.",
+        "ins": "जब नींव पूरी तरह अदृश्य हो, तो उस पर खड़ी की गई हर इमारत — चाहे वह कितनी भी सुव्यवस्थित लगे — काल्पनिक है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यावहारिक स्तर पर ये तीनों कोटियाँ (गत, अगत, गम्यमान) बिना किसी समस्या के काम करती हैं — भाषा और लोकव्यवहार में इनकी उपयोगिता असंदिग्ध है। पर परमार्थतः जब हम इनके 'स्वभाव-सिद्ध आधार' की खोज करते हैं, वह नहीं मिलता — यही संवृति और परमार्थ का मूल भेद है।",
+        "en": "Bhāviveka says at the conventional level these three categories work without any problem — their utility in language and everyday practice is undeniable. But ultimately, when we seek their inherently-established foundation, it is not found — this is the core distinction between conventional and ultimate truth.",
+        "ins": "उपयोगी अवधारणाएँ ज़रूरी नहीं कि स्वभाव-सिद्ध हों — उपयोगिता और अन्तिम सत्यता दो अलग कसौटियाँ हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 यह श्लोक पूरे 'आरम्भ' उप-खण्ड (12-14) को कैसे समेटता है?",
+        "a": "श्लोक 12 ने दिखाया कि आरम्भ तीनों खण्डों में नहीं मिलता; श्लोक 13 ने विशेष रूप से 'अगत' में आरम्भ की असम्भवता दिखाई। यह श्लोक निष्कर्ष निकालता है: <strong>जब आरम्भ स्वयं 'सर्वथा' (हर तरह से) अदृश्य है</strong>, तो 'गत, अगत, गम्यमान' — जो सभी इसी आरम्भ की धारणा पर टिके हैं — <strong>अपनी परिभाषा का आधार ही खो देते हैं</strong>। यह एक 'डोमिनो प्रभाव' जैसा तर्क है — एक बुनियादी अवधारणा (आरम्भ) के गिरने से उस पर टिकी पूरी संरचना (कालिक त्रिविभाजन) ढह जाती है।"
+      },
+      {
+        "q": "🧭 अगर तीनों कोटियाँ ही निराधार हैं, तो हम गति को कैसे समझें?",
+        "a": "नागार्जुन का यह विश्लेषण हमें एक <strong>गहरे मध्यम मार्ग</strong> की ओर ले जाता है — गति को <strong>तीन स्वतन्त्र, ठोस कालिक खण्डों में बाँटकर समझने की कोशिश ही मूल भूल है</strong>। गति एक <strong>अखण्ड, सतत, परस्पर-निर्भर प्रक्रिया</strong> है जिसे भाषा सुविधा के लिए 'पहले, अभी, बाद में' में तोड़ती है — पर यह तोड़ना 'वास्तविकता का चित्रण' नहीं, बल्कि 'व्यावहारिक उपकरण' है। इसे समझ लेने पर हम गति को <strong>स्वभाव-रहित, फिर भी क्रियाशील</strong> — यानी शून्य और प्रतीत्यसमुत्पन्न — के रूप में देख सकते हैं।"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "sk": "गन्ता न तिष्ठति तावदगन्ता नैव तिष्ठति ।\nअन्यो गन्तुरगन्तुश्च कस्तृतीयोऽथ तिष्ठति ॥",
+    "ro": "gantā · na · tiṣṭhati · tāvad · agantā · naiva · tiṣṭhati | anyo · gantur · agantuś · ca · kas · tṛtīyo · 'tha · tiṣṭhati ||",
+    "hi": "चलने वाला नहीं रुकता; न चलने वाला भी नहीं रुकता। इन दोनों के अलावा कौन तीसरा रुकेगा?",
+    "en": "The goer does not stand still; the non-goer does not stand still. What third one, other than goer and non-goer, could stand still?",
+    "ws": [
+      {
+        "s": "तिष्ठति",
+        "h": "ठहरता/रुकता है",
+        "e": "stands still / stops"
+      },
+      {
+        "s": "गन्ता",
+        "h": "चलने वाला",
+        "e": "the goer"
+      },
+      {
+        "s": "अगन्ता",
+        "h": "न चलने वाला",
+        "e": "the non-goer"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>तिष्ठति</em> = √स्था (ठहरना) लट् लकार, प्रथम पुरुष एकवचन — 'ठहरता है।' यह श्लोक ठीक श्लोक 8 की संरचना दोहराता है, पर 'गच्छति' (चलना) की जगह 'तिष्ठति' (ठहरना) रखकर — नागार्जुन दिखाते हैं कि यही तर्क-पद्धति 'स्थिरता' पर भी समान रूप से लागू होती है, विरोधी की यह आशा तोड़ते हुए कि 'ठहरना' कम से कम समस्या-रहित होगा।<br><em>Eng:</em> Mirrors verse 8's structure exactly, substituting 'tiṣṭhati' (stands still) for 'gacchati' (goes) — showing the same analysis applies equally to rest, denying any refuge in stillness.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — विरोधी सोच सकता था कि भले ही गमन का विश्लेषण उलझा हो, कम से कम 'ठहरना' (स्थिरता) सरल और निर्विवाद होगा। नागार्जुन यहाँ दिखाते हैं कि नहीं — ठीक वही त्रिकोटि विश्लेषण (गन्ता/अगन्ता/तृतीय) स्थिरता पर भी लागू होता है, और वही असंगतियाँ सामने आती हैं।",
+        "en": "Candrakīrti says the opponent might have hoped that even if motion's analysis were tangled, at least 'standing still' would be simple and uncontroversial. Nāgārjuna shows otherwise — the same three-fold analysis (goer/non-goer/third) applies to rest too, yielding the same absurdities.",
+        "ins": "गति और स्थिरता को विपरीत मानना ग़लत है — दोनों एक ही विश्लेषणात्मक ढाँचे में समान रूप से असिद्ध निकलते हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक अध्याय की एक गहरी अन्तर्दृष्टि प्रकट करता है: 'गति' और 'स्थिरता' एक-दूसरे के विपरीत सिद्धान्त नहीं, बल्कि एक ही सिक्के के दो पहलू हैं। जो तर्क-दोष गमन में मिला, वही ठीक वैसा ही ठहरने में भी मिलता है — इसलिए स्थिरता को 'गति का सुरक्षित विकल्प' मानना ग़लत है।",
+        "en": "Buddhapālita says this verse reveals a deep insight: motion and rest are not opposing principles but two faces of the same coin. The same fallacy found in going is found identically in standing still — so rest cannot be treated as a 'safe alternative' to motion.",
+        "ins": "जो दोष गति में था, ठहरने में भी वही दोष है — क्योंकि दोनों एक ही 'कर्ता-क्रिया' ढाँचे पर टिके हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यवहार में हम 'वह रुक गया' कहते हैं बिना किसी दिक्कत के। पर परमार्थ विश्लेषण दिखाता है कि 'रुकने वाला' और 'रुकना' भी परस्पर-निर्भर श्रेणियाँ हैं, जैसे गन्ता और गमन थे — इसलिए स्थिरता भी स्वभावतः सिद्ध नहीं होती।",
+        "en": "Bhāviveka says conventionally we say 'he stopped' without any issue. But ultimate analysis shows 'the one who stops' and 'stopping' are equally mutually-dependent categories, just as goer and motion were — so rest too is not inherently established.",
+        "ins": "स्थिरता को गति से बचने का 'शरण-स्थल' मान लेना भूल है — दोनों समान रूप से शून्य और परस्पर-निर्भर हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🛑 क्यों नागार्जुन 'ठहरने' पर भी वही तर्क दोहराते हैं?",
+        "a": "क्योंकि एक स्वाभाविक आपत्ति यह हो सकती थी: 'ठीक है, गति में समस्याएँ हैं, पर कम से कम <strong>ठहरना (rest)</strong> तो सीधा-सादा, स्वतःसिद्ध होगा!' नागार्जुन इस आपत्ति को पहले ही रोक देते हैं — वे दिखाते हैं कि <strong>'ठहरने वाला ठहरता है' भी वैसा ही खाली तर्क-वाक्य है</strong> जैसा 'चलने वाला चलता है' था। इससे साफ होता है कि समस्या 'गति' में नहीं, बल्कि <strong>कर्ता-क्रिया के पूरे ढाँचे में</strong> है — चाहे क्रिया चलना हो या ठहरना।"
+      },
+      {
+        "q": "⚖️ अगर गति और स्थिरता दोनों समान रूप से 'शून्य' हैं, तो क्या फ़र्क़ है उनमें?",
+        "a": "पारंपरिक सोच में गति और स्थिरता <strong>एक-दूसरे के विपरीत</strong> मानी जाती हैं। नागार्जुन दिखाते हैं कि गहराई से देखने पर दोनों <strong>एक ही विश्लेषणात्मक भाग्य साझा करती हैं</strong> — दोनों 'कर्ता + क्रिया' के ढाँचे में टिकी हैं, और दोनों उस ढाँचे की जाँच में असफल होती हैं। इसका अर्थ यह नहीं कि गति और स्थिरता में <strong>व्यावहारिक भेद नहीं</strong> — भेद है, पर वह भेद <strong>स्वभाव-सिद्ध, अन्तिम सत्य नहीं</strong>, बल्कि सापेक्ष, प्रयोजन-आधारित भेद है — दोनों समान रूप से प्रतीत्यसमुत्पन्न हैं।"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "sk": "गन्ता तावत्तिष्ठतीति कथमेवोपपत्स्यते ।\nगमनेन विना गन्ता यदा नैवोपपद्यते ॥",
+    "ro": "gantā · tāvat · tiṣṭhatīti · katham · evopapatsyate | gamanena · vinā · gantā · yadā · naivopapadyate ||",
+    "hi": "'चलने वाला रुकता है' — यह कैसे सिद्ध होगा? जब गमन के बिना 'चलने वाला' ही सिद्ध नहीं होता।",
+    "en": "How can 'the goer stands still' be established? For without motion, the goer is not established at all.",
+    "ws": [
+      {
+        "s": "तिष्ठति",
+        "h": "ठहरता है",
+        "e": "stands still"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चित रूप से",
+        "e": "indeed / at all"
+      },
+      {
+        "s": "उपपत्स्यते",
+        "h": "सिद्ध होगा",
+        "e": "will be established"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक 9 की ठीक वही संरचना 'तिष्ठति' के साथ दोहराता है। <em>यदा नैवोपपद्यते</em> — 'जब कभी भी सिद्ध नहीं होता' — निषेध की पूर्णता पर बल। यह दिखाता है कि 'गन्ता' गमन के बिना अस्तित्वहीन है, इसलिए उसका 'ठहरना' कहना भी उसी पूर्वापेक्षा (गन्ता की पहचान) पर टिका है, जो स्वयं असिद्ध है।<br><em>Eng:</em> Exactly mirrors verse 9's structure with 'tiṣṭhati.' Since gantā's identity itself depends on gamana, saying the goer 'stands still' still rests on that same unestablished dependency.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 9 का दर्पण-प्रतिबिम्ब है, अब स्थिरता के सन्दर्भ में। 'गन्ता' नाम ही गमन से मिलता है, इसलिए यह कहना कि 'वह गन्ता जो गमन-सहित पहचाना गया, अब ठहरता है' — इस पहचान और क्रिया के बीच वही अनसुलझा सम्बन्ध दोहराता है जो 'चलने' के मामले में था।",
+        "en": "Candrakīrti says this mirrors verse 9, now regarding rest. Since 'gantā' derives its name from motion, saying 'that goer, identified through motion, now stands still' repeats the same unresolved relation between identity and action seen with 'going.'",
+        "ins": "पहचान और क्रिया के बीच का गतिरोध केवल गति तक सीमित नहीं — यह किसी भी विधेय (predicate) पर लागू होता है जो हम किसी 'पहचान' पर आरोपित करते हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह दिखाता है कि 'गन्ता ठहरता है' कहना भी उतना ही अनिश्चित है जितना 'गन्ता चलता है' कहना। क्योंकि 'गन्ता' शब्द स्वयं ही गमन के बिना अर्थहीन है — तो उस अनिश्चित आधार पर 'ठहरना' जैसा विपरीत गुण जोड़ना और भी असंगत हो जाता है।",
+        "en": "Buddhapālita says this shows 'the goer stands still' is just as uncertain as 'the goer goes.' Since 'gantā' is meaningless without motion, attaching an opposite predicate like 'stands still' to that uncertain foundation becomes even more incoherent.",
+        "ins": "एक अस्थिर आधार पर चाहे कोई भी विधेय जोड़ें — 'चलना' हो या 'ठहरना' — दोनों समान रूप से अस्थिर रहेंगे।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह पुनरावृत्ति दिखाती है कि नागार्जुन की विधि सुसंगत है — जो तर्क गमन पर लागू हुआ, वही तर्क बिना किसी परिवर्तन के ठहरने पर भी लागू होता है। यह विधिगत निरन्तरता परमार्थ विश्लेषण की वैधता को पुष्ट करती है।",
+        "en": "Bhāviveka says this repetition shows Nāgārjuna's method is consistent — the argument applied to motion applies unchanged to rest as well. This methodological consistency reinforces the validity of the ultimate analysis.",
+        "ins": "एक ही विश्लेषणात्मक औज़ार का दो विपरीत परिस्थितियों (गति व स्थिरता) पर समान रूप से काम करना उस औज़ार की गहराई और व्यापकता दिखाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 यह श्लोक 9 की सीधी नक़ल क्यों लगता है?",
+        "a": "यह जान-बूझकर की गई <strong>समानान्तर पुनरावृत्ति</strong> है — नागार्जुन दिखा रहे हैं कि 'गति' पर लगाया गया विश्लेषणात्मक औज़ार <strong>बिना किसी परिवर्तन के 'स्थिरता' पर भी बिल्कुल वैसे ही काम करता है</strong>। यह इस बात का प्रमाण है कि समस्या 'गति' नाम की किसी विशेष चीज़ में नहीं है, बल्कि <strong>'कर्ता पहले से मौजूद है, फिर वह कोई क्रिया करता है' — इस पूरी सोच की बुनियादी संरचना में है</strong>, चाहे वह क्रिया चलना हो या रुकना।"
+      },
+      {
+        "q": "🧘 क्या इसका मतलब है कि ध्यान/स्थिरता की खोज भी 'खाली' है?",
+        "a": "नहीं — नागार्जुन का उद्देश्य ध्यान या शान्ति के <strong>अनुभव को नकारना नहीं</strong> है। वे केवल यह दिखा रहे हैं कि <strong>'स्थिर व्यक्ति' और 'स्थिरता' को दो स्वतन्त्र, ठोस चीज़ें मानना</strong> — जहाँ एक पहले से मौजूद हो और दूसरा उसमें 'हो' — यह ग़लत मॉडल है। वास्तविक अभ्यास में स्थिरता का अनुभव होता है, पर वह <strong>किसी स्थायी 'ध्यानी' में 'रखी हुई' वस्तु नहीं</strong>, बल्कि स्वयं एक सतत, सापेक्ष प्रक्रिया है — यही अनात्म (non-self) दृष्टि का व्यावहारिक निहितार्थ है।"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "sk": "न तिष्ठति गम्यमानान्न गतान्नागतादपि ।\nगमनं संप्रवृत्तिश्च निवृत्तिश्च गतेः समा ॥",
+    "ro": "na · tiṣṭhati · gamyamānān · na · gatān · nāgatād · api | gamanaṃ · saṃpravṛttiś · ca · nivṛttiś · ca · gateḥ · samā ||",
+    "hi": "'जा रहे' से नहीं रुकता, 'गए हुए' से नहीं, 'न गए' से भी नहीं। गमन, प्रवृत्ति और निवृत्ति — सबका विश्लेषण एक ही है।",
+    "en": "Standing still is not established from the being-gone-to, the gone-to, or the not-yet-gone-to. Going, starting, and stopping — all receive the same analysis as motion.",
+    "ws": [
+      {
+        "s": "संप्रवृत्तिः",
+        "h": "आरम्भ / प्रवृत्त होना (शुरू करना)",
+        "e": "starting / commencing"
+      },
+      {
+        "s": "निवृत्तिः",
+        "h": "निवृत्त होना / रुक जाना",
+        "e": "ceasing / stopping"
+      },
+      {
+        "s": "समा",
+        "h": "समान / एक-जैसी",
+        "e": "the same / equal"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>समा</em> = सम, स्त्रीलिंग प्रथमा एकवचन — 'समान।' यह श्लोक एक सामान्यीकरण-कथन (generalizing statement) है: यह घोषित करता है कि गमन, संप्रवृत्ति (शुरुआत) और निवृत्ति (अन्त) — तीनों का विश्लेषण एक ही सिद्धान्त से होता है, जो त्रि-कालिक जाँच अभी तक गमन पर लागू हुई थी।<br><em>Eng:</em> A generalizing statement: going, starting, and ceasing all fall under the identical three-time analysis already applied to gamana.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक स्थिरता के विश्लेषण को पूर्ण करता है और साथ ही एक व्यापक सिद्धान्त की घोषणा करता है: यह सिर्फ़ 'गमन' और 'स्थिरता' तक सीमित नहीं, बल्कि किसी भी 'प्रवृत्ति' (आरम्भ) और 'निवृत्ति' (अन्त) पर भी लागू होता है। यह अध्याय की विधि को सार्वभौमिक बना देता है।",
+        "en": "Candrakīrti says this verse completes the rest-analysis while announcing a broader principle: not limited to motion and stillness alone, it extends to any 'starting' and 'ceasing.' This universalizes the chapter's method.",
+        "ins": "गति-परीक्षा वास्तव में 'गति' के बारे में नहीं है — यह किसी भी परिवर्तन, आरम्भ, और अन्त के तर्क-ढाँचे की परीक्षा है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह पंक्ति महत्वपूर्ण है क्योंकि यह दिखाती है कि नागार्जुन की विधि किसी एक उदाहरण (गमन) तक सीमित प्रदर्शन नहीं, बल्कि एक सामान्य विश्लेषणात्मक टेम्पलेट है जिसे किसी भी क्रिया — शुरू होना, चलना, रुकना — पर लागू किया जा सकता है।",
+        "en": "Buddhapālita says this line is significant because it shows Nāgārjuna's method is not a demonstration limited to one example (motion), but a general analytical template applicable to any action — starting, continuing, stopping.",
+        "ins": "एक विशेष उदाहरण से सामान्य सिद्धान्त निकालना ही सच्चे दार्शनिक विश्लेषण की पहचान है — नागार्जुन यहीं करते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह सामान्यीकरण दिखाता है कि परमार्थ विश्लेषण किसी विशेष घटना तक सीमित नहीं, बल्कि 'क्रिया और कर्ता' के सामान्य ढाँचे पर लागू एक सार्वभौमिक विधि है। व्यावहारिक स्तर पर हर क्रिया (शुरू करना, चलना, रुकना) उपयोगी बनी रहती है, पर परमार्थतः सबकी वही स्थिति है।",
+        "en": "Bhāviveka says this generalization shows ultimate analysis is not confined to one specific event but is a universal method applicable to the general framework of 'action and agent.' Conventionally, every action remains useful, but ultimately all share the same status.",
+        "ins": "एक सिद्धान्त जो विशेष से सामान्य तक फैलता है, उसकी सच्ची शक्ति उसके व्यापक प्रयोज्यता में है, न कि किसी एक उदाहरण में।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌐 यह श्लोक अध्याय का 'सामान्यीकरण-बिन्दु' क्यों है?",
+        "a": "अब तक नागार्जुन ने केवल 'गमन' और 'गन्ता' पर ध्यान केन्द्रित किया था। यह श्लोक घोषणा करता है कि <strong>यही तर्क-पद्धति किसी भी क्रिया पर लागू होती है</strong> — चाहे वह 'शुरू करना' (प्रवृत्ति) हो या 'रोकना/समाप्त करना' (निवृत्ति)। यह दिखाता है कि नागार्जुन का विश्लेषण <strong>गति के बारे में एक विशेष तर्क नहीं, बल्कि 'कर्ता-क्रिया' सम्बन्ध की एक सार्वभौमिक जाँच-विधि</strong> है — जो किसी भी परिवर्तन, चाहे भौतिक हो या मानसिक, पर लागू की जा सकती है।"
+      },
+      {
+        "q": "🧠 क्या यह विधि रोज़मर्रा के निर्णयों, आदतों या भावनाओं पर भी लागू हो सकती है?",
+        "a": "हाँ, यही इस श्लोक की गहरी प्रासंगिकता है। सोचिए किसी <strong>आदत को 'शुरू करना'</strong> या किसी <strong>भावना को 'रोकना'</strong> — इन दोनों में भी हम मान लेते हैं कि कोई ठोस 'मैं' पहले से मौजूद है जो इन क्रियाओं को 'करता' है। नागार्जुन की विधि यहाँ भी लागू होगी: क्या 'आदत शुरू करने वाला मैं' आदत शुरू करने से पहले मौजूद था? क्या 'भावना रोकने वाला मैं' उस भावना से स्वतन्त्र है? इस विश्लेषण से पता चलता है कि <strong>'मैं' और 'मेरी क्रियाएँ' परस्पर-निर्भर होकर ही उत्पन्न होते हैं</strong> — यह आत्म-अवलोकन और मनोवैज्ञानिक अन्तर्दृष्टि का एक शक्तिशाली औज़ार बन सकता है।"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "sk": "यदेव गमनं गन्ता स एवेति न युज्यते ।\nअन्य एव पुनर्गन्ता गतेरिति न युज्यते ॥",
+    "ro": "yad · eva · gamanaṃ · gantā · sa · eveti · na · yujyate | anya · eva · punar · gantā · gater · iti · na · yujyate ||",
+    "hi": "गमन और चलने वाला एक ही हैं — यह नहीं बनता। गमन से चलने वाला बिलकुल अलग है — यह भी नहीं बनता।",
+    "en": "That the going is the very same as the goer is not tenable. That the goer is altogether different from going is also not tenable.",
+    "ws": [
+      {
+        "s": "युज्यते",
+        "h": "संगत/उपयुक्त होता है / बनता है",
+        "e": "is fitting / is tenable"
+      },
+      {
+        "s": "स एव",
+        "h": "वही (एक ही)",
+        "e": "that very one / identical"
+      },
+      {
+        "s": "अन्यः एव",
+        "h": "बिलकुल अलग / भिन्न ही",
+        "e": "utterly different"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>युज्यते</em> = √युज् कर्मवाच्य लट् — 'संगत होता है/उचित बैठता है।' <em>स एव...न युज्यते</em> और <em>अन्य एव...न युज्यते</em> — यह द्विकोटि खण्डन (एकत्व और अन्यत्व दोनों का निषेध) की क्लासिक मध्यमक संरचना है, जो अध्याय के केन्द्रीय दार्शनिक मोड़ को चिह्नित करती है।<br><em>Eng:</em> The classic Madhyamaka double-negation structure — denying both identity (ekatva) and difference (anyatva) — marking the chapter's central philosophical turn.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अध्याय का दार्शनिक हृदय है। नागार्जुन अब सीधे पूछते हैं: गमन और गन्ता एक हैं या भिन्न? दोनों विकल्प असफल होते हैं — एकत्व मानने से कर्ता-कर्म का भेद मिट जाता है (अगले श्लोक में विस्तार से), और अन्यत्व मानने से दोनों के बीच कोई सम्बन्ध ही स्थापित नहीं होता। यह मध्यमक की चतुष्कोटि-शैली जाँच का सार है।",
+        "en": "Candrakīrti says this is the chapter's philosophical heart. Nāgārjuna now directly asks: are motion and goer identical or different? Both fail — identity erases the agent-action distinction (elaborated next verse), and difference severs any relation between them. This is the essence of Madhyamaka's tetralemma-style scrutiny.",
+        "ins": "एकत्व और अन्यत्व — ये दो ही सम्भव सम्बन्ध हैं जिन्हें हम सामान्यतः कल्पना कर सकते हैं। जब दोनों असफल हों, तो सम्बन्ध की हमारी पूरी अवधारणा पर पुनर्विचार आवश्यक हो जाता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक बहुत महत्वपूर्ण मोड़ है। पहले के श्लोक 'कैसे' के प्रश्न से जूझ रहे थे (गति कैसे सिद्ध होगी), पर अब नागार्जुन एक गहरे 'क्या' के प्रश्न की ओर मुड़ते हैं: क्या गमन और गन्ता वास्तव में दो अलग चीज़ें हैं, या एक ही? यह प्रश्न आगे के श्लोकों (19-21) की नींव रखता है।",
+        "en": "Buddhapālita says this verse marks an important pivot. Earlier verses grappled with 'how' motion is established; now Nāgārjuna turns to the deeper 'what' question: are motion and goer truly two separate things, or one? This question lays the foundation for verses 19-21.",
+        "ins": "'कैसे' से 'क्या' की ओर मुड़ना विश्लेषण को सतही तर्क-दोषों से गहरे आन्तरिक (ऑन्टोलॉजिकल) प्रश्नों की ओर ले जाता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यवहार में हम गमन और गन्ता को न पूर्ण रूप से एक मानते हैं, न पूर्ण रूप से अलग — हम बस दोनों को सापेक्ष रूप से, एक-दूसरे के सन्दर्भ में उपयोग करते हैं। परमार्थ विश्लेषण दिखाता है कि यह सापेक्षता ही सही दृष्टिकोण है — दोनों में से कोई भी अन्तिम श्रेणी (एकत्व/अन्यत्व) ठीक नहीं बैठती।",
+        "en": "Bhāviveka says conventionally we neither treat motion and goer as fully identical nor fully separate — we simply use both relationally, in reference to each other. Ultimate analysis shows this relationality is the correct view — neither ultimate category (identity/difference) fits.",
+        "ins": "यह जोड़ी (एकत्व-अन्यत्व) की विफलता ही दिखाती है कि 'सम्बन्ध' को इन दो अन्तिम श्रेणियों में बाँधना ही अपर्याप्त है — तीसरा, मध्यम विकल्प चाहिए: परस्पर-निर्भरता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎭 गमन और गन्ता एक हैं या अलग — यह प्रश्न इतना महत्वपूर्ण क्यों है?",
+        "a": "यह प्रश्न पूरे अध्याय का <strong>दार्शनिक केंद्र-बिन्दु</strong> है क्योंकि यह भारतीय दर्शन की क्लासिक <strong>एकत्व-अन्यत्व जाँच (identity-difference analysis)</strong> लागू करता है — जो किसी भी दो अवधारणाओं के सम्बन्ध को जाँचने का मानक तरीका है। अगर गमन और गन्ता <strong>'एक' हैं</strong>, तो कर्ता (जो करता है) और कर्म (जो किया जाता है) में कोई भेद नहीं बचता — जो बेतुका है। अगर वे <strong>'बिल्कुल अलग'</strong> हैं, तो उनमें कोई सम्बन्ध ही स्थापित नहीं हो सकता — तो 'गन्ता का गमन' कहना निरर्थक हो जाता है। दोनों विकल्पों की विफलता नागार्जुन को <strong>तीसरे रास्ते — परस्पर-निर्भरता (शून्यता)</strong> — की ओर ले जाती है।"
+      },
+      {
+        "q": "🌊 अगर न एक, न अलग — तो सम्बन्ध किस तरह का है?",
+        "a": "यही नागार्जुन के <strong>'मध्यम मार्ग'</strong> का सार है। गमन और गन्ता का सम्बन्ध <strong>न पूर्ण एकत्व</strong> (identity) है, <strong>न पूर्ण भिन्नता</strong> (absolute difference), बल्कि <strong>पारस्परिक-निर्भरता (mutual dependence / प्रतीत्यसमुत्पाद)</strong> है — जैसे 'लम्बा' और 'छोटा' न एक हैं, न पूर्ण अलग, बल्कि एक-दूसरे के सापेक्ष अर्थ पाते हैं। इसी तरह गमन और गन्ता भी <strong>एक-दूसरे को परिभाषित करते हुए, बिना किसी स्वतन्त्र, ठोस स्वभाव के</strong> अस्तित्व में आते हैं — यही 'शून्यता' का ठीक-ठीक अर्थ है।"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "sk": "यदेव गमनं गन्ता एकत्वं तत्प्रसज्यते ।\nकर्तुः कर्मणि चैकत्वं प्रसज्येतेति गर्हितम् ॥",
+    "ro": "yad · eva · gamanaṃ · gantā · ekatvaṃ · tat · prasajyate | kartuḥ · karmaṇi · caikatvaṃ · prasajyeteti · garhitam ||",
+    "hi": "अगर गमन और चलने वाला एक ही हों, तो कर्ता और कर्म भी एक हो जाएँगे — यह तो सर्वथा अनुचित है।",
+    "en": "If the going and the goer were identical, identity of agent and action would follow — which is untenable.",
+    "ws": [
+      {
+        "s": "एकत्वम्",
+        "h": "एकता / अभिन्नता",
+        "e": "identity / oneness"
+      },
+      {
+        "s": "कर्तुः",
+        "h": "कर्ता का (जो करता है)",
+        "e": "of the agent"
+      },
+      {
+        "s": "कर्मणि",
+        "h": "कर्म में (जो किया जाता है)",
+        "e": "in the action/object"
+      },
+      {
+        "s": "गर्हितम्",
+        "h": "निन्दित / अस्वीकार्य / दोषपूर्ण",
+        "e": "reprehensible / unacceptable"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>एकत्वम्</em> = एक + त्व (भाववाचक प्रत्यय) — 'एकत्व/अभिन्नता।' <em>कर्तुः, कर्मणि</em> — षष्ठी और सप्तमी विभक्ति में कारक-पारिभाषिक शब्द (पाणिनीय व्याकरण से) — 'कर्ता' (agent-case) और 'कर्म' (object-case)। <em>गर्हितम्</em> = √गर्ह् (निन्दा करना) का भूतकृदन्त — 'निन्दनीय/अस्वीकार्य।' यह श्लोक पाणिनीय कारक-व्याकरण की शब्दावली का उपयोग करके दिखाता है कि एकत्व मानने से भाषा की मूल संरचना ही भंग हो जाती है।<br><em>Eng:</em> Uses Pāṇinian kāraka (grammatical case) terminology — kartṛ (agent) and karma (object) — to show that positing identity would collapse the basic subject-object structure of language itself.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 'एकत्व' विकल्प को खण्डित करता है। भारतीय व्याकरण में कर्ता (करने वाला) और कर्म (किया जाने वाला) स्पष्ट रूप से भिन्न कारक हैं। अगर गमन (कर्म जैसा) और गन्ता (कर्ता) एक ही हो जाएँ, तो यह पूरा कारक-व्याकरण अर्थहीन हो जाता है — 'कर्ता स्वयं अपना कर्म है' कहना भाषा और तर्क दोनों के विरुद्ध है।",
+        "en": "Candrakīrti says this refutes the 'identity' option. In Sanskrit grammar, agent (kartṛ) and object/action (karma) are clearly distinct cases. If gamana (like the object) and gantā (the agent) became identical, the entire grammatical case-system would become meaningless — saying 'the agent is itself its own action' violates both language and logic.",
+        "ins": "व्याकरण केवल भाषा का उपकरण नहीं — यह वास्तविकता की एक बुनियादी संरचना (कर्ता बनाम कर्म) को दर्शाता है, जिसे मिटाना असंभव है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — सोचिए अगर 'काटने वाला' और 'काटना' एक ही चीज़ हो जाए — तो 'कौन किसे काट रहा है' का कोई अर्थ ही नहीं बचता। इसी तरह अगर गन्ता और गमन एक हो जाएँ, तो 'कौन चल रहा है' का प्रश्न ही निरर्थक हो जाता है — जो स्पष्टतः भाषा और अनुभव दोनों के विरुद्ध है।",
+        "en": "Buddhapālita says imagine if 'the cutter' and 'the cutting' became one thing — then 'who is cutting what' would lose all meaning. Similarly, if gantā and gamana became identical, 'who is going' becomes meaningless — clearly contrary to both language and experience.",
+        "ins": "कर्ता-कर्म भेद हमारे अनुभव और भाषा की बुनियादी इकाई है — इसे मिटाने वाला कोई भी सिद्धान्त अस्वीकार्य है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह तर्क दिखाता है कि व्यावहारिक भाषा में कर्ता-कर्म भेद अनिवार्य है, नहीं तो सम्पूर्ण संचार असम्भव हो जाएगा। इसलिए एकत्व का विकल्प संवृति स्तर पर भी अस्वीकार्य है, परमार्थ स्तर पर तो और भी अधिक।",
+        "en": "Bhāviveka says this shows the agent-action distinction is essential even at the conventional level — otherwise all communication would become impossible. Hence the identity option is unacceptable even conventionally, let alone ultimately.",
+        "ins": "कुछ भेद (जैसे कर्ता-कर्म) इतने बुनियादी हैं कि उन्हें मिटाना संवृति सत्य को भी असम्भव बना देता है — यह एकत्व विकल्प की अस्वीकार्यता को दोहरा बना देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 'कर्ता और कर्म एक हो जाएँ तो क्या समस्या है' — सरल उदाहरण से समझाएँ?",
+        "a": "सोचिए एक <strong>चित्रकार और उसकी पेंटिंग</strong> — अगर दोनों 'एक ही चीज़' हो जाएँ, तो 'चित्रकार ने पेंटिंग बनाई' कहना ही असम्भव हो जाएगा, क्योंकि <strong>बनाने वाला और बनाई गई चीज़ में कम से कम इतना भेद तो चाहिए</strong> कि एक क्रिया दूसरे पर लागू हो सके। ठीक वैसे ही, अगर 'गन्ता' (चलने वाला) और 'गमन' (चलना) पूरी तरह एक हो जाएँ, तो <strong>'कौन क्या कर रहा है' का पूरा ढाँचा ही ढह जाता है</strong> — यह भाषा और तर्क दोनों को असम्भव बना देगा।"
+      },
+      {
+        "q": "🧩 तो नागार्जुन 'भेद' को स्वीकार करते हैं? यह उनके शून्यता के तर्क से कैसे मेल खाता है?",
+        "a": "यहाँ सूक्ष्मता महत्वपूर्ण है — नागार्जुन <strong>अभी सिर्फ़ 'एकत्व' को अस्वीकार कर रहे हैं</strong>, यह नहीं कह रहे कि 'तो भेद (अन्यत्व) सही है।' अगले ही श्लोक (20) में वे <strong>'अन्यत्व' (पूर्ण भिन्नता) को भी अस्वीकार</strong> करेंगे। यह क्रमिक खण्डन (sequential refutation) है — पहले एक अति (एकत्व) को हटाओ, फिर दूसरी अति (अन्यत्व) को हटाओ, ताकि बचे <strong>मध्यम मार्ग: परस्पर-निर्भरता, जो न शुद्ध एकत्व है न शुद्ध भिन्नता</strong>।"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "sk": "अन्यश्चेद्गमनाद्गन्ता गमनं गन्तृवर्जितम् ।\nगन्ता च गमनाद्ऋते सिध्येतां पृथगिष्यते ॥",
+    "ro": "anyaś · ced · gamanād · gantā · gamanaṃ · gantṛvarjitam | gantā · ca · gamanād · ṛte · sidhyetāṃ · pṛthag · iṣyate ||",
+    "hi": "अगर चलने वाला गमन से अलग हो, तो गमन बिना चलने वाले के और चलने वाला बिना गमन के — दोनों अलग-अलग सिद्ध होने चाहिए।",
+    "en": "If the goer were different from going, then going without a goer and goer without going would have to be separately established.",
+    "ws": [
+      {
+        "s": "अन्यः चेत्",
+        "h": "अगर अलग/भिन्न हो",
+        "e": "if different"
+      },
+      {
+        "s": "गन्तृवर्जितम्",
+        "h": "चलने वाले से रहित",
+        "e": "devoid of a goer"
+      },
+      {
+        "s": "पृथक्",
+        "h": "अलग-अलग / स्वतन्त्र रूप से",
+        "e": "separately / independently"
+      },
+      {
+        "s": "इष्यते",
+        "h": "चाहा/माना जाता है (आपत्ति स्वरूप)",
+        "e": "would have to be accepted"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गन्तृवर्जितम्</em> = गन्तृ + वर्जित (बहिष्कृत/रहित), बहुव्रीहि समास — 'चलने वाले से रहित।' <em>ऋते</em> + पञ्चमी — 'के बिना।' <em>सिध्येताम्</em> = द्विवचन विध्यर्थक लिङ् — 'दोनों सिद्ध होने चाहिए।' यह श्लोक 'अन्यत्व' (difference) विकल्प का खण्डन करता है — अगर गमन और गन्ता पूर्णतः स्वतन्त्र हों, तो एक के बिना दूसरे का अस्तित्व सम्भव होना चाहिए, जो अनुभव-विरुद्ध है।<br><em>Eng:</em> Refutes the 'difference' option: if motion and goer were wholly independent, each should be able to exist without the other — contrary to experience.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — अब नागार्जुन 'अन्यत्व' (पूर्ण भिन्नता) विकल्प की जाँच करते हैं। अगर गन्ता और गमन सचमुच पूरी तरह भिन्न, स्वतन्त्र वस्तुएँ हैं (जैसे गाय और घोड़ा), तो सैद्धान्तिक रूप से एक के बिना दूसरा मौजूद हो सकना चाहिए — यानी 'बिना चलने वाले का गमन' और 'बिना गमन का चलने वाला' दोनों सम्भव होने चाहिए। पर ऐसा कभी अनुभव में नहीं मिलता — जो दिखाता है कि वे पूर्णतः स्वतन्त्र नहीं हैं।",
+        "en": "Candrakīrti says Nāgārjuna now examines the 'difference' option. If goer and motion were truly wholly separate entities (like a cow and a horse), then in principle each should be able to exist without the other — 'motion without a goer' and 'goer without motion.' But this is never found in experience, showing they are not wholly independent.",
+        "ins": "अगर दो चीज़ें सचमुच स्वतन्त्र हों, तो वे अलग-अलग भी मिलनी चाहिए — पर गमन और गन्ता कभी अलग-अलग नहीं मिलते, हमेशा साथ-साथ।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत व्यावहारिक है: क्या आपने कभी 'बिना किसी चलने वाले के गमन' देखा है, या 'बिना किसी गमन के चलने वाला' देखा है? नहीं। यह अनुभव-सिद्ध असम्भवता दिखाती है कि गमन और गन्ता 'अन्य' (पूर्ण भिन्न) नहीं हो सकते।",
+        "en": "Buddhapālita says this argument is very practical: have you ever seen 'motion without any goer,' or 'a goer without any motion'? No. This experientially-grounded impossibility shows motion and goer cannot be 'other' (wholly different).",
+        "ins": "अनुभव स्वयं इस तर्क का साक्षी है — गमन और गन्ता कभी परस्पर अलग-थलग अनुभव में नहीं मिलते, इसलिए 'अन्यत्व' अनुभव-विरुद्ध है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह दिखाता है कि 'अन्यत्व' विकल्प भी संवृति और परमार्थ दोनों स्तरों पर असफल होता है। व्यावहारिक अनुभव में गमन और गन्ता कभी पृथक् नहीं मिलते, इसलिए उन्हें 'भिन्न पदार्थ' मानना अनुभव-विरोधी और तर्क-विरोधी दोनों है।",
+        "en": "Bhāviveka says this shows the 'difference' option fails at both the conventional and ultimate levels. In practical experience, motion and goer are never found apart, so treating them as 'different substances' contradicts both experience and logic.",
+        "ins": "जब दो अवधारणाएँ कभी अलग-अलग अनुभव में नहीं आतीं, तो उन्हें 'स्वतन्त्र पदार्थ' मानना दोनों ही स्तरों (व्यावहारिक और परमार्थिक) पर असफल होता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔍 'गमन बिना गन्ता के' या 'गन्ता बिना गमन के' कभी क्यों नहीं मिलता?",
+        "a": "यह प्रश्न ही नागार्जुन के तर्क का मूल है। सोचिए — क्या आप <strong>'चलना' नाम की कोई चीज़ अपने आप में, बिना किसी चलने वाले के</strong>, तैरती हुई कल्पना कर सकते हैं? या कोई <strong>'चलने वाला व्यक्ति' जिसमें बिल्कुल भी चलने की गतिविधि न हो</strong>? दोनों असम्भव लगते हैं। यह असम्भवता ही दिखाती है कि गमन और गन्ता <strong>'गाय और घोड़े' की तरह दो पूरी तरह स्वतन्त्र वस्तुएँ नहीं</strong> — वे हमेशा एक-दूसरे के साथ, एक-दूसरे के सन्दर्भ में ही प्रकट होते हैं।"
+      },
+      {
+        "q": "🧭 श्लोक 18-20 मिलकर हमें कहाँ पहुँचाते हैं?",
+        "a": "श्लोक 18 ने दोनों विकल्प (एकत्व, अन्यत्व) को अस्वीकार्य बताया; श्लोक 19 ने दिखाया <strong>एकत्व</strong> क्यों टूटता है (कर्ता-कर्म भेद मिट जाएगा); श्लोक 20 ने दिखाया <strong>अन्यत्व</strong> क्यों टूटता है (अनुभव-विरुद्ध पृथकता माननी पड़ेगी)। मिलाकर, ये तीनों श्लोक <strong>चतुष्कोटि के दो केन्द्रीय कोटि (एकत्व और अन्यत्व) को समाप्त कर देते हैं</strong>, जिससे बचता है सिर्फ़ एक निष्कर्ष: <strong>गमन और गन्ता का सम्बन्ध न एकत्व है, न अन्यत्व, बल्कि प्रतीत्यसमुत्पन्न, अ-द्वैत (non-dual) परस्पर-निर्भरता है</strong> — यही अगले श्लोक (21) में स्पष्ट होगा।"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "sk": "एकत्वान्यत्वतः सिद्धिर्यस्य तस्य न विद्यते ।\nकथं नु गम्यते गन्ता गमनं वोपलभ्यते ॥",
+    "ro": "ekatvānyatvataḥ · siddhir · yasya · tasya · na · vidyate | kathaṃ · nu · gamyate · gantā · gamanaṃ · vopalabhyate ||",
+    "hi": "जो न एकत्व से सिद्ध होता है, न अन्यत्व से — वह चलने वाला या गमन कैसे जाना जाएगा?",
+    "en": "When something is established by neither identity nor difference — how can that goer or that going be known?",
+    "ws": [
+      {
+        "s": "एकत्वान्यत्वतः",
+        "h": "एकत्व से और अन्यत्व से",
+        "e": "by identity and by difference"
+      },
+      {
+        "s": "सिद्धिः",
+        "h": "सिद्धि / स्थापना",
+        "e": "establishment / proof"
+      },
+      {
+        "s": "उपलभ्यते",
+        "h": "प्राप्त/ज्ञात होता है",
+        "e": "is apprehended / is known"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>एकत्वान्यत्वतः</em> = एकत्व + अन्यत्व, तसिल् प्रत्यय (पञ्चमी अर्थ) — 'एकत्व और अन्यत्व दोनों से।' <em>उपलभ्यते</em> = उप + √लभ् कर्मवाच्य लट् — 'प्राप्त/ज्ञात होता है।' यह श्लोक 18-20 के निष्कर्ष को समेटता है: चूँकि दोनों सम्भव सम्बन्ध (एकत्व, अन्यत्व) असफल सिद्ध हुए, अब गन्ता और गमन दोनों की ज्ञेयता (knowability) पर ही प्रश्न उठता है।<br><em>Eng:</em> Draws the conclusion of verses 18-20: since both possible relations (identity, difference) have failed, the very knowability of gantā and gamana is now in question.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक निर्णायक निष्कर्ष है। भारतीय ज्ञानमीमांसा में किसी भी दो वस्तुओं के बीच सम्बन्ध केवल दो प्रकार का हो सकता है — एकत्व या अन्यत्व। जब दोनों असफल सिद्ध हों (जैसे श्लोक 18-20 में दिखाया गया), तो उस 'वस्तु' का ज्ञान ही असम्भव हो जाता है, क्योंकि हमारे पास उसे पहचानने का कोई ढाँचा ही नहीं बचता।",
+        "en": "Candrakīrti says this verse is the decisive conclusion. In Indian epistemology, any relation between two things can only be of two kinds — identity or difference. When both fail (as shown in verses 18-20), knowledge of that 'entity' becomes impossible, since no framework remains by which to identify it.",
+        "ins": "यह चतुष्कोटि जाँच की चरम परिणति है — जब दोनों मानक विकल्प असफल हों, तो प्रश्न स्वयं पुनर्विचार माँगता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — इस श्लोक का महत्व यह है कि यह सीधे ज्ञानमीमांसीय (epistemological) स्तर पर प्रहार करता है — यह केवल यह नहीं कहता कि गन्ता और गमन 'स्वभावतः असिद्ध' हैं, बल्कि यह कि उन्हें 'ठोस वस्तु' के रूप में जानने का कोई उपाय ही नहीं है। यह शून्यता के ज्ञानमीमांसीय आयाम को उजागर करता है।",
+        "en": "Buddhapālita says the significance here is that it strikes directly at the epistemological level — not merely claiming gantā and gamana lack inherent existence, but that there is no way to know them as solid entities at all. This exposes the epistemological dimension of emptiness.",
+        "ins": "शून्यता केवल तत्त्वमीमांसा (क्या है) का प्रश्न नहीं, बल्कि ज्ञानमीमांसा (हम कैसे जानते हैं) का भी प्रश्न है — यह श्लोक दोनों को जोड़ता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — परमार्थतः गन्ता और गमन 'स्वभाव-सिद्ध वस्तु' के रूप में अज्ञेय हैं, क्योंकि उनका सम्बन्ध न एकत्व है न अन्यत्व। पर व्यावहारिक स्तर पर हम उन्हें ठीक इसी परस्पर-निर्भरता के आधार पर पहचानते और उपयोग करते हैं — यही संवृति ज्ञान की प्रकृति है।",
+        "en": "Bhāviveka says ultimately gantā and gamana are unknowable as 'inherently existing entities,' since their relation is neither identity nor difference. But conventionally we identify and use them precisely on the basis of this mutual dependence — that is the nature of conventional knowledge.",
+        "ins": "जो परमार्थतः 'अज्ञेय' है (ठोस वस्तु के रूप में), वह व्यावहारिक रूप से पूरी तरह 'ज्ञेय' है (सम्बन्धात्मक प्रक्रिया के रूप में) — यही दो सत्यों का सामंजस्य है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔑 'न एकत्व, न अन्यत्व से ज्ञेय' — क्या इसका मतलब पूर्ण अज्ञेयता है?",
+        "a": "नहीं — यह एक <strong>विशिष्ट प्रकार की ज्ञेयता को नकारता है</strong>: यह नकारता है कि गन्ता और गमन को <strong>'स्वतन्त्र, ठोस, स्वभाव-सिद्ध वस्तुओं'</strong> के रूप में जाना जा सकता है (जैसे हम किसी पत्थर या मेज़ को जानते हैं)। यह इस तरह के ज्ञान को नकारकर, एक <strong>दूसरी तरह के ज्ञान की ओर इशारा करता है</strong> — गन्ता और गमन को <strong>परस्पर-निर्भर, सम्बन्धात्मक प्रक्रियाओं</strong> के रूप में जानना, जो प्रतीत्यसमुत्पाद की समझ से ही सम्भव है।"
+      },
+      {
+        "q": "🌀 अगर पहचान का पारंपरिक ढाँचा (एक/अलग) ही टूट जाए, तो हम दुनिया को कैसे समझें?",
+        "a": "यही नागार्जुन का सबसे गहरा योगदान है — वे <strong>'सम्बन्ध' की एक तीसरी श्रेणी</strong> प्रस्तुत करते हैं जो पश्चिमी और अधिकांश भारतीय तर्कशास्त्र में भी अनुपस्थित है: <strong>न एकत्व, न अन्यत्व, बल्कि प्रतीत्यसमुत्पाद (dependent co-arising)</strong>। इस दृष्टि से दुनिया को समझना यानी चीज़ों को <strong>न स्वतन्त्र वस्तुओं के रूप में, न पूर्णतः असम्बद्ध वस्तुओं के रूप में, बल्कि परस्पर-गुंथे हुए सम्बन्धों के जाल के रूप में</strong> देखना — यही शून्यता-दृष्टि का व्यावहारिक फल है।"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "sk": "गन्ता यद्गमनेनास्ति तद्गमनं न गच्छति ।\nगमनात्प्राक्न गन्तास्ति यो गन्तुमारभेत तत् ॥",
+    "ro": "gantā · yad · gamanenāsti · tad · gamanaṃ · na · gacchati | gamanāt · prāk · na · gantāsti · yo · gantum · ārabheta · tat ||",
+    "hi": "जिस गमन से चलने वाला बनता है, उस गमन को वह नहीं चलता। क्योंकि गमन से पहले कोई चलने वाला ही नहीं है जो चलना शुरू करे।",
+    "en": "The going by which the goer is constituted — that going the goer does not go. For prior to going, there is no goer who could begin to go.",
+    "ws": [
+      {
+        "s": "अस्ति",
+        "h": "है / होता है",
+        "e": "exists / is"
+      },
+      {
+        "s": "प्राक्",
+        "h": "पहले / से पूर्व",
+        "e": "before / prior to"
+      },
+      {
+        "s": "आरभेत",
+        "h": "आरम्भ करे (विध्यर्थक)",
+        "e": "might begin (optative)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>यद्गमनेन अस्ति</em> — 'जिस गमन के द्वारा (गन्ता) है/बनता है।' <em>आरभेत</em> = आ + √रभ् विधिलिङ् लकार — 'शुरू करे (सम्भाव्य)।' यह श्लोक श्लोक 18-21 के 'एकत्व-अन्यत्व' निष्कर्ष को अब एक नए कोण से प्रमाणित करता है — जो गमन गन्ता को 'बनाता' है, उसी गमन को गन्ता 'चलता' नहीं कह सकता, क्योंकि उससे पहले कोई गन्ता ही नहीं था।<br><em>Eng:</em> Confirms the identity-difference conclusion from a new angle: the very motion that constitutes the goer cannot be the motion the goer 'goes,' since no goer existed prior to it.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक एक सूक्ष्म पर महत्वपूर्ण भेद करता है: वह गमन जो 'गन्ता' नाम की रचना करता है (constitutive motion), और वह गमन जिसे 'गन्ता' कर्ता के रूप में 'करता' है (attributed motion) — ये दोनों एक नहीं हो सकते। क्योंकि पहले गमन से पहले कोई गन्ता था ही नहीं जो उसे 'शुरू' कर सके।",
+        "en": "Candrakīrti says this verse draws a subtle but crucial distinction: the motion that constitutes 'gantā' (constitutive motion) and the motion the goer 'performs' as agent (attributed motion) cannot be one and the same. Because before the constitutive motion, no goer existed who could 'begin' it.",
+        "ins": "जो क्रिया किसी की पहचान बनाती है, वह क्रिया उस पहचान वाले व्यक्ति द्वारा 'की गई' नहीं कही जा सकती — क्योंकि पहचान से पहले 'व्यक्ति' था ही नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह वैसा ही है जैसे कोई कहे 'जन्म देने वाली क्रिया से माँ बनती है, इसलिए माँ ने अपने जन्म देने की क्रिया को स्वयं जन्म से पहले किया।' यह कालक्रम की दृष्टि से असम्भव है — जो क्रिया किसी पहचान को जन्म देती है, वह क्रिया उस पहचान से पहले किसी 'कर्ता' द्वारा सम्पन्न नहीं हो सकती।",
+        "en": "Buddhapālita says this is like saying 'the act of giving birth constitutes 'mother,' so the mother performed her own birth-giving act before her birth as mother.' This is temporally impossible — an act that gives rise to an identity cannot be performed by that identity's 'agent' prior to that identity existing.",
+        "ins": "पहचान-निर्माण करने वाली क्रिया और उस पहचान द्वारा बाद में की गई क्रिया — इन दोनों को एक मान लेना कालक्रम की दृष्टि से ही असम्भव है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह विश्लेषण एकत्व-अन्यत्व जाँच को और गहरा करता है, दिखाते हुए कि 'गन्ता' और 'गमन' के बीच कोई भी सीधा कारण-कार्य सम्बन्ध स्थापित नहीं हो सकता — न वह गमन जो गन्ता को 'बनाता' है, न वह जिसे गन्ता 'करता' है, दोनों एक सुसंगत, स्वतन्त्र ढाँचे में फिट होते हैं।",
+        "en": "Bhāviveka says this analysis deepens the identity-difference scrutiny, showing that no direct causal relation between 'gantā' and 'gamana' can be established — neither the motion that 'constitutes' the goer nor the one the goer 'performs' fits into a coherent, independent framework.",
+        "ins": "यह विश्लेषण दिखाता है कि 'निर्माण करने वाला सम्बन्ध' (constitutive) और 'करने वाला सम्बन्ध' (agentive) को घुला-मिलाना ही मूल भ्रम है — दोनों को अलग-अलग, सावधानी से जाँचना चाहिए।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪞 'गन्ता को बनाने वाला गमन' और 'गन्ता का किया गमन' में क्या फ़र्क़ है?",
+        "a": "यह भेद बहुत सूक्ष्म पर गहरा है। सोचिए — <strong>जिस गमन से कोई व्यक्ति 'चलने वाला' कहलाता है</strong>, वह गमन उसकी <strong>पहचान गढ़ता है</strong>। पर जब हम कहते हैं <strong>'चलने वाला (वह पहचान) चलता है'</strong>, तो हम मान रहे हैं कि पहले से मौजूद 'चलने वाला' अब एक <strong>नई क्रिया 'कर' रहा है</strong>। नागार्जुन दिखाते हैं कि ये दोनों गमन <strong>एक ही नहीं हो सकते</strong> — क्योंकि पहचान बनाने वाला गमन, उस पहचान के 'बनने' से पहले घटित हुआ, जबकि दूसरा गमन उस पहचान के 'बनने के बाद' का माना जाता है। यह कालक्रम-विरोधाभास दिखाता है कि 'गन्ता एक स्थायी पहचान है जो फिर क्रिया करती है' — यह मॉडल ही गलत है।"
+      },
+      {
+        "q": "⏰ यह विरोधाभास किसी और रोज़मर्रा के उदाहरण से समझाएँ?",
+        "a": "सोचिए एक <strong>'लेखक'</strong> — कोई व्यक्ति लिखने से <strong>'लेखक' कहलाता है</strong>। अब अगर हम कहें <strong>'लेखक लिखता है'</strong>, तो क्या यह वही लेखन है जिसने उसे 'लेखक' बनाया, या कोई नया लेखन? अगर <strong>वही लेखन</strong> है, तो यह कहना अजीब है कि 'लेखक' ने अपनी पहचान बनाने वाला काम खुद, 'लेखक' के रूप में, किया — क्योंकि लेखक बनने से पहले वह लेखक नहीं था। अगर यह <strong>अलग, नया लेखन</strong> है, तो 'लेखक होना' और 'लिखना' दो अलग बातें हो जाती हैं, जो हमारे सहज-बोध के विरुद्ध लगता है। यह विरोधाभास ठीक वही है जो नागार्जुन गमन-गन्ता में दिखाते हैं — <strong>पहचान और क्रिया को एक-दूसरे से स्वतन्त्र मानने का हर प्रयास किसी न किसी विरोधाभास में फँस जाता है।</strong>"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "sk": "गन्ता यद्गमनेनान्यद्गमनं तन्न गच्छति ।\nद्वे गमने प्रसज्येते एकस्मिन् गन्तरि स्थिते ॥",
+    "ro": "gantā · yad · gamanenānyad · gamanaṃ · tan · na · gacchati | dve · gamane · prasajyete · ekasmin · gantari · sthite ||",
+    "hi": "जिस गमन से चलने वाला बना — उससे अलग गमन भी वह नहीं चलता। क्योंकि एक चलने वाले में दो गमन मानने पड़ेंगे।",
+    "en": "The goer does not go a different going either — for then two goings would follow in a single goer.",
+    "ws": [
+      {
+        "s": "अन्यत् गमनम्",
+        "h": "दूसरा/भिन्न गमन",
+        "e": "a different/other motion"
+      },
+      {
+        "s": "एकस्मिन् गन्तरि",
+        "h": "एक ही चलने वाले में (सप्तमी)",
+        "e": "in a single goer"
+      },
+      {
+        "s": "स्थिते",
+        "h": "स्थित होने पर / रहते हुए",
+        "e": "existing / being present"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>एकस्मिन् गन्तरि स्थिते</em> — सति सप्तमी रचना — 'जब एक ही गन्ता उपस्थित हो।' यह श्लोक 22 का पूरक है: श्लोक 22 ने दिखाया कि वही गमन गन्ता नहीं चल सकता; यह श्लोक दिखाता है कि कोई 'दूसरा' गमन भी नहीं चल सकता, क्योंकि इससे एक व्यक्ति में दो गमन का दोष (श्लोक 5, 11 जैसा) फिर लौट आता है।<br><em>Eng:</em> Complements verse 22: having ruled out the 'same' motion, this rules out a 'different' motion too, since positing one reintroduces the two-motions fault from verses 5 and 11.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — श्लोक 22 और 23 मिलकर एक पूर्ण द्विकोटि जाँच बनाते हैं: क्या गन्ता उसी गमन को चलता है जिसने उसे गन्ता बनाया (22 में खण्डित), या किसी दूसरे गमन को (23 में खण्डित)? दोनों विकल्प असफल — इसलिए 'गन्ता चलता है' का कोई भी अर्थ सुसंगत रूप से स्थापित नहीं हो पाता।",
+        "en": "Candrakīrti says verses 22 and 23 together form a complete dichotomy: does the goer go the same motion that constituted him (refuted in 22), or a different motion (refuted in 23)? Both options fail — so 'the goer goes' cannot be coherently established in any sense.",
+        "ins": "समान और भिन्न — दोनों सम्भव उत्तरों की समाप्ति यह पक्का प्रमाण है कि मूल प्रश्न ('गन्ता गमन को चलता है') में ही तार्किक खोट है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक 6 और 11 के 'दो गमन' दोष को वापस लाता है, पर अब एक नए, अधिक परिष्कृत सन्दर्भ में। यह दिखाता है कि नागार्जुन की तर्क-पद्धति चक्रीय रूप से अपने पूर्व निष्कर्षों पर वापस आती है, हर बार उन्हें और मज़बूत करते हुए।",
+        "en": "Buddhapālita says this verse brings back the 'two motions' fault from verses 6 and 11, now in a new, more refined context. This shows Nāgārjuna's argumentative method cyclically returns to its earlier conclusions, reinforcing them each time.",
+        "ins": "एक ही मूल दोष (द्विगुणन) बार-बार अलग-अलग रूपों में लौटता है — यह दिखाता है कि 'कर्ता पहले से मौजूद, फिर क्रिया करता है' का ढाँचा कितनी गहराई से त्रुटिपूर्ण है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह पूर्ण द्विकोटि (समान गमन/भिन्न गमन) खण्डन दिखाता है कि 'गन्ता किसी गमन को चलता है' — यह वाक्य ही परमार्थतः असंगत है, चाहे उस गमन को समान माना जाए या भिन्न। यह संवृति में उपयोगी वाक्य की परमार्थ-असिद्धि का पूर्ण प्रमाण है।",
+        "en": "Bhāviveka says this complete dichotomy (same/different motion) refutation shows the sentence 'the goer goes some motion' is ultimately incoherent, whether that motion is taken as same or different. This is a full demonstration of the ultimate non-establishment of a conventionally useful sentence.",
+        "ins": "जब कोई कथन दोनों सम्भव विकल्पों (समान/भिन्न) में असफल हो, तो यह पूर्ण प्रमाण है कि वह कथन परमार्थतः स्वभाव-सिद्ध नहीं — यह मध्यमक विश्लेषण की पूर्णता दिखाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧩 श्लोक 22 और 23 मिलकर कौन-सा पूर्ण तर्क बनाते हैं?",
+        "a": "साथ मिलकर ये दो श्लोक एक <strong>सम्पूर्ण द्विकोटि (exhaustive dichotomy)</strong> बनाते हैं — जब हम कहें 'गन्ता गमन को चलता है,' तो वह गमन या तो <strong>वही गमन होगा जिसने उसे 'गन्ता' बनाया</strong> (श्लोक 22 में खण्डित — कालक्रम-विरोधाभास), या <strong>कोई दूसरा, अतिरिक्त गमन होगा</strong> (श्लोक 23 में खण्डित — दो-गमन दोष)। चूँकि <strong>तीसरा कोई विकल्प नहीं</strong> (गमन या तो 'वही' है या 'अलग'), और दोनों विफल हैं, इसलिए <strong>'गन्ता गमन को चलता है' का वाक्य किसी भी तरह सुसंगत रूप से सिद्ध नहीं होता</strong>।"
+      },
+      {
+        "q": "♻️ यह 'दो गमन' का दोष बार-बार (5, 11, 23) क्यों लौटता है?",
+        "a": "यह पुनरावृत्ति संयोग नहीं — यह दिखाती है कि <strong>'द्विगुणन दोष' किसी एक विशेष तर्क-चाल की खामी नहीं, बल्कि पूरे 'कर्ता-पहले-फिर-क्रिया' मॉडल की एक अन्तर्निहित, अपरिहार्य समस्या है</strong>। जब भी हम किसी 'स्थायी पहचान' (गन्ता) को किसी 'पृथक् क्रिया' (गमन) के साथ जोड़ने की कोशिश करते हैं, वह जोड़ना अनिवार्यतः <strong>या तो पुनरुक्ति (एक ही चीज़ को दो बार गिनना) या द्विगुणन (एक जगह दो चीज़ें ठूँसना)</strong> में बदल जाता है। यही कारण है कि नागार्जुन इसे बार-बार, अलग-अलग कोणों से दिखाते हैं — ताकि पाठक इसे किसी एक उदाहरण की सीमा तक सीमित न समझे।"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "sk": "सद्भूतो गमनं गन्ता त्रिविधं नोपपद्यते ।\nनासद्भूतोऽपि गमनं त्रिविधं नोपपद्यते ॥",
+    "ro": "sadbhūto · gamanaṃ · gantā · trividhaṃ · nopapadyate | nāsadbhūto · 'pi · gamanaṃ · trividhaṃ · nopapadyate ||",
+    "hi": "वास्तव में विद्यमान चलने वाला तीन प्रकार के गमन में नहीं चलता। और अविद्यमान चलने वाला भी तीन प्रकार के गमन में नहीं चलता।",
+    "en": "An existing goer does not traverse the three kinds of motion. A non-existing goer also does not traverse the three kinds of motion.",
+    "ws": [
+      {
+        "s": "सद्भूतः",
+        "h": "सत् (विद्यमान) होता हुआ / वास्तव में मौजूद",
+        "e": "existing / being real"
+      },
+      {
+        "s": "असद्भूतः",
+        "h": "असत् (अविद्यमान) होता हुआ",
+        "e": "non-existing"
+      },
+      {
+        "s": "त्रिविधम्",
+        "h": "तीन प्रकार का (गत, अगत, गम्यमान)",
+        "e": "three-fold (gata, agata, gamyamāna)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सद्भूतः, असद्भूतः</em> — सत्/असत् + भूत (होना), बहुव्रीहि जैसा — 'सत् रूप में होता हुआ' / 'असत् रूप में होता हुआ।' <em>त्रिविधम्</em> = त्रि + विध — 'तीन प्रकार का' (अध्याय के आरम्भिक गत/अगत/गम्यमान त्रिविभाजन की ओर वापसी)। यह श्लोक चतुष्कोटि के अन्तिम दो कोटियों (सत्, असत्) की जाँच करता है, अध्याय-भर के तीनों कालिक खण्डों को पुनः प्रयोग में लाते हुए।<br><em>Eng:</em> Examines the remaining two horns of the tetralemma (existent, non-existent), reapplying the three temporal divisions used throughout the chapter.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — नागार्जुन अब चतुष्कोटि की शेष दो कोटियों की जाँच करते हैं: 'सत्' (वास्तव में विद्यमान) गन्ता और 'असत्' (अविद्यमान) गन्ता। अगर गन्ता पहले से पूर्ण रूप से विद्यमान है, तो उसे गमन की ज़रूरत ही नहीं — वह पहले से पूर्ण है। अगर वह पूर्णतः अविद्यमान है (जैसे 'बंध्या-पुत्र'), तो वह चल ही नहीं सकता। दोनों ही स्थितियाँ गमन को असम्भव बनाती हैं।",
+        "en": "Candrakīrti says Nāgārjuna now examines the tetralemma's remaining two horns: an 'existent' goer and a 'non-existent' goer. If the goer already fully exists, he needs no motion — he is already complete. If wholly non-existent (like a 'barren woman's son'), he cannot go at all. Both scenarios make motion impossible.",
+        "ins": "यह श्लोक 1 (सृजन के चतुष्कोटि) जैसा ही ढाँचा है — नागार्जुन दिखाते हैं कि चतुष्कोटि की सभी चार कोटियाँ किसी भी विषय पर लागू करने पर असफल होती हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत स्पष्ट है: अगर 'चलने वाला' पहले से पूर्ण रूप से मौजूद है (जैसे कोई ठोस, पूर्ण वस्तु), तो उसे 'बनने' या 'चलने' की कोई आवश्यकता नहीं। और अगर वह बिल्कुल भी अस्तित्व में नहीं है, तो प्रश्न ही निरर्थक है — कुछ भी जो 'नहीं है,' वह 'चल' कैसे सकता है?",
+        "en": "Buddhapālita says the reasoning is straightforward: if the 'goer' already fully exists (like some solid, complete thing), he has no need to 'become' or 'go.' And if he does not exist at all, the question is moot — how can something that 'is not' possibly 'go'?",
+        "ins": "यह वही तर्क है जो अध्याय 1 में सृजन के बारे में था — पूर्णतः विद्यमान वस्तु को उत्पत्ति की ज़रूरत नहीं, पूर्णतः अविद्यमान वस्तु उत्पन्न नहीं हो सकती।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अध्याय को उसकी उत्पत्ति-परीक्षा की जड़ों से जोड़ता है (अध्याय 1)। परमार्थतः न 'सत्' गन्ता चलता है, न 'असत्' — यह दिखाता है कि सत्/असत् की द्विविधता स्वयं गन्ता जैसी सापेक्ष, प्रतीत्यसमुत्पन्न वस्तुओं पर लागू नहीं होती।",
+        "en": "Bhāviveka says this verse connects the chapter back to its roots in the origination-analysis (Chapter 1). Ultimately, neither an 'existent' goer nor a 'non-existent' one goes — showing the existent/non-existent dichotomy itself does not apply to relational, dependently-arisen things like the goer.",
+        "ins": "सत्-असत् की द्विविधता, जो सामान्य वस्तुओं पर लागू होती लगती है, प्रतीत्यसमुत्पन्न वस्तुओं पर लागू करने पर टूट जाती है — यही गहरी शून्यता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔗 यह श्लोक अध्याय 1 (सृजन की परीक्षा) से कैसे जुड़ता है?",
+        "a": "अध्याय 1 में नागार्जुन ने दिखाया था कि कोई भी वस्तु <strong>न स्वयं से, न दूसरे से, न दोनों से, न बिना कारण के</strong> उत्पन्न होती — चारों कोटियाँ असफल। यहाँ वही <strong>चतुष्कोटि पद्धति गन्ता पर लागू होती है, पर 'सत्-असत्' (अस्तित्व-अनस्तित्व) के कोण से</strong>: अगर गन्ता <strong>पहले से पूर्ण रूप से मौजूद</strong> है, तो उसे गमन की कोई ज़रूरत नहीं (वह पहले से पूर्ण है)। अगर वह <strong>पूर्णतः अनस्तित्व</strong> में है, तो प्रश्न ही व्यर्थ है। यह जोड़ दिखाता है कि MMK का हर अध्याय एक ही मूल पद्धति — चतुष्कोटि विश्लेषण — को अलग-अलग विषयों (सृजन, गति, आदि) पर लागू करता है।"
+      },
+      {
+        "q": "🎭 अगर गन्ता न 'सत्' है न 'असत्', तो वह क्या है?",
+        "a": "यही प्रश्न नागार्जुन को <strong>चार कोटियों से परे</strong> ले जाता है। गन्ता <strong>न पूर्णतः विद्यमान (स्वतन्त्र, स्थायी वस्तु)</strong> है, <strong>न पूर्णतः अविद्यमान (कोई काल्पनिक, निरर्थक शब्द)</strong> — बल्कि वह <strong>प्रतीत्यसमुत्पन्न (dependently arisen)</strong> है: वह <strong>सापेक्ष रूप से, अन्य कारकों (गमन, मार्ग, समय) पर निर्भर होकर, व्यावहारिक स्तर पर प्रकट होता है</strong>, बिना किसी स्वतन्त्र, अन्तर्निहित स्वभाव के। यही मध्यम मार्ग है — शाश्वतवाद (सत्ता का स्थायी होना) और उच्छेदवाद (पूर्ण अभाव) दोनों से परे।"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "sk": "सदसद्भूतगमनं त्रिविधं नोपपद्यते ।\nतस्माद्गतिश्च गन्ता च गन्तव्यं च न विद्यते ॥",
+    "ro": "sadasadbhūtagamanaṃ · trividhaṃ · nopapadyate | tasmād · gatiś · ca · gantā · ca · gantavyaṃ · ca · na · vidyate ||",
+    "hi": "सत् और असत् दोनों होकर भी तीनों गमन सम्भव नहीं। इसलिए न गति है, न चलने वाला, और न जाने का मार्ग।",
+    "en": "Neither existing nor non-existing motion traverses the three kinds. Therefore going, the goer, and the destination do not exist.",
+    "ws": [
+      {
+        "s": "सदसद्भूतः",
+        "h": "सत् और असत् दोनों होता हुआ",
+        "e": "being both existent and non-existent"
+      },
+      {
+        "s": "तस्मात्",
+        "h": "इसलिए / अतः",
+        "e": "therefore"
+      },
+      {
+        "s": "गन्तव्यम्",
+        "h": "जाने योग्य स्थान / मार्ग / लक्ष्य",
+        "e": "the destination / the to-be-gone-to"
+      },
+      {
+        "s": "न विद्यते",
+        "h": "नहीं पाया जाता / अस्तित्व में नहीं है",
+        "e": "does not exist / is not found"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सदसद्भूतः</em> = सत् + असत् + भूत — 'सत् और असत् दोनों रूप में' (चतुष्कोटि की तीसरी कोटि — 'दोनों')। <em>गतिः, गन्ता, गन्तव्यम्</em> — तीन पद एक साथ निषेधित: गति (क्रिया), गन्ता (कर्ता), गन्तव्य (कर्म/लक्ष्य) — यह पूरे अध्याय का समापन-श्लोक है, जो कर्ता-क्रिया-कर्म तीनों की एक साथ शून्यता घोषित करता है।<br><em>Eng:</em> The chapter's concluding verse: negating motion, goer, AND destination together — the complete triad of action, agent, and object, all shown empty of inherent existence.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अध्याय का समापन है, जो चतुष्कोटि की चौथी कोटि ('सत् और असत् दोनों') की जाँच पूरी करता है — जो सांख्य आदि परम्पराओं में मान्य थी, पर वह भी विरोधाभासी है (एक ही वस्तु में परस्पर-विरोधी गुण एक साथ नहीं हो सकते)। समापन में, नागार्जुन घोषणा करते हैं कि गति, गन्ता, और गन्तव्य — तीनों समान रूप से स्वभाव-शून्य हैं, फिर भी व्यावहारिक स्तर पर परस्पर-निर्भर होकर कार्य करते रहते हैं।",
+        "en": "Candrakīrti says this concludes the chapter, completing the tetralemma's fourth horn ('both existent and non-existent') — accepted in traditions like Sāṃkhya, but equally paradoxical (contradictory qualities cannot coexist in one thing). In closing, Nāgārjuna declares motion, goer, and destination all equally empty of inherent nature, yet functioning conventionally through mutual dependence.",
+        "ins": "अध्याय जिस चतुष्कोटि से शुरू हुआ (गत-अगत-गम्यमान), उसी व्यापक पद्धति से समाप्त होता है (सत्-असत्-दोनों-न कोई भी) — यह वृत्ताकार, सम्पूर्ण संरचना गहरी दार्शनिक सटीकता दिखाती है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — इस समापन-श्लोक में महत्वपूर्ण बात यह है कि नागार्जुन केवल 'गति' और 'गन्ता' को ही नहीं, बल्कि 'गन्तव्य' (लक्ष्य/मार्ग) को भी शामिल करते हैं — इस तरह पूरा त्रिक (कर्ता, कर्म, क्रिया) एक साथ शून्य घोषित होता है। यह दिखाता है कि नागार्जुन का विश्लेषण किसी एक पद तक सीमित नहीं, बल्कि पूरे प्रतीत्यसमुत्पन्न सम्बन्ध-जाल को कवर करता है।",
+        "en": "Buddhapālita says what's crucial in this closing verse is that Nāgārjuna includes not just 'motion' and 'goer' but also 'gantavya' (the destination/path) — thereby declaring the entire triad (agent, object, action) empty together. This shows his analysis is not confined to one term but covers the whole web of dependently-arisen relations.",
+        "ins": "'न गति, न गन्ता, न गन्तव्य' — यह त्रिक निषेध बौद्ध दर्शन के केंद्रीय सिद्धान्त को स्पष्ट करता है: कर्ता, कर्म, क्रिया — तीनों समान रूप से प्रज्ञप्तिमात्र (nominal designations) हैं, स्वभाव-सिद्ध वस्तुएँ नहीं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह अन्तिम श्लोक दो सत्यों के सिद्धान्त को पूर्ण रूप से स्थापित करता है: परमार्थतः गति, गन्ता, गन्तव्य तीनों स्वभाव-रहित हैं (जैसा पूरे अध्याय में सिद्ध हुआ), पर संवृति सत्य में ये तीनों बिना किसी बाधा के कार्य करते रहते हैं — हम चलते हैं, रास्ते तय करते हैं, गन्तव्य तक पहुँचते हैं। यही मध्यम मार्ग की पूर्णता है — शून्यता और व्यवहार का सामंजस्य।",
+        "en": "Bhāviveka says this final verse fully establishes the two-truths doctrine: ultimately, motion, goer, and destination are all without inherent nature (as proven throughout the chapter), but conventionally these three function without obstruction — we walk, we traverse paths, we reach destinations. This is the fullness of the Middle Way — the harmony of emptiness and conventional function.",
+        "ins": "'शून्यता' का अर्थ यात्रा को रोकना नहीं — यह यात्रा को उसकी वास्तविक, परस्पर-निर्भर प्रकृति में समझना है। इसीलिए हम चलना जारी रख सकते हैं, भले ही 'चलने वाला' और 'चलना' स्वभावतः असिद्ध हों।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌟 अध्याय का यह समापन-श्लोक 'गति, गन्ता, गन्तव्य' तीनों को एक साथ क्यों नकारता है?",
+        "a": "पूरे अध्याय में नागार्जुन ने <strong>गति (गमन)</strong> और <strong>गन्ता (चलने वाला)</strong> की जाँच की। यह अन्तिम श्लोक <strong>तीसरे तत्त्व — 'गन्तव्य' (destination/मार्ग)</strong> को जोड़कर विश्लेषण को पूर्ण करता है। यह इसलिए ज़रूरी है क्योंकि <strong>कोई भी क्रिया तीन भागों में बँटी होती है — करने वाला (कर्ता), किया जाना (क्रिया), और जिस पर की जाए (कर्म/लक्ष्य)</strong>। अगर सिर्फ़ दो पद (गति, गन्ता) शून्य सिद्ध होते और तीसरा (गन्तव्य) बच जाता, तो विश्लेषण अधूरा रह जाता। नागार्जुन दिखाते हैं कि <strong>पूरा त्रिक — कर्ता, कर्म, क्रिया — समान रूप से परस्पर-निर्भर और स्वभाव-शून्य है</strong>।"
+      },
+      {
+        "q": "🚶 अगर गति, गन्ता, गन्तव्य — तीनों शून्य हैं, तो हम रोज़ चलते-फिरते कैसे हैं?",
+        "a": "यही इस पूरे अध्याय की सबसे गहरी सीख है — <strong>'शून्य होना' और 'काम न करना' एक बात नहीं</strong>। नागार्जुन <strong>चलने के अनुभव को नकार नहीं रहे</strong> — वे दिखा रहे हैं कि यह अनुभव <strong>किसी स्वतन्त्र, ठोस 'चलने वाले' द्वारा किसी स्वतन्त्र, ठोस 'गमन' के माध्यम से किसी स्वतन्त्र, ठोस 'गन्तव्य' तक पहुँचने का खेल नहीं है — बल्कि एक सतत, परस्पर-निर्भर, सम्बन्धात्मक प्रक्रिया है</strong>, जो बिना किसी 'स्वभाव' के भी पूरी तरह व्यावहारिक और वास्तविक है। जैसे एक नदी बिना किसी 'ठोस, स्थायी नदी-वस्तु' के भी बहती रहती है — वैसे ही हम बिना किसी 'ठोस, स्वतन्त्र चलने वाले' के भी चलते रहते हैं। यही <strong>शून्यता और प्रतीत्यसमुत्पाद की एकता</strong> है — नागार्जुन के पूरे दर्शन का हृदय।"
+      }
+    ]
+  }
+]
