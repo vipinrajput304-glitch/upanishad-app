@@ -1,0 +1,642 @@
+[
+  {
+    "sk": "दर्शनं श्रवणं घ्राणं रसनं स्पर्शनं मनः ।\nइन्द्रियाणि षडेतेषां द्रष्टव्यादीनि गोचराः ॥",
+    "ro": "darśanaṃ · śravaṇaṃ · ghrāṇaṃ · rasanaṃ · sparśanaṃ · manaḥ | indriyāṇi · ṣaḍ · eteṣāṃ · draṣṭavyādīni · gocarāḥ ||",
+    "hi": "देखना, सुनना, सूँघना, चखना, छूना और मन — ये छह इन्द्रियाँ हैं। इनके विषय क्रमशः दृश्य आदि हैं।",
+    "en": "Vision, hearing, smell, taste, touch, and mind are the six sense faculties. The visible and so forth are their respective objects.",
+    "ws": [
+      {
+        "s": "दर्शनम्",
+        "h": "देखने की शक्ति / दृष्टि",
+        "e": "vision / seeing"
+      },
+      {
+        "s": "श्रवणम्",
+        "h": "सुनने की शक्ति",
+        "e": "hearing"
+      },
+      {
+        "s": "घ्राणम्",
+        "h": "सूँघने की शक्ति",
+        "e": "smell / olfaction"
+      },
+      {
+        "s": "रसनम्",
+        "h": "चखने की शक्ति / स्वाद",
+        "e": "taste"
+      },
+      {
+        "s": "स्पर्शनम्",
+        "h": "छूने की शक्ति / स्पर्श",
+        "e": "touch"
+      },
+      {
+        "s": "मनः",
+        "h": "मन / आन्तरिक इन्द्रिय",
+        "e": "mind / mental faculty"
+      },
+      {
+        "s": "इन्द्रियाणि",
+        "h": "इन्द्रियाँ (बहुवचन)",
+        "e": "sense faculties (plural)"
+      },
+      {
+        "s": "षट्",
+        "h": "छह",
+        "e": "six"
+      },
+      {
+        "s": "द्रष्टव्यादीनि",
+        "h": "दृश्य आदि / देखने योग्य इत्यादि",
+        "e": "the visible and so on"
+      },
+      {
+        "s": "गोचराः",
+        "h": "विषय / इन्द्रियों के क्षेत्र",
+        "e": "objects / spheres of operation"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>दर्शनम्, श्रवणम्, घ्राणम्, रसनम्, स्पर्शनम्</em> — ये पाँचों √दृश्, √श्रु, √घ्रा, √रस्, √स्पृश् धातुओं से ल्युट् प्रत्यय द्वारा बने भाववाचक नपुंसकलिंग नाम हैं — 'देखना, सुनना' आदि। <em>इन्द्रियाणि</em> = इन्द्रिय का नपुंसकलिंग बहुवचन — 'इन्द्रियाँ।' <em>गोचराः</em> = गो (इन्द्रिय) + चर (विचरण) — 'इन्द्रियों का विषय-क्षेत्र।' <em>द्रष्टव्यादीनि</em> = द्रष्टव्य (देखने योग्य) + आदि — बहुव्रीहि समास। यह श्लोक पूर्वपक्ष स्थापित करता है — विरोधी छह इन्द्रियों और उनके विषयों को स्वतन्त्र, वास्तविक तत्त्व मानता है।<br><em>Eng:</em> The five terms are action nouns from √dṛś, √śru, √ghrā, √ras, √spṛś with the lyuṭ suffix. <em>gocarāḥ</em> = spheres of operation. This verse sets up the opponent's position — six faculties and their objects as real, independently existing entities.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — जैसे दूसरे अध्याय में गमन की जाँच हुई, वैसे ही अब इन्द्रियों की जाँच शुरू होती है। यह श्लोक पूर्वपक्ष है — विरोधी मानता है कि छह इन्द्रियाँ और उनके छह विषय स्वभावतः सिद्ध, वास्तविक तत्त्व हैं। नागार्जुन इस मान्यता को स्वीकार करके आगे के श्लोकों में उसकी आन्तरिक असंगति दिखाएँगे।",
+        "en": "Candrakīrti says just as the second chapter examined motion, now the examination turns to the senses. This verse is the opponent's position — assuming the six faculties and their six objects are inherently established, real entities. Nāgārjuna accepts this premise provisionally to expose its internal contradictions in the following verses.",
+        "ins": "जाँच का पहला कदम विरोधी की मान्यता को स्पष्ट रूप से रखना है — ताकि बाद में उसी से उसका खण्डन किया जा सके।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह सबसे सामान्य, रोज़मर्रा की मान्यता है: आँख देखती है, कान सुनता है, नाक सूँघती है, जीभ चखती है, त्वचा छूती है, मन सोचता है — और हर एक का अपना विषय-क्षेत्र है। यह बात इतनी स्वाभाविक लगती है कि कोई इस पर सवाल ही नहीं उठाता। पर नागार्जुन ठीक यहीं से जाँच शुरू करते हैं।",
+        "en": "Buddhapālita says this is the most ordinary, everyday assumption: eyes see, ears hear, nose smells, tongue tastes, skin touches, mind thinks — each with its own domain. This seems so natural that nobody questions it. But Nāgārjuna begins his investigation precisely here.",
+        "ins": "जो बात सबसे 'स्वाभाविक' और 'स्पष्ट' लगती है, वहीं सबसे गहरी जाँच की ज़रूरत होती है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यावहारिक स्तर पर छह इन्द्रियाँ और उनके विषय बिना किसी कठिनाई के काम करते हैं — हम देखते हैं, सुनते हैं, सूँघते हैं। यह लोकव्यवहार में सत्य है। पर जब परमार्थ दृष्टि से पूछा जाए कि 'दर्शन' का स्वभाव क्या है, 'श्रवण' का स्वभाव क्या है — तब यह सरल सूची एक गम्भीर दार्शनिक समस्या में बदल जाती है।",
+        "en": "Bhāvaviveka says at the conventional level, the six faculties and their objects function without difficulty — we see, hear, and smell. This is true in everyday life. But when we ask from the ultimate standpoint what the nature of 'vision' or 'hearing' really is, this simple list transforms into a profound philosophical problem.",
+        "ins": "व्यवहार में इन्द्रियाँ ठीक काम करती हैं — समस्या तब आती है जब हम उन्हें 'स्वतन्त्र, स्वभाव-सिद्ध तत्त्व' मानकर उनका विश्लेषण करने लगते हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "👁️ नागार्जुन इन्द्रियों की जाँच क्यों करते हैं? गमन की जाँच पर्याप्त नहीं थी?",
+        "a": "दूसरे अध्याय में नागार्जुन ने दिखाया कि <strong>गमन, गन्ता, और गन्तव्य</strong> स्वभावतः सिद्ध नहीं हैं। पर विरोधी कह सकता है: 'ठीक है, गमन शून्य है, पर इन्द्रिय-अनुभव तो वास्तविक है — मैं देखता हूँ, सुनता हूँ, यह तो सीधा अनुभव है!' नागार्जुन अब यही दिखाते हैं कि <strong>इन्द्रिय-अनुभव भी उसी प्रकार स्वभाव-शून्य है</strong> — देखना, देखने वाला, और दृश्य — ये तीनों भी परस्पर-निर्भर हैं, ठीक वैसे ही जैसे गमन, गन्ता, और गन्तव्य।"
+      },
+      {
+        "q": "🧠 छह इन्द्रियों में 'मन' को शामिल करना बौद्ध दर्शन की खासियत है — यह क्यों?",
+        "a": "वैदिक और अधिकांश भारतीय दर्शनों में पाँच बाह्य इन्द्रियाँ गिनाई जाती हैं। बौद्ध दर्शन <strong>मन (मनस्) को छठी इन्द्रिय</strong> मानता है क्योंकि मन भी बाह्य इन्द्रियों की तरह अपने विषय (धर्म / मानसिक वस्तुएँ) को ग्रहण करता है। इससे यह बात स्पष्ट होती है कि <strong>चिन्तन भी एक ऐन्द्रिक प्रक्रिया है</strong>, कोई विशेष, अलौकिक क्रिया नहीं — और इसलिए वह भी उसी शून्यता-विश्लेषण के अधीन है जो अन्य इन्द्रियों पर लागू होता है।"
+      }
+    ]
+  },
+  {
+    "sk": "तदेव हि न पश्यति यस्मात्दर्शनमेव तत् ।\nन पश्यतीत्यदर्शनं कथं द्रक्ष्यति तत्परान् ॥",
+    "ro": "tad · eva · hi · na · paśyati · yasmāt · darśanam · eva · tat | na · paśyatīty · adarśanaṃ · kathaṃ · drakṣyati · tat · parān ||",
+    "hi": "दर्शन स्वयं को नहीं देखता, क्योंकि वह स्वयं दर्शन ही है। जो स्वयं को नहीं देखता वह अदर्शन है — वह दूसरों को कैसे देखेगा?",
+    "en": "Vision does not see itself, for it is itself just vision. What does not see itself is effectively non-vision — how then will it see other things?",
+    "ws": [
+      {
+        "s": "तत् एव",
+        "h": "वही / वह स्वयं",
+        "e": "that very thing / itself"
+      },
+      {
+        "s": "न पश्यति",
+        "h": "नहीं देखता",
+        "e": "does not see"
+      },
+      {
+        "s": "यस्मात्",
+        "h": "क्योंकि / जिस कारण से",
+        "e": "because / since"
+      },
+      {
+        "s": "दर्शनम्",
+        "h": "देखने की क्रिया / दृष्टि",
+        "e": "vision / seeing"
+      },
+      {
+        "s": "अदर्शनम्",
+        "h": "न-देखना / दर्शन का अभाव",
+        "e": "non-seeing / absence of vision"
+      },
+      {
+        "s": "द्रक्ष्यति",
+        "h": "देखेगा (भविष्यत्काल)",
+        "e": "will see (future tense)"
+      },
+      {
+        "s": "परान्",
+        "h": "दूसरों को / अन्य वस्तुओं को",
+        "e": "others / other things"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>पश्यति</em> = √दृश् (देखना) का लट् लकार, प्रथम पुरुष एकवचन — 'देखता है।' <em>द्रक्ष्यति</em> = √दृश् का लृट् लकार (भविष्यत्) — 'देखेगा।' <em>अदर्शनम्</em> = नञ् + दर्शन — 'दर्शन का अभाव / न-दर्शन।' <em>इति</em> = 'इस प्रकार / इसलिए' — कारण-सूचक अव्यय। यह श्लोक दर्शन की आत्म-संदर्भ समस्या (self-reference problem) उठाता है — यदि दर्शन स्वयं को नहीं देख सकता, तो उसकी 'देखने की शक्ति' ही प्रश्नगत हो जाती है।<br><em>Eng:</em> <em>paśyati</em> is present active of √dṛś; <em>drakṣyati</em> is its future form. <em>adarśanam</em> = negation prefix + darśana. The verse raises the self-reference problem of vision — if vision cannot see itself, its very capacity to see is called into question.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यदि दर्शन में 'देखने का स्वभाव' स्वतन्त्र रूप से विद्यमान होता, तो उसे स्वयं को भी देखना चाहिए — क्योंकि स्वभाव सर्वदा सर्वत्र सक्रिय होता है। पर दर्शन स्वयं को नहीं देखता। इसका अर्थ है कि दर्शन में 'देखने का स्वभाव' नहीं है — यह अदर्शन (देखने में असमर्थ) है। और जो स्वयं को भी नहीं देख सकता, वह दूसरों को कैसे देखेगा? यह प्रसंग विरोधी की मान्यता को उलट देता है।",
+        "en": "Candrakīrti says if vision had an inherent nature of 'seeing,' it should be able to see itself — since inherent nature is always active. But vision does not see itself. This means vision has no inherent seeing-nature — it is effectively non-vision. And what cannot even see itself, how will it see others? This prasaṅga overturns the opponent's assumption.",
+        "ins": "जिसमें 'देखने का स्वभाव' होने का दावा है, वह स्वयं को भी क्यों नहीं देख पाता? — यही प्रश्न पूरी मान्यता को हिला देता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत सरल है: आँख स्वयं को नहीं देख सकती। यह एक साधारण तथ्य है जिसे कोई अस्वीकार नहीं कर सकता। पर इस साधारण तथ्य से एक गम्भीर दार्शनिक निष्कर्ष निकलता है — यदि दर्शन अपना ही काम (देखना) अपने ऊपर नहीं कर सकता, तो उसकी 'देखने की शक्ति' स्वभावतः सिद्ध नहीं है।",
+        "en": "Buddhapālita says the argument is very simple: the eye cannot see itself. This is an ordinary fact no one can deny. But from this ordinary fact a profound philosophical conclusion follows — if vision cannot perform its own function (seeing) upon itself, its 'power of seeing' is not inherently established.",
+        "ins": "सबसे गहरे दार्शनिक तर्क अक्सर सबसे साधारण अनुभवों से निकलते हैं — जैसे 'आँख स्वयं को नहीं देखती।'"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह तर्क एक स्वतन्त्र अनुमान (svatantra-anumāna) के रूप में प्रस्तुत किया जा सकता है: दर्शन स्वभावतः 'दर्शक' नहीं है (प्रतिज्ञा), क्योंकि वह स्वयं को नहीं देखता (हेतु), जैसे तलवार स्वयं को नहीं काटती (दृष्टान्त)। व्यावहारिक स्तर पर 'आँख देखती है' कहना ठीक है, पर परमार्थतः दर्शन में 'देखने का स्वभाव' सिद्ध नहीं होता।",
+        "en": "Bhāvaviveka says this can be formulated as an independent syllogism: vision is not inherently a 'seer' (thesis), because it does not see itself (reason), like a sword that does not cut itself (example). Conventionally saying 'the eye sees' is fine, but ultimately no inherent seeing-nature is established in vision.",
+        "ins": "तलवार जो दूसरों को काटती है, स्वयं को नहीं काट सकती — ठीक इसी प्रकार दर्शन जो दूसरों को दिखाता है, स्वयं को नहीं दिखा सकता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔍 'आँख स्वयं को नहीं देखती' — यह बात सही है, पर क्या दर्पण से देख सकती है?",
+        "a": "हाँ, व्यावहारिक रूप से हम दर्पण में अपनी आँख 'देख' सकते हैं — पर नागार्जुन का प्रश्न गहरा है। वे पूछ रहे हैं: <strong>क्या 'देखने की शक्ति' स्वयं अपने आप को अनुभव कर सकती है?</strong> दर्पण में आँख का प्रतिबिम्ब देखना असल में दूसरी वस्तु (प्रतिबिम्ब) को देखना है, स्वयं दृष्टि को नहीं। <strong>दृष्टि स्वयं दृष्टि का विषय नहीं बन सकती</strong> — ठीक वैसे ही जैसे उँगली स्वयं को नहीं छू सकती। यही आत्म-संदर्भ की मूल समस्या है।"
+      },
+      {
+        "q": "⚔️ 'तलवार स्वयं को नहीं काटती' — यह उदाहरण कितना मज़बूत है?",
+        "a": "यह उदाहरण बौद्ध दर्शन में बहुत प्रसिद्ध है और इसे <strong>भाववेक ने स्वतन्त्र अनुमान</strong> के दृष्टान्त के रूप में प्रयोग किया। इसकी शक्ति यह है कि यह सहज-बुद्धि को सीधे प्रभावित करता है — हर कोई मान सकता है कि कोई भी क्रिया-उपकरण (instrument) अपने ऊपर कार्य नहीं कर सकता। पर <strong>चन्द्रकीर्ति इस उदाहरण से सहमत नहीं</strong> — उनके अनुसार, प्रासंगिक को किसी स्वतन्त्र दृष्टान्त की आवश्यकता ही नहीं; केवल विरोधी के दावे से ही उसकी असंगति निकाल देना पर्याप्त है।"
+      }
+    ]
+  },
+  {
+    "sk": "न पर्याप्तो दर्शनस्य दृष्टान्तो ह्यग्निना कृतः ।\nस गतागतगम्यैश्च प्रतिक्षिप्तश्च दर्शने ॥",
+    "ro": "na · paryāpto · darśanasya · dṛṣṭānto · hy · agninā · kṛtaḥ | sa · gatāgatagamyaiś · ca · pratikṣiptaś · ca · darśane ||",
+    "hi": "दर्शन को सिद्ध करने के लिए अग्नि का दृष्टान्त पर्याप्त नहीं है। वह दृष्टान्त गत, अगत और गम्य के तर्कों से दर्शन के सन्दर्भ में भी खण्डित हो चुका है।",
+    "en": "The fire analogy given for vision is not adequate. That analogy has been refuted by the arguments about the gone, the not-gone, and the being-gone, applied now to vision.",
+    "ws": [
+      {
+        "s": "पर्याप्तः",
+        "h": "पर्याप्त / समर्थ / प्रभावशाली",
+        "e": "adequate / sufficient"
+      },
+      {
+        "s": "दृष्टान्तः",
+        "h": "उदाहरण / सादृश्य",
+        "e": "analogy / example"
+      },
+      {
+        "s": "अग्निना",
+        "h": "अग्नि के द्वारा (तृतीया)",
+        "e": "by fire (instrumental)"
+      },
+      {
+        "s": "कृतः",
+        "h": "बनाया गया / दिया गया",
+        "e": "made / given"
+      },
+      {
+        "s": "गतागतगम्यैः",
+        "h": "गत, अगत और गम्य के (तर्कों) द्वारा",
+        "e": "by the gone, not-gone, and being-gone"
+      },
+      {
+        "s": "प्रतिक्षिप्तः",
+        "h": "खण्डित / निरस्त किया गया",
+        "e": "refuted / rejected"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>दृष्टान्तः</em> = दृष्ट + अन्त — 'जिसमें देखा गया अर्थ समाप्त हो / जो देखे हुए से तुलना करे' — न्यायशास्त्र का पारिभाषिक शब्द, 'उदाहरण।' <em>प्रतिक्षिप्तः</em> = प्रति + √क्षिप् (फेंकना) का भूतकृदन्त — 'वापस फेंक दिया गया / खण्डित।' <em>गतागतगम्यैः</em> = गत-अगत-गम्य (तीनों का बहुव्रीहि, तृतीया बहुवचन) — दूसरे अध्याय के तीन कालिक खण्ड। यह श्लोक अध्याय 2 के तर्कों को अध्याय 3 में लागू करता है।<br><em>Eng:</em> <em>dṛṣṭānta</em> is the Nyāya technical term for 'example/analogy.' <em>pratikṣipta</em> = 'thrown back / refuted.' The verse applies the trilemma of Chapter 2 (gone, not-gone, going) to the domain of vision.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — विरोधी (विशेषतः वैशेषिक और कुछ बौद्ध विद्वान) अग्नि का उदाहरण देते हैं: 'जैसे अग्नि स्वयं को भी प्रकाशित करती है और दूसरों को भी, वैसे ही दर्शन स्वयं को भी देखता है और दूसरों को भी।' चन्द्रकीर्ति इसे अस्वीकार करते हैं — अग्नि स्वयं को 'प्रकाशित' नहीं करती क्योंकि अग्नि कभी अन्धकार में थी ही नहीं। इसके अतिरिक्त, दूसरे अध्याय में गत-अगत-गम्य की जो जाँच हुई, वही प्रकाशन और दर्शन पर भी लागू होती है।",
+        "en": "Candrakīrti says the opponent (particularly the Vaiśeṣikas and some Buddhist scholars) gives the fire analogy: 'Just as fire illuminates both itself and others, vision sees both itself and others.' Candrakīrti rejects this — fire does not 'illuminate itself' because fire was never in darkness. Furthermore, the same gone/not-gone/going analysis from Chapter 2 applies to illumination and vision alike.",
+        "ins": "अग्नि 'स्वयं को प्रकाशित करती है' — यह कथन सतही तौर पर सही लगता है, पर गहराई से देखने पर यह भ्रामक है: अग्नि कभी अन्धकार में थी ही नहीं कि उसे 'प्रकाशित' होने की ज़रूरत पड़े।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — अग्नि का दृष्टान्त दो कारणों से विफल है। पहला, अग्नि और अन्धकार का सम्बन्ध 'प्रकाशन' जैसा नहीं है — अग्नि के उपस्थित होने पर अन्धकार नहीं रहता, बस इतना है। दूसरा, यदि हम मान भी लें कि अग्नि स्वयं को प्रकाशित करती है, तो भी 'प्रकाशन' क्रिया पर वही तर्क लागू होगा जो गमन-क्रिया पर लागू हुआ — क्या प्रकाशित भाग में, अप्रकाशित भाग में, या प्रकाशित हो रहे भाग में? कहीं नहीं मिलता।",
+        "en": "Buddhapālita says the fire analogy fails for two reasons. First, fire and darkness do not have an 'illumination' relationship — fire's presence simply means darkness is absent. Second, even granting that fire illuminates itself, the same argument that applied to motion applies to illumination — is it in the already-illuminated, the not-yet-illuminated, or the being-illuminated? It is found nowhere.",
+        "ins": "एक भ्रामक उदाहरण से भ्रामक सिद्धान्त नहीं बचाया जा सकता — दोनों साथ-साथ गिरते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि नागार्जुन का तर्क किसी एक क्षेत्र (गमन) तक सीमित नहीं है — वह एक सामान्य तार्किक संरचना है जो किसी भी क्रिया-कर्ता सम्बन्ध पर लागू होती है। व्यवहार में अग्नि का उदाहरण उपयोगी हो सकता है, पर परमार्थ स्तर पर यह दृष्टान्त अपनी ही कमज़ोरियाँ लिए हुए है। अध्याय 2 के त्रिकोटि तर्क को यहाँ लागू करना सिद्ध करता है कि शून्यता-विश्लेषण सार्वभौम है।",
+        "en": "Bhāvaviveka says this verse shows that Nāgārjuna's argument is not limited to one domain (motion) — it is a general logical structure applicable to any agent-action relationship. The fire analogy may be useful conventionally, but at the ultimate level it carries its own weaknesses. Applying the Chapter 2 trilemma here proves that the emptiness analysis is universal.",
+        "ins": "नागार्जुन का तर्क एक 'सार्वभौम ढाँचा' (universal template) है — गमन पर लागू हुआ, तो दर्शन पर भी लागू होगा, प्रकाशन पर भी, और किसी भी क्रिया पर भी।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔥 'अग्नि स्वयं को प्रकाशित करती है' — यह विरोधी का दृष्टान्त ठीक क्यों नहीं?",
+        "a": "विरोधी कहता है: जैसे अग्नि दूसरों को भी प्रकाशित करती है और स्वयं को भी, वैसे ही दर्शन दूसरों को भी देखता है और स्वयं को भी। नागार्जुन का उत्तर है: <strong>अग्नि 'स्वयं को प्रकाशित करती है' यह कहना ही ग़लत है</strong>। प्रकाशन का अर्थ है अन्धकार को दूर करना — पर <strong>अग्नि कभी अन्धकार में थी ही नहीं</strong>। अग्नि उत्पन्न होते ही प्रकाशमान है; उसने कोई 'स्व-प्रकाशन' की क्रिया नहीं की। इसलिए यह दृष्टान्त मूलतः ही दोषपूर्ण है।"
+      },
+      {
+        "q": "🔗 अध्याय 2 के तर्क यहाँ कैसे लागू होते हैं?",
+        "a": "अध्याय 2 में नागार्जुन ने दिखाया कि <strong>गमन न गत (जा चुके) में है, न अगत (नहीं गए) में, न गम्यमान (जा रहे) में</strong>। अब दर्शन पर यही लागू करें: <strong>'जो पहले से देखा जा चुका है' उसमें देखना नहीं हो रहा</strong> (वह बीत चुका)। <strong>'जो अभी देखा नहीं गया' उसमें भी देखना नहीं है</strong> (वह अभी शुरू ही नहीं हुआ)। और <strong>'अभी देखा जा रहा है' में भी देखना स्वतन्त्र रूप से नहीं मिलता</strong> — ठीक वही चक्रीय तर्क जो गम्यमान में गमन पर लागू हुआ था। इसलिए अग्नि का दृष्टान्त भी इसी जाल में फँसता है।"
+      }
+    ]
+  },
+  {
+    "sk": "अपश्यमानं दर्शनं यदा किंचन नैव हि ।\nदर्शनं पश्यतीत्येतत्कथमेतद्धि युज्यते ॥",
+    "ro": "apaśyamānaṃ · darśanaṃ · yadā · kiṃcana · naiva · hi | darśanaṃ · paśyatīty · etat · katham · etad · dhi · yujyate ||",
+    "hi": "जब दर्शन कुछ भी नहीं देख रहा, तब यह कहना कि 'दर्शन देखता है' कैसे उचित है?",
+    "en": "When vision is not seeing anything at all, how is it coherent to say that vision sees?",
+    "ws": [
+      {
+        "s": "अपश्यमानम्",
+        "h": "न देखता हुआ / जो देख नहीं रहा",
+        "e": "not seeing / while not perceiving"
+      },
+      {
+        "s": "दर्शनम्",
+        "h": "दृष्टि / देखने की शक्ति",
+        "e": "vision / the seeing faculty"
+      },
+      {
+        "s": "यदा",
+        "h": "जब",
+        "e": "when"
+      },
+      {
+        "s": "किंचन",
+        "h": "कुछ भी",
+        "e": "anything"
+      },
+      {
+        "s": "युज्यते",
+        "h": "उचित है / तर्कसंगत बैठता है",
+        "e": "is coherent / is appropriate"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अपश्यमानम्</em> = न + पश्यमान (√दृश् का वर्तमान कृदन्त, आत्मनेपद शानच्) — 'न देखता हुआ।' <em>किंचन</em> = किम् + चन (अनिश्चयवाचक सर्वनाम) — 'कुछ भी।' <em>युज्यते</em> = √युज् (जोड़ना/उचित होना) का कर्मवाच्य लट् — 'उचित बैठता है / तर्कसंगत है।' <em>इति एतत्</em> — 'इस प्रकार यह [कथन]।' यह श्लोक दर्शन की क्रिया-विहीनता से उसके 'दर्शक' होने के दावे की असंगति उजागर करता है।<br><em>Eng:</em> <em>apaśyamānam</em> is the negated present participle (ātmanepada) of √dṛś — 'not seeing.' <em>yujyate</em> = 'is coherent.' The verse exposes the incoherence of calling vision a 'seer' when it performs no act of seeing.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक श्लोक 3.2 के तर्क को आगे बढ़ाता है। यदि दर्शन स्वयं को नहीं देखता (3.2 में सिद्ध), और अब दिखाया जा रहा है कि दर्शन वास्तव में किसी भी वस्तु को स्वतन्त्र रूप से 'देखता' नहीं है, तो 'दर्शन देखता है' कहना शब्दों का खेल मात्र है — वास्तविक क्रिया नहीं। विरोधी का दावा अपने ही भीतर से खोखला निकलता है।",
+        "en": "Candrakīrti says this verse extends the argument of 3.2. If vision does not see itself (proven in 3.2), and now it is shown that vision does not independently 'see' anything at all, then saying 'vision sees' is merely a play of words — not a real action. The opponent's claim collapses from within.",
+        "ins": "यदि कोई शक्ति कभी अपना कार्य नहीं कर पाती — न स्वयं पर, न किसी अन्य पर — तो उसे 'शक्ति' कहना कैसे उचित है?"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — जब हम सावधानी से विचार करें तो दर्शन अकेला, बिना देखने वाले और दृश्य के, कुछ भी 'देखता' नहीं है। 'दर्शन देखता है' वाक्य में दर्शन को कर्ता बना दिया गया है, पर वास्तव में बिना दृश्य वस्तु और बिना देखने वाले के, दर्शन अकेले कुछ नहीं कर सकता। यह दर्शन की परनिर्भरता सिद्ध करता है।",
+        "en": "Buddhapālita says when we reflect carefully, vision by itself, without a seer and something seen, does not 'see' anything. The sentence 'vision sees' makes vision into an agent, but in reality without an object to see and a seer, vision alone can do nothing. This proves vision's dependence on others.",
+        "ins": "'देखना' कोई एकल, स्वतन्त्र घटना नहीं है — यह देखने वाले, दृश्य, और दृष्टि तीनों के मिलने से बनता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह तर्क परमार्थ दृष्टि पर ज़ोर देता है। व्यवहार में हम कहते हैं 'आँख देखती है' और यह ठीक भी है। पर जब हम परमार्थतः पूछते हैं 'दर्शन स्वतन्त्र रूप से क्या देखता है?' — तो कोई उत्तर नहीं मिलता। दर्शन की 'दर्शकता' परमार्थतः सिद्ध नहीं होती — वह संवृति सत्य में ही टिकती है, उपाधियों (conditions) के सहारे।",
+        "en": "Bhāvaviveka says this argument emphasizes the ultimate perspective. Conventionally we say 'the eye sees' and this is fine. But when we ask ultimately 'what does vision independently see?' — no answer is found. Vision's capacity to see is not ultimately established — it holds only in conventional truth, supported by conditions.",
+        "ins": "'आँख देखती है' कहना ठीक है — पर यह सच उपाधियों (प्रकाश, वस्तु, ध्यान) के सहारे है, किसी स्वतन्त्र 'दर्शन-शक्ति' के सहारे नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🤷 'दर्शन कुछ नहीं देखता' — तो हम रोज़ क्या कर रहे हैं?",
+        "a": "नागार्जुन यह नहीं कह रहे कि देखने का अनुभव नहीं होता — वह तो रोज़ होता है। वे यह कह रहे हैं कि <strong>'दर्शन' नाम की कोई स्वतन्त्र शक्ति नहीं है जो अकेले देखने का काम करती हो</strong>। देखना वास्तव में एक जटिल, परस्पर-निर्भर प्रक्रिया है जिसमें आँख, प्रकाश, वस्तु, ध्यान, मस्तिष्क — सब मिलकर काम करते हैं। 'दर्शन देखता है' कहना इस पूरी प्रक्रिया को एक शब्द में सिकोड़ देना है — सुविधाजनक पर भ्रामक।"
+      },
+      {
+        "q": "💭 यह तर्क आधुनिक तन्त्रिका-विज्ञान से कैसे जुड़ता है?",
+        "a": "आधुनिक तन्त्रिका-विज्ञान (neuroscience) भी यही कहता है: <strong>'आँख देखती है' एक भ्रामक सरलीकरण है</strong>। वास्तव में, प्रकाश रेटिना पर पड़ता है, विद्युत-संकेत तन्त्रिकाओं से मस्तिष्क के दृश्य-प्रांतस्थल (visual cortex) तक जाते हैं, वहाँ विभिन्न क्षेत्र रंग, आकार, गति को अलग-अलग संसाधित करते हैं, और अन्ततः एक 'दृश्य अनुभव' बनता है। <strong>कोई एक 'देखने वाला' या 'देखने की शक्ति' नहीं है</strong> — यह प्रक्रियाओं का एक जाल है, ठीक वैसा ही जैसा नागार्जुन ने लगभग 1800 वर्ष पहले तर्क से दिखाया।"
+      }
+    ]
+  },
+  {
+    "sk": "पश्यति दर्शनं नैव नैव पश्यत्यदर्शनम् ।\nद्रष्टापि प्रतिविज्ञेयो दर्शनेनैव सागमात् ॥",
+    "ro": "paśyati · darśanaṃ · naiva · naiva · paśyaty · adarśanam | draṣṭāpi · prativijñeyo · darśanenaiva · sāgamāt ||",
+    "hi": "दर्शन नहीं देखता और अदर्शन भी नहीं देखता। द्रष्टा को भी दर्शन के विश्लेषण से ही, उसी तर्क-पद्धति से समझना चाहिए।",
+    "en": "Vision does not see, nor does non-vision see. The seer too should be understood through the analysis of vision itself, following the same line of reasoning.",
+    "ws": [
+      {
+        "s": "दर्शनम्",
+        "h": "दृष्टि / देखने की शक्ति",
+        "e": "vision"
+      },
+      {
+        "s": "अदर्शनम्",
+        "h": "दर्शन का अभाव / न-दृष्टि",
+        "e": "non-vision / absence of seeing"
+      },
+      {
+        "s": "द्रष्टा",
+        "h": "देखने वाला",
+        "e": "the seer"
+      },
+      {
+        "s": "प्रतिविज्ञेयः",
+        "h": "भली-भाँति जानने योग्य / समझा जाना चाहिए",
+        "e": "should be understood / to be known"
+      },
+      {
+        "s": "सागमात्",
+        "h": "उसी तर्क-पद्धति से / उसी आगम के अनुसार",
+        "e": "by the same reasoning / following the same method"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>नैव</em> = न + एव — 'नहीं ही / बिलकुल नहीं।' <em>प्रतिविज्ञेयः</em> = प्रति + वि + √ज्ञा का विधिलिंग कृदन्त — 'जाना जाना चाहिए / समझा जाना चाहिए।' <em>सागमात्</em> = स-आगम + आत् (पंचमी) — 'उसी परम्परागत तर्क-पद्धति से।' यह श्लोक दो काम करता है: पहला, दर्शन और अदर्शन दोनों विकल्पों को नकारना; दूसरा, विश्लेषण को दर्शन (instrument) से द्रष्टा (agent) की ओर मोड़ना।<br><em>Eng:</em> <em>prativijñeya</em> = gerundive of prati-vi-√jñā — 'should be understood.' <em>sāgamāt</em> = 'by the same method.' The verse negates both vision and non-vision as seers, then pivots the analysis from the instrument (darśana) to the agent (draṣṭā).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक विकल्पों की पूर्ण समाप्ति करता है। न दर्शन देखता है (क्योंकि वह स्वयं को नहीं देखता, और कुछ भी स्वतन्त्र रूप से नहीं देखता), न अदर्शन देखता है (यह तो स्पष्ट ही है — जो दर्शन ही नहीं वह कैसे देखेगा)। अब नागार्जुन एक निर्णायक कदम उठाते हैं: जो कुछ दर्शन के बारे में सिद्ध हुआ, वही द्रष्टा (देखने वाले) के बारे में भी लागू होता है — यानी द्रष्टा भी स्वभावतः सिद्ध नहीं।",
+        "en": "Candrakīrti says this verse completes the exhaustion of options. Vision does not see (it cannot see itself, nor does it independently see anything), and non-vision does not see (obviously — what is not vision cannot see). Now Nāgārjuna takes a decisive step: whatever was established about vision applies equally to the seer — meaning the seer too is not inherently established.",
+        "ins": "जब उपकरण (दर्शन) ही स्वभाव-शून्य सिद्ध हो गया, तो उपकरण का प्रयोगकर्ता (द्रष्टा) कैसे स्वभाव-सिद्ध रह सकता है?"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — तर्क बहुत सीधा है: न दर्शन देखता है, न अदर्शन देखता है — तीसरा कोई विकल्प है नहीं। यह द्वि-कोटि खण्डन (exhaustive dichotomy) अध्याय 2 की शैली में है जहाँ गन्ता और अगन्ता दोनों का गमन नकारा गया था। अब यही पद्धति द्रष्टा पर लागू होती है — जैसे गन्ता बिना गमन के सिद्ध नहीं हुआ, वैसे ही द्रष्टा बिना दर्शन के सिद्ध नहीं होगा।",
+        "en": "Buddhapālita says the reasoning is direct: neither vision sees, nor non-vision sees — no third option exists. This exhaustive dichotomy follows the Chapter 2 style where both goer and non-goer were denied motion. Now the same method applies to the seer — just as the goer was not established without motion, the seer is not established without vision.",
+        "ins": "अध्याय 2 का गन्ता-अगन्ता तर्क अब द्रष्टा-अद्रष्टा पर लागू हो रहा है — ढाँचा वही है, विषय बदल गया।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक एक महत्त्वपूर्ण मोड़ है। अब तक दर्शन (उपकरण) की जाँच हो रही थी; अब विश्लेषण द्रष्टा (कर्ता) की ओर मुड़ता है। भाववेक यहाँ स्वतन्त्र अनुमान रचते हैं: द्रष्टा स्वभावतः सिद्ध नहीं (प्रतिज्ञा), क्योंकि वह दर्शन पर निर्भर है (हेतु), जैसे दर्शन स्वयं स्वभावतः सिद्ध नहीं है (दृष्टान्त)। व्यवहार में द्रष्टा काम करता है, पर परमार्थतः वह दर्शन जितना ही शून्य है।",
+        "en": "Bhāvaviveka says this verse marks an important turn. Until now, vision (the instrument) was examined; now the analysis shifts to the seer (the agent). Bhāvaviveka constructs an independent syllogism: the seer is not inherently established (thesis), because it depends on vision (reason), just as vision itself is not inherently established (example). Conventionally the seer functions, but ultimately it is as empty as vision.",
+        "ins": "विश्लेषण का मोड़ — उपकरण से कर्ता की ओर — दिखाता है कि शून्यता-विश्लेषण किसी एक तत्त्व पर नहीं रुकता, बल्कि पूरे ढाँचे को अपने में समेटता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🚫 'न दर्शन, न अदर्शन' — तो देखता कौन है?",
+        "a": "नागार्जुन यह नहीं कह रहे कि कोई नहीं देखता — हम रोज़ देखते हैं। वे दिखा रहे हैं कि <strong>'देखना' किसी एक स्वतन्त्र तत्त्व की क्रिया नहीं है</strong>। न 'दर्शन' नाम की कोई ठोस शक्ति अकेले देखती है, न 'अदर्शन' (जो दर्शन नहीं) देखता है। देखना एक <strong>प्रतीत्यसमुत्पन्न (dependent) प्रक्रिया है</strong> — आँख, प्रकाश, वस्तु, ध्यान, और चेतना के मिलने से उत्पन्न। 'देखता कौन है' का उत्तर है: <strong>कोई एक 'कौन' नहीं है — यह एक सम्बन्धात्मक घटना है</strong>।"
+      },
+      {
+        "q": "🔀 यह अध्याय 2 के 'गन्ता और अगन्ता' तर्क से कैसे मिलता है?",
+        "a": "बिलकुल वही संरचना है। अध्याय 2 में: <strong>'गन्ता नहीं चलता, अगन्ता नहीं चलता, तीसरा कोई नहीं'</strong> — यह तीन-कोटि खण्डन था। यहाँ: <strong>'दर्शन नहीं देखता, अदर्शन नहीं देखता'</strong> — वही दो-कोटि खण्डन है। और जैसे अध्याय 2 में तर्क गमन से गन्ता की ओर मुड़ा (क्रिया से कर्ता की ओर), वैसे ही यहाँ तर्क दर्शन से द्रष्टा की ओर मुड़ता है। <strong>नागार्जुन एक ही तार्किक ढाँचे को बार-बार नए विषयों पर लागू करते हैं</strong> — यही उनकी पद्धति की शक्ति है।"
+      }
+    ]
+  },
+  {
+    "sk": "द्रष्टा न विद्यते कश्चिद्दर्शनं यदि विद्यते ।\nविना यदि च दर्शनात्कुतः स विद्यते ततः ॥",
+    "ro": "draṣṭā · na · vidyate · kaścid · darśanaṃ · yadi · vidyate | vinā · yadi · ca · darśanāt · kutaḥ · sa · vidyate · tataḥ ||",
+    "hi": "यदि दर्शन स्वतन्त्र रूप से विद्यमान है तो कोई भी द्रष्टा नहीं पाया जाता। और यदि दर्शन के बिना हो, तो वह द्रष्टा कहाँ से आएगा?",
+    "en": "If vision exists independently, no seer whatsoever is found. And if without vision, how then could that seer exist?",
+    "ws": [
+      {
+        "s": "द्रष्टा",
+        "h": "देखने वाला",
+        "e": "the seer"
+      },
+      {
+        "s": "न विद्यते",
+        "h": "नहीं पाया जाता / विद्यमान नहीं है",
+        "e": "is not found / does not exist"
+      },
+      {
+        "s": "कश्चित्",
+        "h": "कोई भी",
+        "e": "whatsoever / any"
+      },
+      {
+        "s": "विना दर्शनात्",
+        "h": "दर्शन के बिना",
+        "e": "without vision"
+      },
+      {
+        "s": "कुतः",
+        "h": "कहाँ से / कैसे",
+        "e": "from where / how"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>विद्यते</em> = √विद् (पाना, होना) का कर्मवाच्य लट् — 'पाया जाता है / विद्यमान है।' <em>कश्चित्</em> = अनिश्चयवाचक सर्वनाम — 'कोई भी।' <em>विना</em> + पञ्चमी (दर्शनात्) — 'दर्शन के बिना।' <em>कुतः</em> = प्रश्नवाचक अव्यय — 'कहाँ से / कैसे।' यह श्लोक द्रष्टा के अस्तित्व पर दो-शूल (dilemma) प्रयोग करता है: दर्शन के साथ भी द्रष्टा नहीं, दर्शन के बिना भी द्रष्टा नहीं।<br><em>Eng:</em> <em>vidyate</em> = passive of √vid — 'is found / exists.' The verse applies a dilemma to the seer: no seer exists with vision (it is redundant), no seer exists without vision (it has no basis).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह दो-शूल तर्क (dilemma) बहुत प्रभावशाली है। पहला शूल: यदि दर्शन अपने आप में पूर्ण और स्वतन्त्र है, तो उसे किसी 'द्रष्टा' की आवश्यकता नहीं — द्रष्टा अनावश्यक हो जाता है। दूसरा शूल: यदि दर्शन नहीं है, तो 'देखने वाला' किसे कहेंगे? — बिना दर्शन के कोई 'द्रष्टा' सम्भव ही नहीं। इस प्रकार द्रष्टा न दर्शन के साथ सिद्ध होता है, न बिना दर्शन के।",
+        "en": "Candrakīrti says this dilemma is very powerful. First horn: if vision is complete and independent in itself, it needs no 'seer' — the seer becomes redundant. Second horn: if there is no vision, who will be called a 'seer'? — without vision no 'seer' is possible. Thus the seer is established neither with nor without vision.",
+        "ins": "यदि दर्शन स्वतन्त्र है तो द्रष्टा अनावश्यक; यदि दर्शन नहीं तो द्रष्टा असम्भव — दोनों तरफ़ से द्रष्टा का स्वतन्त्र अस्तित्व ध्वस्त है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क सामान्य अनुभव पर आधारित है। कोई व्यक्ति 'द्रष्टा' तभी कहलाता है जब वह देखे — अर्थात् दर्शन हो। पर यदि दर्शन स्वयं ही पूर्ण क्रिया है, तो अलग से 'द्रष्टा' की कल्पना क्यों? और यदि दर्शन नहीं है, तो 'द्रष्टा' शब्द ही अर्थहीन हो जाता है। यह ठीक वही परस्पर-निर्भरता है जो गमन-गन्ता में दिखी थी।",
+        "en": "Buddhapālita says this argument is based on ordinary experience. A person is called a 'seer' only when they see — that is, when vision occurs. But if vision is itself a complete action, why imagine a separate 'seer'? And if there is no vision, the word 'seer' becomes meaningless. This is the same mutual dependence seen between motion and goer.",
+        "ins": "द्रष्टा और दर्शन का सम्बन्ध ठीक वैसा ही है जैसे गन्ता और गमन का — एक के बिना दूसरा अर्थहीन।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यवहार में हम बिना किसी दिक्कत के कहते हैं 'वह देखता है' — यहाँ 'वह' द्रष्टा है और 'देखता है' दर्शन है। पर जब हम परमार्थतः पूछें 'द्रष्टा और दर्शन में क्या सम्बन्ध है — क्या ये एक हैं या भिन्न?' — तो दोनों उत्तर असम्भव हैं। यदि एक हैं, तो भेद ही नहीं; यदि भिन्न हैं, तो एक-दूसरे के बिना कैसे सिद्ध? यह अभेद-भेद दोनों को नकारता है।",
+        "en": "Bhāvaviveka says conventionally we say 'he sees' without difficulty — 'he' is the seer, 'sees' is the vision. But when we ask ultimately 'what is the relation between seer and vision — are they identical or different?' — both answers fail. If identical, there is no distinction; if different, neither is established without the other. This negates both identity and difference.",
+        "ins": "द्रष्टा और दर्शन — न एक हैं न भिन्न — यह परस्पर-निर्भरता ही शून्यता का सार है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪤 यह 'दो-शूल तर्क' इतना प्रभावशाली क्यों है?",
+        "a": "दो-शूल तर्क (dilemma) इसलिए प्रभावशाली है क्योंकि यह <strong>विरोधी को हर दिशा में रोकता है</strong>। विरोधी कहता है 'द्रष्टा वास्तविक है।' नागार्जुन पूछते हैं: 'दर्शन के साथ या बिना?' दर्शन के साथ — <strong>तो द्रष्टा अनावश्यक</strong> (दर्शन अकेले काम कर लेता है)। दर्शन के बिना — <strong>तो द्रष्टा असम्भव</strong> (बिना देखने की शक्ति के कोई देखने वाला कैसे?)। दोनों दिशाओं में फँसकर विरोधी की मान्यता टूट जाती है। यही <strong>प्रासंगिक पद्धति</strong> की विशेषता है — विरोधी की अपनी मान्यताओं से ही उसका खण्डन।"
+      },
+      {
+        "q": "🧘 क्या बुद्ध के 'अनात्मवाद' (no-self) से इसका सम्बन्ध है?",
+        "a": "बिलकुल गहरा सम्बन्ध है। बुद्ध ने कहा कि कोई स्थायी, स्वतन्त्र 'आत्मा' (self) नहीं है। नागार्जुन यहाँ उसी शिक्षा को <strong>तार्किक रूप से सिद्ध</strong> कर रहे हैं: 'द्रष्टा' वह 'मैं' है जो कहता है 'मैं देखता हूँ।' नागार्जुन दिखाते हैं कि यह <strong>'मैं' (द्रष्टा) न दर्शन के साथ पाया जाता है, न बिना दर्शन के</strong> — अर्थात् 'मैं' कोई स्वतन्त्र, ठोस, स्थायी तत्त्व नहीं है, बल्कि अनुभवों के जाल में रची गई एक <strong>व्यावहारिक संज्ञा</strong> मात्र है।"
+      }
+    ]
+  },
+  {
+    "sk": "दर्शनाद्यदि चान्यः स्याद्द्रष्टा दृश्यं च तत्ततः ।\nयदा न विद्यते ह्येतत्कुतो द्रष्टृदृशौ ततः ॥",
+    "ro": "darśanād · yadi · cānyaḥ · syād · draṣṭā · dṛśyaṃ · ca · tat · tataḥ | yadā · na · vidyate · hy · etat · kuto · draṣṭṛdṛśau · tataḥ ||",
+    "hi": "यदि द्रष्टा और दृश्य दर्शन से भिन्न होते, तो एक के बिना दूसरा चल सकता। पर जब दर्शन ही विद्यमान नहीं है, तब द्रष्टा और दृश्य कहाँ से आएँगे?",
+    "en": "If the seer and the seen were something other than vision, each could exist without the other. But when vision itself is not established, how then can there be a seer and a seen?",
+    "ws": [
+      {
+        "s": "अन्यः",
+        "h": "भिन्न / अलग",
+        "e": "other / different"
+      },
+      {
+        "s": "स्यात्",
+        "h": "होता / हो सकता (विधिलिंग)",
+        "e": "would be (optative)"
+      },
+      {
+        "s": "दृश्यम्",
+        "h": "देखी जाने वाली वस्तु / दृश्य",
+        "e": "the seen / the visible object"
+      },
+      {
+        "s": "एतत्",
+        "h": "यह (दर्शन)",
+        "e": "this (vision)"
+      },
+      {
+        "s": "द्रष्टृदृशौ",
+        "h": "द्रष्टा और दृश्य (द्वन्द्व समास, द्विवचन)",
+        "e": "seer and seen (dvandva compound, dual)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अन्यः स्यात्</em> = विधिलिंग — 'भिन्न होता / यदि भिन्न हो।' <em>द्रष्टृदृशौ</em> = द्रष्टृ (देखने वाला) + दृश् (दृश्य/दर्शन) का द्वन्द्व समास, द्विवचन — 'द्रष्टा और दृश्य दोनों।' <em>कुतः</em> = 'कहाँ से / कैसे।' यह श्लोक 'त्रिक' (triad) — द्रष्टा, दृश्य, दर्शन — की परस्पर-निर्भरता सिद्ध करता है। यदि ये तीनों एक-दूसरे से स्वतन्त्र होते तो अलग-अलग सिद्ध हो सकते; पर वे नहीं होते।<br><em>Eng:</em> <em>draṣṭṛdṛśau</em> is a dvandva dual compound — 'seer and seen.' <em>syāt</em> is optative of √as — 'would be.' The verse proves the mutual dependence of the triad — seer, seen, seeing — since if they were independent of each other, they could exist separately; but they cannot.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक त्रिक (triad) की परस्पर-निर्भरता का निश्चायक प्रमाण है। विरोधी कह सकता है: 'द्रष्टा और दृश्य दर्शन से भिन्न हैं — वे स्वतन्त्र तत्त्व हैं।' नागार्जुन का उत्तर: यदि वे भिन्न और स्वतन्त्र हैं, तो दर्शन के अभाव में भी उन्हें विद्यमान रहना चाहिए। पर वे नहीं रहते — दर्शन के बिना 'द्रष्टा' शब्द अर्थहीन है और 'दृश्य' शब्द भी अर्थहीन है। इसलिए तीनों परस्पर-निर्भर हैं, कोई भी स्वतन्त्र नहीं।",
+        "en": "Candrakīrti says this verse is the conclusive proof of the triad's mutual dependence. The opponent may say: 'The seer and the seen are different from vision — they are independent entities.' Nāgārjuna's reply: if they are different and independent, they should persist even in the absence of vision. But they do not — without vision the word 'seer' is meaningless and 'seen' is also meaningless. Therefore all three are mutually dependent, none is independent.",
+        "ins": "जो तीन चीज़ें एक-दूसरे के बिना अर्थ ही नहीं रखतीं, उन्हें 'स्वतन्त्र तत्त्व' कहना भाषा का भ्रम है, वास्तविकता नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत सरल है। 'द्रष्टा' कहने का अर्थ ही है 'जो देखता है' — बिना दर्शन के यह शब्द अर्थहीन है। 'दृश्य' कहने का अर्थ है 'जो देखा जाता है' — बिना दर्शन के यह भी अर्थहीन है। तो द्रष्टा, दृश्य, और दर्शन — तीनों की पहचान एक-दूसरे से ही बनती है, जैसे 'पिता' का अर्थ 'पुत्र' के बिना नहीं है।",
+        "en": "Buddhapālita says the argument is very simple. 'Seer' means 'one who sees' — without vision this word is meaningless. 'Seen' means 'what is seen' — without vision this too is meaningless. So seer, seen, and seeing — all three derive their identity from each other, just as 'father' has no meaning without 'son.'",
+        "ins": "जैसे 'पिता' शब्द 'पुत्र' के बिना अर्थहीन है, वैसे ही 'द्रष्टा' शब्द 'दर्शन' और 'दृश्य' के बिना अर्थहीन है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक 'एकत्व-अन्यत्व' (identity-difference) के दोनों विकल्पों को नकारता है। यदि द्रष्टा-दृश्य दर्शन से 'अन्य' (भिन्न) हैं, तो दर्शन के बिना भी रहें — पर नहीं रहते। यदि वे 'अनन्य' (अभिन्न/एक) हैं, तो तीन के बजाय एक ही तत्त्व है — तब 'कौन देखता है, क्या देखा जाता है' का भेद ही समाप्त। दोनों विकल्प असम्भव, तो ये तीनों केवल व्यावहारिक, सापेक्ष अर्थ में ही 'विद्यमान' हैं।",
+        "en": "Bhāvaviveka says this verse negates both identity and difference. If seer and seen are 'other' than vision, they should survive without it — but they do not. If they are 'identical' with it, then there is only one entity instead of three — the distinction 'who sees, what is seen' collapses. Both options fail, so these three exist only in a conventional, relational sense.",
+        "ins": "न भेद से काम चलता है, न अभेद से — यही दिखाता है कि ये तत्त्व केवल सम्बन्ध में ही 'हैं,' स्वतन्त्र रूप से नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔺 'द्रष्टा-दृश्य-दर्शन' का यह त्रिक (triad) शून्यता कैसे सिद्ध करता है?",
+        "a": "यह त्रिक दिखाता है कि <strong>किसी भी अनुभव को तीन भागों में बाँटा जा सकता है — कर्ता, कर्म, और क्रिया</strong>। गमन में: गन्ता, गन्तव्य, गमन। दर्शन में: द्रष्टा, दृश्य, दर्शन। नागार्जुन दिखाते हैं कि <strong>इन तीनों में से कोई भी स्वतन्त्र नहीं</strong> — हर एक दूसरे दो पर निर्भर है। 'द्रष्टा' शब्द का अर्थ ही 'दर्शन' और 'दृश्य' से बनता है। यही <strong>शून्यता</strong> है — स्वतन्त्र अस्तित्व का अभाव, परस्पर-निर्भरता से उत्पन्न होना।"
+      },
+      {
+        "q": "🌀 क्या 'न एक, न भिन्न' — यह 'मध्यम मार्ग' का सार है?",
+        "a": "हाँ, यही मध्यम मार्ग का एक प्रमुख पक्ष है। <strong>शाश्वतवाद (eternalism)</strong> कहता है: द्रष्टा, दृश्य, दर्शन — तीनों स्वतन्त्र, शाश्वत तत्त्व हैं। <strong>उच्छेदवाद (nihilism)</strong> कहता है: कोई भी वास्तविक नहीं, सब भ्रम है। नागार्जुन का <strong>मध्यम मार्ग</strong>: ये तीनों <strong>न स्वतन्त्र रूप से 'हैं,' न पूर्णतः 'नहीं हैं'</strong> — वे परस्पर-निर्भरता से अर्थ और कार्य पाते हैं, बिना किसी ठोस, स्वतन्त्र सत्ता के। 'न एक, न भिन्न' यही बीच का रास्ता है।"
+      }
+    ]
+  },
+  {
+    "sk": "दर्शने श्रवणे चैव द्रष्टुः श्रोतुस्तथैव च ।\nभावो यदि न सिध्यन्ति कुतस्तदाश्रयास्ततः ॥",
+    "ro": "darśane · śravaṇe · caiva · draṣṭuḥ · śrotus · tathaiva · ca | bhāvo · yadi · na · sidhyanti · kutas · tadāśrayās · tataḥ ||",
+    "hi": "जब दर्शन, श्रवण, द्रष्टा और श्रोता का अस्तित्व ही सिद्ध नहीं होता, तब इन पर निर्भर रहने वाली चीज़ें कहाँ से आएँगी?",
+    "en": "When the existence of seeing and hearing, and likewise of seer and hearer, is not established, how can those things that depend on them exist?",
+    "ws": [
+      {
+        "s": "दर्शने",
+        "h": "देखने में / दर्शन के सन्दर्भ में",
+        "e": "in seeing / regarding vision"
+      },
+      {
+        "s": "श्रवणे",
+        "h": "सुनने में / श्रवण के सन्दर्भ में",
+        "e": "in hearing"
+      },
+      {
+        "s": "द्रष्टुः",
+        "h": "देखने वाले का (षष्ठी)",
+        "e": "of the seer (genitive)"
+      },
+      {
+        "s": "श्रोतुः",
+        "h": "सुनने वाले का (षष्ठी)",
+        "e": "of the hearer (genitive)"
+      },
+      {
+        "s": "भावः",
+        "h": "अस्तित्व / सत्ता",
+        "e": "existence / being"
+      },
+      {
+        "s": "न सिध्यन्ति",
+        "h": "सिद्ध नहीं होते",
+        "e": "are not established"
+      },
+      {
+        "s": "तदाश्रयाः",
+        "h": "उन पर निर्भर / उनके आश्रित",
+        "e": "those depending on them"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>भावः</em> = √भू का भाववाचक नाम — 'अस्तित्व/सत्ता।' <em>सिध्यन्ति</em> = √सिध् (सफल होना/सिद्ध होना), लट् बहुवचन — 'सिद्ध होते हैं।' <em>तदाश्रयाः</em> = तत् + आश्रय + अः (बहुवचन) — 'जो उन पर आश्रित हैं / उन पर निर्भर हैं।' यह श्लोक विश्लेषण का विस्तार करता है — दर्शन से श्रवण तक, और फिर उन सभी पर निर्भर धर्मों (वेदना, संज्ञा आदि) तक।<br><em>Eng:</em> <em>bhāva</em> = 'existence.' <em>tadāśrayāḥ</em> = 'those whose support is that / dependents.' The verse generalizes: once seeing, hearing, seer, and hearer lack inherent existence, everything dependent on them (sensations, perceptions, etc.) also lacks it.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक शून्यता को आश्रित धर्मों तक विस्तारित करता है। यदि दर्शन और श्रवण (इन्द्रिय-क्रियाएँ) तथा द्रष्टा और श्रोता (इन्द्रिय-कर्ता) स्वभावतः सिद्ध नहीं हैं, तो उन पर आश्रित वेदना (अनुभव), संज्ञा (पहचान), विज्ञान (अवगति) — ये सब भी स्वभावतः सिद्ध नहीं हो सकतीं। जिसकी नींव ही शून्य है, उस पर खड़ा भवन कैसे ठोस हो सकता है?",
+        "en": "Candrakīrti says this verse extends emptiness to dependent phenomena. If seeing and hearing (sense activities) and seer and hearer (sense agents) are not inherently established, then vedanā (sensation), saṃjñā (perception), vijñāna (consciousness) — all that depends on them — also cannot be inherently established. How can a building be solid when its foundation is empty?",
+        "ins": "जब इन्द्रिय और इन्द्रिय-कर्ता दोनों शून्य हैं, तो उन पर आधारित पूरा अनुभव-संसार भी शून्य है — यही शून्यता का प्रसार है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह एक झरने जैसा तर्क है: ऊपर से पानी (दर्शन, श्रवण, द्रष्टा, श्रोता) शून्य सिद्ध हुआ, तो नीचे बहने वाली धारा (उन पर निर्भर अनुभव, ज्ञान, भावनाएँ) भी शून्य होगी। यह बात डरावनी नहीं है — इसका अर्थ यह नहीं कि अनुभव नहीं होता, बल्कि यह कि अनुभव स्वभावतः ठोस, स्थायी वस्तु नहीं है।",
+        "en": "Buddhapālita says this is a cascading argument: if the upstream elements (seeing, hearing, seer, hearer) are empty, the downstream flow (experiences, knowledge, emotions depending on them) is also empty. This is not frightening — it does not mean experience does not happen, but rather that experience is not an inherently solid, permanent thing.",
+        "ins": "शून्यता ऊपर से नीचे बहती है — जब स्रोत शून्य है, तो धारा भी शून्य होगी।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक सामान्यीकरण (generalization) का कार्य करता है। दर्शन पर जो विश्लेषण लागू हुआ, वही अब श्रवण पर भी लागू किया जा रहा है, और साथ ही उन सभी 'आश्रित धर्मों' को भी इसमें शामिल किया जा रहा है। इस प्रकार व्यवहार में इन्द्रिय-अनुभव चलता रहता है, पर परमार्थतः न इन्द्रिय स्वभाव-सिद्ध है, न कर्ता, न उन पर आश्रित कोई धर्म।",
+        "en": "Bhāvaviveka says this verse performs the generalization. The analysis applied to vision is now extended to hearing, and all dependent phenomena are brought within its scope. Thus sensory experience continues to function conventionally, but ultimately neither sense faculties, nor agents, nor any phenomena dependent on them have inherent nature.",
+        "ins": "सामान्यीकरण नागार्जुन की पद्धति की शक्ति है — एक इन्द्रिय पर सिद्ध तर्क सभी इन्द्रियों और उनके आश्रितों पर लागू होता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏗️ 'जिसकी नींव शून्य, उस पर खड़ा भवन भी शून्य' — क्या यह सारे ज्ञान को अस्वीकार कर देता है?",
+        "a": "बिलकुल नहीं। नागार्जुन <strong>ज्ञान को अस्वीकार नहीं कर रहे</strong>, वे ज्ञान के 'स्वभाव-सिद्ध' होने को अस्वीकार कर रहे हैं। हम देखते हैं, सुनते हैं, सीखते हैं — यह सब होता है और व्यवहार में पूरी तरह वैध है। पर यह सब <strong>प्रतीत्यसमुत्पन्न (conditionally arisen)</strong> है — अनेक कारणों और परिस्थितियों के मिलने से उत्पन्न। कोई 'ठोस, स्वतन्त्र ज्ञान-पदार्थ' नहीं है जो अपने आप में टिका हो। यही बात आधुनिक विज्ञान भी कहता है — <strong>प्रत्यक्ष अनुभव भी मस्तिष्क का एक निर्माण है</strong>, न कि वास्तविकता की सीधी प्रतिलिपि।"
+      },
+      {
+        "q": "🔊 दर्शन के बाद श्रवण का उल्लेख क्यों? क्या हर इन्द्रिय पर अलग से तर्क चाहिए?",
+        "a": "नहीं, हर इन्द्रिय पर अलग से तर्क की ज़रूरत नहीं। नागार्जुन का तर्क <strong>एक सामान्य ढाँचा (universal template)</strong> है: कोई भी इन्द्रिय-क्रिया तीन भागों में बँटती है — <strong>क्रिया (दर्शन/श्रवण), कर्ता (द्रष्टा/श्रोता), और विषय (दृश्य/श्रव्य)</strong>। इन तीनों में वही परस्पर-निर्भरता और शून्यता लागू होती है जो दर्शन के मामले में सिद्ध हो चुकी है। श्रवण का उल्लेख यह <strong>पुष्टि करने के लिए</strong> है कि तर्क सार्वभौम है — अगले श्लोक में शेष इन्द्रियों को भी इसमें शामिल कर लिया जाएगा।"
+      }
+    ]
+  },
+  {
+    "sk": "घ्राणरसनस्पर्शनैः श्रवणदर्शनैस्तथा ।\nरसनं रसवेद्यं च रसयिता च कल्प्यते ॥",
+    "ro": "ghrāṇarasanasparśanaiḥ · śravaṇadarśanais · tathā | rasanaṃ · rasavedyaṃ · ca · rasayitā · ca · kalpyate ||",
+    "hi": "सूँघना, चखना, छूना, सुनना और देखना — इन सबके विषय में भी स्वाद-इन्द्रिय, स्वाद का विषय और स्वाद लेने वाला केवल कल्पित हैं।",
+    "en": "Through smell, taste, touch, hearing, and seeing alike, the sense faculty, the object of sense, and the one who senses are all merely conceptual constructions.",
+    "ws": [
+      {
+        "s": "घ्राणरसनस्पर्शनैः",
+        "h": "सूँघने, चखने और छूने के द्वारा (तृतीया बहुवचन)",
+        "e": "by smell, taste, and touch (instrumental plural)"
+      },
+      {
+        "s": "श्रवणदर्शनैः",
+        "h": "सुनने और देखने के द्वारा",
+        "e": "by hearing and seeing"
+      },
+      {
+        "s": "रसनम्",
+        "h": "स्वाद-इन्द्रिय / चखने की शक्ति",
+        "e": "the sense of taste / tasting faculty"
+      },
+      {
+        "s": "रसवेद्यम्",
+        "h": "जो स्वाद के रूप में अनुभव करने योग्य हो",
+        "e": "that which is experienced as taste / the tasteable"
+      },
+      {
+        "s": "रसयिता",
+        "h": "स्वाद लेने वाला / चखने वाला",
+        "e": "the taster / one who tastes"
+      },
+      {
+        "s": "कल्प्यते",
+        "h": "कल्पित है / मानसिक निर्माण मात्र है",
+        "e": "is conceptually constructed / is imagined"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>कल्प्यते</em> = √कृप्/कल्प् (कल्पना करना) का कर्मवाच्य लट् — 'कल्पित होता है / मात्र कल्पना से बनाया जाता है।' <em>रसवेद्यम्</em> = रस + वेद्य (√विद् का विधिलिंग कृदन्त) — 'जो स्वाद के रूप में जाना/अनुभव किया जाए।' <em>रसयिता</em> = √रस् (स्वाद लेना) का कर्तृवाचक (तृच् प्रत्यय) — 'स्वाद लेने वाला।' यह अन्तिम श्लोक 'स्वाद' (रस) को प्रतिनिधि उदाहरण के रूप में प्रयोग करता है — इन्द्रिय, विषय, कर्ता का त्रिक सभी इन्द्रियों में लागू है।<br><em>Eng:</em> <em>kalpyate</em> = passive of √kḷp — 'is conceptually constructed.' <em>rasayitā</em> = agent noun from √ras. The concluding verse uses 'taste' as a representative example of the triad (faculty–object–agent) that applies to all senses.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह समापन-श्लोक पूरे अध्याय के तर्क को औपचारिक रूप से सभी इन्द्रियों पर विस्तारित करता है। 'स्वाद' (रस) का उदाहरण इसलिए चुना गया क्योंकि इसमें त्रिक (इन्द्रिय-विषय-कर्ता) बहुत स्पष्ट दिखता है: जीभ (रसन), स्वाद (रसवेद्य), और चखने वाला (रसयिता)। जो दर्शन पर सिद्ध हुआ — कि कर्ता, क्रिया, और विषय तीनों स्वभावतः असिद्ध और केवल कल्पित हैं — वही स्वाद पर, और उसी प्रकार घ्राण, स्पर्शन, श्रवण, और मन पर भी लागू होता है। 'कल्प्यते' शब्द महत्त्वपूर्ण है — ये तीनों 'कल्पना' मात्र हैं, स्वभाव-सिद्ध नहीं।",
+        "en": "Candrakīrti says this concluding verse formally extends the chapter's argument to all sense faculties. 'Taste' is chosen as the example because the triad is very clear: tongue (rasana), flavor (rasavedya), and taster (rasayitā). What was proven for vision — that agent, action, and object are all inherently unestablished and merely conceptual — applies equally to taste, and likewise to smell, touch, hearing, and mind. The word 'kalpyate' is crucial — all three are merely 'constructed,' not inherently existent.",
+        "ins": "'कल्प्यते' — केवल कल्पित — यह एक शब्द पूरे अध्याय का सार है: इन्द्रिय, विषय, और कर्ता तीनों मानसिक निर्माण हैं, स्वतन्त्र वास्तविकताएँ नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक सीधे-सीधे कहता है कि जो बात दर्शन के बारे में साबित हुई, वही सभी इन्द्रियों पर लागू है। किसी अलग प्रमाण की ज़रूरत नहीं — तर्क-ढाँचा एक ही है। जीभ स्वाद नहीं लेती (जैसे आँख नहीं देखती), स्वाद स्वयं 'स्वाद-योग्य' नहीं (जैसे दृश्य स्वयं 'दृश्य' नहीं), और चखने वाला न स्वाद के साथ पाया जाता है न बिना स्वाद के। यही पूरे अध्याय का समापन है।",
+        "en": "Buddhapālita says this verse simply states that what was proven about vision applies to all senses. No separate proof is needed — the logical framework is identical. The tongue does not taste (as the eye does not see), flavor is not 'tasteable' on its own (as the seen is not 'visible' on its own), and the taster is found neither with nor without taste. This completes the chapter.",
+        "ins": "एक ही तर्क-ढाँचा सभी इन्द्रियों पर लागू — अलग-अलग सिद्ध करने की ज़रूरत नहीं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह अन्तिम श्लोक शून्यता-विश्लेषण की सार्वभौमता स्थापित करता है। दर्शन केवल एक उदाहरण था — असली लक्ष्य सभी इन्द्रिय-अनुभवों को उनकी परस्पर-निर्भरता दिखाना है। 'कल्प्यते' का अर्थ है कि ये त्रिक (इन्द्रिय, विषय, कर्ता) व्यवहार में उपयोगी हैं — हम इन्हें 'कल्पित' करके ही दैनिक जीवन चलाते हैं — पर परमार्थतः ये स्वतन्त्र, ठोस तत्त्व नहीं हैं। यही संवृति और परमार्थ सत्य का अन्तर है।",
+        "en": "Bhāvaviveka says this final verse establishes the universality of the emptiness analysis. Vision was only one example — the real aim is to show the mutual dependence of all sensory experiences. 'Kalpyate' means these triads (faculty, object, agent) are conventionally useful — we operate in daily life precisely by 'constructing' them — but ultimately they are not independent, solid entities. This is the difference between conventional and ultimate truth.",
+        "ins": "शून्यता व्यवहार का विरोधी नहीं — व्यवहार 'कल्पना' (conventional construction) पर चलता है, और शून्यता बस यह दिखाती है कि कल्पना ही असली आधार है, कोई ठोस स्वभाव नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "👅 'स्वाद' (रस) को प्रतिनिधि उदाहरण क्यों चुना गया?",
+        "a": "स्वाद इसलिए अच्छा उदाहरण है क्योंकि इसमें <strong>त्रिक (triad) बहुत ठोस और स्पष्ट</strong> दिखता है — जीभ (इन्द्रिय), मिठास या खटास (विषय), और चखने वाला (कर्ता)। ये तीनों रोज़मर्रा के अनुभव में आसानी से पहचाने जाते हैं। और जब इतने 'स्पष्ट' उदाहरण में भी दिखाया जाए कि <strong>तीनों केवल कल्पित (conceptually constructed) हैं</strong> — जीभ स्वयं 'चखती' नहीं, स्वाद स्वयं 'स्वाद' नहीं, चखने वाला बिना इन दोनों के 'चखने वाला' नहीं — तो <strong>कम स्पष्ट अनुभवों (जैसे मन की क्रिया) पर यही बात स्वतः लागू</strong> हो जाती है।"
+      },
+      {
+        "q": "🌊 पूरे अध्याय का सार एक पंक्ति में क्या है?",
+        "a": "पूरे अध्याय का सार यह है: <strong>कोई भी इन्द्रिय-अनुभव तीन भागों में बँटता है — इन्द्रिय, विषय, और कर्ता — पर ये तीनों परस्पर-निर्भर हैं और कोई भी स्वतन्त्र, स्वभाव-सिद्ध नहीं</strong>। जैसे अध्याय 2 में गमन, गन्ता, और गन्तव्य शून्य सिद्ध हुए, वैसे ही यहाँ दर्शन, द्रष्टा, और दृश्य शून्य सिद्ध हुए — और यही बात सभी छह इन्द्रियों पर लागू है। यह अध्याय 2 के तर्क का <strong>सार्वभौमीकरण</strong> है — नागार्जुन दिखाते हैं कि शून्यता केवल गमन का गुण नहीं, बल्कि <strong>सम्पूर्ण ऐन्द्रिक अनुभव</strong> का गुण है।"
+      }
+    ]
+  }
+]

@@ -229,11 +229,15 @@
       "color": "#D4A017",
       "veda": "Nāgārjuna · Mādhyamaka",
       "desc": "Emptiness & dependent origination — the root verses of the Middle Way",
-      "total": 41,
+      "total": 77,
       "files": [
         "mmk_dedication.json",
         "mmk_1.json",
-        "mmk_2.json"
+        "mmk_2.json",
+        "mmk_3.json",
+        "mmk_4.json",
+        "mmk_5.json",
+        "mmk_6.json"
       ]
     }
   ]

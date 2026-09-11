@@ -1,0 +1,572 @@
+[
+  {
+    "sk": "रूपकारणनिर्मुक्तं न रूपमुपपद्यते ।\nरूपेणापि न निर्मुक्तं दृश्यते रूपकारणम् ॥",
+    "ro": "rūpakāraṇanirmuktaṃ · na · rūpam · upapadyate | rūpeṇāpi · na · nirmuktaṃ · dṛśyate · rūpakāraṇam ||",
+    "hi": "रूप के कारण से अलग रूप सिद्ध नहीं होता। और रूप से अलग भी रूप का कारण नहीं दिखता।",
+    "en": "Form is not established apart from the cause of form. Nor is the cause of form seen apart from form.",
+    "ws": [
+      {
+        "s": "रूपकारणम्",
+        "h": "रूप का कारण",
+        "e": "the cause of form"
+      },
+      {
+        "s": "निर्मुक्तम्",
+        "h": "से मुक्त / से अलग",
+        "e": "freed from / apart from"
+      },
+      {
+        "s": "उपपद्यते",
+        "h": "सिद्ध होता है / सम्भव होता है",
+        "e": "is established / is possible"
+      },
+      {
+        "s": "दृश्यते",
+        "h": "दिखता है / देखा जाता है",
+        "e": "is seen / is perceived"
+      },
+      {
+        "s": "रूपम्",
+        "h": "रूप / भौतिक रूप (पाँच स्कन्धों में पहला)",
+        "e": "form / material form (first of five aggregates)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>रूपकारणनिर्मुक्तम्</em> — बहुव्रीहि समास: रूपकारणात् निर्मुक्तम् = 'रूप के कारण से जो मुक्त/अलग हो।' <em>उपपद्यते</em> = उप + √पद् (सिद्ध होना), आत्मनेपद लट् — 'सिद्ध होता है।' <em>दृश्यते</em> = √दृश् (देखना), कर्मवाच्य — 'देखा जाता है।' यह श्लोक रूप और उसके कारण की <strong>अन्योन्याश्रयता</strong> (mutual dependence) स्थापित करता है — दोनों एक-दूसरे के बिना अस्तित्व में नहीं आते।<br><em>Eng:</em> <em>rūpakāraṇanirmuktam</em> is a bahuvrīhi compound: 'that which is freed from the cause of form.' The verse establishes mutual dependence between form and its cause — neither is found without the other.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — नागार्जुन यहाँ स्कन्ध-परीक्षा की शुरुआत रूप (form) के विश्लेषण से करते हैं, क्योंकि रूप सबसे 'ठोस' लगने वाला स्कन्ध है। यदि रूप अपने कारण से अलग, स्वतन्त्र रूप से विद्यमान होता, तो वह कारण-निरपेक्ष होता — पर ऐसा कोई रूप कहीं नहीं मिलता। और यदि कारण रूप से अलग होता, तो वह 'किसका कारण?' — यह प्रश्न ही अर्थहीन हो जाता। दोनों परस्पर-निर्भर हैं — यही प्रसंग-तर्क की शुरुआत है।",
+        "en": "Candrakīrti says Nāgārjuna begins the examination of the aggregates with form (rūpa) because it seems the most 'solid.' If form existed independently of its cause, it would be causally unrelated — but no such form is found. If the cause existed apart from form, the question 'cause of what?' becomes meaningless. Both are mutually dependent — this is the starting point of the prasaṅga argument.",
+        "ins": "जो सबसे 'ठोस' लगता है — रूप — वहीं से परीक्षा शुरू करो। अगर वही स्वतन्त्र सिद्ध नहीं होता, तो बाकी स्कन्धों की क्या बात?"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बिलकुल सीधा है। जैसे बिना मिट्टी के घड़ा नहीं बनता, वैसे ही बिना कारण के रूप नहीं बनता। और जैसे बिना घड़े के 'मिट्टी घड़े का कारण है' कहना अर्थहीन है, वैसे ही बिना रूप के रूप का कारण भी नहीं ढूँढा जा सकता। दोनों एक-दूसरे पर निर्भर हैं — कोई भी अकेला, स्वतन्त्र रूप से मौजूद नहीं।",
+        "en": "Buddhapālita says the argument is straightforward. Just as a pot cannot be made without clay, form cannot arise without a cause. And just as it is meaningless to say 'clay is the cause of the pot' without the pot, the cause of form cannot be found without form. Both depend on each other — neither exists independently.",
+        "ins": "घड़ा बिना मिट्टी के नहीं, मिट्टी 'घड़े का कारण' बिना घड़े के नहीं — दोनों साथ-साथ ही अर्थ पाते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — व्यावहारिक स्तर पर हम बिना किसी समस्या के 'कारण से रूप बना' कहते हैं — चार महाभूतों से शरीर बना, यह संवृति सत्य है। पर जब हम परमार्थतः खोजते हैं कि 'रूप ठीक-ठीक कारण से कैसे अलग है?' — तो दोनों में स्पष्ट सीमा नहीं मिलती। यही व्यावहारिक और परमार्थ सत्य का अन्तर है।",
+        "en": "Bhāviveka says at the conventional level we say without any problem that 'form arises from causes' — the body is formed from the four great elements, and this is conventional truth. But when we investigate ultimately 'how exactly is form separate from its cause?' — no clear boundary between them is found. This is the gap between conventional and ultimate truth.",
+        "ins": "रोज़मर्रा में 'कारण से बना' कहना ठीक है — पर 'कैसे अलग है?' पूछते ही सीमा धुँधली हो जाती है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧱 रूप (form) को ही क्यों सबसे पहले परीक्षा के लिए चुना गया?",
+        "a": "बौद्ध दर्शन में पाँच स्कन्ध हैं — <strong>रूप, वेदना, संज्ञा, संस्कार, विज्ञान</strong>। रूप सबसे 'भौतिक' और 'ठोस' लगने वाला है — शरीर, रंग, आकार। अगर यह सबसे ठोस स्कन्ध भी <strong>स्वतन्त्र रूप से सिद्ध</strong> नहीं होता, तो बाकी चार (जो मानसिक हैं और इससे भी अधिक सूक्ष्म) कैसे सिद्ध होंगे? यह नागार्जुन की रणनीति है — सबसे कठिन मामले को पहले सिद्ध करो, बाकी अपने आप गिर जाएँगे।"
+      },
+      {
+        "q": "🔗 रूप और कारण की यह परस्पर-निर्भरता क्या दिखाती है?",
+        "a": "यह <strong>प्रतीत्यसमुत्पाद</strong> (dependent origination) का मूल सिद्धान्त है — कोई भी चीज़ अपने आप में, स्वतन्त्र रूप से मौजूद नहीं होती। रूप अपने कारण पर निर्भर है (बिना कारण के रूप कहाँ?), और कारण भी रूप पर निर्भर है (बिना रूप के 'किसका कारण?')। यह <strong>अन्योन्याश्रय</strong> (mutual dependence) दिखाता है कि दोनों 'स्वभावतः' (inherently) मौजूद नहीं हैं — वे केवल <strong>सम्बन्ध में</strong> ही अर्थ पाते हैं।"
+      }
+    ]
+  },
+  {
+    "sk": "रूपमन्यत्तु कारणात् स्यात्तद्रूपमहेतुकम् ।\nनाहेतुकः क्वचित्कश्चिद् भावः संविद्यते क्वचित् ॥",
+    "ro": "rūpam · anyat · tu · kāraṇāt · syāt · tad · rūpam · ahetukam | nāhetukaḥ · kvacit · kaścid · bhāvaḥ · saṃvidyate · kvacit ||",
+    "hi": "यदि रूप कारण से भिन्न हो, तो वह रूप अहेतुक होगा। लेकिन कोई भी वस्तु कहीं भी बिना कारण के नहीं पाई जाती।",
+    "en": "If form were different from its cause, that form would be without a cause. But no causeless thing is found anywhere.",
+    "ws": [
+      {
+        "s": "अन्यत्",
+        "h": "भिन्न / अलग",
+        "e": "different / other"
+      },
+      {
+        "s": "अहेतुकम्",
+        "h": "बिना हेतु (कारण) के",
+        "e": "without a cause / causeless"
+      },
+      {
+        "s": "भावः",
+        "h": "वस्तु / पदार्थ / अस्तित्व",
+        "e": "thing / entity / existent"
+      },
+      {
+        "s": "संविद्यते",
+        "h": "पाया जाता है / विद्यमान होता है",
+        "e": "is found / exists"
+      },
+      {
+        "s": "क्वचित्",
+        "h": "कहीं भी",
+        "e": "anywhere"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अन्यत्</em> = अन्य + त् (नपुंसकलिंग प्रथमा) — 'भिन्न/अलग।' <em>अहेतुकम्</em> = अ + हेतु + क (तद्धित) — 'बिना हेतु का।' <em>संविद्यते</em> = सम् + √विद् (पाया जाना), आत्मनेपद — 'अच्छी तरह पाया जाता है।' यह <strong>पूर्वपक्ष-खण्डन</strong> है — यदि कोई रूप को कारण से स्वतन्त्र मान ले, तो अनिवार्य रूप से अहेतुक रूप का प्रसंग आता है, जो सभी दार्शनिक परम्पराओं के विरुद्ध है।<br><em>Eng:</em> <em>ahetukam</em> = 'causeless.' If form is posited as independent of its cause, it becomes causeless — an absurd consequence rejected by all philosophical schools.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह प्रसंग (reductio) है। विरोधी मानता है कि रूप अपने कारण से स्वतन्त्र, भिन्न सत्ता है। पर इसका अनिवार्य परिणाम यह है कि रूप बिना किसी कारण के अपने आप विद्यमान होगा — जो लोकायत (चार्वाक) का अहेतुवाद है। कोई भी बौद्ध दार्शनिक इसे स्वीकार नहीं करेगा, क्योंकि प्रतीत्यसमुत्पाद बुद्ध-शासन का मूल है।",
+        "en": "Candrakīrti says this is a prasaṅga (reductio). The opponent holds that form is an independent entity, separate from its cause. But this necessarily entails that form exists without any cause — which is the ahetuvāda of the Lokāyatas (Cārvākas). No Buddhist philosopher would accept this, since dependent origination is the core of the Buddha's teaching.",
+        "ins": "जो बौद्ध कारणता मानता है, वही अनजाने में 'रूप स्वतन्त्र है' कहकर अहेतुवाद की गोद में गिर जाता है — यही प्रसंग की शक्ति है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — कोई भी सामान्य व्यक्ति यह मानता है कि हर चीज़ का कोई न कोई कारण होता है — अंकुर बीज से, वर्षा बादलों से, रूप उसके उपादान-कारणों से। बिना कारण के कुछ भी नहीं बनता — यह अनुभव-सिद्ध सत्य है। अतः रूप को कारण से अलग मानना अनुभव-विरुद्ध है।",
+        "en": "Buddhapālita says any ordinary person accepts that everything has a cause — a sprout from a seed, rain from clouds, form from its material causes. Nothing arises without a cause — this is an experientially established truth. Therefore, holding form to be separate from its cause contradicts experience.",
+        "ins": "बिना कारण कुछ नहीं बनता — यह सबसे सरल सत्य है जिसे कोई भी नकार नहीं सकता।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — इसे स्वतन्त्र अनुमान के रूप में भी प्रस्तुत किया जा सकता है: 'रूप अहेतुक नहीं है, क्योंकि यह कारणों पर आश्रित है, जैसे कि घड़ा मिट्टी पर आश्रित है।' यह अनुमान परमार्थ दृष्टि से सिद्ध करता है कि रूप का स्वतन्त्र अस्तित्व सम्भव नहीं — वह सदा कारणों से जुड़ा है।",
+        "en": "Bhāviveka says this can also be presented as an independent syllogism: 'Form is not causeless, because it depends on causes, like a pot depends on clay.' This inference establishes from the ultimate standpoint that independent existence of form is impossible — it is always linked to causes.",
+        "ins": "घड़ा-मिट्टी का उदाहरण: घड़ा मिट्टी के बिना नहीं, तो रूप कारण के बिना कैसे?"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌱 'बिना कारण कुछ नहीं' — यह तो स्पष्ट है, तो नागार्जुन इसे क्यों कह रहे हैं?",
+        "a": "नागार्जुन यह नहीं कह रहे कि 'बिना कारण कुछ नहीं बनता' — यह तो सबको पता है। वे दिखा रहे हैं कि जो लोग रूप को <strong>स्वभावतः सिद्ध</strong> (inherently existent) मानते हैं, वे अनजाने में रूप को कारण से <strong>स्वतन्त्र</strong> बना देते हैं — क्योंकि 'स्वभाव' का अर्थ ही है 'अपने आप में, बिना किसी अन्य पर निर्भरता के।' यह स्वतन्त्रता ही अहेतुकता (causelessness) है। तो <strong>स्वभाव मानना = अहेतुकता मानना</strong> — यही छिपी हुई असंगति है।"
+      },
+      {
+        "q": "⚡ क्या यह तर्क केवल रूप पर लागू है या हर चीज़ पर?",
+        "a": "यह तर्क <strong>हर चीज़ पर लागू</strong> है — किसी भी वस्तु को उसके कारण से स्वतन्त्र मानना उसे अहेतुक बना देता है। नागार्जुन यहाँ रूप को <strong>उदाहरण</strong> के रूप में प्रयोग कर रहे हैं। श्लोक 7 में वे स्पष्ट कहेंगे कि वेदना, संज्ञा, संस्कार, विज्ञान — <strong>सब पर यही विश्लेषण लागू</strong> होता है। रूप से शुरू करने का कारण यह है कि यह सबसे 'ठोस' स्कन्ध है, जिसे अलग मानना सबसे आसान लगता है।"
+      }
+    ]
+  },
+  {
+    "sk": "रूपादन्यच्च यत्स्याच्च कारणं तदकार्यकम् ।\nअकार्यकं न कारणं युक्तं क्वचन विद्यते ॥",
+    "ro": "rūpād · anyac · ca · yat · syāc · ca · kāraṇaṃ · tad · akāryakam | akāryakaṃ · na · kāraṇaṃ · yuktaṃ · kvacana · vidyate ||",
+    "hi": "और यदि रूप से भिन्न कोई कारण हो, तो वह कारण कार्य-रहित होगा। पर कार्य-रहित कारण कहीं भी उचित नहीं पाया जाता।",
+    "en": "If there were a cause apart from form, that cause would be without an effect. But an effectless cause is not tenable anywhere.",
+    "ws": [
+      {
+        "s": "अकार्यकम्",
+        "h": "कार्य-रहित / प्रभाव-रहित",
+        "e": "without an effect / effectless"
+      },
+      {
+        "s": "कारणम्",
+        "h": "कारण / हेतु",
+        "e": "cause"
+      },
+      {
+        "s": "युक्तम्",
+        "h": "उचित / तर्कसंगत",
+        "e": "tenable / reasonable"
+      },
+      {
+        "s": "क्वचन",
+        "h": "कहीं भी",
+        "e": "anywhere"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अकार्यकम्</em> = अ + कार्य + क — 'कार्य से रहित।' <em>यत्...तत्</em> = सम्बन्धवाचक सर्वनाम-युग्म — 'जो...वह।' <em>युक्तम्</em> = √युज् (जोड़ना) का भूतकृदन्त — 'उचित/तर्कसंगत।' यह श्लोक पिछले श्लोक का <strong>दर्पण तर्क</strong> (mirror argument) है: श्लोक 2 में 'कारण-रहित कार्य' असम्भव दिखाया; यहाँ 'कार्य-रहित कारण' असम्भव दिखाया — दोनों ओर से मार्ग बन्द है।<br><em>Eng:</em> <em>akāryakam</em> = 'effectless.' This is the mirror argument: verse 2 refuted a causeless effect; here an effectless cause is refuted — both routes are blocked.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 2 का प्रतिबिम्ब है। वहाँ कार्य (रूप) को कारण से अलग करने पर 'अहेतुक कार्य' का प्रसंग आया। यहाँ कारण को कार्य (रूप) से अलग करने पर 'अकार्य कारण' का प्रसंग आता है। 'कारण' शब्द का अर्थ ही है 'जिसका कोई कार्य हो' — बिना कार्य के कारण कारण नहीं कहलाता, जैसे बिना पुत्र के पिता पिता नहीं कहलाता।",
+        "en": "Candrakīrti says this verse mirrors verse 2. There, separating the effect (form) from its cause yielded an absurd 'causeless effect.' Here, separating the cause from its effect (form) yields an absurd 'effectless cause.' The word 'cause' itself means 'that which has an effect' — without an effect, a cause is not a cause, just as without a son, a father is not a father.",
+        "ins": "पिता बिना पुत्र के पिता नहीं, कारण बिना कार्य के कारण नहीं — ये सम्बन्ध-आधारित शब्द हैं, स्वतन्त्र सत्ताएँ नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — कल्पना करें कि कोई बीज हो पर उससे कभी कुछ न उगे — न अंकुर, न पौधा, न फल। क्या हम उसे 'कारण' कह सकते हैं? नहीं — क्योंकि 'कारण' नाम ही तभी सार्थक है जब कोई 'कार्य' हो। बिना कार्य के कारण शब्द ही खाली हो जाता है।",
+        "en": "Buddhapālita says imagine a seed from which nothing ever sprouts — no shoot, no plant, no fruit. Can we call it a 'cause'? No — because the word 'cause' is meaningful only when there is an 'effect.' Without an effect, the very word 'cause' becomes empty.",
+        "ins": "एक बीज जिससे कभी कुछ न उगे — उसे 'कारण' कहना भाषा का मज़ाक होगा।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — कारण और कार्य दोनों सम्बन्ध-वाचक (relational) शब्द हैं — एक दूसरे के बिना अर्थहीन। यह स्वतन्त्र अनुमान से सिद्ध होता है: 'कारण अकार्यक नहीं है, क्योंकि यह कार्य से परिभाषित है, जैसे पिता पुत्र से परिभाषित है।' परमार्थतः कारण और कार्य दोनों स्वभाव-शून्य हैं।",
+        "en": "Bhāviveka says cause and effect are both relational terms — meaningless without each other. This is established by independent inference: 'A cause is not effectless, because it is defined by its effect, just as a father is defined by his son.' Ultimately, both cause and effect are empty of inherent nature.",
+        "ins": "कारण-कार्य भाषा के सम्बन्ध-वाचक शब्द हैं — एक हटाओ तो दूसरा अपने आप गिर जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪞 श्लोक 2 और 3 एक-दूसरे के दर्पण कैसे हैं?",
+        "a": "श्लोक 2 कहता है: <strong>कारण से अलग कार्य = अहेतुक कार्य</strong> — जो असम्भव है। श्लोक 3 कहता है: <strong>कार्य से अलग कारण = अकार्यक कारण</strong> — जो भी असम्भव है। दोनों मिलकर एक <strong>दोतरफा जाल</strong> बनाते हैं: न कार्य को कारण से अलग किया जा सकता है, न कारण को कार्य से। दोनों दिशाओं में मार्ग बन्द है — यही दिखाता है कि ये दोनों <strong>परस्पर-निर्भर</strong> हैं और किसी में भी स्वतन्त्र स्वभाव नहीं।"
+      },
+      {
+        "q": "👨‍👦 'पिता-पुत्र' का उदाहरण यहाँ कैसे काम करता है?",
+        "a": "'पिता' शब्द तभी अर्थवान है जब कोई 'पुत्र' हो। बिना पुत्र के कोई 'पिता' नहीं — यह शब्द ही खाली हो जाता है। ठीक इसी तरह, <strong>'कारण' शब्द तभी सार्थक है जब कोई 'कार्य' हो</strong>। ये <strong>सापेक्ष शब्द</strong> (relative terms) हैं — एक के बिना दूसरा अपरिभाषित है। नागार्जुन यही दिखाते हैं: कारण और कार्य <strong>स्वतन्त्र सत्ताएँ नहीं</strong>, बल्कि <strong>परस्पर-निर्भर अवधारणाएँ</strong> हैं — और यही शून्यता का अर्थ है।"
+      }
+    ]
+  },
+  {
+    "sk": "रूपे सत्येव रूपस्य कारणं नोपपद्यते ।\nरूपेऽसत्येव रूपस्य कारणं नोपपद्यते ॥",
+    "ro": "rūpe · saty · eva · rūpasya · kāraṇaṃ · nopapadyate | rūpe · 'saty · eva · rūpasya · kāraṇaṃ · nopapadyate ||",
+    "hi": "जब रूप पहले से विद्यमान है, तब रूप के कारण की आवश्यकता सिद्ध नहीं होती। जब रूप विद्यमान ही नहीं है, तब भी रूप के कारण की आवश्यकता सिद्ध नहीं होती।",
+    "en": "When form already exists, the cause of form is not established. When form does not exist, the cause of form is also not established.",
+    "ws": [
+      {
+        "s": "सति",
+        "h": "होने पर / विद्यमान होने पर (सति सप्तमी)",
+        "e": "when existing / being present"
+      },
+      {
+        "s": "असति",
+        "h": "न होने पर / अभाव में (सति सप्तमी)",
+        "e": "when not existing / being absent"
+      },
+      {
+        "s": "एव",
+        "h": "ही / निश्चय से",
+        "e": "indeed / precisely"
+      },
+      {
+        "s": "नोपपद्यते",
+        "h": "सिद्ध नहीं होता / सम्भव नहीं होता",
+        "e": "is not established / is not possible"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सति...असति</em> — सति सप्तमी (locative absolute) — 'होने पर...न होने पर।' यह व्याकरणिक रचना एक <strong>शर्त</strong> (condition) दर्शाती है। <em>एव</em> = 'ही / ठीक उसी अवस्था में।' <em>नोपपद्यते</em> = न + उपपद्यते — 'सिद्ध नहीं होता।' यह एक <strong>विलक्षण तर्क</strong> (dilemma) है: रूप के सम्बन्ध में केवल दो ही सम्भावनाएँ हैं — 'है' या 'नहीं है' — और दोनों में कारणता असम्भव सिद्ध होती है।<br><em>Eng:</em> The locative absolute (<em>sati saptamī</em>) creates a dilemma: whether form exists or not, the cause of form cannot be established in either case.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह द्विविध प्रसंग (double reductio) है। पहला: यदि रूप पहले से है, तो कारण किसलिए? जो पहले से विद्यमान है उसे 'बनाने' की ज़रूरत नहीं — यह सांख्य के सत्कार्यवाद का दोष है। दूसरा: यदि रूप है ही नहीं, तो कारण 'किसका' कारण है? अभाव से कुछ नहीं बनता — यह तो स्पष्ट है। दोनों स्थितियों में कारणता एक विरोधाभास में फँस जाती है।",
+        "en": "Candrakīrti says this is a double reductio. First: if form already exists, what is the cause for? What already exists need not be 'produced' — this is the flaw of Sāṃkhya's satkāryavāda. Second: if form does not exist, the cause is the cause 'of what'? Nothing arises from nothing — this is obvious. In both cases, causation is trapped in paradox.",
+        "ins": "जो है उसे बनाने की ज़रूरत नहीं; जो नहीं है उसका कारण अर्थहीन है — दोनों तरफ से कारणता फँस जाती है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह बहुत ही सरल तर्क है। अगर रूप पहले से मौजूद है, तो उसे बनाने की ज़रूरत क्या? जैसे पके हुए चावल को दुबारा पकाने की ज़रूरत नहीं। और अगर रूप बिलकुल नहीं है, तो 'रूप का कारण' किसे कहा जाए? जैसे शशविषाण (खरगोश के सींग) का कारण ढूँढना — जो है ही नहीं उसके कारण की बात ही बेमानी है।",
+        "en": "Buddhapālita says the argument is very simple. If form already exists, what need is there to produce it? Like cooked rice needs no second cooking. If form does not exist at all, what is called 'the cause of form'? Like searching for the cause of a rabbit's horn — it is pointless to seek the cause of what does not exist.",
+        "ins": "पके चावल को दुबारा पकाना, और खरगोश के सींग का कारण ढूँढना — दोनों बेमानी हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह तर्क कारणता के दोनों सम्भव विकल्पों को खत्म कर देता है। सत् (अस्तित्व) में कारण अनावश्यक है, असत् (अभाव) में कारण अर्थहीन है। कोई तीसरी अवस्था नहीं है — अतः परमार्थतः रूप का कारण स्वभावतः सिद्ध नहीं। व्यावहारिक रूप से कारणता काम करती है, पर गहरे विश्लेषण में यह विघटित हो जाती है।",
+        "en": "Bhāviveka says this argument eliminates both possible options for causation. In existence (sat), a cause is unnecessary; in non-existence (asat), a cause is meaningless. There is no third alternative — therefore, ultimately, the cause of form is not established by inherent nature. Conventionally causation works, but under deep analysis it dissolves.",
+        "ins": "दो ही विकल्प हैं — है या नहीं है। दोनों में कारणता नहीं टिकती। तीसरा कोई रास्ता नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 यह 'दो सींगों वाला विलक्षण' (dilemma) इतना शक्तिशाली क्यों है?",
+        "a": "क्योंकि यह <strong>हर सम्भव विकल्प को समाप्त</strong> कर देता है। किसी भी वस्तु के बारे में केवल दो बातें कही जा सकती हैं — <strong>या तो वह है, या नहीं है</strong>। (1) अगर है — तो कारण क्यों चाहिए? जो पहले से मौजूद है उसे 'बनाने' का कोई अर्थ नहीं। (2) अगर नहीं है — तो कारण 'किसका'? शून्य में कारण नहीं डाल सकते। <strong>दोनों विकल्प बन्द</strong> हैं, और तीसरा कोई विकल्प नहीं — यही इस तर्क की अकाट्यता है।"
+      },
+      {
+        "q": "🍳 'पके चावल को दुबारा पकाना' — यह रोज़मर्रा का उदाहरण क्या सिखाता है?",
+        "a": "यह बुद्धपालित की विशेषता है — वे गहन दार्शनिक तर्क को <strong>रसोईघर जैसे सरल उदाहरणों</strong> से समझाते हैं। अगर चावल पहले से पके हुए हैं, तो उन्हें दुबारा पकाने का कोई अर्थ नहीं — आग उन पर कोई 'कारणता' नहीं चला सकती। ठीक इसी तरह, <strong>अगर रूप पहले से विद्यमान है, तो कारण उस पर क्या 'काम' करेगा?</strong> कारण तभी सार्थक है जब कुछ 'बनना' बाकी हो — पर अगर बन ही चुका है, तो कारण की भूमिका ही समाप्त हो गई।"
+      }
+    ]
+  },
+  {
+    "sk": "निर्हेतुकं भवेद्रूपं न च तद्विद्यते क्वचित् ।\nतस्माद्रूपे न कर्तव्यः विकल्पस्तु कदाचन ॥",
+    "ro": "nirhetukaṃ · bhaved · rūpaṃ · na · ca · tad · vidyate · kvacit | tasmād · rūpe · na · kartavyaḥ · vikalpas · tu · kadācana ||",
+    "hi": "रूप बिना कारण का होगा, और ऐसा कहीं पाया नहीं जाता। इसलिए रूप के विषय में कभी भी विकल्प नहीं करना चाहिए।",
+    "en": "Form would be without a cause, but such a thing is not found anywhere. Therefore, one should never construct conceptual views about form.",
+    "ws": [
+      {
+        "s": "निर्हेतुकम्",
+        "h": "बिना हेतु के / कारण-रहित",
+        "e": "without a cause / causeless"
+      },
+      {
+        "s": "विकल्पः",
+        "h": "वैकल्पिक धारणा / मानसिक निर्माण",
+        "e": "conceptual construction / mental fabrication"
+      },
+      {
+        "s": "कर्तव्यः",
+        "h": "करने योग्य / किया जाना चाहिए",
+        "e": "should be done / to be made"
+      },
+      {
+        "s": "कदाचन",
+        "h": "कभी भी",
+        "e": "ever / at any time"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>निर्हेतुकम्</em> = निस् + हेतु + क — 'हेतु (कारण) से रहित।' <em>विकल्पः</em> = वि + √कॢप् (कल्पना करना) — 'वैकल्पिक धारणा, मानसिक निर्माण।' <em>कर्तव्यः</em> = √कृ + तव्यत् (विधि कृदन्त) — 'किया जाना चाहिए।' <em>तस्मात्</em> = 'इसलिए' (हेतुवाचक अव्यय)। यह श्लोक <strong>निष्कर्ष</strong> (conclusion) है — पिछले चार श्लोकों के तर्क को एक में समेटता है: रूप स्वभावतः सिद्ध नहीं, अतः उसके बारे में 'यह ऐसा है' जैसी ठोस कल्पनाएँ मत बनाओ।<br><em>Eng:</em> <em>vikalpa</em> = conceptual construction. This verse draws the conclusion: since form cannot be established inherently, do not construct fixed views about it.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह पूरे रूप-विश्लेषण का निष्कर्ष है। श्लोक 1-4 ने दिखाया: रूप न कारण से अलग है, न कारण रूप से अलग; रूप न अहेतुक हो सकता, न कारण अकार्यक; रूप के होने और न होने दोनों में कारणता असम्भव। अतः रूप के बारे में 'यह स्वभावतः ऐसा है' जैसी कोई भी ठोस कल्पना निराधार है। 'विकल्प न करना' का अर्थ रूप को नकारना नहीं, बल्कि रूप को 'स्वभाव-सिद्ध' मानना छोड़ना है।",
+        "en": "Candrakīrti says this is the conclusion of the entire analysis of form. Verses 1-4 showed: form is not separate from its cause, nor the cause from form; form cannot be causeless, nor the cause effectless; causation fails whether form exists or not. Therefore, any fixed conception like 'form is inherently such' is groundless. 'Not constructing vikalpas' does not mean denying form, but abandoning the view that form is inherently established.",
+        "ins": "'विकल्प मत करो' = रूप को नकारो नहीं, बल्कि उसे 'ठोस, स्वतन्त्र वस्तु' मानना छोड़ो।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — हम रोज़मर्रा में रूप देखते हैं — रंग, आकार, शरीर — यह सब व्यावहारिक रूप से 'है' तो सही। पर जब हम उसे एक 'ठोस, अचल, स्वतन्त्र वस्तु' मान लेते हैं, तो वहीं विकल्प (कल्पना) शुरू होता है। नागार्जुन कहते हैं — यह कल्पना छोड़ो। रूप है, पर 'ठोस रूप' कल्पना है।",
+        "en": "Buddhapālita says we see form in everyday life — colors, shapes, bodies — all this conventionally 'exists.' But when we take it to be a 'solid, unchanging, independent thing,' that is where vikalpa (conceptual fabrication) begins. Nāgārjuna says — drop this fabrication. Form is there, but 'solid form' is a fabrication.",
+        "ins": "रूप है — पर 'ठोस रूप' कल्पना है। अन्तर सूक्ष्म है, पर गहरा है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — 'विकल्प न करना' का अर्थ है परमार्थ दृष्टि से रूप को स्वभाव-सिद्ध न मानना। संवृति (व्यावहारिक) स्तर पर रूप-व्यवहार जारी रहता है — हम देखते हैं, छूते हैं, शरीर का प्रयोग करते हैं। नागार्जुन रूप की नित्यता या स्वतन्त्रता का निषेध करते हैं, रूप के व्यावहारिक अस्तित्व का नहीं।",
+        "en": "Bhāviveka says 'not constructing vikalpas' means not treating form as inherently established from the ultimate standpoint. At the conventional level, dealings with form continue — we see, touch, use the body. Nāgārjuna negates the permanence or independence of form, not its conventional existence.",
+        "ins": "परमार्थ में विकल्प-रहित, संवृति में व्यवहार-सहित — दो स्तरों को मिलाना ही भ्रम है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧘 'रूप के बारे में विकल्प मत करो' — तो क्या रूप नहीं है?",
+        "a": "नागार्जुन <strong>रूप के अस्तित्व से इनकार नहीं</strong> कर रहे — वे कह रहे हैं कि रूप के बारे में <strong>'यह ठोस, स्वतन्त्र, अचल वस्तु है'</strong> जैसी कल्पना मत बनाओ। 'विकल्प' (vikalpa) का अर्थ है मानसिक निर्माण — जब हम किसी प्रवाहमान, बदलती, निर्भर घटना को एक <strong>'ठोस चीज़'</strong> बना देते हैं। रूप दिखता है, छुआ जाता है, काम करता है — पर यह सब <strong>प्रतीत्यसमुत्पन्न</strong> है, 'अपने आप में ठोस' नहीं। फ़र्क सूक्ष्म है: <strong>'है' को नकारना नहीं, 'ठोस है' को नकारना</strong> — यही मध्यम मार्ग है।"
+      },
+      {
+        "q": "📐 पिछले चार श्लोकों का तर्क एक साथ कैसे काम करता है?",
+        "a": "चार श्लोक चार दिशाओं से रूप के स्वतन्त्र अस्तित्व को काटते हैं: (1) <strong>रूप और कारण अलग नहीं</strong> — दोनों परस्पर-निर्भर; (2) <strong>कारण-रहित रूप नहीं</strong> — असम्भव; (3) <strong>कार्य-रहित कारण नहीं</strong> — असम्भव; (4) <strong>रूप के होने पर भी कारणता नहीं, न होने पर भी नहीं</strong> — दोनों विकल्प बन्द। चारों ओर से मार्ग बन्द होने पर श्लोक 5 का निष्कर्ष अपने आप आता है — <strong>रूप स्वभावतः सिद्ध नहीं</strong>।"
+      }
+    ]
+  },
+  {
+    "sk": "न सरूपं हि कार्यस्य कारणमुपपद्यते ।\nन विरूपं हि कार्यस्य कारणमुपपद्यते ॥",
+    "ro": "na · sarūpaṃ · hi · kāryasya · kāraṇam · upapadyate | na · virūpaṃ · hi · kāryasya · kāraṇam · upapadyate ||",
+    "hi": "कारण को कार्य के समान नहीं कहा जा सकता। और कारण को कार्य से असमान भी नहीं कहा जा सकता।",
+    "en": "The cause cannot be said to be similar to the effect. Nor can the cause be said to be dissimilar from the effect.",
+    "ws": [
+      {
+        "s": "सरूपम्",
+        "h": "समान रूप वाला / सदृश",
+        "e": "similar / of the same form"
+      },
+      {
+        "s": "विरूपम्",
+        "h": "भिन्न रूप वाला / असदृश",
+        "e": "dissimilar / of different form"
+      },
+      {
+        "s": "कार्यस्य",
+        "h": "कार्य का / प्रभाव का",
+        "e": "of the effect"
+      },
+      {
+        "s": "कारणम्",
+        "h": "कारण / हेतु",
+        "e": "cause"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सरूपम्</em> = स + रूप — 'समान रूप वाला' (सामान्य बहुव्रीहि)। <em>विरूपम्</em> = वि + रूप — 'भिन्न रूप वाला।' <em>कार्यस्य</em> = कार्य + षष्ठी — 'कार्य (प्रभाव) का।' इस श्लोक की विशेष संरचना यह है कि दोनों पाद <strong>लगभग समान</strong> हैं — केवल 'सरूपम्' और 'विरूपम्' बदलते हैं — जो दो विरोधी विकल्पों का सममित निषेध दर्शाता है।<br><em>Eng:</em> <em>sarūpa</em>/<em>virūpa</em> = similar/dissimilar in form. The near-identical pāda structure symmetrically negates both alternatives — the cause is neither like nor unlike the effect.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह कारण-कार्य सम्बन्ध के दो शेष विकल्पों का निषेध है। (1) अगर कारण कार्य के समान हो (सरूप), तो दोनों में भेद ही क्या? — एक को कारण और दूसरे को कार्य कहने का कोई आधार नहीं रहता। (2) अगर कारण कार्य से पूरी तरह असमान हो (विरूप), तो दोनों में सम्बन्ध ही क्या? — किसी भी चीज़ से कुछ भी बन जाएगा। दोनों विकल्प असम्भव हैं।",
+        "en": "Candrakīrti says this negates the two remaining alternatives for the cause-effect relation. (1) If the cause is similar to the effect (sarūpa), where is the difference? — there is no basis to call one cause and the other effect. (2) If the cause is completely dissimilar from the effect (virūpa), where is the relation? — anything could produce anything. Both alternatives are impossible.",
+        "ins": "समान हों तो भेद नहीं, भिन्न हों तो सम्बन्ध नहीं — कारण-कार्य का हर ठोस स्वरूप विफल हो जाता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — बीज और अंकुर का उदाहरण लो। क्या बीज अंकुर के 'समान' है? नहीं — बीज गोल, कठोर है; अंकुर नरम, हरा है। क्या बीज अंकुर से 'पूरी तरह भिन्न' है? नहीं — बिना बीज के अंकुर कहाँ? तो बीज न अंकुर जैसा है, न बिलकुल उससे अलग — वे एक सम्बन्ध में हैं जो 'समानता' या 'भिन्नता' की ठोस श्रेणी में नहीं आता।",
+        "en": "Buddhapālita says take the example of seed and sprout. Is the seed 'similar' to the sprout? No — the seed is round and hard; the sprout is soft and green. Is the seed 'completely different' from the sprout? No — without the seed, where is the sprout? So the seed is neither like the sprout nor entirely unlike it — they are in a relationship that does not fit the rigid categories of 'similar' or 'different.'",
+        "ins": "बीज न अंकुर जैसा है, न उससे पूरी तरह अलग — सम्बन्ध इन दोनों खानों से बाहर है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह विश्लेषण सांख्य और वैशेषिक दोनों को काटता है। सांख्य कहते हैं कार्य कारण में पहले से विद्यमान है (सत्कार्यवाद — कारण = कार्य, अतः सरूप)। वैशेषिक कहते हैं कार्य कारण से भिन्न नव-उत्पन्न है (असत्कार्यवाद — कारण ≠ कार्य, अतः विरूप)। नागार्जुन दोनों को नकारते हैं — यही मध्यम मार्ग है।",
+        "en": "Bhāviveka says this analysis cuts against both Sāṃkhya and Vaiśeṣika. Sāṃkhya holds the effect pre-exists in the cause (satkāryavāda — cause = effect, hence sarūpa). Vaiśeṣika holds the effect is a new product different from the cause (asatkāryavāda — cause ≠ effect, hence virūpa). Nāgārjuna negates both — this is the Middle Way.",
+        "ins": "सांख्य का 'कारण = कार्य' और वैशेषिक का 'कारण ≠ कार्य' — दोनों अतिवाद हैं; मध्यम मार्ग दोनों के पार है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌾 बीज और अंकुर — क्या वे एक ही हैं या अलग?",
+        "a": "यही नागार्जुन का बिंदु है — <strong>वे न एक हैं, न अलग</strong>। अगर बीज = अंकुर (एक ही), तो बीज बोने की ज़रूरत ही क्या? अगर बीज ≠ अंकुर (पूरी तरह अलग), तो बीज से अंकुर क्यों निकलता है, पत्थर से क्यों नहीं? <strong>सत्य यह है कि बीज और अंकुर एक प्रतीत्यसमुत्पन्न प्रक्रिया</strong> हैं — एक 'बनता' है दूसरे से, पर दोनों में 'ठोस समानता' या 'ठोस भिन्नता' नहीं मिलती। यही शून्यता का व्यावहारिक अर्थ है।"
+      },
+      {
+        "q": "⚖️ यह सांख्य और वैशेषिक दर्शन को कैसे काटता है?",
+        "a": "<strong>सांख्य</strong> कहते हैं: कार्य कारण में पहले से मौजूद है — दूध में दही पहले से है, बस प्रकट होता है। यह 'सरूपता' (समानता) है — कारण और कार्य एक ही हैं। <strong>वैशेषिक</strong> कहते हैं: कार्य कारण से बिलकुल नई चीज़ है — परमाणुओं से घड़ा बनता है, जो परमाणुओं जैसा नहीं। यह 'विरूपता' (भिन्नता) है। नागार्जुन दिखाते हैं कि <strong>दोनों ही अतिवाद हैं</strong> — न पूरी समानता काम करती है, न पूरी भिन्नता। सत्य दोनों के बीच, <strong>प्रतीत्यसमुत्पाद</strong> में है।"
+      }
+    ]
+  },
+  {
+    "sk": "वेदना संज्ञासंस्कारा विज्ञानं चेति सर्वथा ।\nसर्वेऽपि सर्वभावाश्च रूपवत्परिकीर्तिताः ॥",
+    "ro": "vedanā · saṃjñāsaṃskārā · vijñānaṃ · ceti · sarvathā | sarve · 'pi · sarvabhāvāś · ca · rūpavat · parikīrtitāḥ ||",
+    "hi": "वेदना, संज्ञा, संस्कार, और विज्ञान तथा सभी भाव सर्वथा रूप के समान ही घोषित किए जाते हैं।",
+    "en": "Feeling, perception, mental formations, and consciousness, as well as all things, are in every way declared to be like form.",
+    "ws": [
+      {
+        "s": "वेदना",
+        "h": "अनुभूति / सुख-दुःख की भावना (दूसरा स्कन्ध)",
+        "e": "feeling / sensation (second aggregate)"
+      },
+      {
+        "s": "संज्ञा",
+        "h": "पहचान / धारणा (तीसरा स्कन्ध)",
+        "e": "perception / recognition (third aggregate)"
+      },
+      {
+        "s": "संस्काराः",
+        "h": "मानसिक संरचनाएँ / इच्छा-चेतना (चौथा स्कन्ध)",
+        "e": "mental formations / volitional activities (fourth aggregate)"
+      },
+      {
+        "s": "विज्ञानम्",
+        "h": "चेतना / बोध (पाँचवाँ स्कन्ध)",
+        "e": "consciousness / awareness (fifth aggregate)"
+      },
+      {
+        "s": "रूपवत्",
+        "h": "रूप के समान / रूप की तरह",
+        "e": "like form / in the manner of form"
+      },
+      {
+        "s": "परिकीर्तिताः",
+        "h": "घोषित / कहे गए",
+        "e": "declared / proclaimed"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>वेदना</em> = √विद् (जानना/अनुभव करना) — 'अनुभूति।' <em>संज्ञा</em> = सम् + √ज्ञा (जानना) — 'सम्यक् ज्ञान/पहचान।' <em>संस्काराः</em> = सम् + √कृ (करना) — 'मानसिक निर्माण/क्रियाशील रचनाएँ।' <em>रूपवत्</em> = रूप + वत् (उपमा तद्धित) — 'रूप की तरह।' <em>परिकीर्तिताः</em> = परि + √कीर्त् (घोषित करना) + त — 'सब ओर से घोषित।' यह श्लोक रूप-विश्लेषण को <strong>सभी पाँच स्कन्धों</strong> और <strong>सभी भावों</strong> तक विस्तारित करता है — एक उदाहरण से सम्पूर्ण सिद्धान्त।<br><em>Eng:</em> <em>rūpavat</em> = 'like form.' This verse extends the analysis of form to all five aggregates and all phenomena — from one example, the entire doctrine.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक नागार्जुन की 'तार्किक मितव्ययिता' (economy of argument) का सुन्दर उदाहरण है। रूप पर जो छह श्लोकों का विश्लेषण हुआ, वही तर्क वेदना पर, संज्ञा पर, संस्कार पर, और विज्ञान पर भी हू-ब-हू लागू होता है। जैसे — 'वेदना वेदना-कारण से अलग नहीं,' 'विज्ञान निर्हेतुक नहीं,' आदि। एक बार रूप शून्य सिद्ध हो गया, तो बाकी सब स्कन्ध अपने आप शून्य हो जाते हैं।",
+        "en": "Candrakīrti says this verse is a beautiful example of Nāgārjuna's logical economy. The six-verse analysis done on form applies identically to feeling, perception, mental formations, and consciousness. For example — 'feeling is not separate from the cause of feeling,' 'consciousness is not causeless,' etc. Once form is shown to be empty, all remaining aggregates are automatically empty.",
+        "ins": "एक स्कन्ध शून्य सिद्ध हो गया तो बाकी चार के लिए अलग से तर्क की ज़रूरत नहीं — यही तार्किक मितव्ययिता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — सुख-दुःख की अनुभूति (वेदना), किसी चीज़ को 'यह है' पहचानना (संज्ञा), मन में उठने वाले संकल्प और आदतें (संस्कार), और जानने की शक्ति (विज्ञान) — ये सब भी ठीक वैसे ही परस्पर-निर्भर और स्वभाव-शून्य हैं जैसे रूप। कोई भी स्कन्ध अपने आप में, स्वतन्त्र रूप से नहीं खड़ा।",
+        "en": "Buddhapālita says the experience of pleasure and pain (vedanā), recognizing something as 'this is that' (saṃjñā), the intentions and habits arising in mind (saṃskāra), and the power of knowing (vijñāna) — all are equally mutually dependent and empty of inherent nature, just like form. No aggregate stands on its own, independently.",
+        "ins": "सुख-दुःख भी 'ठोस वस्तु' नहीं, पहचान भी 'ठोस' नहीं, संकल्प भी, चेतना भी — सब प्रवाह हैं, ठोस पिंड नहीं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह 'सर्वधर्मशून्यता' (emptiness of all dharmas) का बीज-वाक्य है। नागार्जुन केवल पाँच स्कन्धों तक सीमित नहीं रहते — 'सर्वभावाश्च' (और सभी भाव) कहकर वे स्कन्धों से परे हर सम्भव अस्तित्व को भी शामिल कर लेते हैं। व्यावहारिक स्तर पर स्कन्ध और भाव काम करते हैं; परमार्थतः कोई भी स्वभाव-सिद्ध नहीं।",
+        "en": "Bhāviveka says this is the seed-statement of 'sarvadharmśūnyatā' (emptiness of all dharmas). Nāgārjuna does not stop at the five aggregates — by adding 'sarvabhāvāś ca' (and all things), he includes every possible existent beyond the aggregates too. Conventionally, aggregates and things function; ultimately, none is inherently established.",
+        "ins": "'सर्वभावाश्च' — यह शब्द पाँच स्कन्धों से आगे निकलकर सम्पूर्ण अस्तित्व को शून्यता के दायरे में ले आता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧠 बाकी चार स्कन्ध क्या हैं और उन पर यही तर्क कैसे लागू होता है?",
+        "a": "रूप के बाद चार मानसिक स्कन्ध हैं: (1) <strong>वेदना</strong> — सुख, दुःख, उदासीनता की अनुभूति; (2) <strong>संज्ञा</strong> — पहचानना कि 'यह नीला है,' 'यह कुत्ता है'; (3) <strong>संस्कार</strong> — इच्छा, आदत, क्रोध जैसी मानसिक क्रियाएँ; (4) <strong>विज्ञान</strong> — जानने/बोध की शक्ति। हर एक पर वही तर्क लागू होता है: <strong>वेदना अपने कारण से अलग नहीं</strong> (क्योंकि वेदना विषय-संपर्क से उपजती है); <strong>अहेतुक वेदना असम्भव</strong>; <strong>वेदना के होने पर कारण अनावश्यक, न होने पर अर्थहीन</strong> — आदि।"
+      },
+      {
+        "q": "🌐 'सर्वभाव' जोड़ने से क्या बदल गया?",
+        "a": "बहुत कुछ। 'सर्वभाव' = <strong>सभी अस्तित्ववान चीज़ें</strong>। यह केवल पाँच स्कन्धों तक सीमित नहीं रहता — इसमें <strong>समय, स्थान, गति, कारणता, आत्मा</strong> — सब कुछ आ जाता है। नागार्जुन एक ही वाक्य में कह देते हैं: <strong>जो भी तर्क रूप पर लागू हुआ, वह हर चीज़ पर लागू होता है</strong>। यही 'सर्वधर्मशून्यता' है — कोई भी धर्म (phenomenon) स्वभावतः सिद्ध नहीं। यह MMK का केन्द्रीय सिद्धान्त है जिसे बाद के अध्यायों में विस्तार से सिद्ध किया जाएगा।"
+      }
+    ]
+  },
+  {
+    "sk": "शून्यतायां तु यो दोषानुपालभेत कांश्चन ।\nसर्वं तस्यानुपालभ्यं समं साध्येन तद्भवेत् ॥",
+    "ro": "śūnyatāyāṃ · tu · yo · doṣān · upālabheta · kāṃścana | sarvaṃ · tasyānupālabhyaṃ · samaṃ · sādhyena · tad · bhavet ||",
+    "hi": "जो शून्यता में कोई दोष निकालना चाहे, उसका सारा आक्षेप निरर्थक है, क्योंकि वह उसी बात के बराबर है जो सिद्ध करनी है।",
+    "en": "Whoever would find any faults in emptiness, all his criticism is groundless, for it amounts to the same as what is to be proved.",
+    "ws": [
+      {
+        "s": "शून्यतायाम्",
+        "h": "शून्यता में / शून्यता के सम्बन्ध में",
+        "e": "in emptiness / regarding emptiness"
+      },
+      {
+        "s": "दोषान्",
+        "h": "दोष / त्रुटियाँ (बहुवचन)",
+        "e": "faults / defects"
+      },
+      {
+        "s": "उपालभेत",
+        "h": "निकाले / आरोपित करे (विधिलिङ्)",
+        "e": "would find / would attribute"
+      },
+      {
+        "s": "अनुपालभ्यम्",
+        "h": "जिस पर दोष नहीं लगाया जा सकता / निर्दोष",
+        "e": "beyond reproach / unassailable"
+      },
+      {
+        "s": "साध्येन समम्",
+        "h": "जो सिद्ध करना है उसके बराबर",
+        "e": "equal to what is to be proved"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>उपालभेत</em> = उप + आ + √लभ् (पाना/पकड़ना), विधिलिङ् — 'दोष पकड़े/निकाले।' <em>अनुपालभ्यम्</em> = अन् + उपालभ्य (कृत्य कृदन्त) — 'जिस पर दोष नहीं लगाया जा सकता।' <em>साध्येन समम्</em> — 'साध्यसम' नैयायिक पारिभाषिक शब्द है — जब प्रतिवादी का तर्क वही दोष रखता है जो साध्य में है, तब उसे 'साध्यसम' (petitio principii / begging the question) कहा जाता है।<br><em>Eng:</em> <em>sādhyasama</em> is a technical term from Indian logic — when the counter-argument carries the same defect as what is being proved, it is a 'sādhyasama' fallacy (petitio principii).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक अत्यन्त महत्त्वपूर्ण है। जो कोई शून्यता पर आक्षेप करता है, उसका आक्षेप 'सत्ता' (existence) या 'स्वभाव' (inherent nature) के आधार पर होता है। पर शून्यता कह रही है कि सत्ता और स्वभाव ही समस्या है! तो आलोचक जो मान्यता (assumption) अपने आक्षेप में रखता है, वही मान्यता शून्यता द्वारा नकारी जा रही है — यह 'साध्यसम' दोष है। आलोचक उसी चीज़ को मान लेता है जिसे सिद्ध/खण्डित करना है।",
+        "en": "Candrakīrti says this verse is extremely important. Whoever attacks emptiness does so from the basis of 'existence' or 'inherent nature.' But emptiness is saying that existence and inherent nature are themselves the problem! So the critic's own assumption is the very thing being negated by emptiness — this is the sādhyasama fallacy. The critic presupposes the very thing that is to be proved or refuted.",
+        "ins": "आलोचक जो मान्यता (स्वभाव) अपने तर्क में छिपाए बैठा है, शून्यता ठीक उसी मान्यता को चुनौती दे रही है — यही उसकी अभेद्यता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — शून्यता कोई 'दावा' नहीं है जिसे खण्डित किया जाए। यह एक 'औषधि' है — बीमारी (स्वभाव-ग्राह) को ठीक करने के लिए दी गई। जो शून्यता पर आक्षेप करता है, वह ऐसा है जैसे कोई रोगी औषधि से कहे 'तुम गलत हो!' — औषधि न सही है न गलत, वह बस बीमारी दूर करती है।",
+        "en": "Buddhapālita says emptiness is not a 'claim' to be refuted. It is a 'medicine' — given to cure the disease of grasping at inherent nature. Whoever attacks emptiness is like a patient telling the medicine 'you are wrong!' — the medicine is neither right nor wrong, it simply removes the disease.",
+        "ins": "शून्यता दावा नहीं, औषधि है — उस पर 'सही-गलत' का तर्क लगाना ऐसा है जैसे बुखार की दवा से बहस करना।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह 'साध्यसम' (petitio principii) दोष का प्रयोग है। आलोचक कहता है 'शून्यता गलत है क्योंकि चीज़ों में स्वभाव होता है।' पर नागार्जुन ने अभी सिद्ध किया है कि स्वभाव ही नहीं होता! तो आलोचक का 'प्रमाण' वही है जो 'साध्य' है — यह तर्कशास्त्र में मान्य नहीं। आलोचक को पहले स्वतन्त्र रूप से 'स्वभाव' सिद्ध करना होगा, जो वह नहीं कर सकता।",
+        "en": "Bhāviveka says this employs the sādhyasama (petitio principii) fallacy. The critic says 'emptiness is wrong because things have inherent nature.' But Nāgārjuna has just shown that inherent nature itself does not hold! So the critic's 'proof' is the same as his 'thesis' — this is invalid in logic. The critic must first independently establish 'inherent nature,' which he cannot.",
+        "ins": "आलोचक का 'प्रमाण' वही है जो उसका 'साध्य' — यह चक्रीय तर्क (circular reasoning) है और तर्कशास्त्र में अमान्य।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🛡️ शून्यता पर आक्षेप क्यों नहीं किया जा सकता?",
+        "a": "शून्यता पर आक्षेप करने के लिए आपको <strong>किसी 'ठोस' आधार</strong> (स्वभाव, सत्ता, अस्तित्व) पर खड़ा होना पड़ता है। पर शून्यता ठीक <strong>इसी 'ठोस आधार' को ही चुनौती दे रही है</strong>! तो जो भी आधार आप अपने आक्षेप में रखते हैं, शून्यता कहती है — 'यही तो समस्या है जिसकी मैं बात कर रही हूँ।' यह <strong>साध्यसम</strong> (begging the question) दोष है — आलोचक वही मान लेता है जो नकारा जा रहा है। शून्यता इसलिए 'अभेद्य' है क्योंकि <strong>वह कोई दावा नहीं करती</strong> — वह केवल दावों की निराधारता दिखाती है।"
+      },
+      {
+        "q": "💊 शून्यता 'औषधि' है, 'सिद्धान्त' नहीं — यह क्या अर्थ रखता है?",
+        "a": "बुद्ध ने स्वयं कहा था — मेरा धर्म एक <strong>बेड़ा</strong> (raft) है नदी पार करने के लिए, उसे पार करके सिर पर ढोने की ज़रूरत नहीं। शून्यता भी ऐसी ही है — यह <strong>स्वभाव-ग्रहण</strong> (grasping at inherent nature) नामक बीमारी की दवा है। दवा खाने के बाद आप दवा को 'सच्चाई' मानकर पकड़ नहीं लेते — बीमारी गई तो दवा भी जाती है। <strong>शून्यता भी शून्य है</strong> — यह कोई 'अन्तिम सत्य' नहीं जिसे पकड़ लो। जो शून्यता को 'ठोस सिद्धान्त' बना ले, उसे नागार्जुन 'असाध्य' कहते हैं।"
+      }
+    ]
+  },
+  {
+    "sk": "व्याख्याने शून्यतायां तु प्रतिवादं करोति यः ।\nतुल्यदोषमिदं तस्य साध्येन सह जायते ॥",
+    "ro": "vyākhyāne · śūnyatāyāṃ · tu · prativādaṃ · karoti · yaḥ | tulyadoṣam · idaṃ · tasya · sādhyena · saha · jāyate ||",
+    "hi": "जब शून्यता की व्याख्या की जा रही हो और कोई प्रतिवाद करे, तो उसका प्रतिवाद उसी दोष से ग्रस्त होता है जो सिद्ध किए जाने वाले विषय में है।",
+    "en": "When emptiness is being explained and someone offers a counter-argument, that counter-argument of his arises with the same defect as what is to be proved.",
+    "ws": [
+      {
+        "s": "व्याख्याने",
+        "h": "व्याख्या किए जाने पर / समझाए जाने पर",
+        "e": "when being explained"
+      },
+      {
+        "s": "प्रतिवादम्",
+        "h": "विरोधी तर्क / खण्डन",
+        "e": "counter-argument / objection"
+      },
+      {
+        "s": "तुल्यदोषम्",
+        "h": "समान दोष वाला / वही दोष रखने वाला",
+        "e": "having the same defect / equally flawed"
+      },
+      {
+        "s": "साध्येन सह",
+        "h": "जो सिद्ध करना है उसके साथ",
+        "e": "together with what is to be proved"
+      },
+      {
+        "s": "जायते",
+        "h": "उत्पन्न होता है / प्रकट होता है",
+        "e": "arises / appears"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>व्याख्याने</em> = वि + आ + √ख्या (कहना/समझाना), सप्तमी — 'व्याख्या किए जाने पर।' <em>प्रतिवादम्</em> = प्रति + √वद् (बोलना) — 'प्रतिकूल कथन/विरोधी तर्क।' <em>तुल्यदोषम्</em> = तुल्य + दोष (कर्मधारय) — 'समान दोष वाला।' यह श्लोक पिछले श्लोक का 'व्याख्या' (explanation) सन्दर्भ में विस्तार है — जहाँ श्लोक 8 ने 'दोष ढूँढने' (criticism) का खण्डन किया, वहाँ यह 'प्रतिवाद' (counter-argument) का खण्डन करता है।<br><em>Eng:</em> <em>tulyadoṣam</em> = 'having the same defect.' This verse extends the previous one from criticism to counter-argument in the context of explanation — both commit the same fallacy.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक शून्यता की 'अन्तिम सुरक्षा' (final safeguard) है। कोई कहे — 'ठीक है, शून्यता में दोष नहीं ढूँढूँगा, पर मैं इसके विरुद्ध स्वतन्त्र तर्क तो दे सकता हूँ।' नागार्जुन कहते हैं — वह तर्क भी 'तुल्यदोष' है, क्योंकि वह भी किसी 'स्वभाव' पर आधारित होगा। शून्यता के विरुद्ध कोई भी तर्क अनिवार्यतः वही मान्यता रखता है जो शून्यता नकार रही है। इसीलिए माध्यमक को 'निः-स्वभाव-वादी' (advocate of no-inherent-nature) कहना भी गलत है — वे 'वादी' ही नहीं हैं, क्योंकि उनका कोई 'वाद' (thesis) नहीं।",
+        "en": "Candrakīrti says this verse is the 'final safeguard' of emptiness. Someone might say — 'Fine, I won't look for faults in emptiness, but I can give an independent counter-argument.' Nāgārjuna says — that argument too has the same defect (tulyadoṣa), because it too will be based on some 'inherent nature.' Any argument against emptiness necessarily presupposes what emptiness negates. This is why even calling Mādhyamikas 'advocates of no-inherent-nature' is wrong — they have no 'advocacy' (vāda), because they have no 'thesis.'",
+        "ins": "माध्यमक का कोई 'दावा' नहीं — वे केवल दूसरों के दावों की निराधारता दिखाते हैं। इसीलिए उन पर कोई प्रतिवाद काम नहीं करता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — शून्यता को ठीक से समझना इसीलिए कठिन है क्योंकि हम उसे एक 'विचार' या 'सिद्धान्त' बनाकर पकड़ना चाहते हैं। पर शून्यता किसी भी 'पकड़' से बचती है — क्योंकि जिस 'हाथ' से आप पकड़ रहे हैं, वह भी शून्य है। शून्यता एक दृष्टि (view) नहीं, बल्कि सभी दृष्टियों का त्याग (relinquishment of all views) है।",
+        "en": "Buddhapālita says this is precisely why emptiness is so hard to understand — we want to grasp it as a 'thought' or 'theory.' But emptiness escapes every grasp — because the very 'hand' with which you grasp is also empty. Emptiness is not a view (dṛṣṭi) but the relinquishment of all views (sarvadṛṣṭi-prahāṇa).",
+        "ins": "शून्यता को 'पकड़ने' की कोशिश ही गलत है — क्योंकि पकड़ने वाला हाथ भी शून्य है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि शून्यता एक 'स्थान' (position) नहीं है जिस पर खड़े होकर बहस की जाए। यह एक 'विधि' (method) है — स्वभाव-ग्रहण को तोड़ने की। जो इसे 'स्थान' समझकर इस पर हमला करता है, वह गलत लक्ष्य पर निशाना लगा रहा है। शून्यता हर स्थान को हिलाती है — स्वयं कहीं खड़ी नहीं होती।",
+        "en": "Bhāviveka says this verse shows emptiness is not a 'position' to stand on and debate. It is a 'method' — for breaking the grip of inherent-nature grasping. Whoever attacks it as a 'position' is aiming at the wrong target. Emptiness shakes every position — it itself does not stand anywhere.",
+        "ins": "शून्यता स्थान (position) नहीं, विधि (method) है — जो हर स्थान को हिलाती है और स्वयं कहीं नहीं ठहरती।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎭 'शून्यता भी शून्य है' — यह विरोधाभास कैसे समझें?",
+        "a": "यह विरोधाभास नहीं, बल्कि <strong>शून्यता की पूर्णता</strong> है। अगर शून्यता 'शून्य नहीं' होती, तो वह एक 'ठोस सिद्धान्त' बन जाती — और ठोस सिद्धान्त बनते ही वह <strong>स्वयं स्वभाव-ग्रहण</strong> का उदाहरण बन जाती। जैसे दवा का काम बीमारी दूर करना है — अगर दवा खुद बीमारी बन जाए तो वह अच्छी दवा नहीं। शून्यता 'स्वभाव-ग्रहण' की दवा है — अगर शून्यता खुद 'ग्रहण' (grasping) का विषय बन जाए, तो <strong>वह बीमारी बन गई, दवा नहीं रही</strong>। इसीलिए 'शून्यता भी शून्य' — ताकि दवा दवा ही रहे।"
+      },
+      {
+        "q": "🚪 अगर शून्यता कोई 'दावा' नहीं है, तो नागार्जुन क्या कर रहे हैं?",
+        "a": "नागार्जुन <strong>प्रसंग-तर्क</strong> (reductio ad absurdum) कर रहे हैं — वे दूसरों के दावों की <strong>आन्तरिक असंगतियाँ</strong> दिखाते हैं, स्वयं कोई दावा नहीं करते। जैसे कोई वकील कहे 'मैं कोई दावा नहीं कर रहा, मैं बस दिखा रहा हूँ कि आपका दावा अपने आप में विरोधाभासी है।' यही <strong>प्रासंगिक माध्यमक</strong> (Prāsaṅgika Madhyamaka) की विधि है — <strong>कोई स्वतन्त्र पक्ष (thesis) नहीं</strong>, केवल विपक्ष का खण्डन। इसीलिए शून्यता 'अभेद्य' है — जिसका कोई पक्ष ही नहीं, उसे कैसे काटोगे?"
+      }
+    ]
+  }
+]

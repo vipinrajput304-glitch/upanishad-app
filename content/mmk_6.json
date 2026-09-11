@@ -1,0 +1,657 @@
+[
+  {
+    "sk": "रागाद् यदि भवेत् पूर्वं रक्तो रागतिरस्कृतः ।\nतं प्रतीत्य भवेद् रागो रक्ते रागो भवेत् सति ॥",
+    "ro": "rāgād · yadi · bhavet · pūrvaṃ · rakto · rāgatiraskṛtaḥ | taṃ · pratītya · bhaved · rāgo · rakte · rāgo · bhavet · sati ||",
+    "hi": "यदि राग से पहले रक्त अर्थात् अनुरागी व्यक्ति राग के बिना मौजूद होता, तो राग उस पर निर्भर होता। रक्त के होने पर ही राग होता।",
+    "en": "If the desirous one existed prior to desire and without desire, then desire would depend on him. Desire would exist only when the desirous one exists.",
+    "ws": [
+      {
+        "s": "रागात्",
+        "h": "राग से / अनुराग से",
+        "e": "from desire / passion"
+      },
+      {
+        "s": "पूर्वम्",
+        "h": "पहले",
+        "e": "prior / before"
+      },
+      {
+        "s": "रक्तः",
+        "h": "अनुरागी / रागयुक्त व्यक्ति",
+        "e": "the desirous one / the impassioned"
+      },
+      {
+        "s": "तिरस्कृतः",
+        "h": "रहित / बिना",
+        "e": "devoid of / without"
+      },
+      {
+        "s": "प्रतीत्य",
+        "h": "आश्रित होकर / निर्भर होकर",
+        "e": "depending on / relying on"
+      },
+      {
+        "s": "भवेत्",
+        "h": "होता / हो सकता है",
+        "e": "would be / could arise"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>रागात्</em> = राग + पञ्चमी विभक्ति — 'राग से (पहले)।' <em>रक्तः</em> = √रञ्ज् (रँगना/अनुरक्त होना) का भूत कृदन्त, प्रथमा एकवचन — 'जो रँगा गया है / अनुरागी।' <em>तिरस्कृतः</em> = तिरस् + √कृ, 'अलग किया गया / रहित।' <em>प्रतीत्य</em> = प्रति + √इ (जाना), ल्यबन्त — 'आश्रित होकर,' यह प्रतीत्यसमुत्पाद का मूल शब्द है। यह श्लोक पूर्वपक्ष प्रस्तुत करता है — यदि अनुरागी, राग से पूर्व स्वतन्त्र रूप से विद्यमान हो, तो राग उस पर निर्भर होगा।<br><em>Eng:</em> <em>rāgāt</em> is ablative of rāga. <em>raktaḥ</em> is past participle of √rañj (to be coloured/passionate). <em>pratītya</em> is the gerund central to pratītyasamutpāda. The verse sets up the pūrvapakṣa: if the desirous one existed independently before desire, desire would depend on him.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — नागार्जुन यहाँ पहला विकल्प जाँचते हैं: क्या अनुरागी, राग से पहले स्वतन्त्र रूप से विद्यमान है? यदि ऐसा हो, तो राग उस पर निर्भर होगा और राग तभी उत्पन्न होगा जब अनुरागी पहले से मौजूद हो। परन्तु यह मानना कि अनुरागी बिना राग के भी अनुरागी हो सकता है, स्वयं विरोधाभासी है — क्योंकि 'रक्त' शब्द का अर्थ ही है 'जो राग से युक्त है।'",
+        "en": "Candrakīrti says Nāgārjuna examines the first possibility: does the desirous one exist independently before desire? If so, desire would depend on him and arise only when he is present. But claiming that the desirous one can be desirous without desire is self-contradictory — for 'rakta' by definition means 'one affected by rāga.'",
+        "ins": "'अनुरागी' शब्द में ही 'राग' छिपा है — बिना राग के किसी को 'अनुरागी' कहना भाषा की अपनी परिभाषा का उल्लंघन है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह तर्क सीधा है: यदि कोई पहले से 'अनुरागी' है, राग के बिना, तो 'अनुरागी' नाम ही निरर्थक हो जाता है। यह ऐसे ही है जैसे कोई कहे 'अग्नि के बिना ही कोई दग्ध है' — यह स्वयं-विरोधी कथन है।",
+        "en": "Buddhapālita says the argument is straightforward: if someone is 'desirous' before desire exists, then the label 'desirous' becomes meaningless. It is like saying someone is 'burnt' without fire — a self-contradictory statement.",
+        "ins": "किसी गुण के बिना गुणवान होने का दावा करना शब्दों का खाली खेल है।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह प्रथम विकल्प परमार्थ दृष्टि से असंगत है: यदि रक्त राग से पूर्व स्वतन्त्र रूप से सिद्ध हो, तो उसे 'रक्त' कहना अनुचित है क्योंकि उसकी 'रक्तता' (अनुरागीपन) का कोई आधार नहीं होगा। व्यावहारिक रूप से हम किसी को तभी 'अनुरागी' कहते हैं जब उसमें राग दिखता है।",
+        "en": "Bhāvaviveka says this first option is ultimately incoherent: if the desirous one were independently established before desire, calling him 'desirous' would lack any basis since his quality of being desirous would have no ground. Conventionally, we call someone 'desirous' only when desire is observed in them.",
+        "ins": "कोई भी विशेषण अपने आधारभूत गुण के बिना लागू नहीं हो सकता — यह भाषा और तर्क दोनों का नियम है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔥 अगर अनुरागी राग से पहले नहीं हो सकता, तो पहले कौन आता है — राग या अनुरागी?",
+        "a": "यही नागार्जुन का मूल प्रश्न है। इस श्लोक में वे दिखाते हैं कि <strong>अनुरागी राग से पहले नहीं हो सकता</strong> क्योंकि उसकी पहचान ही राग पर निर्भर है। अगले श्लोकों में वे दिखाएँगे कि <strong>राग भी अनुरागी के बिना नहीं हो सकता</strong>, और <strong>दोनों एक साथ भी नहीं उत्पन्न हो सकते</strong>। यह तीनों विकल्पों का निषेध <strong>प्रतीत्यसमुत्पाद</strong> की ओर इशारा करता है — दोनों केवल परस्पर-निर्भरता से ही अर्थ पाते हैं, किसी एक को 'पहला' नहीं कहा जा सकता।"
+      },
+      {
+        "q": "🪞 यह तर्क रोज़मर्रा के जीवन पर कैसे लागू होता है?",
+        "a": "हम अक्सर सोचते हैं कि <strong>पहले 'मैं' हूँ, फिर मुझमें इच्छा उत्पन्न होती है</strong> — जैसे कोई खाली बर्तन हो जिसमें इच्छा डाली जाती है। नागार्जुन दिखाते हैं कि यह समझ गलत है। जिसे हम 'मैं' कहते हैं वह बहुत हद तक <strong>हमारी इच्छाओं, आसक्तियों और अनुभवों से ही बना है</strong>। इच्छा के बिना 'इच्छुक' की कोई पहचान नहीं, और इच्छुक के बिना इच्छा का कोई अर्थ नहीं। दोनों <strong>एक साथ, एक-दूसरे के सन्दर्भ में ही</strong> प्रकट होते हैं।"
+      }
+    ]
+  },
+  {
+    "sk": "रक्तेऽसति पुना रागः कुत एव भविष्यति ।\nसति वासति वा रागे रक्तेऽप्येष समः क्रमः ॥",
+    "ro": "rakte · 'sati · punā · rāgaḥ · kuta · eva · bhaviṣyati | sati · vāsati · vā · rāge · rakte · 'py · eṣa · samaḥ · kramaḥ ||",
+    "hi": "यदि रक्त अर्थात् अनुरागी ही नहीं है, तो राग कहाँ से आएगा? और चाहे राग हो या न हो, रक्त के विषय में भी यही विश्लेषण लागू होता है।",
+    "en": "If the desirous one does not exist, how can desire arise? Whether desire exists or not, the same analysis applies to the desirous one as well.",
+    "ws": [
+      {
+        "s": "असति",
+        "h": "न होने पर / अभाव में",
+        "e": "when not existing / in the absence of"
+      },
+      {
+        "s": "पुनः",
+        "h": "फिर से / इसके अलावा",
+        "e": "again / moreover"
+      },
+      {
+        "s": "कुतः एव",
+        "h": "आखिर कहाँ से",
+        "e": "from where indeed / how at all"
+      },
+      {
+        "s": "भविष्यति",
+        "h": "होगा / उत्पन्न होगा",
+        "e": "will come to be / will arise"
+      },
+      {
+        "s": "क्रमः",
+        "h": "विधि / विश्लेषण-प्रणाली",
+        "e": "procedure / method of analysis"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>रक्ते असति</em> = सति सप्तमी (locative absolute) — 'रक्त के न होने पर।' <em>पुना</em> = पुनः का विसर्ग सन्धि (अः + र → आ) — 'इसके अतिरिक्त।' <em>कुत एव</em> = कुतः + एव — 'आखिर कहाँ से,' प्रबल आक्षेपसूचक प्रश्न। <em>सति वा असति वा</em> = 'चाहे (राग) हो या न हो' — दोनों विकल्पों को समान रूप से जाँचा जा रहा है। यह श्लोक दूसरा विकल्प परखता है: यदि अनुरागी ही नहीं है, तो राग कैसे हो?<br><em>Eng:</em> <em>rakte 'sati</em> is a locative absolute ('when the desirous one does not exist'). <em>punā</em> results from visarga sandhi of punaḥ before r. The verse tests the second option: without the desirous one, desire itself cannot arise, and the same analysis applies symmetrically.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — पहले श्लोक में दिखाया कि अनुरागी राग से पहले नहीं हो सकता। अब यह दूसरा पक्ष है: यदि अनुरागी ही नहीं है, तो राग किसका होगा? राग को किसी आश्रय की आवश्यकता है — बिना अनुभवकर्ता के अनुभव अर्थहीन है। और यह तर्क दोनों दिशाओं में समान रूप से लागू होता है।",
+        "en": "Candrakīrti says the first verse showed that the desirous one cannot precede desire. Now comes the second side: if the desirous one does not exist, whose desire would it be? Desire requires a locus — experience without an experiencer is meaningless. And this argument applies symmetrically in both directions.",
+        "ins": "राग और रक्त एक-दूसरे के दर्पण हैं — जो तर्क एक पर लागू होता है, वही दूसरे पर भी उतना ही लागू है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह विश्लेषण सरल है: राग बिना अनुरागी के नहीं हो सकता, ठीक वैसे ही जैसे देखना बिना देखने वाले के नहीं हो सकता। और इसी तरह अनुरागी भी बिना राग के नहीं होता। दोनों विकल्प — राग पहले हो या अनुरागी पहले हो — समान रूप से असफल होते हैं।",
+        "en": "Buddhapālita says the analysis is simple: desire cannot exist without a desirous one, just as seeing cannot exist without a seer. Similarly, the desirous one cannot exist without desire. Both options — desire first or the desirous one first — fail equally.",
+        "ins": "हर क्रिया अपने कर्ता के बिना खाली है, और हर कर्ता अपनी क्रिया के बिना नाम मात्र है।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — 'समः क्रमः' (same procedure) का अर्थ है कि यह विश्लेषण सममित है। परमार्थतः न तो राग स्वतन्त्र है, न रक्त। व्यावहारिक भाषा में हम 'उसे राग है' कहते हैं, पर वास्तव में दोनों परस्पर-निर्भर हैं — किसी एक को दूसरे से पहले या स्वतन्त्र रूप से सिद्ध नहीं किया जा सकता।",
+        "en": "Bhāvaviveka says 'samaḥ kramaḥ' (same procedure) indicates the analysis is symmetric. Ultimately neither desire nor the desirous one is independent. In conventional language we say 'he has desire,' but in reality both are mutually dependent — neither can be established prior to or independently of the other.",
+        "ins": "जब विश्लेषण दोनों दिशाओं में समान परिणाम देता है, तो यह सिद्ध होता है कि दोनों पक्ष समान रूप से परस्पर-निर्भर हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 'समः क्रमः' — यह सममिति क्यों महत्वपूर्ण है?",
+        "a": "नागार्जुन दिखाते हैं कि <strong>जो तर्क राग पर लागू होता है, वही रक्त पर भी लागू होता है</strong>। यह सममिति (symmetry) बताती है कि दोनों में से कोई भी 'मूल' या 'प्राथमिक' नहीं है। सामान्यतः हम मानते हैं कि <strong>पहले व्यक्ति है, फिर उसमें भावना आती है</strong>। पर यह श्लोक दिखाता है कि <strong>भावना के बिना व्यक्ति की पहचान अधूरी है</strong>, और व्यक्ति के बिना भावना का कोई आश्रय नहीं। यही <strong>परस्पर-निर्भरता</strong> का मूल सिद्धान्त है।"
+      },
+      {
+        "q": "💭 क्या इसका मतलब यह है कि 'मैं' इच्छा से अलग नहीं हूँ?",
+        "a": "नागार्जुन यह नहीं कह रहे कि आप और आपकी इच्छा एक ही चीज़ हैं। वे दिखा रहे हैं कि <strong>दोनों स्वतन्त्र, ठोस, अलग-अलग इकाइयाँ नहीं हैं</strong>। 'मैं' और 'मेरी इच्छा' एक-दूसरे के सन्दर्भ में ही अर्थ पाते हैं — जैसे <strong>'बायाँ' और 'दायाँ' एक-दूसरे के बिना निरर्थक हैं</strong>। यह न पूर्ण एकता है, न पूर्ण भिन्नता — यही मध्यम मार्ग है।"
+      }
+    ]
+  },
+  {
+    "sk": "सहैव पुनरुद्भूतिर्न युक्ता रागरक्तयोः ।\nभवेतां रागरक्तौ हि निरपेक्षौ परस्परम् ॥",
+    "ro": "sahaiva · punar · udbhūtir · na · yuktā · rāgaraktayoḥ | bhavetāṃ · rāgaraktau · hi · nirapekṣau · parasparam ||",
+    "hi": "राग और रक्त की एक साथ उत्पत्ति भी उचित नहीं है। ऐसा होने पर वे दोनों एक-दूसरे से निरपेक्ष अर्थात् स्वतन्त्र हो जाएँगे और परस्पर सम्बन्धित नहीं रहेंगे।",
+    "en": "The simultaneous arising of desire and the desirous one is also not tenable. For in that case they would be independent of each other and not mutually related.",
+    "ws": [
+      {
+        "s": "सह एव",
+        "h": "एक साथ ही",
+        "e": "together / simultaneously"
+      },
+      {
+        "s": "उद्भूतिः",
+        "h": "उत्पत्ति / उत्पन्न होना",
+        "e": "arising / origination"
+      },
+      {
+        "s": "न युक्ता",
+        "h": "उचित नहीं / संगत नहीं",
+        "e": "not tenable / not reasonable"
+      },
+      {
+        "s": "निरपेक्षौ",
+        "h": "एक-दूसरे से स्वतन्त्र / बिना अपेक्षा के",
+        "e": "independent of each other / without mutual dependence"
+      },
+      {
+        "s": "परस्परम्",
+        "h": "आपस में / एक-दूसरे के प्रति",
+        "e": "mutually / with respect to each other"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>उद्भूतिः</em> = उद् + √भू (होना), स्त्रीलिंग — 'उत्पन्न होना / प्रकट होना।' <em>निरपेक्षौ</em> = निर् + अपेक्षा, द्विवचन — 'एक-दूसरे से स्वतन्त्र / बिना परस्पर अपेक्षा के।' <em>भवेताम्</em> = √भू, विधिलिङ्, द्विवचन — 'दोनों हो जाएँगे।' यह तीसरा विकल्प है — सहोत्पत्ति — जो भी असंगत सिद्ध होता है क्योंकि एक साथ उत्पन्न चीज़ों को परस्पर-निर्भर नहीं कहा जा सकता।<br><em>Eng:</em> <em>udbhūtiḥ</em> = arising. <em>nirapekṣau</em> (dual) = independent of each other. The third option — simultaneous arising — also fails because co-arising entities cannot be mutually dependent; they would be unrelated to each other.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — पहले दो श्लोकों में क्रमिक उत्पत्ति (एक पहले, दूसरा बाद में) खण्डित हो चुकी। अब तीसरा विकल्प — सहोत्पत्ति — भी जाँचा जाता है। यदि राग और रक्त ठीक एक ही क्षण में उत्पन्न होते हैं, तो उनमें कोई कारण-कार्य सम्बन्ध नहीं हो सकता — वे आकस्मिक रूप से साथ-साथ हैं, परस्पर-निर्भर नहीं। पर हम जानते हैं कि राग और रक्त का सम्बन्ध आकस्मिक नहीं है।",
+        "en": "Candrakīrti says the first two verses refuted sequential arising. Now the third option — simultaneous arising — is also examined. If desire and the desirous one arise at exactly the same moment, there can be no causal relation between them — they are merely coincidental, not mutually dependent. But we know that the relation between desire and the desirous is not coincidental.",
+        "ins": "एक साथ उत्पन्न चीज़ें एक-दूसरे का कारण नहीं हो सकतीं — जैसे दो दीपक एक साथ जलें तो एक दूसरे को नहीं जलाता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यदि राग और रक्त एक साथ, स्वतन्त्र रूप से उत्पन्न होते हैं, तो उनके बीच 'एक दूसरे के कारण' का सम्बन्ध कैसे होगा? जैसे बाएँ हाथ और दाएँ हाथ एक साथ हैं पर एक दूसरे को उत्पन्न नहीं करते, वैसे ही सहोत्पन्न राग और रक्त परस्पर-आश्रित नहीं कहलाएँगे।",
+        "en": "Buddhapālita says if desire and the desirous one arise simultaneously and independently, how can there be a causal relation between them? Just as the left hand and right hand exist together but do not produce each other, simultaneously arising desire and desirous one would not be mutually dependent.",
+        "ins": "साथ होना और एक-दूसरे पर निर्भर होना दो अलग बातें हैं — सहोत्पत्ति निर्भरता नहीं सिद्ध करती।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — सहोत्पत्ति का सिद्धान्त दोनों को स्वतन्त्र इकाइयाँ बना देता है। परमार्थतः यदि दोनों स्वतन्त्र हैं, तो उनके बीच का सम्बन्ध व्याख्यातव्य है — वह कहाँ से आता है? यह तीसरे तत्त्व की आवश्यकता पैदा करता है जो स्वयं भी उसी विश्लेषण से गुज़रेगा — एक अनवस्था दोष।",
+        "en": "Bhāvaviveka says the doctrine of simultaneous arising makes both entities independent. Ultimately, if both are independent, the relation between them needs explanation — where does it come from? This requires a third element, which itself would undergo the same analysis — an infinite regress.",
+        "ins": "जब दो चीज़ें पूर्णतः स्वतन्त्र हों, तो उनके बीच के सम्बन्ध को समझाने के लिए तीसरी चीज़ चाहिए — और यह शृंखला कभी रुकती नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⚡ तीनों विकल्प — पहले, बाद में, एक साथ — सब असफल हैं। तो राग और रक्त का सम्बन्ध क्या है?",
+        "a": "नागार्जुन दिखाते हैं कि <strong>क्रमिक उत्पत्ति (sequential)</strong> और <strong>सहोत्पत्ति (simultaneous)</strong> — दोनों ही राग-रक्त के सम्बन्ध को ठीक से नहीं समझा सकते। इसका मतलब यह नहीं कि सम्बन्ध नहीं है — बल्कि यह कि सम्बन्ध <strong>स्वभाव-सिद्ध नहीं है</strong>। वह <strong>प्रतीत्यसमुत्पन्न</strong> है — एक ऐसी परस्पर-निर्भरता जो किसी एक ठोस क्रम या ठोस एकता पर टिकी नहीं है। यही शून्यता का अर्थ है — सम्बन्ध है, पर वह 'ठोस, अटल, स्वयंभू' नहीं है।"
+      },
+      {
+        "q": "🤝 'निरपेक्ष' होना बुरा क्यों है? क्या स्वतन्त्रता अच्छी बात नहीं?",
+        "a": "यहाँ 'निरपेक्ष' का अर्थ है <strong>एक-दूसरे से पूर्णतः असम्बद्ध</strong>। समस्या यह है कि राग और रक्त स्पष्टतः सम्बद्ध हैं — अनुरागी इसलिए अनुरागी है क्योंकि उसमें राग है। यदि दोनों निरपेक्ष हों, तो <strong>राग किसी में भी हो सकता है या किसी में भी नहीं</strong> — यह हमारे अनुभव के विपरीत है। नागार्जुन यह दिखा रहे हैं कि <strong>'सहोत्पत्ति' का सिद्धान्त</strong> राग-रक्त के वास्तविक सम्बन्ध को समझाने में असमर्थ है।"
+      }
+    ]
+  },
+  {
+    "sk": "नैकत्वे सहभावोऽस्ति न तेनैव हि तत् सह ।\nपृथक्त्वे सहभावोऽथ कुत एव भविष्यति ॥",
+    "ro": "naikatve · sahabhāvo · 'sti · na · tenaiva · hi · tat · saha | pṛthaktve · sahabhāvo · 'tha · kuta · eva · bhaviṣyati ||",
+    "hi": "एकत्व में सहभाव नहीं होता क्योंकि कोई वस्तु स्वयं अपने साथ सहभावी नहीं होती। और पृथक्त्व अर्थात् भिन्नता में सहभाव कैसे होगा?",
+    "en": "In identity there is no co-existence, for a thing is not co-existent with itself. And in difference, how can there be co-existence?",
+    "ws": [
+      {
+        "s": "एकत्वे",
+        "h": "एक होने की स्थिति में / अभिन्नता में",
+        "e": "in identity / in oneness"
+      },
+      {
+        "s": "सहभावः",
+        "h": "साथ होना / सह-अस्तित्व",
+        "e": "co-existence / co-presence"
+      },
+      {
+        "s": "तेन एव",
+        "h": "उसी के साथ / ठीक उसी से",
+        "e": "with that very (thing itself)"
+      },
+      {
+        "s": "पृथक्त्वे",
+        "h": "भिन्नता में / अलग होने पर",
+        "e": "in difference / in separateness"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>नैकत्वे</em> = न + एकत्वे (सप्तमी) — 'एकत्व (identity) में नहीं।' <em>सहभावः</em> = सह + भाव — 'साथ होने का भाव / सह-अस्तित्व।' <em>तेनैव</em> = तेन + एव (तृतीया एकवचन) — 'उसी के द्वारा / ठीक उसी के साथ।' <em>पृथक्त्वे</em> = पृथक् + त्व (सप्तमी) — 'भिन्नता में।' यह श्लोक सहभाव की दो सम्भव शर्तों — एकत्व और पृथक्त्व — दोनों को जाँचता है।<br><em>Eng:</em> <em>sahabhāva</em> = co-existence. The verse tests the two conditions under which co-existence might hold: identity (ekatva) and difference (pṛthaktva). In identity, a thing cannot co-exist with itself; in difference, the basis for relatedness is lost.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — अब सहोत्पत्ति के बाद 'सहभाव' (co-existence) की परीक्षा होती है। सहभाव दो तरह से हो सकता है: एकत्व में या पृथक्त्व में। एकत्व में सहभाव असम्भव है क्योंकि 'सह' का अर्थ ही 'दो के साथ' है — एक वस्तु अपने साथ 'सह' नहीं हो सकती। और पृथक्त्व में यदि दोनों पूर्णतः भिन्न हैं, तो उनके बीच सहभाव का आधार ही क्या है?",
+        "en": "Candrakīrti says now the concept of 'co-existence' (sahabhāva) is examined. Co-existence requires either identity or difference. In identity, co-existence is impossible because 'co-' implies two — a thing cannot co-exist with itself. In difference, if the two are entirely distinct, what is the basis for their co-existence?",
+        "ins": "'साथ होना' का अर्थ ही दो का होना है — एक अकेला अपने आप 'साथ' नहीं हो सकता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह एक सरल पर गहरा तर्क है: क्या राग और रक्त एक ही चीज़ हैं? तो 'सह' शब्द अर्थहीन है — कोई अपने आप के साथ 'सह' नहीं होता। क्या वे भिन्न हैं? तो उनका सम्बन्ध कैसे? भिन्न चीज़ों के बीच 'साथ होना' बाहरी सम्बन्ध है, आन्तरिक नहीं।",
+        "en": "Buddhapālita says this is a simple yet deep argument: are desire and the desirous identical? Then 'co-' is meaningless — nothing co-exists with itself. Are they different? Then how are they related? The co-existence of entirely different things is an external relation, not an intrinsic one.",
+        "ins": "एक ही वस्तु को 'सह' कहना निरर्थक है, और पूर्णतः भिन्न वस्तुओं को 'सह' कहना निराधार है।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह एकत्व-पृथक्त्व की द्विविध परीक्षा मध्यमक शैली का मूल सूत्र है। व्यावहारिक रूप से हम राग और रक्त को न पूर्णतः एक मानते हैं, न पूर्णतः भिन्न। पर परमार्थतः जब 'सहभाव' का तार्किक आधार खोजते हैं, तो न एकत्व में मिलता है न पृथक्त्व में — यह दिखाता है कि सहभाव स्वभावतः सिद्ध नहीं है।",
+        "en": "Bhāvaviveka says this twofold examination of identity and difference is a signature Madhyamaka method. Conventionally, we treat desire and the desirous as neither fully identical nor fully different. But when we seek the ultimate logical basis for co-existence, it is found in neither identity nor difference — showing that co-existence is not established by nature.",
+        "ins": "एकत्व और पृथक्त्व — यह दो-तरफ़ा परीक्षा हर सम्बन्ध पर लागू होती है और हर बार स्वभाव-सिद्धि को निष्फल पाती है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧩 एकत्व में सहभाव क्यों नहीं हो सकता?",
+        "a": "'सहभाव' का शाब्दिक अर्थ है <strong>'साथ होना'</strong> — और 'साथ' शब्द में ही <strong>कम से कम दो</strong> की अपेक्षा है। यदि राग और रक्त ठीक एक ही चीज़ हैं, तो वहाँ 'दो' हैं ही नहीं जो 'साथ' हो सकें। यह ऐसे ही है जैसे कहें <strong>'मैं अपने साथ हूँ'</strong> — सुनने में ठीक लगता है पर वास्तव में 'साथ' शब्द यहाँ कोई अतिरिक्त जानकारी नहीं देता। <strong>'सह' अवधारणा ही एकत्व में लागू नहीं होती।</strong>"
+      },
+      {
+        "q": "🔀 और पृथक्त्व में सहभाव क्यों समस्याग्रस्त है?",
+        "a": "यदि राग और रक्त <strong>पूर्णतः भिन्न, असम्बद्ध इकाइयाँ</strong> हैं — जैसे एक पत्थर और एक रंग — तो उनके 'साथ' होने का कोई आन्तरिक कारण नहीं है। उनका साथ होना <strong>आकस्मिक</strong> होगा, अनिवार्य नहीं। पर हम जानते हैं कि राग और रक्त का सम्बन्ध <strong>आकस्मिक नहीं</strong> है — अनुरागी इसलिए अनुरागी है क्योंकि उसमें राग है। यह <strong>आन्तरिक सम्बन्ध</strong> पूर्ण पृथक्त्व में असम्भव है।"
+      }
+    ]
+  },
+  {
+    "sk": "एकत्वे सहभावश्चेत् स्यात् सहायं विनाऽपि सः ।\nपृथक्त्वे सहभावश्चेत् स्यात् सहायं विनाऽपि सः ॥",
+    "ro": "ekatve · sahabhāvaś · cet · syāt · sahāyaṃ · vinā · 'pi · saḥ | pṛthaktve · sahabhāvaś · cet · syāt · sahāyaṃ · vinā · 'pi · saḥ ||",
+    "hi": "यदि एकत्व में सहभाव होता, तो सहायक के बिना भी सहभाव होता। यदि पृथक्त्व में सहभाव होता, तो भी सहायक के बिना सहभाव होता।",
+    "en": "If co-existence could occur in identity, it would occur even without a second. If co-existence could occur in difference, it would occur even without a second.",
+    "ws": [
+      {
+        "s": "चेत्",
+        "h": "यदि",
+        "e": "if"
+      },
+      {
+        "s": "स्यात्",
+        "h": "हो सकता / होता",
+        "e": "could be / would be"
+      },
+      {
+        "s": "सहायम्",
+        "h": "सहायक / साथी / दूसरा",
+        "e": "companion / associate / second entity"
+      },
+      {
+        "s": "विना अपि",
+        "h": "बिना भी",
+        "e": "even without"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सहायम्</em> = सह + आय (√इ), द्वितीया विभक्ति — 'सहायक/साथी को।' <em>विना</em> = 'के बिना' (अव्यय, यहाँ द्वितीया के साथ)। <em>अपि सः</em> = 'वह भी' — यहाँ 'सः' सहभाव का निर्देश करता है। यह श्लोक दोनों पंक्तियों में समान रचना दोहराता है जिससे एकत्व और पृथक्त्व दोनों विकल्पों की समान विफलता स्पष्ट हो। दोनों में सहभाव बिना साथी के भी सम्भव हो जाएगा — जो हास्यास्पद है।<br><em>Eng:</em> The verse repeats the same structure in both halves, showing the parallel failure of both identity and difference. In either case, co-existence could hold even without a companion — an absurd result.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह प्रसंग दोनों विकल्पों में एक ही हास्यास्पद परिणाम दिखाता है। एकत्व में: यदि 'एक' होने मात्र से सहभाव हो, तो किसी भी अकेली वस्तु में सहभाव होगा — बिना किसी 'दूसरे' के। पृथक्त्व में: यदि 'भिन्न' होने मात्र से सहभाव हो, तो कोई भी भिन्न वस्तु किसी भी अन्य वस्तु के साथ सहभावी होगी — जो अत्यन्त व्यापक और अर्थहीन निष्कर्ष है।",
+        "en": "Candrakīrti says this prasaṅga shows the same absurd result in both options. In identity: if mere oneness entails co-existence, then any single thing would have co-existence even without a 'second.' In difference: if mere difference entails co-existence, then any different thing would co-exist with anything else — an overly broad and meaningless conclusion.",
+        "ins": "यदि सहभाव एकत्व या पृथक्त्व मात्र से सिद्ध हो, तो वह सर्वत्र सिद्ध हो जाएगा — और जो सर्वत्र लागू हो, वह कुछ विशेष नहीं सिद्ध करता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — दोनों पंक्तियों में एक ही बात कही गई है, जो दिखाता है कि समस्या एकत्व या पृथक्त्व में नहीं, बल्कि 'सहभाव' की मूल अवधारणा में ही है। यदि सहभाव किसी को 'साथी' की आवश्यकता ही न रखे, तो 'सह' शब्द ही निरर्थक हो जाता है।",
+        "en": "Buddhapālita says both halves say the same thing, showing the problem lies not in identity or difference but in the very concept of co-existence. If co-existence does not require a companion, the 'co-' prefix becomes meaningless.",
+        "ins": "जब 'साथ' का अर्थ 'अकेले भी' हो जाए, तो 'साथ' शब्द कोई अर्थ नहीं रखता।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह प्रसंग दोनों पक्षों को अति-व्याप्ति (over-extension) दोष से ग्रस्त दिखाता है। यदि सहभाव एकत्व की शर्त पर या पृथक्त्व की शर्त पर सिद्ध हो, तो वह बिना किसी विशेष सम्बन्ध के भी लागू हो जाएगा — जो सहभाव की अवधारणा को ही विनष्ट कर देता है।",
+        "en": "Bhāvaviveka says this shows both sides suffer from over-extension (ativyāpti). If co-existence holds on the basis of either identity or difference alone, it would apply even without any specific relation — which destroys the very concept of co-existence.",
+        "ins": "अति-व्याप्ति (over-extension) किसी भी सिद्धान्त के लिए घातक है — जो सब पर लागू हो, वह कुछ विशेष सिद्ध नहीं करता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎭 दोनों पंक्तियाँ एक जैसी क्यों हैं?",
+        "a": "यह जानबूझकर किया गया शैलीगत प्रयोग है। नागार्जुन <strong>समान संरचना को दोहराकर</strong> दिखाते हैं कि एकत्व और पृथक्त्व — दोनों विकल्प <strong>ठीक एक ही दोष</strong> से ग्रस्त हैं। 'सहभाव' को बचाने का कोई रास्ता नहीं, चाहे आप कोई भी शर्त चुनें। यह एक तार्किक जाल है जिसमें <strong>दोनों दरवाज़े एक ही दीवार की तरफ़ खुलते हैं</strong>।"
+      },
+      {
+        "q": "🌐 'बिना साथी के सहभाव' — यह रोज़मर्रा में कैसा दिखता है?",
+        "a": "कल्पना कीजिए कोई कहे <strong>'मैं अकेला हूँ पर मेरा साथ है'</strong> — यह स्वयं-विरोधी है। 'साथ' शब्द का अर्थ ही <strong>कम से कम दो</strong> का होना है। नागार्जुन दिखाते हैं कि यदि सहभाव एकत्व या पृथक्त्व मात्र पर टिका हो, तो <strong>अकेली वस्तु में भी सहभाव सिद्ध हो जाएगा</strong> — जो अर्थहीन है। इसलिए सहभाव <strong>किसी ठोस शर्त पर स्वभावतः सिद्ध नहीं</strong> है।"
+      }
+    ]
+  },
+  {
+    "sk": "पृथक्त्वे सहभावश्च यदि किं रागरक्तयोः ।\nसिद्धः पृथक्पृथग्भावः सहभावस्ततस्तयोः ॥",
+    "ro": "pṛthaktve · sahabhāvaś · ca · yadi · kiṃ · rāgaraktayoḥ | siddhaḥ · pṛthak-pṛthag-bhāvaḥ · sahabhāvas · tatas · tayoḥ ||",
+    "hi": "यदि पृथक्त्व में सहभाव हो, तो राग और रक्त अलग-अलग कैसे सिद्ध हैं? क्या उनका पृथक-पृथक अस्तित्व सिद्ध है कि उससे उनका सहभाव निकाला जा सके?",
+    "en": "If there were co-existence in difference, how could desire and the desirous be separately established? Is their separate existence established so that their co-existence could follow from it?",
+    "ws": [
+      {
+        "s": "किम्",
+        "h": "क्या / कैसे",
+        "e": "what / how (interrogative)"
+      },
+      {
+        "s": "रागरक्तयोः",
+        "h": "राग और रक्त का",
+        "e": "of desire and the desirous (genitive dual)"
+      },
+      {
+        "s": "पृथक्पृथग्भावः",
+        "h": "एक-दूसरे से अलग होने की स्थिति",
+        "e": "the state of being mutually separate"
+      },
+      {
+        "s": "ततः",
+        "h": "उस कारण से / उससे",
+        "e": "from that / therefore"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>पृथक्पृथग्भावः</em> = पृथक् + पृथक् + भाव — 'परस्पर-पृथक् होने की स्थिति,' यहाँ <em>पृथक्</em> का द्वित्व 'एक-दूसरे से' अर्थ को बल देता है। <em>ततः</em> = 'उससे / तत्पश्चात्' — तार्किक अनुक्रम सूचित करता है। <em>रागरक्तयोः</em> = षष्ठी विभक्ति, द्विवचन — 'राग और रक्त (दोनों) का।' श्लोक कहता है: पृथक्त्व में सहभाव मानने के लिए, पहले पृथक्त्व ही सिद्ध होना चाहिए — पर वह सिद्ध नहीं है।<br><em>Eng:</em> <em>pṛthak-pṛthag-bhāvaḥ</em> = mutual separateness. The verse challenges: for co-existence-in-difference, separateness must first be established — but it is not.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यदि कोई कहे कि पृथक्त्व में सहभाव होता है, तो उसे पहले यह सिद्ध करना होगा कि राग और रक्त वास्तव में अलग-अलग हैं। पर राग और रक्त कभी अलग-अलग नहीं पाए जाते — बिना राग के 'रक्त' नहीं, बिना रक्त के 'राग' नहीं। तो पृथक्त्व ही असिद्ध है, और असिद्ध आधार पर सहभाव कैसे सिद्ध होगा?",
+        "en": "Candrakīrti says if someone claims co-existence in difference, they must first prove that desire and the desirous are actually separate. But desire and the desirous are never found apart — without desire there is no desirous one, without the desirous one there is no desire. So separateness itself is unestablished, and co-existence cannot be built on an unestablished basis.",
+        "ins": "असिद्ध आधार पर कुछ भी सिद्ध नहीं किया जा सकता — यह तर्कशास्त्र का मूल नियम है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यदि राग और रक्त अलग-अलग हैं, तो प्रत्येक अपने आप में स्वतन्त्र रूप से पहचाना जा सकना चाहिए। पर हम राग को रक्त के बिना कभी अनुभव में नहीं पाते, और रक्त को राग के बिना कभी पहचान नहीं पाते। तो उनका 'अलग-अलग' होना एक कल्पना है, वास्तविकता नहीं।",
+        "en": "Buddhapālita says if desire and the desirous are separate, each should be independently identifiable. But we never experience desire without the desirous, nor identify the desirous without desire. So their separateness is an imagination, not a reality.",
+        "ins": "जो चीज़ें कभी अलग-अलग नहीं पाई जातीं, उन्हें 'अलग' कहना अनुभव-विरुद्ध है।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह तर्क 'आश्रय-दोष' (dependence fault) का उदाहरण है: सहभाव पृथक्त्व पर निर्भर है, पर पृथक्त्व स्वयं असिद्ध है। यह एक ऐसे मकान की तरह है जिसकी नींव ही नहीं है — ऊपर की मंज़िलें कितनी भी सुन्दर हों, खड़ी नहीं रह सकतीं।",
+        "en": "Bhāvaviveka says this exemplifies the dependence-fault: co-existence depends on separateness, but separateness itself is unestablished. It is like a building without a foundation — no matter how elegant the upper floors, the structure cannot stand.",
+        "ins": "जो निष्कर्ष असिद्ध आधारों पर खड़ा है, वह कितना भी तार्किक दिखे, टिक नहीं सकता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏗️ 'असिद्ध आधार' का यह दोष अन्यत्र भी लागू होता है?",
+        "a": "हाँ, नागार्जुन की पूरी विधि यही है — <strong>किसी भी सिद्धान्त के आधार को जाँचो</strong>। यदि आधार स्वयं असिद्ध है, तो उस पर बना कोई भी निष्कर्ष खोखला है। यहाँ सहभाव पृथक्त्व पर टिका है, पर पृथक्त्व स्वयं सिद्ध नहीं। यह तर्क <strong>हर जोड़ी</strong> (कर्ता-कर्म, गुण-गुणी, कारण-कार्य) पर लागू होता है, जैसा कि अध्याय के अन्तिम श्लोक में कहा जाएगा।"
+      },
+      {
+        "q": "🔗 क्या राग और रक्त कभी अलग-अलग पाए जाते हैं?",
+        "a": "व्यावहारिक अनुभव में <strong>कभी नहीं</strong>। जहाँ राग है वहाँ रक्त है, और जहाँ रक्त है वहाँ राग है। यही बात उनकी <strong>परस्पर-निर्भरता</strong> दिखाती है — वे अभिन्न नहीं हैं (क्योंकि अवधारणात्मक रूप से अलग हैं), पर पृथक भी नहीं हैं (क्योंकि अलग-अलग नहीं पाए जाते)। न एक, न भिन्न — <strong>यही मध्यम मार्ग</strong> है।"
+      }
+    ]
+  },
+  {
+    "sk": "सिद्धः पृथक्पृथग्भावो यदि वा रागरक्तयोः ।\nसहभावं किमर्थं नु परिकल्पयसे तयोः ॥",
+    "ro": "siddhaḥ · pṛthak-pṛthag-bhāvo · yadi · vā · rāgaraktayoḥ | sahabhāvaṃ · kimarthaṃ · nu · parikalpayase · tayoḥ ||",
+    "hi": "यदि राग और रक्त का पृथक-पृथक अस्तित्व सिद्ध ही नहीं है, और न ही उनकी एकता सिद्ध है, तो तुम उनके सहभाव की कल्पना किस आधार पर करते हो?",
+    "en": "If the separate existence of desire and the desirous one is not established, nor their identity, then on what basis do you imagine their co-existence?",
+    "ws": [
+      {
+        "s": "किमर्थम्",
+        "h": "किस उद्देश्य से / किस आधार पर",
+        "e": "for what purpose / on what basis"
+      },
+      {
+        "s": "नु",
+        "h": "आखिर / भला",
+        "e": "indeed / pray (emphatic particle)"
+      },
+      {
+        "s": "परिकल्पयसे",
+        "h": "कल्पना करते हो / गढ़ते हो",
+        "e": "you imagine / you fabricate"
+      },
+      {
+        "s": "तयोः",
+        "h": "उन दोनों का",
+        "e": "of those two (genitive dual)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>परिकल्पयसे</em> = परि + √कल्प् (कल्पना करना), आत्मनेपद, मध्यम पुरुष — 'तुम कल्पना करते हो।' <em>किमर्थम्</em> = किम् + अर्थम् — 'किस लिए / किस आधार पर,' यहाँ तार्किक आधार के प्रश्न के रूप में। <em>नु</em> = बल-सूचक अव्यय — 'आखिर / भला।' यह श्लोक विरोधी से सीधा प्रश्न पूछता है: जब न एकत्व सिद्ध है, न पृथक्त्व, तो 'सहभाव' की कल्पना निराधार है।<br><em>Eng:</em> <em>parikalpayase</em> = you fabricate/imagine (2nd person). The verse directly challenges the opponent: with neither identity nor difference established, imagining co-existence is groundless.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक विरोधी को सीधे सम्बोधित करता है: तुम 'सहभाव' की कल्पना करते हो, पर इसका कोई तार्किक आधार नहीं। न तो एकत्व में सहभाव सम्भव है, न पृथक्त्व में। और ये दो ही विकल्प हैं — तीसरा कोई नहीं। तो तुम्हारी 'सहभाव' की अवधारणा केवल एक कल्पना है, स्वभाव-सिद्ध तथ्य नहीं।",
+        "en": "Candrakīrti says this verse directly addresses the opponent: you imagine co-existence, but there is no logical basis for it. Co-existence is impossible in identity and in difference. These are the only two options — there is no third. So your concept of co-existence is merely a fabrication, not an inherently established fact.",
+        "ins": "'परिकल्पयसे' (you fabricate) — यह शब्द दिखाता है कि सहभाव एक मानसिक निर्माण है, वास्तविकता का प्रतिबिम्ब नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — 'किमर्थम्' (किस आधार पर) — यह प्रश्न विरोधी से आधार माँगता है। विरोधी कह नहीं सकता कि एकत्व आधार है (श्लोक 4 में खण्डित), न पृथक्त्व (श्लोक 6 में खण्डित)। तो सहभाव निराधार है — एक हवाई महल जो किसी ज़मीन पर टिका नहीं।",
+        "en": "Buddhapālita says 'kimartham' (on what basis) demands a foundation from the opponent. The opponent cannot cite identity (refuted in verse 4) or difference (refuted in verse 6). So co-existence is groundless — a castle in the air resting on no ground.",
+        "ins": "जब हर सम्भव आधार खण्डित हो चुका हो, तो निष्कर्ष को 'कल्पना' कहने के अलावा कोई विकल्प नहीं।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह स्वतन्त्र अनुमान इस प्रकार बनता है: 'सहभाव स्वभावतः सिद्ध नहीं है, क्योंकि न तो एकत्व में और न पृथक्त्व में उसका आधार है — ठीक वैसे ही जैसे शशविषाण (हरे के सींग) स्वभावतः सिद्ध नहीं, क्योंकि उनका कोई आधार नहीं।'",
+        "en": "Bhāvaviveka says the independent syllogism runs: 'Co-existence is not established by nature, because it has no basis in either identity or difference — just as a rabbit's horn is not established by nature, since it has no basis.'",
+        "ins": "स्वतन्त्र अनुमान की शक्ति यह है कि वह असिद्ध को ज्ञात असिद्ध दृष्टान्त से जोड़कर स्पष्ट कर देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏰 'परिकल्पना' (fabrication) और 'वास्तविकता' में क्या अन्तर है?",
+        "a": "नागार्जुन 'परिकल्पयसे' शब्द का प्रयोग जानबूझकर करते हैं। <strong>'परिकल्पना' का अर्थ है मन से गढ़ना</strong> — एक ऐसी अवधारणा बनाना जिसका वस्तुगत आधार नहीं है। विरोधी 'सहभाव' को एक ठोस सत्य मानता है, पर नागार्जुन दिखाते हैं कि <strong>यह एक मानसिक निर्माण है</strong> जो तार्किक जाँच में टिकता नहीं। इसका मतलब यह नहीं कि राग और रक्त का कोई सम्बन्ध नहीं — बल्कि यह कि वह सम्बन्ध <strong>स्वभाव-सिद्ध नहीं, प्रतीत्यसमुत्पन्न है</strong>।"
+      },
+      {
+        "q": "🔍 विरोधी के पास अब और कौन-से विकल्प बचे हैं?",
+        "a": "व्यावहारिक रूप से <strong>कोई विकल्प नहीं बचा</strong>। एकत्व में सहभाव नहीं (6.4), पृथक्त्व में सहभाव नहीं (6.4-6.6), एकत्व और पृथक्त्व दोनों में बिना साथी के भी सहभाव लग जाता है (6.5) — और अब यह श्लोक कहता है कि <strong>कल्पना के अलावा सहभाव का कोई आधार नहीं</strong>। अगले श्लोकों में नागार्जुन इस निष्कर्ष को और पुष्ट करेंगे और फिर <strong>सभी धर्मों पर सामान्यीकरण</strong> करेंगे।"
+      }
+    ]
+  },
+  {
+    "sk": "पृथग् न सिध्यतीत्येवं सहभावं विकाङ्क्षसि ।\nसहभावप्रसिद्ध्यर्थं पृथक्त्वं भूय इच्छसि ॥",
+    "ro": "pṛthag · na · sidhyatīty · evaṃ · sahabhāvaṃ · vikāṅkṣasi | sahabhāvaprasiddhyarthaṃ · pṛthaktvaṃ · bhūya · icchasi ||",
+    "hi": "चूँकि पृथक्त्व सिद्ध नहीं होता, इसलिए तुम सहभाव चाहते हो। और सहभाव सिद्ध करने के लिए तुम फिर से पृथक्त्व चाहते हो। यह चक्रीय तर्कदोष है।",
+    "en": "Since separateness is not established, you desire co-existence. And to establish co-existence, you again want separateness. This is a circular argument.",
+    "ws": [
+      {
+        "s": "सिध्यति",
+        "h": "सिद्ध होता है",
+        "e": "is established / is proven"
+      },
+      {
+        "s": "विकाङ्क्षसि",
+        "h": "चाहते हो / इच्छा करते हो",
+        "e": "you desire / you wish for"
+      },
+      {
+        "s": "प्रसिद्ध्यर्थम्",
+        "h": "सिद्ध करने के लिए",
+        "e": "for the purpose of establishing"
+      },
+      {
+        "s": "भूयः",
+        "h": "फिर से / पुनः",
+        "e": "again / once more"
+      },
+      {
+        "s": "इच्छसि",
+        "h": "चाहते हो",
+        "e": "you desire / you want"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>विकाङ्क्षसि</em> = वि + √काङ्क्ष् (चाहना/इच्छा करना), मध्यम पुरुष — 'तुम चाहते हो।' <em>प्रसिद्ध्यर्थम्</em> = प्रसिद्धि + अर्थम् — 'सिद्धि के लिए / स्थापित करने हेतु।' <em>भूयः</em> = 'पुनः / फिर से।' यह श्लोक <em>अन्योन्याश्रय दोष</em> (circular dependence) को उजागर करता है: पृथक्त्व को सहभाव चाहिए, और सहभाव को पृथक्त्व — दोनों एक-दूसरे पर चक्रीय रूप से निर्भर हैं, कोई भी स्वतन्त्र रूप से सिद्ध नहीं।<br><em>Eng:</em> The verse exposes <em>anyonyāśraya</em> (circular dependence): separateness needs co-existence, co-existence needs separateness — each depends on the other, and neither is independently established.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अन्योन्याश्रय (circular dependence) का क्लासिक उदाहरण है। विरोधी कहता है: 'पृथक्त्व सिद्ध नहीं, तो सहभाव से सिद्ध करूँगा।' पर सहभाव कैसे सिद्ध होगा? 'पृथक्त्व से।' तो पृथक्त्व कैसे? 'सहभाव से।' यह अनन्त चक्र है — कोई भी पहला कदम सम्भव नहीं, क्योंकि हर कदम दूसरे पर निर्भर है।",
+        "en": "Candrakīrti says this is a classic case of circular dependence. The opponent says: 'Separateness is not established, so I will establish it through co-existence.' But how is co-existence established? 'Through separateness.' And separateness? 'Through co-existence.' This is an infinite loop — no first step is possible because each step depends on the other.",
+        "ins": "जब A को B से सिद्ध करना हो और B को A से, तो दोनों हवा में लटक जाते हैं — कोई ज़मीन पर नहीं टिकता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत सीधा है: तुम 'इसलिए' कहकर जिस निष्कर्ष पर पहुँचते हो, वही निष्कर्ष तुम्हारे 'इसलिए' का आधार भी है। यह वैसा ही है जैसे कहना 'वह सच है क्योंकि मैं कहता हूँ, और मैं इसलिए कहता हूँ क्योंकि वह सच है।'",
+        "en": "Buddhapālita says the argument is straightforward: the conclusion you arrive at through 'therefore' is the very basis of your 'therefore.' It is like saying 'it is true because I say so, and I say so because it is true.'",
+        "ins": "चक्रीय तर्क की पहचान है: निष्कर्ष और आधार एक-दूसरे की भूमिका बदलते रहते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह अन्योन्याश्रय दोष परमार्थतः सिद्ध करता है कि न पृथक्त्व स्वतन्त्र है, न सहभाव — दोनों स्वभावतः असिद्ध हैं। व्यावहारिक स्तर पर हम 'अलग' और 'साथ' शब्दों का प्रयोग करते हैं, पर इनमें कोई परमार्थ सत्ता नहीं — ये केवल व्यावहारिक उपाधियाँ हैं।",
+        "en": "Bhāvaviveka says this circular dependence ultimately proves that neither separateness nor co-existence is independent — both are inherently unestablished. At the conventional level we use 'separate' and 'together,' but these carry no ultimate reality — they are merely conventional designations.",
+        "ins": "चक्रीय निर्भरता स्वभाव-सिद्धि का सबसे स्पष्ट निषेध है — जो एक-दूसरे पर निर्भर हैं, वे स्वतन्त्र कैसे?"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 यह चक्रीय तर्क 'मुर्गी-अंडे' की पहेली जैसा है?",
+        "a": "बिलकुल, पर इसमें एक गहरा दार्शनिक बिन्दु है। 'मुर्गी-अंडे' की पहेली में हम पूछते हैं <strong>'कौन पहले आया?'</strong> — नागार्जुन वही प्रश्न सहभाव और पृथक्त्व पर लागू करते हैं। पृथक्त्व को सहभाव चाहिए (भिन्न होने के लिए दोनों का 'होना' ज़रूरी है), और सहभाव को पृथक्त्व चाहिए (साथ होने के लिए दो का 'अलग-अलग' होना ज़रूरी है)। <strong>दोनों एक-दूसरे को जन्म देते हैं और कोई भी स्वतन्त्र रूप से पहले नहीं</strong> — यही प्रतीत्यसमुत्पाद का सजीव उदाहरण है।"
+      },
+      {
+        "q": "💡 इस चक्र से बाहर निकलने का रास्ता क्या है?",
+        "a": "नागार्जुन का उत्तर यह है कि <strong>बाहर निकलने की ज़रूरत नहीं — बल्कि यह समझने की ज़रूरत है कि 'स्वतन्त्र आधार' खोजना ही गलत प्रश्न है</strong>। सहभाव और पृथक्त्व <strong>स्वभाव-सिद्ध नहीं हैं — वे प्रतीत्यसमुत्पन्न हैं</strong>। उन्हें 'ठोस, स्वतन्त्र सत्ताएँ' मानने से चक्र बनता है; उन्हें <strong>परस्पर-निर्भर, शून्य अवधारणाएँ</strong> मानने से चक्र विलीन हो जाता है।"
+      }
+    ]
+  },
+  {
+    "sk": "एवं रक्तेन रागस्य सिद्धिर्न सह नासह ।\nरागवत् सर्वधर्माणां सिद्धिर्न सह नासह ॥",
+    "ro": "evaṃ · raktena · rāgasya · siddhir · na · saha · nāsaha | rāgavat · sarvadharmāṇāṃ · siddhir · na · saha · nāsaha ||",
+    "hi": "इस प्रकार राग की सिद्धि रक्त के साथ भी नहीं होती और रक्त के बिना भी नहीं। राग के समान ही सभी धर्मों की सिद्धि न साथ होती है, न बिना साथ के।",
+    "en": "Thus desire is not established either with or without the desirous one. Like desire, all phenomena are established neither with nor without anything else.",
+    "ws": [
+      {
+        "s": "एवम्",
+        "h": "इस प्रकार",
+        "e": "thus / in this way"
+      },
+      {
+        "s": "रक्तेन",
+        "h": "रक्त अर्थात् अनुरागी के साथ / द्वारा",
+        "e": "with the desirous one (instrumental)"
+      },
+      {
+        "s": "सिद्धिः",
+        "h": "स्थापना / प्रमाणन",
+        "e": "establishment / proof"
+      },
+      {
+        "s": "सह",
+        "h": "साथ / सहित",
+        "e": "with / together"
+      },
+      {
+        "s": "न असह",
+        "h": "और न बिना साथ के",
+        "e": "nor without"
+      },
+      {
+        "s": "रागवत्",
+        "h": "राग के समान",
+        "e": "like desire"
+      },
+      {
+        "s": "सर्वधर्माणाम्",
+        "h": "सभी धर्मों (तत्त्वों) का",
+        "e": "of all phenomena / dharmas"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सिद्धिः</em> = √सिध् (सिद्ध होना), स्त्रीलिंग — 'सिद्धि / स्थापना।' <em>रागवत्</em> = राग + वत् (उपमावाचक प्रत्यय) — 'राग के समान।' <em>सर्वधर्माणाम्</em> = सर्व + धर्म, षष्ठी बहुवचन — 'सभी धर्मों (तत्त्वों) का।' यह श्लोक निष्कर्ष और सामान्यीकरण दोनों करता है — राग-रक्त का विश्लेषण सभी परस्पर-निर्भर तत्त्वों पर लागू होता है।<br><em>Eng:</em> <em>rāgavat</em> = like desire (comparative suffix -vat). <em>sarvadharmāṇām</em> = of all dharmas (gen. pl.). This verse both concludes and generalizes — the rāga-rakta analysis applies to all mutually dependent phenomena.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — 'एवम्' शब्द पूरे अध्याय के तर्क का निष्कर्ष सूचित करता है। राग न रक्त के साथ सिद्ध है, न बिना — दोनों विकल्प खण्डित हो चुके हैं। और 'रागवत्' शब्द इसे सामान्यीकृत करता है: यही विश्लेषण सभी धर्मों पर लागू होता है। कोई भी धर्म किसी अन्य के साथ या बिना स्वभावतः सिद्ध नहीं — यही शून्यता का सार्वभौम सिद्धान्त है।",
+        "en": "Candrakīrti says 'evaṃ' signals the conclusion of the entire chapter's argument. Desire is established neither with nor without the desirous — both options have been refuted. And 'rāgavat' generalizes this: the same analysis applies to all dharmas. No dharma is inherently established with or without another — this is the universal principle of emptiness.",
+        "ins": "जो बात एक विशेष उदाहरण (राग-रक्त) में सिद्ध होती है, वह 'रागवत्' शब्द से सभी तत्त्वों पर लागू हो जाती है — यही नागार्जुन की विधि की शक्ति है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — 'न सह, न असह' — यह चतुष्कोटि (tetralemma) का आंशिक प्रयोग है। राग-रक्त का सम्बन्ध न 'साथ' है, न 'बिना' — क्योंकि दोनों स्वभावतः सिद्ध करने के प्रयास विफल हो चुके हैं। यही बात सभी धर्मों पर लागू है — कोई भी तत्त्व किसी अन्य के सापेक्ष स्वभावतः स्थापित नहीं।",
+        "en": "Buddhapālita says 'na saha, nāsaha' is a partial application of the tetralemma. The relation between desire and the desirous is neither 'with' nor 'without' — because all attempts to establish either inherently have failed. The same applies to all dharmas — no phenomenon is inherently established in relation to another.",
+        "ins": "'न साथ, न बिना' — यह सरल वाक्य पूरे अध्याय के सभी तर्कों का सार है।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह सामान्यीकरण महत्वपूर्ण है: नागार्जुन राग-रक्त को एक उदाहरण के रूप में प्रयोग करते हैं, पर असली निष्कर्ष सभी धर्मों पर लागू है। परमार्थतः कोई भी धर्म किसी अन्य के साथ या बिना स्वभावतः सिद्ध नहीं — यह व्यापक शून्यता है। व्यावहारिक स्तर पर सम्बन्ध कार्य करते रहते हैं, पर वे स्वभाव-सिद्ध नहीं हैं।",
+        "en": "Bhāvaviveka says this generalization is crucial: Nāgārjuna uses desire-desirous as an example, but the real conclusion applies to all dharmas. Ultimately, no dharma is inherently established with or without another — this is universal emptiness. At the conventional level, relations continue to function, but they are not established by nature.",
+        "ins": "विशेष उदाहरण से सामान्य सिद्धान्त तक जाना — यही दार्शनिक विश्लेषण की शक्ति है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌍 'सर्वधर्माणाम्' — यह सामान्यीकरण कितना व्यापक है?",
+        "a": "यह <strong>पूर्णतः सार्वभौम</strong> है। 'सर्वधर्माणाम्' का अर्थ है <strong>'सभी तत्त्वों का / सभी अस्तित्वों का'</strong> — कोई अपवाद नहीं। जो तर्क राग और रक्त पर लागू होता है, वही <strong>कर्ता और कर्म, कारण और कार्य, आत्मा और शरीर, ज्ञाता और ज्ञेय</strong> — हर जोड़ी पर लागू होता है। कोई भी तत्त्व किसी अन्य के 'साथ' या 'बिना' स्वभावतः सिद्ध नहीं है। यही <strong>शून्यता का व्यापक सिद्धान्त</strong> है।"
+      },
+      {
+        "q": "🧘 अगर कुछ भी स्वभावतः सिद्ध नहीं, तो क्या सब कुछ माया है?",
+        "a": "नहीं — यही सबसे बड़ी गलतफ़हमी है। <strong>शून्यता का अर्थ 'कुछ नहीं' नहीं है</strong>। इसका अर्थ है कि चीज़ें <strong>स्वतन्त्र, ठोस, स्वयंभू तरीके से मौजूद नहीं हैं</strong> — वे परस्पर-निर्भरता से मौजूद हैं। राग है, रक्त है, उनका सम्बन्ध है — पर यह सब <strong>प्रतीत्यसमुत्पन्न</strong> है, 'ठोस, अटल, स्वभाव-सिद्ध' नहीं। यही समझ <strong>आसक्ति (attachment) को कम करती है</strong> — क्योंकि हम देख लेते हैं कि जिस चीज़ से हम चिपके हैं, वह इतनी 'ठोस' नहीं जितनी हम मानते थे।"
+      }
+    ]
+  },
+  {
+    "sk": "यथा रागश्च रक्तश्च गुणगुण्यादिकं तथा ।\nकर्तृकर्माधाराधेयमवशेषं च दृश्यताम् ॥",
+    "ro": "yathā · rāgaś · ca · raktaś · ca · guṇaguṇyādikam · tathā | kartṛkarmādhārādheyam · avaśeṣaṃ · ca · dṛśyatām ||",
+    "hi": "जिस प्रकार राग और रक्त का विश्लेषण हुआ, उसी प्रकार गुण और गुणी, कर्ता और कर्म, आधार और आधेय, तथा शेष सभी जोड़ों को भी देखना चाहिए।",
+    "en": "Just as desire and the desirous have been examined, so too should quality and the qualified, agent and action, container and contained, and all remaining pairs be viewed.",
+    "ws": [
+      {
+        "s": "यथा...तथा",
+        "h": "जिस प्रकार...उसी प्रकार",
+        "e": "just as... so too"
+      },
+      {
+        "s": "गुणगुणी",
+        "h": "गुण और गुणवान",
+        "e": "quality and the qualified"
+      },
+      {
+        "s": "आदिकम्",
+        "h": "आदि / इत्यादि",
+        "e": "and so forth / beginning with"
+      },
+      {
+        "s": "कर्तृकर्म",
+        "h": "कर्ता और कर्म",
+        "e": "agent and action"
+      },
+      {
+        "s": "आधाराधेयम्",
+        "h": "आधार और आधेय",
+        "e": "container and contained / support and supported"
+      },
+      {
+        "s": "अवशेषम्",
+        "h": "शेष सभी / बाकी सब",
+        "e": "the remainder / all the rest"
+      },
+      {
+        "s": "दृश्यताम्",
+        "h": "देखा जाए / परीक्षित किया जाए",
+        "e": "should be viewed / should be examined"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गुणगुण्यादिकम्</em> = गुण + गुणिन् + आदिक, नपुंसक — 'गुण-गुणी आदि का समूह।' <em>कर्तृकर्म</em> = कर्तृ (कर्ता) + कर्म (कर्म/क्रिया), द्वन्द्व समास। <em>आधाराधेयम्</em> = आधार + आधेय, द्वन्द्व — 'आश्रय और आश्रित / पात्र और विषयवस्तु।' <em>दृश्यताम्</em> = √दृश् (देखना), कर्मवाच्य विधिलिङ् — 'देखा जाए / जाँचा जाए।' यह समापन-श्लोक राग-रक्त के विश्लेषण को समस्त द्वन्द्वों पर सामान्यीकृत करता है।<br><em>Eng:</em> <em>guṇaguṇy-ādikam</em> = quality-qualified etc. <em>kartṛ-karma</em> = agent-action (dvandva). <em>ādhāra-ādheyam</em> = support-supported. <em>dṛśyatām</em> = should be examined (passive optative). This closing verse generalizes the rāga-rakta analysis to all relational pairs.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह समापन-श्लोक राग-रक्त को एक प्रतिनिधि उदाहरण बनाकर उसके विश्लेषण को सार्वभौम बनाता है। गुण और गुणी का सम्बन्ध वही है — गुण बिना गुणी के नहीं, गुणी बिना गुण के नहीं। कर्ता और कर्म भी ऐसे ही हैं — बिना क्रिया के कर्ता कौन? आधार और आधेय भी — पात्र बिना विषयवस्तु के केवल खाली आकृति है। सभी द्वन्द्व शून्य हैं, सभी प्रतीत्यसमुत्पन्न हैं।",
+        "en": "Candrakīrti says this concluding verse makes desire-desirous a representative example and universalizes its analysis. Quality and qualified share the same relation — quality without the qualified is nothing, the qualified without quality is unnamed. Agent and action likewise — who is an agent without action? Container and contained too — a vessel without content is an empty shape. All pairs are empty, all are dependently arisen.",
+        "ins": "एक उदाहरण की गहरी जाँच सैकड़ों उदाहरणों पर लागू हो सकती है — यही दार्शनिक विश्लेषण की मितव्ययिता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — 'दृश्यताम्' (देखा जाए) — यह आमन्त्रण है कि पाठक स्वयं इस विश्लेषण को अन्य द्वन्द्वों पर लागू करें। नागार्जुन ने विधि दिखा दी है; अब पाठक इसे कर्ता-कर्म, कारण-कार्य, आत्मा-शरीर — किसी भी जोड़ी पर प्रयुक्त कर सकता है और वही निष्कर्ष पाएगा: कोई भी पक्ष स्वभावतः सिद्ध नहीं।",
+        "en": "Buddhapālita says 'dṛśyatām' (should be examined) is an invitation for the reader to apply this analysis to other pairs themselves. Nāgārjuna has shown the method; the reader can now apply it to agent-action, cause-effect, self-body — any pair — and will reach the same conclusion: neither side is established by nature.",
+        "ins": "नागार्जुन विधि सिखाते हैं, निष्कर्ष थोपते नहीं — 'दृश्यताम्' कहकर वे पाठक को स्वयं देखने का आमन्त्रण देते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भावविवेक कहते हैं — यह श्लोक स्पष्ट करता है कि अध्याय का लक्ष्य केवल राग-रक्त का खण्डन नहीं, बल्कि एक सार्वभौम तार्किक विधि का प्रदर्शन है। यह विधि — एकत्व-पृथक्त्व परीक्षा, सहभाव-असहभाव परीक्षा — किसी भी परस्पर-निर्भर जोड़ी पर लागू होती है। इससे परमार्थ शून्यता सिद्ध होती है, जबकि व्यवहार में सम्बन्ध यथावत् कार्य करते रहते हैं।",
+        "en": "Bhāvaviveka says this verse clarifies that the chapter's goal is not merely to refute desire-desirous, but to demonstrate a universal logical method. This method — examining identity-difference, co-existence-non-co-existence — applies to any mutually dependent pair. It proves ultimate emptiness while conventional relations continue to function as before.",
+        "ins": "अध्याय का मूल्य उदाहरण में नहीं, विधि में है — और विधि सार्वभौम है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "📐 गुण-गुणी, कर्ता-कर्म, आधार-आधेय — ये सब एक जैसे कैसे हैं?",
+        "a": "ये सब <strong>परस्पर-निर्भर जोड़ियाँ</strong> हैं, ठीक राग-रक्त जैसी। <strong>गुण</strong> (जैसे लालिमा) बिना <strong>गुणी</strong> (जैसे फूल) के कहाँ टिकेगा? और गुणी बिना गुण के कैसे पहचाना जाएगा? <strong>कर्ता</strong> (जैसे रसोइया) बिना <strong>कर्म</strong> (पकाना) के कर्ता नहीं, और कर्म बिना कर्ता के निराश्रय है। <strong>आधार</strong> (घड़ा) बिना <strong>आधेय</strong> (पानी) के केवल आकृति है। हर जोड़ी में <strong>न एकत्व है, न पूर्ण पृथक्त्व</strong> — और न सहभाव स्वभावतः सिद्ध है, न असहभाव।"
+      },
+      {
+        "q": "🎯 इस पूरे अध्याय का सार एक वाक्य में क्या है?",
+        "a": "सार यह है: <strong>कोई भी परस्पर-सम्बद्ध तत्त्व — चाहे राग और रक्त हों, या कोई भी अन्य जोड़ी — न तो एक है, न भिन्न, न साथ सिद्ध है, न बिना साथ के</strong>। सभी तत्त्व <strong>स्वभाव-शून्य और प्रतीत्यसमुत्पन्न</strong> हैं। यह न शाश्वतवाद है (कि चीज़ें ठोस, अटल हैं), न उच्छेदवाद (कि कुछ है ही नहीं) — यह <strong>मध्यम मार्ग</strong> है, जहाँ शून्यता और प्रतीत्यसमुत्पाद एक ही सत्य के दो पहलू हैं।"
+      }
+    ]
+  }
+]
