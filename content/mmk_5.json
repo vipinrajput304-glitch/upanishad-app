@@ -1,0 +1,366 @@
+[
+  {
+    "sk": "नाकाशं विद्यते किञ्चित् पूर्वमाकाशलक्षणात् ।\nअलक्षणं प्रसज्येत स्यात् पूर्वं यदि लक्षणात् ॥",
+    "ro": "nākāśaṃ · vidyate · kiñcit · pūrvam · ākāśalakṣaṇāt | alakṣaṇaṃ · prasajyeta · syāt · pūrvaṃ · yadi · lakṣaṇāt ||",
+    "hi": "आकाश के लक्षण से पहले लेशमात्र भी आकाश नहीं पाया जाता। यदि वह लक्षण से पहले होता तो उसे लक्षणरहित मानना पड़ता।",
+    "en": "Prior to the characteristic of space, not even the slightest space is found. If it existed prior to its characteristic, it would follow that it is without any characteristic.",
+    "ws": [
+      { "s": "आकाशम्", "h": "आकाश / गगन", "e": "space / sky / ether" },
+      { "s": "लक्षणम्", "h": "लक्षण / पहचान चिह्न", "e": "characteristic / defining mark" },
+      { "s": "पूर्वम्", "h": "पहले", "e": "prior to / before" },
+      { "s": "अलक्षणम्", "h": "लक्षणरहित", "e": "without a characteristic" },
+      { "s": "प्रसज्येत", "h": "अनिष्ट परिणाम निकलता", "e": "it would absurdly follow" },
+      { "s": "विद्यते", "h": "पाया जाता है", "e": "is found / exists" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>नाकाशम्</em> = न + आकाशम् (सन्धि), 'आकाश नहीं।' <em>विद्यते</em> = √विद् (पाना), आत्मनेपद लट्, प्रथम पुरुष एकवचन — 'पाया जाता है।' <em>प्रसज्येत</em> = प्र + √सञ्ज् (चिपकना), विधिलिङ् — 'अनिष्ट प्रसंग आ जाएगा' — प्रसंगापादन (reductio) का संकेत। <em>आकाशलक्षणात्</em> पञ्चमी तत्पुरुष — 'आकाश के लक्षण से (पूर्व)।'<br><em>Eng:</em> <em>prasajyeta</em> (optative of pra-√sañj) signals a prasaṅga — an unwanted consequence drawn from the opponent's position. <em>ākāśalakṣaṇāt</em> is an ablative tatpuruṣa: 'prior to the characteristic of space.'",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — यहाँ आकाश को छह धातुओं के प्रतिनिधि के रूप में लिया गया है। प्रश्न यह है: क्या आकाश अपने लक्षण से पहले मौजूद है? यदि हाँ, तो बिना लक्षण के वह पहचाना कैसे जाएगा? यह प्रसंग दिखाता है कि वस्तु और उसका लक्षण परस्पर-निर्भर हैं — कोई भी दूसरे से पहले स्वतन्त्र रूप से सिद्ध नहीं होता।",
+        "en": "Candrakīrti says space is taken here as representative of all six elements. The question is: does space exist before its defining characteristic? If yes, then it would be without any mark — how would we identify it? This prasaṅga shows that a thing and its characteristic are mutually dependent — neither is independently established prior to the other.",
+        "ins": "किसी भी वस्तु की पहचान उसके लक्षण से होती है — लक्षण से पहले वस्तु मानना अर्थहीन है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — तर्क सीधा है। आकाश को हम 'अनावरण' अर्थात् बाधारहितता से पहचानते हैं — यही उसका लक्षण है। अगर आकाश इस लक्षण से पहले था, तो वह किस रूप में था? बिना किसी पहचान की वस्तु कहीं नहीं मिलती। इसलिए आकाश अपने लक्षण से पहले नहीं हो सकता।",
+        "en": "Buddhapālita says the reasoning is straightforward. We recognize space by its characteristic of non-obstruction. If space existed before this characteristic, what would it be? A thing without any identifying mark is found nowhere. Therefore space cannot precede its own characteristic.",
+        "ins": "जिसे पहचानने का कोई साधन ही न हो, उसका अस्तित्व मानना निराधार है।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — इसे स्वतन्त्र अनुमान के रूप में भी रखा जा सकता है: 'आकाश परमार्थतः सिद्ध नहीं है, क्योंकि यह अपने लक्षण से पूर्व स्थापित नहीं होता।' सांवृतिक स्तर पर आकाश अवश्य प्रतीत होता है, किन्तु परमार्थ विश्लेषण में लक्षण और लक्ष्य की परस्पर-निर्भरता स्वभावसिद्ध अस्तित्व को नकारती है।",
+        "en": "Bhāvaviveka says this can also be formulated as an independent syllogism: 'Space is not ultimately established, because it cannot be established prior to its characteristic.' Conventionally space does appear, but under ultimate analysis the mutual dependence of characteristic and characterized negates any inherently established existence.",
+        "ins": "आकाश व्यवहार में दिखता है, पर उसे 'अपने आप में ठोस' मानने पर विश्लेषण टूट जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌌 आकाश को ही क्यों चुना गया — अन्य तत्त्वों को भी ले सकते थे?",
+        "a": "आकाश सबसे सूक्ष्म और निराकार तत्त्व है — यदि इतनी सूक्ष्म वस्तु भी अपने लक्षण से पहले स्वतन्त्र रूप से सिद्ध नहीं होती, तो <strong>पृथ्वी, जल, अग्नि, वायु और विज्ञान</strong> जैसे स्थूल तत्त्व कैसे सिद्ध होंगे? आकाश यहाँ <strong>प्रतिनिधि उदाहरण</strong> है — यदि सबसे सूक्ष्म तत्त्व भी शून्य है, तो शेष सब अपने-आप शून्य सिद्ध होते हैं।"
+      },
+      {
+        "q": "🔑 'लक्षण' और 'लक्ष्य' में क्या अन्तर है?",
+        "a": "<strong>लक्षण</strong> वह गुण या चिह्न है जो किसी वस्तु को परिभाषित करता है — जैसे 'अनावरण' (बाधारहितता) आकाश का लक्षण है। <strong>लक्ष्य</strong> वह वस्तु है जिसे लक्षण परिभाषित करता है — यहाँ आकाश ही लक्ष्य है। नागार्जुन दिखा रहे हैं कि ये दोनों <strong>परस्पर-निर्भर</strong> हैं: लक्षण के बिना लक्ष्य नहीं, लक्ष्य के बिना लक्षण नहीं — कोई भी पहले नहीं।"
+      }
+    ]
+  },
+  {
+    "sk": "अलक्षणो न कश्चिच्च भावः संविद्यते क्वचित् ।\nअसत्यलक्षणे भावे लक्षणस्यास्ति का गतिः ॥",
+    "ro": "alakṣaṇo · na · kaścicca · bhāvaḥ · saṃvidyate · kvacit | asaty · alakṣaṇe · bhāve · lakṣaṇasyāsti · kā · gatiḥ ||",
+    "hi": "लक्षणरहित कोई भी वस्तु कहीं भी नहीं पाई जाती। जब लक्षणरहित वस्तु ही नहीं है, तो लक्षण किस पर लागू होगा?",
+    "en": "A thing without any characteristic is found nowhere at all. When no characteristicless thing exists, to what would a characteristic apply?",
+    "ws": [
+      { "s": "अलक्षणः", "h": "लक्षणरहित", "e": "without a characteristic" },
+      { "s": "भावः", "h": "वस्तु / पदार्थ", "e": "thing / entity" },
+      { "s": "संविद्यते", "h": "पाया जाता है", "e": "is found / exists" },
+      { "s": "क्वचित्", "h": "कहीं भी", "e": "anywhere" },
+      { "s": "गतिः", "h": "गति / प्रयोजन / उपयोग", "e": "scope / application / recourse" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अलक्षणः</em> = नञ्-तत्पुरुष (अ + लक्षण), 'लक्षणरहित।' <em>संविद्यते</em> = सम् + √विद्, आत्मनेपद, लट् — 'मिलता / पाया जाता है।' <em>कश्चित्</em> = कः + चित्, 'कोई भी।' <em>का गतिः</em> — मुहावरा — 'किस ओर जाए / क्या प्रयोजन है।' <em>असति</em> = √अस् का सतीसप्तमी (locative absolute) — 'जब ... नहीं है।'<br><em>Eng:</em> <em>saṃvidyate</em> = sam + √vid (ātmanepada, 'is found'). <em>kā gatiḥ</em> is idiomatic: 'what is the scope/recourse of?' <em>asati</em> is a locative absolute: 'when ... does not exist.'",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — पिछले श्लोक ने दिखाया कि वस्तु लक्षण से पहले नहीं हो सकती। अब दूसरा पक्ष देखें: यदि कोई ऐसी वस्तु ही नहीं जिसमें लक्षण न हो, तो लक्षण लागू किस पर होगा? लक्षण को किसी लक्ष्य की आवश्यकता है, लेकिन बिना लक्षण के कोई लक्ष्य ही नहीं बनता। यह दोनों ओर से जाल बुनता है — न पहले, न बाद में, लक्षण-लक्ष्य का सम्बन्ध स्वभावतः सिद्ध नहीं होता।",
+        "en": "Candrakīrti says the previous verse showed a thing cannot exist before its characteristic. Now the other direction: if no characteristicless thing exists anywhere, to what does a characteristic apply? A characteristic needs a subject, but without a characteristic there is no subject. This creates a prasaṅga from both sides — the characteristic-characterized relation is not inherently established.",
+        "ins": "लक्षण को लागू होने के लिए कुछ चाहिए, पर वह 'कुछ' बिना लक्षण के पहचाना ही नहीं जा सकता — यह चक्रव्यूह है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह तर्क सरल है: हम जानते हैं कि बिना किसी पहचान के कोई वस्तु नहीं होती। तो जब ऐसी कोई वस्तु है ही नहीं जिसमें लक्षण न हो, तो लक्षण किसे परिभाषित करेगा? लक्षण का काम ही है किसी वस्तु को पहचानना — पर पहचानने योग्य वस्तु पहले से लक्षण की माँग करती है।",
+        "en": "Buddhapālita says the argument is simple: no thing exists without some identifying mark. So when there is no characteristicless thing, what would a characteristic define? The function of a characteristic is to identify a thing, but the identifiable thing already demands a characteristic for its own existence.",
+        "ins": "मुर्गी-अण्डे की समस्या: लक्षण वस्तु को बनाता है, पर वस्तु ही नहीं तो लक्षण किसका?"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — व्यावहारिक दृष्टि से हम कहते हैं 'आकाश अनावरण है' — लक्षण और लक्ष्य साथ-साथ प्रतीत होते हैं। पर परमार्थ दृष्टि से जब पूछें 'लक्षण पहले है या लक्ष्य?' — तो दोनों में से कोई भी पहले सिद्ध नहीं होता। यह स्वभाव-शून्यता का प्रमाण है, व्यवहार का खण्डन नहीं।",
+        "en": "Bhāvaviveka says conventionally we say 'space is unobstructed' — characteristic and characterized appear together. But when we ask at the ultimate level which comes first, neither is independently established. This proves emptiness of inherent nature, not a refutation of everyday usage.",
+        "ins": "परमार्थ दृष्टि से 'पहले कौन?' का प्रश्न ही विखण्डित हो जाता है — दोनों सह-आश्रित हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪞 क्या यह तर्क केवल आकाश पर लागू होता है?",
+        "a": "नहीं। नागार्जुन आकाश को केवल <strong>उदाहरण</strong> के रूप में लेते हैं। यही तर्क हर वस्तु पर लागू होता है: <strong>कोई भी वस्तु अपने लक्षण से अलग, स्वतन्त्र रूप से सिद्ध नहीं होती।</strong> एक मेज़ को 'चपटी सतह' से पहचानते हैं — पर 'चपटी सतह' के बिना 'मेज़' क्या है? और 'मेज़' के बिना 'चपटी सतह' किसकी है? यह <strong>परस्पर-निर्भरता</strong> ही शून्यता है।"
+      },
+      {
+        "q": "🤔 'गति' शब्द का यहाँ क्या विशेष अर्थ है?",
+        "a": "'<strong>गति</strong>' का शाब्दिक अर्थ है 'जाना' या 'दिशा', पर यहाँ इसका प्रयोग 'प्रयोजन' या 'उपयोग' के अर्थ में है — 'लक्षण की गति' का मतलब है 'लक्षण कहाँ लागू होगा, किस पर काम करेगा?' यह <strong>भारतीय दार्शनिक शैली का एक आम मुहावरा</strong> है जो पूछता है कि किसी अवधारणा का व्यावहारिक क्षेत्र क्या है।"
+      }
+    ]
+  },
+  {
+    "sk": "सलक्षणेऽलक्षणे च लक्षणस्य न संभवः ।\nसलक्षणालक्षणाभ्यामन्यत्रापि न संभवः ॥",
+    "ro": "salakṣaṇe · 'lakṣaṇe · ca · lakṣaṇasya · na · saṃbhavaḥ | salakṣaṇālakṣaṇābhyām · anyatrāpi · na · saṃbhavaḥ ||",
+    "hi": "लक्षणयुक्त वस्तु में भी लक्षण की सम्भावना नहीं है, और लक्षणरहित वस्तु में भी नहीं। इन दोनों से भिन्न किसी तीसरे में भी लक्षण सम्भव नहीं है।",
+    "en": "A characteristic cannot arise in something that already has a characteristic, nor in something without a characteristic. It cannot arise in anything other than these two either.",
+    "ws": [
+      { "s": "सलक्षणे", "h": "लक्षणसहित वस्तु में", "e": "in what has a characteristic" },
+      { "s": "अलक्षणे", "h": "लक्षणरहित वस्तु में", "e": "in what lacks a characteristic" },
+      { "s": "संभवः", "h": "उत्पत्ति / सम्भावना", "e": "arising / possibility" },
+      { "s": "अन्यत्र", "h": "अन्य स्थान में / किसी और में", "e": "elsewhere / in something other" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सलक्षणे</em> = स (सहित) + लक्षण, सप्तमी — 'लक्षणसहित वस्तु में।' <em>अलक्षणे</em> = अ + लक्षण, सप्तमी — 'लक्षणरहित वस्तु में।' <em>संभवः</em> = सम् + √भू, पुँल्लिंग — 'उत्पत्ति / सम्भावना।' <em>सलक्षणालक्षणाभ्याम्</em> = द्वन्द्व समास, तृतीया/पञ्चमी द्विवचन — 'लक्षणयुक्त और लक्षणरहित दोनों से।' यह तर्क तीनों सम्भावनाओं को नकारता है — लक्षण न लक्ष्य में टिकता है, न उसके अभाव में, न किसी तीसरे में।<br><em>Eng:</em> <em>salakṣaṇa / alakṣaṇa</em> form a privative pair. The dual compound <em>salakṣaṇālakṣaṇābhyām</em> exhausts all possible subjects, and <em>anyatra</em> blocks any third option — a complete logical partition.",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — यह तीन विकल्पों का निषेध है। पहला: यदि वस्तु में पहले से लक्षण है, तो दूसरा लक्षण लागू करने का क्या प्रयोजन? दूसरा: यदि वस्तु में लक्षण नहीं है, तो लक्षण किसे परिभाषित करेगा — अर्थात् आधार ही नहीं है। तीसरा: कोई तीसरी श्रेणी जो न लक्षणयुक्त हो न लक्षणरहित — ऐसी कोई वस्तु तार्किक रूप से सम्भव ही नहीं है। इस प्रकार लक्षण की प्रवृत्ति पूर्णतः असम्भव सिद्ध होती है।",
+        "en": "Candrakīrti says this is a three-pronged negation. First: if a thing already has a characteristic, applying another is redundant. Second: if a thing lacks a characteristic, there is no basis for a characteristic to define. Third: a thing that is neither characterized nor uncharacterized is logically impossible. Thus the application of a characteristic is thoroughly refuted.",
+        "ins": "तीन विकल्प, तीन निषेध — लक्षण के लिए कोई जगह नहीं बचती।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — पहला पक्ष: जो पहले से पहचाना हुआ है, उसे दोबारा पहचानने की ज़रूरत नहीं। दूसरा पक्ष: जो बिल्कुल अपरिचित है, उसे पहचानेगा कैसे? और तीसरा विकल्प — न इधर न उधर — तो अस्तित्व में ही नहीं है। इस प्रकार लक्षण अपना आधार कहीं नहीं पाता।",
+        "en": "Buddhapālita says — first: what is already identified needs no further identification. Second: what is completely unknown has no basis to be identified. Third: something neither identified nor unidentified simply does not exist. Thus a characteristic finds no ground anywhere.",
+        "ins": "लक्षण का काम पहचानना है — पर पहचाना हुआ फिर से पहचानने की माँग नहीं करता, और अपरिचित को पहचानने का कोई आधार नहीं।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — यह तर्क स्वतन्त्र अनुमान में ढाला जा सकता है: 'लक्षण परमार्थतः किसी भी आधार पर नहीं टिकता, क्योंकि सलक्षण, अलक्षण और इनसे भिन्न — तीनों में संभव नहीं।' व्यवहार में लक्षण और लक्ष्य एक साथ काम करते हैं, पर परमार्थतः दोनों स्वभावसिद्ध नहीं हैं।",
+        "en": "Bhāvaviveka says this can be cast as an independent syllogism: 'A characteristic ultimately has no basis, because it is impossible in the characterized, in the uncharacterized, and in anything else.' Conventionally characteristic and characterized function together, but ultimately neither is inherently established.",
+        "ins": "तीन विकल्पों का परमार्थ स्तर पर निषेध — पर व्यवहार में लक्षण और लक्ष्य की जोड़ी काम करती रहती है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 यह तर्क 'तीसरे विकल्प' को क्यों नकारता है?",
+        "a": "नागार्जुन यहाँ तर्क की <strong>पूर्ण विभाजन</strong> (complete partition) पद्धति अपनाते हैं। कोई भी वस्तु या तो लक्षणयुक्त है या लक्षणरहित — ये दो ही तार्किक सम्भावनाएँ हैं। 'न लक्षणयुक्त, न लक्षणरहित' कोई तीसरी श्रेणी <strong>तार्किक रूप से अस्तित्वहीन</strong> है — यह विधि-निषेध (excluded middle) का सिद्धान्त है। इसलिए जब दोनों विकल्प गिर जाएँ, तो कहीं भी लक्षण सम्भव नहीं।"
+      },
+      {
+        "q": "⚖️ यह तर्क आधुनिक दर्शन में कहाँ दिखता है?",
+        "a": "यह <strong>Bradley's regress</strong> से मिलता है। ब्रिटिश दार्शनिक F.H. Bradley ने पूछा: यदि कोई गुण किसी वस्तु से सम्बन्धित है, तो उस <strong>सम्बन्ध को भी किसी सम्बन्ध की ज़रूरत</strong> है — और यह अनन्त श्रृंखला बन जाती है। नागार्जुन भी यही दिखा रहे हैं: लक्षण और लक्ष्य का सम्बन्ध <strong>स्वतन्त्र रूप से स्थापित नहीं हो सकता</strong> — दोनों परस्पर-निर्भर हैं।"
+      }
+    ]
+  },
+  {
+    "sk": "लक्षणासंभवे चैव लक्ष्यं नैवावतिष्ठते ।\nलक्ष्यस्यानवतिष्ठाने लक्षणस्याप्यसंभवः ॥",
+    "ro": "lakṣaṇāsaṃbhave · caiva · lakṣyaṃ · naivāvatiṣṭhate | lakṣyasyānavatiṣṭhāne · lakṣaṇasyāpy · asaṃbhavaḥ ||",
+    "hi": "जब लक्षण ही सम्भव नहीं है, तो लक्ष्य भी स्थापित नहीं हो सकता। और जब लक्ष्य स्थापित नहीं होता, तो लक्षण भी सम्भव नहीं रहता।",
+    "en": "When the characteristic does not arise, the characterized cannot be established. When the characterized is not established, the characteristic too does not arise.",
+    "ws": [
+      { "s": "लक्षणम्", "h": "लक्षण / परिभाषित करने वाला चिह्न", "e": "characteristic / defining mark" },
+      { "s": "असंभवः", "h": "उत्पत्ति का अभाव / असम्भव होना", "e": "non-arising / impossibility" },
+      { "s": "लक्ष्यम्", "h": "वह जिसे लक्षण परिभाषित करे", "e": "the characterized / what is defined" },
+      { "s": "अवतिष्ठते", "h": "स्थिर होता है / स्थापित होता है", "e": "is established / stands firm" },
+      { "s": "अनवतिष्ठाने", "h": "स्थापित न होने की स्थिति में", "e": "when not established" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अवतिष्ठते</em> = अव + √स्था (ठहरना), आत्मनेपद — 'स्थापित होता है / टिकता है।' <em>नैव</em> = न + एव — 'बिल्कुल नहीं।' <em>असंभवः</em> = अ + सम्भव — 'उत्पत्ति का अभाव।' <em>अनवतिष्ठाने</em> = अन् + अवतिष्ठान, सप्तमी — 'जब स्थापित नहीं होता।' यह श्लोक <strong>अन्योन्याश्रय दोष</strong> (mutual dependence fallacy) को स्पष्ट करता है — दोनों एक-दूसरे पर निर्भर हैं, इसलिए कोई भी स्वतन्त्र रूप से सिद्ध नहीं।<br><em>Eng:</em> <em>avatiṣṭhate</em> = ava + √sthā (ātmanepada, 'stands / is established'). The verse demonstrates <em>anyonyāśraya</em> (mutual dependence): each depends on the other, so neither is independently established.",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अन्योन्याश्रय दोष है। लक्षण लक्ष्य पर निर्भर है — क्योंकि लक्षण 'किसी का' होता है। लक्ष्य लक्षण पर निर्भर है — क्योंकि बिना लक्षण के लक्ष्य पहचाना नहीं जा सकता। दोनों एक-दूसरे को सिद्ध करने की चेष्टा करते हैं, पर कोई भी पहले सिद्ध नहीं। यह प्रसंगापादन द्वारा दोनों की स्वभावसिद्धता को नकारता है।",
+        "en": "Candrakīrti says this is a case of mutual dependence. A characteristic depends on the characterized — because a characteristic must be 'of something.' The characterized depends on the characteristic — because without a mark it cannot be identified. Each tries to establish the other, but neither is established first. The prasaṅga negates the inherent existence of both.",
+        "ins": "जब दो चीज़ें एक-दूसरे को सिद्ध करने की कोशिश करें और कोई पहले खड़ी न हो — तो दोनों हवा में लटकी हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह बिल्कुल सीधी बात है: अगर पहचान चिह्न सम्भव नहीं, तो जिस वस्तु को पहचानना था वह भी स्थापित नहीं। और अगर वह वस्तु ही स्थापित नहीं, तो उसका पहचान चिह्न किसे परिभाषित करेगा? दोनों एक साथ गिरते हैं — अकेले खड़ा कोई नहीं हो सकता।",
+        "en": "Buddhapālita says it is perfectly simple: if the defining mark is impossible, then the thing to be defined is also not established. And if that thing is not established, the defining mark has nothing to define. Both collapse together — neither can stand alone.",
+        "ins": "दो सहारे एक-दूसरे पर टिके हों और दोनों की नींव खोखली हो — तो दोनों साथ गिरते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — यह अन्योन्याश्रय दोष परमार्थ स्तर पर लागू होता है। स्वतन्त्र अनुमान: 'लक्ष्य परमार्थतः सिद्ध नहीं है, क्योंकि यह लक्षण पर निर्भर है; और लक्षण भी परमार्थतः सिद्ध नहीं है, क्योंकि यह लक्ष्य पर निर्भर है।' व्यवहार में दोनों एक साथ प्रतीत होते हैं — यह संवृति सत्य है, परमार्थ सत्य नहीं।",
+        "en": "Bhāvaviveka says this mutual dependence applies at the ultimate level. The syllogism: 'The characterized is not ultimately established because it depends on the characteristic; the characteristic too is not ultimately established because it depends on the characterized.' Conventionally both appear together — that is conventional truth, not ultimate truth.",
+        "ins": "संवृति में दोनों साथ काम करते हैं — पर परमार्थ दृष्टि से 'कौन पहले?' का उत्तर कोई नहीं दे सकता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏗️ क्या यह 'अण्डा पहले या मुर्गी' वाली समस्या है?",
+        "a": "हाँ, बिल्कुल! यह <strong>अन्योन्याश्रय दोष</strong> (circular dependence) का दार्शनिक रूप है। लक्षण कहता है 'मैं लक्ष्य को परिभाषित करता हूँ' — पर लक्ष्य कहता है 'मेरे बिना तू किसका लक्षण है?' दोनों एक-दूसरे को <strong>सिद्ध करने की कोशिश</strong> करते हैं पर कोई भी <strong>स्वतन्त्र आधार</strong> नहीं रखता। नागार्जुन का निष्कर्ष: ये दोनों <strong>प्रतीत्यसमुत्पन्न</strong> (परस्पर-निर्भर) हैं — स्वभाव से सिद्ध नहीं।"
+      },
+      {
+        "q": "💡 इसका व्यावहारिक अर्थ क्या है?",
+        "a": "रोज़मर्रा में हम लक्षण और लक्ष्य का प्रयोग करते ही हैं — 'पानी का लक्षण तरलता है' — और यह <strong>व्यवहारिक सत्य</strong> के रूप में ठीक काम करता है। नागार्जुन यह नहीं कह रहे कि परिभाषाएँ बेकार हैं। वे दिखा रहे हैं कि परिभाषाएँ <strong>'अपने आप में ठोस, स्वतन्त्र सत्ताएँ' नहीं हैं</strong> — वे परस्पर सम्बन्ध से उपजती हैं और इसीलिए शून्य हैं।"
+      }
+    ]
+  },
+  {
+    "sk": "तस्मान्न विद्यते लक्ष्यं लक्षणं नैव विद्यते ।\nलक्ष्यलक्षणनिर्मुक्तो नापि भावोऽस्ति कश्चन ॥",
+    "ro": "tasmān · na · vidyate · lakṣyaṃ · lakṣaṇaṃ · naiva · vidyate | lakṣyalakṣaṇanirmukto · nāpi · bhāvo · 'sti · kaścana ||",
+    "hi": "इसलिए न तो लक्ष्य पाया जाता है, न ही लक्षण। लक्ष्य और लक्षण से मुक्त कोई अन्य वस्तु भी नहीं है।",
+    "en": "Therefore the characterized does not exist, and the characteristic does not exist. There is no entity whatsoever apart from the characterized and the characteristic.",
+    "ws": [
+      { "s": "तस्मात्", "h": "इसलिए / अतः", "e": "therefore" },
+      { "s": "लक्ष्यम्", "h": "लक्ष्य / परिभाषित वस्तु", "e": "the characterized" },
+      { "s": "लक्षणम्", "h": "लक्षण / परिभाषक चिह्न", "e": "the characteristic" },
+      { "s": "निर्मुक्तः", "h": "मुक्त / रहित", "e": "free from / devoid of" },
+      { "s": "भावः", "h": "वस्तु / पदार्थ", "e": "entity / thing" },
+      { "s": "कश्चन", "h": "कोई भी", "e": "whatsoever" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>तस्मात्</em> = तद्, पञ्चमी — 'इसलिए / उस कारण से' — निष्कर्ष-सूचक। <em>नैव</em> = न + एव — 'बिल्कुल नहीं।' <em>लक्ष्यलक्षणनिर्मुक्तः</em> = बहुव्रीहि समास — 'जो लक्ष्य और लक्षण दोनों से रहित हो।' <em>कश्चन</em> = कः + चन — 'कोई भी' (निषेधार्थक)। यह श्लोक पूर्व तर्कों का निष्कर्ष है — न लक्ष्य, न लक्षण, न इनसे भिन्न कोई तीसरी वस्तु।<br><em>Eng:</em> <em>tasmāt</em> marks the conclusion drawn from verses 1–4. <em>lakṣyalakṣaṇanirmukta</em> is a bahuvrīhi: 'that which is free from both the characterized and the characteristic.' No third entity remains — the entire ontological field collapses.",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक पूर्व चारों श्लोकों का निष्कर्ष है। लक्षण-लक्ष्य दोनों की स्वतन्त्र सिद्धता खण्डित हो चुकी है। और कोई तीसरी सत्ता भी नहीं बचती जो इन दोनों श्रेणियों से बाहर हो — क्योंकि हर वस्तु या तो लक्ष्य है, या लक्षण है, या इन दोनों का सम्बन्ध है। जब ये सब खण्डित हो गए, तो कोई भी भाव स्वभावतः सिद्ध नहीं रहता।",
+        "en": "Candrakīrti says this verse concludes the argument of the preceding four verses. The independent existence of both characteristic and characterized has been demolished. No third entity survives outside these two categories — because everything is either characterized, a characteristic, or their relation. When all these are refuted, no entity is inherently established.",
+        "ins": "तीन श्रेणियाँ — लक्ष्य, लक्षण, और इनसे भिन्न — तीनों खाली निकलीं। स्वभावसिद्ध कुछ भी नहीं बचा।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — परिणाम स्पष्ट है: जब पहचान चिह्न ही नहीं टिकता, तो पहचानी जाने वाली वस्तु भी नहीं टिकती। और इन दोनों के अलावा कोई तीसरी चीज़ भी कल्पनीय नहीं है। बचा क्या? शून्यता — अर्थात् स्वभाव से किसी भी वस्तु का अभाव।",
+        "en": "Buddhapālita says the result is clear: when the defining mark does not hold, the defined thing does not hold either. And nothing beyond these two is even conceivable. What remains? Emptiness — the absence of any thing by its own nature.",
+        "ins": "जब 'पहचान चिह्न' और 'पहचानी जाने वाली वस्तु' दोनों गिरें, तो बचता ही क्या है? शून्यता।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — यह निष्कर्ष परमार्थ स्तर पर सत्य है। लक्ष्य, लक्षण और उनसे भिन्न — तीनों स्वभावतः शून्य हैं। पर इसका अर्थ यह नहीं कि व्यावहारिक जगत् में परिभाषाएँ काम नहीं करतीं। संवृति सत्य में वस्तुएँ अपने लक्षणों से पहचानी जाती हैं — यह व्यवहार अक्षुण्ण रहता है।",
+        "en": "Bhāvaviveka says this conclusion holds at the ultimate level. The characterized, the characteristic, and anything distinct from them — all three are empty of inherent nature. But this does not mean definitions fail in the practical world. At the conventional level, things are identified by their marks — that everyday practice remains unimpaired.",
+        "ins": "परमार्थ शून्यता का अर्थ व्यावहारिक उपयोगिता का अन्त नहीं — संवृति में सब चलता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🕳️ 'कोई भी वस्तु नहीं' — तो क्या नागार्जुन शून्यवादी हैं?",
+        "a": "नहीं। नागार्जुन <strong>शून्यवादी (nihilist) नहीं</strong> हैं। वे कह रहे हैं कि कोई भी वस्तु <strong>स्वभाव से, अपने आप में, स्वतन्त्र रूप से सिद्ध नहीं</strong> है। इसका अर्थ यह नहीं कि 'कुछ भी नहीं है' — बल्कि यह कि <strong>जो कुछ भी है, वह सम्बन्धों से उपजा है</strong>। शून्यता = प्रतीत्यसमुत्पाद (dependent origination)। यही मध्यम मार्ग है — न शाश्वतवाद (सब कुछ ठोस है), न उच्छेदवाद (कुछ भी नहीं है)।"
+      },
+      {
+        "q": "📐 'तीसरी वस्तु भी नहीं' — यह तर्क इतना निर्णायक क्यों है?",
+        "a": "यह <strong>तार्किक सम्पूर्णता</strong> है। कोई भी विरोधी कह सकता था: 'ठीक है, लक्ष्य और लक्षण दोनों शून्य हैं — पर कोई <strong>तीसरी सत्ता</strong> तो होगी जो इन दोनों के परे हो।' नागार्जुन इस बचाव को भी काट देते हैं: <strong>हर सम्भव वस्तु</strong> या तो परिभाषित होती है (लक्ष्य), या परिभाषक होती है (लक्षण), या इन दोनों का सम्बन्ध होती है। जब ये सब खण्डित हो गए, तो कोई चौथा विकल्प बचता ही नहीं।"
+      }
+    ]
+  },
+  {
+    "sk": "तस्मादाकाशं न भावो नाभावो न च लक्षणम् ।\nन लक्ष्यमाकाशसमाः पञ्च धातव एव च ॥",
+    "ro": "tasmād · ākāśaṃ · na · bhāvo · nābhāvo · na · ca · lakṣaṇam | na · lakṣyam · ākāśasamāḥ · pañca · dhātava · eva · ca ||",
+    "hi": "इसलिए आकाश न कोई वस्तु है, न अवस्तु, न लक्षण है, न लक्ष्य। शेष पाँच धातु भी ठीक आकाश के समान ही हैं।",
+    "en": "Therefore space is not an entity, not a non-entity, not a characteristic, and not a characterized. The remaining five elements are exactly the same as space.",
+    "ws": [
+      { "s": "आकाशम्", "h": "आकाश", "e": "space / ether" },
+      { "s": "भावः", "h": "वस्तु / अस्तित्व", "e": "entity / existent thing" },
+      { "s": "अभावः", "h": "अवस्तु / अनस्तित्व", "e": "non-entity / nonexistence" },
+      { "s": "आकाशसमाः", "h": "आकाश के समान", "e": "same as space" },
+      { "s": "पञ्च धातवः", "h": "पाँच धातु / तत्त्व", "e": "five elements" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>तस्मात्</em> = निष्कर्ष-सूचक, 'इसलिए।' <em>भावः</em> = √भू से, 'अस्तित्व / सत्ता / वस्तु।' <em>अभावः</em> = नञ्-तत्पुरुष, 'अभाव / अनस्तित्व।' <em>आकाशसमाः</em> = आकाश + सम (तुल्य), प्रथमा बहुवचन — 'आकाश के समान।' <em>धातवः</em> = धातु का बहुवचन — यहाँ छह धातु (पृथ्वी, जल, अग्नि, वायु, आकाश, विज्ञान) में से शेष पाँच। यह श्लोक विशेष (आकाश) से सामान्य (सभी धातु) की ओर ले जाता है।<br><em>Eng:</em> <em>ākāśasamāḥ</em> = bahuvrīhi, 'equal to space.' <em>dhātavaḥ</em> = nominative plural of dhātu — the remaining five (earth, water, fire, air, consciousness). The verse generalises the analysis from space to all six elements.",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — अब तक का विश्लेषण आकाश पर केन्द्रित था, पर यह निष्कर्ष सभी छह धातुओं पर लागू होता है। आकाश न भाव है, न अभाव, न लक्षण, न लक्ष्य — ये चारों कोटि नकारी गई हैं। ठीक यही विश्लेषण पृथ्वी, जल, अग्नि, वायु और विज्ञान पर भी लागू होता है — क्योंकि प्रत्येक धातु भी अपने लक्षण से परस्पर-निर्भर है। यह चतुष्कोटि निषेध है।",
+        "en": "Candrakīrti says the analysis so far focused on space, but the conclusion applies to all six elements. Space is neither an entity nor a non-entity, neither a characteristic nor a characterized — all four positions are negated. The same analysis applies equally to earth, water, fire, air, and consciousness — because each element is also mutually dependent on its characteristic. This is a tetralemma negation.",
+        "ins": "एक उदाहरण, छह निष्कर्ष — आकाश की शून्यता सिद्ध होते ही सभी धातुओं की शून्यता सिद्ध हो जाती है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — आकाश सबसे सूक्ष्म तत्त्व था — इसकी शून्यता सिद्ध हो गई। अब शेष पाँच स्थूल तत्त्वों को अलग से सिद्ध करने की ज़रूरत नहीं — क्योंकि वही तर्क, वही संरचना, वही परस्पर-निर्भरता सब पर लागू है। पृथ्वी का लक्षण कठोरता है, जल का तरलता, अग्नि का ऊष्मा — और हर एक अपने लक्षण से अलग स्वतन्त्र नहीं।",
+        "en": "Buddhapālita says space was the subtlest element — its emptiness is now established. The remaining five coarser elements need no separate proof — the same reasoning, the same structure, the same mutual dependence applies to each. The characteristic of earth is hardness, of water fluidity, of fire heat — and none exists independently of its characteristic.",
+        "ins": "सबसे सूक्ष्म से शुरू करो — अगर वह शून्य है, तो स्थूल अपने-आप शून्य सिद्ध हो जाते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — यह सामान्यीकरण का श्लोक है। आकाश पर लागू स्वतन्त्र अनुमान को अब एक हेतु-वाक्य में कहा जा सकता है: 'सभी धातु परमार्थतः सिद्ध नहीं हैं, क्योंकि वे अपने लक्षणों से परस्पर-निर्भर हैं — जैसे आकाश।' पर व्यावहारिक स्तर पर ये छहों धातु संसार की रचना का आधार बने रहते हैं — यह संवृति सत्य अक्षुण्ण है।",
+        "en": "Bhāvaviveka says this is the generalisation verse. The independent syllogism applied to space now extends: 'All elements are not ultimately established, because they are mutually dependent on their characteristics — like space.' Yet conventionally these six elements remain the basis of the world's composition — conventional truth stands unimpaired.",
+        "ins": "एक हेतु, छह साध्य — स्वतन्त्र अनुमान को सामान्य बनाकर पूरा बौद्ध तत्त्वमीमांसा शून्य हो जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌍 'पाँच धातु' कौन-कौन से हैं?",
+        "a": "बौद्ध दर्शन में <strong>छह धातु</strong> (षड्धातु) मानी जाती हैं: <strong>पृथ्वी</strong> (कठोरता), <strong>जल</strong> (तरलता), <strong>अग्नि</strong> (ऊष्मा), <strong>वायु</strong> (गतिशीलता), <strong>आकाश</strong> (अनावरण) और <strong>विज्ञान</strong> (चेतना)। इस अध्याय में आकाश पर विस्तृत विश्लेषण किया गया — अब शेष पाँच पर वही तर्क लागू करने को कहा गया है। हर धातु अपने लक्षण से परस्पर-निर्भर है, इसलिए सभी शून्य हैं।"
+      },
+      {
+        "q": "🧭 'न भाव, न अभाव' — यह चतुष्कोटि कैसे है?",
+        "a": "नागार्जुन यहाँ <strong>चतुष्कोटि</strong> (tetralemma) लागू कर रहे हैं — चार सम्भावनाओं का निषेध: <strong>(1)</strong> आकाश एक वस्तु है — नहीं। <strong>(2)</strong> आकाश अवस्तु है — नहीं। <strong>(3)</strong> आकाश एक लक्षण है — नहीं। <strong>(4)</strong> आकाश एक लक्ष्य है — नहीं। जब चारों कोटि नकारी जाती हैं, तो <strong>मध्यम मार्ग</strong> प्रकट होता है — आकाश न 'है' न 'नहीं है', बल्कि प्रतीत्यसमुत्पन्न है।"
+      }
+    ]
+  },
+  {
+    "sk": "अस्तित्वं ये तु पश्यन्ति नास्तित्वं चैव दर्शिनः ।\nते न पश्यन्ति सद्धर्मं बुद्धानां शासने शिवम् ॥",
+    "ro": "astitvaṃ · ye · tu · paśyanti · nāstitvaṃ · caiva · darśinaḥ | te · na · paśyanti · saddharmaṃ · buddhānāṃ · śāsane · śivam ||",
+    "hi": "जो लोग अस्तित्व और नास्तित्व देखते हैं, वे बुद्धों के शान्त शासन में सद्धर्म को नहीं देख पाते।",
+    "en": "Those who see existence and non-existence do not see the true dharma, the peaceful teaching of the Buddhas.",
+    "ws": [
+      { "s": "अस्तित्वम्", "h": "अस्तित्व / 'है' का दृष्टिकोण", "e": "existence / the view 'it is'" },
+      { "s": "नास्तित्वम्", "h": "नास्तित्व / 'नहीं है' का दृष्टिकोण", "e": "non-existence / the view 'it is not'" },
+      { "s": "दर्शिनः", "h": "देखने वाले / दृष्टिधारी", "e": "those who see / viewers" },
+      { "s": "सद्धर्मम्", "h": "सच्चा धर्म / सत्य शिक्षा", "e": "true dharma / genuine teaching" },
+      { "s": "शासने", "h": "शासन / शिक्षा में", "e": "in the teaching / instruction" },
+      { "s": "शिवम्", "h": "शान्त / कल्याणकारी", "e": "peaceful / auspicious" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अस्तित्वम्</em> = अस्ति + त्व (भाववाचक प्रत्यय), 'अस्तित्व / होने का भाव।' <em>नास्तित्वम्</em> = न + अस्तित्वम्, 'नास्तित्व।' <em>दर्शिनः</em> = √दृश् + इन्, प्रथमा बहुवचन — 'देखने वाले / जिनकी वह दृष्टि है।' <em>सद्धर्मम्</em> = सत् + धर्म, तत्पुरुष — 'सच्चा धर्म।' <em>शिवम्</em> = 'शान्त / मंगलकारी' — बुद्ध के उपदेश का विशेषण। <em>पश्यन्ति ... न पश्यन्ति</em> — एक ही धातु का विरोधात्मक प्रयोग: 'देखते हैं ... नहीं देखते।'<br><em>Eng:</em> The same root √dṛś is used antithetically: those who 'see' (paśyanti) existence and nonexistence as real do 'not see' (na paśyanti) the true teaching. <em>śivam</em> qualifies saddharma: the dharma is 'peaceful' because it pacifies all conceptual proliferation.",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — जो लोग वस्तुओं को 'है' या 'नहीं है' के चश्मे से देखते हैं, वे दो अतिवादों में फँसे रहते हैं — शाश्वतवाद और उच्छेदवाद। बुद्ध का शासन इन दोनों से परे है — यह 'शिव' (शान्त) है क्योंकि यह प्रपञ्चोपशम (विकल्प-शमन) है। अस्तित्व-नास्तित्व की द्वैत दृष्टि ही बन्धन है — इससे मुक्ति ही सद्धर्म है।",
+        "en": "Candrakīrti says those who view things through the lens of 'exists' or 'does not exist' are trapped in two extremes — eternalism and nihilism. The Buddha's teaching transcends both — it is 'śiva' (peaceful) because it is the pacification of conceptual proliferation. The dualistic view of existence and non-existence is itself bondage — freedom from it is the true dharma.",
+        "ins": "'है' और 'नहीं है' — ये दो चश्मे ही असली पर्दा हैं। इन्हें उतारना ही सद्धर्म है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक पूरे अध्याय का आध्यात्मिक संदेश है। आकाश और धातुओं का विश्लेषण केवल बौद्धिक अभ्यास नहीं — यह दिखाना है कि 'यह है' और 'यह नहीं है' — ये दोनों दृष्टियाँ ही दुःख का मूल हैं। जो इन दृष्टियों से चिपकता है, वह बुद्ध के शान्त उपदेश को नहीं समझ पाता।",
+        "en": "Buddhapālita says this verse is the spiritual message of the entire chapter. The analysis of space and elements is not merely an intellectual exercise — it shows that both 'this exists' and 'this does not exist' are the root of suffering. One who clings to these views cannot understand the Buddha's peaceful teaching.",
+        "ins": "'है' कहो तो शाश्वतवाद, 'नहीं है' कहो तो उच्छेदवाद — दोनों दृष्टियाँ बन्धन हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — 'अस्तित्व' और 'नास्तित्व' दोनों परमार्थ दृष्टि से मिथ्या दृष्टियाँ हैं। पर व्यवहार में हम 'यह मेज़ है' कहते हैं — यह संवृति सत्य है और इसमें कोई दोष नहीं। दोष तब है जब हम इस व्यावहारिक कथन को परमार्थ सत्य मान लें — 'यह मेज़ ठोस, स्वभावसिद्ध, अपने आप में अस्तित्ववान् है।' बुद्ध का शासन इसी भ्रम से मुक्ति का मार्ग है।",
+        "en": "Bhāvaviveka says both 'existence' and 'non-existence' are false views at the ultimate level. Conventionally, saying 'this is a table' is fine — that is conventional truth with no fault. The fault arises when we take this conventional statement as ultimate truth — 'this table is solid, inherently existent, real in itself.' The Buddha's teaching is the path to freedom from this very confusion.",
+        "ins": "संवृति में 'है' कहना ठीक है — पर इसे 'परमार्थतः है' मान लेना ही अज्ञान है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "☸️ 'सद्धर्म' क्या है जो ये लोग नहीं देख पाते?",
+        "a": "सद्धर्म यहाँ बुद्ध का <strong>मध्यम मार्ग</strong> है — जो 'है' (शाश्वतवाद) और 'नहीं है' (उच्छेदवाद) दोनों अतिवादों से मुक्त है। जब हम किसी चीज़ को <strong>'ठोस रूप से मौजूद'</strong> मानते हैं या <strong>'बिल्कुल नहीं है'</strong> मानते हैं — दोनों बार हम वास्तविकता को गलत पकड़ रहे हैं। सद्धर्म कहता है: <strong>वस्तुएँ प्रतीत्यसमुत्पन्न हैं</strong> — सम्बन्धों से उपजी हैं, न ठोस हैं न शून्य।"
+      },
+      {
+        "q": "🧘 'शिव' शब्द यहाँ क्यों आया है?",
+        "a": "<strong>शिव</strong> का अर्थ है 'शान्त' या 'मंगलकारी।' बुद्ध के उपदेश को 'शिव' कहा गया क्योंकि यह <strong>प्रपञ्चोपशम</strong> (prapañcopaśama) है — अर्थात् सभी वैचारिक विस्तार का शमन। जब 'है' और 'नहीं है' के विकल्प शान्त हो जाते हैं, तो मन <strong>निर्विकल्प शान्ति</strong> में ठहरता है — यही 'शिव' अवस्था है।"
+      }
+    ]
+  },
+  {
+    "sk": "कात्यायनाववादे चास्तीति नास्तीति चोभयम् ।\nप्रतिषिद्धं भगवता भावाभावविभाविना ॥",
+    "ro": "kātyāyanāvavāde · cāstīti · nāstīti · cobhayam | pratiṣiddhaṃ · bhagavatā · bhāvābhāvavibhāvinā ||",
+    "hi": "कात्यायन को दिए उपदेश में भगवान् बुद्ध ने, जो अस्तित्व और अनस्तित्व के ज्ञाता हैं, 'है' और 'नहीं है' दोनों का निषेध किया।",
+    "en": "In the Instruction to Kātyāyana, the Blessed One, the knower of existence and non-existence, refuted both 'it exists' and 'it does not exist.'",
+    "ws": [
+      { "s": "कात्यायनाववादे", "h": "कात्यायन को दिए उपदेश में", "e": "in the Instruction to Kātyāyana" },
+      { "s": "अस्तीति", "h": "'है' ऐसा", "e": "'it exists'" },
+      { "s": "नास्तीति", "h": "'नहीं है' ऐसा", "e": "'it does not exist'" },
+      { "s": "उभयम्", "h": "दोनों", "e": "both" },
+      { "s": "प्रतिषिद्धम्", "h": "निषेध किया गया / नकारा गया", "e": "refuted / prohibited" },
+      { "s": "भगवता", "h": "भगवान् द्वारा", "e": "by the Blessed One" },
+      { "s": "भावाभावविभाविना", "h": "अस्तित्व और अनस्तित्व को जानने वाले", "e": "the discerner of existence and non-existence" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>कात्यायनाववादे</em> = कात्यायन + अववाद (उपदेश), सप्तमी तत्पुरुष — 'कात्यायन के उपदेश में।' यह कात्यायनगोत्त-सुत्त (पालि: कच्चानगोत्त-सुत्त, SN 12.15) का संदर्भ है। <em>प्रतिषिद्धम्</em> = प्रति + √सिध्, कर्मवाच्य भूतकृदन्त — 'निषेध किया गया।' <em>भावाभावविभाविना</em> = भाव + अभाव + विभाविन्, तृतीया — 'अस्तित्व और अनस्तित्व को विभाव (विवेचन) करने वाले द्वारा।' <em>इति</em> प्रत्यक्ष उद्धरण सूचक — 'ऐसा।'<br><em>Eng:</em> <em>kātyāyanāvavāde</em> is a tatpuruṣa locative referring to the Kātyāyanāvavāda (Pāli: Kaccānagotta Sutta, SN 12.15), a key sermon in which the Buddha taught the middle way between 'it is' and 'it is not.' <em>pratiṣiddha</em> = 'refuted/prohibited.' <em>bhāvābhāvavibhāvinā</em> = an instrumental bahuvrīhi: 'by the one who discerns existence and non-existence.'",
+    "mt": "अनुष्टुभ् (श्लोक) · Anuṣṭubh (Śloka) — 8×4 pattern",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti — Prasannapadā",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक पूरे अध्याय का प्रामाणिक आधार प्रस्तुत करता है। नागार्जुन केवल अपने तर्क से नहीं, बल्कि बुद्ध वचन से भी इस निष्कर्ष की पुष्टि करते हैं। कात्यायन को दिए उपदेश में बुद्ध ने स्पष्ट कहा — 'लोक प्रायः अस्तित्व और नास्तित्व पर निर्भर करता है, पर कात्यायन, जो सम्यक् प्रज्ञा से देखता है, वह न अस्तित्व को पकड़ता है न नास्तित्व को।' यह प्रसंगापादन विधि का बुद्ध-प्रमाणित आधार है।",
+        "en": "Candrakīrti says this verse provides the scriptural authority for the entire chapter. Nāgārjuna confirms his conclusion not only through reasoning but through the Buddha's own words. In the Instruction to Kātyāyana, the Buddha declared: 'The world commonly relies on existence and non-existence, but one who sees with right wisdom does not cling to either.' This is the Buddha-authorized basis for the prasaṅga method.",
+        "ins": "नागार्जुन का तर्क कोई नई खोज नहीं — वे बुद्ध के उसी उपदेश को तर्क की भाषा में प्रकट कर रहे हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita — Buddhapālitavṛtti",
+        "h": "बुद्धपालित कहते हैं — यह सबसे महत्त्वपूर्ण बुद्ध-वचन है जिस पर पूरा मध्यमक दर्शन खड़ा है। कात्यायन ने बुद्ध से पूछा था 'सम्यग्दृष्टि क्या है?' — और बुद्ध ने उत्तर दिया 'जो न कहे कि है, न कहे कि नहीं है — वही सम्यग्दृष्टि है।' नागार्जुन इसी उपदेश को ले रहे हैं और दिखा रहे हैं कि आकाश और सभी धातुओं का विश्लेषण इसी मध्यम मार्ग पर टिका है।",
+        "en": "Buddhapālita says this is the most important Buddha-word on which the entire Madhyamaka philosophy stands. Kātyāyana asked the Buddha 'What is right view?' — and the Buddha answered 'One who says neither that it exists nor that it does not exist — that is right view.' Nāgārjuna takes this very teaching and shows that the analysis of space and all elements rests on this middle way.",
+        "ins": "कात्यायन-सूत्र मध्यमक का बीज है — 'न है, न नहीं है' यही बुद्ध का मध्यम मार्ग है।"
+      },
+      "bhavaviveka": {
+        "a": "भावविवेक · Bhāvaviveka — Prajñāpradīpa",
+        "h": "भाववेक कहते हैं — कात्यायन-सूत्र का प्रमाण यह सिद्ध करता है कि शून्यता बुद्ध-वचन से विरुद्ध नहीं, बल्कि उसी का तार्किक विस्तार है। बुद्ध ने 'अस्तित्व' और 'नास्तित्व' दोनों को नकारा — यह परमार्थ सत्य है। पर 'भावाभावविभाविना' — बुद्ध अस्तित्व और अनस्तित्व को जानते हैं, जिसका अर्थ है कि वे संवृति सत्य को पूर्णतः समझते हैं। शून्यता जानना और संवृति जानना — दोनों साथ चलते हैं।",
+        "en": "Bhāvaviveka says the Kātyāyana Sūtra authority proves that emptiness is not contrary to the Buddha's word but its logical extension. The Buddha negated both 'existence' and 'non-existence' — that is ultimate truth. But 'bhāvābhāvavibhāvinā' — the Buddha knows existence and non-existence — meaning he fully comprehends conventional truth. Knowing emptiness and knowing convention go hand in hand.",
+        "ins": "बुद्ध दोनों सत्यों के ज्ञाता हैं — शून्यता जानना और व्यवहार जानना विरोधी नहीं, पूरक हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "📜 'कात्यायन को उपदेश' कौन सा सूत्र है?",
+        "a": "यह <strong>कात्यायनगोत्त-सुत्त</strong> (पालि: कच्चानगोत्त-सुत्त, संयुक्त निकाय 12.15) है — बौद्ध दर्शन के सबसे महत्त्वपूर्ण सूत्रों में से एक। इसमें बुद्ध ने <strong>कात्यायन</strong> नामक शिष्य को बताया कि सम्यग्दृष्टि न 'सब कुछ है' मानती है, न 'कुछ भी नहीं है' — बल्कि <strong>प्रतीत्यसमुत्पाद</strong> (dependent origination) को देखती है। नागार्जुन इसी सूत्र को अपने पूरे दर्शन का <strong>प्रामाणिक आधार</strong> मानते हैं।"
+      },
+      {
+        "q": "🔗 यह श्लोक पूरे अध्याय से कैसे जुड़ता है?",
+        "a": "पूरा अध्याय तर्क से दिखाता है कि आकाश और धातुओं को 'है' या 'नहीं है' कहना असम्भव है। अब यह अन्तिम श्लोक <strong>बुद्ध-वचन का प्रमाण</strong> देकर उस तर्क को प्रमाणित करता है — 'यह सिर्फ़ मेरा (नागार्जुन का) तर्क नहीं, बल्कि <strong>बुद्ध ने स्वयं कात्यायन से यही कहा था</strong>।' इससे शून्यता <strong>बुद्ध-वचन-विरुद्ध नहीं</strong>, बल्कि उसी का व्यवस्थित प्रतिपादन सिद्ध होती है।"
+      }
+    ]
+  }
+]
