@@ -1,0 +1,1103 @@
+[
+  {
+    "id": 118,
+    "sk": "यदि शून्यमिदं सर्वमुदयो नास्ति न व्ययः ।\nप्रहाणाद्वा निरोधाद्वा कस्य निर्वाणमिष्यते ॥",
+    "ro": "yadi · śūnyam · idaṁ · sarvam · udayo · nāsti · na · vyayaḥ | prahāṇād · vā · nirodhād · vā · kasya · nirvāṇam · iṣyate ||",
+    "hi": "अगर यह सब कुछ शून्य है, तो न कोई उत्पत्ति है और न कोई नाश। फिर किसके त्याग से या किसके रुकने से निर्वाण माना जाएगा?",
+    "en": "If all this is empty, then there is neither arising nor ceasing. Then by whose abandonment or whose cessation could nirvāṇa be asserted?",
+    "ws": [
+      { "s": "शून्यम्", "h": "शून्य / रिक्त", "e": "empty" },
+      { "s": "उदयः", "h": "उत्पत्ति / उत्पन्न होना", "e": "arising" },
+      { "s": "व्ययः", "h": "नाश / क्षय", "e": "ceasing / passing away" },
+      { "s": "प्रहाणात्", "h": "त्याग से / छोड़ने से", "e": "by abandonment" },
+      { "s": "निरोधात्", "h": "निरोध से / रुकने से", "e": "by cessation" },
+      { "s": "निर्वाणम्", "h": "निर्वाण / मुक्ति", "e": "nirvāṇa" },
+      { "s": "इष्यते", "h": "माना जाता है / चाहा जाता है", "e": "is held / is asserted" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>यदि</em> सशर्त वाचक — इस श्लोक और अगले श्लोक की जोड़ी दो विपरीत शर्तें (शून्य/अशून्य) रखकर एक ही आपत्ति उठाती है। <em>उदयः, व्ययः</em> = √इ + उद्/वि उपसर्ग — 'उत्पत्ति' और 'नाश'। <em>प्रहाणात्, निरोधात्</em> पञ्चमी विभक्ति — हेतु अर्थ में 'से/द्वारा'। <em>इष्यते</em> = √इष्, कर्मवाच्य लट् — 'माना जाता है/चाहा जाता है।'<br><em>Eng:</em> <em>prahāṇāt/nirodhāt</em> are ablatives of cause. <em>iṣyate</em> is a passive — 'is it accepted that...'. This verse pairs with the next to frame a dilemma from both sides (empty / not empty).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह विरोधी की आपत्ति है, जो शून्यता को उच्छेदवाद समझ बैठा है। अगर सब कुछ शून्य है तो न कुछ उत्पन्न होता, न नष्ट होता — फिर क्लेशों के 'प्रहाण' या दुःख के 'निरोध' का कोई अर्थ नहीं रहता, और निर्वाण असम्भव लगने लगता है। यह आपत्ति आगे हल होगी।",
+        "en": "Candrakīrti says this is the opponent's objection, mistaking emptiness for nihilism. If everything is empty, nothing arises or ceases — so 'abandoning' afflictions or 'ceasing' suffering seems meaningless, making nirvāṇa appear impossible. This is resolved in what follows.",
+        "ins": "शून्यता को नास्तिकता समझ लेना ही यहाँ विरोधी की भूल है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह प्रश्न पूर्वपक्ष की तरह उठाया गया है ताकि उसका निराकरण हो सके। विरोधी सोचता है शून्यता का अर्थ 'कुछ भी नहीं' है — इसलिए न बन्धन न मोक्ष। पर शून्यता का सही अर्थ है स्वभाव-रहित होना, सर्वथा अभाव नहीं।",
+        "en": "Buddhapālita says this is posed as a prima facie view so it can be refuted. The opponent thinks emptiness means 'nothing at all,' hence neither bondage nor liberation. But emptiness means being devoid of intrinsic nature, not utter non-existence.",
+        "ins": "शून्यता 'कुछ नहीं है' का नाम नहीं, 'स्वभाव से खाली है' का नाम है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अगले श्लोक के साथ मिलकर एक जोड़ी बनाता है, जिसमें शून्य और अशून्य दोनों पक्षों से एक ही आपत्ति उठाई गई है। दोनों पक्षों में निर्वाण अकथनीय लगता है — यही आगे के विश्लेषण का आधार बनता है।",
+        "en": "Bhāviveka says this verse pairs with the next, raising the same objection from both the empty and non-empty sides. In either case nirvāṇa seems inexplicable — this sets up the analysis that follows.",
+        "ins": "विरोधी दोनों दरवाज़ों से घेरता है — शून्य मानो या अशून्य, दोनों में निर्वाण फँसता दीखता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌀 अगर सब कुछ शून्य है तो निर्वाण कैसे सम्भव है?",
+        "a": "यह विरोधी की आपत्ति है, नागार्जुन का सिद्धान्त नहीं। विरोधी सोचता है <strong>शून्यता</strong> का अर्थ है 'कुछ नहीं है', इसलिए न बन्धन न मोक्ष। नागार्जुन आगे दिखाएँगे कि शून्यता का सही अर्थ ही निर्वाण को सम्भव बनाता है — क्योंकि निर्वाण किसी 'स्वभाव-सिद्ध वस्तु' का नाम नहीं है।"
+      },
+      {
+        "q": "🔥 प्रहाण और निरोध का यहाँ क्या मतलब है?",
+        "a": "<strong>प्रहाण</strong> का अर्थ है क्लेशों — राग, द्वेष, मोह — का त्याग, और <strong>निरोध</strong> का अर्थ है दुःख का समूल रुक जाना। विरोधी पूछता है — जब उत्पत्ति-नाश ही नहीं, तो 'त्याग' या 'रुकना' किसका होगा? यह प्रश्न आगे के श्लोकों में सुलझता है।"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "sk": "यद्यशून्यमिदं सर्वमुदयो नास्ति न व्ययः ।\nप्रहाणाद्वा निरोधाद्वा कस्य निर्वाणमिष्यते ॥",
+    "ro": "yady · aśūnyam · idaṁ · sarvam · udayo · nāsti · na · vyayaḥ | prahāṇād · vā · nirodhād · vā · kasya · nirvāṇam · iṣyate ||",
+    "hi": "और अगर यह सब कुछ अशून्य यानी ठोस है, तब भी न कोई उत्पत्ति है और न कोई नाश। फिर भी किसके त्याग से या किसके रुकने से निर्वाण माना जाएगा?",
+    "en": "And if all this is not empty — that is, solidly existent — then too there is neither arising nor ceasing. Then by whose abandonment or whose cessation could nirvāṇa be asserted?",
+    "ws": [
+      { "s": "अशून्यम्", "h": "अशून्य / ठोस अस्तित्व वाला", "e": "not empty / solidly existent" },
+      { "s": "इदं सर्वम्", "h": "यह सब कुछ", "e": "all this" },
+      { "s": "उदयः", "h": "उत्पत्ति", "e": "arising" },
+      { "s": "व्ययः", "h": "नाश", "e": "ceasing" },
+      { "s": "प्रहाणात्", "h": "त्याग से", "e": "by abandonment" },
+      { "s": "निरोधात्", "h": "निरोध से", "e": "by cessation" },
+      { "s": "इष्यते", "h": "माना जाता है", "e": "is asserted" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>यदि</em> + <em>अशून्यम्</em> = <em>यद्यशून्यम्</em>, स्वर-सन्धि। पिछले श्लोक की शब्द-रचना यहाँ हूबहू दोहराई गई है, केवल <em>शून्यम्</em> की जगह <em>अशून्यम्</em> — यह अलंकार <strong>यमक</strong> जैसा प्रभाव देता है और तर्क को और पैना बनाता है।<br><em>Eng:</em> Near-identical repetition of the previous verse with only <em>śūnyam → aśūnyam</em> swapped — a rhetorical device sharpening the dilemma: both horns lead to the same puzzle.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — अगर वस्तुएँ स्वभाव से सिद्ध ('अशून्य') हैं, तो भी वे स्थिर और अपरिवर्तनीय होंगी — तब भी उत्पत्ति-नाश सम्भव नहीं, और प्रहाण-निरोध निरर्थक हो जाते हैं। इस तरह शून्य और अशून्य दोनों पक्षों में निर्वाण अकथनीय दिखता है — पर वास्तविक दोष 'स्वभाव' की धारणा में है, शून्यता में नहीं।",
+        "en": "Candrakīrti says if things were established by intrinsic nature ('not empty'), they would be fixed and unchanging — so arising and ceasing would again be impossible, making abandonment and cessation pointless. Both horns — empty and not-empty — seem to make nirvāṇa inexplicable; but the real flaw lies in the notion of svabhāva itself, not in emptiness.",
+        "ins": "दोनों चरम पक्ष — शून्यता को शून्यवाद (नास्तिकता) मानना, या वस्तुओं को स्वभाव-सिद्ध मानना — एक ही ग़लती की दो शक्लें हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक दिखाता है कि समस्या 'शून्य बनाम अशून्य' के विवाद में नहीं, बल्कि उत्पत्ति-नाश को 'स्वभावतः वास्तविक' मान लेने में है। जब तक हम मानते हैं कि चीज़ें ठोस रूप से उत्पन्न-नष्ट होती हैं, दोनों पक्षों में विरोधाभास बना रहता है।",
+        "en": "Buddhapālita says this verse shows the problem isn't the 'empty vs. not-empty' debate itself, but taking arising and ceasing as intrinsically real. As long as one holds that things solidly arise and perish, contradictions remain on both sides.",
+        "ins": "विवाद 'शून्य या अशून्य' का नहीं, बल्कि 'उत्पत्ति-नाश को ठोस मानने' का है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह जोड़ी-श्लोक (25.1-2) दिखाती है कि चाहे शून्यता मानो या पदार्थों की ठोस सत्ता, प्रश्न ज्यों का त्यों रहता है — जब तक निर्वाण को किसी वस्तु के 'त्याग' या 'निरोध' के रूप में समझा जाए। असली हल अगले श्लोक में आता है, जहाँ निर्वाण को नकारात्मक रूप से नहीं, बल्कि स्वतन्त्र रूप से परिभाषित किया जाता है।",
+        "en": "Bhāviveka says this paired verse (25.1-2) shows the question persists whether one holds emptiness or the solid existence of things — so long as nirvāṇa is conceived as the 'abandonment' or 'cessation' of some thing. The real resolution comes next, where nirvāṇa is defined positively, on its own terms.",
+        "ins": "प्रश्न का ढाँचा ही ग़लत है — अगला श्लोक ढाँचा बदल देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪞 यह श्लोक पिछले जैसा ही क्यों दोहराया गया?",
+        "a": "नागार्जुन जानबूझकर दोनों अतियों — <strong>शून्य</strong> और <strong>अशून्य</strong> — से एक ही आपत्ति उठाते हैं, ताकि दिखा सकें कि असली समस्या इन दो विकल्पों में से किसी एक को चुनने में नहीं, बल्कि 'उत्पत्ति-नाश' और 'निर्वाण' को ठोस वस्तुओं के रूप में समझने में है।"
+      },
+      {
+        "q": "🧩 तो फिर निर्वाण को समझने का सही तरीका क्या है?",
+        "a": "अगला श्लोक (25.3) इसका उत्तर देता है — निर्वाण को <strong>न त्याग, न प्राप्ति</strong> के रूप में, बल्कि एक ऐसी अवस्था के रूप में समझना चाहिए जो उत्पत्ति-नाश की पूरी योजना से ही परे है।"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "sk": "अप्रहीणमसंप्राप्तमनुच्छिन्नमशाश्वतम् ।\nअनिरुद्धमनुत्पन्नमेतन्निर्वाणमुच्यते ॥",
+    "ro": "aprahīṇam · asaṁprāptam · anucchinnam · aśāśvatam | aniruddham · anutpannam · etan · nirvāṇam · ucyate ||",
+    "hi": "जो न त्यागा गया है, न प्राप्त किया गया है; न जिसका उच्छेद हुआ है, न जो शाश्वत है; जो न रुका है और न उत्पन्न हुआ है — इसी को निर्वाण कहा जाता है।",
+    "en": "Not abandoned, not attained; not annihilated, not permanent; not ceased, not arisen — this is what is called nirvāṇa.",
+    "ws": [
+      { "s": "अप्रहीणम्", "h": "जो त्यागा न गया हो", "e": "not abandoned" },
+      { "s": "असंप्राप्तम्", "h": "जो प्राप्त न किया गया हो", "e": "not attained" },
+      { "s": "अनुच्छिन्नम्", "h": "जिसका उच्छेद न हुआ हो", "e": "not annihilated" },
+      { "s": "अशाश्वतम्", "h": "जो शाश्वत न हो", "e": "not permanent" },
+      { "s": "अनिरुद्धम्", "h": "जो रुका न हो", "e": "not ceased" },
+      { "s": "अनुत्पन्नम्", "h": "जो उत्पन्न न हुआ हो", "e": "not arisen" },
+      { "s": "उच्यते", "h": "कहा जाता है", "e": "is called" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> छह नञ्-तत्पुरुष विशेषण (सब नपुंसकलिंग प्रथमा एकवचन, 'निर्वाणम्' के विशेषण): प्र + √हा (छोड़ना), सम् + प्र + आप् (पाना), उद् + √छिद् (काटना), शाश्वत (नित्य), नि + √रुध् (रोकना), उद् + √पद् (उत्पन्न होना) — सभी में निषेधसूचक <em>अ/अन्</em>। <em>उच्यते</em> = √वच्, कर्मवाच्य लट् — 'कहा जाता है।' यह श्लोक निर्वाण को <strong>अष्टकोटि-विमुक्त</strong> (आठ अतियों से मुक्त) रूप में प्रस्तुत करता है — प्रज्ञापारमिता के प्रसिद्ध अष्ट-विशेषणों की याद दिलाता हुआ।<br><em>Eng:</em> Six negated (nañ-tatpuruṣa) adjectives, all describing nirvāṇa by systematically negating the very categories (abandon/attain, annihilate/eternal, cease/arise) used to describe conditioned things — echoing the eight negations of the Prajñāpāramitā tradition.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक पिछले दोनों प्रश्नों का उत्तर है। निर्वाण को किसी 'वस्तु' के रूप में समझना ही ग़लत प्रश्न है। निर्वाण न त्यागी गई कोई चीज़ है, न प्राप्त की गई — क्योंकि जब से हम देखते हैं कि स्कन्ध कभी स्वभाव से उत्पन्न ही नहीं हुए, तब उनका 'त्याग' या 'निरोध' भी स्वभाव से सिद्ध नहीं हो सकता। निर्वाण संसार के भ्रम का शमन है, कोई नई प्राप्ति नहीं।",
+        "en": "Candrakīrti says this verse answers both preceding questions. Treating nirvāṇa as a 'thing' is itself the wrong question. Nirvāṇa is neither abandoned nor attained — because once we see the aggregates never arose by intrinsic nature, their 'abandonment' or 'cessation' cannot be established by intrinsic nature either. Nirvāṇa is the pacification of saṃsāra's illusion, not a newly acquired possession.",
+        "ins": "निर्वाण कोई मंज़िल नहीं जहाँ पहुँचा जाए — यह भ्रम के छँटने का नाम है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक छह जोड़ी निषेधों से निर्वाण को घेरता है, ठीक वैसे जैसे मंगलाचरण में प्रतीत्यसमुत्पाद को आठ निषेधों से घेरा गया था। निर्वाण न उच्छेद है (कि सब मिट गया) न शाश्वत (कि कुछ स्थायी बचा) — यह दोनों अतियों से मुक्त 'मध्यम मार्ग' है।",
+        "en": "Buddhapālita says this verse encircles nirvāṇa with six negations, just as the opening maṅgala verse encircled dependent origination with eight negations. Nirvāṇa is neither annihilation (everything vanished) nor permanence (something eternal remains) — it is the middle way free of both extremes.",
+        "ins": "यह श्लोक अध्याय 1 के मंगलाचरण की प्रतिध्वनि है — शून्यता और निर्वाण एक ही सिक्के के दो पहलू हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह परिभाषा दिखाती है कि निर्वाण भाषा और संकल्पना की पकड़ से बाहर है। जब भी हम 'निर्वाण है' या 'निर्वाण नहीं है' कहते हैं, हम उसे किसी न किसी कोटि में बाँध देते हैं — जबकि निर्वाण स्वयं इन सब कोटियों की शान्ति है। यही अगले श्लोकों में विस्तार से दिखाया जाएगा।",
+        "en": "Bhāviveka says this definition shows nirvāṇa lies beyond the grasp of language and concept. Whenever we say 'nirvāṇa exists' or 'does not exist,' we confine it to some category — while nirvāṇa itself is the pacification of all such categories. This is elaborated in the verses that follow.",
+        "ins": "निर्वाण को शब्दों में बाँधना ही उसे खो देना है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "✨ अगर निर्वाण त्याग या प्राप्ति नहीं है, तो साधना का क्या मतलब?",
+        "a": "साधना व्यावहारिक स्तर पर <strong>भ्रम को पहचानने</strong> की प्रक्रिया है — कोई नई चीज़ 'बनाई' नहीं जाती, बल्कि जो ग़लत समझ (अविद्या) है वह छँटती है। परमार्थतः न कुछ त्यागा जाता है न कुछ पाया जाता है, क्योंकि क्लेश और मुक्ति दोनों कभी स्वभाव से सिद्ध ही नहीं थे।"
+      },
+      {
+        "q": "🕊️ छह निषेधों का यह श्लोक किस परम्परा से जुड़ता है?",
+        "a": "यह अध्याय 1 के प्रसिद्ध <strong>अष्ट-निषेध मंगलाचरण</strong> (अनुत्पाद, अनिरोध, अनुच्छेद, अशाश्वत आदि) की याद दिलाता है। नागार्जुन दिखाते हैं कि जो सत्य प्रतीत्यसमुत्पाद के बारे में है, वही निर्वाण के बारे में भी है — दोनों संकल्पनातीत हैं।"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "sk": "भाव इति न निर्वाणं जरामरणलक्षणम् ।\nप्रसज्येतास्ति भावो हि न जरामरणं विना ॥",
+    "ro": "bhāva · iti · na · nirvāṇaṁ · jarā-maraṇa-lakṣaṇam | prasajyetāsti · bhāvo · hi · na · jarā-maraṇaṁ · vinā ||",
+    "hi": "निर्वाण को 'भाव' यानी अस्तित्वशील वस्तु नहीं कहा जा सकता, क्योंकि वह जरा-मरण के लक्षण वाला हो जाएगा। और ऐसा कोई भी भाव नहीं मिलता जो जरा-मरण से रहित हो।",
+    "en": "Nirvāṇa cannot be called a 'bhāva' — an existent entity — for it would then bear the characteristic of aging and death. Indeed, no existent thing is ever found without aging and death.",
+    "ws": [
+      { "s": "भावः", "h": "अस्तित्वशील वस्तु / भाव", "e": "an existent entity" },
+      { "s": "निर्वाणम्", "h": "निर्वाण", "e": "nirvāṇa" },
+      { "s": "जरामरणलक्षणम्", "h": "जरा-मरण के लक्षण वाला", "e": "characterized by aging and death" },
+      { "s": "प्रसज्येत", "h": "प्रसंग होगा / फलित होगा", "e": "it would follow" },
+      { "s": "अस्ति भावः", "h": "जो भाव है", "e": "whatever is an existent" },
+      { "s": "विना", "h": "के बिना", "e": "without" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>भावः</em> = कोई भी संस्कृत (conditioned) वस्तु, जो पैदा होती और बदलती है। <em>जरामरणलक्षणम्</em> = तत्पुरुष समास, 'जरा-मरण' का 'लक्षण' रखने वाला — विशेषण, 'निर्वाणम्' से सम्बद्ध। <em>प्रसज्येत</em> = प्र + √सञ्ज् (चिपकना/फलित होना), विध्यर्थ लिङ् आत्मनेपद — 'प्रसंग/अनिष्ट परिणाम होगा' (तर्क में प्रयुक्त प्रसङ्ग-आपत्ति)। <em>हि</em> = कारण-सूचक 'क्योंकि'।<br><em>Eng:</em> A prasaṅga (reductio) argument: <em>prasajyeta</em> ('it would [absurdly] follow') marks that treating nirvāṇa as a bhāva entails an unwanted consequence — every bhāva shows aging-and-death, i.e., impermanence and change.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यहाँ से नागार्जुन चतुष्कोटि की पहली कोटि की परीक्षा शुरू करते हैं: क्या निर्वाण एक भाव है? हर भाव — चाहे वह सूक्ष्मतम परमाणु ही क्यों न हो — क्षण-क्षण बदलता है, यानी 'जरा' (क्षय) और 'मरण' (नाश) से युक्त होता है। अगर निर्वाण भी भाव हो, तो वह भी बदलता रहेगा — पर निर्वाण तो सब परिवर्तन का अन्त है। अतः निर्वाण भाव नहीं हो सकता।",
+        "en": "Candrakīrti says here Nāgārjuna begins examining the first horn of the tetralemma: is nirvāṇa an existent? Every existent — even the subtlest atom — changes moment to moment, i.e., is marked by 'aging' (decay) and 'death' (perishing). If nirvāṇa were an existent, it too would keep changing — but nirvāṇa is precisely the end of all change. So nirvāṇa cannot be a bhāva.",
+        "ins": "जो कुछ भी 'है', वह बदलता है। और जो सदा बदलता रहे, वह मुक्ति कैसे होगी?"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क सीधा और निर्णायक है: संस्कृत धर्मों की परिभाषा ही यह है कि वे उत्पन्न होकर बदलते और नष्ट होते हैं। अगर निर्वाण को 'भाव' कहें, तो वह इसी परिभाषा में बँध जाएगा — जो साधक के लक्ष्य के बिल्कुल विपरीत है, क्योंकि साधक तो जन्म-मरण के चक्र से छूटना चाहता है, न कि एक और परिवर्तनशील अवस्था पाना।",
+        "en": "Buddhapālita says the argument is direct: conditioned things are by definition marked by arising, changing, perishing. If nirvāṇa were called a 'bhāva,' it would fall into that same definition — the very opposite of the practitioner's goal, since one seeks release from the cycle of birth-death, not another changeable state.",
+        "ins": "निर्वाण को 'पाने योग्य वस्तु' समझना ही उसे फिर से संसार में गिरा देना है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यहाँ 'भाव' शब्द का अर्थ है स्वलक्षण से युक्त, संस्कृत वस्तु — जैसा अभिधर्म में समझा जाता है। नागार्जुन इस अभिधर्मिक अवधारणा को निर्वाण पर लागू करके दिखाते हैं कि वह असंगत हो जाती है। इससे यह सिद्ध होता है कि निर्वाण को किसी स्वतन्त्र, स्वलक्षण-सिद्ध पदार्थ के रूप में नहीं समझा जा सकता।",
+        "en": "Bhāviveka says 'bhāva' here means a conditioned entity possessing its own defining characteristic, as understood in Abhidharma. Nāgārjuna applies this Abhidharmic notion to nirvāṇa and shows it becomes incoherent — proving nirvāṇa cannot be understood as an independently, intrinsically established entity.",
+        "ins": "अभिधर्म की अपनी शब्दावली से ही अभिधर्मवादी का किला ढह जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⏳ 'भाव' होने का मतलब जरा-मरण से युक्त होना क्यों है?",
+        "a": "<strong>भाव</strong> यानी कोई भी संस्कृत (conditioned) वस्तु — जो कारणों से बनी है, वह हर क्षण बदलती है। यही परिवर्तन 'जरा' (क्षीण होना) और अन्ततः 'मरण' (नष्ट होना) कहलाता है। कोई भी संस्कृत वस्तु इससे बच नहीं सकती — इसलिए अगर निर्वाण भाव हो, तो वह भी नित्य परिवर्तनशील और अन्ततः नाशवान होगा, जो निर्वाण के मूल अर्थ (स्थायी शान्ति) के विपरीत है।"
+      },
+      {
+        "q": "🎯 तो निर्वाण को पाने का लक्ष्य रखना ग़लत है क्या?",
+        "a": "व्यावहारिक स्तर पर 'निर्वाण की प्राप्ति' के लिए प्रयास करना ठीक है — यह मार्ग है। पर परमार्थतः निर्वाण कोई <strong>नई प्राप्त की गई वस्तु</strong> नहीं, बल्कि भ्रम (अविद्या) के छँट जाने की अवस्था है। इसे 'भाव' समझना उसे फिर संसार के जाल में डाल देना है।"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "sk": "भावश्च यदि निर्वाणं निर्वाणं संस्कृतं भवेत् ।\nनासंस्कृतो हि विद्यते भावः क्वचन कश्चन ॥",
+    "ro": "bhāvaś · ca · yadi · nirvāṇaṁ · nirvāṇaṁ · saṁskṛtaṁ · bhavet | nāsaṁskṛto · hi · vidyate · bhāvaḥ · kvacana · kaścana ||",
+    "hi": "और अगर निर्वाण एक भाव है, तो निर्वाण संस्कृत यानी कारणों से बना हुआ ही होगा। क्योंकि ऐसा कोई भी भाव कहीं नहीं मिलता जो असंस्कृत यानी कारणों से रहित हो।",
+    "en": "And if nirvāṇa is an existent, then nirvāṇa would have to be conditioned. For no existent thing is ever found anywhere that is unconditioned.",
+    "ws": [
+      { "s": "भावः", "h": "अस्तित्वशील वस्तु", "e": "existent entity" },
+      { "s": "संस्कृतम्", "h": "संस्कृत / कारणों से बना हुआ", "e": "conditioned" },
+      { "s": "असंस्कृतः", "h": "असंस्कृत / कारणों से रहित", "e": "unconditioned" },
+      { "s": "विद्यते", "h": "पाया जाता है", "e": "is found" },
+      { "s": "क्वचन", "h": "कहीं भी", "e": "anywhere" },
+      { "s": "कश्चन", "h": "कोई भी", "e": "any" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>संस्कृतम्</em> = सम् + √कृ + क्त — 'भली प्रकार बनाया हुआ', यानी कारण-सापेक्ष। <em>असंस्कृतः</em> = इसका निषेध। <em>विद्यते</em> = √विद् (पाया जाना), आत्मनेपद लट्। <em>क्वचन, कश्चन</em> = निषेधार्थक अनिश्चयवाचक, 'न...' के साथ 'कहीं भी नहीं, कोई भी नहीं।' यह तर्क <strong>व्याप्ति</strong> पर आधारित है: 'जो भाव है वह संस्कृत है' — क्योंकि असंस्कृत भाव कहीं देखा ही नहीं गया।<br><em>Eng:</em> The argument rests on an empirical generalization (vyāpti): every observed bhāva is saṁskṛta (conditioned); an unconditioned bhāva has never been found — hence if nirvāṇa is a bhāva, it must be conditioned.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — 'भाव' और 'संस्कृत' पर्यायवाची जैसे हैं इस विश्लेषण में। जो कुछ भी अस्तित्व में है, वह किन्हीं कारणों-प्रत्ययों से उत्पन्न हुआ है। अगर निर्वाण भाव है, तो वह भी कारणों से उत्पन्न, यानी 'कृत' होगा — जो साधकों के इस विश्वास के विरुद्ध जाता है कि निर्वाण अकृत, कारण-निरपेक्ष है।",
+        "en": "Candrakīrti says 'bhāva' and 'saṁskṛta' function as near-synonyms in this analysis — whatever exists has arisen from some causes and conditions. If nirvāṇa is a bhāva, it too would be caused, contradicting the practitioners' conviction that nirvāṇa is uncaused, independent of conditions.",
+        "ins": "अगर निर्वाण कारणों से बना है, तो वह भी किसी दिन कारणों के मिटने पर मिट जाएगा — यह मुक्ति नहीं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क सर्वसम्मत अनुभव पर टिका है: जगत् में जितने भी भाव देखे गए हैं, सब कारण-प्रत्ययों से बने हैं। कोई अपवाद नहीं मिलता। इसलिए 'निर्वाण एक भाव है' मानने का सीधा परिणाम है — 'निर्वाण संस्कृत है' — जो स्वयं बौद्ध परम्परा में निर्वाण को असंस्कृत-धर्म कहे जाने के विरुद्ध खड़ा हो जाता है।",
+        "en": "Buddhapālita says this rests on universal experience: every bhāva ever observed is caused by conditions, with no exception. So asserting 'nirvāṇa is a bhāva' directly entails 'nirvāṇa is conditioned' — contradicting the Buddhist tradition's own classification of nirvāṇa as an unconditioned dharma (asaṁskṛta-dharma).",
+        "ins": "अपनी ही परम्परा के शब्दों में विरोधाभास पकड़ा जाता है — निर्वाण असंस्कृत कहा जाता है, पर भाव मानने पर संस्कृत बन जाता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — अभिधर्म परम्परा में निर्वाण को तीन असंस्कृत धर्मों में गिना जाता है। नागार्जुन यहाँ नहीं कह रहे कि निर्वाण असंस्कृत नहीं है — बल्कि दिखा रहे हैं कि 'भाव' की जो अवधारणा प्रचलित है (स्वलक्षण-युक्त, कार्य-कारण में बद्ध), उसमें निर्वाण फिट नहीं बैठता। निर्वाण को समझने के लिए 'भाव/अभाव' की द्वैत-भाषा ही अपर्याप्त है।",
+        "en": "Bhāviveka says Abhidharma tradition counts nirvāṇa among the three unconditioned dharmas. Nāgārjuna isn't denying nirvāṇa is unconditioned — he's showing the prevailing notion of 'bhāva' (bearing its own characteristic, bound in causality) simply doesn't fit nirvāṇa. The dualistic language of bhāva/abhāva is inadequate to capture it.",
+        "ins": "समस्या निर्वाण में नहीं, हमारी भाषा और अवधारणाओं की सीमा में है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⚙️ संस्कृत और असंस्कृत में क्या फ़र्क़ है?",
+        "a": "<strong>संस्कृत</strong> वह है जो कारणों-प्रत्ययों से मिलकर बनता है — जैसे शरीर, विचार, हर सांसारिक वस्तु। <strong>असंस्कृत</strong> वह है जो किसी कारण पर निर्भर नहीं — परम्परागत रूप से आकाश और निर्वाण को असंस्कृत कहा जाता है। नागार्जुन दिखाते हैं कि 'भाव' कहलाने योग्य हर चीज़ अनुभव में संस्कृत ही पाई जाती है — इसलिए निर्वाण को 'भाव' कहना उसे संस्कृत बना देगा, जो विरोधाभासी है।"
+      },
+      {
+        "q": "🔄 तो निर्वाण असंस्कृत होते हुए भी 'कुछ' कैसे है?",
+        "a": "यही आगे के श्लोकों (25.7-9) में स्पष्ट होगा — निर्वाण न भाव है न अभाव, बल्कि हर प्रकार के <strong>उपादान</strong> (ग्रहण) और <strong>प्रतीत्य</strong> (सापेक्षता) से मुक्त अवस्था है। इसे किसी कोटि में डालने की कोशिश ही ग़लत प्रश्न पूछना है।"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "sk": "भावश्च यदि निर्वाणमनुपादाय तत्कथम् ।\nनिर्वाणं नानुपादाय कश्चिद्भावो हि विद्यते ॥",
+    "ro": "bhāvaś · ca · yadi · nirvāṇam · anupādāya · tat · katham | nirvāṇaṁ · nānupādāya · kaścid · bhāvo · hi · vidyate ||",
+    "hi": "और अगर निर्वाण एक भाव है, तो वह बिना किसी सहारे के कैसे होगा? क्योंकि ऐसा कोई भी भाव नहीं मिलता जो किसी सहारे के बिना हो।",
+    "en": "And if nirvāṇa is an existent, how could it be without dependence on anything? For no existent whatsoever is found that does not depend on something.",
+    "ws": [
+      { "s": "अनुपादाय", "h": "बिना किसी सहारे / ग्रहण के", "e": "without depending / without grasping" },
+      { "s": "तत् कथम्", "h": "वह कैसे", "e": "how could that be" },
+      { "s": "कश्चित् भावः", "h": "कोई भी भाव", "e": "any existent whatsoever" },
+      { "s": "विद्यते", "h": "पाया जाता है", "e": "is found" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अनुपादाय</em> = अन् + उपादाय (उप + आ + √दा का ल्यबन्त), 'बिना ग्रहण किए/बिना सहारे के' — यह शब्द इस अध्याय में बार-बार आएगा (देखें 25.9)। <em>अनुपादाय...विद्यते</em> = निषेधार्थक वाक्य — 'बिना सहारे के कोई भाव नहीं पाया जाता', यानी हर भाव किसी न किसी वस्तु या कारण पर टिका है (उपादान/उपादान-स्कन्ध की तरह)।<br><em>Eng:</em> <em>anupādāya</em> ('without grasping/depending') is a key term reused at 25.9 to describe nirvāṇa positively. Here it negatively shows every bhāva is found only in dependence on something — so a dependence-free bhāva is a contradiction in terms.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यहाँ 'उपादान' का अर्थ है किसी वस्तु के होने के लिए किसी और वस्तु पर निर्भर होना — जैसे रथ अपने अंगों पर, या स्कन्ध अपने कारणों पर। साधक कहता है कि निर्वाण स्वतन्त्र (नित्य, कारण-निरपेक्ष) है। पर अगर निर्वाण भाव है, तो वह भी किसी न किसी चीज़ पर निर्भर सिद्ध होगा — जो उसकी स्वतन्त्रता को नकार देता है।",
+        "en": "Candrakīrti says 'upādāna' here means depending on something else to exist — as a chariot depends on its parts, or aggregates on their causes. The practitioner claims nirvāṇa is independent (unconditioned, cause-free). But if nirvāṇa is a bhāva, it too would prove dependent on something — negating that very independence.",
+        "ins": "जो कुछ भी 'है' वह किसी और चीज़ के सहारे है — पूर्ण स्वतन्त्रता किसी भाव में नहीं मिलती।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क पिछले श्लोक (संस्कृत होने का दोष) का ही एक और रूप है। हर भाव किसी सहारे पर टिका मिलता है — जैसे लम्बाई छोटाई के सहारे, प्रकाश अन्धकार के सहारे समझा जाता है। निर्वाण को 'भाव' मानते ही वह भी इस सापेक्ष जाल में फँस जाता है, जबकि निर्वाण की परिभाषा ही है इस जाल से मुक्ति।",
+        "en": "Buddhapālita says this is another facet of the previous flaw (being conditioned). Every bhāva is found resting on some support — as 'long' is understood through 'short,' light through darkness. The moment nirvāṇa is taken as a bhāva, it too gets caught in this web of relativity, while nirvāṇa is by definition freedom from that very web.",
+        "ins": "सापेक्षता का जाल इतना गहरा है कि 'भाव' कहलाने वाली कोई भी चीज़ उससे नहीं बच सकती।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक आगे आने वाले सकारात्मक विवरण (25.9, 'उपादायाप्रतीत्यैव') की भूमिका बाँधता है। यहाँ नकारात्मक ढंग से दिखाया गया है कि 'भाव' सदैव सापेक्ष है; आगे सकारात्मक ढंग से कहा जाएगा कि निर्वाण इसी सापेक्षता से मुक्त होने का नाम है।",
+        "en": "Bhāviveka says this verse sets up the positive description given later (25.9, 'without grasping, without dependence'). Here it is shown negatively that every bhāva is relative; later it will be stated positively that nirvāṇa is precisely freedom from that relativity.",
+        "ins": "नकार से भूमिका, फिर विधान से शिखर — यही नागार्जुन की शैली है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔗 'उपादान' या सहारे का यहाँ क्या मतलब है?",
+        "a": "हर वस्तु किसी न किसी दूसरी वस्तु के सहारे समझी और सिद्ध होती है — जैसे 'पुत्र' पिता के सहारे, 'ऊँचा' नीचे के सहारे। इसे <strong>प्रतीत्यसमुत्पाद</strong> भी कहा जा सकता है — सापेक्ष उत्पत्ति। नागार्जुन कहते हैं कि हर 'भाव' इसी सापेक्षता में फँसा मिलता है — इसलिए अगर निर्वाण को भाव मानें, तो वह भी सापेक्ष सिद्ध होगा, जबकि निर्वाण को निरपेक्ष और स्वतन्त्र माना जाता है।"
+      },
+      {
+        "q": "🕊️ फिर निर्वाण को समझने का सही तरीका क्या होगा?",
+        "a": "आगे श्लोक 25.9 में नागार्जुन स्पष्ट करेंगे — निर्वाण <strong>उपादान और प्रतीत्य दोनों से रहित</strong> अवस्था है। यह न 'भाव' है (सापेक्ष रूप से सिद्ध), न 'अभाव' (जो भाव पर निर्भर है) — बल्कि दोनों की सीमा से परे एक अवस्था है, जिसे भाषा ठीक से नहीं पकड़ पाती।"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "sk": "यद्यभावश्च निर्वाणमभावः किं भविष्यति ।\nयत्र भावो न विद्येत नाभावस्तत्र विद्यते ॥",
+    "ro": "yady · abhāvaś · ca · nirvāṇam · abhāvaḥ · kiṁ · bhaviṣyati | yatra · bhāvo · na · vidyeta · nābhāvas · tatra · vidyate ||",
+    "hi": "और अगर निर्वाण अभाव है यानी न होना है, तो यह अभाव किस चीज़ का होगा? क्योंकि जहाँ भाव ही नहीं पाया जाता, वहाँ अभाव भी नहीं पाया जाता।",
+    "en": "And if nirvāṇa is an abhāva — a non-existence — then non-existence of what would it be? For where no existent is found, no non-existent is found there either.",
+    "ws": [
+      { "s": "अभावः", "h": "अभाव / न होना", "e": "non-existence" },
+      { "s": "किं भविष्यति", "h": "किस चीज़ का होगा", "e": "of what would it be" },
+      { "s": "यत्र", "h": "जहाँ", "e": "where" },
+      { "s": "भावः", "h": "भाव / अस्तित्व", "e": "an existent" },
+      { "s": "न विद्येत", "h": "नहीं पाया जाता", "e": "is not found" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अभावः</em> सदैव सापेक्ष पद है — किसी 'भाव' के न होने का बोध कराता है (जैसे 'घड़े का अभाव' कहने के लिए पहले 'घड़ा' समझना ज़रूरी है)। <em>यत्र...तत्र</em> सम्बन्धवाचक सर्वनाम-युग्म — 'जहाँ...वहाँ।' यह श्लोक न्याय-वैशेषिक की <strong>अभाव</strong> की श्रेणी (जो सदा किसी 'प्रतियोगी' भाव की अपेक्षा रखती है) का प्रयोग करता है।<br><em>Eng:</em> <em>abhāva</em> is inherently relational — negation of some prior positive term (its <em>pratiyogin</em>, in Nyāya terms). Without an established bhāva to negate, 'abhāva' has no content — so nirvāṇa-as-abhāva is empty of meaning.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — अब नागार्जुन दूसरी कोटि की परीक्षा करते हैं: क्या निर्वाण अभाव है, जैसे कुछ लोग निर्वाण को 'दीपक के बुझ जाने' जैसा समझते हैं? पर 'अभाव' शब्द ही सार्थक तभी होता है जब पहले किसी 'भाव' की कल्पना की जाए — जैसे 'घट का अभाव' कहने के लिए घट को पहले समझना पड़ता है। स्कन्धों का कोई स्वभाव-सिद्ध 'भाव' कभी था ही नहीं, तो उनका 'अभाव' किसका होगा?",
+        "en": "Candrakīrti says Nāgārjuna now examines the second horn: is nirvāṇa a non-existence, as some picture it — like a lamp going out? But the word 'abhāva' is meaningful only relative to some prior 'bhāva' — as 'absence of a pot' presupposes understanding the pot. Since the aggregates never had any intrinsically established 'bhāva' to begin with, whose non-existence would nirvāṇa be?",
+        "ins": "जो कभी स्वभाव से था ही नहीं, उसका 'मिट जाना' भी अर्थहीन है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह विरोधी की दूसरी सम्भावना का खण्डन है, जो सोचता है निर्वाण माने संसार का सर्वथा मिट जाना, यानी 'शून्य में विलीन हो जाना'। पर 'मिटना' के लिए पहले कुछ 'होना' ज़रूरी है। जो वस्तु कभी स्वतन्त्र रूप से थी ही नहीं (क्योंकि सब प्रतीत्यसमुत्पन्न है), उसके 'मिटने' की बात करना निरर्थक है।",
+        "en": "Buddhapālita says this refutes the opponent's second possibility — that nirvāṇa means the utter extinction of saṃsāra, a vanishing into nothing. But 'vanishing' presupposes prior 'being.' Since nothing ever independently existed in the first place (all being dependently arisen), speaking of its 'vanishing' is meaningless.",
+        "ins": "उच्छेदवाद (सब मिट जाने की धारणा) भी उतना ही ग़लत है जितना शाश्वतवाद।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — कुछ श्रावक परम्पराएँ निर्वाण को स्कन्धों के सर्वथा उपशम (निरवशेष-निर्वाण) के रूप में, यानी एक प्रकार के 'अभाव' के रूप में समझती हैं। नागार्जुन दिखाते हैं कि यह समझ भी तार्किक रूप से टिकती नहीं — क्योंकि 'अभाव' की अवधारणा स्वयं 'भाव' पर निर्भर है, और भाव को पहले ही निरस्त किया जा चुका है।",
+        "en": "Bhāviveka says some Śrāvaka traditions understand nirvāṇa as the total quenching of the aggregates — a kind of 'non-existence.' Nāgārjuna shows this too fails logically, since the very concept of 'abhāva' depends on 'bhāva,' which has already been ruled out.",
+        "ins": "भाव को नकारने के बाद अभाव को स्वीकारना भी उसी नींव पर खड़ा है जो पहले ही गिर चुकी।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🕯️ क्या निर्वाण 'दीपक के बुझ जाने' जैसा है — यानी अभाव?",
+        "a": "यह एक आम ग़लतफ़हमी है। नागार्जुन दिखाते हैं कि <strong>अभाव</strong> हमेशा सापेक्ष होता है — 'X का अभाव' कहने के लिए पहले X को समझना ज़रूरी है। चूँकि स्कन्ध (शरीर-मन) कभी स्वभाव से 'सिद्ध वस्तु' थे ही नहीं, इसलिए उनके 'मिट जाने' की बात भी ठीक से नहीं बनती। निर्वाण 'कुछ मिटने' का नाम नहीं।"
+      },
+      {
+        "q": "🌌 तो निर्वाण को उच्छेदवाद (nihilism) से कैसे अलग समझें?",
+        "a": "<strong>उच्छेदवाद</strong> कहता है — 'सब कुछ नष्ट हो जाता है, कुछ नहीं बचता।' नागार्जुन इसे भी उतना ही ग़लत मानते हैं जितना शाश्वतवाद को। निर्वाण न किसी वस्तु की स्थायी उपस्थिति है, न उसका सर्वथा विलोपन — यह दोनों धारणाओं से परे एक अवस्था है, जिसे अगले श्लोकों में स्पष्ट किया जाएगा।"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "sk": "यद्यभावश्च निर्वाणमनुपादाय तत्कथम् ।\nनिर्वाणं नानुपादाय कश्चिदस्ति ह्यभावतः ॥",
+    "ro": "yady · abhāvaś · ca · nirvāṇam · anupādāya · tat · katham | nirvāṇaṁ · nānupādāya · kaścid · asti · hy · abhāvataḥ ||",
+    "hi": "और अगर निर्वाण अभाव है, तो वह बिना किसी सहारे के कैसे होगा? क्योंकि अभाव के रूप में कोई भी चीज़ बिना सहारे के नहीं मिलती।",
+    "en": "And if nirvāṇa is a non-existence, how could it be without dependence on anything? For nothing is ever found as a non-existence without depending on something.",
+    "ws": [
+      { "s": "अभावः", "h": "अभाव", "e": "non-existence" },
+      { "s": "अनुपादाय", "h": "बिना सहारे के", "e": "without depending" },
+      { "s": "तत् कथम्", "h": "वह कैसे", "e": "how could that be" },
+      { "s": "अभावतः", "h": "अभाव के रूप में", "e": "as a non-existence" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक 25.6 की संरचना को 'भाव' के स्थान पर 'अभाव' रखकर दोहराता है — यह जोड़ी-रचना (25.5-6 और 25.7-8) नागार्जुन की प्रिय शैली है: एक ही तर्क को दोनों कोटियों (भाव/अभाव) पर समान रूप से लागू करना। <em>अभावतः</em> = पञ्चमी विभक्ति, 'अभाव के नाते/रूप में।'<br><em>Eng:</em> Mirrors 25.6 with abhāva substituted for bhāva — Nāgārjuna's signature move of applying one argument symmetrically to both horns of a dichotomy.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — जैसे भाव सदा किसी सहारे पर टिका मिलता है, वैसे ही अभाव भी सदा किसी भाव की अपेक्षा पर टिका मिलता है — 'निरपेक्ष अभाव' जैसी कोई चीज़ अनुभव में नहीं आती। इसलिए निर्वाण को अभाव मानने पर भी वही दोष लगता है जो भाव मानने पर लगा था — वह सापेक्ष और आश्रित सिद्ध होगा।",
+        "en": "Candrakīrti says just as bhāva is always found resting on some support, abhāva too is always found depending on the bhāva it negates — an 'unconditioned non-existence' is never encountered in experience. So treating nirvāṇa as abhāva incurs the same flaw as treating it as bhāva — it would prove relative and dependent.",
+        "ins": "भाव और अभाव — दोनों एक ही सापेक्षता के दो चेहरे हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क दिखाता है कि 'भाव' और 'अभाव' असल में एक ही सिक्के के दो पहलू हैं — दोनों ही सापेक्ष अवधारणाएँ हैं, और दोनों ही किसी 'सन्दर्भ' के बिना खड़े नहीं हो सकते। निर्वाण, जो सब सन्दर्भों से परे है, इन दोनों में से किसी में फिट नहीं बैठता।",
+        "en": "Buddhapālita says this shows 'bhāva' and 'abhāva' are two faces of the same coin — both relative notions, neither able to stand without a reference context. Nirvāṇa, being beyond all such contexts, fits into neither.",
+        "ins": "भाव और अभाव दोनों एक ही जाल के धागे हैं — निर्वाण इस पूरे जाल से बाहर है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — इस युक्ति से स्पष्ट होता है कि निर्वाण को समझने के लिए 'भाव बनाम अभाव' का सामान्य तार्किक ढाँचा ही अपर्याप्त है। यही कारण है कि आगे नागार्जुन 'न भाव न अभाव' और अन्ततः 'चतुष्कोटि-विमुक्त' निर्वाण की ओर बढ़ते हैं।",
+        "en": "Bhāviveka says this shows the ordinary logical framework of 'bhāva versus abhāva' is simply inadequate for understanding nirvāṇa. This is why Nāgārjuna proceeds toward 'neither bhāva nor abhāva' and finally toward a nirvāṇa free of all four alternatives.",
+        "ins": "जब दोनों विकल्प असफल हों, तो शायद प्रश्न का ढाँचा ही बदलने की ज़रूरत है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪢 भाव और अभाव दोनों में एक ही दोष कैसे है?",
+        "a": "दोनों ही <strong>सापेक्ष</strong> अवधारणाएँ हैं। 'भाव' किसी सहारे (कारण-प्रत्यय) पर टिका मिलता है, और 'अभाव' किसी 'भाव' की अपेक्षा पर टिका मिलता है — दोनों में से कोई भी स्वतन्त्र, निरपेक्ष रूप से नहीं पाया जाता। निर्वाण, जो निरपेक्ष कहा जाता है, इसलिए इन दोनों में से किसी कोटि में ठीक से समाता नहीं।"
+      },
+      {
+        "q": "🚪 अगर भाव और अभाव दोनों असफल हैं, तो तीसरा रास्ता क्या है?",
+        "a": "अगला श्लोक (25.9) इसका उत्तर देता है — निर्वाण को <strong>सकारात्मक रूप से</strong>, किसी कोटि में डाले बिना, 'सब उपादान और प्रतीत्य के शमन' के रूप में समझा जाता है। यह तीसरा विकल्प नहीं बल्कि विकल्पों की पूरी योजना से बाहर निकलना है।"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "sk": "उपादायाप्रतीत्यैव यत्तद्देशयितुं परम् ।\nनिर्वाणमिति भगवानपवर्गं स देशयत् ॥",
+    "ro": "upādāyāpratītyaiva · yat · tad · deśayituṁ · param | nirvāṇam · iti · bhagavān · apavargaṁ · sa · deśayat ||",
+    "hi": "केवल उपादान और प्रतीत्य के सन्दर्भ में जिसका वर्णन किया जा सकता है, उसी परम अवस्था को भगवान ने 'निर्वाण' कहकर उपदेश दिया — वह मुक्ति है।",
+    "en": "That which can only be taught in terms of grasping and dependence — the Blessed One taught that supreme state, called nirvāṇa, as final release.",
+    "ws": [
+      { "s": "उपादाय", "h": "ग्रहण करके / सहारा लेकर", "e": "by way of grasping / dependence" },
+      { "s": "अप्रतीत्य", "h": "प्रतीत्य के आधार पर", "e": "in relation to dependent origination" },
+      { "s": "परम्", "h": "परम अवस्था", "e": "supreme state" },
+      { "s": "भगवान्", "h": "भगवान बुद्ध", "e": "the Blessed One" },
+      { "s": "अपवर्गम्", "h": "मुक्ति / अन्तिम छुटकारा", "e": "final release" },
+      { "s": "देशयत्", "h": "उपदेश दिया", "e": "taught" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक चतुर्थ अध्याय (24.18) की याद दिलाता है, जहाँ शून्यता को 'उपादाय प्रज्ञप्तिः' कहा गया — यहाँ निर्वाण को भी उसी सापेक्ष-निर्देशन शैली में समझाया गया है, पर 'निरपेक्ष रूप' में — यानी संसार और स्कन्धों के सन्दर्भ में जिसका 'वर्णन' होता है, स्वयं में जिसका कोई स्वतन्त्र लक्षण नहीं। <em>देशयत्</em> = दिश् धातु से लङ् (भूतकाल) — 'उपदेश दिया।'<br><em>Eng:</em> Echoes 24.18's teaching that emptiness is a 'designation in dependence.' Here, nirvāṇa too is described only relative to saṃsāra/the aggregates — it has no independent characteristic of its own; it is simply what is designated once grasping and dependence cease.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक निर्वाण की सबसे गहरी परिभाषा देता है: निर्वाण कोई स्वतन्त्र वस्तु नहीं, बल्कि वह अवस्था है जिसका वर्णन तभी हो सकता है जब हम स्कन्धों के उपादान (ग्रहण) और उनकी प्रतीत्यसमुत्पन्न प्रकृति को समझें। जब उपादान और प्रतीत्य दोनों शान्त हो जाते हैं — तब जो शेष रहता है, उसे भगवान बुद्ध ने 'निर्वाण' या 'अपवर्ग' कहा।",
+        "en": "Candrakīrti says this verse gives the deepest definition of nirvāṇa: it is not an independent thing, but describable only relative to understanding the aggregates' grasping and their dependently-arisen nature. When both grasping and dependence are pacified — what remains is what the Buddha called 'nirvāṇa' or 'final release.'",
+        "ins": "निर्वाण का कोई स्वतन्त्र चेहरा नहीं — वह संसार के शान्त होने का ही नाम है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यहाँ भगवान बुद्ध की शिक्षण-शैली की प्रशंसा है: उन्होंने निर्वाण को किसी अटकल या तत्त्वमीमांसा से नहीं, बल्कि व्यावहारिक अनुभव से समझाया — 'जब ग्रहण और सापेक्षता शान्त हो जाएँ, वही मुक्ति है।' यह कोई नई वस्तु पाने की बात नहीं, बल्कि पकड़ के छूट जाने की बात है।",
+        "en": "Buddhapālita says this praises the Buddha's teaching method: he explained nirvāṇa not through speculative metaphysics but through direct experience — 'when grasping and relativity are pacified, that itself is liberation.' This is not about attaining something new, but about grasping being released.",
+        "ins": "मुक्ति पाने की चीज़ नहीं, पकड़ छोड़ने की घटना है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — 'उपादाय' शब्द यहाँ प्रज्ञप्ति (नामकरण) की उसी पद्धति को इंगित करता है जो अध्याय 24 में शून्यता के लिए प्रयुक्त हुई थी। निर्वाण भी एक 'प्रज्ञप्ति' है — संवृति में सार्थक, परमार्थतः स्वलक्षण-रहित। यह नागार्जुन की मध्यम दृष्टि का शिखर-बिन्दु है।",
+        "en": "Bhāviveka says the term 'upādāya' points to the same method of designation (prajñapti) used for emptiness in chapter 24. Nirvāṇa too is a 'designation' — meaningful conventionally, without intrinsic characteristic ultimately. This is the summit of Nāgārjuna's middle view.",
+        "ins": "निर्वाण भी शून्यता की तरह एक 'सापेक्ष नामकरण' है, न कि कोई स्वतन्त्र सत्ता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌅 निर्वाण को 'सापेक्ष रूप से वर्णित' कहने का क्या मतलब है?",
+        "a": "जैसे अध्याय 24 में शून्यता को <strong>उपादाय प्रज्ञप्तिः</strong> (सहारा लेकर किया गया नामकरण) कहा गया था, वैसे ही यहाँ निर्वाण को भी समझाया जाता है — उपादान (ग्रहण) और प्रतीत्य (सापेक्ष उत्पत्ति) के सन्दर्भ में ही। निर्वाण का अपना कोई स्वतन्त्र, पृथक् लक्षण नहीं — यह उपादान-प्रतीत्य के <strong>शान्त हो जाने</strong> की अवस्था है।"
+      },
+      {
+        "q": "🕊️ 'अपवर्ग' शब्द का यहाँ क्या महत्त्व है?",
+        "a": "<strong>अपवर्ग</strong> का अर्थ है अन्तिम छुटकारा या मुक्ति — यह शब्द भारतीय दर्शन (सांख्य, न्याय) में भी प्रयुक्त होता है। नागार्जुन इसे अपनाकर दिखाते हैं कि बौद्ध निर्वाण भी उसी अन्तिम लक्ष्य की बात करता है, पर उसकी व्याख्या भाव/अभाव के सामान्य ढाँचे से नहीं, बल्कि उनके शमन से होती है।"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "sk": "भावाभावौ यदि पुनर्निर्वाणे स्तः कथं भवेत् ।\nन तयोरेकत्र वृत्तिरालोकतमसोरिव ॥",
+    "ro": "bhāvābhāvau · yadi · punar · nirvāṇe · staḥ · kathaṁ · bhavet | na · tayor · ekatra · vṛttir · āloka-tamasor · iva ||",
+    "hi": "और अगर निर्वाण में भाव और अभाव दोनों एक साथ हों, तो यह कैसे सम्भव होगा? क्योंकि जैसे प्रकाश और अन्धकार एक साथ एक ही स्थान पर नहीं रह सकते, वैसे ही भाव और अभाव भी एक साथ नहीं रह सकते।",
+    "en": "And if both existence and non-existence were present together in nirvāṇa, how could that be? For the two cannot occur in one place together, just as light and darkness cannot.",
+    "ws": [
+      { "s": "भावाभावौ", "h": "भाव और अभाव दोनों", "e": "existence and non-existence" },
+      { "s": "एकत्र", "h": "एक ही स्थान पर", "e": "in one place" },
+      { "s": "वृत्तिः", "h": "उपस्थिति / वर्तमान रहना", "e": "occurrence / presence" },
+      { "s": "आलोकतमसोः", "h": "प्रकाश और अन्धकार का", "e": "of light and darkness" },
+      { "s": "इव", "h": "जैसे", "e": "like / as" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>भावाभावौ</em> = द्वन्द्व समास, द्विवचन — 'भाव और अभाव दोनों।' <em>आलोकतमसोः</em> = द्वन्द्व समास, षष्ठी द्विवचन — 'प्रकाश और अन्धकार का।' <em>इव</em> उपमा-वाचक अव्यय। यह चतुष्कोटि की तीसरी कोटि (उभय) की परीक्षा आरम्भ करता है — विरोधाभासी गुणों का एक साथ होना असम्भव है, जैसे प्रकाश-अन्धकार का प्रसिद्ध दृष्टान्त दिखाता है।<br><em>Eng:</em> Begins examining the third horn (both bhāva and abhāva together). The light/darkness simile is a classic illustration of two mutually exclusive properties that cannot co-occur in the same locus.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — कुछ विचारक बीच का रास्ता निकालने की कोशिश में निर्वाण को 'भाव भी, अभाव भी' कह देते हैं — जैसे शरीर की दृष्टि से अभाव (क्लेशों का न होना) और शान्ति की दृष्टि से भाव (सुख की उपस्थिति)। पर भाव और अभाव परस्पर विरोधी गुण हैं — प्रकाश और अन्धकार की तरह — इसलिए वे एक साथ, एक ही अधिकरण में नहीं रह सकते।",
+        "en": "Candrakīrti says some thinkers, seeking a middle path, claim nirvāṇa is 'both existent and non-existent' — non-existent from the standpoint of afflictions ceasing, existent from the standpoint of peace being present. But bhāva and abhāva are mutually contradictory qualities — like light and darkness — and cannot both occur in one and the same locus.",
+        "ins": "विरोधाभासी गुणों को जोड़ देने से समाधान नहीं मिलता, केवल भ्रम बढ़ता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह कोटि सबसे स्पष्ट रूप से असंगत है, क्योंकि यह प्रत्यक्ष विरोधाभास है — जैसे कहना 'यह वस्तु गीली भी है और पूरी तरह सूखी भी है, एक ही समय एक ही जगह पर।' तर्कशास्त्र का मूल नियम (विरोध का नियम) ही इसे असम्भव बना देता है।",
+        "en": "Buddhapālita says this horn is the most obviously incoherent, being a direct contradiction — like saying 'this thing is both wet and completely dry, at the same time in the same place.' The basic law of non-contradiction in logic itself rules this out.",
+        "ins": "यह विकल्प तर्क के सबसे बुनियादी नियम को ही तोड़ देता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यहाँ प्रयुक्त प्रकाश-अन्धकार का दृष्टान्त बौद्ध तर्कशास्त्र में परस्पर-व्याघात (mutual exclusion) दिखाने का मानक उदाहरण है। इससे स्पष्ट होता है कि 'निर्वाण भाव और अभाव दोनों है' कहना केवल शब्दों का खेल है, वास्तविक अर्थ में असंगत।",
+        "en": "Bhāviveka says the light-darkness simile used here is a standard example in Buddhist logic for mutual exclusion. This clarifies that saying 'nirvāṇa is both bhāva and abhāva' is merely a play of words, incoherent in real meaning.",
+        "ins": "शब्दों को जोड़ देने से अर्थ नहीं बनता, अगर वे परस्पर विरोधी हों।"
+      }
+    },
+    "dp": [
+      {
+        "q": "💡🌑 प्रकाश-अन्धकार की उपमा यहाँ क्यों दी गई है?",
+        "a": "यह उपमा दिखाती है कि कुछ गुण <strong>परस्पर-व्याघाती</strong> (mutually exclusive) होते हैं — जहाँ प्रकाश है वहाँ अन्धकार नहीं हो सकता, और इसका उल्टा भी सच है। भाव (होना) और अभाव (न होना) भी वैसे ही परस्पर-विरोधी हैं। इसलिए निर्वाण को 'दोनों एक साथ' कहना तर्कतः असम्भव है — जैसे एक ही जगह एक ही समय प्रकाश और अन्धकार दोनों नहीं हो सकते।"
+      },
+      {
+        "q": "🤔 पर क्या शान्ति और दुःख-निवृत्ति एक साथ नहीं होती?",
+        "a": "व्यावहारिक अनुभव में दुःख का शमन और सुख-शान्ति की अनुभूति साथ-साथ हो सकते हैं — यह कोई समस्या नहीं। नागार्जुन यहाँ 'दुःख का न होना' और 'शान्ति का होना' का खण्डन नहीं कर रहे, बल्कि यह दिखा रहे हैं कि निर्वाण को <strong>स्वभाव-सिद्ध भाव और स्वभाव-सिद्ध अभाव दोनों</strong> के रूप में एक साथ पकड़ना तार्किक रूप से टिकता नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "sk": "भावाभावौ यदि पुनर्निर्वाणे स्तः कथं तथा ।\nअसंस्कृतं च निर्वाणं भावाभावौ च संस्कृतौ ॥",
+    "ro": "bhāvābhāvau · yadi · punar · nirvāṇe · staḥ · kathaṁ · tathā | asaṁskṛtaṁ · ca · nirvāṇaṁ · bhāvābhāvau · ca · saṁskṛtau ||",
+    "hi": "और अगर निर्वाण में भाव और अभाव दोनों हों, तो यह भी कैसे सम्भव है — क्योंकि निर्वाण तो असंस्कृत है, जबकि भाव और अभाव दोनों संस्कृत यानी कारण-सापेक्ष हैं।",
+    "en": "And if both existence and non-existence were in nirvāṇa, how could that be so either — for nirvāṇa is unconditioned, while both existence and non-existence are conditioned.",
+    "ws": [
+      { "s": "असंस्कृतम्", "h": "असंस्कृत / कारणों से रहित", "e": "unconditioned" },
+      { "s": "संस्कृतौ", "h": "दोनों संस्कृत", "e": "both conditioned" },
+      { "s": "कथं तथा", "h": "यह भी कैसे", "e": "how could that be so either" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक 25.6 और 25.8 में स्थापित तथ्य ('भाव संस्कृत है, अभाव भी संस्कृत है, क्योंकि वह भाव पर निर्भर है') को याद दिलाकर तीसरी कोटि पर लागू करता है। <em>असंस्कृतम्</em> और <em>संस्कृतौ</em> का सीधा विरोधाभास ('द्विवचन') दिखाया गया है — निर्वाण एक (असंस्कृत), भाव-अभाव दो (संस्कृत)।<br><em>Eng:</em> Reapplies the earlier-established fact (bhāva and abhāva are both conditioned, per 25.6/25.8) to the third horn: since nirvāṇa is unconditioned, it cannot consist of two conditioned things.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह एक दूसरा, स्वतन्त्र तर्क है जो तीसरी कोटि को गिराता है। पहले ही सिद्ध हो चुका है (25.5, 25.8) कि भाव और अभाव दोनों संस्कृत (कारण-सापेक्ष) हैं। पर निर्वाण असंस्कृत है — इसलिए वह दो संस्कृत वस्तुओं का योग कैसे हो सकता है? एक असंस्कृत चीज़ दो संस्कृत चीज़ों से नहीं बन सकती।",
+        "en": "Candrakīrti says this is a second, independent argument felling the third horn. It was already established (25.5, 25.8) that both bhāva and abhāva are conditioned. But nirvāṇa is unconditioned — so how could it be a combination of two conditioned things? An unconditioned thing cannot be composed of two conditioned ones.",
+        "ins": "जो पहले से टूटा हुआ है (भाव, अभाव — दोनों संस्कृत), उसके योग से कोई असंस्कृत वस्तु नहीं बन सकती।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क पहले तर्क (प्रकाश-अन्धकार) से भी मज़बूत है, क्योंकि यह केवल तार्किक विरोधाभास नहीं, बल्कि सैद्धान्तिक असंगति भी दिखाता है। बौद्ध परम्परा स्वयं निर्वाण को 'असंस्कृत' मानती है — इसलिए भाव-अभाव जैसे दो संस्कृत तत्त्वों से उसे बनाना परम्परा के विरुद्ध ही जाता है।",
+        "en": "Buddhapālita says this argument is even stronger than the light-darkness one, since it shows not just logical contradiction but doctrinal inconsistency. The Buddhist tradition itself holds nirvāṇa to be 'unconditioned' — so constructing it from two conditioned elements (bhāva and abhāva) contradicts the tradition's own premise.",
+        "ins": "दो तर्क, एक ही निष्कर्ष — तीसरी कोटि हर तरफ़ से गिरती है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — इन दोनों श्लोकों (25.10-11) से स्पष्ट होता है कि तीसरी कोटि दो अलग-अलग आधारों पर असफल है: एक, तार्किक विरोध (प्रकाश-अन्धकार); दूसरा, सैद्धान्तिक असंगति (असंस्कृत बनाम संस्कृत)। यह नागार्जुन की पद्धति की विशेषता है — एक ही निष्कर्ष के लिए कई स्वतन्त्र मार्गों से पहुँचना।",
+        "en": "Bhāviveka says these two verses (25.10-11) show the third horn fails on two independent grounds: logical contradiction (light-darkness), and doctrinal inconsistency (unconditioned vs. conditioned). This is characteristic of Nāgārjuna's method — reaching the same conclusion via multiple independent routes.",
+        "ins": "एक ही किले पर दो अलग दिशाओं से हमला — कोई बचाव नहीं बचता।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🏛️ यह तर्क पिछले श्लोक (प्रकाश-अन्धकार) से कैसे अलग है?",
+        "a": "पिछला तर्क शुद्ध <strong>तार्किक विरोधाभास</strong> पर आधारित था — दो विरोधी गुण एक साथ नहीं रह सकते। यह तर्क <strong>सैद्धान्तिक असंगति</strong> दिखाता है — निर्वाण को परम्परा में 'असंस्कृत' (कारण-निरपेक्ष) माना जाता है, जबकि भाव और अभाव दोनों 'संस्कृत' (कारण-सापेक्ष) सिद्ध हो चुके हैं। इसलिए संस्कृत तत्त्वों से असंस्कृत निर्वाण नहीं बन सकता।"
+      },
+      {
+        "q": "🧱 दो टूटी ईंटों से मज़बूत दीवार क्यों नहीं बनती?",
+        "a": "जैसे दो कमज़ोर ईंटों को जोड़ने से मज़बूत दीवार नहीं बनती, वैसे ही भाव और अभाव — दोनों जो पहले ही <strong>सापेक्ष और आश्रित</strong> सिद्ध हो चुके हैं — उन्हें जोड़ देने से कोई <strong>निरपेक्ष, असंस्कृत</strong> निर्वाण नहीं बन सकता। तीसरी कोटि इसी कारण गिर जाती है।"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "sk": "उभाभ्यां यदि सिध्येतां भावाभावौ प्रकाशकौ ।\nनिर्वाणे भावाभावौ सिद्धौ स्यातां तदा कथम् ॥",
+    "ro": "ubhābhyāṁ · yadi · sidhyetāṁ · bhāvābhāvau · prakāśakau | nirvāṇe · bhāvābhāvau · siddhau · syātāṁ · tadā · katham ||",
+    "hi": "भाव और अभाव दोनों एक-दूसरे को प्रकट करने वाले माने जाते हैं यानी दोनों एक-दूसरे की अपेक्षा से सिद्ध होते हैं। तो फिर निर्वाण में भाव और अभाव दोनों एक साथ सिद्ध कैसे हो सकते हैं?",
+    "en": "If existence and non-existence are established only by mutually revealing each other, then how could both existence and non-existence be simultaneously established in nirvāṇa?",
+    "ws": [
+      { "s": "उभाभ्याम्", "h": "दोनों के द्वारा", "e": "by both, mutually" },
+      { "s": "प्रकाशकौ", "h": "प्रकट करने वाले", "e": "revealing / illuminating" },
+      { "s": "सिध्येताम्", "h": "सिद्ध होते हैं", "e": "are established" },
+      { "s": "सिद्धौ", "h": "सिद्ध हुए हुए", "e": "established" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रकाशकौ</em> = प्र + √काश् + ण्वुल्, द्विवचन — 'प्रकट करने वाले दोनों।' भाव और अभाव परस्पर-सापेक्ष हैं — एक को समझे बिना दूसरा नहीं समझा जा सकता (जैसे 'लम्बा' बिना 'छोटा' के नहीं समझा जाता)। यह पारस्परिक-सापेक्षता ही उन्हें एक साथ, स्वतन्त्र रूप से 'सिद्ध' होने से रोकती है।<br><em>Eng:</em> Bhāva and abhāva are mutually defining relative terms (like 'long' and 'short') — this very interdependence prevents them from being independently, simultaneously established as co-present realities in one single locus (nirvāṇa).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — भाव और अभाव सापेक्ष पद हैं, जैसे 'दिन' और 'रात', 'लम्बा' और 'छोटा'। एक की समझ दूसरे पर निर्भर है। पर इसका यह अर्थ नहीं कि दोनों एक साथ, एक ही स्थान पर, स्वतन्त्र रूप से विद्यमान हो सकते हैं। सापेक्षता पारस्परिक समझ के लिए है, सह-अस्तित्व के लिए नहीं।",
+        "en": "Candrakīrti says bhāva and abhāva are relative terms, like 'day' and 'night,' 'long' and 'short' — understanding one depends on the other. But this doesn't mean both can simultaneously, independently exist in the same locus. Their relativity is for mutual comprehension, not co-existence.",
+        "ins": "एक-दूसरे को समझाने के लिए ज़रूरी होना, और एक साथ मौजूद होना — दो अलग बातें हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क तीसरी कोटि की परीक्षा को पूर्ण करता है। भाव और अभाव की परस्पर-सापेक्षता ही यह सिद्ध करती है कि वे दो अलग, स्वतन्त्र वास्तविकताएँ नहीं हैं जिन्हें जोड़कर 'निर्वाण' बनाया जा सके — वे तो एक ही सापेक्ष खेल के दो नाम हैं, और निर्वाण उस पूरे खेल से बाहर है।",
+        "en": "Buddhapālita says this argument completes the examination of the third horn. The mutual relativity of bhāva and abhāva shows they aren't two independent realities that could be combined to form 'nirvāṇa' — they are two names within one relative game, and nirvāṇa lies outside that entire game.",
+        "ins": "भाव और अभाव एक ही खेल के दो पासे हैं — निर्वाण इस खेल से बाहर खड़ा है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — इन चार श्लोकों (25.10-13) के बाद तीसरी कोटि (उभय) पूरी तरह निरस्त हो जाती है — तीन स्वतन्त्र तर्कों से: तार्किक विरोध, सैद्धान्तिक असंगति, और पारस्परिक-सापेक्षता। अब नागार्जुन चौथी कोटि ('न भाव न अभाव') की ओर बढ़ते हैं।",
+        "en": "Bhāviveka says after these verses (25.10-13), the third horn (both) is completely refuted through three independent arguments: logical contradiction, doctrinal inconsistency, and mutual relativity. Nāgārjuna now moves to the fourth horn — 'neither bhāva nor abhāva.'",
+        "ins": "तीन दिशाओं से घिरकर तीसरी कोटि पूरी तरह ढह जाती है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "☯️ भाव-अभाव की 'पारस्परिक-सापेक्षता' का मतलब क्या है?",
+        "a": "जैसे 'दिन' को समझने के लिए 'रात' का बोध ज़रूरी है, वैसे ही <strong>भाव</strong> (होना) को समझने के लिए <strong>अभाव</strong> (न होना) का बोध ज़रूरी है — और उल्टा भी सच है। पर इसका मतलब यह नहीं कि दिन और रात एक साथ, एक ही समय एक ही जगह घटित हो सकते हैं। भाव और अभाव भी वैसे ही — एक-दूसरे को समझाने के लिए ज़रूरी, पर एक साथ सह-उपस्थित नहीं हो सकते।"
+      },
+      {
+        "q": "🔚 तो तीसरी कोटि (भाव-भी-अभाव-भी) पूरी तरह क्यों गिरती है?",
+        "a": "चार अलग-अलग कारणों से: (1) यह <strong>तार्किक विरोधाभास</strong> है (प्रकाश-अन्धकार जैसा); (2) यह <strong>सैद्धान्तिक असंगति</strong> पैदा करता है (असंस्कृत निर्वाण, संस्कृत भाव-अभाव से नहीं बन सकता); (3) भाव-अभाव की <strong>पारस्परिक-सापेक्षता</strong> उन्हें स्वतन्त्र सह-अस्तित्व से रोकती है। तीनों मिलकर तीसरी कोटि को असम्भव सिद्ध कर देते हैं।"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "sk": "नैवाभावो न चैव भावो निर्वाणमिति दृश्यते ।\nभावाभावौ यदि हि तौ मिथ एव निषिध्येते ॥",
+    "ro": "naivābhāvo · na · caiva · bhāvo · nirvāṇam · iti · dṛśyate | bhāvābhāvau · yadi · hi · tau · mitha · eva · niṣidhyete ||",
+    "hi": "निर्वाण न अभाव के रूप में दिखता है और न भाव के रूप में — क्योंकि जब भाव और अभाव दोनों की परीक्षा होती है, तो दोनों एक-दूसरे का ही निषेध कर देते हैं।",
+    "en": "Nirvāṇa is seen neither as non-existence nor as existence — for when both existence and non-existence are examined, they end up simply negating each other.",
+    "ws": [
+      { "s": "नैव...न चैव", "h": "न ही...और न ही", "e": "neither...nor" },
+      { "s": "दृश्यते", "h": "दिखाई देता है / प्रतीत होता है", "e": "is seen / appears" },
+      { "s": "मिथः", "h": "परस्पर / एक-दूसरे को", "e": "mutually" },
+      { "s": "निषिध्येते", "h": "दोनों निषेध हो जाते हैं", "e": "both get negated" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>नैव...न चैव</em> = द्विगुणित निषेध, दृढ़ता के लिए — 'बिलकुल नहीं...बिलकुल नहीं भी।' <em>मिथः</em> = अव्यय, 'परस्पर।' <em>निषिध्येते</em> = नि + √सिध्, कर्मवाच्य लट् द्विवचन — 'दोनों निषिद्ध हो जाते हैं।' यह चौथी कोटि ('न भाव न अभाव') की परीक्षा आरम्भ करता है — पिछली तीन कोटियों के खण्डन के आधार पर।<br><em>Eng:</em> Begins examining the fourth horn ('neither bhāva nor abhāva'), building on the refutation of the first three — since bhāva and abhāva have each individually failed (verses 4-9) and jointly failed (10-13), their mutual negation is not itself a stable fourth position either.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — अब चौथी कोटि की परीक्षा होती है: क्या निर्वाण 'न भाव न अभाव' है? यह प्रतीत होता है कि यह सबसे सुरक्षित विकल्प है, क्योंकि यह दोनों पिछली आपत्तियों से बच जाता है। पर वास्तव में यह कोटि स्वयं भाव और अभाव पर निर्भर है — इसे समझने के लिए पहले भाव और अभाव को समझना पड़ता है, जिन्हें पहले ही निरस्त किया जा चुका है।",
+        "en": "Candrakīrti says now the fourth horn is examined: is nirvāṇa 'neither bhāva nor abhāva'? This seems the safest option, escaping the previous objections. But this position itself depends on bhāva and abhāva — understanding it requires first understanding bhāva and abhāva, which have already been refuted.",
+        "ins": "चौथी कोटि भी पहली तीन पर टिकी है — नींव गिर चुकी हो तो चौथी मंज़िल भी नहीं टिकती।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'न भाव न अभाव' कहना असल में भाव और अभाव दोनों को एक साथ नकारना है। पर नकारने के लिए भी किसी चीज़ की कल्पना ज़रूरी है जिसे नकारा जाए। जब भाव और अभाव दोनों ही स्वभाव से असिद्ध हैं, तो उनका 'संयुक्त निषेध' भी कोई नई, स्वतन्त्र वास्तविकता नहीं बना सकता।",
+        "en": "Buddhapālita says saying 'neither bhāva nor abhāva' is really negating both together. But negation requires something to be conceived in order to be negated. Since both bhāva and abhāva are already unestablished by intrinsic nature, their 'joint negation' cannot produce some new, independent reality either.",
+        "ins": "जो पहले से ख़ाली है, उसे नकारने से भी कोई नई चीज़ नहीं भरती।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक याद दिलाता है कि चतुष्कोटि की चारों कोटियाँ आपस में गुँथी हुई हैं — तीसरी और चौथी कोटि पहली दो कोटियों (भाव, अभाव) पर ही निर्भर करती हैं। जब आधार (भाव, अभाव) ही स्वभाव से सिद्ध नहीं होते, तो उन पर बनी हर इमारत — चाहे वह 'दोनों' हो या 'न दोनों' — गिर जाती है।",
+        "en": "Bhāviveka says this verse reminds us all four horns of the tetralemma are interlinked — the third and fourth horns depend on the first two (bhāva, abhāva). When the foundation (bhāva, abhāva) itself isn't established by intrinsic nature, everything built on it — whether 'both' or 'neither' — collapses.",
+        "ins": "चारों कोटियाँ एक ही इमारत की चार मंज़िलें हैं — नींव गिरते ही सब गिर जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🛡️ 'न भाव न अभाव' सबसे सुरक्षित उत्तर क्यों नहीं है?",
+        "a": "यह उत्तर लगता तो सुरक्षित है, क्योंकि यह दोनों पिछली आपत्तियों से बचता प्रतीत होता है। पर वास्तव में इसे समझने के लिए भी पहले <strong>भाव</strong> और <strong>अभाव</strong> की अवधारणा चाहिए, जिन्हें नकारा जाए। चूँकि भाव और अभाव दोनों ही स्वभाव से असिद्ध सिद्ध हो चुके हैं (श्लोक 4-13 में), इसलिए उनका 'संयुक्त निषेध' भी कोई ठोस, स्वतन्त्र उत्तर नहीं बन पाता।"
+      },
+      {
+        "q": "🔁 चारों कोटियाँ आपस में कैसे जुड़ी हैं?",
+        "a": "<strong>चतुष्कोटि</strong> — भाव, अभाव, दोनों, न दोनों — एक श्रृंखला की तरह हैं। पहली दो कोटियाँ (भाव, अभाव) आधार हैं; तीसरी (दोनों) और चौथी (न दोनों) उन्हीं दो पर निर्भर हैं। जब आधार की दोनों कोटियाँ गिर जाती हैं, तो उन पर टिकी तीसरी और चौथी कोटियाँ भी अपने आप गिर जाती हैं।"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "sk": "नोभयं नानुभयं चेत्सिद्ध्येत्कोटिचतुष्टयम् ।\nकथं तत्रोपलभ्येत निर्वाणं भावतोऽन्यतः ॥",
+    "ro": "nobhayaṁ · nānubhayaṁ · cet · sidhyet · koṭi-catuṣṭayam | kathaṁ · tatropalabhyeta · nirvāṇaṁ · bhāvato'nyataḥ ||",
+    "hi": "यदि 'दोनों' और 'न दोनों' भी सिद्ध नहीं होते, तो ये चारों कोटियाँ ही निरस्त हो जाती हैं। फिर निर्वाण को किसी भी 'भाव' की तरह इनमें से कैसे ग्रहण किया जाए?",
+    "en": "If 'both' and 'neither' also fail to be established, then all four alternatives are refuted. How then could nirvāṇa be grasped there, as if it were some kind of existent thing among these categories?",
+    "ws": [
+      { "s": "उभयम्", "h": "दोनों", "e": "both" },
+      { "s": "अनुभयम्", "h": "न दोनों / दोनों का निषेध", "e": "neither" },
+      { "s": "कोटिचतुष्टयम्", "h": "चार कोटियाँ", "e": "the four alternatives" },
+      { "s": "उपलभ्येत", "h": "ग्रहण किया जाए / समझा जाए", "e": "could be grasped / apprehended" },
+      { "s": "भावतः अन्यतः", "h": "किसी भाव-रूप से", "e": "as some kind of existent" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>कोटिचतुष्टयम्</em> = तत्पुरुष समास, 'चार कोटियों का समूह' — यानी चतुष्कोटि। <em>उपलभ्येत</em> = उप + √लभ्, विध्यर्थ लिङ् कर्मवाच्य — 'ग्रहण किया जा सके।' यह श्लोक निष्कर्ष रूप में कहता है — जब चारों कोटियाँ (भाव, अभाव, उभय, अनुभय) असफल हो जाती हैं, तो निर्वाण को किसी संकल्पनात्मक ढाँचे में पकड़ना ही असम्भव है।<br><em>Eng:</em> Concluding statement: once all four horns of the tetralemma (bhāva, abhāva, both, neither) have failed, nirvāṇa simply cannot be conceptually grasped within any of the four categories — it is <em>catuṣkoṭi-vinirmukta</em>, free of the tetralemma altogether.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक चतुष्कोटि-विश्लेषण का समापन है। भाव, अभाव, दोनों, न दोनों — चारों में से कोई भी निर्वाण को ठीक से नहीं पकड़ पाता। इसका निष्कर्ष यह नहीं कि निर्वाण नहीं है, बल्कि यह कि निर्वाण भाषा और तर्क की उन श्रेणियों से परे है जिनमें हम सामान्यतः वस्तुओं को बाँधते हैं। यही 'प्रपञ्चोपशम' (सब वैचारिक-विस्तार का शमन) की ओर इशारा है।",
+        "en": "Candrakīrti says this verse concludes the tetralemma analysis. None of the four — bhāva, abhāva, both, neither — properly captures nirvāṇa. This doesn't conclude that nirvāṇa doesn't exist, but that nirvāṇa lies beyond the categories in which we normally frame things. This points toward 'prapañcopaśama' — the pacification of all conceptual proliferation.",
+        "ins": "जो तर्क की चारों नावों में नहीं समाता, वह तर्क से परे है — नकार से नहीं, अतिक्रमण से।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह सिद्ध करता है कि निर्वाण के विषय में कोई भी संकल्पनात्मक कथन — चाहे भाषा में कितना भी सूक्ष्म क्यों न हो — अन्ततः अधूरा रह जाता है। यह बुद्ध की मौन-नीति (अव्याकृत प्रश्नों पर मौन) का दार्शनिक आधार है।",
+        "en": "Buddhapālita says this establishes that any conceptual statement about nirvāṇa — however subtle in language — ultimately remains incomplete. This is the philosophical basis for the Buddha's silence on the unanswered questions (avyākṛta).",
+        "ins": "बुद्ध का मौन कमज़ोरी नहीं, बल्कि प्रश्न की सीमा की पहचान था।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — 'कोटिचतुष्टयम्' शब्द स्पष्ट रूप से चतुष्कोटि पद्धति की ओर इशारा करता है, जो नागार्जुन की मुख्य विश्लेषण-प्रविधि है (जैसा अध्याय 1 से ही देखा गया)। यह श्लोक दिखाता है कि यह प्रविधि निर्वाण जैसे परम विषय पर भी उतनी ही प्रभावी ढंग से लागू होती है।",
+        "en": "Bhāviveka says the term 'koṭicatuṣṭayam' clearly points to the tetralemma method, Nāgārjuna's central analytical device (seen since chapter 1). This verse shows the method applies just as effectively even to the ultimate topic of nirvāṇa.",
+        "ins": "चतुष्कोटि केवल एक तर्क-प्रविधि नहीं — यह वास्तविकता की प्रकृति को उजागर करने का औज़ार है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 अगर चारों कोटियाँ असफल हों, तो क्या निर्वाण 'कुछ भी नहीं' है?",
+        "a": "बिलकुल नहीं। चारों कोटियों का असफल होना इसका अर्थ नहीं कि निर्वाण 'शून्य' या 'न कुछ' है — बल्कि इसका अर्थ है कि निर्वाण <strong>संकल्पनात्मक श्रेणियों से परे</strong> है। हमारी भाषा और तर्क चार खानों में सोचते हैं (है, नहीं है, दोनों, न दोनों), पर निर्वाण इन खानों में बंटता ही नहीं — यह भाषातीत अनुभव की बात है, अस्तित्वहीनता की नहीं।"
+      },
+      {
+        "q": "🤐 इसका बुद्ध के 'मौन' से क्या सम्बन्ध है?",
+        "a": "बुद्ध कई तात्त्विक प्रश्नों ('मृत्यु के बाद तथागत है या नहीं?' आदि, जिन्हें <strong>अव्याकृत</strong> कहा गया) पर मौन रहते थे। यह श्लोक दिखाता है क्यों — क्योंकि हर सम्भव उत्तर (है, नहीं है, दोनों, न दोनों) तार्किक रूप से टूट जाता है। मौन कमज़ोरी नहीं, बल्कि प्रश्न की सीमा की गहरी समझ थी।"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "sk": "भवत्यथ न भवति च नोभयं नोभयं च न ।\nतथागतो निषण्णोऽयं परं मरणतो यथा ॥",
+    "ro": "bhavaty · atha · na · bhavati · ca · nobhayaṁ · nobhayaṁ · ca · na | tathāgato · niṣaṇṇo'yaṁ · paraṁ · maraṇato · yathā ||",
+    "hi": "मृत्यु के बाद तथागत हैं, या नहीं हैं, या दोनों हैं, या दोनों नहीं हैं — इन चारों में से कोई भी दृष्टि यहाँ स्थिर नहीं बैठती।",
+    "en": "Whether the Tathāgata exists after death, or does not exist, or both, or neither — none of these four positions holds firm here.",
+    "ws": [
+      { "s": "तथागतः", "h": "तथागत / बुद्ध", "e": "the Tathāgata" },
+      { "s": "परं मरणतः", "h": "मृत्यु के बाद", "e": "after death" },
+      { "s": "निषण्णः", "h": "स्थिर बैठा हुआ / प्रतिष्ठित", "e": "settled / established" },
+      { "s": "भवति", "h": "होता है / है", "e": "exists" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>परं मरणतः</em> = 'मृत्यु के परे/बाद' — यह प्रसिद्ध <strong>अव्याकृत-वस्तु</strong> (बुद्ध द्वारा अनुत्तरित चौदह प्रश्नों में से एक) है, जिसकी चर्चा अध्याय 22 (तथागत-परीक्षा) में विस्तार से हुई थी। यहाँ वही चतुष्कोटि निर्वाण के प्रसंग में फिर लागू होती है, क्योंकि तथागत और निर्वाण का प्रश्न परस्पर जुड़ा है।<br><em>Eng:</em> Reprises the famous <em>avyākṛta</em> question (one of the fourteen unanswered questions) already examined at length in Chapter 22 (Examination of the Tathāgata) — reapplied here because the question of the Tathāgata's post-mortem status is inseparable from the question of nirvāṇa.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — नागार्जुन अब निर्वाण-परीक्षा को तथागत-परीक्षा से जोड़ते हैं, क्योंकि 'तथागत निर्वाण को प्राप्त होते हैं' कहा जाता है। पर जैसे निर्वाण चतुष्कोटि में नहीं समाता, वैसे ही तथागत का मृत्यु के बाद 'होना, न होना, दोनों, न दोनों' भी चारों में से किसी में नहीं समाता — क्योंकि तथागत स्वयं स्कन्धों से परे, अवाच्य हैं।",
+        "en": "Candrakīrti says Nāgārjuna now links the examination of nirvāṇa with that of the Tathāgata, since 'the Tathāgata attains nirvāṇa.' But just as nirvāṇa doesn't fit the tetralemma, whether the Tathāgata 'exists, doesn't exist, both, or neither' after death also fits none of the four — because the Tathāgata is himself beyond the aggregates, inexpressible.",
+        "ins": "तथागत और निर्वाण एक ही सिक्के के दो पहलू हैं — दोनों संकल्पना से परे।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह ठीक अध्याय 22 के तर्क को दोहराता है: तथागत को स्कन्धों से न तो अभिन्न कहा जा सकता है, न भिन्न। जब जीवित तथागत ही 'भाव' या 'अभाव' की श्रेणी में ठीक से नहीं समाते, तो मृत्यु के बाद उनकी स्थिति पूछना और भी अर्थहीन प्रश्न पूछना है।",
+        "en": "Buddhapālita says this exactly repeats the argument of Chapter 22: the Tathāgata can be called neither identical to nor different from the aggregates. Since even the living Tathāgata doesn't properly fit the category of 'existent' or 'non-existent,' asking about his status after death is an even more meaningless question.",
+        "ins": "जब जीवित तथागत ही श्रेणियों से परे हैं, तो मृत्यु के बाद का प्रश्न स्वयं ग़लत ढंग से पूछा गया है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक बुद्ध के चौदह अव्याकृत प्रश्नों में से चार का सीधा उल्लेख करता है ('तथागत मृत्यु के बाद है, नहीं है, दोनों, न दोनों')। बुद्ध ने इन प्रश्नों पर जानबूझकर मौन रखा, क्योंकि प्रश्न स्वयं ग़लत पूर्वधारणा पर टिका है — कि तथागत कोई स्वभाव-सिद्ध वस्तु है जिसकी 'स्थिति' निर्धारित की जा सके।",
+        "en": "Bhāviveka says this verse directly references four of the Buddha's fourteen unanswered questions ('the Tathāgata after death exists, doesn't exist, both, neither'). The Buddha deliberately kept silent on these, because the question itself rests on a false presupposition — that the Tathāgata is some intrinsically established entity whose 'status' could be determined.",
+        "ins": "प्रश्न ही ग़लत हो तो कोई भी उत्तर सही नहीं हो सकता — बुद्ध का मौन यही दिखाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "❓ बुद्ध ने 'मृत्यु के बाद तथागत' के प्रश्न पर मौन क्यों रखा?",
+        "a": "यह प्रश्न बुद्ध के प्रसिद्ध <strong>चौदह अव्याकृत प्रश्नों</strong> में से एक था। बुद्ध मौन रहे क्योंकि प्रश्न ही एक ग़लत पूर्वधारणा पर टिका है — कि तथागत कोई स्वभाव-सिद्ध, ठोस वस्तु हैं जिनकी मृत्यु के बाद 'स्थिति' का पता लगाया जा सके। जब यह पूर्वधारणा ही ग़लत हो, तो चारों सम्भव उत्तर (है/नहीं/दोनों/न दोनों) व्यर्थ हो जाते हैं।"
+      },
+      {
+        "q": "🔗 इसका निर्वाण की चर्चा से क्या सम्बन्ध है?",
+        "a": "तथागत को 'निर्वाण प्राप्त' कहा जाता है, इसलिए तथागत का प्रश्न और निर्वाण का प्रश्न आपस में गुँथे हैं। जैसे निर्वाण <strong>चतुष्कोटि</strong> में नहीं समाता (श्लोक 12-14), वैसे ही तथागत की मृत्यु-पश्चात् स्थिति भी नहीं समाती — क्योंकि दोनों ही संकल्पनातीत हैं।"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "sk": "प्रपञ्चयन्ति ये बुद्धं प्रपञ्चातीतमव्ययम् ।\nते प्रपञ्चहताः सर्वे न पश्यन्ति तथागतम् ॥",
+    "ro": "prapañcayanti · ye · buddhaṁ · prapañcātītam · avyayam | te · prapañca-hatāḥ · sarve · na · paśyanti · tathāgatam ||",
+    "hi": "जो लोग बुद्ध को — जो स्वयं वैचारिक-विस्तार से परे और अविनाशी हैं — संकल्पनाओं में बाँधने की कोशिश करते हैं, वे सब संकल्पनाओं से ही मारे जाते हैं और तथागत को नहीं देख पाते।",
+    "en": "Those who conceptually elaborate the Buddha — who is beyond conceptual proliferation and imperishable — all those, struck down by their own proliferation, fail to see the Tathāgata.",
+    "ws": [
+      { "s": "प्रपञ्चयन्ति", "h": "संकल्पनाओं में बाँधते हैं / वैचारिक विस्तार करते हैं", "e": "conceptually elaborate" },
+      { "s": "प्रपञ्चातीतम्", "h": "वैचारिक-विस्तार से परे", "e": "beyond conceptual proliferation" },
+      { "s": "अव्ययम्", "h": "अविनाशी / अक्षय", "e": "imperishable" },
+      { "s": "प्रपञ्चहताः", "h": "प्रपञ्च से मारे हुए / नष्ट हुए", "e": "struck down by proliferation" },
+      { "s": "न पश्यन्ति", "h": "नहीं देखते", "e": "do not see" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रपञ्चयन्ति</em> = प्रपञ्च से नामधातु, लट् — 'वैचारिक-विस्तार में बदल देते हैं/उलझा देते हैं।' <em>प्रपञ्च</em> शब्द इस अध्याय का केन्द्रीय पारिभाषिक शब्द है — भाषा, संकल्पना, द्वैत-दृष्टि से उत्पन्न मानसिक-विस्तार। <em>प्रपञ्चहताः</em> = बहुव्रीहि समास, 'जिनको प्रपञ्च ने मार डाला है।' यह श्लोक अध्याय के अन्तिम, प्रसिद्ध निष्कर्ष (25.24: 'प्रपञ्चोपशमः शिवः') की भूमिका बाँधता है।<br><em>Eng:</em> Introduces the chapter's central technical term <em>prapañca</em> — conceptual proliferation arising from language and dualistic perception. Sets up the famous closing verse (25.24) where the pacification of prapañca is equated with liberation itself.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक बताता है कि 'तथागत मृत्यु के बाद है या नहीं' जैसे प्रश्न पूछने वाले लोग असल में <strong>प्रपञ्च</strong> — भाषिक-संकल्पनात्मक विस्तार — के शिकार हैं। बुद्ध स्वयं इस पूरे विस्तार से परे हैं; जो उन्हें संकल्पनाओं में बाँधने की कोशिश करता है, वह बुद्ध को देखने से चूक जाता है — जैसे कोई मुट्ठी में हवा बाँधने की कोशिश करे।",
+        "en": "Candrakīrti says this verse explains that those who ask 'does the Tathāgata exist after death or not' are victims of <em>prapañca</em> — linguistic-conceptual proliferation. The Buddha himself is beyond this entire elaboration; anyone who tries to bind him in concepts fails to see him — like trying to grasp air in a fist.",
+        "ins": "जो बुद्ध को शब्दों में क़ैद करना चाहता है, वह बुद्ध को खो देता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'प्रपञ्चहताः' शब्द बहुत सटीक है — जैसे कोई हथियार से मारा जाता है, वैसे ही संकल्पनात्मक विस्तार करने वाला व्यक्ति अपने ही विचारों से 'मारा' जाता है, यानी सत्य को देखने की क्षमता खो देता है। यह चेतावनी है कि अत्यधिक बौद्धिक विश्लेषण भी, अगर आसक्ति के साथ हो, बन्धन बन सकता है।",
+        "en": "Buddhapālita says 'prapañca-hataḥ' is a very precise term — just as one is struck down by a weapon, one who conceptually elaborates is 'struck down' by one's own thoughts, i.e., loses the capacity to see truth. This warns that even excessive intellectual analysis, if clung to, can become bondage.",
+        "ins": "अत्यधिक विचार भी, अगर पकड़ के साथ हो, बन्धन बन सकता है — यहाँ तक कि बुद्ध के बारे में विचार भी।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अध्याय के निष्कर्ष की भूमिका बाँधता है। 'प्रपञ्च' का शमन ही अन्तिम शान्ति है (25.24), और यहाँ दिखाया गया है कि यह शमन बुद्ध और तथागत जैसी परम अवधारणाओं पर भी लागू होता है — किसी को भी, यहाँ तक कि बुद्ध को भी, संकल्पना में जकड़ना ग़लती है।",
+        "en": "Bhāviveka says this verse sets up the chapter's conclusion. The pacification of 'prapañca' is the final peace (25.24), and here it's shown this pacification applies even to ultimate concepts like the Buddha and Tathāgata — binding anyone, even the Buddha, into concepts is a mistake.",
+        "ins": "यहाँ तक कि 'बुद्ध' की धारणा भी, अगर ठोस पकड़ बन जाए, त्यागने योग्य है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🕸️ 'प्रपञ्च' शब्द का यहाँ क्या मतलब है?",
+        "a": "<strong>प्रपञ्च</strong> का अर्थ है भाषा और संकल्पनाओं से पैदा हुआ मानसिक-विस्तार — जब हम अनुभव को शब्दों, श्रेणियों, द्वैत-भेदों (है/नहीं है, मैं/तू) में बाँट देते हैं। यह अध्याय दिखाता है कि निर्वाण और बुद्ध को समझने की हर कोशिश, जो शब्दों-श्रेणियों पर टिकी है, अपने आप में प्रपञ्च है — और यही प्रपञ्च सत्य को देखने से रोकता है।"
+      },
+      {
+        "q": "🙈 तो क्या बुद्ध के बारे में सोचना-विचार ग़लत है?",
+        "a": "व्यावहारिक स्तर पर बुद्ध के गुणों का चिन्तन, स्मरण अत्यन्त लाभकारी है — यह मार्ग का हिस्सा है। समस्या तब आती है जब हम बुद्ध या तथागत को <strong>किसी ठोस, स्वभाव-सिद्ध वस्तु</strong> के रूप में पकड़ लेते हैं और उसकी 'स्थिति' (है/नहीं है) पर बहस करने लगते हैं — यही पकड़ 'प्रपञ्च' है, जो सत्य-दर्शन में बाधक बनती है।"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "sk": "यावज्जीवं तथागतो न सन्नासन्न चोभयम् ।\nमरणादूर्ध्वमप्येष न सन्नासन्न चोभयम् ॥",
+    "ro": "yāvaj-jīvaṁ · tathāgato · na · san · nāsan · na · cobhayam | maraṇād · ūrdhvam · apy · eṣaḥ · na · san · nāsan · na · cobhayam ||",
+    "hi": "जब तक जीवित हैं, तब तक भी तथागत न 'हैं' कहे जा सकते हैं, न 'नहीं हैं', न 'दोनों'। और मृत्यु के बाद भी वे न 'हैं', न 'नहीं हैं', न 'दोनों' कहे जा सकते हैं।",
+    "en": "Even while alive, the Tathāgata is neither existent, nor non-existent, nor both. And after death too, he is neither existent, nor non-existent, nor both.",
+    "ws": [
+      { "s": "यावज्जीवम्", "h": "जब तक जीवित रहते हैं", "e": "as long as alive" },
+      { "s": "मरणात् ऊर्ध्वम्", "h": "मृत्यु के बाद", "e": "after death" },
+      { "s": "न सन्", "h": "न होते हुए / नहीं है", "e": "not existent" },
+      { "s": "नासन्", "h": "न असत् / नहीं अनस्तित्व", "e": "not non-existent" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>यावज्जीवम्</em> = अव्ययीभाव समास, 'जीवन-पर्यन्त।' <em>न सन् नासन्</em> = 'सत्' (होते हुए) और 'असत्' (न होते हुए) दोनों का निषेध — 'सत्' शब्द √अस् का वर्तमान कृदन्त है। यह श्लोक दिखाता है कि तथागत-सम्बन्धी चतुष्कोटि-विश्लेषण केवल मृत्यु के बाद ही नहीं, बल्कि जीवित रहते हुए भी लागू होता है — तथागत सदैव संकल्पना से परे हैं।<br><em>Eng:</em> Extends the tetralemma analysis of the Tathāgata beyond the post-mortem question to the Tathāgata's status even while alive — showing the inapplicability of the four categories is not limited to death, but characterizes the Tathāgata's nature at all times.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक एक महत्त्वपूर्ण विस्तार करता है: तथागत की अवाच्यता केवल मृत्यु के बाद की बात नहीं, बल्कि जीवित रहते हुए भी सत्य है। जैसे स्कन्धों से तथागत का सम्बन्ध अध्याय 22 में अनिर्वचनीय सिद्ध हुआ, वैसे ही 'है/नहीं है' की कोटियाँ हर समय तथागत पर लागू नहीं होतीं।",
+        "en": "Candrakīrti says this verse makes an important extension: the Tathāgata's inexpressibility isn't only a post-mortem matter, but true even while alive. Just as Chapter 22 established the Tathāgata's relation to the aggregates as inexpressible, the categories 'exists/doesn't exist' fail to apply to the Tathāgata at any time.",
+        "ins": "तथागत की अवाच्यता कोई मृत्यु के बाद की रहस्यमयी बात नहीं — यह हर क्षण सत्य है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह इस भ्रान्ति को दूर करता है कि 'जीवित रहते तो तथागत निश्चित रूप से हैं, बस मृत्यु के बाद प्रश्न उठता है।' नहीं — नागार्जुन कहते हैं कि तथागत को किसी भी समय स्वभाव-सिद्ध 'भाव' के रूप में पकड़ना ग़लत है, क्योंकि वे स्वयं स्कन्धों से न अभिन्न हैं न भिन्न।",
+        "en": "Buddhapālita says this dispels the misconception that 'while alive the Tathāgata certainly exists, only after death does the question arise.' No — Nāgārjuna says grasping the Tathāgata as an intrinsically established 'bhāva' at any time is mistaken, since he is neither identical to nor different from the aggregates.",
+        "ins": "तथागत को 'जीवित व्यक्ति' के रूप में भी ठोस पकड़ना ग़लत समझ है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अगले श्लोक (25.18, विश्व की अनन्तता का प्रश्न) की ओर तर्क का विस्तार करता है। जैसे तथागत का सत्य-स्वरूप हर समय अवाच्य है, वैसे ही विश्व के आदि-अन्त का प्रश्न भी उसी अवाच्यता में समा जाता है — दोनों प्रश्न एक ही अव्याकृत-श्रेणी के हैं।",
+        "en": "Bhāviveka says this verse extends the reasoning toward the next verse (25.18, on the world's finitude). Just as the Tathāgata's true nature is inexpressible at all times, the question of the world's beginning and end also falls into that same inexpressibility — both belong to the same class of unanswered questions.",
+        "ins": "तथागत और विश्व — दोनों प्रश्न एक ही अव्याकृत-कोटि में आते हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌱 तो क्या जीवित बुद्ध भी 'नहीं थे'?",
+        "a": "बिलकुल नहीं — व्यावहारिक स्तर पर बुद्ध निश्चित रूप से जीवित थे, उपदेश देते थे, चलते-फिरते थे। नागार्जुन परमार्थ स्तर की बात कर रहे हैं — कि तथागत को <strong>स्वभाव-सिद्ध, स्वतन्त्र वस्तु</strong> के रूप में 'है' या 'नहीं है' में बाँधना ग़लत है, चाहे वे जीवित हों या मृत्यु के बाद। यह उनके अस्तित्व को नकारना नहीं, बल्कि उनकी प्रकृति की गहराई को स्वीकारना है।"
+      },
+      {
+        "q": "🔄 यह श्लोक 25.15 (मृत्यु के बाद) से आगे क्या जोड़ता है?",
+        "a": "पिछला श्लोक केवल मृत्यु के बाद के प्रश्न तक सीमित था। यह श्लोक दिखाता है कि यही अवाच्यता <strong>हर समय</strong> लागू होती है — जीवन में भी, मृत्यु में भी। इससे स्पष्ट होता है कि समस्या 'मृत्यु' में नहीं, बल्कि तथागत को एक ठोस, स्वभाव-सिद्ध वस्तु मान लेने की हमारी आदत में है।"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "sk": "शाश्वताशाश्वताद्याश्च दृष्टयो लोकसंश्रिताः ।\nअपरं निर्वाणकोट्यां च दृष्टयस्ता निवर्तन्ते ॥",
+    "ro": "śāśvatāśāśvatādyāś · ca · dṛṣṭayo · loka-saṁśritāḥ | aparaṁ · nirvāṇa-koṭyāṁ · ca · dṛṣṭayas · tā · nivartante ||",
+    "hi": "'संसार शाश्वत है, अशाश्वत है' आदि दृष्टियाँ लोक के आश्रय से उठती हैं — और ऐसी ही दृष्टियाँ निर्वाण की सीमा के विषय में भी उठती हैं। पर ये सारी दृष्टियाँ वहाँ निवृत्त हो जाती हैं।",
+    "en": "Views such as 'the world is eternal, or not eternal' arise depending on the world — and similar views arise regarding the limit of nirvāṇa too. But all such views cease to apply there.",
+    "ws": [
+      { "s": "शाश्वताशाश्वतादयः", "h": "शाश्वत-अशाश्वत आदि (दृष्टियाँ)", "e": "views such as eternal / non-eternal" },
+      { "s": "दृष्टयः", "h": "दृष्टियाँ / मत", "e": "views / positions" },
+      { "s": "लोकसंश्रिताः", "h": "लोक के आश्रय पर टिकी हुई", "e": "dependent on the world" },
+      { "s": "निवर्तन्ते", "h": "निवृत्त हो जाती हैं / लौट जाती हैं", "e": "cease / turn back" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक अध्याय 27 (दृष्टि-परीक्षा) के विषय — विश्व शाश्वत है या अशाश्वत, अन्तवान् है या अनन्त — को यहाँ संक्षेप में उठाता है, और दिखाता है कि यही विश्लेषण-पद्धति निर्वाण की 'सीमा' (कोटि) के प्रश्न पर भी लागू होती है। <em>निवर्तन्ते</em> = नि + √वृत्, आत्मनेपद लट् — 'लौट जाती हैं/रुक जाती हैं', यानी ये दृष्टियाँ लागू नहीं होतीं।<br><em>Eng:</em> Compresses the topic later expanded in Chapter 27 (Examination of Views) — whether the world is eternal or not, finite or infinite — showing the same analysis applies to the question of nirvāṇa's 'limit.' <em>nivartante</em> ('turn back, cease to apply') signals these views simply don't reach nirvāṇa.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — जैसे 'विश्व शाश्वत है या नहीं' जैसी दृष्टियाँ स्कन्धों और लोक के अस्तित्व को मान लेने पर ही उठती हैं, वैसे ही 'निर्वाण की कोई सीमा (कोटि) है या नहीं' जैसी दृष्टियाँ भी निर्वाण को एक स्वभाव-सिद्ध वस्तु मान लेने पर उठती हैं। जब निर्वाण की स्वभाव-सिद्धि ही नहीं है, तो ऐसी दृष्टियाँ अपने-आप निरस्त हो जाती हैं।",
+        "en": "Candrakīrti says just as views like 'is the world eternal or not' arise only by presupposing the existence of the aggregates and the world, views like 'does nirvāṇa have a limit or not' also arise by presupposing nirvāṇa as an intrinsically established thing. Once there's no intrinsic establishment of nirvāṇa, such views automatically cease to apply.",
+        "ins": "जब आधार ही खोखला हो, तो उस पर टिकी हर दृष्टि अपने-आप गिर जाती है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक दिखाता है कि सभी तात्त्विक दृष्टियाँ — चाहे वे संसार के बारे में हों या निर्वाण के बारे में — एक ही मूल भूल पर टिकी हैं: चीज़ों को स्वभाव-सिद्ध मान लेना। एक बार यह भूल पहचान ली जाए, तो शाश्वतवाद-उच्छेदवाद जैसी सारी दृष्टियाँ अपने-आप ढह जाती हैं।",
+        "en": "Buddhapālita says this verse shows all metaphysical views — whether about the world or about nirvāṇa — rest on the same root error: taking things as intrinsically established. Once this error is recognized, all views like eternalism and nihilism collapse on their own.",
+        "ins": "एक ही जड़ भूल से सारी विपरीत दृष्टियाँ उगती हैं — जड़ को काटो तो सब गिर जाती हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक आगे आने वाले अध्याय 27 (दृष्टि-परीक्षा) की भूमिका भी बाँधता है, जहाँ सोलह प्रकार की तात्त्विक दृष्टियों की विस्तृत परीक्षा होगी। यहाँ संक्षेप में दिखाया गया है कि निर्वाण-सम्बन्धी दृष्टियाँ भी उसी विश्लेषण के अन्तर्गत आती हैं।",
+        "en": "Bhāviveka says this verse also sets up the ground for the later Chapter 27 (Examination of Views), where sixteen kinds of metaphysical views receive detailed examination. Here it's shown briefly that views about nirvāṇa also fall under that same analysis.",
+        "ins": "यह अध्याय निर्वाण-परीक्षा को आगे आने वाली दृष्टि-परीक्षा से जोड़ने वाला सेतु है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌍 'विश्व शाश्वत है या नहीं' और 'निर्वाण की सीमा है या नहीं' — ये एक जैसे प्रश्न क्यों हैं?",
+        "a": "दोनों प्रश्न एक ही <strong>मूल भूल</strong> पर टिके हैं — यह मान लेना कि जिस वस्तु के बारे में पूछा जा रहा है (विश्व, निर्वाण), वह कोई स्वभाव-सिद्ध, ठोस चीज़ है जिसकी सीमा तय की जा सकती है। जब यह पूर्वधारणा ही ग़लत साबित हो चुकी है (क्योंकि सब कुछ प्रतीत्यसमुत्पन्न और शून्य है), तो ऐसे प्रश्न अपने-आप निरर्थक हो जाते हैं।"
+      },
+      {
+        "q": "📚 यह अध्याय 27 (दृष्टि-परीक्षा) से कैसे जुड़ता है?",
+        "a": "अध्याय 27 में नागार्जुन <strong>सोलह प्रकार की मिथ्या दृष्टियों</strong> (विश्व शाश्वत/अशाश्वत, अन्तवान्/अनन्त, आत्मा है/नहीं आदि) की विस्तृत परीक्षा करेंगे। यह श्लोक उसी विषय की एक झलक देता है, यह दिखाकर कि निर्वाण के बारे में भी वैसी ही ग़लत दृष्टियाँ बन सकती हैं, जो अन्ततः शून्यता की समझ से ही शान्त होती हैं।"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "sk": "न संसारस्य निर्वाणात्किंचिदस्ति विशेषणम् ।\nन निर्वाणस्य संसारात्किंचिदस्ति विशेषणम् ॥",
+    "ro": "na · saṁsārasya · nirvāṇāt · kiṁcid · asti · viśeṣaṇam | na · nirvāṇasya · saṁsārāt · kiṁcid · asti · viśeṣaṇam ||",
+    "hi": "संसार को निर्वाण से अलग करने वाली कोई भी विशेषता नहीं है। और निर्वाण को संसार से अलग करने वाली भी कोई विशेषता नहीं है।",
+    "en": "There is nothing whatsoever distinguishing saṃsāra from nirvāṇa. There is nothing whatsoever distinguishing nirvāṇa from saṃsāra.",
+    "ws": [
+      { "s": "संसारस्य", "h": "संसार का", "e": "of saṃsāra" },
+      { "s": "निर्वाणात्", "h": "निर्वाण से", "e": "from nirvāṇa" },
+      { "s": "किंचित्", "h": "कुछ भी / थोड़ा भी", "e": "anything whatsoever" },
+      { "s": "विशेषणम्", "h": "अलग करने वाली विशेषता / भेद", "e": "distinguishing feature" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>विशेषणम्</em> = वि + √शिष् + ल्युट् — 'वह जो अलग करे / भेदक गुण।' <em>किंचित् नास्ति</em> = 'कुछ भी नहीं है' — पूर्ण निषेध। यह अध्याय का सर्वाधिक प्रसिद्ध श्लोक है, जो पूर्ण समरूपता (identity) नहीं बल्कि <strong>अभेद्यता</strong> — कोई भेदक लक्षण न मिलना — दिखाता है। दोनों पंक्तियाँ एक-दूसरे की दर्पण-प्रतिकृति हैं, जो कथन की समरूपता को व्याकरणतः ही उजागर करती हैं।<br><em>Eng:</em> <em>viśeṣaṇam</em> = 'a distinguishing mark.' The verse claims not identity in some mystical sense, but that no differentiating characteristic can be found between the two — the two lines are grammatical mirror images of each other, enacting the symmetry they assert.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक सम्पूर्ण MMK का शिखर-बिन्दु है। संसार और निर्वाण दोनों प्रतीत्यसमुत्पन्न हैं, दोनों स्वभाव-शून्य हैं। संसार का 'स्वभाव' खोजने पर वह नहीं मिलता — क्योंकि स्कन्ध कभी स्वभाव से उत्पन्न ही नहीं हुए। निर्वाण का 'स्वभाव' खोजने पर भी वह नहीं मिलता — क्योंकि निर्वाण भी संकल्पनातीत है। जब दोनों में कोई स्वभाव-सिद्ध भेदक लक्षण नहीं मिलता, तो यह कहना ग़लत नहीं कि 'दोनों एक ही यथार्थता के दो नाम हैं' — देखने के भ्रामक ढंग का नाम संसार है, और उसी यथार्थता को सही ढंग से देखने का नाम निर्वाण है।",
+        "en": "Candrakīrti says this is the summit of the entire MMK. Both saṃsāra and nirvāṇa are dependently arisen, both empty of intrinsic nature. Searching for saṃsāra's 'own-nature' one finds none — the aggregates never arose by intrinsic nature to begin with. Searching for nirvāṇa's 'own-nature' one finds none either — nirvāṇa too is beyond concept. Since neither has any intrinsically established distinguishing mark, it isn't wrong to say 'both are two names for the same reality' — saṃsāra names the deluded way of seeing it, nirvāṇa names the very same reality seen correctly.",
+        "ins": "संसार और निर्वाण दो अलग जगहें नहीं — एक ही यथार्थता को देखने के दो ढंग हैं: भ्रम से, या यथार्थतः।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — इसका सीधा अर्थ यह नहीं कि 'संसार में रहना ही निर्वाण है, कुछ मत करो।' अर्थ यह है कि निर्वाण किसी दूर के लोक में जाकर पाई जाने वाली वस्तु नहीं है — यह इसी संसार को, इसकी शून्यता में, बिना किसी भ्रम के देखने की क्षमता है। जैसे ही अविद्या का पर्दा हटता है, वही अनुभव जो पहले 'संसार' लगता था, अब 'निर्वाण' के रूप में जाना जाता है — स्थान नहीं बदलता, दृष्टि बदलती है।",
+        "en": "Buddhapālita says this doesn't directly mean 'just stay in saṃsāra, that itself is nirvāṇa, do nothing.' It means nirvāṇa isn't some place reached by going elsewhere — it is the capacity to see this very saṃsāra, in its emptiness, without delusion. The moment the veil of ignorance lifts, the very same experience once called 'saṃsāra' is now known as 'nirvāṇa' — the place doesn't change, the seeing changes.",
+        "ins": "जगह वही रहती है, बदलती है सिर्फ़ दृष्टि — अविद्या हटे तो संसार ही निर्वाण दिखता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक संवृति और परमार्थ के भेद को भी स्पष्ट करता है। संवृति (व्यावहारिक) स्तर पर संसार और निर्वाण अलग-अलग हैं — एक में दुःख है, दूसरे में शान्ति। पर परमार्थ (गहनतम) स्तर पर, जब दोनों की 'स्वभाव-सिद्धि' खोजी जाती है, तो कोई भेदक लक्षण नहीं मिलता — दोनों समान रूप से शून्य हैं। यह भेद का निषेध व्यावहारिक भेद को नहीं मिटाता, केवल यह दिखाता है कि दोनों में कोई ठोस, स्वतन्त्र सत्ता नहीं।",
+        "en": "Bhāviveka says this verse also clarifies the distinction between conventional and ultimate truth. Conventionally, saṃsāra and nirvāṇa are indeed different — one has suffering, the other peace. But ultimately, when one searches for the 'intrinsic establishment' of each, no distinguishing mark is found — both are equally empty. This negation of difference doesn't erase the conventional distinction; it only shows neither has solid, independent reality.",
+        "ins": "व्यवहार में भेद बना रहता है; परमार्थ में दोनों समान रूप से निःस्वभाव हैं — यही 'अभिन्नता' का सही अर्थ है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌗 'संसार = निर्वाण' का यह प्रसिद्ध कथन वास्तव में क्या कहता है?",
+        "a": "यह नहीं कहता कि दोनों बिलकुल एक जैसे अनुभव हैं, या कि दुःख और शान्ति में कोई फ़र्क़ नहीं। यह कहता है कि जब हम दोनों में <strong>स्वभाव-सिद्ध, ठोस सत्ता</strong> खोजते हैं, तो कोई भेदक लक्षण नहीं मिलता — क्योंकि दोनों ही <strong>शून्य</strong> और <strong>प्रतीत्यसमुत्पन्न</strong> हैं। भेद का आधार 'अविद्या' (भ्रम) में है, स्वयं यथार्थता में नहीं।"
+      },
+      {
+        "q": "🧘 तो क्या साधना करने की कोई ज़रूरत ही नहीं, अगर संसार ही निर्वाण है?",
+        "a": "यह ग़लतफ़हमी है। साधना की ज़रूरत बनी रहती है — क्योंकि हम अभी भी <strong>भ्रमपूर्वक</strong> संसार को ठोस, स्वभाव-सिद्ध वस्तु मानकर देखते हैं, जिससे दुःख उपजता है। साधना इसी भ्रम को हटाने की प्रक्रिया है। जब भ्रम पूरी तरह हट जाता है, तब वही अनुभव जिसे पहले 'बन्धन' कहा जाता था, अब 'मुक्ति' के रूप में जाना जाता है — यही श्लोक का अर्थ है।"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "sk": "निर्वाणस्य च या कोटिः कोटिः संसरणस्य च ।\nन तयोरन्तरं किंचित्सुसूक्ष्ममपि विद्यते ॥",
+    "ro": "nirvāṇasya · ca · yā · koṭiḥ · koṭiḥ · saṁsaraṇasya · ca | na · tayor · antaraṁ · kiṁcit · susūkṣmam · api · vidyate ||",
+    "hi": "निर्वाण की जो सीमा है, वही संसरण यानी संसार की भी सीमा है। इन दोनों के बीच सूक्ष्म से सूक्ष्म भी कोई अन्तर नहीं पाया जाता।",
+    "en": "The limit of nirvāṇa is the very limit of saṃsāra. Between the two, not even the subtlest difference can be found.",
+    "ws": [
+      { "s": "कोटिः", "h": "सीमा / छोर", "e": "limit / edge" },
+      { "s": "संसरणस्य", "h": "संसरण का / संसार का", "e": "of transmigration / saṃsāra" },
+      { "s": "अन्तरम्", "h": "अन्तर / भेद", "e": "difference" },
+      { "s": "सुसूक्ष्मम् अपि", "h": "अत्यन्त सूक्ष्म भी", "e": "even the subtlest" },
+      { "s": "न विद्यते", "h": "नहीं पाया जाता", "e": "is not found" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>कोटिः</em> = 'सीमा, छोर, अन्तिम बिन्दु' — ज्यामितीय रूपक, मानो संसार और निर्वाण दो क्षेत्र हों जिनकी सीमा-रेखा एक ही हो। <em>सुसूक्ष्मम् अपि</em> = 'सु' (अत्यन्त) + 'सूक्ष्मम्' (सूक्ष्म) + 'अपि' (भी) — अतिशयोक्ति द्वारा भेद के पूर्ण अभाव पर बल। पिछले श्लोक (25.19) से यह श्लोक एक कदम आगे जाकर कहता है — भेद न केवल 'विशेषण' के स्तर पर नहीं, बल्कि 'सीमा-रेखा' के स्तर पर भी नहीं है।<br><em>Eng:</em> <em>koṭi</em> ('edge, boundary') is a geometric metaphor — as if saṃsāra and nirvāṇa were two territories sharing one boundary line. This verse intensifies 25.19: not only is there no distinguishing feature, there isn't even the subtlest boundary between them.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — पिछले श्लोक में 'कोई भेदक विशेषता नहीं' कहा गया था; यह श्लोक उसे और गहरा करता है — यहाँ तक कि दोनों की 'सीमा-रेखा' भी एक ही है, यानी दोनों के बीच कोई विभाजन-रेखा खींची ही नहीं जा सकती। यह इसलिए है क्योंकि दोनों शब्द — 'संसार' और 'निर्वाण' — एक ही शून्य, प्रतीत्यसमुत्पन्न यथार्थता को अलग-अलग दृष्टिकोणों से इंगित करते हैं, दो अलग-अलग यथार्थताओं को नहीं।",
+        "en": "Candrakīrti says the previous verse said 'no distinguishing feature'; this verse deepens it — even their 'boundary line' is one and the same, meaning no dividing line can be drawn between them at all. This is because both terms — 'saṃsāra' and 'nirvāṇa' — point to the same single empty, dependently-arisen reality from different vantage points, not to two separate realities.",
+        "ins": "एक ही यथार्थता, दो नाम, दो दृष्टिकोण — भ्रम से देखो तो संसार, यथार्थतः देखो तो निर्वाण।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'कोटि' शब्द का यह प्रयोग बहुत सटीक है। जैसे किसी नक़्शे पर दो देशों की सीमा-रेखा वास्तव में ज़मीन पर कोई भौतिक रेखा नहीं होती — वह केवल मानचित्रकार की कल्पना है — वैसे ही 'संसार' और 'निर्वाण' के बीच की 'सीमा' भी केवल हमारी संकल्पना में है, यथार्थता में नहीं।",
+        "en": "Buddhapālita says this use of 'koṭi' is very precise. Just as the border between two countries on a map isn't actually a physical line on the ground — it exists only in the cartographer's convention — so too the 'boundary' between saṃsāra and nirvāṇa exists only in our conceptualization, not in reality.",
+        "ins": "नक़्शे की सीमा-रेखा ज़मीन पर नहीं होती — संसार-निर्वाण की सीमा भी सिर्फ़ हमारी कल्पना में है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि संसार और निर्वाण के बीच जो भेद हम अनुभव करते हैं, वह अविद्याजनित है, तात्त्विक नहीं। जिस क्षण प्रज्ञा से यथार्थता को यथावत् देखा जाता है, संसार का पूरा ढाँचा — जो पहले ठोस, भिन्न प्रतीत होता था — विलीन हो जाता है, और वही निर्वाण के रूप में जाना जाता है।",
+        "en": "Bhāviveka says this verse shows that the difference we experience between saṃsāra and nirvāṇa is born of ignorance, not metaphysically real. The moment reality is seen as it is through wisdom, the entire framework of saṃsāra — which earlier seemed solid and distinct — dissolves, and that very same thing is known as nirvāṇa.",
+        "ins": "भेद अविद्या की रचना है — प्रज्ञा के आते ही वह ढाँचा विलीन हो जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🗺️ 'सीमा-रेखा एक ही है' का यह रूपक कैसे समझें?",
+        "a": "जैसे किसी देश के नक़्शे पर खींची गई सीमा-रेखा ज़मीन पर वास्तव में मौजूद कोई चीज़ नहीं होती — वह सिर्फ़ एक <strong>सामाजिक संकल्पना</strong> है — वैसे ही संसार और निर्वाण के बीच की 'सीमा' भी हमारी <strong>संकल्पनात्मक रचना</strong> है। यथार्थता में एक ही अखण्ड, शून्य, प्रतीत्यसमुत्पन्न प्रवाह है — जिसे भ्रम से देखने पर 'संसार' और यथार्थतः देखने पर 'निर्वाण' कहा जाता है।"
+      },
+      {
+        "q": "🌊 अगर सीमा ही नहीं है, तो 'पार जाना' किसका मतलब है?",
+        "a": "'पार जाना' (जैसे 'परम्' या 'निर्वाण' शब्दों में निहित) किसी भौगोलिक यात्रा का रूपक नहीं, बल्कि <strong>दृष्टि के बदलने</strong> का रूपक है। कहीं जाना नहीं पड़ता — बस अविद्या का पर्दा हटता है, और वही अनुभव जो पहले बन्धनकारी लगता था, अब मुक्त दिखता है। यही कारण है कि नागार्जुन कहते हैं दोनों के बीच सूक्ष्मतम भी अन्तर नहीं है।"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "sk": "परं निरोधादन्तादीन् शाश्वतादींश्च चिन्तयेत् ।\nनिर्वाणे पूर्वकोट्यादीन् दृष्टिं तांश्च चतुष्टयीम् ॥",
+    "ro": "paraṁ · nirodhād · antādīn · śāśvatādīṁś · ca · cintayet | nirvāṇe · pūrva-koṭy-ādīn · dṛṣṭiṁ · tāṁś · ca · catuṣṭayīm ||",
+    "hi": "निरोध के बाद क्या होगा, अन्त है या नहीं, शाश्वत है या नहीं — ऐसी चार-चार प्रकार की दृष्टियाँ लोग सोचते हैं, और वैसी ही दृष्टियाँ निर्वाण और संसार की पूर्व-सीमा के विषय में भी उठा लेते हैं।",
+    "en": "People conceive of four-fold views — whether there is an end after cessation, whether it is eternal or not — and similarly raise such four-fold views about the prior limit of nirvāṇa and saṃsāra.",
+    "ws": [
+      { "s": "परं निरोधात्", "h": "निरोध के बाद", "e": "after cessation" },
+      { "s": "अन्तादीन्", "h": "अन्त है या नहीं आदि (दृष्टियाँ)", "e": "whether it has an end, etc." },
+      { "s": "शाश्वतादीन्", "h": "शाश्वत है या नहीं आदि", "e": "whether it is eternal, etc." },
+      { "s": "पूर्वकोट्यादीन्", "h": "पूर्व-सीमा (आदि से) सम्बन्धित", "e": "regarding the prior limit" },
+      { "s": "दृष्टिं चतुष्टयीम्", "h": "चार प्रकार की दृष्टि", "e": "the four-fold view" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक अध्याय 27 में विस्तार से विश्लेषित <strong>चौदह अव्याकृत प्रश्नों</strong> की ओर इशारा करता है — 'विश्व शाश्वत/अशाश्वत/दोनों/न दोनों', 'विश्व अन्तवान्/अनन्त/दोनों/न दोनों' आदि। यहाँ दिखाया गया है कि ऐसी ही चतुष्कोटि दृष्टियाँ निर्वाण की 'पूर्व-सीमा' (आदि) और 'उत्तर-सीमा' (निरोध के बाद) के विषय में भी बनाई जा सकती हैं — और वे भी उतनी ही निरर्थक हैं।<br><em>Eng:</em> Points toward the fourteen unanswered questions elaborated in Chapter 27 — eternal/non-eternal, finite/infinite, etc. — showing the same fourfold pattern of views arises regarding nirvāṇa's 'prior limit' (beginning) and 'posterior limit' (after cessation), and are equally untenable.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक दिखाता है कि जैसे तत्त्ववादी विश्व के आदि-अन्त के बारे में चतुष्कोटि दृष्टियाँ बनाते हैं, वैसे ही वे निर्वाण के विषय में भी बनाते हैं — 'निरोध के बाद क्या रहता है?' या 'निर्वाण की कोई शुरुआत थी क्या?' ऐसे प्रश्न स्वयं ग़लत पूर्वधारणा पर टिके हैं, क्योंकि वे निर्वाण को समय और सीमा में बँधी हुई कोई वस्तु मान लेते हैं।",
+        "en": "Candrakīrti says this verse shows that just as metaphysicians construct fourfold views about the world's beginning and end, they do the same regarding nirvāṇa — 'what remains after cessation?' or 'did nirvāṇa have a beginning?' Such questions themselves rest on a false presupposition, treating nirvāṇa as something bound within time and limit.",
+        "ins": "समय और सीमा में सोचने की आदत ही निर्वाण के बारे में ग़लत प्रश्न पैदा करती है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — इस तरह की दृष्टियाँ (शाश्वतवाद, उच्छेदवाद) मनुष्य के स्वभाव में गहरी बैठी हैं, क्योंकि मन हर चीज़ को समय-सीमा में बाँधकर समझना चाहता है। पर निर्वाण समय और सीमा की धारणा से ही परे है — इसलिए इस पर 'आदि है या नहीं' जैसे प्रश्न लागू करना मूल भूल है।",
+        "en": "Buddhapālita says such views (eternalism, nihilism) are deeply rooted in human nature, since the mind wants to grasp everything within temporal limits. But nirvāṇa is beyond the very notion of time and limit — so applying questions like 'does it have a beginning' to it is a fundamental error.",
+        "ins": "मन हर चीज़ को समय में बाँधना चाहता है — पर निर्वाण समय की श्रेणी से बाहर है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक आगे आने वाले श्लोकों (25.21-23) की भूमिका है, जहाँ दिखाया जाएगा कि ये सारी दृष्टियाँ — शाश्वत, अशाश्वत, अन्तवान्, अनन्त — निर्वाण और संसार दोनों की शून्यता समझ लेने पर स्वतः निरस्त हो जाती हैं।",
+        "en": "Bhāviveka says this verse prepares the ground for the following verses (25.21-23), where it will be shown that all these views — eternal, non-eternal, finite, infinite — automatically dissolve once the emptiness of both nirvāṇa and saṃsāra is understood.",
+        "ins": "आगे के श्लोक दिखाएँगे कि शून्यता समझते ही ये सारी दृष्टियाँ अपने-आप बिखर जाती हैं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔢 'चतुष्टयी दृष्टि' यहाँ किस बारे में है?",
+        "a": "यह चौदह <strong>अव्याकृत प्रश्नों</strong> की श्रेणी की ओर इशारा करता है — जैसे 'विश्व शाश्वत है, अशाश्वत है, दोनों है, न दोनों है' या 'विश्व अन्तवान् है, अनन्त है, दोनों है, न दोनों है'। यह श्लोक दिखाता है कि लोग ऐसी ही चतुष्कोटि दृष्टियाँ निर्वाण के बारे में भी बना लेते हैं — 'निरोध के बाद क्या बचता है' जैसे प्रश्न पूछकर।"
+      },
+      {
+        "q": "⏳ निर्वाण को 'समय में' रखकर सोचना ग़लत क्यों है?",
+        "a": "समय और सीमा की धारणाएँ स्वयं <strong>प्रतीत्यसमुत्पन्न</strong> और सापेक्ष हैं — वे संसार के अनुभव पर लागू होती हैं। निर्वाण, चूँकि संकल्पनातीत और अवाच्य है, इन धारणाओं की पकड़ में ही नहीं आता। इसलिए 'निर्वाण का आदि है या अन्त' पूछना वैसा ही है जैसे पूछना 'शून्यता किस रंग की है' — प्रश्न ही ग़लत श्रेणी में पूछा गया है।"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "sk": "यः प्रतीत्य समुत्पादः शून्यता सैव ते मता ।\nभावाभावविनिर्मुक्ता तत्रैव लयमेति सा ॥",
+    "ro": "yaḥ · pratītya-samutpādaḥ · śūnyatā · saiva · te · matā | bhāvābhāva-vinirmuktā · tatraiva · layam · eti · sā ||",
+    "hi": "जो प्रतीत्यसमुत्पाद है, वही शून्यता मानी जाती है — जो भाव और अभाव दोनों से मुक्त है। और यही शून्यता में सारी दृष्टियाँ शान्त हो जाती हैं।",
+    "en": "What is dependent origination is asserted to be emptiness itself — free from both existence and non-existence. And it is precisely there, in this very emptiness, that all such views dissolve.",
+    "ws": [
+      { "s": "प्रतीत्यसमुत्पादः", "h": "प्रतीत्यसमुत्पाद / सापेक्ष उत्पत्ति", "e": "dependent origination" },
+      { "s": "शून्यता", "h": "शून्यता", "e": "emptiness" },
+      { "s": "भावाभावविनिर्मुक्ता", "h": "भाव-अभाव दोनों से मुक्त", "e": "free from both existence and non-existence" },
+      { "s": "लयम् एति", "h": "विलीन हो जाती है / शान्त हो जाती है", "e": "dissolves / is pacified" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक अध्याय 24.18 के प्रसिद्ध कथन ('यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे') की सीधी प्रतिध्वनि है — नागार्जुन एक बार फिर शून्यता और प्रतीत्यसमुत्पाद की एकता को याद दिलाते हैं, इस बार निर्वाण-चर्चा के समापन के सन्दर्भ में। <em>लयम् एति</em> = 'लय को प्राप्त होती है' — जैसे तरंग सागर में विलीन होती है, वैसे ही सारी मिथ्या दृष्टियाँ शून्यता की समझ में विलीन हो जाती हैं।<br><em>Eng:</em> Directly echoes the celebrated 24.18 ('what is dependent origination, that we call emptiness'), reasserting their unity — now in the context of closing the nirvāṇa discussion. All the fourfold views dissolve, like a wave merging back into the ocean, once emptiness is understood.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक पूरे अध्याय का सार समेटता है। जो कुछ भी प्रतीत्य (सापेक्ष रूप से) उत्पन्न होता है, वह स्वभाव-शून्य है — यही शून्यता है। यह शून्यता न भाव है न अभाव, इसलिए इसमें 'शाश्वत-अशाश्वत', 'अन्तवान्-अनन्त' जैसी सारी द्वैत-दृष्टियाँ अपना आधार खो देती हैं और शान्त हो जाती हैं।",
+        "en": "Candrakīrti says this verse gathers the essence of the whole chapter. Whatever arises dependently is empty of intrinsic nature — that is emptiness. This emptiness is neither existence nor non-existence, so all dualistic views like 'eternal-noneternal,' 'finite-infinite' lose their footing within it and are pacified.",
+        "ins": "शून्यता कोई नई दृष्टि नहीं जो पुरानी दृष्टियों से जूझे — यह वह ज़मीन है जहाँ सारी दृष्टियाँ अपना आधार खो देती हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक अध्याय 24 और अध्याय 25 को आपस में जोड़ता है, यह दिखाकर कि शून्यता-सिद्धान्त और निर्वाण-सिद्धान्त एक ही सत्य के दो पहलू हैं। यही कारण है कि MMK में शून्यता की समझ के बिना निर्वाण की सही समझ सम्भव नहीं।",
+        "en": "Buddhapālita says this verse ties Chapters 24 and 25 together, showing that the doctrine of emptiness and the doctrine of nirvāṇa are two facets of one truth. This is why, in the MMK, correct understanding of nirvāṇa is impossible without understanding emptiness.",
+        "ins": "शून्यता समझे बिना निर्वाण को समझने की कोशिश व्यर्थ है — दोनों एक ही चाबी से खुलते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — 'लयम् एति' का प्रयोग बहुत सुन्दर है — दृष्टियाँ 'नष्ट' नहीं होतीं, बल्कि 'विलीन' होती हैं, जैसे नमक पानी में घुल जाता है। यह दिखाता है कि शून्यता कोई विनाशकारी सिद्धान्त नहीं, बल्कि एक ऐसी समझ है जिसमें द्वैत-दृष्टियों का तनाव स्वाभाविक रूप से शान्त हो जाता है।",
+        "en": "Bhāviveka says the use of 'layam eti' (dissolves) is beautiful — views aren't 'destroyed' but 'dissolve,' as salt dissolves in water. This shows emptiness isn't a destructive doctrine, but an understanding in which the tension of dualistic views naturally settles into peace.",
+        "ins": "दृष्टियाँ मिटती नहीं, घुल जाती हैं — जैसे नमक पानी में, वैसे भ्रम शून्यता की समझ में।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔗 इस श्लोक का अध्याय 24 के प्रसिद्ध श्लोक से क्या सम्बन्ध है?",
+        "a": "अध्याय 24.18 में नागार्जुन ने कहा था — 'जो प्रतीत्यसमुत्पाद है, वही शून्यता है, वही मध्यम मार्ग है।' यह श्लोक उसी सत्य को निर्वाण-चर्चा के अन्त में दोहराता है, यह दिखाने के लिए कि <strong>शून्यता, प्रतीत्यसमुत्पाद, और निर्वाण</strong> — तीनों एक ही यथार्थता को अलग-अलग कोणों से इंगित करते हैं।"
+      },
+      {
+        "q": "💧 'दृष्टियों का विलीन होना' का क्या मतलब है?",
+        "a": "जैसे नमक पानी में घुलकर अलग से दिखना बन्द कर देता है, वैसे ही जब शून्यता (सापेक्ष, निःस्वभाव यथार्थता) ठीक से समझी जाती है, तो 'शाश्वत बनाम अशाश्वत', 'अन्तवान् बनाम अनन्त' जैसी सारी परस्पर-विरोधी <strong>दृष्टियाँ</strong> अपना आधार खो देती हैं — क्योंकि वे सब यह मान कर चलती थीं कि विश्व/निर्वाण कोई स्वभाव-सिद्ध वस्तु है, जो शून्यता में सिद्ध नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "sk": "शून्येषु सर्वधर्मेषु किमनन्तं किमन्तवत् ।\nकिमनन्तमन्तवच्च नानन्तं नान्तवच्च किम् ॥",
+    "ro": "śūnyeṣu · sarva-dharmeṣu · kim · anantaṁ · kim · antavat | kim · anantam · antavac · ca · nānantaṁ · nāntavac · ca · kim ||",
+    "hi": "जब सारे धर्म शून्य हैं, तो क्या अनन्त है, क्या अन्तवान् है? क्या कुछ अनन्त और अन्तवान् दोनों है, और क्या कुछ न अनन्त है न अन्तवान्?",
+    "en": "When all dharmas are empty, what is infinite, what is finite? What is both infinite and finite, and what is neither infinite nor finite?",
+    "ws": [
+      { "s": "शून्येषु सर्वधर्मेषु", "h": "जब सारे धर्म शून्य हैं", "e": "when all dharmas are empty" },
+      { "s": "अनन्तम्", "h": "अनन्त / अन्तरहित", "e": "infinite / endless" },
+      { "s": "अन्तवत्", "h": "अन्तवाला / सीमित", "e": "finite / having an end" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक स्वयं चतुष्कोटि की संरचना में है: अनन्त, अन्तवत्, उभय, अनुभय — ठीक उसी पैटर्न में जैसे अध्याय के आरम्भ में भाव-अभाव की परीक्षा हुई थी। <em>सर्वधर्मेषु शून्येषु</em> = सप्तमी बहुवचन, हेतु-अर्थ में 'चूँकि सब धर्म शून्य हैं।' यह श्लोक अध्याय 27 (दृष्टि-परीक्षा) के मूल प्रश्न को यहीं संक्षेप में उठाकर उसका उत्तर पहले ही दे देता है — शून्यता में ऐसे प्रश्नों का कोई ठोस उत्तर नहीं बनता, क्योंकि प्रश्न ख़ुद ही स्वभाव-सिद्धि मान कर पूछे गए हैं।<br><em>Eng:</em> Structured as its own tetralemma (infinite / finite / both / neither), mirroring the bhāva-abhāva analysis at the chapter's start. This anticipates Chapter 27's central question and pre-empts it: once all dharmas are empty, none of these four alternatives can be affirmed, since the question itself presupposes intrinsic existence.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक निष्कर्ष की भूमिका है: जब एक बार यह स्थापित हो जाए कि सारे धर्म — स्कन्ध, संसार, निर्वाण, सब — शून्य हैं, तो 'विश्व अनन्त है या अन्तवान्' जैसे तात्त्विक प्रश्न स्वतः निरर्थक हो जाते हैं। ये प्रश्न किसी ठोस, स्वभाव-सिद्ध 'विश्व' के अस्तित्व को मान कर पूछे जाते हैं — पर वह पूर्वधारणा ही ग़लत है।",
+        "en": "Candrakīrti says this verse sets up the conclusion: once it's established that all dharmas — aggregates, saṃsāra, nirvāṇa, everything — are empty, metaphysical questions like 'is the world infinite or finite' automatically become meaningless. These questions presuppose the existence of some solid, intrinsically established 'world' — but that presupposition is itself false.",
+        "ins": "प्रश्न की पूर्वधारणा ही ग़लत हो, तो कोई भी उत्तर सही नहीं हो सकता — चुप रहना ही बुद्धिमानी है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक बुद्ध के चौदह अव्याकृत प्रश्नों में से चार को सीधे प्रस्तुत करता है (विश्व अन्तवान्/अनन्त/दोनों/न दोनों)। नागार्जुन दिखाते हैं कि इन प्रश्नों का बुद्ध द्वारा उत्तर न देना कोई कमज़ोरी नहीं थी — यह गहनतम दार्शनिक अन्तर्दृष्टि थी, कि प्रश्न स्वयं ग़लत ढाँचे में पूछे गए हैं।",
+        "en": "Buddhapālita says this verse directly presents four of the Buddha's fourteen unanswered questions (is the world finite/infinite/both/neither). Nāgārjuna shows the Buddha's non-answering of these wasn't weakness — it was the deepest philosophical insight that the questions themselves are framed wrongly.",
+        "ins": "बुद्ध का मौन उत्तर की कमी नहीं थी — यह प्रश्न की बनावट में ख़ामी की पहचान थी।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक चतुष्कोटि पद्धति को उसकी पूर्ण व्यापकता में दिखाता है — यह केवल उत्पत्ति, कारण, आत्मा, या निर्वाण पर ही नहीं, बल्कि विश्व की सीमा जैसे किसी भी तात्त्विक प्रश्न पर समान रूप से लागू होती है। यही नागार्जुन की पद्धति की सार्वभौमिकता है।",
+        "en": "Bhāviveka says this verse shows the tetralemma method in its full generality — it applies not only to origination, causation, self, or nirvāṇa, but equally to any metaphysical question, such as the world's limits. This is the universality of Nāgārjuna's method.",
+        "ins": "एक ही विश्लेषण-पद्धति हर तात्त्विक प्रश्न पर काम करती है — यही उसकी शक्ति है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌌 'विश्व अनन्त है या सीमित' — यह प्रश्न नागार्जुन के अनुसार क्यों ग़लत है?",
+        "a": "यह प्रश्न मान कर चलता है कि 'विश्व' नाम की कोई <strong>ठोस, स्वभाव-सिद्ध वस्तु</strong> है, जिसकी 'सीमा' नापी जा सके। पर नागार्जुन दिखा चुके हैं कि विश्व भी स्कन्धों की तरह <strong>प्रतीत्यसमुत्पन्न और शून्य</strong> है — उसका कोई स्वतन्त्र, ठोस अस्तित्व नहीं जिसकी सीमा तय हो सके। इसलिए चारों उत्तर (अनन्त/अन्तवान्/दोनों/न दोनों) समान रूप से अनुपयुक्त हैं।"
+      },
+      {
+        "q": "🤷 तो क्या इन प्रश्नों का कोई उत्तर ही नहीं है?",
+        "a": "सही उत्तर यह है कि प्रश्न स्वयं <strong>पुनर्रचना</strong> की माँग करता है। 'विश्व' को स्वभाव-सिद्ध वस्तु मानकर पूछे गए प्रश्न का कोई भी उत्तर संगत नहीं होगा। पर एक बार शून्यता समझ में आ जाए, तो यह प्रश्न अपने-आप विलीन हो जाता है — जैसे यह पूछना निरर्थक है कि 'बाँझ स्त्री के पुत्र की ऊँचाई कितनी है।'"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "sk": "सर्वोपलम्भोपशमः प्रपञ्चोपशमः शिवः ।\nन क्वचित्कस्यचित्कश्चिद्धर्मो बुद्धेन देशितः ॥",
+    "ro": "sarvopalambhopaśamaḥ · prapañcopaśamaḥ · śivaḥ | na · kvacit · kasyacit · kaścid · dharmo · buddhena · deśitaḥ ||",
+    "hi": "सारी पकड़ों का शमन, सारे वैचारिक-विस्तार का शमन — यही कल्याण है, यही शान्ति है। बुद्ध ने कहीं भी, किसी को भी, कोई भी धर्म नहीं सिखाया।",
+    "en": "The pacification of all grasping, the pacification of all conceptual proliferation — that is auspicious, that is peace. No dharma whatsoever was taught by the Buddha to anyone, anywhere.",
+    "ws": [
+      { "s": "उपलम्भ", "h": "पकड़ / ग्रहण / प्रतीति", "e": "grasping / apprehension" },
+      { "s": "उपशमः", "h": "शमन / शान्त होना", "e": "pacification" },
+      { "s": "प्रपञ्च", "h": "वैचारिक-विस्तार / संकल्पना-जाल", "e": "conceptual proliferation" },
+      { "s": "शिवः", "h": "कल्याणकारी / मंगलमय", "e": "auspicious / blissful" },
+      { "s": "न क्वचित् कस्यचित् कश्चित् धर्मः", "h": "कहीं भी, किसी को भी, कोई भी धर्म नहीं", "e": "no dharma whatsoever, anywhere, to anyone" },
+      { "s": "देशितः", "h": "उपदेश दिया गया", "e": "taught" }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>सर्वोपलम्भोपशमः, प्रपञ्चोपशमः</em> = बहुव्रीहि/तत्पुरुष समास — 'सारी पकड़ों का शमन', 'सारे प्रपञ्च का शमन'; दोनों 'शिवः' के समानाधिकरण विशेषण/उपमेय। द्वितीय पंक्ति में <em>न क्वचित्, कस्यचित्, कश्चित्</em> — तीन अनिश्चयवाचक सर्वनाम एक साथ निषेध के साथ — 'न कहीं, न किसी को, न कुछ भी' — पूर्ण, त्रिविध निषेध, अत्यन्त बलपूर्वक। यह पूरे MMK का सर्वाधिक उद्धृत, समापन-सूचक श्लोक है।<br><em>Eng:</em> A triple negation (<em>na kvacit, kasyacit, kaścit</em> — 'nowhere, to no one, nothing') delivers the most emphatic possible denial. This is the most quoted concluding verse of the entire MMK, and arguably of Madhyamaka literature as a whole.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक सम्पूर्ण MMK का चरम निष्कर्ष है। 'उपलम्भ' का अर्थ है किसी वस्तु को स्वभाव-सिद्ध मानकर पकड़ लेना — चाहे वह स्कन्ध हो, आत्मा हो, या स्वयं निर्वाण हो। जब यह पकड़ पूरी तरह छूट जाती है, और भाषा-संकल्पना का सारा जाल ('प्रपञ्च') शान्त हो जाता है — वही परम मंगल, वही निर्वाण है। और अन्तिम पंक्ति चौंकाने वाली है: बुद्ध ने वास्तव में कोई 'धर्म' (सिद्धान्त) 'दिया' नहीं — क्योंकि जो कुछ उन्होंने कहा, वह भी उपाय (कौशल) था, भ्रम को दूर करने के लिए, स्वयं में कोई स्वभाव-सिद्ध 'शिक्षा' नहीं।",
+        "en": "Candrakīrti says this is the ultimate conclusion of the entire MMK. 'Upalambha' means taking hold of something as intrinsically established — be it the aggregates, a self, or even nirvāṇa itself. When this grasping is fully released, and the whole web of language-concept ('prapañca') is pacified — that itself is supreme auspiciousness, that is nirvāṇa. And the final line is startling: the Buddha in truth 'gave' no 'dharma' — for whatever he said was skillful means (upāya) to dispel delusion, not itself some intrinsically established 'teaching.'",
+        "ins": "बुद्ध ने कुछ 'दिया' नहीं — उन्होंने केवल भ्रम हटाने के औज़ार दिए, जिन्हें अन्ततः स्वयं छोड़ देना है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक बुद्ध की शिक्षा को 'नदी पार करने की नाव' के रूपक से समझाता है (जैसा अन्य सूत्रों में भी आता है) — नाव नदी पार कराने के लिए है, नदी पार होने के बाद उसे ढोते रहना मूर्खता है। वैसे ही धर्म भी उपाय है, स्वयं में साध्य नहीं। जो व्यक्ति धर्म को भी 'पकड़' कर बैठ जाता है, वह अभी भी 'उपलम्भ' (ग्रहण) में फँसा है।",
+        "en": "Buddhapālita says this verse explains the Buddha's teaching through the raft simile (also found in other sutras) — a raft is for crossing the river; carrying it around after crossing is foolish. Similarly, dharma too is a means (upāya), not an end in itself. One who clings even to the dharma is still caught in 'upalambha' (grasping).",
+        "ins": "धर्म भी नाव है — नदी पार होते ही उसे भी छोड़ना है, ढोते रहना नहीं है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक पूरे ग्रन्थ के उद्देश्य को स्पष्ट करता है: नागार्जुन कोई नया 'सिद्धान्त' स्थापित नहीं कर रहे, बल्कि सारी दृष्टियों, पकड़ों, संकल्पनाओं को शान्त कर रहे हैं — यहाँ तक कि 'शून्यता' की दृष्टि को भी, यदि वह स्वयं एक नई पकड़ बन जाए (जैसा 13.8 में कहा गया — 'शून्यता भी ग्रहण करने योग्य दृष्टि बन जाए तो असाध्य रोग है')। यही 'प्रपञ्चोपशमः शिवः' का गहनतम अर्थ है।",
+        "en": "Bhāviveka says this verse clarifies the whole treatise's purpose: Nāgārjuna isn't establishing a new 'doctrine,' but pacifying all views, all graspings, all conceptualizations — even the view of 'emptiness' itself, should it become a new grasping (as stated at 13.8 — 'those for whom emptiness itself becomes a view are incurable'). This is the deepest meaning of 'the pacification of all proliferation is peace.'",
+        "ins": "यहाँ तक कि 'शून्यता' को भी पकड़ना मत — पकड़ का पूर्ण त्याग ही असली शान्ति है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🕊️ 'सर्वोपलम्भोपशमः प्रपञ्चोपशमः शिवः' — यह इतना प्रसिद्ध क्यों है?",
+        "a": "यह पंक्ति MMK के पूरे उद्देश्य को एक साँस में समेट देती है — <strong>मुक्ति किसी नई अवधारणा को पकड़ने में नहीं, बल्कि सारी पकड़ों (उपलम्भ) और सारे वैचारिक-विस्तार (प्रपञ्च) के शान्त हो जाने में है।</strong> यह शून्यता, निर्वाण, आत्मा, संसार — किसी भी विषय पर लागू शिक्षा का सार-वाक्य है, इसीलिए यह सम्भवतः पूरे बौद्ध दर्शन में सबसे अधिक उद्धृत पंक्तियों में से एक है।"
+      },
+      {
+        "q": "😲 'बुद्ध ने कोई धर्म नहीं सिखाया' — यह चौंकाने वाला कथन कैसे समझें?",
+        "a": "यह इस बात की ओर इशारा है कि बुद्ध की शिक्षा <strong>उपाय (कौशल)</strong> थी, न कि कोई स्वभाव-सिद्ध, ठोस 'सत्य-वस्तु' जो 'दी' गई हो। जैसे नाव नदी पार कराने के लिए है, धर्म भी भ्रम दूर करने के लिए है — एक बार भ्रम हट जाए, तो 'धर्म' को भी पकड़े रहना नई ग़लती होगी। यह धर्म का अनादर नहीं, बल्कि उसकी गहनतम प्रकृति — कि वह स्वयं भी शून्य है — की पहचान है।"
+      }
+    ]
+  }
+]
