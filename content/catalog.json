@@ -67,16 +67,6 @@
       "desc": "पञ्चमहाभूत — तन्मात्रा से पञ्चीकरण तक सृष्टि का वैदान्तिक विवरण",
       "desc_en": "Five great elements — Vedantic account of creation from tanmatras to quintuplication",
       "file": "concepts/panchabhuta_srishti.json"
-    },
-    {
-      "id": "mmk_overview",
-      "name": "मूलमाध्यमककारिका — समग्र सार",
-      "en": "MMK Overview",
-      "icon": "☸️",
-      "color": "#D4A017",
-      "desc": "नागार्जुन कृत मध्यमक दर्शन का सम्पूर्ण सारांश — २७ अध्यायों का संक्षिप्त विवरण",
-      "desc_en": "Abridged summary of all 27 chapters of Nāgārjuna's Root Verses of the Middle Way",
-      "file": "concepts/mmk_overview.json"
     }
   ],
   "texts": [
@@ -239,6 +229,7 @@
       "color": "#D4A017",
       "veda": "Nāgārjuna · Mādhyamaka",
       "desc": "Emptiness & dependent origination — the root verses of the Middle Way",
+      "overview": "concepts/mmk_overview.json",
       "total": 141,
       "files": [
         "mmk_dedication.json",
