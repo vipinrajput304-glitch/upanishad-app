@@ -1,0 +1,2397 @@
+[
+  {
+    "id": 78,
+    "sk": "यदि शून्यमिदं सर्वमुदयो नास्ति न व्ययः ।\nचतुर्णामार्यसत्यानामभावस्ते प्रसज्यते ॥",
+    "ro": "yadi · śūnyam · idaṃ · sarvam · udayo · nāsti · na · vyayaḥ | caturṇām · ārya-satyānām · abhāvas · te · prasajyate ||",
+    "hi": "यदि यह सब कुछ शून्य है, तो न कुछ उत्पन्न होता है न नष्ट होता है। तब तुम्हारे मत में चारों आर्यसत्यों का अभाव ही सिद्ध होता है।",
+    "en": "If all this is empty, then nothing arises and nothing perishes. It would follow, on your view, that the four noble truths do not exist.",
+    "ws": [
+      {
+        "s": "शून्यम्",
+        "h": "शून्य / खाली",
+        "e": "empty"
+      },
+      {
+        "s": "उदयः",
+        "h": "उत्पत्ति / उठना",
+        "e": "arising"
+      },
+      {
+        "s": "व्ययः",
+        "h": "नाश / क्षय",
+        "e": "perishing / ceasing"
+      },
+      {
+        "s": "आर्यसत्यानाम्",
+        "h": "आर्यसत्यों का",
+        "e": "of the noble truths"
+      },
+      {
+        "s": "अभावः",
+        "h": "अभाव / न होना",
+        "e": "non-existence"
+      },
+      {
+        "s": "प्रसज्यते",
+        "h": "अनिवार्य परिणाम के रूप में निकलता है",
+        "e": "follows as a consequence"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक एक <em>प्रसंग</em> (reductio) के रूप में रचा गया है — 'यदि...तो...प्रसज्यते' ('if...then it follows')। <em>प्रसज्यते</em> = प्र + √सञ्ज्, कर्मवाच्य — 'अनिवार्य रूप से निकल आता है / प्रसक्त होता है,' नागार्जुन की शैली का प्रिय क्रियापद। यह अध्याय 24 का प्रारम्भिक श्लोक है, जिसमें पूर्वपक्ष (opponent, सम्भवतः सर्वास्तिवादी) आक्षेप उठाता है।<br><em>Eng:</em> The verse is structured as a <em>prasaṅga</em> (reductio): 'if...then it follows.' <em>prasajyate</em> (from pra+√sañj) is a favourite Nāgārjunian verb meaning 'follows necessarily / is entailed.' This opens the pūrvapakṣa (objection) that frames the entire chapter.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अध्याय का सबसे नाटकीय क्षण है। एक यथार्थवादी विरोधी (सम्भवतः सर्वास्तिवादी अभिधार्मिक) आक्षेप उठाता है — यदि नागार्जुन के अनुसार सब कुछ शून्य है, तो न उत्पत्ति है न नाश, और बिना उत्पत्ति-नाश के दुःख, समुदय, निरोध और मार्ग — ये चारों आर्यसत्य ही असम्भव हो जाते हैं।",
+        "en": "Candrakīrti says this is the most dramatic moment of the chapter. A realist opponent (likely an Abhidharmika Sarvāstivādin) objects: if, as Nāgārjuna claims, everything is empty, then there is neither arising nor ceasing — and without arising and ceasing, suffering, its origin, its cessation, and the path (the four noble truths) become impossible.",
+        "ins": "विरोधी की भूल यह है कि वह 'शून्यता' को 'अभाव' अर्थात् पूर्ण शून्यता (nothingness) समझ बैठा है — आगे के श्लोक इसी भ्रम को दूर करेंगे।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — विरोधी का तर्क सीधा प्रतीत होता है: शून्यता का अर्थ है कि कोई भी वस्तु वास्तविक रूप से मौजूद नहीं — तो फिर दुःख कैसे उत्पन्न हो, कैसे मिटे? इस भ्रान्ति से पूरे बौद्ध मार्ग के विनष्ट होने का भय उठता है।",
+        "en": "Buddhapālita says the opponent's logic seems straightforward: emptiness would mean nothing really exists — so how could suffering arise or cease at all? This confusion raises the fear that the entire Buddhist path collapses.",
+        "ins": "यह आक्षेप बौद्ध धर्म के भीतर से ही, अभिधर्म के गढ़ से उठाया गया है — इसीलिए इसका उत्तर देना अत्यन्त आवश्यक था।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह आक्षेप शून्यता को 'उच्छेदवाद' (nihilism) समझने की भूल पर टिका है। विरोधी यह मान बैठता है कि शून्यता का अर्थ है 'कुछ भी नहीं है,' जबकि नागार्जुन के लिए शून्यता का अर्थ 'स्वभाव का अभाव' है, न कि 'अस्तित्व का अभाव।'",
+        "en": "Bhāviveka says this objection rests on mistaking emptiness for nihilism (ucchedavāda). The opponent assumes emptiness means 'nothing exists at all,' whereas for Nāgārjuna emptiness means the absence of inherent nature (svabhāva), not the absence of existence itself.",
+        "ins": "जब तक 'शून्यता' और 'अभाव' के भेद को नहीं समझा जाता, तब तक ऐसी आपत्तियाँ बार-बार उठती रहेंगी।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔥 क्या शून्यता का मतलब सचमुच यही है कि कुछ भी नहीं है?",
+        "a": "यही इस अध्याय का केन्द्रीय प्रश्न है। विरोधी यही मान बैठा है, इसलिए वह भयभीत है। परन्तु नागार्जुन आगे दिखाएँगे कि <strong>शून्यता का अर्थ है स्वभाव-शून्यता</strong>, अस्तित्व-शून्यता नहीं। चीज़ें हैं, पर वे किसी ठोस, स्वतन्त्र सत्ता के रूप में नहीं — वे <strong>प्रतीत्यसमुत्पन्न</strong> रूप में हैं। यह भेद समझे बिना पूरा अध्याय गलत समझा जाएगा।"
+      },
+      {
+        "q": "🙏 यह आक्षेप इतना गम्भीर क्यों है?",
+        "a": "क्योंकि यदि यह सच हो, तो <strong>पूरा बौद्ध पथ ही ध्वस्त हो जाता है</strong> — दुःख से मुक्ति की पूरी परियोजना निरर्थक हो जाती है। नागार्जुन जानबूझकर इस सबसे कठिन आक्षेप को सामने रखते हैं, ताकि उसका उत्तर देकर वे शून्यता की सच्ची प्रकृति को अत्यन्त स्पष्ट रूप से उजागर कर सकें।"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "sk": "परिज्ञा च प्रहाणं च भावना साक्षिकर्म च ।\nचतुर्णामार्यसत्यानामभावान्नोपपद्यते ॥",
+    "ro": "parijñā · ca · prahāṇaṃ · ca · bhāvanā · sākṣi-karma · ca | caturṇām · ārya-satyānām · abhāvān · na · upapadyate ||",
+    "hi": "दुःख का पूर्ण ज्ञान, समुदय का त्याग, मार्ग का अभ्यास और निरोध का साक्षात्कार — ये चारों, आर्यसत्यों के अभाव में सम्भव नहीं होंगे।",
+    "en": "Full knowledge of suffering, abandonment of its origin, cultivation of the path, and realization of cessation — none of these would be possible if the four noble truths did not exist.",
+    "ws": [
+      {
+        "s": "परिज्ञा",
+        "h": "पूर्ण ज्ञान / भलीभाँति जानना",
+        "e": "thorough knowledge"
+      },
+      {
+        "s": "प्रहाणम्",
+        "h": "त्याग / छोड़ना",
+        "e": "abandonment"
+      },
+      {
+        "s": "भावना",
+        "h": "अभ्यास / भावित करना",
+        "e": "cultivation"
+      },
+      {
+        "s": "साक्षिकर्म",
+        "h": "साक्षात्कार / प्रत्यक्ष अनुभव",
+        "e": "realization / direct witnessing"
+      },
+      {
+        "s": "नोपपद्यते",
+        "h": "सिद्ध नहीं होता / सम्भव नहीं",
+        "e": "is not tenable"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक चार आर्यसत्यों से जुड़ी चार पारम्परिक साधनाओं को गिनाता है — दुःख का <em>परिज्ञान</em>, समुदय का <em>प्रहाण</em>, निरोध का <em>साक्षात्कार</em>, और मार्ग की <em>भावना</em> (यहाँ क्रम भिन्न है, पर चारों शब्द अभिधर्म-परम्परा से लिए गए हैं)। <em>नोपपद्यते</em> = न + उपपद्यते, 'ठीक नहीं बैठता / सिद्ध नहीं होता।'<br><em>Eng:</em> The verse lists the four classical practices tied to the four truths — thorough knowledge (of suffering), abandonment (of its cause), cultivation (of the path), and realization (of cessation) — all drawn from Abhidharma tradition.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह विरोधी की दलील का विस्तार है। यदि आर्यसत्य ही न हों, तो उनसे जुड़ी चारों साधनाएँ भी खोखली हो जाती हैं — कोई किसी अस्तित्वहीन चीज़ का ज्ञान, त्याग, अभ्यास या साक्षात्कार कैसे करेगा?",
+        "en": "Candrakīrti says this extends the opponent's argument: if the noble truths themselves do not exist, the four practices tied to them become hollow too — how could one know, abandon, cultivate, or realize something that does not exist?",
+        "ins": "पूरी बौद्ध साधना-पद्धति इन्हीं चार क्रियाओं पर टिकी है — इसलिए विरोधी का भय स्वाभाविक लगता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क अभिधर्म की भाषा में गूँथा गया है, जहाँ साधक क्रमशः दुःख को जानता है, उसके कारण को छोड़ता है, मार्ग का अभ्यास करता है और निरोध को साक्षात् करता है। विरोधी कहता है कि शून्यता इस पूरे ढाँचे को ध्वस्त कर देती है।",
+        "en": "Buddhapālita says this argument is woven in Abhidharma terms, where a practitioner successively knows suffering, abandons its cause, cultivates the path, and witnesses cessation. The opponent claims emptiness destroys this entire framework.",
+        "ins": "जब आधार (आर्यसत्य) ही हिल जाए, तो उस पर टिकी हर मंज़िल हिलती दिखाई देती है — यही विरोधी की चिन्ता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह आक्षेप दिखाता है कि विरोधी शून्यता को स्वभाव-निषेध के रूप में नहीं, बल्कि सर्वथा अभाव के रूप में समझ रहा है। यदि दुःख आदि सर्वथा न हों, तो निश्चय ही उनसे जुड़ी क्रियाएँ भी न होंगी — परन्तु प्रश्न यह है कि नागार्जुन ऐसा कह ही नहीं रहे।",
+        "en": "Bhāviveka says this objection shows the opponent understands emptiness as total non-existence rather than as the negation of svabhāva alone. If suffering etc. utterly did not exist, the related practices indeed could not exist — but the question is whether Nāgārjuna is even claiming that.",
+        "ins": "आक्षेप की पूरी शक्ति इस बात पर टिकी है कि 'शून्य' और 'अभाव' एक ही चीज़ हैं — और यही धारणा आगे चलकर खण्डित होगी।"
+      }
+    },
+    "dp": [
+      {
+        "q": "📿 परिज्ञा, प्रहाण, भावना और साक्षिकर्म — इनका साधना में क्या स्थान है?",
+        "a": "पारम्परिक बौद्ध अभ्यास में ये चार क्रियाएँ चार आर्यसत्यों से सीधे जुड़ी हैं — <strong>दुःख को जानना है (परिज्ञा)</strong>, <strong>समुदय को छोड़ना है (प्रहाण)</strong>, <strong>मार्ग का अभ्यास करना है (भावना)</strong>, और <strong>निरोध का साक्षात्कार करना है (साक्षिकर्म)</strong>। यह चतुर्विध संरचना पूरे बौद्ध पथ की रीढ़ है — इसलिए विरोधी को डर है कि शून्यता इसे तोड़ देगी।"
+      },
+      {
+        "q": "⚖️ क्या विरोधी की चिन्ता उचित है?",
+        "a": "उसकी चिन्ता <strong>तार्किक रूप से समझ में आती है</strong> यदि शून्यता का अर्थ 'सर्वथा अभाव' मान लिया जाए। परन्तु आगे के श्लोकों में नागार्जुन दिखाएँगे कि <strong>यह पूरी शृंखला — दुःख से लेकर मार्ग तक — शून्यता के कारण ही सम्भव है</strong>, शून्यता के बावजूद नहीं। विरोधी की मूल भूल शुरुआत में ही हो चुकी है।"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "sk": "तदभावान्न विद्यन्ते चत्वार्यार्यफलानि च ।\nफलाभावे फलस्था नो सन्ति प्रतिपन्नकाः ॥",
+    "ro": "tad-abhāvān · na · vidyante · catvāry · ārya-phalāni · ca | phala-abhāve · phala-sthā · no · santi · pratipannakāḥ ||",
+    "hi": "उनके अभाव में चारों आर्यफल भी नहीं होंगे। फल के अभाव में न तो फल में स्थित व्यक्ति होंगे, न मार्ग में लगे साधक।",
+    "en": "Because of that absence, the four noble fruits would not exist either. Without the fruits, there would be neither those who abide in the fruits nor those who have entered the path.",
+    "ws": [
+      {
+        "s": "तदभावात्",
+        "h": "उसके अभाव से",
+        "e": "because of that absence"
+      },
+      {
+        "s": "आर्यफलानि",
+        "h": "आर्य फल / साधना के फल",
+        "e": "the noble fruits"
+      },
+      {
+        "s": "फलस्थाः",
+        "h": "फल में स्थित / फल-प्राप्त व्यक्ति",
+        "e": "those abiding in the fruit"
+      },
+      {
+        "s": "प्रतिपन्नकाः",
+        "h": "मार्ग में लगे हुए साधक",
+        "e": "those who have entered the path"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>तदभावात्</em> = तद् + अभाव, पञ्चमी — 'उसके अभाव के कारण।' <em>फलस्थाः</em> और <em>प्रतिपन्नकाः</em> पारम्परिक अभिधर्म शब्दावली से हैं — क्रमशः फल-प्राप्त और मार्गारूढ़ साधक (जैसे स्रोतापन्न, सकृदागामी आदि)। यह श्लोक विरोधी की शृंखला को आगे बढ़ाता है — सत्य नहीं तो साधना नहीं, साधना नहीं तो फल नहीं।<br><em>Eng:</em> <em>phala-sthāḥ</em> and <em>pratipannakāḥ</em> are standard Abhidharma terms for those who abide in a fruit (like stream-enterer) and those who have entered the path toward it. The chain continues: no truths → no practice → no fruits → no persons in those fruits.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — विरोधी अब अगले चरण पर जाता है: यदि साधनाएँ ही सम्भव नहीं, तो उनके परिणामस्वरूप प्राप्त होने वाले फल — स्रोतापत्ति आदि — भी असम्भव हो जाएँगे। और फल के बिना न तो फल-प्राप्त व्यक्ति होंगे, न मार्गारूढ़ साधक।",
+        "en": "Candrakīrti says the opponent now moves a step further: if the practices themselves are impossible, then the resulting fruits — stream-entry and so on — become impossible too. And without fruits, there are neither those who abide in them nor those on the path toward them.",
+        "ins": "एक कड़ी टूटते ही पूरी शृंखला बिखर जाती है — यही विरोधी की तर्क-रणनीति है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह क्रमिक विनाश है: सत्य नहीं → साधना नहीं → फल नहीं → साधक नहीं। विरोधी हर कदम को पिछले कदम पर निर्भर बताकर एक डोमिनो-प्रभाव रच रहा है, जिसमें अन्ततः सम्पूर्ण बौद्ध साधना-मार्ग ध्वस्त दिखता है।",
+        "en": "Buddhapālita says this is a sequential collapse: no truths → no practice → no fruit → no practitioner. The opponent constructs a domino effect where each step depends on the last, ultimately appearing to demolish the entire Buddhist path.",
+        "ins": "जब तर्क शृंखलाबद्ध हो, तो एक भी कड़ी को ग़लत सिद्ध करना पूरी शृंखला को बचा सकता है — यही आगे होगा।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि विरोधी की पूरी आपत्ति एक ही मूल भूल पर टिकी है, जो बार-बार दोहराई जा रही है। जब तक 'शून्यता = अभाव' की ग़लतफ़हमी दूर नहीं होती, विरोधी हर स्तर पर यही दोष दोहराता रहेगा।",
+        "en": "Bhāviveka says this verse shows the opponent's entire objection rests on one root error, repeated at every stage. Until the misunderstanding 'emptiness = non-existence' is cleared, the same fault will recur at every level.",
+        "ins": "एक ग़लत आधार से निकाले गए अनेक निष्कर्ष, चाहे कितने भी हों, उतने ही निराधार रहते हैं जितना वह आधार।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 'फलस्थ' और 'प्रतिपन्नक' का क्या अर्थ है?",
+        "a": "बौद्ध परम्परा में साधना-मार्ग पर चलने वालों को दो श्रेणियों में बाँटा गया है — <strong>'प्रतिपन्नक'</strong> (जो मार्ग पर चल रहे हैं, अभी फल तक नहीं पहुँचे) और <strong>'फलस्थ'</strong> (जो किसी फल — जैसे स्रोतापत्ति — को प्राप्त कर चुके हैं)। विरोधी कहता है कि यदि फल ही असम्भव हों, तो ये दोनों श्रेणियाँ के लोग भी असम्भव हो जाएँगे।"
+      },
+      {
+        "q": "🧱 यह डोमिनो-तर्क कहाँ जाकर रुकेगा?",
+        "a": "अभी नहीं रुकेगा — विरोधी अगले श्लोकों में <strong>संघ</strong> (साधकों का समुदाय), फिर <strong>धर्म</strong>, फिर <strong>बुद्ध</strong> तक पहुँचेगा। यह एक सुनियोजित शृंखला है जो अन्ततः <strong>त्रिरत्न</strong> (बुद्ध, धर्म, संघ) तक को ध्वस्त करने का दावा करेगी। नागार्जुन इसे जानबूझकर विस्तार से आने देते हैं, ताकि उसका उत्तर उतना ही व्यापक और निर्णायक हो।"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "sk": "अष्टौ पुरुषपुद्गलास्ते ऽभावे नैव सन्ति चेत् ।\nसंघो नास्तीति तेनायं साद्धर्मश्च न विद्यते ॥",
+    "ro": "aṣṭau · puruṣa-pudgalās · te · 'bhāve · naiva · santi · cet | saṃgho · nāstīti · tena · ayaṃ · sad-dharmaś · ca · na · vidyate ||",
+    "hi": "यदि उनके अभाव में वे आठों प्रकार के आर्य पुरुष भी न हों, तो इस कारण संघ नहीं है, और सद्धर्म भी नहीं है।",
+    "en": "If, in their absence, the eight kinds of noble persons also do not exist, then there is no spiritual community, and true dharma too does not exist.",
+    "ws": [
+      {
+        "s": "अष्टौ पुरुषपुद्गलाः",
+        "h": "आठ प्रकार के आर्य पुरुष",
+        "e": "the eight kinds of noble persons"
+      },
+      {
+        "s": "संघः",
+        "h": "साधकों का समुदाय",
+        "e": "the spiritual community"
+      },
+      {
+        "s": "साद्धर्मः",
+        "h": "सच्चा धर्म / उत्तम शिक्षा",
+        "e": "true dharma"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अष्टौ पुरुषपुद्गलाः</em> — अभिधर्म में चार जोड़े (मार्गस्थ और फलस्थ) मिलाकर आठ प्रकार के आर्य पुरुष माने जाते हैं — स्रोतापन्न से लेकर अर्हत् तक। <em>चेत्</em> = 'यदि' (सशर्त वाक्य)। यह श्लोक फल के अभाव से संघ के अभाव तक की कड़ी जोड़ता है।<br><em>Eng:</em> The 'eight kinds of persons' (aṣṭau puruṣa-pudgalāḥ) are the four pairs of path-farers and fruit-abiders in Abhidharma — from stream-enterer to arhat. The verse links absence of fruit to absence of the Saṅgha.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — विरोधी अब संघ पर पहुँचता है। संघ की परिभाषा ही इन आठ प्रकार के आर्य पुरुषों से होती है। यदि ये न हों, तो संघ शब्द निरर्थक हो जाता है। साथ ही, आर्यसत्यों के अभाव में सद्धर्म — सच्ची शिक्षा — भी टिक नहीं सकती।",
+        "en": "Candrakīrti says the opponent now arrives at the Saṅgha, which is defined precisely by these eight kinds of noble persons. Without them, the word 'Saṅgha' becomes meaningless. Likewise, without the noble truths, true dharma cannot stand either.",
+        "ins": "एक संस्था की परिभाषा ही जब खोखली हो जाए, तो संस्था स्वयं खोखली हो जाती है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क सरल गणित जैसा है: फल नहीं तो फल-प्राप्त व्यक्ति नहीं, व्यक्ति नहीं तो उनका समुदाय (संघ) नहीं। और सत्य नहीं तो उन सत्यों को प्रकट करने वाली शिक्षा (सद्धर्म) भी नहीं।",
+        "en": "Buddhapālita says this is simple arithmetic: no fruit, no persons who hold the fruit; no persons, no community of them (Saṅgha). And no truths, no teaching (true dharma) that reveals those truths.",
+        "ins": "जब गणना की हर पंक्ति पिछली पर निर्भर हो, तो अन्तिम पंक्ति भी उतनी ही खोखली होती है जितनी पहली।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — इस श्लोक में दो रत्न — धर्म और संघ — एक साथ आक्रमण की चपेट में आते हैं। विरोधी की रणनीति स्पष्ट है: पहले साधना-फल गिराओ, फिर उस पर टिके दोनों रत्नों को गिरा दो — अगला श्लोक तीसरे रत्न, बुद्ध, को भी गिरा देगा।",
+        "en": "Bhāviveka says two jewels — dharma and Saṅgha — come under attack together here. The opponent's strategy is clear: first topple the fruits of practice, then topple both jewels resting on them — the next verse will topple the third jewel, the Buddha, as well.",
+        "ins": "एक सुनियोजित आक्षेप हमेशा नींव से शुरू होकर ऊपर की ओर बढ़ता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "👥 'आठ प्रकार के आर्य पुरुष' कौन हैं?",
+        "a": "अभिधर्म परम्परा में चार जोड़े गिने जाते हैं — प्रत्येक जोड़े में एक <strong>मार्गस्थ</strong> (उस फल की ओर बढ़ रहा) और एक <strong>फलस्थ</strong> (उस फल को प्राप्त कर चुका) — स्रोतापत्ति, सकृदागामिता, अनागामिता और अर्हत्त्व। ये आठ मिलकर <strong>संघ</strong> की रीढ़ माने जाते हैं। विरोधी कहता है कि इनके बिना संघ शब्द ही निरर्थक हो जाएगा।"
+      },
+      {
+        "q": "🕉️ 'सद्धर्म' का क्या अर्थ है यहाँ?",
+        "a": "यहाँ 'सद्धर्म' का अर्थ है <strong>बुद्ध की सच्ची, प्रामाणिक शिक्षा</strong> — विशेष रूप से आर्यसत्यों की शिक्षा। विरोधी का तर्क है कि यदि सत्य ही असिद्ध हों, तो उन्हें बताने वाली शिक्षा भी असिद्ध हो जाएगी। अगले श्लोक में यह तर्क तीसरे रत्न — <strong>बुद्ध</strong> — तक पहुँचता है, और इस प्रकार त्रिरत्न पूरी तरह ख़तरे में दिखता है।"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "sk": "धर्मे चासति संघे च बुद्धः कथं भविष्यति ।\nएवं त्रीण्यपि रत्नानि वदंस्त्वं प्रतिबाधसे ॥",
+    "ro": "dharme · ca · asati · saṃghe · ca · buddhaḥ · kathaṃ · bhaviṣyati | evaṃ · trīṇy · api · ratnāni · vadaṃs · tvaṃ · pratibādhase ||",
+    "hi": "धर्म और संघ दोनों के अभाव में बुद्ध कैसे होंगे? इस प्रकार शून्यता की बात कहकर तुम तीनों रत्नों का ही खण्डन कर बैठते हो।",
+    "en": "If there is neither dharma nor community, how could there be a Buddha? By speaking of emptiness in this way, you end up denying all three jewels.",
+    "ws": [
+      {
+        "s": "बुद्धः",
+        "h": "बुद्ध / जागृत व्यक्ति",
+        "e": "the Buddha, the Awakened One"
+      },
+      {
+        "s": "त्रीणि रत्नानि",
+        "h": "तीनों रत्न (बुद्ध, धर्म, संघ)",
+        "e": "the three jewels"
+      },
+      {
+        "s": "प्रतिबाधसे",
+        "h": "खण्डन करते हो / विरोध करते हो",
+        "e": "you contradict / you refute"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>असति</em> = सति सप्तमी (locative absolute) — 'न होने पर।' <em>प्रतिबाधसे</em> = प्रति + √बाध्, आत्मनेपद मध्यम पुरुष — 'तुम खण्डन करते हो / प्रतिवाद करते हो।' यह श्लोक तीसरे रत्न — बुद्ध — तक तर्क को पहुँचाकर विरोधी की आपत्ति को अपने चरम पर ले जाता है।<br><em>Eng:</em> <em>pratibādhase</em> (2nd person, from prati+√bādh) means 'you contradict/refute.' The argument now reaches the third jewel, the Buddha, bringing the opponent's objection to its climax — all three jewels appear undermined.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह विरोधी के आक्षेप की पराकाष्ठा है। बिना धर्म और संघ के, बुद्ध किसकी परिनिष्पत्ति होंगे? बुद्ध की पहचान ही धर्म-देशना और संघ-स्थापना से जुड़ी है। इस प्रकार शून्यता की वकालत करके तुम स्वयं त्रिरत्न — बुद्ध, धर्म, संघ — का खण्डन कर बैठते हो।",
+        "en": "Candrakīrti says this is the peak of the opponent's objection. Without dharma and Saṅgha, of what would the Buddha be the culmination? The Buddha's identity is tied to teaching the dharma and founding the Saṅgha. Thus, by advocating emptiness, you end up denying the three jewels themselves.",
+        "ins": "जब आधार की तीन मंज़िलें एक-एक करके गिर जाएँ, तो पूरी इमारत — त्रिरत्न — ढह जाती दिखती है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह आक्षेप एक बौद्ध के लिए सबसे भयावह है, क्योंकि बुद्ध, धर्म और संघ — यही तीन आश्रय हैं जिनकी शरण बौद्ध लेता है। यदि शून्यता इन तीनों को नष्ट करती है, तो शून्यता स्वयं बौद्ध धर्म की सबसे बड़ी शत्रु सिद्ध होगी।",
+        "en": "Buddhapālita says this objection is the most alarming for a Buddhist, since the Buddha, dharma, and Saṅgha are precisely the three refuges one takes. If emptiness destroys all three, then emptiness would prove to be Buddhism's greatest enemy.",
+        "ins": "जो सिद्धान्त अपने ही आश्रयों को नष्ट कर दे, वह आत्मघाती प्रतीत होता है — यही विरोधी का व्यंग्य है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अध्याय के पूर्वपक्ष-खण्ड का शिखर है। इसके बाद (श्लोक 6 में) विरोधी सामान्य लौकिक व्यवहार पर भी यही आक्षेप बढ़ाएगा, और फिर (श्लोक 7 से) नागार्जुन उत्तर देना प्रारम्भ करेंगे — यह दिखाकर कि विरोधी की पूरी बुनियाद ही ग़लत है।",
+        "en": "Bhāviveka says this verse is the summit of the chapter's objection section. Next (verse 6) the opponent extends the same charge to ordinary worldly convention, and then (from verse 7) Nāgārjuna begins his reply — showing that the opponent's entire foundation is mistaken.",
+        "ins": "किसी भी वाद-विवाद में विरोधी का पक्ष जितना प्रबल दिखे, उत्तर उतना ही गहरा और निर्णायक होना चाहिए — यही आगे होने वाला है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "💎 'त्रिरत्न' क्या है और यह बौद्ध धर्म में इतना महत्वपूर्ण क्यों है?",
+        "a": "<strong>बुद्ध, धर्म और संघ</strong> — इन तीनों को 'त्रिरत्न' कहा जाता है, और हर बौद्ध इन्हीं तीन की शरण लेता है ('बुद्धं शरणं गच्छामि' आदि)। विरोधी का आक्षेप यह है कि शून्यता का सिद्धान्त इन तीनों आश्रयों को ही ध्वस्त कर देता है — यह आक्षेप इतना गम्भीर है कि इसका उत्तर दिए बिना शून्यता का सिद्धान्त टिक ही नहीं सकता।"
+      },
+      {
+        "q": "🌊 क्या नागार्जुन इस आक्षेप से घबराते हैं?",
+        "a": "बिल्कुल नहीं — बल्कि यही वह क्षण है जिसकी नागार्जुन प्रतीक्षा कर रहे थे। श्लोक 7 से वे दिखाना शुरू करेंगे कि <strong>विरोधी ने शून्यता को समझा ही नहीं है</strong>। सत्य इसके ठीक विपरीत है — <strong>शून्यता के बिना ही त्रिरत्न असम्भव होते</strong>, शून्यता के कारण नहीं। यह अध्याय का सबसे बड़ा मोड़ अगले ही श्लोकों में आता है।"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "sk": "फलस्य सद्भावं च तथा धर्माधर्मयोरपि ।\nसर्वसंव्यवहारांश्च लौकिकान्प्रतिबाधसे ॥",
+    "ro": "phalasya · sad-bhāvaṃ · ca · tathā · dharma-adharmayor · api | sarva-saṃvyavahārāṃś · ca · laukikān · pratibādhase ||",
+    "hi": "इसी प्रकार तुम फल की वास्तविकता का, धर्म और अधर्म दोनों का, और समस्त लौकिक व्यवहारों का भी खण्डन कर बैठते हो।",
+    "en": "In the same way, you also end up denying the reality of the fruit, of both merit and demerit, and of all worldly conventions as well.",
+    "ws": [
+      {
+        "s": "सद्भावम्",
+        "h": "वास्तविक अस्तित्व",
+        "e": "real existence"
+      },
+      {
+        "s": "धर्माधर्मयोः",
+        "h": "धर्म (पुण्य) और अधर्म (पाप) दोनों का",
+        "e": "of merit and demerit"
+      },
+      {
+        "s": "संव्यवहारान्",
+        "h": "व्यवहार / लोक-प्रचलन",
+        "e": "conventions / practices"
+      },
+      {
+        "s": "लौकिकान्",
+        "h": "लौकिक / सांसारिक",
+        "e": "worldly"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक विरोधी की सूची को पूरा करता है — फल की वास्तविकता, धर्म-अधर्म (नैतिक कर्म), और सम्पूर्ण <em>लौकिक व्यवहार</em> (रोज़मर्रा के लेन-देन, भाषा, कर्म)। <em>प्रतिबाधसे</em> पुनः दोहराया गया है, जो पिछले श्लोक से इस आक्षेप की निरन्तरता दिखाता है।<br><em>Eng:</em> This verse completes the opponent's list — reality of the fruit, merit-demerit (moral action), and all worldly conventions (everyday transactions, language, action). Repeating <em>pratibādhase</em> shows continuity with the previous verse's charge.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह विरोधी की अन्तिम, सबसे व्यापक आपत्ति है — शून्यता न केवल धार्मिक सत्य को बल्कि सम्पूर्ण लौकिक जीवन को भी असम्भव बना देती है। यदि फल, नैतिक कर्म और सामान्य व्यवहार भी शून्य हों, तो जीवन स्वयं अर्थहीन हो जाएगा।",
+        "en": "Candrakīrti says this is the opponent's final, broadest objection — emptiness would render impossible not only religious truth but ordinary life itself. If the fruit, moral action, and everyday convention are all empty, then life itself becomes meaningless.",
+        "ins": "यह आक्षेप धार्मिक क्षेत्र से निकलकर पूरे संसार तक फैल जाता है — इसीलिए इसका उत्तर उतना ही व्यापक होना चाहिए।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — विरोधी अब कहता है कि शून्यता केवल बौद्ध धर्म को नहीं, बल्कि नैतिकता (धर्म-अधर्म) और भाषा-व्यवहार (लौकिक संव्यवहार) को भी नष्ट कर देती है। यह आक्षेप शून्यता को एक सर्वग्रासी विनाशक के रूप में चित्रित करता है।",
+        "en": "Buddhapālita says the opponent now claims emptiness destroys not only Buddhism but also morality (merit and demerit) and everyday linguistic convention. This objection paints emptiness as an all-consuming destroyer.",
+        "ins": "जब कोई सिद्धान्त सब कुछ नष्ट करता दिखे, तो या तो वह सिद्धान्त ग़लत है या उसकी समझ ग़लत है — नागार्जुन दूसरा विकल्प चुनते हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक पूर्वपक्ष का समापन है। अब तक विरोधी ने आर्यसत्य, साधना, फल, त्रिरत्न, नैतिकता और लौकिक व्यवहार — सब कुछ को शून्यता के विनाश की चपेट में दिखाया है। अगले श्लोक से नागार्जुन का उत्तरपक्ष प्रारम्भ होता है।",
+        "en": "Bhāviveka says this verse concludes the pūrvapakṣa. The opponent has now shown the noble truths, practice, fruits, the three jewels, morality, and worldly convention all supposedly destroyed by emptiness. From the next verse, Nāgārjuna's response (uttarapakṣa) begins.",
+        "ins": "पूर्वपक्ष जितना विस्तृत और सुव्यवस्थित हो, उत्तरपक्ष उतना ही निर्णायक होना चाहिए — और यही आगे होता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌍 यह आक्षेप धार्मिक दायरे से बाहर क्यों फैलता है?",
+        "a": "विरोधी दिखाना चाहता है कि शून्यता का ख़तरा केवल <strong>बौद्ध धर्म तक सीमित नहीं</strong> — यह <strong>नैतिकता (कौन सा कर्म पुण्य है, कौन-सा पाप) और रोज़मर्रा के व्यवहार (भाषा, लेन-देन, समाज)</strong> तक को असम्भव बना देता है। यह आक्षेप को अधिकतम व्यापक बनाने की रणनीति है — ताकि शून्यता को पूरी तरह अस्वीकार्य सिद्ध किया जा सके।"
+      },
+      {
+        "q": "🔄 अब आगे क्या होगा?",
+        "a": "यहीं से अध्याय का मोड़ आता है। श्लोक 7 से नागार्जुन सीधे उत्तर देना शुरू करेंगे: <strong>'तुम शून्यता को समझते ही नहीं'</strong>। वे दिखाएँगे कि सत्य वास्तव में उल्टा है — <strong>शून्यता के बिना ही ये सब चीज़ें असम्भव होतीं</strong>, शून्यता के कारण नहीं। यह मोड़ पूरे मध्यमक दर्शन का हृदय है।"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "sk": "अत्र ब्रूमः शून्यतायां न त्वं वेत्सि प्रयोजनम् ।\nशून्यतां अर्थं च नैव त्वं वेत्सि ततो विहन्यसे ॥",
+    "ro": "atra · brūmaḥ · śūnyatāyāṃ · na · tvaṃ · vetsi · prayojanam | śūnyatāṃ · arthaṃ · ca · naiva · tvaṃ · vetsi · tato · vihanyase ||",
+    "hi": "हम यहाँ कहते हैं — तुम शून्यता का प्रयोजन नहीं जानते, न शून्यता को और न उसके अर्थ को। इसीलिए तुम स्वयं अपने ही तर्क से पराजित हो जाते हो।",
+    "en": "Here we say: you do not know the purpose of emptiness, nor emptiness itself, nor its meaning. Therefore you are struck down by your own argument.",
+    "ws": [
+      {
+        "s": "ब्रूमः",
+        "h": "हम कहते हैं",
+        "e": "we say"
+      },
+      {
+        "s": "प्रयोजनम्",
+        "h": "प्रयोजन / उद्देश्य",
+        "e": "purpose"
+      },
+      {
+        "s": "अर्थम्",
+        "h": "अर्थ / तात्पर्य",
+        "e": "meaning"
+      },
+      {
+        "s": "विहन्यसे",
+        "h": "पराजित होते हो / नष्ट होते हो",
+        "e": "you are struck down / refuted"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह अध्याय का मोड़-बिन्दु है। <em>वेत्सि</em> = √विद् (जानना), मध्यम पुरुष, तीन बार दोहराया गया इनकार — प्रयोजन, शून्यता स्वयं, और अर्थ — तीनों स्तरों पर विरोधी की अज्ञानता को उजागर करता है। <em>विहन्यसे</em> = वि + √हन्, कर्मवाच्य — 'तुम स्वयं ही मारे जाते हो,' अर्थात् तुम्हारा अपना ही तर्क तुम्हारे विरुद्ध हो जाता है।<br><em>Eng:</em> This is the pivotal verse of the chapter. The triple denial — you know neither the purpose, nor emptiness itself, nor its meaning — exposes the opponent's misunderstanding at three levels. <em>vihanyase</em> ('you are struck down') shows the opponent's own argument recoiling upon him.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह उत्तरपक्ष का प्रारम्भिक और सर्वाधिक निर्णायक श्लोक है। विरोधी की पूरी लम्बी आपत्ति (श्लोक 1-6) एक ही मूल भूल पर टिकी है — वह शून्यता को नहीं समझता। शून्यता का <em>प्रयोजन</em> है दुःखमुक्ति; उसका <em>स्वरूप</em> है निःस्वभावता; और उसका <em>अर्थ</em> है प्रतीत्यसमुत्पाद — इन तीनों में से किसी को भी विरोधी नहीं जानता।",
+        "en": "Candrakīrti says this is the opening and most decisive verse of the response. The opponent's entire long objection (verses 1-6) rests on one root error — he does not understand emptiness. Its purpose is liberation from suffering; its nature is the absence of inherent existence; its meaning is dependent origination — the opponent knows none of these three.",
+        "ins": "एक ही ग़लतफ़हमी दूर होने से पूरा पहाड़ जैसा आक्षेप ताश के पत्तों की तरह गिर जाता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'ततो विहन्यसे' का अर्थ है कि विरोधी अपने ही हथियार से घायल हो जाता है। उसने माना कि शून्यता का अर्थ है 'सर्वथा अभाव,' और इसी ग़लत मान्यता के आधार पर तर्क खड़ा किया — इसलिए उसका पूरा भवन उसी ग़लत नींव पर गिर जाता है।",
+        "en": "Buddhapālita says 'tato vihanyase' means the opponent is wounded by his own weapon. He assumed emptiness means 'total non-existence,' and built his argument on that false premise — so his entire structure collapses on that same false foundation.",
+        "ins": "अपने ही ग़लत अनुमान पर खड़ा तर्क, अन्ततः अपने ही निर्माता को गिरा देता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक शून्यता की त्रिस्तरीय व्याख्या का संकेत देता है, जिसे आगे के श्लोक (8-18) विस्तार से खोलेंगे: दो सत्यों का भेद (8-10), ग़लत ढंग से पकड़ी गई शून्यता का ख़तरा (11-12), और शून्यता का वास्तविक अर्थ — प्रतीत्यसमुत्पाद (18)।",
+        "en": "Bhāviveka says this verse foreshadows a three-tiered explanation of emptiness that the following verses (8-18) will unfold: the distinction of the two truths (8-10), the danger of wrongly grasped emptiness (11-12), and emptiness's true meaning as dependent origination (18).",
+        "ins": "एक संक्षिप्त कथन आगे के पूरे अध्याय की रूपरेखा खींच देता है — यही महान दार्शनिक ग्रन्थों की शैली है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔑 विरोधी की मूल भूल क्या है?",
+        "a": "नागार्जुन तीन बातें कहते हैं जिन्हें विरोधी नहीं जानता — <strong>शून्यता का प्रयोजन</strong> (क्यों सिखाई गई — दुःखमुक्ति के लिए), <strong>शून्यता स्वयं</strong> (क्या है — निःस्वभावता, न कि अभाव), और <strong>उसका अर्थ</strong> (वह किससे जुड़ी है — प्रतीत्यसमुत्पाद से)। विरोधी ने शून्यता को <strong>'सब कुछ नहीं है'</strong> समझ लिया, जबकि इसका वास्तविक अर्थ है <strong>'कुछ भी स्वतन्त्र, स्वयंभू रूप से नहीं है, सब कुछ परस्पर-निर्भर होकर है'</strong>।"
+      },
+      {
+        "q": "♟️ 'अपने ही तर्क से पराजित होना' — यह कैसे होता है?",
+        "a": "विरोधी ने कहा: 'यदि शून्यता सत्य है, तो आर्यसत्य नष्ट होते हैं।' पर आगे नागार्जुन दिखाएँगे कि यह ठीक <strong>उल्टा</strong> है — <strong>शून्यता के बिना ही</strong> कुछ भी उत्पन्न-नष्ट नहीं हो सकता, इसलिए आर्यसत्य ही असम्भव हो जाते। विरोधी ने जो हथियार शून्यता के विरुद्ध चलाया था, वही हथियार अब <strong>स्वयं उसी के स्वभाव-सिद्धान्त पर पलटकर वार करता है</strong>।"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "sk": "द्वे सत्ये समुपाश्रित्य बुद्धानां धर्मदेशना ।\nलोकसंवृतिसत्यं च सत्यं च परमार्थतः ॥",
+    "ro": "dve · satye · samupāśritya · buddhānāṃ · dharma-deśanā | loka-saṃvṛti-satyaṃ · ca · satyaṃ · ca · paramārthataḥ ||",
+    "hi": "बुद्धों की धर्म-देशना दो सत्यों पर आश्रित है — एक लोक-व्यवहार का सत्य, और दूसरा परमार्थ का सत्य।",
+    "en": "The Buddhas' teaching of the Dharma rests on two truths: the truth of worldly convention, and the truth of the ultimate.",
+    "ws": [
+      {
+        "s": "द्वे सत्ये",
+        "h": "दो सत्य",
+        "e": "two truths"
+      },
+      {
+        "s": "समुपाश्रित्य",
+        "h": "आश्रय लेकर / आधार बनाकर",
+        "e": "having relied upon"
+      },
+      {
+        "s": "धर्मदेशना",
+        "h": "धर्म की शिक्षा / उपदेश",
+        "e": "the teaching of the Dharma"
+      },
+      {
+        "s": "लोकसंवृतिसत्यम्",
+        "h": "लोक-व्यवहार का सत्य / सांवृतिक सत्य",
+        "e": "conventional / worldly truth"
+      },
+      {
+        "s": "परमार्थतः",
+        "h": "परमार्थ की दृष्टि से / अन्तिम रूप से",
+        "e": "in terms of the ultimate"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक सम्पूर्ण मध्यमक दर्शन का आधार-स्तम्भ है। <em>समुपाश्रित्य</em> = सम् + उप + आ + √श्रि, ल्यबन्त — 'भलीभाँति आश्रय लेकर।' <em>संवृतिसत्यम्</em> और <em>परमार्थसत्यम्</em> — यह द्विविध सत्य-व्यवस्था बुद्ध की सम्पूर्ण देशना-पद्धति की कुंजी है। इसके बिना कोई भी शून्यता की चर्चा भ्रामक हो जाती है।<br><em>Eng:</em> This verse is the cornerstone of the entire Madhyamaka system. The twofold framework of conventional (saṃvṛti) and ultimate (paramārtha) truth is the key to how the Buddha teaches at all — without it, any discussion of emptiness becomes confused.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यही वह श्लोक है जो पूरे विरोधी के आक्षेप की जड़ काट देता है। बुद्ध की देशना एक स्तर पर नहीं, दो स्तरों पर काम करती है। संवृति-सत्य में हम कहते हैं 'व्यक्ति दुःख अनुभव करता है, मार्ग पर चलता है,' और परमार्थ-सत्य में हम देखते हैं कि इनमें से कुछ भी स्वभावतः सिद्ध नहीं है। विरोधी इस भेद को भूलकर परमार्थ के कथन को संवृति पर थोप देता है।",
+        "en": "Candrakīrti says this is precisely the verse that cuts the root of the opponent's entire objection. The Buddha's teaching operates at two levels, not one. At the conventional level we say 'a person experiences suffering, walks the path'; at the ultimate level we see that none of this is established by inherent nature. The opponent forgets this distinction and imposes the ultimate statement onto the conventional.",
+        "ins": "जो एक सीढ़ी को दूसरी सीढ़ी समझ बैठे, वह न ऊपर पहुँच पाता है न नीचे टिक पाता है — दो सत्यों का भेद यही सिखाता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'संवृति' का अर्थ है लोक-व्यवहार में स्वीकृत सत्य — जैसे 'यह घड़ा है,' 'मैं चलता हूँ।' 'परमार्थ' का अर्थ है गहरी जाँच से प्राप्त सत्य — कि घड़ा, चलना, मैं — इनमें से कोई भी स्वतन्त्र, ठोस स्वभाव से सिद्ध नहीं। दोनों सत्य अपने-अपने स्तर पर वैध हैं; एक-दूसरे को नकारते नहीं।",
+        "en": "Buddhapālita says 'saṃvṛti' is truth accepted in ordinary worldly usage — 'this is a pot,' 'I am walking.' 'Paramārtha' is the truth reached through deep investigation — that the pot, the walking, the 'I' are none of them established by any independent, solid inherent nature. Both truths are valid at their own level; neither negates the other.",
+        "ins": "दो सत्य एक-दूसरे के शत्रु नहीं, बल्कि एक ही सीढ़ी की दो पायदानें हैं।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक बताता है कि शून्यता की शिक्षा कभी भी संवृति-सत्य को नकारने के लिए नहीं दी गई — बल्कि यह दिखाने के लिए कि संवृति-सत्य भी स्वभाव-रहित होकर ही कार्य करता है। यही आगे श्लोक 10 में स्पष्ट होगा: बिना संवृति के परमार्थ सिखाया ही नहीं जा सकता।",
+        "en": "Bhāviveka says this verse shows the teaching of emptiness was never meant to negate conventional truth — rather, to show that conventional truth itself functions precisely because it lacks inherent nature. This will become explicit in verse 10: without convention, the ultimate cannot even be taught.",
+        "ins": "परमार्थ की सीढ़ी संवृति की ज़मीन पर ही खड़ी है — एक को हटाने से दूसरा भी गिर जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⚖️ 'संवृति सत्य' और 'परमार्थ सत्य' में क्या अन्तर है?",
+        "a": "<strong>संवृति सत्य (conventional truth)</strong> वह है जो रोज़मर्रा के व्यवहार में सत्य माना जाता है — 'यह मेज़ है,' 'मुझे दर्द होता है।' <strong>परमार्थ सत्य (ultimate truth)</strong> वह है जो गहरी विश्लेषणात्मक जाँच से प्रकट होता है — कि मेज़, दर्द, 'मैं' — कोई भी वस्तु <strong>स्वतन्त्र, स्वयंसिद्ध स्वभाव</strong> से नहीं है, बल्कि <strong>परस्पर-निर्भर होकर</strong> प्रकट होती है। दोनों सत्य झूठे नहीं — बल्कि दो अलग-अलग दृष्टिकोण हैं।"
+      },
+      {
+        "q": "🚧 विरोधी की भूल कहाँ हुई थी?",
+        "a": "विरोधी ने परमार्थ के कथन — 'कुछ भी स्वभाव से सिद्ध नहीं' — को संवृति के धरातल पर लागू कर दिया, यह सोचकर कि इसका अर्थ है 'कुछ भी नहीं है।' पर नागार्जुन कहते हैं — <strong>परमार्थ की बात संवृति को नकारती नहीं, बल्कि उसकी असली प्रकृति को उजागर करती है</strong>। दुःख, मार्ग, आर्यसत्य — ये संवृति में पूरी तरह कार्यशील रहते हैं, बस स्वभाव-सिद्ध नहीं होते।"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "sk": "ये ऽनयोर्न विजानन्ति विभागं सत्ययोर्द्वयोः ।\nते तत्त्वं न विजानन्ति गम्भीरं बुद्धशासने ॥",
+    "ro": "ye · 'nayor · na · vijānanti · vibhāgaṃ · satyayor · dvayoḥ | te · tattvaṃ · na · vijānanti · gambhīraṃ · buddha-śāsane ||",
+    "hi": "जो इन दोनों सत्यों के भेद को नहीं जानते, वे बुद्ध के शासन में निहित गहरे तत्त्व को नहीं जानते।",
+    "en": "Those who do not know the distinction between these two truths do not understand the profound reality within the Buddha's teaching.",
+    "ws": [
+      {
+        "s": "विभागम्",
+        "h": "भेद / विभाजन",
+        "e": "distinction"
+      },
+      {
+        "s": "तत्त्वम्",
+        "h": "सच्ची प्रकृति / मूल यथार्थ",
+        "e": "the true nature / reality"
+      },
+      {
+        "s": "गम्भीरम्",
+        "h": "गहरा / गूढ़",
+        "e": "profound"
+      },
+      {
+        "s": "बुद्धशासने",
+        "h": "बुद्ध की शिक्षा में",
+        "e": "in the Buddha's teaching"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>ये...ते</em> — सम्बन्ध-सूचक सर्वनाम युग्म ('जो...वे')। <em>विजानन्ति</em> = वि + √ज्ञा, लट्, बहुवचन — 'गहराई से जानते हैं।' यह श्लोक श्लोक 8 का सीधा निष्कर्ष है — जो कोई भी शून्यता की चर्चा में उलझे, उसे सबसे पहले यह भेद समझना अनिवार्य है।<br><em>Eng:</em> This verse is the direct conclusion of verse 8 — anyone engaging with a discussion of emptiness must first grasp this distinction between the two truths, or they will misread the entire teaching, as the opponent has done.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक विरोधी की सटीक स्थिति का वर्णन है। वह दोनों सत्यों के भेद को नहीं जानता, इसीलिए बुद्ध-शासन के गूढ़ तत्त्व को नहीं समझ पाता। यह श्लोक चेतावनी भी है — कोई भी जो इस भेद को नज़रअन्दाज़ करे, वह अनिवार्यतः शून्यता को ग़लत समझेगा।",
+        "en": "Candrakīrti says this verse describes precisely the opponent's situation. Not knowing the distinction between the two truths, he cannot grasp the profound reality of the Buddha's teaching. It is also a warning — anyone who ignores this distinction will inevitably misunderstand emptiness.",
+        "ins": "बिना नक्शे के गहरे जंगल में चलना — यही हाल उस व्यक्ति का है जो दो सत्यों का भेद नहीं जानता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक बहुत ही स्पष्ट रूप से बताता है कि सभी दार्शनिक भ्रम इसी एक बिन्दु से उत्पन्न होते हैं — संवृति और परमार्थ को गड्डमड्ड कर देना। जो व्यक्ति यह भेद समझ लेता है, उसके लिए शून्यता का शेष तर्क सरल हो जाता है।",
+        "en": "Buddhapālita says this verse states very clearly that all philosophical confusion arises from precisely this one point — conflating convention and the ultimate. For one who grasps this distinction, the rest of the argument for emptiness becomes simple.",
+        "ins": "एक कुंजी सही जगह लग जाए, तो पूरा ताला खुल जाता है — यह कुंजी है दो सत्यों का भेद।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — 'गम्भीर' शब्द बताता है कि यह भेद सतही नहीं, बल्कि अत्यन्त सूक्ष्म है। भोले साधक इसे न समझकर या तो शाश्वतवाद (सब कुछ ठोस है) या उच्छेदवाद (कुछ भी नहीं है) की ओर फिसल जाते हैं — दोनों ही बुद्ध-शासन के गम्भीर तत्त्व से दूर हैं।",
+        "en": "Bhāviveka says the word 'profound' (gambhīra) indicates this distinction is not superficial but extremely subtle. Naive practitioners, missing it, slide either into eternalism (everything is solid) or nihilism (nothing exists) — both far from the profound reality of the Buddha's teaching.",
+        "ins": "मध्यम मार्ग की गहराई ठीक इसी भेद को ठीक-ठीक पकड़ने में है — न अधिक, न कम।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🗝️ यह श्लोक इतना महत्वपूर्ण क्यों माना जाता है?",
+        "a": "यह श्लोक बताता है कि <strong>बौद्ध दर्शन को ग़लत समझने का मूल कारण हमेशा एक ही होता है</strong> — दो सत्यों के भेद को न समझना। जो व्यक्ति संवृति और परमार्थ को गड्डमड्ड करता है, वह या तो शून्यता से डर जाता है (जैसे विरोधी) या उसे ग़लत ढंग से पकड़कर नुक़सान उठाता है (जैसा श्लोक 11 में 'साँप' के दृष्टान्त से आगे कहा जाएगा)।"
+      },
+      {
+        "q": "🎯 इस भेद को व्यवहार में कैसे समझें?",
+        "a": "जब आप कहते हैं <strong>'मुझे भूख लगी है'</strong> — यह संवृति सत्य है, और यह पूरी तरह मान्य है। जब आप गहराई से पूछते हैं <strong>'यह भूख किस स्वतन्त्र, स्थायी स्वभाव से उत्पन्न है?'</strong> — तो परमार्थ दृष्टि से पता चलता है कि कोई ठोस, स्वतन्त्र 'भूख' नहीं मिलती, केवल परस्पर-निर्भर कारण-प्रक्रिया मिलती है। <strong>दोनों उत्तर एक साथ सत्य हैं</strong> — यही भेद है।"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "sk": "व्यवहारमनाश्रित्य परमार्थो न देश्यते ।\nपरमार्थमनागम्य निर्वाणं नाधिगम्यते ॥",
+    "ro": "vyavahāram · anāśritya · paramārtho · na · deśyate | paramārtham · anāgamya · nirvāṇaṃ · na · adhigamyate ||",
+    "hi": "व्यवहार अर्थात् लोक-भाषा का आश्रय लिए बिना परमार्थ नहीं सिखाया जा सकता। और परमार्थ को समझे बिना निर्वाण प्राप्त नहीं होता।",
+    "en": "Without relying on convention, the ultimate cannot be taught. Without understanding the ultimate, nirvāṇa is not attained.",
+    "ws": [
+      {
+        "s": "व्यवहारम्",
+        "h": "लोक-व्यवहार / भाषा-प्रयोग",
+        "e": "conventional usage / practice"
+      },
+      {
+        "s": "अनाश्रित्य",
+        "h": "आश्रय लिए बिना",
+        "e": "without relying on"
+      },
+      {
+        "s": "देश्यते",
+        "h": "सिखाया जाता है / उपदिष्ट होता है",
+        "e": "is taught"
+      },
+      {
+        "s": "अनागम्य",
+        "h": "समझे बिना / प्राप्त किए बिना",
+        "e": "without arriving at / understanding"
+      },
+      {
+        "s": "अधिगम्यते",
+        "h": "प्राप्त होता है",
+        "e": "is attained"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> दोनों पंक्तियों में समान्तर रचना है — <em>अनाश्रित्य...न देश्यते</em> और <em>अनागम्य...न अधिगम्यते</em>। दोनों ल्यबन्त निषेधात्मक गेरुण्ड (अन् + ल्यप्) हैं। यह श्लोक शिक्षाशास्त्रीय क्रम बताता है: पहले भाषा (व्यवहार) से परमार्थ सिखाया जाता है, फिर परमार्थ को समझकर निर्वाण प्राप्त होता है — दोनों चरण अनिवार्य हैं, कोई भी छोड़ा नहीं जा सकता।<br><em>Eng:</em> Both lines share parallel structure — a negative gerund ('without X') followed by a negated verb ('Y is not achieved'). The verse maps a pedagogical sequence: convention teaches the ultimate, and understanding the ultimate yields nirvāṇa — neither step can be skipped.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक द्विसत्य-सिद्धान्त का व्यावहारिक निहितार्थ है। परमार्थ को शब्दों में बताना पड़ता है, और शब्द स्वयं संवृति के भीतर आते हैं। इसलिए संवृति को नकारना परमार्थ की शिक्षा को ही असम्भव बना देगा — यह ठीक वही ग़लती है जो विरोधी कर रहा था।",
+        "en": "Candrakīrti says this verse is the practical implication of the two-truth doctrine. The ultimate must be conveyed in words, and words themselves belong to convention. So negating convention would make teaching the ultimate impossible — exactly the mistake the opponent was making.",
+        "ins": "सीढ़ी को तोड़कर छत पर पहुँचने की कोशिश करना असम्भव है — व्यवहार वही सीढ़ी है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक दिखाता है कि संवृति और परमार्थ शत्रु नहीं, साधन और साध्य हैं। बुद्ध ने भाषा, कथा, दृष्टान्त — सब संवृति के औज़ार अपनाए ताकि श्रोता परमार्थ तक पहुँच सकें। यदि संवृति को ही नकार दिया जाए, तो परमार्थ तक पहुँचने का कोई मार्ग ही नहीं बचेगा।",
+        "en": "Buddhapālita says this verse shows convention and the ultimate are not enemies but means and end. The Buddha used language, stories, and similes — all conventional tools — so listeners could reach the ultimate. If convention itself is negated, no path to the ultimate remains.",
+        "ins": "नाव के बिना नदी पार नहीं होती, और नाव को नदी में फेंक देने से पार पहुँचना असम्भव हो जाता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक शून्यता के आक्षेप का सबसे प्रभावी उत्तर तैयार करता है: विरोधी संवृति को नकार कर स्वयं ही परमार्थ और निर्वाण दोनों को असम्भव बना रहा है, जबकि नागार्जुन दोनों सत्यों को अपनाकर दोनों को सुरक्षित रखते हैं।",
+        "en": "Bhāviveka says this verse prepares the most effective answer to the objection: it is the opponent, by rejecting convention, who makes both the ultimate and nirvāṇa impossible, while Nāgārjuna, by embracing both truths, keeps both intact.",
+        "ins": "जो सत्य के एक स्तर को नकारता है, वह अनजाने में दूसरे स्तर को भी खो देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪜 'व्यवहार' को 'सीढ़ी' क्यों कहा जा सकता है?",
+        "a": "बुद्ध की शिक्षा शब्दों, कहानियों और उदाहरणों — यानी <strong>संवृति (व्यवहार)</strong> — के माध्यम से दी जाती है। यह सीढ़ी है जिस पर चढ़कर श्रोता <strong>परमार्थ</strong> तक पहुँचता है। यदि कोई कहे 'संवृति झूठी है, उसे हटा दो,' तो वह सीढ़ी ही तोड़ देगा — और फिर परमार्थ तक पहुँचने का कोई रास्ता नहीं बचेगा। <strong>संवृति परमार्थ की शत्रु नहीं, उसका द्वार है</strong>।"
+      },
+      {
+        "q": "🎓 इस श्लोक का व्यावहारिक जीवन में क्या अर्थ है?",
+        "a": "इसका अर्थ है कि <strong>गहरी सच्चाई तक पहुँचने के लिए रोज़मर्रा की भाषा और अनुभव को नकारने की ज़रूरत नहीं</strong>, बल्कि उन्हीं का सही उपयोग करने की ज़रूरत है। जैसे कोई गणित की गहरी अवधारणा सीखने के लिए पहले सरल भाषा और उदाहरणों का सहारा लेता है, वैसे ही <strong>परमार्थ को समझने के लिए भी संवृति की भाषा अनिवार्य सीढ़ी है</strong>।"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "sk": "विनाशयति दुर्दृष्टा शून्यता मन्दमेधसम् ।\nसर्पो यथा दुर्गृहीतो विद्या वा दुष्प्रसाधिता ॥",
+    "ro": "vināśayati · dur-dṛṣṭā · śūnyatā · manda-medhasam | sarpo · yathā · dur-gṛhīto · vidyā · vā · duṣ-prasādhitā ||",
+    "hi": "गलत ढंग से देखी गई शून्यता मन्दबुद्धि व्यक्ति को नष्ट कर देती है — जैसे गलत तरीक़े से पकड़ा गया साँप, या गलत ढंग से साधी गई विद्या।",
+    "en": "Wrongly viewed, emptiness destroys a person of dull intellect — like a snake wrongly grasped, or a spell wrongly performed.",
+    "ws": [
+      {
+        "s": "दुर्दृष्टा",
+        "h": "गलत ढंग से देखी गई",
+        "e": "wrongly seen / misperceived"
+      },
+      {
+        "s": "मन्दमेधसम्",
+        "h": "मन्दबुद्धि व्यक्ति को",
+        "e": "a person of dull intellect"
+      },
+      {
+        "s": "दुर्गृहीतः",
+        "h": "गलत ढंग से पकड़ा गया",
+        "e": "wrongly grasped"
+      },
+      {
+        "s": "दुष्प्रसाधिता",
+        "h": "गलत ढंग से साधी/सम्पन्न की गई",
+        "e": "wrongly performed / mishandled"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>दुर्दृष्टा</em> और <em>दुर्गृहीतः</em> — दुर् उपसर्ग + भूत कृदन्त, 'ग़लत ढंग से किया गया।' यह श्लोक अत्यन्त प्रसिद्ध है, जिसमें शून्यता की ग़लत समझ की तुलना दो पारम्परिक दृष्टान्तों से की गई है — साँप को ग़लत ढंग से पकड़ना (जो डस लेता है) और विद्या (मन्त्र) को ग़लत ढंग से साधना (जो साधक को ही हानि पहुँचाती है)।<br><em>Eng:</em> This is one of the most famous verses of the chapter — comparing wrongly-grasped emptiness to two traditional images: seizing a snake by the wrong end (it bites), and performing a spell incorrectly (it harms the practitioner instead).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक स्पष्ट चेतावनी है। शून्यता कोई खिलौना नहीं, बल्कि साँप जैसी है — यदि सही ढंग (पूँछ की ओर से नहीं, सिर के पीछे से) पकड़ा जाए तो सुरक्षित है, अन्यथा घातक। जो शून्यता को 'सब कुछ नहीं है' समझकर पकड़ता है, वह उसी साँप को ग़लत सिरे से पकड़ रहा है।",
+        "en": "Candrakīrti says this verse is an explicit warning. Emptiness is no toy — it is like a snake: grasped correctly (behind the head, not by the tail) it is safe, otherwise deadly. One who takes emptiness to mean 'nothing exists' is grasping that same snake by the wrong end.",
+        "ins": "गहरी सच्चाइयाँ सुरक्षा-निर्देश के साथ आती हैं — बिना निर्देश जाने उन्हें छूना ख़तरनाक है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'विद्या दुष्प्रसाधिता' का दृष्टान्त बताता है कि मन्त्र-साधना में थोड़ी सी भी चूक साधक को ही जला देती है, लाभ की जगह हानि होती है। ठीक वैसे ही शून्यता को उच्छेदवाद (nihilism) समझकर पकड़ने वाला व्यक्ति नैतिकता और अर्थ दोनों खो बैठता है।",
+        "en": "Buddhapālita says the image of 'a spell mishandled' shows that even a slight error in mantra-practice burns the practitioner instead of benefiting him. Likewise, one who grasps emptiness as nihilism loses both morality and meaning.",
+        "ins": "जो औज़ार सबसे शक्तिशाली होता है, ग़लत हाथों में वही सबसे ख़तरनाक भी हो जाता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक बताता है कि शून्यता की शिक्षा सावधानी से, योग्य गुरु के मार्गदर्शन में लेनी चाहिए। ग़लत समझ से व्यक्ति उच्छेदवाद में गिरकर सारी नैतिकता त्याग सकता है, यह सोचकर कि 'कुछ भी वास्तविक नहीं तो कुछ भी मायने नहीं रखता' — यह ठीक वही भय है जो विरोधी ने श्लोक 1-6 में व्यक्त किया।",
+        "en": "Bhāviveka says this verse indicates that the teaching of emptiness must be approached carefully, under proper guidance. A wrong grasp can lead one into nihilism, abandoning all morality by thinking 'nothing is real, so nothing matters' — precisely the fear the opponent voiced in verses 1-6.",
+        "ins": "यही कारण है कि बुद्ध ने शून्यता को हर किसी को तुरन्त नहीं सिखाया — अगले श्लोक में यही बताया जाएगा।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🐍 'साँप को ग़लत ढंग से पकड़ना' का यह दृष्टान्त क्या सिखाता है?",
+        "a": "पारम्परिक रूप से साँप को <strong>सिर के ठीक पीछे से पकड़ा जाता है</strong> — तभी वह सुरक्षित रहता है। यदि उसे बीच से या पूँछ से पकड़ें, तो वह पलटकर डस लेता है। ठीक इसी तरह, <strong>शून्यता को सही ढंग से समझें — 'निःस्वभावता' के रूप में</strong> — तो वह मुक्तिदायक है। यदि उसे ग़लत ढंग से — <strong>'कुछ भी नहीं है'</strong> — समझ लें, तो वह व्यक्ति को नैतिक और मानसिक रूप से नष्ट कर सकती है।"
+      },
+      {
+        "q": "⚠️ क्या इसका मतलब है कि शून्यता ख़तरनाक शिक्षा है?",
+        "a": "शून्यता स्वयं ख़तरनाक नहीं — <strong>उसकी ग़लत समझ ख़तरनाक है</strong>। यह वैसा ही है जैसे आग स्वयं न अच्छी है न बुरी, पर सावधानी से उपयोग करने पर वह भोजन पकाती है और लापरवाही से जला देती है। इसीलिए परम्परा में शून्यता की शिक्षा को <strong>क्रमिक रूप से, उचित आधार तैयार करके</strong> दिया जाता है — यही अगले श्लोक में बुद्ध की सावधानी के रूप में दिखाया गया है।"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "sk": "गाम्भीर्यादस्य धर्मस्य दुर्बोधत्वाच्च देहिनाम् ।\nदेशनायां मुनेश्चित्तमनासक्तं ततोऽभवत् ॥",
+    "ro": "gāmbhīryād · asya · dharmasya · dur-bodhatvāc · ca · dehinām | deśanāyāṃ · muneś · cittam · anāsaktaṃ · tato · 'bhavat ||",
+    "hi": "इस धर्म की गहराई के कारण और प्राणियों के लिए इसे समझना कठिन होने के कारण, इसकी देशना में मुनि का चित्त पहले अनासक्त हो गया था।",
+    "en": "Because of the depth of this doctrine, and because it is hard for beings to grasp, the Sage's mind, at first, turned away from teaching it.",
+    "ws": [
+      {
+        "s": "गाम्भीर्यात्",
+        "h": "गहराई के कारण",
+        "e": "because of the profundity"
+      },
+      {
+        "s": "दुर्बोधत्वात्",
+        "h": "दुर्बोध होने के कारण / समझना कठिन होने से",
+        "e": "because of being hard to understand"
+      },
+      {
+        "s": "देहिनाम्",
+        "h": "प्राणियों के लिए",
+        "e": "for embodied beings"
+      },
+      {
+        "s": "मुनेः",
+        "h": "मुनि का / बुद्ध का",
+        "e": "of the Sage (the Buddha)"
+      },
+      {
+        "s": "अनासक्तम्",
+        "h": "अनासक्त / अनिच्छुक",
+        "e": "uninclined / detached"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>गाम्भीर्यात्</em> और <em>दुर्बोधत्वात्</em> दोनों पञ्चमी विभक्ति में हेतु सूचित करते हैं — 'गहराई के कारण, दुर्बोधता के कारण।' यह श्लोक उस प्रसिद्ध बौद्ध कथा की ओर संकेत करता है जिसमें बुद्ध बोधि-प्राप्ति के तुरन्त बाद धर्मोपदेश देने में हिचकिचाए थे, क्योंकि उन्हें लगा कि यह गहरी शिक्षा साधारण बुद्धि वालों को समझ में नहीं आएगी।<br><em>Eng:</em> This verse alludes to the famous account of the Buddha's hesitation to teach immediately after his awakening, fearing this profound doctrine would be beyond the grasp of ordinary minds — later he was persuaded to teach out of compassion.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक स्पष्ट करता है कि शून्यता की गहराई कोई नई बात नहीं — स्वयं बुद्ध ने इसकी गहराई को इतना गम्भीर पाया कि पहले उपदेश देने से हिचकिचाए। यह पिछले श्लोक (11) के 'दुर्दृष्टा शून्यता' के ख़तरे को और पुष्ट करता है।",
+        "en": "Candrakīrti says this verse clarifies that the depth of emptiness is nothing new — the Buddha himself found it so profound that he initially hesitated to teach it. This reinforces the danger of 'wrongly viewed emptiness' from the previous verse (11).",
+        "ins": "यदि स्वयं बुद्ध को यह शिक्षा देने में हिचक हुई, तो साधारण मनुष्य को इसे हल्के में नहीं लेना चाहिए।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह घटना बौद्ध परम्परा में सुप्रसिद्ध है (आयाचन-सुत्त में वर्णित) — बुद्ध ने सोचा कि यह धर्म 'प्रतिस्रोतगामी' (धारा के विरुद्ध) है, अर्थात् यह सामान्य मान्यताओं के विपरीत बहता है, इसलिए राग-द्वेष में डूबे लोग इसे नहीं समझ पाएँगे।",
+        "en": "Buddhapālita says this event is well-known in Buddhist tradition (recounted in the Āyācana Sutta) — the Buddha thought this dharma goes 'against the stream' of ordinary belief, so people immersed in attachment and aversion would not grasp it.",
+        "ins": "जो सत्य आम धारणाओं के विपरीत बहता है, उसे समझने के लिए विशेष धैर्य और तैयारी चाहिए।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक शून्यता की शिक्षण-पद्धति को उचित ठहराता है — इसीलिए बुद्ध ने पहले संवृति के स्तर पर (चार आर्यसत्य, कर्म-फल आदि) शिक्षा दी, और परमार्थ की गहरी शिक्षा (शून्यता) बाद में, योग्य शिष्यों के लिए सुरक्षित रखी।",
+        "en": "Bhāviveka says this verse justifies the pedagogical method of teaching emptiness — hence the Buddha first taught at the conventional level (four noble truths, karma and its fruit) and reserved the deeper teaching of emptiness for qualified disciples later.",
+        "ins": "गहरी शिक्षा को उचित क्रम और तैयारी के साथ देना ही सच्ची करुणा है, जल्दबाज़ी नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🙇 बुद्ध ने धर्मोपदेश देने में हिचकिचाहट क्यों महसूस की थी?",
+        "a": "बौद्ध परम्परा के अनुसार, बोधि-प्राप्ति के तुरन्त बाद बुद्ध ने सोचा कि उन्होंने जो <strong>गहरा, सूक्ष्म, प्रतिस्रोतगामी (धारा के विपरीत) सत्य</strong> पाया है, वह राग-द्वेष में डूबे साधारण प्राणियों को समझ में नहीं आएगा। यह श्लोक ठीक इसी झिझक की ओर इशारा करता है — <strong>यही गहराई शून्यता की भी विशेषता है</strong>, इसीलिए इसे हल्के में नहीं लेना चाहिए।"
+      },
+      {
+        "q": "🌱 फिर बुद्ध ने आख़िर उपदेश देना क्यों स्वीकार किया?",
+        "a": "परम्परा कहती है कि <strong>करुणा</strong> ने बुद्ध को उपदेश देने के लिए प्रेरित किया — यह देखकर कि कुछ प्राणी 'कम धूल-आँखों वाले' (अल्परजस्क) हैं, वे समझ सकेंगे। यही मॉडल नागार्जुन भी अपनाते हैं — वे पहले संवृति (आर्यसत्य, त्रिरत्न) को मान्य रखते हैं, फिर धीरे-धीरे परमार्थ (शून्यता) की गहराई तक ले जाते हैं, ताकि कोई साँप को ग़लत सिरे से न पकड़े।"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "sk": "सर्वं च युज्यते तस्य शून्यता यस्य युज्यते ।\nसर्वं न युज्यते तस्य शून्यं यस्य न युज्यते ॥",
+    "ro": "sarvaṃ · ca · yujyate · tasya · śūnyatā · yasya · yujyate | sarvaṃ · na · yujyate · tasya · śūnyaṃ · yasya · na · yujyate ||",
+    "hi": "जिसके लिए शून्यता सिद्ध होती है, उसके लिए सब कुछ सिद्ध होता है। जिसके लिए शून्यता सिद्ध नहीं होती, उसके लिए कुछ भी सिद्ध नहीं होता।",
+    "en": "For whom emptiness is tenable, for him everything is tenable. For whom emptiness is not tenable, for him nothing at all is tenable.",
+    "ws": [
+      {
+        "s": "युज्यते",
+        "h": "सिद्ध होता है / उचित बैठता है",
+        "e": "is tenable / fits / is possible"
+      },
+      {
+        "s": "सर्वम्",
+        "h": "सब कुछ",
+        "e": "everything"
+      },
+      {
+        "s": "शून्यम्",
+        "h": "शून्यता / रिक्तता",
+        "e": "emptiness"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह मध्यमक दर्शन का सर्वाधिक उद्धृत श्लोक है। <em>युज्यते</em> = युज् धातु, कर्मवाच्य लट् — 'ठीक बैठता है / सम्भव होता है / सिद्ध होता है।' दोनों पंक्तियाँ ठीक विपरीत रचना में हैं — एक सकारात्मक, दूसरी नकारात्मक — जिससे यह सूत्र-वाक्य याद रखने योग्य और अकाट्य बन जाता है।<br><em>Eng:</em> One of the most quoted verses in all of Madhyamaka. The mirror-structure of the two lines — positive and negative — turns it into an unforgettable, almost mathematical formula: emptiness is not the enemy of coherence, it is its very condition.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक विरोधी के पूरे आक्षेप (श्लोक 1-6) को एक ही वाक्य में उलट देता है। विरोधी ने कहा था — 'शून्यता के कारण सब कुछ नष्ट हो जाता है।' नागार्जुन कहते हैं — बिल्कुल उल्टा: <em>शून्यता के कारण ही</em> सब कुछ सम्भव है, और <em>शून्यता के अभाव में</em> कुछ भी सम्भव नहीं।",
+        "en": "Candrakīrti says this verse inverts the opponent's entire objection (verses 1-6) in a single line. The opponent claimed emptiness destroys everything. Nāgārjuna says the exact opposite: it is precisely because of emptiness that everything is possible, and it is the absence of emptiness that would make nothing possible.",
+        "ins": "यही अध्याय का हृदय-सूत्र है — शेष सभी श्लोक इसी एक पंक्ति के विस्तार हैं।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'सब कुछ' में यहाँ आर्यसत्य, साधना, फल, त्रिरत्न, कर्म, लौकिक व्यवहार — विरोधी द्वारा गिनाई गई हर चीज़ शामिल है। यह सब इसलिए सम्भव है क्योंकि कुछ भी स्थिर, स्वतन्त्र स्वभाव से बँधा नहीं — बल्कि परस्पर-निर्भर होकर परिवर्तनशील है।",
+        "en": "Buddhapālita says 'everything' here includes the noble truths, practice, fruits, the three jewels, karma, worldly convention — every item the opponent listed. All of this is possible precisely because nothing is bound by a fixed, independent nature — everything is instead mutable through mutual dependence.",
+        "ins": "स्थिरता परिवर्तन को रोकती है; शून्यता ही परिवर्तन और प्रगति को सम्भव बनाती है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अगले (14वें) श्लोक के साथ एक जोड़ी बनाता है, और दोनों मिलकर सिद्ध करते हैं कि शून्यता और प्रतीत्यसमुत्पाद एक ही सिक्के के दो पहलू हैं। यह श्लोक 18 की प्रसिद्ध घोषणा — 'यः प्रतीत्यसमुत्पादः शून्यता तां प्रचक्ष्महे' — की पूर्व-भूमिका है।",
+        "en": "Bhāviveka says this verse pairs with the next (14th) to establish that emptiness and dependent origination are two sides of one coin. It sets the stage for the famous declaration in verse 18: 'what is dependent origination, that we call emptiness.'",
+        "ins": "एक ही सत्य को कई कोणों से बार-बार कहना — यही नागार्जुन की उपदेश-शैली है, ताकि श्रोता की समझ में गहराई से उतरे।"
+      }
+    },
+    "dp": [
+      {
+        "q": "💡 यह श्लोक 'शून्यता विनाशक है' के आरोप का उत्तर कैसे देता है?",
+        "a": "विरोधी ने कहा था कि शून्यता सब कुछ नष्ट कर देती है। नागार्जुन इसे <strong>बिल्कुल उलट देते हैं</strong>: यदि चीज़ें <strong>स्वभाव से ठोस और स्थिर</strong> होतीं (यानी शून्य न होतीं), तो कुछ भी बदल न पाता — न दुःख उत्पन्न होता, न उसका निरोध, न कोई साधना फल देती। <strong>ठोस, अपरिवर्तनीय चीज़ें ही असल में सब कुछ रोक देतीं।</strong> इसलिए शून्यता विनाशक नहीं, बल्कि <strong>हर सम्भावना की शर्त</strong> है।"
+      },
+      {
+        "q": "🌱 रोज़मर्रा के उदाहरण से यह कैसे समझें?",
+        "a": "सोचिए अगर आप स्वभाव से, स्थायी रूप से 'अज्ञानी' हों — तो आप <strong>कभी सीख ही नहीं सकते</strong>, क्योंकि सीखना माने बदलना है, और स्थिर स्वभाव बदलता नहीं। पर चूँकि आप 'ख़ाली' हैं — किसी स्थिर, अपरिवर्तनीय 'अज्ञानी-स्वभाव' से बँधे नहीं — इसीलिए आप <strong>सीख सकते हैं, बदल सकते हैं, आगे बढ़ सकते हैं</strong>। यही शून्यता का असली उपहार है।"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "sk": "स्यात्प्रतीत्यसमुत्पादो यस्य शून्यतां न विद्यते ।\nसर्वं तस्य न विद्येत यत्कार्यं समुपागतम् ॥",
+    "ro": "syāt · pratītya-samutpādo · yasya · śūnyatāṃ · na · vidyate | sarvaṃ · tasya · na · vidyeta · yat · kāryaṃ · samupāgatam ||",
+    "hi": "जिसके लिए शून्यता सिद्ध नहीं है, उसके लिए प्रतीत्यसमुत्पाद भी सिद्ध नहीं होगा। और उसके लिए वह सब कुछ भी नहीं होगा जो कार्यरूप में सामने आता है।",
+    "en": "For one for whom emptiness is not established, dependent origination too would not hold. And for him, nothing that comes about as an effect would exist at all.",
+    "ws": [
+      {
+        "s": "प्रतीत्यसमुत्पादः",
+        "h": "प्रतीत्यसमुत्पाद / परस्पर-निर्भर उत्पत्ति",
+        "e": "dependent origination"
+      },
+      {
+        "s": "कार्यम्",
+        "h": "कार्य / जो उत्पन्न होता है",
+        "e": "an effect / that which is produced"
+      },
+      {
+        "s": "समुपागतम्",
+        "h": "सामने आया हुआ / घटित",
+        "e": "that has come about"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>स्यात्...न विद्यते</em> — विधिलिङ् और लट् का सम्मिश्रण, सशर्त निषेध। यह पिछले श्लोक (13) का ही विस्तार है, अब स्पष्ट रूप से शून्यता को <em>प्रतीत्यसमुत्पाद</em> से जोड़ते हुए — जो श्लोक 18 की प्रसिद्ध घोषणा की सीधी पूर्वपीठिका है।<br><em>Eng:</em> This verse extends the previous one by explicitly linking emptiness to dependent origination — directly preparing for the famous declaration in verse 18 that the two are identical.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक दिखाता है कि शून्यता और प्रतीत्यसमुत्पाद अन्योन्याश्रित हैं। जो शून्यता को नकारता है, वह अनजाने में प्रतीत्यसमुत्पाद को भी नकार बैठता है — और बिना प्रतीत्यसमुत्पाद के कोई भी 'कार्य' (उत्पन्न वस्तु) सम्भव नहीं। तब पूरा जगत् ही, कारण-कार्य-रहित, स्थिर होकर रुक जाएगा।",
+        "en": "Candrakīrti says this verse shows emptiness and dependent origination are mutually entailing. One who denies emptiness unknowingly denies dependent origination as well — and without dependent origination, no 'effect' (produced thing) is possible at all. The whole world would then freeze, devoid of causation.",
+        "ins": "जो जड़ को काटता है, वह अनजाने में पूरे वृक्ष को गिरा देता है — शून्यता और प्रतीत्यसमुत्पाद की जड़ एक ही है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'कार्य' शब्द यहाँ व्यापक है — दुःख, फल, संघ, बुद्ध, अंकुर, दीपक की लौ — जो कुछ भी कारणों से उत्पन्न होता है, वह सब 'कार्य' है। विरोधी, शून्यता को नकारकर, इन सभी को स्वभाव-सिद्ध और इसलिए अनुत्पन्न मानने पर विवश हो जाता है।",
+        "en": "Buddhapālita says 'effect' here is broad — suffering, fruit, Saṅgha, Buddha, a sprout, a flame — anything produced by causes is an 'effect.' By denying emptiness, the opponent is forced to treat all of these as established by inherent nature, and therefore unproduced.",
+        "ins": "स्वभाव-सिद्ध वस्तु को 'उत्पन्न' कहना ही अपने आप में विरोधाभास है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक विरोधी को उसी तर्क-शृंखला में वापस भेजता है जिसे उसने श्लोक 1-6 में स्वयं रचा था — किन्तु अब दिशा उलट है। विरोधी ने कहा था 'शून्यता मानने से सत्य नष्ट होते हैं'; नागार्जुन दिखाते हैं 'शून्यता न मानने से ही सब कुछ नष्ट होता है।'",
+        "en": "Bhāviveka says this verse sends the opponent back through the very chain of reasoning he constructed in verses 1-6 — but now in reverse. The opponent said accepting emptiness destroys the truths; Nāgārjuna shows that rejecting emptiness is what destroys everything.",
+        "ins": "यही मध्यमक की सबसे बड़ी कुशलता है — विरोधी के ही तर्क को उलटकर उसके विरुद्ध खड़ा कर देना।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 यह श्लोक विरोधी के आक्षेप को कैसे पलटता है?",
+        "a": "विरोधी का दावा था: 'शून्यता मानने पर आर्यसत्य आदि नष्ट होते हैं (क्योंकि तब कुछ भी उत्पन्न-नष्ट नहीं होता)।' नागार्जुन दिखाते हैं कि <strong>यह बिल्कुल उल्टा है</strong> — जो शून्यता को <strong>नहीं मानता</strong> (यानी जो मानता है कि चीज़ें स्वभाव से ठोस हैं), उसी के लिए <strong>प्रतीत्यसमुत्पाद असम्भव हो जाता है</strong>, और इसलिए <strong>कोई भी 'कार्य' — कोई भी उत्पन्न वस्तु — सम्भव नहीं रहती</strong>।"
+      },
+      {
+        "q": "🌾 'कार्य' का यहाँ क्या मतलब है, और यह इतना महत्वपूर्ण क्यों है?",
+        "a": "'कार्य' का अर्थ है <strong>वह कुछ भी जो किसी कारण से उत्पन्न हुआ हो</strong> — बीज से अंकुर, माता-पिता से सन्तान, अभ्यास से कुशलता। यदि हर चीज़ स्वभाव से पहले से ही स्थिर-सिद्ध हो, तो <strong>कोई नई चीज़ कभी उत्पन्न ही न हो</strong>। नागार्जुन दिखाते हैं कि हमारा पूरा अनुभव — जिसमें चीज़ें बनती-बिगड़ती हैं — <strong>तभी सम्भव है जब वे शून्य हों</strong>, स्वभाव-सिद्ध न हों।"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "sk": "ये दोषाः शून्यतायां ते बहवस्त्वयि नोदिताः ।\nशून्यतायां न ते युक्ता दोषास्तत्र प्रसज्यसे ॥",
+    "ro": "ye · doṣāḥ · śūnyatāyāṃ · te · bahavas · tvayi · noditāḥ | śūnyatāyāṃ · na · te · yuktā · doṣās · tatra · prasajyase ||",
+    "hi": "शून्यता में जो अनेक दोष तुमने बताए हैं, वे शून्यता में लागू नहीं होते। बल्कि उन्हीं दोषों में तुम स्वयं फँस जाते हो।",
+    "en": "The many faults you have raised regarding emptiness do not apply to emptiness — rather, it is you who are caught in those very faults.",
+    "ws": [
+      {
+        "s": "दोषाः",
+        "h": "दोष / आपत्तियाँ",
+        "e": "faults / objections"
+      },
+      {
+        "s": "उदिताः",
+        "h": "उठाई गई / कही गई",
+        "e": "raised / stated"
+      },
+      {
+        "s": "युक्ताः",
+        "h": "उचित / लागू होने वाली",
+        "e": "applicable / fitting"
+      },
+      {
+        "s": "प्रसज्यसे",
+        "h": "तुम फँस जाते हो / तुम्हीं पर आ पड़ता है",
+        "e": "you are implicated / entangled"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रसज्यसे</em> = प्र + √सञ्ज्, आत्मनेपद मध्यम पुरुष — 'तुम पर ही प्रसक्त होता है / तुम्हीं में फँस जाते हो।' यह श्लोक श्लोक 1 के <em>प्रसज्यते</em> क्रिया का जानबूझकर प्रतिबिम्ब है, पर अब कर्ता बदल गया है — दोष विरोधी पर वापस लौट आता है।<br><em>Eng:</em> The verb <em>prasajyase</em> deliberately mirrors <em>prasajyate</em> from verse 1 — but the direction has reversed: the very faults the opponent charged against emptiness now boomerang back onto him.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक अध्याय के प्रथम छह श्लोकों के सभी आक्षेपों को एक साथ उलट देता है। विरोधी ने जो-जो दोष 'शून्यता में' गिनाए थे — आर्यसत्य का अभाव, त्रिरत्न का विनाश, कर्म का अभाव — वे सब वास्तव में विरोधी के अपने स्वभाव-सिद्धान्त में लागू होते हैं, शून्यता में नहीं।",
+        "en": "Candrakīrti says this verse reverses all the objections raised in the chapter's first six verses at once. The faults the opponent listed 'in emptiness' — absence of the noble truths, destruction of the three jewels, absence of karma — actually apply to the opponent's own svabhāva doctrine, not to emptiness.",
+        "ins": "जो तीर तुमने हमारी ओर छोड़ा था, वह घूमकर तुम्हारे ही लक्ष्य पर लगता है — यही 'प्रसज्यसे' का अर्थ है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — विरोधी ने शून्यता को ग़लत समझकर उस पर दोष मढ़े; असल में वे दोष उसी की स्वभाव-मान्यता से उत्पन्न होते हैं। श्लोक 21 से 39 तक नागार्जुन विस्तार से दिखाएँगे कि स्वभाव मानने पर ही आर्यसत्य, कर्म, त्रिरत्न असम्भव होते हैं — ठीक वे ही दोष जो विरोधी ने शून्यता पर मढ़े थे।",
+        "en": "Buddhapālita says the opponent, misunderstanding emptiness, pinned faults on it; in reality those faults arise from his own belief in svabhāva. Verses 21-39 will show in detail that positing svabhāva is exactly what makes the noble truths, karma, and the three jewels impossible — the very faults the opponent charged against emptiness.",
+        "ins": "यह श्लोक एक वादे जैसा है — आगे के 25 श्लोक इसी वादे को पूरा करेंगे।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह न्याय-शास्त्रीय दृष्टि से एक क्लासिक 'दोष-प्रत्यावर्तन' (fault-reversal) है — जब विरोधी किसी सिद्धान्त पर आक्षेप उठाता है, पर वही आक्षेप उसकी अपनी मान्यता पर और भी प्रबल रूप से लागू हो जाता है, तो उसका आक्षेप स्वयं ही निरस्त हो जाता है।",
+        "en": "Bhāviveka says this is a classic case, in logical terms, of 'fault-reversal' (doṣa-prasaṅga) — when an opponent's objection to a position turns out to apply even more forcefully to his own view, the objection refutes itself.",
+        "ins": "सबसे प्रभावी उत्तर वह है जो विरोधी के अपने हथियार से उसी को उत्तर देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪃 'दोष तुम्हीं पर लौट आता है' — यह किस तरह होता है?",
+        "a": "विरोधी ने कहा: 'शून्यता मानने से आर्यसत्य, त्रिरत्न, कर्म — सब नष्ट होते हैं।' नागार्जुन आगे (श्लोक 21-39 में) दिखाएँगे कि यह दोष वास्तव में <strong>विरोधी के अपने स्वभाववाद में ही घटित होता है</strong> — यदि चीज़ें स्थिर स्वभाव से हों, तो <strong>न दुःख उत्पन्न हो सकता है, न उसका निरोध, न मार्ग का अभ्यास</strong>। शून्यता तो इसके ठीक विपरीत, इन सब को सम्भव बनाती है।"
+      },
+      {
+        "q": "🎭 यह किसी वाद-विवाद की सामान्य रणनीति से कैसे मिलता है?",
+        "a": "यह वैसा ही है जैसे कोई किसी नियम की आलोचना करते हुए कहे 'यह नियम अन्याय पैदा करता है,' पर पता चले कि <strong>वही अन्याय आलोचक के अपने प्रस्तावित नियम में और भी अधिक होता है</strong>। नागार्जुन यहाँ ठीक यही तकनीक अपनाते हैं — विरोधी के आक्षेप को स्वीकार करने के बजाय, वे दिखाते हैं कि <strong>वह आक्षेप स्वयं विरोधी की स्थिति पर कहीं अधिक बलपूर्वक लागू होता है</strong>।"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "sk": "स्वदोषानस्मदीयांस्त्वं वक्तुमिच्छसि दुर्मते ।\nस्वभावे सति यो दोषस्तवैव स भवेत्खलु ॥",
+    "ro": "sva-doṣān · asmadīyāṃs · tvaṃ · vaktum · icchasi · dur-mate | svabhāve · sati · yo · doṣas · tava · eva · sa · bhavet · khalu ||",
+    "hi": "अपने ही दोषों को तुम हमारे कहकर बताना चाहते हो, हे दुर्मते! स्वभाव मानने पर जो दोष उत्पन्न होता है, वह वास्तव में निश्चय ही तुम्हारा अपना है।",
+    "en": "You wish to attribute your own faults to us, O confused one! The fault that arises from positing inherent existence truly belongs to you alone.",
+    "ws": [
+      {
+        "s": "स्वदोषान्",
+        "h": "अपने ही दोषों को",
+        "e": "one's own faults"
+      },
+      {
+        "s": "अस्मदीयान्",
+        "h": "हमारे (कहकर)",
+        "e": "as if ours"
+      },
+      {
+        "s": "दुर्मते",
+        "h": "हे दुर्बुद्धि! (सम्बोधन)",
+        "e": "O confused-minded one (vocative)"
+      },
+      {
+        "s": "स्वभावे सति",
+        "h": "स्वभाव के मानने पर",
+        "e": "when inherent existence is posited"
+      },
+      {
+        "s": "खलु",
+        "h": "निश्चय ही",
+        "e": "indeed / certainly"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>दुर्मते</em> सम्बोधन विभक्ति, एकवचन — तीखा किन्तु दार्शनिक सम्बोधन, 'हे भ्रमित बुद्धि वाले।' <em>स्वभावे सति</em> — सति सप्तमी (locative absolute) — 'स्वभाव के होने पर।' <em>खलु</em> बलसूचक अव्यय, निष्कर्ष पर ज़ोर देता है।<br><em>Eng:</em> <em>durmate</em> is a direct, pointed vocative — 'O confused one.' The locative absolute <em>svabhāve sati</em> pinpoints the actual source of the fault: the opponent's own postulation of inherent existence.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक सीधे विरोधी को सम्बोधित करके कहता है कि वह अपनी ही मान्यता (स्वभाववाद) से उत्पन्न दोषों को हमारी शून्यता पर मढ़ रहा है। यह एक तरह की मनोवैज्ञानिक चूक है — अपनी समस्या को दूसरे पर प्रक्षेपित (project) करना।",
+        "en": "Candrakīrti says this verse directly addresses the opponent, saying he is pinning faults generated by his own doctrine (svabhāvavāda) onto our emptiness. It is a kind of psychological error — projecting one's own problem onto another.",
+        "ins": "जो अपने ही घर में आग लगाकर पड़ोसी पर दोष मढ़े, उसकी भूल स्पष्ट है — यही विरोधी कर रहा है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — तर्क सीधा है: यदि चीज़ें सचमुच स्वभाव से (स्वतन्त्र, स्थिर रूप से) सिद्ध हों, तो कुछ भी न बदल सकता, न उत्पन्न हो सकता, न नष्ट हो सकता। यही वे सभी दोष हैं जिन्हें विरोधी ने शून्यता पर आरोपित किया — पर वे दोष स्वभाव-सिद्धान्त से ही निकलते हैं, शून्यता से नहीं।",
+        "en": "Buddhapālita says the logic is direct: if things were truly established by fixed, independent inherent nature, nothing could change, arise, or cease. These are exactly the faults the opponent projected onto emptiness — but they arise from the svabhāva doctrine itself, not from emptiness.",
+        "ins": "जो दोष तुम दूसरे में देखते हो, पहले जाँच लो कि वह तुम्हारे ही घर में तो नहीं पल रहा।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक एक न्याय-शास्त्रीय तकनीक प्रस्तुत करता है जिसे 'साधनदूषण' कहा जाता है — विरोधी के प्रमाण को उसी के आधार पर उलट देना। यह अध्याय की उत्तरार्ध शृंखला (21-39) के लिए तर्क-आधार तैयार करता है, जहाँ हर आक्षेप का स्रोत स्वभाव-सिद्धान्त में दिखाया जाएगा।",
+        "en": "Bhāviveka says this verse presents a technique known in logic as 'refutation by turning the opponent's own proof against him.' It sets the argumentative foundation for the latter half of the chapter (21-39), where the source of every objection will be traced back to the svabhāva doctrine.",
+        "ins": "सबसे मज़बूत खण्डन वह है जो विरोधी के अपने आधार को ही उसके विरुद्ध खड़ा कर दे।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪞 'अपनी समस्या को दूसरे पर प्रक्षेपित करना' — यह मनोविज्ञान में भी दिखता है?",
+        "a": "बिल्कुल। मनोविज्ञान में इसे <strong>'प्रोजेक्शन' (projection)</strong> कहा जाता है — जब व्यक्ति अपने ही भीतर के दोष को पहचानने से बचता है और उसे किसी और पर आरोपित कर देता है। नागार्जुन दिखाते हैं कि विरोधी बिलकुल यही कर रहा है — वह <strong>अपने ही स्वभाव-सिद्धान्त से उत्पन्न विरोधाभासों को शून्यता पर थोप रहा है</strong>, जबकि सच्चाई इसके ठीक विपरीत है।"
+      },
+      {
+        "q": "🔍 आगे के श्लोकों में यह आरोप कैसे सिद्ध होगा?",
+        "a": "श्लोक 21 से 39 तक नागार्जुन एक-एक करके दिखाएँगे कि <strong>यदि दुःख, कर्म, फल, बुद्ध — इन सबको स्वभाव-सिद्ध मान लिया जाए</strong>, तो कुछ भी उत्पन्न, नष्ट या साधित नहीं हो सकता। यही वह विस्तृत प्रमाण है जो इस श्लोक के दावे — <strong>'दोष तुम्हारा अपना है'</strong> — को ठोस आधार देगा।"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "sk": "भावानां स्वभावेन सद्भावं यदि पश्यसि ।\nअहेतुप्रत्ययान्भावांस्तदा त्वं द्रष्टुमर्हसि ॥",
+    "ro": "bhāvānāṃ · svabhāvena · sad-bhāvaṃ · yadi · paśyasi | ahetu-pratyayān · bhāvāṃs · tadā · tvaṃ · draṣṭum · arhasi ||",
+    "hi": "यदि तुम पदार्थों का अस्तित्व स्वभाव से मानते हो, तो तुम्हें उन्हें कारण और प्रत्ययों के बिना ही देखना उचित होगा।",
+    "en": "If you see the existence of things through inherent nature, then you ought to see those things as devoid of causes and conditions.",
+    "ws": [
+      {
+        "s": "भावानाम्",
+        "h": "पदार्थों का / वस्तुओं का",
+        "e": "of things / existents"
+      },
+      {
+        "s": "सद्भावम्",
+        "h": "वास्तविक अस्तित्व",
+        "e": "real existence"
+      },
+      {
+        "s": "अहेतुप्रत्ययान्",
+        "h": "बिना हेतु और प्रत्ययों के",
+        "e": "without causes and conditions"
+      },
+      {
+        "s": "द्रष्टुम् अर्हसि",
+        "h": "देखना उचित होगा / देखने योग्य हो",
+        "e": "you ought to see"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अर्हसि</em> = √अर्ह् (योग्य होना), मध्यम पुरुष — 'तुम्हें उचित है / तुम्हें चाहिए।' यह श्लोक एक तार्किक अनिवार्यता (entailment) प्रस्तुत करता है — स्वभाव और कार्य-कारण परस्पर विरोधी हैं, क्योंकि स्वभाव की परिभाषा ही 'अकृत्रिम, अपर-सापेक्ष' होना है (जैसा अध्याय 15 में स्थापित किया गया)।<br><em>Eng:</em> The verse presents a strict entailment: svabhāva and causal dependence are mutually exclusive, since svabhāva is by definition 'uncontrived and independent of anything else' (as established in Chapter 15).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यदि किसी वस्तु का 'स्वभाव' हो, तो वह स्वभाव परिभाषा से ही किसी अन्य वस्तु पर निर्भर नहीं हो सकता (अध्याय 15 देखें)। तो स्वभाव-वादी को यह मानना होगा कि पदार्थ कारण-प्रत्ययों के बिना ही, अपने आप, स्वतः विद्यमान हैं — जो प्रत्यक्ष अनुभव के सर्वथा विपरीत है।",
+        "en": "Candrakīrti says if a thing had 'inherent nature,' that nature would, by definition, not depend on anything else (cf. Chapter 15). So the svabhāva-theorist must accept that things exist on their own, without causes and conditions — utterly contrary to direct experience.",
+        "ins": "जो स्वभाव को मानता है, वह अनजाने में कार्य-कारण को ही नकार बैठता है — यही उसका सबसे बड़ा विरोधाभास है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — हम प्रत्यक्ष देखते हैं कि बीज से अंकुर, माता-पिता से सन्तान, अभ्यास से कुशलता उत्पन्न होती है — सब कारण-प्रत्ययों पर निर्भर। यदि विरोधी स्वभाव मानता है, तो उसे इस सम्पूर्ण कार्य-कारण जाल को झूठा घोषित करना पड़ेगा — जो कोई भी विवेकी स्वीकार नहीं करेगा।",
+        "en": "Buddhapālita says we directly observe sprouts arising from seeds, children from parents, skill from practice — all dependent on causes and conditions. If the opponent posits svabhāva, he must declare this entire web of causation false — something no reasonable person would accept.",
+        "ins": "अनुभव और सिद्धान्त में टकराव हो, तो सिद्धान्त को ही संशोधित करना पड़ता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक विरोधी को दो में से एक चुनने पर विवश करता है — या तो कार्य-कारण को स्वीकार करो (और तब स्वभाव को त्यागो), या स्वभाव को पकड़े रहो (और तब कार्य-कारण को नकारो, जो असम्भव है)। यह एक क्लासिक दुविधा (dilemma) है जो अगले श्लोकों (18-20) की नींव रखती है।",
+        "en": "Bhāviveka says this verse forces the opponent into a dilemma — either accept causation (and abandon svabhāva), or hold onto svabhāva (and thereby deny causation, which is untenable). This classic dilemma lays the foundation for the following verses (18-20).",
+        "ins": "एक अच्छी दुविधा वह है जिसका कोई भी सींग विरोधी के लिए आरामदायक न हो — यही यहाँ है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌱 'स्वभाव' और 'कार्य-कारण' परस्पर विरोधी क्यों हैं?",
+        "a": "'स्वभाव' का अर्थ है <strong>किसी वस्तु का अपना, स्वतन्त्र, किसी और पर निर्भर न होने वाला रूप</strong>। पर 'कार्य-कारण' का अर्थ है <strong>किसी वस्तु का किसी और (कारण) पर निर्भर होकर उत्पन्न होना</strong>। ये दोनों एक साथ नहीं टिक सकते — अगर बीज का 'अंकुर बनना' उसके अपने अपरिवर्तनीय स्वभाव से हो, तो उसे मिट्टी, पानी, धूप की <strong>कोई आवश्यकता ही नहीं</strong> होनी चाहिए, जो स्पष्टतः ग़लत है।"
+      },
+      {
+        "q": "🧪 इसे किसी सरल उदाहरण से समझाइए?",
+        "a": "मान लीजिए कोई कहे 'आग का स्वभाव है गर्म होना, इसलिए वह ईंधन के बिना भी जल सकती है' — यह हास्यास्पद है, क्योंकि हम जानते हैं आग को <strong>ईंधन, ऑक्सीजन, चिंगारी</strong> चाहिए। ठीक इसी तरह, यदि दुःख या फल 'स्वभाव से' सिद्ध हों, तो उन्हें भी <strong>किसी कारण-प्रत्यय की आवश्यकता नहीं रहनी चाहिए</strong> — पर यह हमारे अनुभव के सर्वथा विपरीत है।"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "sk": "यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे ।\nसा प्रज्ञप्तिरुपादाय प्रतिपत्सैव मध्यमा ॥",
+    "ro": "yaḥ · pratītya-samutpādaḥ · śūnyatāṃ · tāṃ · pracakṣmahe | sā · prajñaptir · upādāya · pratipat · sā · eva · madhyamā ||",
+    "hi": "जो प्रतीत्यसमुत्पाद है, उसे ही हम शून्यता कहते हैं। यह किसी आधार को लेकर की गई प्रज्ञप्ति अर्थात् संज्ञा है, और यही मध्यम मार्ग भी है।",
+    "en": "What is dependent origination, that we call emptiness. It is a dependent designation; that itself is the middle way.",
+    "ws": [
+      {
+        "s": "प्रतीत्यसमुत्पादः",
+        "h": "प्रतीत्यसमुत्पाद / परस्पर-निर्भर उत्पत्ति",
+        "e": "dependent origination"
+      },
+      {
+        "s": "प्रचक्ष्महे",
+        "h": "हम कहते हैं / हम पुकारते हैं",
+        "e": "we call / we declare"
+      },
+      {
+        "s": "प्रज्ञप्तिः",
+        "h": "संज्ञा / नामकरण / अवधारणा",
+        "e": "designation / conceptual label"
+      },
+      {
+        "s": "उपादाय",
+        "h": "आश्रय लेकर / अवलम्बित होकर",
+        "e": "depending on / having taken as basis"
+      },
+      {
+        "s": "मध्यमा प्रतिपत्",
+        "h": "मध्यम मार्ग / मध्यम प्रतिपदा",
+        "e": "the middle way / the middle path"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह सम्पूर्ण मध्यमक दर्शन का सर्वाधिक प्रसिद्ध श्लोक है। इसमें तीन पद एक-दूसरे के बराबर घोषित किए गए हैं — <em>प्रतीत्यसमुत्पाद = शून्यता = प्रज्ञप्ति उपादाय (उपादान लेकर की गई प्रज्ञप्ति) = मध्यमा प्रतिपत्</em>। <em>उपादाय</em> ल्यबन्त गेरुण्ड है — 'किसी आधार/अवयव को ग्रहण करके,' जैसे रथ के अंगों को लेकर 'रथ' की प्रज्ञप्ति होती है। यह श्लोक शून्यता को नकारात्मक 'अभाव' से हटाकर सकारात्मक 'परस्पर-निर्भर अस्तित्व' के रूप में पुनर्परिभाषित करता है।<br><em>Eng:</em> The single most celebrated verse of Madhyamaka philosophy. Four terms are declared equivalent: dependent origination = emptiness = dependent designation = the middle way. <em>upādāya</em> ('having taken up [a basis]') is the gerund used for how a chariot is designated by depending on its parts. This verse redefines emptiness away from negative 'non-existence' toward positive 'dependently-existing.'",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यही वह श्लोक है जिसकी ओर सारा अध्याय इशारा कर रहा था। शून्यता का अर्थ है — कुछ भी अपने आप, स्वतन्त्र रूप से नहीं है; सब कुछ अन्य के साथ, अन्य पर निर्भर होकर, केवल नाम-मात्र (प्रज्ञप्ति) के रूप में विद्यमान है। यही 'मध्यम मार्ग' है — न शाश्वतवाद (चीज़ें ठोस-स्थायी हैं), न उच्छेदवाद (चीज़ें बिल्कुल नहीं हैं)।",
+        "en": "Candrakīrti says this is the very verse the whole chapter has been building toward. Emptiness means: nothing exists on its own, independently; everything exists only dependently, relationally, as a mere conventional designation (prajñapti). This is the 'middle way' — neither eternalism (things are solidly permanent) nor nihilism (things do not exist at all).",
+        "ins": "रथ को उसके पहियों, धुरी, बैठक से अलग खोजो तो 'रथ' कहीं नहीं मिलता — फिर भी रथ चलता है, बोझ ढोता है। यही शून्यता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक विरोधी के मूल भय को सदा के लिए शान्त कर देता है। दुःख, मार्ग, बुद्ध — ये सब वास्तव में हैं, पर 'प्रतीत्यसमुत्पन्न' रूप में, 'प्रज्ञप्ति' रूप में — जैसे मुट्ठी, वन, या माला केवल अपने घटकों पर निर्भर होकर एक व्यावहारिक नाम पाते हैं, वैसे ही सारी वास्तविकता।",
+        "en": "Buddhapālita says this verse permanently dispels the opponent's original fear. Suffering, the path, the Buddha — all truly exist, but as dependently-originated, as conventional designations — just as a fist, a forest, or a garland gains a practical name only in dependence on its parts. So too all of reality.",
+        "ins": "जो कुछ भी परस्पर-निर्भर होकर, नाम-मात्र से विद्यमान है, वह न असत् है न स्वयंसिद्ध सत् — यही मध्यम है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — इस श्लोक में चार पद बराबर किए गए हैं जो एक-दूसरे की व्याख्या करते हैं। 'प्रतीत्यसमुत्पाद' परमार्थ-दृष्टि से 'शून्यता' है; संवृति-दृष्टि से यही 'प्रज्ञप्ति' है — जिस पर टिककर हम व्यवहार करते हैं; और दोनों दृष्टियों को एक साथ धारण करना ही 'मध्यमा प्रतिपत्' अर्थात् मध्यम मार्ग है।",
+        "en": "Bhāviveka says four terms are equated here, each explaining the other. 'Dependent origination,' viewed ultimately, is 'emptiness'; viewed conventionally, this same thing is 'designation' — the basis on which we carry on our practices; and holding both views together simultaneously is the 'middle way.'",
+        "ins": "यह श्लोक दो सत्यों के सिद्धान्त (श्लोक 8-10) और शून्यता की परिभाषा (श्लोक 7-17) — दोनों को एक ही वाक्य में गूँथ देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "👑 यह श्लोक 'सबसे प्रसिद्ध' क्यों माना जाता है?",
+        "a": "क्योंकि यह एक ही वाक्य में <strong>चार गहरी अवधारणाओं को एक-दूसरे से जोड़ देता है</strong> — <strong>प्रतीत्यसमुत्पाद (dependent origination), शून्यता (emptiness), प्रज्ञप्ति (designation), और मध्यम मार्ग (the middle way)</strong>। यह पूरे मध्यमक दर्शन का निचोड़ है: शून्यता का अर्थ 'कुछ भी नहीं है' नहीं, बल्कि <strong>'हर चीज़ परस्पर-निर्भर होकर, नाम-मात्र रूप से है'</strong>। यह न शाश्वतवाद है, न उच्छेदवाद — ठीक बीच का मार्ग है।"
+      },
+      {
+        "q": "🛞 'रथ' का उदाहरण इसे कैसे स्पष्ट करता है?",
+        "a": "यदि आप रथ के पहिए, धुरी, बैठक — एक-एक करके अलग कर दें, तो कहीं भी 'रथ' नामक कोई अलग, ठोस वस्तु नहीं मिलेगी। फिर भी, जब ये अंग एक साथ जुड़े होते हैं, <strong>'रथ' पूरी तरह वास्तविक रूप से कार्य करता है</strong> — सामान ढोता है, चलता है। नागार्जुन कहते हैं कि <strong>हर वस्तु — 'मैं' सहित — बिल्कुल इसी तरह है</strong>: अपने अवयवों और कारणों पर निर्भर एक <strong>व्यावहारिक, उपयोगी प्रज्ञप्ति</strong>, न कि कोई ठोस, स्वतन्त्र सत्ता।"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "sk": "अप्रतीत्य समुत्पन्नो धर्मः कश्चिन्न विद्यते ।\nयस्मात्तस्मादशून्यो हि धर्मः कश्चिन्न विद्यते ॥",
+    "ro": "apratītya · samutpanno · dharmaḥ · kaścin · na · vidyate | yasmāt · tasmād · aśūnyo · hi · dharmaḥ · kaścin · na · vidyate ||",
+    "hi": "बिना निर्भर हुए उत्पन्न कोई भी वस्तु नहीं है। इसलिए कोई भी ऐसी वस्तु नहीं है जो शून्य न हो।",
+    "en": "There is no thing whatsoever that has arisen without depending on something else. Therefore, there is no thing whatsoever that is not empty.",
+    "ws": [
+      {
+        "s": "अप्रतीत्य",
+        "h": "बिना निर्भर हुए / आश्रय लिए बिना",
+        "e": "without depending on"
+      },
+      {
+        "s": "समुत्पन्नः",
+        "h": "उत्पन्न",
+        "e": "arisen"
+      },
+      {
+        "s": "धर्मः",
+        "h": "वस्तु / पदार्थ / तत्त्व",
+        "e": "a thing / phenomenon"
+      },
+      {
+        "s": "अशून्यः",
+        "h": "अशून्य / जो शून्य नहीं है",
+        "e": "non-empty"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक 18 का सीधा तार्किक निष्कर्ष है — एक निषेधात्मक व्याप्ति (universal negative pervasion): 'कोई भी धर्म अप्रतीत्यसमुत्पन्न नहीं' और 'इसलिए कोई भी धर्म अशून्य नहीं।' यहाँ 'धर्म' शब्द का अर्थ है कोई भी तत्त्व/वस्तु/परिघटना — बौद्ध दर्शन का पारिभाषिक प्रयोग।<br><em>Eng:</em> This verse is the direct logical conclusion of verse 18 — a universal negative pervasion: no phenomenon (dharma) is un-dependently-arisen, therefore no phenomenon is non-empty. This is one of the two or three most quoted verses in the whole of Madhyamaka literature.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक शून्यता की सार्वभौमिकता (universality) घोषित करता है। संसार में जो कुछ भी है — भौतिक हो या मानसिक, लौकिक हो या पारलौकिक — सब कुछ किसी न किसी कारण-प्रत्यय पर निर्भर होकर उत्पन्न होता है। इसलिए बिना किसी अपवाद के, हर वस्तु शून्य है।",
+        "en": "Candrakīrti says this verse proclaims the universality of emptiness. Everything in the world — physical or mental, worldly or transcendent — arises in dependence on some cause and condition. Therefore, without exception, every single thing is empty.",
+        "ins": "एक भी अपवाद खोजने की चुनौती दो हज़ार वर्षों से खुली है, और आज तक कोई भी 'अप्रतीत्यसमुत्पन्न' वस्तु नहीं मिली।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक निर्वाण को भी इस नियम से बाहर नहीं रखता (जैसा अध्याय 25 में विस्तार से दिखाया जाएगा) — निर्वाण भी संसार पर निर्भर होकर, संवृति में, 'निर्वाण' के रूप में प्रज्ञप्त होता है। कोई भी वस्तु, चाहे वह कितनी भी पवित्र या परम मानी जाए, इस सार्वभौमिक नियम से परे नहीं।",
+        "en": "Buddhapālita says this verse does not exempt even nirvāṇa from this rule (as will be elaborated in Chapter 25) — nirvāṇa too is designated dependently, in relation to saṃsāra. No thing, however sacred or ultimate it is considered, stands outside this universal rule.",
+        "ins": "जो नियम बिना अपवाद के लागू हो, वही वास्तव में सार्वभौमिक सत्य कहलाने योग्य है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक बताता है कि शून्यता कोई विशेष, चुनिन्दा वस्तुओं का गुण नहीं, बल्कि अस्तित्व-मात्र की प्रकृति है। यही कारण है कि मध्यमक को 'सर्वधर्मशून्यतावाद' भी कहा जाता है — सभी वस्तुओं की शून्यता का सिद्धान्त।",
+        "en": "Bhāviveka says this verse shows emptiness is not a property of some select things but the very nature of existence itself. This is why Madhyamaka is also called 'the doctrine of the emptiness of all phenomena' (sarva-dharma-śūnyatāvāda).",
+        "ins": "एक भी वस्तु को स्वभाव-सिद्ध मान लेने से पूरा तन्त्र भीतर से टूट जाता है — इसीलिए यह व्याप्ति निरपवाद है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌌 'कोई भी वस्तु शून्य नहीं है, ऐसा कुछ नहीं है' — क्या इसमें कोई अपवाद है?",
+        "a": "नागार्जुन के अनुसार <strong>बिल्कुल कोई अपवाद नहीं</strong> — भौतिक वस्तुएँ, विचार, भावनाएँ, यहाँ तक कि निर्वाण भी (जैसा अध्याय 25 में विस्तार से आएगा), सब कुछ किसी-न-किसी कारण-प्रत्यय पर निर्भर होकर ही 'है।' <strong>जो कुछ भी अस्तित्व में है, वह प्रतीत्यसमुत्पन्न है, और जो प्रतीत्यसमुत्पन्न है, वह शून्य है</strong> — यह एक निरपवाद, सार्वभौमिक नियम है।"
+      },
+      {
+        "q": "🧩 इसका दैनिक जीवन में क्या अर्थ निकलता है?",
+        "a": "इसका अर्थ है कि <strong>आपकी पहचान, आपके रिश्ते, आपकी सफलता-असफलता</strong> — कोई भी चीज़ किसी स्थिर, अपरिवर्तनीय 'सार' से बँधी नहीं है। सब कुछ <strong>परिस्थितियों, सम्बन्धों और कारणों पर निर्भर</strong> है। यह डरावना नहीं बल्कि मुक्तिदायक है — क्योंकि इसका अर्थ है कि <strong>परिवर्तन, सुधार और विकास हमेशा सम्भव है</strong>, क्योंकि कुछ भी स्थायी रूप से जड़ नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "sk": "यद्यशून्यमिदं सर्वमुदयो नास्ति न व्ययः ।\nचतुर्णामार्यसत्यानामभावस्ते प्रसज्यते ॥",
+    "ro": "yady · aśūnyam · idaṃ · sarvam · udayo · nāsti · na · vyayaḥ | caturṇām · ārya-satyānām · abhāvas · te · prasajyate ||",
+    "hi": "यदि यह सब कुछ अशून्य हो, तो न कुछ उत्पन्न होता है न नष्ट होता है। तब तुम्हारे ही मत में चारों आर्यसत्यों का अभाव सिद्ध होगा।",
+    "en": "If all this were not empty, then nothing would arise and nothing would perish. Then it would follow, on your own view, that the four noble truths do not exist.",
+    "ws": [
+      {
+        "s": "अशून्यम्",
+        "h": "अशून्य / स्वभाव-सिद्ध",
+        "e": "non-empty (having inherent existence)"
+      },
+      {
+        "s": "उदयः",
+        "h": "उत्पत्ति",
+        "e": "arising"
+      },
+      {
+        "s": "व्ययः",
+        "h": "नाश",
+        "e": "perishing"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक 1 का शब्दशः प्रतिबिम्ब है, केवल एक शब्द बदला गया है — <em>शून्यम्</em> (श्लोक 1) की जगह <em>अशून्यम्</em> (यहाँ)। यह जानबूझकर की गई पुनरावृत्ति है, जो दिखाती है कि विरोधी का मूल तर्क-रूप ('यदि X तो आर्यसत्यों का अभाव') स्वयं उसी के अशून्यता के दावे पर ठीक उसी बल से लागू होता है।<br><em>Eng:</em> This verse is a word-for-word mirror of verse 1, with only one word changed: <em>aśūnyam</em> ('non-empty') replaces <em>śūnyam</em> ('empty'). This deliberate repetition shows that the opponent's own argument-form applies with exactly the same force to his own claim of non-emptiness.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 1 का दर्पण-प्रतिबिम्ब है, और यहीं से अध्याय का दूसरा बड़ा तर्क-खण्ड (21-39) प्रारम्भ होता है, जो विस्तार से दिखाएगा कि स्वभाव (अशून्यता) मानने पर उत्पत्ति-नाश और आर्यसत्य कैसे असम्भव हो जाते हैं।",
+        "en": "Candrakīrti says this verse mirrors verse 1, and marks the beginning of the chapter's second major argumentative section (21-39), which will show in detail how positing svabhāva (non-emptiness) makes arising, ceasing, and the noble truths impossible.",
+        "ins": "एक ही साँचे में ढला यह श्लोक अगले बीस श्लोकों के विस्तृत प्रमाण की भूमिका बाँधता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — विरोधी ने कहा था 'शून्यता मानने से उत्पत्ति-नाश असम्भव हो जाते हैं।' नागार्जुन अब ठीक उलट कहते हैं — 'अशून्यता मानने से' यानी 'स्वभाव मानने से' ही उत्पत्ति-नाश असम्भव हो जाते हैं, क्योंकि जो स्थिर स्वभाव से पहले से सिद्ध है, वह न नया उत्पन्न हो सकता है न नष्ट।",
+        "en": "Buddhapālita says the opponent claimed accepting emptiness makes arising and ceasing impossible. Nāgārjuna now says the exact opposite — it is accepting non-emptiness (i.e., svabhāva) that makes arising and ceasing impossible, since what is already fixed by a stable nature can neither newly arise nor cease.",
+        "ins": "जो पहले से पूर्ण है, वह न बढ़ सकता है न घट सकता है — यही स्वभाव-सिद्धान्त की जड़ समस्या है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह जानबूझकर की गई शाब्दिक समानता (श्लोक 1 और 20 में) एक शक्तिशाली आलंकारिक तकनीक है — यह श्रोता को स्वयं देखने पर विवश करती है कि जो तर्क विरोधी ने शून्यता पर लगाया, वही तर्क उसकी अपनी अशून्यता की मान्यता पर कहीं अधिक सटीक बैठता है।",
+        "en": "Bhāviveka says this deliberate verbal parallel (between verses 1 and 20) is a powerful rhetorical technique — it forces the listener to see for themselves that the very argument the opponent applied to emptiness fits his own claim of non-emptiness far more precisely.",
+        "ins": "प्रतिबिम्ब से बड़ा कोई तर्क नहीं — विरोधी को अपने ही शब्दों में अपना उत्तर देखने दो।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪞 यह श्लोक और श्लोक 1 में केवल एक शब्द का अन्तर क्यों रखा गया?",
+        "a": "यह नागार्जुन की <strong>सबसे प्रभावी आलंकारिक चाल</strong> है। श्लोक 1 में विरोधी ने कहा 'यदि <strong>शून्य</strong> है सब कुछ, तो आर्यसत्य नष्ट होते हैं।' अब नागार्जुन ठीक वही ढाँचा लेकर कहते हैं — 'यदि <strong>अशून्य</strong> है सब कुछ, तो भी आर्यसत्य नष्ट होते हैं!' यह दिखाता है कि विरोधी का तर्क शून्यता के विशेष विरुद्ध नहीं था — बल्कि वह भूल गया कि <strong>उत्पत्ति-नाश के लिए शून्यता चाहिए ही, स्वभाव नहीं</strong>।"
+      },
+      {
+        "q": "🌗 अब आगे के 20 श्लोकों में क्या होने वाला है?",
+        "a": "यह श्लोक अध्याय के <strong>दूसरे बड़े तर्क-खण्ड की शुरुआत</strong> है (श्लोक 21 से 39 तक)। नागार्जुन अब एक-एक करके दिखाएँगे कि यदि दुःख, कर्म, फल, बुद्ध, धर्म, संघ — इन्हें <strong>स्वभाव से सिद्ध (अशून्य)</strong> मान लिया जाए, तो हर एक असम्भव हो जाता है। यह ठीक वही तबाही है जिसका आरोप विरोधी ने शुरुआत में शून्यता पर लगाया था — पर अब यह सिद्ध होगा कि यह तबाही स्वयं विरोधी के अपने सिद्धान्त से आती है।"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "sk": "अप्रतीत्यसमुत्पन्नं कुतो दुःखं भविष्यति ।\nदुःखं ह्यनित्यमुक्तं च स्वभावे न तदिष्यते ॥",
+    "ro": "apratītya-samutpannaṃ · kuto · duḥkhaṃ · bhaviṣyati | duḥkhaṃ · hy · anityam · uktaṃ · ca · svabhāve · na · tad · iṣyate ||",
+    "hi": "बिना निर्भर हुए दुःख कैसे उत्पन्न होगा? दुःख को अनित्य कहा गया है, और अनित्य वस्तु का स्वभाव से होना सम्भव नहीं है।",
+    "en": "How could suffering come to be without dependent arising? Suffering has been declared impermanent, and what is impermanent cannot exist by inherent nature.",
+    "ws": [
+      {
+        "s": "कुतः",
+        "h": "कहाँ से / कैसे",
+        "e": "from where / how"
+      },
+      {
+        "s": "दुःखम्",
+        "h": "दुःख",
+        "e": "suffering"
+      },
+      {
+        "s": "अनित्यम्",
+        "h": "अनित्य / नश्वर",
+        "e": "impermanent"
+      },
+      {
+        "s": "इष्यते",
+        "h": "स्वीकार किया जाता है / माना जाता है",
+        "e": "is accepted / held"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>कुतो...भविष्यति</em> — प्रबल आक्षेपसूचक प्रश्न। <em>अनित्यम्</em> बुद्ध के मूल उपदेश (सभी संस्कार अनित्य हैं) की सीधी अपील है। इस श्लोक से पूरे अध्याय का दूसरा तर्क-खण्ड (21-39) प्रारम्भ होता है, जो व्यक्तिगत रूप से हर आर्यसत्य को स्वभाव-सिद्धान्त के विरुद्ध जाँचता है।<br><em>Eng:</em> This verse opens a systematic examination (21-39) checking each noble truth individually against the svabhāva doctrine. It directly invokes the Buddha's core teaching that 'all conditioned things are impermanent' (anitya) — and svabhāva, by definition, cannot be impermanent.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यदि दुःख स्वभाव से सिद्ध हो, तो वह किसी कारण-प्रत्यय पर निर्भर नहीं होगा, और इसलिए वह उत्पन्न ही नहीं होगा (क्योंकि 'उत्पत्ति' का अर्थ ही है 'कारणों से आना')। परन्तु बुद्ध ने स्वयं दुःख को अनित्य कहा है — और स्वभाव, परिभाषा से ही, नित्य और अपरिवर्तनीय होता है। यह सीधा विरोधाभास है।",
+        "en": "Candrakīrti says if suffering were established by inherent nature, it would not depend on any cause or condition, and hence could never arise (since 'arising' means precisely 'coming from causes'). But the Buddha himself declared suffering impermanent — and svabhāva, by definition, is permanent and unchanging. This is a direct contradiction.",
+        "ins": "जो चीज़ स्वभाव से नित्य होनी चाहिए, उसे 'अनित्य' कहना ही अपने आप में विरोधाभास है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक सीधे बुद्ध के प्रथम उपदेश ('धम्मचक्कप्पवत्तन सुत्त') से जुड़ता है, जहाँ दुःख को पहला आर्यसत्य और साथ ही अनित्य कहा गया। स्वभाव-वादी को या तो दुःख की अनित्यता नकारनी होगी (जो बुद्ध-वचन के विरुद्ध है) या स्वभाव को त्यागना होगा।",
+        "en": "Buddhapālita says this verse connects directly to the Buddha's first sermon, where suffering is named the first noble truth and also declared impermanent. The svabhāva-theorist must either deny suffering's impermanence (contradicting the Buddha's word) or abandon svabhāva.",
+        "ins": "जो अपने ही गुरु के वचन को नकारे बिना अपना सिद्धान्त नहीं बचा सकता, उसका सिद्धान्त संकट में है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक स्वभाव-सिद्धान्त की जड़ में बैठी असंगति को उजागर करता है — स्वभाव सदा स्थिर, अपरिवर्तनीय होता है (अध्याय 15), जबकि हमारा प्रत्यक्ष अनुभव दुःख को क्षण-क्षण बदलता हुआ, अनित्य दिखाता है। दोनों एक साथ सत्य नहीं हो सकते।",
+        "en": "Bhāviveka says this verse exposes an inconsistency at the root of the svabhāva doctrine — svabhāva is always fixed and unchanging (Chapter 15), while our direct experience shows suffering changing moment to moment, impermanent. Both cannot be true together.",
+        "ins": "अनुभव और परिभाषा के बीच टकराव हो, तो परिभाषा (स्वभाव) को छोड़ना पड़ता है, अनुभव को नहीं।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⏳ 'अनित्य' और 'स्वभाव' में विरोध क्यों है?",
+        "a": "'स्वभाव' का अर्थ है <strong>किसी वस्तु की अपनी, स्थिर, अपरिवर्तनीय प्रकृति</strong> — यह न कभी बदलती है, न किसी और पर निर्भर होती है। पर बुद्ध ने पहले ही आर्यसत्य में <strong>दुःख को 'अनित्य' यानी क्षण-प्रतिक्षण बदलने वाला</strong> बताया है। यदि दुःख का कोई स्थिर स्वभाव होता, तो वह <strong>कभी बदल ही नहीं सकता</strong> — पर हम जानते हैं दुःख आता है, बदलता है, और मिटता भी है।"
+      },
+      {
+        "q": "🎯 इसका दुःख से मुक्ति पाने से क्या सम्बन्ध है?",
+        "a": "यही वह आशा की किरण है! यदि दुःख <strong>स्वभाव से स्थिर</strong> होता, तो उससे मुक्ति असम्भव होती — यह सदा वैसा ही बना रहता। पर चूँकि दुःख <strong>अनित्य और परिस्थिति-जन्य (शून्य)</strong> है, इसलिए ही <strong>उसका निरोध सम्भव है</strong>। शून्यता ही वह आधार है जिस पर पूरा बौद्ध मुक्ति-मार्ग खड़ा है।"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "sk": "स्वभावतो विद्यमानं पुनः किं जनयिष्यति ।\nतस्मादसति शून्यत्वे जन्म नैव तु युज्यते ॥",
+    "ro": "svabhāvato · vidyamānaṃ · punaḥ · kiṃ · janayiṣyati | tasmād · asati · śūnyatve · janma · na · eva · tu · yujyate ||",
+    "hi": "जो स्वभाव से पहले से ही विद्यमान है, वह फिर से किसको उत्पन्न करेगा? अतः शून्यता के अभाव में उत्पत्ति सिद्ध ही नहीं होती।",
+    "en": "What already exists by inherent nature — what more would it produce? Therefore, in the absence of emptiness, arising itself is not tenable.",
+    "ws": [
+      {
+        "s": "विद्यमानम्",
+        "h": "विद्यमान / पहले से मौजूद",
+        "e": "already existing"
+      },
+      {
+        "s": "जनयिष्यति",
+        "h": "उत्पन्न करेगा",
+        "e": "will produce / will generate"
+      },
+      {
+        "s": "जन्म",
+        "h": "उत्पत्ति / जन्म",
+        "e": "arising / birth"
+      },
+      {
+        "s": "युज्यते",
+        "h": "सिद्ध होता है / सम्भव है",
+        "e": "is tenable"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>पुनः किं जनयिष्यति</em> — आक्षेपसूचक प्रश्न, 'तो वह और क्या उत्पन्न करेगा?' यह श्लोक अध्याय 1 के मूल तर्क (स्वतः-उत्पत्ति असम्भव है, क्योंकि जो पहले से है उसे फिर उत्पन्न होने की ज़रूरत नहीं) को दुःख विशेष पर लागू करता है।<br><em>Eng:</em> This verse applies the foundational argument of Chapter 1 (self-arising is impossible, since what already exists needs no further arising) specifically to the case of suffering, sharpening the point that svabhāva and arising are incompatible.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अध्याय 1 के प्रथम श्लोक की प्रतिध्वनि है। यदि दुःख पहले से स्वभाव से विद्यमान है, तो उसे 'उत्पन्न होने' की कोई आवश्यकता ही नहीं — वह तो पहले से ही है! 'उत्पत्ति' शब्द तभी अर्थपूर्ण है जब पहले वस्तु न थी, अब है — यह परिवर्तन स्वभाव में सम्भव नहीं।",
+        "en": "Candrakīrti says this echoes the very first verse of Chapter 1. If suffering already exists by inherent nature, it needs no 'arising' at all — it is already there! The word 'arising' is meaningful only when something was not there before and now is — such change is impossible for svabhāva.",
+        "ins": "जो पहले से पूर्ण है, उसके लिए 'उत्पन्न होना' शब्द का कोई अर्थ ही नहीं बचता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बहुत ही सीधा है: 'उत्पत्ति' माने है 'नहीं से होना।' यदि दुःख स्वभाव से पहले से 'है,' तो वह 'उत्पन्न' नहीं हुआ, बल्कि सदा से था। पर हम अनुभव करते हैं कि दुःख कभी नहीं था, फिर उत्पन्न हुआ, फिर मिट गया — यह अनुभव स्वभाव-सिद्धान्त के अनुकूल नहीं बैठता।",
+        "en": "Buddhapālita says the logic is straightforward: 'arising' means 'coming to be from not-being.' If suffering by nature already 'is,' it did not 'arise' but always existed. Yet we experience suffering as not having been, then arising, then ceasing — an experience that does not fit the svabhāva doctrine.",
+        "ins": "अनुभव में जो 'नया' दिखता है, वह स्वभाव-सिद्धान्त में 'सदा से पुराना' बनकर अर्थहीन हो जाता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक शून्यता को उत्पत्ति की <em>पूर्वशर्त</em> के रूप में स्थापित करता है — केवल वही वस्तु उत्पन्न हो सकती है जो स्वयं में ठोस, पूर्व-सिद्ध स्वभाव न रखे, यानी जो शून्य हो। यही 'असति शून्यत्वे जन्म नैव युज्यते' का अर्थ है।",
+        "en": "Bhāviveka says this verse establishes emptiness as the precondition for arising — only something that does not already possess a fixed, pre-established nature — that is, something empty — can arise at all. This is the meaning of 'in the absence of emptiness, arising is not tenable.'",
+        "ins": "शून्यता उत्पत्ति की शत्रु नहीं, बल्कि उत्पत्ति की माँ है — इसी विरोधाभासी सत्य को यह श्लोक उजागर करता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔁 'जो पहले से है, वह फिर क्या उत्पन्न करेगा?' — इसे सरल भाषा में समझाइए।",
+        "a": "कल्पना कीजिए कोई कहे <strong>'यह पहले से बना हुआ केक फिर से बनने वाला है।'</strong> यह बेतुका लगता है — जो पहले से बन चुका, उसे 'बनने' की क्या ज़रूरत? नागार्जुन कहते हैं कि <strong>यही बेतुकापन तब होता है जब हम दुःख को स्वभाव से पहले से सिद्ध मान लेते हैं</strong> — फिर उसकी 'उत्पत्ति' की बात करना ही अर्थहीन हो जाता है। इसलिए उत्पत्ति को अर्थपूर्ण बनाए रखने के लिए <strong>शून्यता आवश्यक है</strong>।"
+      },
+      {
+        "q": "🌟 तो शून्यता उत्पत्ति की शत्रु है या मित्र?",
+        "a": "बिल्कुल मित्र, विरोधी की धारणा के ठीक विपरीत! <strong>शून्यता का अर्थ है कि कोई वस्तु पहले से ठोस-सिद्ध नहीं है</strong> — इसीलिए वह <strong>नए सिरे से उत्पन्न हो सकती है, बदल सकती है, मिट सकती है</strong>। यदि चीज़ें स्वभाव-सिद्ध (अशून्य) होतीं, तो कुछ भी कभी उत्पन्न ही न होता — दुनिया एक जमे हुए तस्वीर की तरह स्थिर रह जाती।"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "sk": "यदि स्वभावतो दुःखं निरोधस्तस्य नो भवेत् ।\nस्वभावं प्रतिबध्नाति शाश्वतत्वेन दुर्धरम् ॥",
+    "ro": "yadi · svabhāvato · duḥkhaṃ · nirodhas · tasya · no · bhavet | svabhāvaṃ · pratibadhnāti · śāśvatatvena · dur-dharam ||",
+    "hi": "यदि दुःख स्वभाव से हो, तो उसका निरोध सम्भव नहीं होगा। स्वभाव को शाश्वत माना जाता है, इसलिए वह दुर्धर अर्थात् अपरिवर्तनीय होकर सबको बाँध देता है।",
+    "en": "If suffering existed by inherent nature, its cessation would not be possible. Inherent nature is held to be eternal, and it binds one, being unalterable.",
+    "ws": [
+      {
+        "s": "निरोधः",
+        "h": "निरोध / अन्त / समाप्ति",
+        "e": "cessation"
+      },
+      {
+        "s": "प्रतिबध्नाति",
+        "h": "बाँध देता है / रोक देता है",
+        "e": "binds / fixes in place"
+      },
+      {
+        "s": "शाश्वतत्वेन",
+        "h": "शाश्वत होने के कारण",
+        "e": "through being eternal"
+      },
+      {
+        "s": "दुर्धरम्",
+        "h": "अपरिवर्तनीय / जिसे टाला न जा सके",
+        "e": "unalterable / unshakeable"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>प्रतिबध्नाति</em> = प्रति + √बन्ध् — 'बाँध देता है / जकड़ लेता है।' यह श्लोक तीसरे आर्यसत्य (निरोध) पर वही तर्क लागू करता है जो पिछले दो श्लोकों में दुःख (प्रथम आर्यसत्य) पर लागू किया गया — स्वभाव और परिवर्तन परस्पर असंगत हैं।<br><em>Eng:</em> The verb <em>pratibadhnāti</em> ('binds/fixes') captures how svabhāva, being eternal by definition, locks suffering in place, making its cessation (the third noble truth) impossible — extending the same argument from arising (v.21-22) to ceasing.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक निरोध (तीसरे आर्यसत्य) पर वही तर्क लागू करता है। यदि दुःख का स्वभाव है, तो वह स्वभाव अपरिवर्तनीय होगा (क्योंकि स्वभाव की परिभाषा ही यही है)। तब दुःख कभी मिट नहीं सकता — निरोध, यानी दुःख से मुक्ति, सदा के लिए असम्भव हो जाएगी।",
+        "en": "Candrakīrti says this verse applies the same argument to cessation (the third noble truth). If suffering had inherent nature, that nature would be unchanging (by definition of svabhāva). Then suffering could never end — cessation, i.e., liberation from suffering, would become permanently impossible.",
+        "ins": "यह पूरे बौद्ध मार्ग की सबसे बड़ी विडम्बना होगी — मुक्ति की खोज में निकलना, पर मुक्ति को असम्भव मानने वाले सिद्धान्त के साथ।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'शाश्वतत्वेन दुर्धरम्' का अर्थ है कि स्वभाव अपने भीतर बद्ध होता है, कभी बदलता नहीं। यदि दुःख इसी तरह बद्ध हो, तो कोई भी साधना, कोई भी प्रयास उसे मिटा नहीं सकता — क्योंकि प्रयास परिवर्तन लाता है, और स्वभाव परिवर्तन को स्वीकार नहीं करता।",
+        "en": "Buddhapālita says 'unalterable through eternality' means svabhāva is locked within itself, never changing. If suffering were locked this way, no practice, no effort could remove it — because effort brings change, and svabhāva by definition admits no change.",
+        "ins": "जो कुछ भी अपरिवर्तनीय हो, उस पर किया गया प्रयास व्यर्थ ही होगा — यह स्वभाव-सिद्धान्त का सबसे निराशाजनक परिणाम है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — विरोधी ने प्रारम्भ में डर व्यक्त किया था कि शून्यता निरोध को असम्भव बना देगी (श्लोक 1-3)। यह श्लोक ठीक उल्टा दिखाता है — <em>स्वभाव</em> ही निरोध को असम्भव बनाता है, क्योंकि निरोध का अर्थ ही है 'परिवर्तन' — दुःख का न रहना — जो केवल शून्य (परिवर्तनशील) वस्तु में ही सम्भव है।",
+        "en": "Bhāviveka says the opponent originally feared emptiness would make cessation impossible (verses 1-3). This verse shows the reverse: it is svabhāva that makes cessation impossible, since cessation means 'change' — suffering ceasing to be — which is possible only for something empty (mutable).",
+        "ins": "मुक्ति की सम्भावना ही शून्यता की सबसे बड़ी देन है — यह श्लोक इसी सत्य को उलटकर दिखाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔒 अगर दुःख 'स्वभाव से' हो, तो उससे मुक्ति क्यों असम्भव हो जाएगी?",
+        "a": "'स्वभाव' का मतलब है <strong>ऐसी प्रकृति जो कभी बदलती नहीं</strong> — यह स्थायी और अपरिवर्तनीय होती है। अगर दुःख का यही स्वभाव हो, तो उसे <strong>किसी भी साधना, ध्यान, या अभ्यास से बदला नहीं जा सकता</strong> — क्योंकि परिभाषा से ही स्वभाव अपरिवर्तनीय है। यह मानो दुःख को <strong>अनन्त काल के लिए बन्दी बना देना</strong> जैसा है।"
+      },
+      {
+        "q": "🕊️ तो निर्वाण या मुक्ति सम्भव कैसे है?",
+        "a": "ठीक इसलिए कि दुःख <strong>स्वभाव-सिद्ध नहीं, शून्य है</strong> — यानी वह परिस्थितियों, कारणों और प्रत्ययों पर निर्भर होकर उत्पन्न हुआ है। जो चीज़ <strong>कारणों से उत्पन्न होती है, वह कारणों के हटने से मिट भी सकती है</strong>। यही कारण है कि बौद्ध साधना — सही दृष्टि, ध्यान, नैतिक आचरण — <strong>दुःख के कारणों को हटाकर उसका निरोध सम्भव बना सकती है</strong>। शून्यता ही मुक्ति की कुंजी है।"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "sk": "स्वभावे मार्ग एवं चेद्भावना नोपपद्यते ।\nयद्येव भाव्यते मार्गस्तवेष्टः स्वभावो न सः ॥",
+    "ro": "svabhāve · mārga · evaṃ · ced · bhāvanā · na · upapadyate | yady · eva · bhāvyate · mārgas · tava · iṣṭaḥ · svabhāvo · na · saḥ ||",
+    "hi": "यदि मार्ग भी स्वभाव से हो, तो इसी प्रकार उसकी भावना अर्थात् अभ्यास सम्भव नहीं होगा। और यदि मार्ग वास्तव में साधा जाता है, तो वह तुम्हारे इच्छित स्वभाव जैसा नहीं है।",
+    "en": "If the path too existed by inherent nature, then, likewise, its cultivation would not be tenable. And if the path is indeed cultivated, then it is not the kind of inherent existence you assert.",
+    "ws": [
+      {
+        "s": "मार्गः",
+        "h": "मार्ग / रास्ता (चौथा आर्यसत्य)",
+        "e": "the path (the fourth noble truth)"
+      },
+      {
+        "s": "भावना",
+        "h": "भावना / अभ्यास / साधना",
+        "e": "cultivation / practice"
+      },
+      {
+        "s": "भाव्यते",
+        "h": "साधा जाता है / अभ्यास किया जाता है",
+        "e": "is cultivated"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>भावना</em> और <em>भाव्यते</em> — दोनों भू-धातु से बने हैं ('होना/बनना'), पर यहाँ 'अभ्यास द्वारा विकसित करना' के अर्थ में प्रयुक्त। यह श्लोक चौथे आर्यसत्य — मार्ग — पर वही स्वभाव-विरोधी तर्क लागू करता है जो दुःख और निरोध पर लागू किया गया था।<br><em>Eng:</em> This verse applies the same anti-svabhāva argument to the fourth noble truth — the path — that was applied to suffering and cessation: a fixed, unchanging path could never be developed through practice.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — मार्ग की प्रकृति ही है 'भावना' अर्थात् क्रमिक अभ्यास द्वारा विकसित होना — जैसे शील, समाधि, प्रज्ञा धीरे-धीरे प्रगाढ़ होते हैं। यदि मार्ग स्वभाव से पहले से पूर्ण-सिद्ध हो, तो उसे 'भावित' करने की कोई गुंजाइश नहीं बचती — भावना का अर्थ ही है क्रमिक विकास, जो स्थिर स्वभाव में असम्भव है।",
+        "en": "Candrakīrti says the very nature of the path is 'cultivation' — gradual development through practice, as ethics, concentration, and wisdom slowly deepen. If the path were already perfectly established by inherent nature, there would be no room to 'cultivate' it — cultivation means gradual development, impossible for a fixed nature.",
+        "ins": "जो पहले से पूर्ण है, उसका अभ्यास करना निरर्थक है — जैसे पूर्ण वृत्त को और गोल बनाने की कोशिश करना।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक एक व्यावहारिक दुविधा (dilemma) रचता है — या तो मार्ग स्वभाव-सिद्ध है (तब उसका अभ्यास असम्भव), या मार्ग का अभ्यास होता है (तब वह स्वभाव-सिद्ध नहीं हो सकता)। हम प्रत्यक्ष देखते हैं कि साधक मार्ग का अभ्यास करते हैं, इसलिए मार्ग स्वभाव-रहित, शून्य ही होना चाहिए।",
+        "en": "Buddhapālita says this verse constructs a practical dilemma — either the path is established by svabhāva (then cultivating it is impossible), or the path is actually cultivated (then it cannot be established by svabhāva). We directly observe practitioners cultivating the path, so the path must be devoid of svabhāva, i.e., empty.",
+        "ins": "जो प्रत्यक्ष अनुभव में घटित होता है — अभ्यास से मार्ग का विकास — वही स्वभाव-सिद्धान्त को असत्य सिद्ध करता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक चारों आर्यसत्यों पर स्वभाव-विरोधी तर्क को पूरा करता है (दुःख—21-22, निरोध—23, मार्ग—24)। अब आगे श्लोक 25 में नागार्जुन इन तीनों निष्कर्षों को एक साथ मिलाकर अन्तिम प्रहार करेंगे।",
+        "en": "Bhāviveka says this verse completes the anti-svabhāva argument across all four noble truths (suffering—21-22, cessation—23, path—24). The next verse (25) will now combine these three conclusions into a final decisive blow.",
+        "ins": "एक-एक करके हर स्तम्भ को हिलाना, फिर उन्हें एक साथ जोड़कर पूरी इमारत गिरा देना — यही तर्क-रचना की कला है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🚶 'मार्ग की भावना' का क्या अर्थ है, और यह स्वभाव के विरुद्ध क्यों जाता है?",
+        "a": "'भावना' का अर्थ है <strong>धीरे-धीरे, अभ्यास के ज़रिए किसी गुण को विकसित करना</strong> — जैसे ध्यान से एकाग्रता बढ़ती है, शील के अभ्यास से चरित्र मज़बूत होता है। यह प्रक्रिया <strong>क्रमिक परिवर्तन</strong> पर टिकी है। पर 'स्वभाव' का अर्थ है <strong>ऐसा जो कभी बदलता नहीं</strong>। इसलिए यदि मार्ग स्वभाव से पहले से पूर्ण-सिद्ध हो, तो <strong>उसमें विकास की कोई गुंजाइश ही नहीं बचती</strong> — जो पहले से पूर्ण है, वह और विकसित कैसे होगा?"
+      },
+      {
+        "q": "🏃 क्या इसका मतलब है कि साधना व्यर्थ है?",
+        "a": "बिल्कुल नहीं — बल्कि यह ठीक उल्टा सिद्ध करता है। हम देखते हैं कि <strong>साधक वास्तव में मार्ग का अभ्यास करते हैं और उन्नति करते हैं</strong> — यह हमारा प्रत्यक्ष अनुभव है। इसलिए नागार्जुन कहते हैं: चूँकि साधना वास्तविक रूप से काम करती है, इसका मतलब है कि <strong>मार्ग स्वभाव-सिद्ध नहीं, बल्कि शून्य (परिवर्तनशील, विकासशील) है</strong>। शून्यता ही साधना को सम्भव बनाती है, असम्भव नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "sk": "दुःखे चासति चोत्पत्तौ निरोधे चाप्यसम्भवे ।\nकेन मार्गेण दुःखस्य निरोधं प्राप्नुयान्नरः ॥",
+    "ro": "duḥkhe · ca · asati · ca · utpattau · nirodhe · ca · api · asambhave | kena · mārgeṇa · duḥkhasya · nirodhaṃ · prāpnuyān · naraḥ ||",
+    "hi": "जब दुःख, उसकी उत्पत्ति और निरोध — इनमें से कुछ भी न हो, तो कौन-से मार्ग से मनुष्य दुःख के निरोध को प्राप्त करेगा?",
+    "en": "When suffering, its arising, and its cessation do not exist at all, by which path would a person attain the cessation of suffering?",
+    "ws": [
+      {
+        "s": "उत्पत्तौ",
+        "h": "उत्पत्ति में / उत्पन्न होने पर",
+        "e": "in the case of arising"
+      },
+      {
+        "s": "असम्भवे",
+        "h": "असम्भव होने पर",
+        "e": "in the case of impossibility"
+      },
+      {
+        "s": "प्राप्नुयात्",
+        "h": "प्राप्त करेगा",
+        "e": "would attain"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक पिछले चार श्लोकों (21-24) के निष्कर्षों को एक साथ जोड़ता है — दुःख असम्भव (21-22), निरोध असम्भव (23), मार्ग असम्भव (24) — और अन्तिम प्रश्न पूछता है: यदि ये तीनों ही न हों, तो साधक किस मार्ग से मुक्ति पाएगा?<br><em>Eng:</em> This verse gathers the conclusions of the previous four verses (21-24) — suffering impossible, cessation impossible, the path impossible — into one final rhetorical question: with none of these, by what path could liberation ever be reached?",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह स्वभाव-सिद्धान्त के विरुद्ध सम्पूर्ण तर्क का समाहार है। स्वभाव मानने पर दुःख उत्पन्न नहीं हो सकता, निरोध सम्भव नहीं, और मार्ग साधा नहीं जा सकता — तो पूरी दुःखमुक्ति की परियोजना ही अर्थहीन हो जाती है। यह ठीक वही विनाश है जिसका आरोप विरोधी ने शून्यता पर लगाया था, पर अब सिद्ध हो गया कि यह विनाश स्वभाव-सिद्धान्त से आता है।",
+        "en": "Candrakīrti says this is the summation of the entire argument against the svabhāva doctrine. Positing svabhāva, suffering cannot arise, cessation is impossible, and the path cannot be cultivated — so the whole project of liberation from suffering becomes meaningless. This is exactly the destruction the opponent charged against emptiness, now proven to come from the svabhāva doctrine instead.",
+        "ins": "जिस विनाश का डर विरोधी को शून्यता से था, वही विनाश उसके अपने सिद्धान्त में घर कर बैठा है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह प्रश्न वास्तव में उत्तरहीन है, यही इसकी शक्ति है। स्वभाव-वादी के पास कोई उत्तर नहीं कि यदि तीनों आर्यसत्य ही असम्भव हों, तो साधक कैसे मुक्ति पाएगा — क्योंकि मुक्ति की पूरी अवधारणा ही इन तीनों पर निर्भर करती है।",
+        "en": "Buddhapālita says this question is genuinely unanswerable, and that is precisely its power. The svabhāva-theorist has no reply as to how a practitioner could attain liberation if all three noble truths are impossible — since the entire concept of liberation depends on them.",
+        "ins": "एक ऐसा प्रश्न जिसका कोई उत्तर न हो, वह सबसे प्रबल खण्डन बन जाता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक श्लोक 2-3 (जहाँ विरोधी ने साधना और फल के अभाव की बात की थी) का सीधा जवाब है — पर अब भूमिका पलट गई है। विरोधी ने शून्यता को दोषी ठहराया था; अब स्वभाव-सिद्धान्त स्वयं दोषी सिद्ध हो चुका है।",
+        "en": "Bhāviveka says this verse directly answers verses 2-3 (where the opponent spoke of the impossibility of practice and fruit) — but the roles have now reversed. The opponent blamed emptiness; now the svabhāva doctrine itself stands convicted.",
+        "ins": "यही मध्यमक की तर्क-पद्धति की सुन्दरता है — विरोधी के ही प्रश्नों को उसके अपने सिद्धान्त पर वापस मोड़ देना।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🚫 'कोई मार्ग नहीं बचेगा' — इसका क्या अर्थ है?",
+        "a": "नागार्जुन यहाँ एक ऐसा प्रश्न पूछते हैं जिसका <strong>स्वभाव-वादी के पास कोई उत्तर नहीं</strong>। यदि दुःख कभी उत्पन्न ही नहीं हो सकता (क्योंकि स्वभाव अपरिवर्तनीय है), और निरोध भी असम्भव है, और मार्ग का अभ्यास भी नहीं हो सकता — तो <strong>मुक्ति की पूरी अवधारणा ही खोखली हो जाती है</strong>। यह दिखाता है कि विरोधी का मूल भय — 'शून्यता मुक्ति को असम्भव बना देगी' — वास्तव में उसके अपने सिद्धान्त (स्वभाव) पर लागू होता है।"
+      },
+      {
+        "q": "🌈 तो असली उत्तर क्या है — मुक्ति कैसे सम्भव है?",
+        "a": "ठीक इसलिए कि <strong>दुःख, उसका कारण, उसका निरोध, और मार्ग — ये सब शून्य हैं</strong>, यानी परस्पर-निर्भर होकर, कारण-प्रत्ययों के साथ बदलते हुए विद्यमान हैं। <strong>शून्यता के कारण ही</strong> दुःख उत्पन्न हो सकता है, बदल सकता है, और अन्ततः मिट सकता है। यही कारण है कि नागार्जुन कहते हैं — शून्यता मुक्ति की शत्रु नहीं, बल्कि उसकी एकमात्र सम्भावना है।"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "sk": "दुःखस्याप्यपरिज्ञानात्प्रहाणं नोपपद्यते ।\nतथैव च स्वभावेन विद्यमाने प्रहीयते ॥",
+    "ro": "duḥkhasya · api · aparijñānāt · prahāṇaṃ · na · upapadyate | tathā · eva · ca · svabhāvena · vidyamāne · prahīyate ||",
+    "hi": "यदि दुःख का ज्ञान ही न हो पाए, तो उसका त्याग सम्भव नहीं होगा। और यदि दुःख स्वभाव से पहले से विद्यमान है, तो उसका त्याग भी कैसे होगा?",
+    "en": "If suffering itself cannot even be known, its abandonment is not possible. Likewise, if it already exists by inherent nature, how could it ever be abandoned?",
+    "ws": [
+      {
+        "s": "अपरिज्ञानात्",
+        "h": "पूर्ण ज्ञान न होने से",
+        "e": "from not being thoroughly known"
+      },
+      {
+        "s": "प्रहाणम्",
+        "h": "त्याग",
+        "e": "abandonment"
+      },
+      {
+        "s": "प्रहीयते",
+        "h": "त्यागा जाता है / छोड़ा जाता है",
+        "e": "is abandoned"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक दूसरे आर्यसत्य — समुदय (दुःख का कारण, जिसका प्रहाण करना है) की दिशा में मुड़ता है, और साथ ही परिज्ञा-प्रहाण-भावना-साक्षिकर्म — इन चार साधनात्मक क्रियाओं (श्लोक 2 में उल्लिखित) की परीक्षा फिर से आरम्भ करता है, अब स्वभाव-सिद्धान्त के विरुद्ध।<br><em>Eng:</em> This verse turns toward the second noble truth (the origin of suffering, which is to be abandoned) and reopens the examination of the four practices (thorough knowledge, abandonment, cultivation, realization — introduced in verse 2), now testing them against the svabhāva doctrine.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यदि दुःख स्वभाव से स्थिर और अपरिवर्तनीय है, तो न तो उसे भलीभाँति जाना जा सकता (क्योंकि जानना भी एक प्रकार का परिवर्तन/सम्बन्ध है), न ही उसे त्यागा जा सकता (क्योंकि त्याग का अर्थ है स्थिति में परिवर्तन)। इस प्रकार पहली दो साधनाएँ — परिज्ञा और प्रहाण — स्वभाव-सिद्धान्त में असम्भव हो जाती हैं।",
+        "en": "Candrakīrti says if suffering is fixed and unchanging by inherent nature, it can neither be thoroughly known (since knowing is itself a kind of relation/change) nor abandoned (since abandonment means a change in status). Thus the first two practices — thorough knowledge and abandonment — become impossible under the svabhāva doctrine.",
+        "ins": "जो कभी बदलता नहीं, उसके साथ हमारा कोई भी सम्बन्ध — जानना, त्यागना — निरर्थक हो जाता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक श्लोक 2 की चारों साधनाओं की परीक्षा को फिर से खोलता है, अब यह दिखाते हुए कि विरोधी के अपने स्वभाव-सिद्धान्त में ये साधनाएँ कैसे टूट जाती हैं — ठीक वही आरोप जो उसने शून्यता पर लगाया था।",
+        "en": "Buddhapālita says this verse reopens the examination of the four practices from verse 2, now showing how they collapse under the opponent's own svabhāva doctrine — exactly the charge he leveled against emptiness.",
+        "ins": "जो आरोप तुमने दूसरे पर लगाया, वही आरोप अब तुम्हारे अपने घर में सिद्ध हो रहा है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक तार्किक रूप से महत्वपूर्ण है क्योंकि यह ज्ञान (परिज्ञा) और त्याग (प्रहाण) दोनों को एक साथ जोड़ता है — दोनों ही किसी वस्तु के साथ हमारे 'सम्बन्ध' में परिवर्तन को दर्शाते हैं, जो केवल शून्य (अस्थिर, सम्बन्ध-सक्षम) वस्तु के साथ ही सम्भव है।",
+        "en": "Bhāviveka says this verse is logically significant because it links both knowing (parijñā) and abandoning (prahāṇa) — both represent a change in our 'relationship' to a thing, possible only with something empty (relationally capable, not fixed).",
+        "ins": "ज्ञान और त्याग दोनों ही सम्बन्ध हैं, और सम्बन्ध केवल परिवर्तनशील वस्तुओं के बीच ही सम्भव है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧠 स्वभाव-सिद्ध वस्तु को 'जानना' असम्भव क्यों है?",
+        "a": "'जानना' एक <strong>सम्बन्ध</strong> है — ज्ञाता और ज्ञेय के बीच एक क्रिया। यदि दुःख स्वभाव से बिल्कुल स्थिर, स्वतन्त्र, किसी से भी असम्बद्ध हो, तो उसके साथ <strong>कोई सम्बन्ध ही नहीं बन सकता</strong> — न जानने का, न त्यागने का। यह वैसा ही है जैसे किसी पूर्णतः पृथक्, दूसरे आयाम की वस्तु को 'जानने' की कोशिश करना — असम्भव।"
+      },
+      {
+        "q": "✋ 'त्याग' के लिए शून्यता क्यों ज़रूरी है?",
+        "a": "त्याग का अर्थ है <strong>किसी चीज़ का हट जाना, बदल जाना</strong> — कल जो था, आज नहीं है। यह परिवर्तन तभी सम्भव है जब वह चीज़ <strong>स्वभाव से जड़, अपरिवर्तनीय न हो</strong> — यानी वह शून्य हो। इसीलिए बुरी आदतों, क्लेशों और अज्ञान का <strong>त्याग सम्भव है क्योंकि वे शून्य हैं</strong>, स्थायी स्वभाव-सिद्ध नहीं। यही आशा की बुनियाद है।"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "sk": "परिज्ञा च यथैवैषा तथा प्रहाणसाधने ।\nभावना साक्षिकर्म च न सिध्येयुः स्वभावतः ॥",
+    "ro": "parijñā · ca · yathā · eva · eṣā · tathā · prahāṇa-sādhane | bhāvanā · sākṣi-karma · ca · na · sidhyeyuḥ · svabhāvataḥ ||",
+    "hi": "जिस प्रकार परिज्ञान असम्भव होता है, उसी प्रकार प्रहाण, भावना और साक्षात्कार भी स्वभाव के होने पर सिद्ध नहीं होंगे।",
+    "en": "Just as thorough knowledge is impossible in this way, so too abandonment, cultivation, and realization would not be accomplished if there were inherent existence.",
+    "ws": [
+      {
+        "s": "प्रहाणसाधने",
+        "h": "प्रहाण को सिद्ध करने में",
+        "e": "in accomplishing abandonment"
+      },
+      {
+        "s": "साक्षिकर्म",
+        "h": "साक्षात्कार / प्रत्यक्ष अनुभूति",
+        "e": "direct realization"
+      },
+      {
+        "s": "सिध्येयुः",
+        "h": "सिद्ध होंगे",
+        "e": "would be accomplished"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>यथैव...तथा</em> — तुलनात्मक रचना, 'जिस प्रकार...उसी प्रकार।' यह श्लोक श्लोक 26 के तर्क को शेष तीन साधनाओं — प्रहाण, भावना, साक्षिकर्म — तक विस्तृत करता है, यह दिखाते हुए कि चारों में से कोई भी स्वभाव-सिद्धान्त में टिक नहीं सकता।<br><em>Eng:</em> This verse extends the argument of verse 26 to the remaining three practices — abandonment, cultivation, realization — showing that none of the four can stand under the svabhāva doctrine.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक श्लोक 2 में गिनाई गई चारों साधनाओं की परीक्षा को पूर्ण करता है। परिज्ञा, प्रहाण, भावना, साक्षिकर्म — इनमें से एक भी स्वभाव-सिद्धान्त में सम्भव नहीं, क्योंकि चारों ही किसी न किसी परिवर्तन या सम्बन्ध पर निर्भर हैं, जो केवल शून्य वस्तुओं में सम्भव है।",
+        "en": "Candrakīrti says this verse completes the examination of the four practices listed in verse 2. Thorough knowledge, abandonment, cultivation, realization — not one of them is possible under the svabhāva doctrine, since all four depend on some change or relation, possible only for empty things.",
+        "ins": "एक ही जड़-दोष चारों शाखाओं में समान रूप से फैल जाता है — यही स्वभाव-सिद्धान्त की व्यापक विफलता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — भावना (मार्ग का अभ्यास) पहले ही श्लोक 24 में असम्भव सिद्ध हो चुकी; साक्षिकर्म (निरोध का साक्षात्कार) परोक्ष रूप से श्लोक 23 में। यह श्लोक इन सबको एक साथ समेटकर स्पष्ट कर देता है — कोई भी बौद्ध साधना स्वभाव-सिद्धान्त के भीतर सम्भव नहीं।",
+        "en": "Buddhapālita says cultivation (practicing the path) was already shown impossible in verse 24; realization (witnessing cessation) implicitly in verse 23. This verse gathers all of these together, making clear that no Buddhist practice whatsoever is possible within the svabhāva doctrine.",
+        "ins": "जब हर एक स्तम्भ अलग-अलग गिर चुका हो, तो उन्हें एक साथ नाम लेकर याद दिलाना ही काफ़ी है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अध्याय की तर्क-योजना में एक विराम-बिन्दु है — चार आर्यसत्यों (21-25) और चार साधनाओं (26-27) दोनों की परीक्षा पूरी हो चुकी। अब अगला कदम फल (श्लोक 28-30) की ओर बढ़ेगा।",
+        "en": "Bhāviveka says this verse marks a pause point in the chapter's argumentative structure — the examination of both the four noble truths (21-25) and the four practices (26-27) is now complete. The next step (verses 28-30) moves to the fruits.",
+        "ins": "तर्क की एक-एक ईंट व्यवस्थित रूप से रखी जा रही है, ताकि अन्त में पूरा भवन स्पष्ट दिखे।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🧱 चार साधनाओं में से कौन-कौन सी अब तक असम्भव सिद्ध हो चुकी हैं?",
+        "a": "श्लोक 26-27 मिलकर <strong>चारों साधनाओं — परिज्ञा (ज्ञान), प्रहाण (त्याग), भावना (अभ्यास), साक्षिकर्म (साक्षात्कार)</strong> — को स्वभाव-सिद्धान्त के विरुद्ध जाँच चुके हैं। हर एक साधना किसी-न-किसी <strong>परिवर्तन या सम्बन्ध</strong> पर निर्भर है, और परिवर्तन-सम्बन्ध केवल <strong>शून्य (परिस्थिति-सापेक्ष) वस्तुओं</strong> में ही सम्भव है, स्वभाव-सिद्ध वस्तुओं में नहीं।"
+      },
+      {
+        "q": "🛤️ अब अध्याय आगे कहाँ जाएगा?",
+        "a": "अगले श्लोक (28-30) में नागार्जुन इसी तर्क को <strong>साधना के फल (आर्यफल)</strong> तक ले जाएँगे — यह दिखाते हुए कि यदि साधना ही सम्भव नहीं, तो उसका परिणाम अर्थात् <strong>स्रोतापत्ति, अर्हत्त्व आदि फल भी असम्भव हो जाएँगे</strong>। यह उसी शृंखला को पूरा करता है जो विरोधी ने शुरुआत (श्लोक 2-3) में शून्यता पर आरोपित की थी — अब यह स्वभाव-सिद्धान्त पर सिद्ध हो रही है।"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "sk": "अपरिज्ञानतश्चैव फलं तत्र न सिध्यति ।\nसाधनानां स्वभावेन सिद्धिश्चापि न युज्यते ॥",
+    "ro": "aparijñānataś · ca · eva · phalaṃ · tatra · na · sidhyati | sādhanānāṃ · svabhāvena · siddhiś · ca · api · na · yujyate ||",
+    "hi": "जब परिज्ञान आदि सिद्ध ही नहीं होते, तो फल भी सिद्ध नहीं होगा। और स्वभाव के होने पर साधनाओं की सिद्धि भी सम्भव नहीं है।",
+    "en": "When thorough knowledge and the rest are not accomplished, the fruit too cannot be accomplished there. And with inherent existence, the accomplishment of these practices is not tenable either.",
+    "ws": [
+      {
+        "s": "फलम्",
+        "h": "फल / परिणाम",
+        "e": "the fruit / result"
+      },
+      {
+        "s": "साधनानाम्",
+        "h": "साधनाओं का (परिज्ञा आदि चार का)",
+        "e": "of the [four] practices"
+      },
+      {
+        "s": "सिद्धिः",
+        "h": "सिद्धि / सफल सम्पन्नता",
+        "e": "accomplishment"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक साधना (26-27) और फल (आगामी 29-30) के बीच की कड़ी है — बिना साधना सिद्ध हुए फल असम्भव, और स्वभाव-सिद्धान्त में साधना स्वयं असम्भव — इसलिए फल दोहरे रूप से असम्भव हो जाता है।<br><em>Eng:</em> This verse is the link between practice (26-27) and fruit (29-30) — without the practices being accomplished, the fruit is impossible, and under the svabhāva doctrine the practices themselves are impossible — so the fruit fails doubly.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह एक तार्किक श्रृंखला है: फल परिज्ञा आदि साधनाओं के फलस्वरूप प्राप्त होता है। यदि साधनाएँ ही सिद्ध न हों (जैसा 26-27 में दिखाया गया), तो फल भी सिद्ध नहीं हो सकता — यह अनिवार्य परिणाम है।",
+        "en": "Candrakīrti says this is a logical chain: the fruit results from the accomplishment of the practices like thorough knowledge. If the practices themselves are not accomplished (as shown in 26-27), the fruit too cannot be accomplished — an inevitable consequence.",
+        "ins": "जब बुनियाद ही न बने, तो उस पर टिकी मंज़िल की बात करना निरर्थक है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक दोहरा प्रहार करता है: एक तो साधनाओं का असिद्ध होना, दूसरा उनकी 'सिद्धि' का स्वयं स्वभाव-सिद्धान्त में असम्भव होना (क्योंकि 'सिद्धि' का अर्थ ही है 'सम्पन्न होना,' जो एक परिवर्तन है, और परिवर्तन स्वभाव में सम्भव नहीं)।",
+        "en": "Buddhapālita says this verse strikes twice: once through the practices' non-accomplishment, and once through the fact that 'accomplishment' itself (meaning 'coming to completion,' a change) is impossible under svabhāva.",
+        "ins": "एक ही ग़लत आधार से दो अलग-अलग दिशाओं से विनाश आता है — यही स्वभाव-सिद्धान्त की गहरी विफलता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अगली दो कड़ियों — फल की अप्राप्ति और अप्राप्ति (29) तथा फल-स्थ व्यक्तियों का अभाव (30) — के लिए मंच तैयार करता है, यह दिखाकर कि फल की पूरी अवधारणा ही स्वभाव-सिद्धान्त में ध्वस्त हो जाती है।",
+        "en": "Bhāviveka says this verse sets the stage for the next two links — the impossibility of attaining or not-attaining the fruit (29) and the absence of persons abiding in the fruit (30) — by showing that the entire concept of a fruit collapses under the svabhāva doctrine.",
+        "ins": "जब आधार गिरता है, तो उस पर टिकी हर अगली संरचना स्वतः ही गिरती चली जाती है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🍎 'फल' और 'साधना' के बीच क्या सम्बन्ध है?",
+        "a": "बौद्ध परम्परा में <strong>'फल' वह परिणाम है जो साधना (परिज्ञा, प्रहाण, भावना, साक्षिकर्म) के पूरा होने पर प्राप्त होता है</strong> — जैसे बीज बोने और सींचने (साधना) के बाद फसल (फल) मिलती है। यदि साधना ही सम्भव न हो (जैसा पिछले श्लोकों में दिखाया गया), तो <strong>फल की बात करना ही अर्थहीन हो जाता है</strong> — फिर स्रोतापत्ति, अर्हत्त्व जैसे फल भी असम्भव हो जाएँगे।"
+      },
+      {
+        "q": "🔗 यह तर्क-शृंखला अब तक कहाँ तक पहुँची है?",
+        "a": "अब तक नागार्जुन ने दिखाया है: <strong>स्वभाव मानने पर दुःख उत्पन्न नहीं हो सकता (21-22), निरोध असम्भव है (23), मार्ग साधा नहीं जा सकता (24), चारों साधनाएँ असम्भव हैं (26-27), और अब फल भी असम्भव है (28)</strong>। अगले दो श्लोकों (29-30) में यह शृंखला फल-प्राप्ति और फल-स्थ व्यक्तियों तक पूरी होगी — ठीक वही डोमिनो-प्रभाव जो विरोधी ने शुरुआत में शून्यता पर आरोपित किया था।"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "sk": "स्वभावेन यदि प्राप्तं फलं तत्प्राप्स्यते कथम् ।\nअप्राप्तस्य च तस्यैव प्राप्तिः केन भविष्यति ॥",
+    "ro": "svabhāvena · yadi · prāptaṃ · phalaṃ · tat · prāpsyate · katham | aprāptasya · ca · tasya · eva · prāptiḥ · kena · bhaviṣyati ||",
+    "hi": "यदि फल स्वभाव से पहले से ही प्राप्त है, तो वह फिर से कैसे प्राप्त होगा? और यदि वह अप्राप्त है, तो उसकी प्राप्ति किस प्रकार होगी?",
+    "en": "If the fruit were already attained by inherent nature, how could it be attained again? And if it were, by nature, unattained, by what means would it come to be attained?",
+    "ws": [
+      {
+        "s": "प्राप्तम्",
+        "h": "प्राप्त / मिला हुआ",
+        "e": "attained"
+      },
+      {
+        "s": "प्राप्स्यते",
+        "h": "प्राप्त होगा",
+        "e": "will be attained"
+      },
+      {
+        "s": "अप्राप्तस्य",
+        "h": "अप्राप्त का",
+        "e": "of the unattained"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक एक द्विशाखी दुविधा (dilemma) प्रस्तुत करता है — 'प्राप्त' या 'अप्राप्त,' दोनों ही विकल्पों में स्वभाव-सिद्धान्त फल-प्राप्ति को असम्भव बना देता है। यह अध्याय 2 (गत्यागत-परीक्षा) की शैली की याद दिलाता है, जहाँ भी इसी प्रकार के द्विशाखी तर्क प्रयुक्त हुए थे।<br><em>Eng:</em> This verse presents a two-horned dilemma — whether the fruit is 'already attained' or 'not yet attained,' either way svabhāva makes actual attainment impossible, echoing the dilemma-style arguments of earlier chapters (e.g., Chapter 2 on motion).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यदि फल स्वभाव से पहले से प्राप्त है, तो 'प्राप्ति' शब्द निरर्थक है — वह तो पहले से ही प्राप्त है! और यदि वह स्वभाव से अप्राप्त है (यानी स्थायी रूप से अप्राप्त होना ही उसका स्वभाव है), तो वह कभी प्राप्त हो ही नहीं सकता — क्योंकि स्वभाव अपरिवर्तनीय होता है।",
+        "en": "Candrakīrti says if the fruit were already attained by inherent nature, the word 'attainment' would be meaningless — it is already attained! And if by nature it is unattained (i.e., permanent non-attainment is its very nature), it could never be attained — since svabhāva is unchanging.",
+        "ins": "दोनों ही रास्ते बन्द गली में जाकर समाप्त होते हैं — यही द्विशाखी दुविधा की शक्ति है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह ठीक वैसा ही तर्क है जैसा अध्याय 2 में गति के विषय में प्रयुक्त हुआ था — 'गत' (जा चुका मार्ग) पर गमन नहीं होता, 'अगत' (अभी न गया मार्ग) पर भी गमन नहीं होता। यहाँ 'प्राप्त' फल पर प्राप्ति नहीं होती, 'अप्राप्त' फल पर भी प्राप्ति नहीं होती — दोनों ही विकल्प असफल हैं।",
+        "en": "Buddhapālita says this is exactly the kind of argument used in Chapter 2 regarding motion — there is no traversing of the 'traversed' path, nor of the 'untraversed' path. Here, there is no attaining of an 'already attained' fruit, nor of a 'never-attained' one — both options fail.",
+        "ins": "जो तर्क-रूप गति की परीक्षा में सफल रहा, वही रूप फल-प्राप्ति की परीक्षा में भी उतना ही प्रभावी है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि 'प्राप्ति' शब्द तभी सार्थक है जब वह किसी परिवर्तनशील, शून्य स्थिति का वर्णन करे — पहले न होना, फिर होना। स्वभाव की स्थिर श्रेणियों (सदा-प्राप्त या सदा-अप्राप्त) में यह गतिशील अर्थ खो जाता है।",
+        "en": "Bhāviveka says this verse shows the word 'attainment' is meaningful only when it describes a mutable, empty condition — not being, then coming to be. Within the fixed categories of svabhāva (always-attained or always-unattained), this dynamic meaning is lost.",
+        "ins": "अर्थपूर्ण भाषा को गतिशील वास्तविकता चाहिए — स्थिर स्वभाव भाषा को ही निगल जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎯 'प्राप्त' और 'अप्राप्त' की यह दुविधा क्या सिखाती है?",
+        "a": "यह ठीक वैसी ही दुविधा है जैसी अध्याय 2 में <strong>गति</strong> के विषय में उठाई गई थी — जो रास्ता पहले ही तय हो चुका, उस पर 'चलना' नहीं होता; जो रास्ता अभी शुरू ही नहीं हुआ, उस पर भी 'चलना' नहीं होता। यहाँ भी वही तर्क है: <strong>फल अगर पहले से 'प्राप्त' है तो प्राप्ति निरर्थक; अगर स्वभाव से 'अप्राप्त' है तो प्राप्ति असम्भव</strong>। दोनों ही स्थितियाँ स्वभाव-सिद्धान्त में गतिहीन हैं।"
+      },
+      {
+        "q": "🌊 तो 'प्राप्ति' सचमुच कैसे सम्भव होती है?",
+        "a": "'प्राप्ति' तभी अर्थपूर्ण है जब कोई चीज़ <strong>पहले न हो, फिर साधना के परिणामस्वरूप उत्पन्न हो जाए</strong> — यह एक <strong>गतिशील, परिवर्तनशील प्रक्रिया</strong> है। यह केवल तभी सम्भव है जब फल <strong>शून्य हो</strong> — यानी स्वभाव से पहले से न सिद्ध, न असिद्ध, बल्कि कारण-प्रत्ययों पर निर्भर होकर बनने वाला। यही कारण है कि साधक वास्तव में प्रगति करते और फल प्राप्त करते देखे जाते हैं।"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "sk": "फलाभावे फलस्था नो न सन्ति प्रतिपन्नकाः ।\nअष्टानां पुद्गलानां च तेनैवाभावसङ्गतिः ॥",
+    "ro": "phala-abhāve · phala-sthā · no · na · santi · pratipannakāḥ | aṣṭānāṃ · pudgalānāṃ · ca · tena · eva · abhāva-saṅgatiḥ ||",
+    "hi": "फल के अभाव में न तो फल में स्थित व्यक्ति होंगे, न मार्ग में लगे साधक। इसी कारण आठों प्रकार के आर्य पुरुषों का भी अभाव सिद्ध होता है।",
+    "en": "Without the fruit, there would be neither those abiding in the fruit nor those who have entered the path. For that very reason, the non-existence of the eight kinds of persons follows as well.",
+    "ws": [
+      {
+        "s": "फलाभावे",
+        "h": "फल के अभाव में",
+        "e": "in the absence of the fruit"
+      },
+      {
+        "s": "प्रतिपन्नकाः",
+        "h": "मार्गारूढ़ साधक",
+        "e": "those who have entered the path"
+      },
+      {
+        "s": "अभावसङ्गतिः",
+        "h": "अभाव का मेल / अभाव की सिद्धि",
+        "e": "the conjunction / consequence of non-existence"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक स्वयं श्लोक 3 का दर्पण-प्रतिबिम्ब है, अब स्वभाव-सिद्धान्त के विरुद्ध लागू किया गया। यह दिखाता है कि विरोधी का मूल आक्षेप (श्लोक 3-4) उसी बल के साथ, या उससे भी अधिक बल के साथ, स्वयं उसके स्वभाव-सिद्धान्त पर लागू होता है।<br><em>Eng:</em> This verse mirrors verse 3, now applied against the svabhāva doctrine — showing the opponent's original objection (verses 3-4) applies with equal or greater force to his own position.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 3 और 4 का सीधा प्रत्युत्तर है। विरोधी ने कहा था कि शून्यता फल-स्थ और मार्गारूढ़ साधकों को असम्भव बना देती है। अब सिद्ध हो चुका है कि यह विनाश स्वभाव-सिद्धान्त से आता है — शून्यता से नहीं, बल्कि उसके अभाव से।",
+        "en": "Candrakīrti says this verse directly answers verses 3-4. The opponent claimed emptiness makes those abiding in the fruit and on the path impossible. It is now established that this destruction comes from the svabhāva doctrine — from the absence of emptiness, not from emptiness itself.",
+        "ins": "वृत्त पूरा हो गया — जो आरोप विरोधी ने शुरुआत में लगाया था, वही अब उसके अपने पक्ष पर सिद्ध हो चुका है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह पूरे तर्क-खण्ड (21-30) का समापन-बिन्दु है। दुःख से लेकर आठ प्रकार के आर्य पुरुषों तक, हर कड़ी को क्रमशः जाँचकर दिखाया गया है कि स्वभाव-सिद्धान्त पूरे बौद्ध पथ को ध्वस्त कर देता है।",
+        "en": "Buddhapālita says this is the concluding point of the entire argumentative section (21-30). From suffering down to the eight kinds of noble persons, each link has been examined in turn, showing that the svabhāva doctrine demolishes the entire Buddhist path.",
+        "ins": "एक लम्बी शृंखला अपने प्रारम्भ-बिन्दु पर वापस लौटती है, पर अब भूमिका पूरी तरह पलट चुकी है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — अब अगला कदम — त्रिरत्न (संघ, धर्म, बुद्ध) की परीक्षा — श्लोक 31-33 में की जाएगी, ठीक वैसे ही जैसे विरोधी ने श्लोक 4-5 में की थी, पर अब निष्कर्ष उलट चुका है।",
+        "en": "Bhāviveka says the next step — examining the three jewels (Saṅgha, Dharma, Buddha) — will occur in verses 31-33, just as the opponent did in verses 4-5, but the conclusion has now reversed.",
+        "ins": "एक ही मार्ग पर दो बार चलना, पर दूसरी बार मंज़िल बिल्कुल भिन्न दिखाई देती है — यही तर्क-कौशल है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🔄 यह श्लोक और श्लोक 3 में क्या समानता है?",
+        "a": "यह श्लोक <strong>बिल्कुल वही संरचना</strong> दोहराता है जो श्लोक 3 में विरोधी ने शून्यता के विरुद्ध प्रयोग की थी — 'फल के अभाव में फल-स्थ और मार्गारूढ़ साधक नहीं होंगे।' पर अब यह संरचना <strong>स्वभाव-सिद्धान्त के विरुद्ध</strong> प्रयुक्त हो रही है — यह दिखाते हुए कि यही विनाश, जिसका डर विरोधी को शून्यता से था, वास्तव में <strong>उसके अपने स्वभाव-सिद्धान्त से उत्पन्न होता है</strong>।"
+      },
+      {
+        "q": "🏁 अब यह तर्क-यात्रा कहाँ पहुँचेगी?",
+        "a": "यह श्लोक <strong>दुःख से आठ आर्य पुरुषों तक</strong> की पूरी शृंखला (21-30) को समाप्त करता है। अगले तीन श्लोकों (31-33) में नागार्जुन <strong>त्रिरत्न — संघ, धर्म, बुद्ध</strong> — तक इसी तर्क को बढ़ाएँगे, ठीक वैसे ही जैसे विरोधी ने प्रारम्भ (श्लोक 4-5) में किया था। यह दिखाएगा कि <strong>त्रिरत्न शून्यता के कारण ही सम्भव है</strong>, उसके अभाव में नहीं।"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "sk": "सत्येष्वेवमसत्स्वेषु साद्धर्मोऽपि न विद्यते ।\nधर्मे चासति संघे च बुद्धः कथं भविष्यति ॥",
+    "ro": "satyeṣu · evam · asatsu · eṣu · sad-dharmo · 'pi · na · vidyate | dharme · ca · asati · saṃghe · ca · buddhaḥ · kathaṃ · bhaviṣyati ||",
+    "hi": "इस प्रकार सत्यों के न होने पर सद्धर्म भी नहीं होगा। और धर्म तथा संघ दोनों के अभाव में बुद्ध कैसे होंगे?",
+    "en": "Thus, when the truths do not exist, true dharma too would not exist. And without dharma and without community, how could there be a Buddha?",
+    "ws": [
+      {
+        "s": "असत्सु",
+        "h": "न होने पर / अविद्यमान होने पर",
+        "e": "when non-existent"
+      },
+      {
+        "s": "साद्धर्मः",
+        "h": "सच्चा धर्म",
+        "e": "true dharma"
+      },
+      {
+        "s": "बुद्धः",
+        "h": "बुद्ध / जागृत व्यक्ति",
+        "e": "the Buddha"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक जानबूझकर श्लोक 4-5 की शब्दावली को लगभग शब्दशः दोहराता है (साद्धर्मः, धर्मे चासति संघे च बुद्धः कथं भविष्यति), केवल आधार बदल गया है — अब यह स्वभाव-सिद्धान्त के परिणामस्वरूप है, शून्यता के नहीं।<br><em>Eng:</em> This verse deliberately echoes the wording of verses 4-5 almost word for word, only the basis has changed — this collapse now follows from the svabhāva doctrine, not from emptiness.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक विरोधी के अपने शब्दों को उसी पर वापस लौटा देता है। श्लोक 4-5 में उसने कहा था कि शून्यता सद्धर्म, संघ और बुद्ध को नष्ट करती है। अब वही शब्द दिखाते हैं कि यह विनाश स्वभाव-सिद्धान्त से, यानी शून्यता के अभाव से, आता है।",
+        "en": "Candrakīrti says this verse returns the opponent's own words back to him. In verses 4-5 he said emptiness destroys true dharma, Saṅgha, and Buddha. Now the same words show this destruction comes from the svabhāva doctrine — from the absence of emptiness.",
+        "ins": "अपने ही शब्दों में अपना उत्तर सुनना विरोधी के लिए सबसे प्रभावशाली सबक़ होता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह त्रिरत्न पर आक्रमण का दूसरा दौर है, अब उलटी दिशा में। धर्म और संघ दोनों आर्यसत्यों पर निर्भर हैं; यदि आर्यसत्य स्वभाव-सिद्धान्त में असम्भव हों (जैसा 21-25 में दिखाया गया), तो धर्म और संघ भी असम्भव, और उनके बिना बुद्ध भी असम्भव।",
+        "en": "Buddhapālita says this is the second round of the attack on the three jewels, now in reverse direction. Both dharma and Saṅgha depend on the noble truths; if the noble truths are impossible under svabhāva (as shown in 21-25), then dharma and Saṅgha are impossible, and without them, Buddha too is impossible.",
+        "ins": "एक ही डोमिनो-शृंखला, दो बार चली गई — पहली बार शून्यता के विरुद्ध (झूठा आरोप), दूसरी बार स्वभाव के विरुद्ध (सच्चा निष्कर्ष)।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अगले दो श्लोकों (32-33) के लिए मंच तैयार करता है, जहाँ बुद्ध और बोधि के विशिष्ट सम्बन्ध की और गहराई से जाँच होगी।",
+        "en": "Bhāviveka says this verse sets the stage for the next two verses (32-33), which will examine the specific relationship between the Buddha and enlightenment (bodhi) in greater depth.",
+        "ins": "एक सामान्य निष्कर्ष के बाद विशिष्ट विवरण में उतरना — यही व्यवस्थित तर्क-प्रस्तुति की शैली है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "♻️ यह श्लोक शब्दशः श्लोक 4-5 जैसा क्यों है?",
+        "a": "नागार्जुन जानबूझकर <strong>वही शब्द दोहराते हैं</strong> जो विरोधी ने प्रारम्भ में प्रयोग किए थे, ताकि यह स्पष्ट हो जाए कि <strong>यह वही विनाश है जिसका डर विरोधी को था</strong> — पर अब यह शून्यता से नहीं, बल्कि उसके विपरीत, <strong>स्वभाव-सिद्धान्त से</strong> उत्पन्न हो रहा है। यह आलंकारिक पुनरावृत्ति तर्क को अत्यन्त स्मरणीय और अकाट्य बना देती है।"
+      },
+      {
+        "q": "💎 त्रिरत्न को सुरक्षित रखने के लिए वास्तव में क्या चाहिए?",
+        "a": "इस पूरे अध्याय का निष्कर्ष यही है — <strong>त्रिरत्न (बुद्ध, धर्म, संघ) को सुरक्षित रखने के लिए शून्यता ज़रूरी है, स्वभाव नहीं</strong>। यदि बुद्ध, धर्म, संघ स्वभाव से ठोस-स्थिर होते, तो वे कभी उत्पन्न ही न होते, कभी कार्य ही न कर पाते। यह <strong>केवल इसलिए सम्भव है कि वे शून्य हैं</strong> — परस्पर-निर्भर होकर, कारणों से उत्पन्न होकर, विद्यमान हैं।"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "sk": "बोधिं विनापि ते बुद्धः प्रसज्येत तवानघ ।\nबुद्धं विनापि ते बोधिः प्रसज्येत तथैव च ॥",
+    "ro": "bodhiṃ · vinā · api · te · buddhaḥ · prasajyeta · tava · anagha | buddhaṃ · vinā · api · te · bodhiḥ · prasajyeta · tathā · eva · ca ||",
+    "hi": "हे निर्दोष! तुम्हारे मत में तो बिना बोधि के भी बुद्ध सिद्ध हो जाएँगे, और इसी प्रकार बिना बुद्ध के भी बोधि सिद्ध हो जाएगी।",
+    "en": "O faultless one, on your view a Buddha would follow even without enlightenment, and likewise enlightenment would follow even without a Buddha.",
+    "ws": [
+      {
+        "s": "बोधिम्",
+        "h": "बोधि / जागृति",
+        "e": "enlightenment / awakening"
+      },
+      {
+        "s": "विना",
+        "h": "बिना",
+        "e": "without"
+      },
+      {
+        "s": "अनघ",
+        "h": "हे निर्दोष! (व्यंग्यात्मक सम्बोधन)",
+        "e": "O faultless one (ironic vocative)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अनघ</em> सम्बोधन विभक्ति — यहाँ हल्के व्यंग्य के साथ प्रयुक्त, जैसे कहा जा रहा हो 'हे तुम जो कोई दोष नहीं देखते!' यह श्लोक बुद्ध और बोधि के बीच के स्वाभाविक, परस्पर-निर्भर सम्बन्ध को स्वभाव-सिद्धान्त में तोड़ता हुआ दिखाता है।<br><em>Eng:</em> The vocative <em>anagha</em> ('O faultless one') carries a gentle irony. This verse shows how svabhāva severs the natural, mutually-dependent relationship between the Buddha and enlightenment.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — बुद्ध और बोधि परस्पर-निर्भर हैं — कोई 'बुद्ध' तभी कहलाता है जब उसे बोधि प्राप्त हो, और 'बोधि' का अर्थ ही है 'बुद्ध होने की अवस्था।' यदि दोनों स्वभाव से स्वतन्त्र, अलग-अलग सिद्ध हों (जैसा स्वभाव-सिद्धान्त माँगता है), तो एक के बिना दूसरा भी सिद्ध हो सकता है — जो हास्यास्पद है।",
+        "en": "Candrakīrti says the Buddha and enlightenment are mutually dependent — one is called 'Buddha' only upon attaining enlightenment, and 'enlightenment' means precisely 'the state of being awakened.' If both were independently established by svabhāva, one could exist without the other — which is absurd.",
+        "ins": "'बुद्ध' और 'बोधि' एक-दूसरे की परिभाषा में बुने हुए हैं — इन्हें अलग करना दोनों को ही अर्थहीन बना देता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह वही तर्क है जो अध्याय 6 में राग और अनुरागी (रक्त) पर लागू हुआ था — दो परस्पर-निर्भर पद, यदि स्वतन्त्र-स्वभाव-सिद्ध मान लिए जाएँ, तो एक-दूसरे के बिना भी सिद्ध हो सकते हैं, जो उनकी परिभाषा को ही तोड़ देता है।",
+        "en": "Buddhapālita says this is the same argument applied in Chapter 6 to desire and the desirous one — two mutually dependent terms, if taken as independently established by svabhāva, could each exist without the other, which breaks their very definition.",
+        "ins": "परस्पर-निर्भर जोड़े को स्वतन्त्र मान लेना, उस जोड़े की पहचान को ही मिटा देता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि बुद्धत्व की अवधारणा केवल तभी सार्थक है जब वह प्रतीत्यसमुत्पन्न मानी जाए — बुद्ध और बोधि परस्पर-आश्रित होकर ही अर्थ पाते हैं, स्वतन्त्र, ठोस स्वभाव से नहीं।",
+        "en": "Bhāviveka says this verse shows the concept of Buddhahood is meaningful only when understood as dependently originated — the Buddha and enlightenment gain meaning only in mutual dependence, not through independent, fixed inherent nature.",
+        "ins": "पहचान सम्बन्ध से बनती है, अलगाव से नहीं — यही यहाँ प्रदर्शित होता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "😅 'हे निर्दोष!' कहकर नागार्जुन क्या व्यंग्य कर रहे हैं?",
+        "a": "यह एक <strong>सूक्ष्म, विनम्र व्यंग्य</strong> है — मानो कह रहे हों 'तुम तो हर तरह से निर्दोष हो, फिर भी देखो तुम्हारे सिद्धान्त से कैसा हास्यास्पद परिणाम निकलता है!' यह शैली विरोधी को <strong>बिना कठोर हुए भी उसकी भूल का एहसास</strong> कराती है — मध्यमक ग्रन्थों की एक पहचान यही सौम्य पर तीक्ष्ण तर्क-शैली है।"
+      },
+      {
+        "q": "🔗 बुद्ध और बोधि का सम्बन्ध किसी और उदाहरण से समझाइए।",
+        "a": "यह वैसा ही है जैसे <strong>'शिक्षक' और 'शिक्षा देना'</strong> — कोई 'शिक्षक' तभी कहलाता है जब वह शिक्षा देता हो; और 'शिक्षा देना' तभी अर्थपूर्ण है जब कोई शिक्षक हो। दोनों <strong>एक-दूसरे के बिना अर्थहीन</strong> हैं। ठीक इसी तरह, <strong>'बुद्ध' और 'बोधि' परस्पर-निर्भर होकर ही अस्तित्व में आते हैं</strong> — यह उनकी 'शून्यता' ही है जो उन्हें एक साथ, सार्थक रूप से सम्भव बनाती है।"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "sk": "स्वभावेनैव बुद्धत्वमप्राप्तः सन्नरः पुनः ।\nबोधिचर्यां समाचर्यापि बोधिं नैव विन्दति ॥",
+    "ro": "svabhāvena · eva · buddhatvam · aprāptaḥ · san · naraḥ · punaḥ | bodhi-caryāṃ · samācarya · api · bodhiṃ · na · eva · vindati ||",
+    "hi": "जो व्यक्ति स्वभाव से ही बुद्धत्व को अप्राप्त है, वह बोधिसत्त्व-आचरण का पालन करके भी बोधि को प्राप्त नहीं कर सकेगा।",
+    "en": "A person who, by inherent nature, has not attained buddhahood, would not attain enlightenment even by carrying out the bodhisattva's conduct.",
+    "ws": [
+      {
+        "s": "बुद्धत्वम्",
+        "h": "बुद्धत्व / बुद्ध होने की अवस्था",
+        "e": "buddhahood"
+      },
+      {
+        "s": "बोधिचर्याम्",
+        "h": "बोधि के लिए किया जाने वाला आचरण",
+        "e": "the conduct [leading] to enlightenment"
+      },
+      {
+        "s": "विन्दति",
+        "h": "प्राप्त करता है / पाता है",
+        "e": "attains / finds"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>विन्दति</em> = √विद् (पाना), लट्, तृतीय पुरुष — 'प्राप्त करता है।' यह श्लोक व्यावहारिक निहितार्थ को उजागर करता है — यदि बुद्धत्व-अप्राप्ति स्वभाव-सिद्ध हो (यानी स्थायी, अपरिवर्तनीय स्थिति हो), तो बोधिसत्त्व-मार्ग पर वर्षों का अभ्यास भी व्यर्थ हो जाएगा।<br><em>Eng:</em> This verse draws out the practical implication: if not-yet-attaining-buddhahood were fixed by inherent nature, then even years of bodhisattva practice would be futile — since fixed nature admits no change.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक स्वभाव-सिद्धान्त के सबसे निराशाजनक परिणाम को उजागर करता है। यदि कोई व्यक्ति स्वभाव से 'अबुद्ध' है, तो यह स्थिति उसके लिए सदा के लिए तय है — कोई भी साधना, कोई भी बोधिसत्त्व-चर्या (दान, शील, क्षान्ति आदि छह पारमिताएँ) उसे बुद्धत्व तक नहीं पहुँचा सकती।",
+        "en": "Candrakīrti says this verse exposes the most disheartening consequence of the svabhāva doctrine. If a person is 'unenlightened' by inherent nature, this condition is fixed for him forever — no practice, no bodhisattva conduct (the six perfections — generosity, ethics, patience, etc.) could ever bring him to buddhahood.",
+        "ins": "जो स्वभाव से बन्द दरवाज़ा है, उसे कितना भी धक्का दो, वह खुलेगा नहीं — यही स्वभाव-सिद्धान्त की क्रूरता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह तर्क बोधिसत्त्व-मार्ग की पूरी परियोजना को निरर्थक बना देता है। छह पारमिताओं का दीर्घकालीन अभ्यास इसी विश्वास पर टिका है कि साधक धीरे-धीरे बुद्धत्व की ओर बढ़ता है — यह प्रगति केवल तभी सम्भव है जब बुद्धत्व-अप्राप्ति स्वभाव-सिद्ध न हो, बल्कि शून्य, परिवर्तनशील हो।",
+        "en": "Buddhapālita says this argument renders the entire bodhisattva path meaningless. The long practice of the six perfections rests on the belief that a practitioner gradually progresses toward buddhahood — such progress is possible only if not-yet-attaining-buddhahood is not fixed by svabhāva but is empty and mutable.",
+        "ins": "प्रगति और स्वभाव एक साथ नहीं टिक सकते — प्रगति के लिए परिवर्तन चाहिए, और परिवर्तन के लिए शून्यता।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक बताता है कि महायान बोधिसत्त्व-आदर्श भी शून्यता पर ही टिका है। यदि सभी प्राणी स्वभाव से बद्ध हों — कुछ स्थायी रूप से 'बुद्ध-योग्य,' कुछ स्थायी रूप से 'अयोग्य' — तो करुणा और प्रयास दोनों निरर्थक हो जाएँगे। शून्यता ही सबके लिए बुद्धत्व का द्वार खुला रखती है।",
+        "en": "Bhāviveka says this verse shows even the Mahāyāna bodhisattva ideal rests on emptiness. If all beings were fixed by svabhāva — some permanently 'capable' of buddhahood, others permanently 'incapable' — both compassion and effort would become pointless. Emptiness alone keeps the door to buddhahood open for everyone.",
+        "ins": "यदि द्वार स्वभाव से बन्द है, तो कोई भी कुंजी उसे नहीं खोल सकती — पर शून्यता में हर द्वार खुलने योग्य है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🚪 अगर बुद्धत्व-अप्राप्ति 'स्वभाव' हो, तो साधना का क्या होगा?",
+        "a": "यदि किसी व्यक्ति का <strong>'अबुद्ध होना' उसका स्थायी, अपरिवर्तनीय स्वभाव हो</strong>, तो वर्षों तक ध्यान, दान, नैतिक आचरण करने पर भी वह <strong>कभी बुद्ध नहीं बन सकेगा</strong> — क्योंकि स्वभाव कभी बदलता नहीं। यह ठीक वैसा ही है जैसे कोई कहे 'पत्थर का स्वभाव है कठोर होना,' तो कितना भी पानी डालो, वह कभी नरम नहीं होगा। साधना का पूरा अर्थ ही तभी है जब <strong>परिवर्तन सम्भव हो</strong>।"
+      },
+      {
+        "q": "🌱 शून्यता कैसे यह आशा वापस लाती है?",
+        "a": "चूँकि <strong>'अबुद्ध होना' कोई स्थायी स्वभाव नहीं, बल्कि एक शून्य, परिस्थिति-सापेक्ष अवस्था है</strong>, इसलिए यह <strong>कारणों (साधना, अभ्यास, करुणा) के संयोग से बदल सकती है</strong>। यही कारण है कि बौद्ध परम्परा में हर प्राणी को <strong>'बुद्ध-सम्भावना' (तथागतगर्भ जैसी अवधारणाओं में)</strong> सम्पन्न माना गया है — शून्यता ही इस सम्भावना का आधार है।"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "sk": "न च धर्ममधर्मं वा कश्चिदेव करिष्यति ।\nअशून्यस्य किमु कार्यं स्वभावः क्रियते नहि ॥",
+    "ro": "na · ca · dharmam · adharmaṃ · vā · kaścid · eva · kariṣyati | aśūnyasya · kim · u · kāryaṃ · svabhāvaḥ · kriyate · na · hi ||",
+    "hi": "और तब कोई भी न धर्म करेगा, न अधर्म। अशून्य के लिए कोई कार्य ही क्या हो सकता है? स्वभाव कभी क्रिया नहीं करता।",
+    "en": "And then no one at all would perform either merit or demerit. What action could there be for what is non-empty? Inherent nature never acts.",
+    "ws": [
+      {
+        "s": "धर्मम्",
+        "h": "पुण्य कर्म / नैतिक आचरण",
+        "e": "meritorious action"
+      },
+      {
+        "s": "अधर्मम्",
+        "h": "पाप कर्म / अनैतिक आचरण",
+        "e": "demeritorious action"
+      },
+      {
+        "s": "अशून्यस्य",
+        "h": "अशून्य का / स्वभाव-सिद्ध वस्तु का",
+        "e": "of what is non-empty"
+      },
+      {
+        "s": "क्रियते",
+        "h": "किया जाता है",
+        "e": "is done / is acted upon"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>न हि</em> — प्रबल निषेध, 'निश्चय ही नहीं।' यह श्लोक नैतिक कर्म (धर्म-अधर्म) की ओर मुड़ता है, जो विरोधी की मूल आपत्ति (श्लोक 6) का सीधा उत्तर है। तर्क का आधार वही है — 'क्रिया' का अर्थ है परिवर्तन, और स्वभाव परिवर्तन-रहित होता है।<br><em>Eng:</em> This verse turns to moral action (merit and demerit), directly answering the opponent's original objection in verse 6. The underlying logic remains: 'action' implies change, and svabhāva by definition admits no change.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — 'क्रिया करना' का अर्थ है किसी स्थिति से किसी अन्य स्थिति में जाना — जैसे अनैतिक से नैतिक व्यवहार की ओर। यदि व्यक्ति स्वभाव से पहले से निश्चित है (या तो सदा-धार्मिक या सदा-अधार्मिक), तो 'कर्म करना' शब्द ही अर्थहीन हो जाता है — वह पहले से जो है, वही रहेगा, कोई कर्म उसे बदल नहीं सकता।",
+        "en": "Candrakīrti says 'performing an action' means moving from one state to another — say, from unethical to ethical conduct. If a person is fixed by nature (either permanently virtuous or permanently non-virtuous), the very word 'performing an action' becomes meaningless — whatever one already is, one remains, and no action can change it.",
+        "ins": "नैतिकता की पूरी अवधारणा 'बदलने की क्षमता' पर टिकी है — स्वभाव इसी क्षमता को छीन लेता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक श्लोक 6 के आक्षेप का सटीक उत्तर है, जहाँ विरोधी ने कहा था कि शून्यता धर्म-अधर्म को नष्ट कर देती है। अब स्पष्ट हो गया है कि 'स्वभाव' ही नैतिक कर्म को निरर्थक बनाता है, क्योंकि स्वभाव-सिद्ध चीज़ें अपरिवर्तनीय होती हैं और क्रिया परिवर्तन माँगती है।",
+        "en": "Buddhapālita says this verse precisely answers the objection of verse 6, where the opponent claimed emptiness destroys merit and demerit. It is now clear that 'svabhāva' is what renders moral action meaningless, since svabhāva-established things are unchanging while action demands change.",
+        "ins": "जो अपरिवर्तनीय है, वह न अच्छा बन सकता है न बुरा — नैतिकता के लिए यह सबसे बड़ा संकट है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि नैतिक जीवन — अच्छे-बुरे कर्मों के बीच चुनाव — केवल तभी अर्थपूर्ण है जब व्यक्ति शून्य हो, अर्थात् किसी स्थिर, पूर्व-निर्धारित स्वभाव से बद्ध न हो। यही कारण है कि बौद्ध नैतिकता (शील) शून्यता के साथ पूर्णतः संगत है, विरोधाभासी नहीं।",
+        "en": "Bhāviveka says this verse shows moral life — the choice between good and bad actions — is meaningful only if a person is empty, that is, not bound by any fixed, predetermined nature. This is why Buddhist ethics (śīla) is entirely consistent with emptiness, not contradictory to it.",
+        "ins": "नैतिक चुनाव की स्वतन्त्रता ही शून्यता की सबसे व्यावहारिक देन है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "⚖️ अगर व्यक्ति 'स्वभाव से' अच्छा या बुरा हो, तो नैतिकता का क्या होगा?",
+        "a": "यदि कोई व्यक्ति <strong>स्वभाव से स्थायी रूप से 'बुरा'</strong> हो, तो वह कभी सुधर नहीं सकता, चाहे कितनी भी शिक्षा या प्रयास हो — क्योंकि स्वभाव अपरिवर्तनीय है। और यदि कोई <strong>स्वभाव से स्थायी रूप से 'अच्छा'</strong> हो, तो उसके अच्छे कर्मों का कोई श्रेय ही नहीं — वह तो पहले से वैसा ही था। <strong>नैतिक विकल्प, प्रयास और सुधार — इन सबका अर्थ ही तभी है जब व्यक्ति शून्य हो</strong>, यानी बदलने में सक्षम हो।"
+      },
+      {
+        "q": "🌤️ इसका मतलब है कि कोई भी व्यक्ति स्थायी रूप से 'बुरा' नहीं है?",
+        "a": "बिल्कुल यही मध्यमक दर्शन की सबसे आशावादी शिक्षा है। चूँकि <strong>कोई भी व्यक्ति किसी स्थायी, अपरिवर्तनीय 'बुरे स्वभाव' से बँधा नहीं है</strong>, इसलिए <strong>हर कोई परिवर्तन और सुधार में सक्षम है</strong> — सही शिक्षा, सही संगति और सही प्रयास से। यह शून्यता का सबसे व्यावहारिक और मानवीय पक्ष है।"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "sk": "फलं च धर्माधर्माभ्यां विना ते स्यात्तवानघ ।\nधर्माधर्मनिमित्तं च फलं ते नैव विद्यते ॥",
+    "ro": "phalaṃ · ca · dharma-adharmābhyāṃ · vinā · te · syāt · tava · anagha | dharma-adharma-nimittaṃ · ca · phalaṃ · te · na · eva · vidyate ||",
+    "hi": "हे निर्दोष! तुम्हारे मत में फल धर्म और अधर्म के बिना भी होगा। और धर्म तथा अधर्म से उत्पन्न होने वाला फल तुम्हारे यहाँ सिद्ध ही नहीं होगा।",
+    "en": "O faultless one, on your view the fruit would exist even without merit and demerit. And the fruit that arises specifically from merit and demerit would, for you, not exist at all.",
+    "ws": [
+      {
+        "s": "धर्माधर्माभ्याम्",
+        "h": "पुण्य और पाप दोनों से",
+        "e": "from merit and demerit"
+      },
+      {
+        "s": "निमित्तम्",
+        "h": "निमित्त / कारण-आधार",
+        "e": "caused by / on account of"
+      },
+      {
+        "s": "अनघ",
+        "h": "हे निर्दोष! (सम्बोधन)",
+        "e": "O faultless one (vocative)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक स्वभाव-सिद्धान्त के एक और विरोधाभासी परिणाम को उजागर करता है — यदि फल स्वभाव से पहले से सिद्ध है, तो वह धर्म-अधर्म के बिना भी विद्यमान रहेगा; और यदि फल वास्तव में धर्म-अधर्म से उत्पन्न माना जाए, तो वह स्वभाव-सिद्ध नहीं हो सकता। दोनों तरफ से स्वभाव-सिद्धान्त फँस जाता है।<br><em>Eng:</em> This verse exposes another paradox of the svabhāva doctrine — if the fruit is already fixed by nature, it exists regardless of merit or demerit; but if the fruit is genuinely caused by merit and demerit, it cannot be fixed by nature. The doctrine is trapped either way.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अगले श्लोक (36) के साथ एक जोड़ी बनाता है, जो कर्म-फल सिद्धान्त की जाँच करती है। यदि फल स्वभाव से सिद्ध हो, तो कर्म (धर्म-अधर्म) का उसमें कोई योगदान नहीं रहता — जो कर्म-फल के पूरे सिद्धान्त को ही निरर्थक बना देता है।",
+        "en": "Candrakīrti says this pairs with the next verse (36) to examine the doctrine of karma and its fruit. If the fruit is fixed by nature, karma (merit and demerit) contributes nothing to it — which renders the entire doctrine of karmic fruition meaningless.",
+        "ins": "यदि परिणाम पहले से तय हो, तो कर्म करने का कोई अर्थ ही नहीं बचता — यही कर्म-सिद्धान्त की जड़ है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — बौद्ध धर्म में कर्म-फल का सिद्धान्त केन्द्रीय है — अच्छे कर्मों से सुख का फल, बुरे कर्मों से दुःख का फल। यदि फल स्वभाव से स्वतन्त्र रूप से सिद्ध हो, तो यह पूरा नैतिक कारण-कार्य सम्बन्ध टूट जाता है।",
+        "en": "Buddhapālita says the doctrine of karma and its fruit is central to Buddhism — good actions yielding pleasant fruit, bad actions yielding painful fruit. If the fruit is independently fixed by svabhāva, this entire moral causal relationship breaks down.",
+        "ins": "कर्म और फल के बीच का सम्बन्ध ही नैतिक जीवन की रीढ़ है — स्वभाव इसे काटकर अलग कर देता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक दिखाता है कि 'फल' शब्द अपने आप में सम्बन्ध-सूचक है — यह हमेशा किसी 'कारण' (यहाँ धर्म-अधर्म) के फल के रूप में समझा जाता है। स्वभाव की स्वतन्त्रता इस सम्बन्ध-सूचकता को ही मिटा देती है।",
+        "en": "Bhāviveka says this verse shows the word 'fruit' is inherently relational — it is always understood as the fruit of some 'cause' (here, merit and demerit). The independence of svabhāva erases this very relational quality.",
+        "ins": "जो शब्द सम्बन्ध पर टिका हो, उसे स्वतन्त्र, असम्बद्ध बना देना उसके अर्थ को ही नष्ट कर देता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌾 'फल' और 'कर्म' के बीच का सम्बन्ध क्यों टूट जाता है?",
+        "a": "'फल' शब्द का अर्थ ही है <strong>'किसी कर्म का परिणाम'</strong> — जैसे बीज बोने से फसल। यदि फल <strong>स्वभाव से पहले से स्वतन्त्र रूप से सिद्ध हो</strong>, तो वह कर्म (धर्म-अधर्म) पर निर्भर नहीं रहेगा — मानो <strong>बिना बीज बोए भी फसल मिल जाए</strong>। और यदि फल सचमुच कर्म से उत्पन्न होता है (जैसा हम अनुभव करते हैं), तो वह <strong>स्वभाव-सिद्ध नहीं हो सकता</strong> — क्योंकि जो कारण से उत्पन्न हो, वह स्वतन्त्र-स्वभाव-सिद्ध नहीं होता।"
+      },
+      {
+        "q": "🎁 इसका जीवन में क्या व्यावहारिक अर्थ है?",
+        "a": "यह कर्म-सिद्धान्त की <strong>पूरी नैतिक शक्ति</strong> को बचाता है — <strong>आपके कर्म वास्तव में मायने रखते हैं</strong> क्योंकि फल किसी स्वतन्त्र, पूर्व-निर्धारित स्वभाव से नहीं, बल्कि <strong>वास्तविक कारण-कार्य सम्बन्ध</strong> से आता है। यही कारण है कि अच्छे कर्म वास्तव में अच्छे परिणाम लाते हैं — क्योंकि सब कुछ शून्य है, यानी परस्पर-निर्भर और परिवर्तनशील है।"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "sk": "धर्माधर्मनिमित्तं वा फलं यद्यनुमन्यसे ।\nउत्पन्नं धर्मयाधर्माभ्यां शून्यं कथं भवेत् ॥",
+    "ro": "dharma-adharma-nimittaṃ · vā · phalaṃ · yady · anumanyase | utpannaṃ · dharma-adharmābhyāṃ · śūnyaṃ · kathaṃ · bhavet ||",
+    "hi": "यदि तुम मानते हो कि फल धर्म और अधर्म के निमित्त से उत्पन्न होता है, तो जो धर्म-अधर्म से उत्पन्न है, वह अशून्य कैसे होगा?",
+    "en": "But if you do accept that the fruit arises on account of merit and demerit, then how could that which arose from merit and demerit fail to be empty?",
+    "ws": [
+      {
+        "s": "अनुमन्यसे",
+        "h": "स्वीकार करते हो / मान लेते हो",
+        "e": "you accept / you concede"
+      },
+      {
+        "s": "उत्पन्नम्",
+        "h": "उत्पन्न / जो पैदा हुआ",
+        "e": "that which arose"
+      },
+      {
+        "s": "शून्यम्",
+        "h": "शून्य",
+        "e": "empty"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> <em>अनुमन्यसे</em> = अनु + √मन्, आत्मनेपद मध्यम पुरुष — 'तुम स्वीकार करते हो / मान लेते हो।' यह श्लोक विरोधी को दूसरे सींग पर पकड़ता है — यदि वह कर्म-फल सम्बन्ध को स्वीकार करता है (जैसा हर बौद्ध करता है), तो उसे यह भी स्वीकार करना होगा कि फल शून्य है, क्योंकि जो किसी कारण से उत्पन्न हो, वह प्रतीत्यसमुत्पन्न और इसलिए शून्य है (श्लोक 18-19 का सीधा प्रयोग)।<br><em>Eng:</em> This verse catches the opponent on the other horn of the dilemma — if he accepts the karma-fruit relationship (as every Buddhist does), he must also accept that the fruit is empty, since whatever arises from a cause is dependently originated and therefore empty (a direct application of verses 18-19).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक 35 का पूरक है, जो पूरी दुविधा को बन्द कर देता है। विरोधी के पास दो ही विकल्प हैं — या तो फल कर्म-निरपेक्ष है (जो अनुभव के विरुद्ध है), या फल कर्म से उत्पन्न है (और तब वह शून्य होना ही चाहिए, क्योंकि प्रतीत्यसमुत्पन्न=शून्य, श्लोक 19)।",
+        "en": "Candrakīrti says this verse complements verse 35, closing the whole dilemma. The opponent has only two options — either the fruit is independent of karma (contrary to experience), or the fruit arises from karma (in which case it must be empty, since dependently-originated=empty, verse 19).",
+        "ins": "जो भी रास्ता विरोधी चुने, वह अन्ततः शून्यता को स्वीकार करने पर ही पहुँचता है — यही इस दुविधा की सुन्दरता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक स्पष्ट करता है कि विरोधी स्वयं ही कर्म-फल सम्बन्ध को मानता है (क्योंकि वह बौद्ध है) — और यह स्वीकृति ही उसे शून्यता स्वीकार करने पर विवश कर देती है, चाहे वह चाहे या न चाहे।",
+        "en": "Buddhapālita says this verse makes clear that the opponent himself accepts the karma-fruit relationship (being a Buddhist) — and this very acceptance forces him to accept emptiness, whether he wishes to or not.",
+        "ins": "विरोधी अपनी ही स्वीकृति के जाल में फँस जाता है — यह मध्यमक तर्क-शैली की चरम कुशलता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक श्लोक 18-19 के सिद्धान्त ('जो प्रतीत्यसमुत्पन्न है, वह शून्य है') का प्रत्यक्ष प्रयोग है, जो दिखाता है कि यह सिद्धान्त केवल अमूर्त दर्शन नहीं, बल्कि कर्म-फल जैसी अत्यन्त व्यावहारिक अवधारणा पर भी उतनी ही दृढ़ता से लागू होता है।",
+        "en": "Bhāviveka says this verse is a direct application of the principle from verses 18-19 ('whatever is dependently originated is empty'), showing this principle is not mere abstract philosophy but applies just as firmly to a thoroughly practical concept like karmic fruition.",
+        "ins": "सबसे गहरा सिद्धान्त वही है जो सबसे साधारण, व्यावहारिक तथ्य पर भी ठीक-ठीक लागू हो।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🪤 यह श्लोक विरोधी को कैसे 'फँसा' देता है?",
+        "a": "श्लोक 35-36 मिलकर एक <strong>बन्द दुविधा (closed dilemma)</strong> रचते हैं। विरोधी को चुनना होगा: <strong>(1) फल कर्म पर निर्भर नहीं</strong> — पर यह हर बौद्ध के अनुभव और शिक्षा के विरुद्ध है। या <strong>(2) फल कर्म पर निर्भर है</strong> — पर तब, चूँकि जो किसी कारण पर निर्भर होकर उत्पन्न हो वह <strong>शून्य ही कहलाता है</strong> (श्लोक 19), विरोधी को स्वयं शून्यता स्वीकार करनी पड़ेगी। कोई भी रास्ता चुने, वह शून्यता की ओर ही पहुँचता है।"
+      },
+      {
+        "q": "🌟 यह श्लोक अध्याय के मुख्य सन्देश को कैसे पुष्ट करता है?",
+        "a": "यह ठीक वही सन्देश दोहराता है जो श्लोक 13-14, 18-19 में कहा गया था — <strong>'जो कारणों से उत्पन्न होता है, वही शून्य है, और शून्य होना ही उसे कार्यशील बनाता है'</strong>। कर्म-फल का सिद्धान्त — जिसे विरोधी बचाना चाहता है — <strong>वास्तव में शून्यता के कारण ही सम्भव है</strong>, स्वभाव के कारण नहीं। यह विरोधी की मूल आपत्ति (श्लोक 6) का अन्तिम, निर्णायक उत्तर है।"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "sk": "यः प्रतीत्यसमुत्पादं शून्यतां तां च बाधसे ।\nसर्वं तेन इदं लोके व्यवहारं विरुध्यते ॥",
+    "ro": "yaḥ · pratītya-samutpādaṃ · śūnyatāṃ · tāṃ · ca · bādhase | sarvaṃ · tena · idaṃ · loke · vyavahāraṃ · virudhyate ||",
+    "hi": "जो इस प्रतीत्यसमुत्पाद अर्थात् शून्यता का ही खण्डन करता है, वह इस संसार के समस्त व्यवहार का ही खण्डन कर बैठता है।",
+    "en": "Whoever refutes this dependent origination — that is, this emptiness — thereby contradicts the whole of worldly convention.",
+    "ws": [
+      {
+        "s": "बाधसे",
+        "h": "खण्डन करते हो / नकारते हो",
+        "e": "you deny / you refute"
+      },
+      {
+        "s": "लोके",
+        "h": "संसार में / लोक में",
+        "e": "in the world"
+      },
+      {
+        "s": "विरुध्यते",
+        "h": "विरोध में आ जाता है / खण्डित हो जाता है",
+        "e": "is contradicted"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक अध्याय की अन्तिम तर्क-कड़ी है — यह श्लोक 18 (प्रतीत्यसमुत्पाद = शून्यता) को याद दिलाते हुए दिखाता है कि इन दोनों का खण्डन करना पूरे लौकिक व्यवहार को ही तोड़ देता है, ठीक वही आरोप जो विरोधी ने प्रारम्भ (श्लोक 6) में शून्यता पर लगाया था।<br><em>Eng:</em> This verse, recalling verse 18 (dependent origination = emptiness), shows that refuting either one destroys all worldly convention — precisely the charge the opponent originally leveled against emptiness (verse 6).",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अध्याय के अन्तिम भाग (37-39) का प्रारम्भ है, जो सामान्य निष्कर्ष निकालता है। प्रतीत्यसमुत्पाद और शून्यता एक ही हैं (श्लोक 18); इसलिए जो शून्यता को नकारता है, वह प्रतीत्यसमुत्पाद को भी नकारता है — और चूँकि सम्पूर्ण लौकिक व्यवहार (भाषा, क्रय-विक्रय, कारण-कार्य) प्रतीत्यसमुत्पाद पर ही टिका है, इसे नकारना पूरे संसार को नकारना है।",
+        "en": "Candrakīrti says this begins the final section (37-39), drawing a general conclusion. Dependent origination and emptiness are identical (verse 18); so whoever denies emptiness denies dependent origination too — and since all worldly convention (language, trade, causation) rests on dependent origination, denying it means denying the entire world.",
+        "ins": "जो जड़ को उखाड़ता है, वह पूरे वृक्ष — फल, फूल, पत्ते सब — को गिरा देता है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक अन्तिम रूप से विरोधी के मूल भय (श्लोक 6 — 'शून्यता लौकिक व्यवहार को नष्ट करती है') को उलट देता है — यह स्वभाव-सिद्धान्त (शून्यता का खण्डन) है जो वास्तव में लौकिक व्यवहार को नष्ट करता है, शून्यता नहीं।",
+        "en": "Buddhapālita says this verse finally inverts the opponent's original fear (verse 6 — 'emptiness destroys worldly convention') — it is the svabhāva doctrine (denial of emptiness) that actually destroys worldly convention, not emptiness itself.",
+        "ins": "अध्याय का वृत्त यहाँ पूर्ण होता है — जो आरोप शुरुआत में लगा, वही अन्त में उलट दिया गया।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक शून्यता को लौकिक जीवन का शत्रु नहीं, बल्कि उसकी आधारशिला घोषित करता है। भाषा, व्यापार, समाज, नैतिकता — ये सब तभी कार्य करते हैं जब चीज़ें परस्पर-निर्भर, परिवर्तनशील (शून्य) हों। अगले श्लोक (38) में यही तर्क 'क्रिया' पर और गहराई से लागू होगा।",
+        "en": "Bhāviveka says this verse declares emptiness not the enemy of worldly life but its very foundation. Language, trade, society, morality — all function only because things are mutually dependent and mutable (empty). The next verse (38) will apply this same argument more deeply to 'action.'",
+        "ins": "जो नींव समझी नहीं जाती, वही सबसे ज़्यादा भय पैदा करती है — यही शून्यता के साथ हुआ।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🌐 'लौकिक व्यवहार' में क्या-क्या शामिल है?",
+        "a": "'लौकिक व्यवहार' का अर्थ है <strong>रोज़मर्रा की दुनिया के सारे काम-काज</strong> — भाषा बोलना, चीज़ें ख़रीदना-बेचना, सम्बन्ध बनाना, सीखना-सिखाना, न्याय करना। ये सब <strong>कारण-कार्य और परस्पर-निर्भरता (प्रतीत्यसमुत्पाद)</strong> पर टिके हैं। नागार्जुन कहते हैं — इसे नकारना यानी <strong>पूरी दुनिया के काम-काज को ही नकारना</strong> है।"
+      },
+      {
+        "q": "🔄 अध्याय अब तक कहाँ से कहाँ पहुँचा है?",
+        "a": "श्लोक 1 में विरोधी ने कहा था 'शून्यता लौकिक व्यवहार को नष्ट करती है।' अब, 36 श्लोकों की गहन जाँच के बाद, नागार्जुन दिखाते हैं कि <strong>सत्य ठीक उल्टा है</strong> — <strong>शून्यता (=प्रतीत्यसमुत्पाद) ही लौकिक व्यवहार को सम्भव बनाती है</strong>, और उसका खण्डन ही व्यवहार को नष्ट करता है। यह अध्याय के मुख्य तर्क का अन्तिम, समग्र कथन है।"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "sk": "क्रिया न विद्यते काचिच्छून्यतां प्रतिबाधतः ।\nअनारब्धा च सा स्यात्कर्ता चाकुर्वती भवेत् ॥",
+    "ro": "kriyā · na · vidyate · kācic · chūnyatāṃ · pratibādhataḥ | anārabdhā · ca · sā · syāt · kartā · ca · akurvatī · bhavet ||",
+    "hi": "जो शून्यता का खण्डन करता है, उसके लिए कोई भी क्रिया सिद्ध नहीं होगी। ऐसी क्रिया बिना आरम्भ किए ही सिद्ध माननी होगी, और कर्ता को बिना कुछ किए ही कर्ता मानना होगा।",
+    "en": "For one who denies emptiness, no action at all is possible. Action would have to be accepted as never begun, and the agent as one who acts without acting.",
+    "ws": [
+      {
+        "s": "क्रिया",
+        "h": "क्रिया / कार्य करना",
+        "e": "action"
+      },
+      {
+        "s": "अनारब्धा",
+        "h": "आरम्भ न की गई",
+        "e": "never begun / uninitiated"
+      },
+      {
+        "s": "कर्ता",
+        "h": "कर्ता / करने वाला",
+        "e": "the agent"
+      },
+      {
+        "s": "अकुर्वती",
+        "h": "बिना करती हुई / कुछ न करते हुए",
+        "e": "without acting"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह श्लोक अध्याय 8 (कर्म-कारक-परीक्षा) की याद दिलाता है, जहाँ यह दिखाया गया था कि कर्ता और कर्म परस्पर-निर्भर होकर ही सार्थक हैं। यहाँ वही तर्क दोहराया गया है — यदि कर्ता स्वभाव-सिद्ध हो, तो वह क्रिया के बिना ही 'कर्ता' रहेगा, जो विरोधाभासी है।<br><em>Eng:</em> This verse recalls Chapter 8 (on action and agent), where it was shown that agent and action are meaningful only in mutual dependence. The same logic applies here — a svabhāva-fixed agent would remain an 'agent' even without acting, a contradiction.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — 'क्रिया' का अर्थ ही है 'आरम्भ होकर सम्पन्न होना' — यह एक प्रक्रिया है, परिवर्तन है। यदि शून्यता को नकार दिया जाए (यानी स्वभाव मान लिया जाए), तो कर्ता पहले से ही जो है, वही रहेगा — क्रिया 'आरम्भ' ही नहीं होगी, क्योंकि आरम्भ का अर्थ है 'पहले न था, अब है।'",
+        "en": "Candrakīrti says 'action' means precisely 'being initiated and completed' — a process, a change. If emptiness is denied (i.e., svabhāva is posited), the agent simply remains whatever he already was — action would never 'begin,' since beginning means 'not being before, then being.'",
+        "ins": "जो पहले से पूर्ण है, उसके लिए 'शुरुआत करना' शब्द का कोई अर्थ ही नहीं बचता।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह अध्याय 8 के तर्क का पुनरावर्तन है — कर्ता और कर्म एक-दूसरे पर निर्भर होकर ही अर्थ पाते हैं। स्वभाव-सिद्धान्त में कर्ता को कर्म से पहले, स्वतन्त्र रूप से सिद्ध मान लिया जाता है — तब वह क्रिया करे या न करे, 'कर्ता' तो वह पहले से ही है, जो विरोधाभासी है।",
+        "en": "Buddhapālita says this repeats the argument of Chapter 8 — agent and action are meaningful only in mutual dependence. Under svabhāva, the agent is assumed independently established prior to the action — so whether he acts or not, he is already 'the agent,' which is contradictory.",
+        "ins": "कर्ता और कर्म को अलग करना, दोनों की परिभाषा को ही तोड़ देता है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक शून्यता-निषेध के व्यावहारिक विनाश को चरम पर ले जाता है — पूरा संसार, जो कर्ता-क्रिया के जाल से बुना है (कोई बोलता है, कोई सुनता है, कोई चलता है, कोई खाता है), स्वभाव-सिद्धान्त में असम्भव हो जाता है।",
+        "en": "Bhāviveka says this verse takes the practical destruction wrought by denying emptiness to its peak — the entire world, woven from the web of agent and action (someone speaks, someone hears, someone walks, someone eats), becomes impossible under the svabhāva doctrine.",
+        "ins": "एक भी सूत्र (कर्ता-क्रिया) टूटते ही पूरा ताना-बाना बिखर जाता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "🎭 'कर्ता जो कुछ नहीं करता' — यह विरोधाभास कैसे बनता है?",
+        "a": "यदि कर्ता <strong>स्वभाव से पहले से ही 'कर्ता' के रूप में सिद्ध</strong> है (उसकी क्रिया की प्रतीक्षा किए बिना), तो वह क्रिया करे या न करे, कोई फ़र्क़ नहीं पड़ता — वह <strong>'कर्ता' तो पहले से ही है</strong>। यह वैसा ही है जैसे कहें <strong>'वह धावक है, भले ही वह कभी न दौड़े'</strong> — यह शब्द के ही अर्थ का उल्लंघन है। 'कर्ता' शब्द अर्थपूर्ण है ही तभी जब वह <strong>वास्तव में कुछ करे</strong>।"
+      },
+      {
+        "q": "🌍 यह हमारे रोज़मर्रा के अनुभव से कैसे जुड़ता है?",
+        "a": "हम हर दिन देखते हैं कि <strong>लोग बोलते हैं, चलते हैं, काम करते हैं, बदलते हैं</strong> — यह पूरा संसार क्रिया और कर्ता के आपसी जुड़ाव से चलता है। नागार्जुन दिखाते हैं कि <strong>यह सब तभी सम्भव है जब कर्ता और क्रिया दोनों शून्य हों</strong> — यानी परस्पर-निर्भर होकर, बिना किसी स्थिर पूर्व-निर्धारित स्वभाव के, अस्तित्व में आएँ। शून्यता के बिना, यह पूरी गतिशील दुनिया जमकर रुक जाती।"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "sk": "स्वभावे सति च ह्येतत् संसारो ह्यजरामरः ।\nअवस्थितश्च भावानां विविधत्वं न विद्यते ॥",
+    "ro": "svabhāve · sati · ca · hi · etat · saṃsāro · hy · ajarāmaraḥ | avasthitaś · ca · bhāvānāṃ · vividhatvaṃ · na · vidyate ||",
+    "hi": "यदि स्वभाव सिद्ध हो, तो यह संसार अजर-अमर हो जाएगा और सभी वस्तुएँ स्थिर हो जाएँगी — तब भावों की विविधता ही सम्भव नहीं होगी।",
+    "en": "If there were inherent existence, this world would be unaging and undying, and things would remain permanently fixed — the diversity of states would not be possible at all.",
+    "ws": [
+      {
+        "s": "संसारः",
+        "h": "संसार / जगत्",
+        "e": "the world / cyclic existence"
+      },
+      {
+        "s": "अजरामरः",
+        "h": "बिना बुढ़ापे और मृत्यु के",
+        "e": "unaging and undying"
+      },
+      {
+        "s": "अवस्थितः",
+        "h": "स्थिर / जमा हुआ",
+        "e": "fixed / static"
+      },
+      {
+        "s": "विविधत्वम्",
+        "h": "विविधता / नानारूपता",
+        "e": "diversity / multiplicity of states"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह अध्याय की सामान्यीकृत, अन्तिम चेतावनी है — अब तक की जाँच (दुःख, फल, त्रिरत्न, कर्म, क्रिया) को समग्र रूप में समेटते हुए, यह दिखाता है कि स्वभाव-सिद्धान्त पूरे जगत् की गतिशीलता और विविधता को ही असम्भव बना देता है।<br><em>Eng:</em> This is the chapter's generalized, final warning — gathering all the preceding examinations (suffering, fruit, three jewels, karma, action) into one, showing that the svabhāva doctrine would freeze the entire world's dynamism and diversity.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह श्लोक पूरे अध्याय के तर्क को एक वाक्य में समेट देता है। यदि सब कुछ स्वभाव से सिद्ध हो, तो न कुछ बूढ़ा हो सकता है, न मर सकता है, न बदल सकता है — क्योंकि परिवर्तन स्वभाव में असम्भव है। पर हम देखते हैं कि संसार निरन्तर बदलता है, जन्मता-मरता है, विविध रूप धारण करता है — यही शून्यता का प्रमाण है।",
+        "en": "Candrakīrti says this verse condenses the entire chapter's argument into one sentence. If everything were established by svabhāva, nothing could age, die, or change — since change is impossible for svabhāva. Yet we observe the world constantly changing, being born and dying, taking on diverse forms — this is itself the proof of emptiness.",
+        "ins": "एक जमी हुई, बदलावरहित दुनिया की कल्पना करना ही यह दिखा देता है कि हमारी वास्तविक दुनिया शून्य है।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — 'अजरामर संसार' की कल्पना बेतुकी है — हम प्रतिपल जन्म, वृद्धि, ह्रास, मृत्यु देखते हैं। ऋतुएँ बदलती हैं, बच्चे बड़े होते हैं, फूल खिलते-मुरझाते हैं। यह सारी विविधता और गति तभी सम्भव है जब कुछ भी स्थिर, अपरिवर्तनीय स्वभाव से बद्ध न हो।",
+        "en": "Buddhapālita says the idea of an 'unaging, undying world' is absurd — we see birth, growth, decay, and death every moment. Seasons change, children grow, flowers bloom and wither. All this diversity and motion is possible only because nothing is bound by a fixed, unchanging nature.",
+        "ins": "जगत् की सबसे स्पष्ट सच्चाई — परिवर्तन — ही स्वभाव-सिद्धान्त का सबसे बड़ा खण्डन है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक अध्याय के उत्तरार्ध (21-39) का समापन-सार है — दुःख से लेकर लौकिक व्यवहार तक, हर परीक्षा एक ही निष्कर्ष पर पहुँचती है: स्वभाव जगत् को स्थिर, मृत, विविधता-रहित बना देता, जबकि शून्यता ही जगत् की जीवन्तता, विविधता और गतिशीलता का आधार है।",
+        "en": "Bhāviveka says this verse is the summary conclusion of the chapter's second half (21-39) — from suffering to worldly convention, every examination arrives at one conclusion: svabhāva would render the world static, dead, and devoid of diversity, while emptiness alone is the basis of the world's vitality, diversity, and dynamism.",
+        "ins": "अन्तिम श्लोक (40) अब इस पूरे तर्क को एक सकारात्मक, संक्षिप्त घोषणा में समेट देगा।"
+      }
+    },
+    "dp": [
+      {
+        "q": "❄️ 'अजर-अमर, स्थिर संसार' की कल्पना इतनी डरावनी क्यों है?",
+        "a": "ज़रा सोचिए — एक ऐसी दुनिया जहाँ <strong>कुछ भी कभी नहीं बदलता</strong> — कोई बच्चा कभी बड़ा नहीं होता, कोई फूल कभी नहीं खिलता, कोई घाव कभी नहीं भरता, कोई सीखता नहीं, कोई सुधरता नहीं। यह जीवन्त दुनिया नहीं, बल्कि <strong>एक जमी हुई तस्वीर</strong> होगी। नागार्जुन कहते हैं — यही वह दुनिया है जो <strong>स्वभाव-सिद्धान्त (सब कुछ ठोस, स्थिर, अपरिवर्तनीय)</strong> मानने पर बनेगी।"
+      },
+      {
+        "q": "🌸 तो हमारी असली, बदलती हुई दुनिया किस बात का प्रमाण है?",
+        "a": "हमारी दुनिया में <strong>ऋतुएँ बदलती हैं, बच्चे बड़े होते हैं, दुःख आता-जाता है, सीखना और सुधरना सम्भव है</strong> — यह सब <strong>प्रत्यक्ष प्रमाण है कि कुछ भी स्थिर स्वभाव से बद्ध नहीं</strong>, अर्थात् सब कुछ शून्य है। जो गतिशीलता और विविधता हम हर दिन अनुभव करते हैं, वही शून्यता के सत्य होने का सबसे सरल और सशक्त प्रमाण है।"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "sk": "प्रतीत्यसमुत्पादं यः पश्यतीदं स पश्यति ।\nदुःखं समुदयं चैव निरोधं मार्गमेव च ॥",
+    "ro": "pratītya-samutpādaṃ · yaḥ · paśyati · idaṃ · sa · paśyati | duḥkhaṃ · samudayaṃ · ca · eva · nirodhaṃ · mārgam · eva · ca ||",
+    "hi": "जो इस प्रतीत्यसमुत्पाद को देखता है, वही वस्तुतः दुःख को, समुदय को, निरोध को और मार्ग को भी देखता है।",
+    "en": "Whoever sees this dependent origination sees suffering, its origin, its cessation, and the path as well.",
+    "ws": [
+      {
+        "s": "पश्यति",
+        "h": "देखता है / समझता है",
+        "e": "sees / understands"
+      },
+      {
+        "s": "दुःखम्",
+        "h": "दुःख (प्रथम आर्यसत्य)",
+        "e": "suffering (the first noble truth)"
+      },
+      {
+        "s": "समुदयम्",
+        "h": "समुदय / दुःख का कारण (द्वितीय आर्यसत्य)",
+        "e": "the origin of suffering (the second noble truth)"
+      },
+      {
+        "s": "निरोधम्",
+        "h": "निरोध / दुःख का अन्त (तृतीय आर्यसत्य)",
+        "e": "cessation (the third noble truth)"
+      },
+      {
+        "s": "मार्गम्",
+        "h": "मार्ग (चतुर्थ आर्यसत्य)",
+        "e": "the path (the fourth noble truth)"
+      }
+    ],
+    "gr": "<strong>व्याकरण:</strong> यह अध्याय का समापन-श्लोक है और मूलमाध्यमककारिका के सर्वाधिक उद्धृत श्लोकों में से एक। <em>पश्यति</em> की पुनरावृत्ति ('देखता है...देखता है') एक आलंकारिक बल देती है — 'सच्चा देखना' प्रतीत्यसमुत्पाद को देखने में ही निहित है। यह श्लोक 1 के आक्षेप ('शून्यता आर्यसत्यों को नष्ट करती है') का अन्तिम, सकारात्मक उत्तर है — शून्यता (=प्रतीत्यसमुत्पाद) को देखना ही आर्यसत्यों को यथार्थ रूप से देखना है।<br><em>Eng:</em> The closing verse of the chapter and one of the most quoted verses in the entire MMK. The repetition of 'sees...sees' gives rhetorical force: true seeing consists precisely in seeing dependent origination. This is the final, positive answer to the objection of verse 1 — to see emptiness (=dependent origination) is to truly see the four noble truths.",
+    "mt": "अनुष्टुभ् · Anuṣṭubh",
+    "cm": {
+      "candrakirti": {
+        "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+        "h": "चन्द्रकीर्ति कहते हैं — यह अध्याय का शिखर-वाक्य है। जो प्रतीत्यसमुत्पाद को देखता है, वह दुःख को उसके यथार्थ रूप में देखता है — अनित्य, अनात्म, परिस्थिति-जन्य; वह समुदय (तृष्णा-अविद्या) को कारण-सम्बन्ध में देखता है; वह निरोध को कारणों के हटने की सम्भावना के रूप में देखता है; और वह मार्ग को उस अभ्यास के रूप में देखता है जो कारणों को बदल सकता है। यह चारों सत्य केवल शून्यता की दृष्टि से ही यथार्थ रूप से समझे जाते हैं।",
+        "en": "Candrakīrti says this is the summit statement of the chapter. Whoever sees dependent origination sees suffering in its true form — impermanent, selfless, condition-born; sees the origin (craving-ignorance) in its causal connection; sees cessation as the possibility that arises when causes are removed; and sees the path as the very practice that can change those causes. All four truths are truly understood only through the vision of emptiness.",
+        "ins": "यह अध्याय की सबसे बड़ी विडम्बना का समाधान है — जिस शून्यता से आर्यसत्यों के नष्ट होने का भय था, वही शून्यता उन्हें यथार्थ रूप से देखने की कुंजी निकली।"
+      },
+      "buddhapālita": {
+        "a": "बुद्धपालित · Buddhapālita",
+        "h": "बुद्धपालित कहते हैं — यह श्लोक अध्याय 1 के आक्षेप का पूर्ण चक्र पूरा करता है। विरोधी ने कहा था 'शून्यता को देखना आर्यसत्यों को न देखना है।' नागार्जुन कहते हैं — बिल्कुल उल्टा: 'शून्यता को देखना ही आर्यसत्यों को सही ढंग से देखना है, अन्यथा आर्यसत्यों को स्वभाव-सिद्ध, ठोस, स्थिर मानकर ग़लत देखा जा रहा है।'",
+        "en": "Buddhapālita says this verse completes the full circle of the chapter's opening objection. The opponent said 'seeing emptiness means not seeing the noble truths.' Nāgārjuna says the exact opposite: 'seeing emptiness is precisely seeing the noble truths correctly — otherwise one is misperceiving them as fixed and solid.'",
+        "ins": "यात्रा वहीं समाप्त होती है जहाँ से शुरू हुई थी, पर अब दृष्टि पूर्णतः बदल चुकी है — यही ज्ञान का असली फल है।"
+      },
+      "bhavaviveka": {
+        "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+        "h": "भाववेक कहते हैं — यह श्लोक सम्पूर्ण मध्यमक दर्शन के व्यावहारिक उद्देश्य को उजागर करता है — यह केवल एक अमूर्त तात्त्विक स्थिति नहीं, बल्कि साक्षात् मुक्ति-मार्ग का हृदय है। प्रतीत्यसमुत्पाद को देखना ध्यान और प्रज्ञा का लक्ष्य है, और यही देखना सीधे चार आर्यसत्यों की यथार्थ प्रतीति में परिणत होता है।",
+        "en": "Bhāviveka says this verse reveals the thoroughly practical purpose of the entire Madhyamaka philosophy — it is not merely an abstract metaphysical position but the very heart of the path to liberation. Seeing dependent origination is the goal of meditation and wisdom, and this very seeing directly translates into the true realization of the four noble truths.",
+        "ins": "दर्शन जब साधना बन जाता है, और साधना जब मुक्ति में परिणत होती है — यही मध्यमक की परिपूर्णता है।"
+      }
+    },
+    "dp": [
+      {
+        "q": "👁️ यह श्लोक पूरे अध्याय को किस तरह समेटता है?",
+        "a": "अध्याय की शुरुआत (श्लोक 1) में विरोधी ने कहा था — <strong>'शून्यता मानने पर आर्यसत्य नष्ट हो जाते हैं'</strong>। 39 श्लोकों की गहन जाँच के बाद, अन्तिम श्लोक घोषणा करता है — <strong>'जो प्रतीत्यसमुत्पाद (=शून्यता) को देखता है, वही वास्तव में दुःख, समुदय, निरोध और मार्ग को देखता है'</strong>। यह अध्याय का पूर्ण चक्र है — <strong>शून्यता आर्यसत्यों की शत्रु नहीं, बल्कि उन्हें सचमुच समझने की एकमात्र कुंजी है</strong>।"
+      },
+      {
+        "q": "🌅 इस श्लोक से हम अपने जीवन के लिए क्या सीख सकते हैं?",
+        "a": "इसका सन्देश है कि <strong>सच्चा देखना</strong> — चाहे अपने दुःख को हो, उसके कारणों को हो, या उससे मुक्ति के मार्ग को — <strong>तभी सम्भव है जब हम चीज़ों को स्थिर, अपरिवर्तनीय, 'ऐसा ही रहेगा' मानना छोड़ दें</strong>। जो कुछ भी हमें दुःखी करता है — पुरानी आदतें, भय, क्रोध — वे सब <strong>परिस्थिति-जन्य, परिवर्तनशील (शून्य)</strong> हैं। यही समझ ही असली मुक्ति और परिवर्तन का द्वार खोलती है — यही नागार्जुन का अन्तिम, आशावादी सन्देश है।"
+      }
+    ]
+  }
+]

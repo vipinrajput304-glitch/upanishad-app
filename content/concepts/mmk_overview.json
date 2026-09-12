@@ -1,0 +1,558 @@
+{
+  "id": "mmk_overview",
+  "title": "मूलमाध्यमककारिका — समग्र सार",
+  "subtitle": "नागार्जुन कृत मध्यमक दर्शन का सम्पूर्ण सारांश",
+  "en_title": "Mūlamadhyamakakārikā — Complete Overview",
+  "en_subtitle": "An Abridged Summary of Nāgārjuna's Root Verses of the Middle Way",
+  "icon": "☸️",
+  "color": "#D4A017",
+  "intro_hi": "<strong>मूलमाध्यमककारिका</strong> (मूल मध्यमक की कारिकाएँ) आचार्य <strong>नागार्जुन</strong> द्वारा लगभग द्वितीय शताब्दी ई. में रचित बौद्ध दर्शन का सबसे महत्त्वपूर्ण ग्रन्थ है। यह मध्यमक — 'मध्य मार्ग' — नामक दार्शनिक परम्परा की आधारशिला है, जो महायान बौद्ध चिन्तन की सम्पूर्ण परवर्ती परम्परा (चाहे वह तिब्बत हो, चीन हो या पूर्वी एशिया) को दिशा देती है। ४४७ कारिकाओं में विभक्त २७ अध्यायों में नागार्जुन एक-एक करके कारण, गति, स्कन्ध, स्वभाव, आत्मा, कर्म, काल, निर्वाण — जीवन और जगत् की प्रत्येक मौलिक श्रेणी की <strong>तर्क-पूर्वक परीक्षा</strong> करते हैं और दिखाते हैं कि कोई भी वस्तु <strong>स्वभाव</strong> (स्वतन्त्र, स्वयं-सिद्ध सत्ता) से रहित है। ग्रन्थ का केन्द्रीय प्रतिपाद्य यह है — जो कुछ <strong>प्रतीत्यसमुत्पन्न</strong> (अन्य के आश्रय से उत्पन्न) है, वही <strong>शून्य</strong> है, और शून्यता कोई शून्यवाद या नकारात्मकता नहीं, अपितु स्वयं वह उपाय है जिससे कार्य-कारण, बन्ध-मोक्ष और चतुरार्यसत्य जैसी सभी व्यावहारिक सत्ताएँ सम्भव होती हैं। इसी कारण नागार्जुन के मध्यमक को न तो शाश्वतवाद कहा जा सकता है, न उच्छेदवाद — यह उन दोनों अतियों के बीच का <strong>मध्यम मार्ग</strong> है, जिसकी घोषणा ग्रन्थ के आरम्भिक मंगलाचरण में 'अनिरोधम् अनुत्पादम्...' की आठ नकारों वाली प्रसिद्ध प्रतिज्ञा से होती है।",
+  "intro_en": "The <strong>Mūlamadhyamakakārikā</strong> (Root Verses on the Middle Way) is the single most influential text of Buddhist philosophy, composed by <strong>Nāgārjuna</strong> around the second century CE. It is the foundational work of <strong>Madhyamaka</strong> — the 'Middle Way' school — which shaped nearly all later Mahāyāna thought across Tibet, China, and East Asia. Across 27 chapters and roughly 447 verses, Nāgārjuna subjects one fundamental category after another — causation, motion, the aggregates, intrinsic nature, self, karma, time, nirvāṇa — to rigorous logical <strong>examination</strong> (parīkṣā), showing that nothing possesses <strong>svabhāva</strong> — an independent, self-established nature. The text's central thesis is that whatever arises <strong>dependently</strong> (pratītyasamutpanna) is <strong>empty</strong> (śūnya) — and this emptiness is not nihilism but precisely what makes cause and effect, bondage and liberation, and the Four Noble Truths workable at all. Nāgārjuna's Madhyamaka is thus neither eternalism nor annihilationism but the <strong>middle way</strong> between them, announced already in the text's opening dedication — the famous eightfold negation, 'neither ceasing nor arising...'",
+  "sections": [
+    {
+      "id": "causation_motion",
+      "num": 1,
+      "sk": "प्रत्यय-गति-परीक्षा",
+      "ro": "pratyaya-gati-parīkṣā",
+      "full_sk": "प्रत्ययपरीक्षा एवं गतागतपरीक्षा",
+      "full_ro": "pratyaya-parīkṣā and gatāgata-parīkṣā",
+      "title_hi": "अध्याय १-२ · प्रत्यय और गति की परीक्षा",
+      "title_en": "Chapters 1-2 · Examination of Conditions and Motion",
+      "body_hi": "ग्रन्थ का आरम्भ प्रसिद्ध मंगलाचरण से होता है — <strong>'अनिरोधम् अनुत्पादम्...'</strong> — आठ नकारों (अनिरोध, अनुत्पाद, अनुच्छेद, अशाश्वत, अनेकार्थ, अनानार्थ, अनागम, अनिर्गम) द्वारा प्रतीत्यसमुत्पाद की सम्यक् प्रकृति का वर्णन। पहला अध्याय — <strong>प्रत्ययपरीक्षा</strong> — तुरन्त चतुष्कोटि लगाता है: कोई भी वस्तु न स्वयं से उत्पन्न होती है, न पर से, न दोनों से, न अकारण। फिर बौद्ध अभिधर्म के चार प्रत्ययों — हेतु, आलम्बन, अनन्तर और अधिपति — की एक-एक कर परीक्षा होती है, और दिखाया जाता है कि इनमें से कोई भी प्रत्यय अपने में <strong>स्वतःसिद्ध कारक-सत्ता</strong> नहीं रखता, फिर भी कार्य होता रहता है — यह प्रतीत्यसमुत्पाद का पहला संकेत है।<br><br>दूसरा अध्याय — <strong>गतागतपरीक्षा</strong> — इसी विश्लेषण को सबसे स्वाभाविक अनुभव, <strong>गति</strong>, पर लागू करता है। नागार्जुन दिखाते हैं — 'गत' (जो जा चुका) मार्ग में गमन नहीं होता, 'अगत' (जो अभी नहीं गया) मार्ग में भी गमन नहीं होता, और गत-अगत से भिन्न कोई तीसरा 'गम्यमान' मार्ग सिद्ध नहीं होता। इसी प्रकार 'गन्ता' (जाने वाला) नहीं जाता, 'अगन्ता' भी नहीं जाता — फिर कौन जाता है? यह विश्लेषण दिखाता है कि गति जैसी प्रत्यक्ष-सिद्ध घटना भी, जब स्वभाव-सत्ता की दृष्टि से जाँची जाए, तर्क की कसौटी पर टिक नहीं पाती — फिर भी व्यवहार में गति होती रहती है, क्योंकि वह केवल <strong>उपादाय-प्रज्ञप्ति</strong> (सापेक्ष नामकरण) है, स्वतन्त्र सत्ता नहीं।",
+      "body_en": "The text opens with its famous dedicatory verse — <strong>'neither ceasing nor arising...'</strong> — eight negations (non-cessation, non-arising, non-annihilation, non-permanence, non-identity, non-difference, non-coming, non-going) describing the true nature of dependent origination. Chapter 1, the <strong>Examination of Conditions</strong>, immediately applies the tetralemma: nothing arises from itself, from another, from both, or from neither. It then examines Abhidharma's four kinds of condition — cause, object-condition, immediate condition, and dominant condition — one by one, showing that none possesses an <strong>independently established causal nature</strong>, and yet effects still occur. This is the text's first hint of dependent origination.<br><br>Chapter 2, the <strong>Examination of Motion</strong>, applies the same analysis to the most immediate of experiences: <strong>motion itself</strong>. Nāgārjuna shows that the path already traversed is not being traversed, the path not yet traversed is also not being traversed, and no third 'being traversed' path exists apart from these two. Likewise the mover does not move, the non-mover does not move — so who moves? The analysis shows that even so self-evident a phenomenon as motion cannot withstand scrutiny when we search for an inherently existing mover, motion, or path — yet motion still functions conventionally, because it is only a <strong>dependent designation</strong> (upādāya prajñapti), never an independent reality.",
+      "sub": [
+        {
+          "sk": "अष्टविध निषेध — मंगलाचरण",
+          "hi": "ग्रन्थ का उद्घाटन-श्लोक प्रतीत्यसमुत्पाद को आठ नकारों से परिभाषित करता है — न उत्पत्ति, न निरोध, न उच्छेद, न शाश्वतता, न एकार्थता, न अनेकार्थता, न आगमन, न निर्गमन। यह घोषणा पूरे ग्रन्थ की दिशा तय करती है — विश्लेषण का लक्ष्य किसी वस्तु का निषेध नहीं, अपितु उसकी <strong>स्वभाव-रहित निर्भर सत्ता</strong> को उद्घाटित करना है।",
+          "en": "The opening verse defines dependent origination through eight negations — no cessation, no arising, no annihilation, no permanence, no singularity, no plurality, no coming, no going. This sets the direction for the whole text: the goal of analysis is not to deny things, but to reveal their <strong>dependent nature, empty of intrinsic being</strong>."
+        },
+        {
+          "sk": "चतुःप्रत्यय-परीक्षा",
+          "hi": "अभिधर्म के चार प्रत्यय — हेतु (मुख्य कारण), आलम्बन (विषय-आश्रय), अनन्तर (तत्काल-पूर्ववर्ती) और अधिपति (प्रधान सहायक) — की बारी-बारी परीक्षा। कोई भी इनमें अपने बल पर 'कारक' सिद्ध नहीं होता, क्योंकि 'कारण' शब्द भी 'कार्य' की अपेक्षा से ही अर्थ रखता है — यह सापेक्षता ही स्वभाव-शून्यता का प्रथम प्रमाण है।",
+          "en": "The Abhidharma's four conditions — cause, object-condition, immediately-preceding condition, and dominant condition — are examined in turn. None can establish itself as a 'causal agent' on its own strength, since the very word 'cause' has meaning only relative to 'effect' — this mutual dependency is the first proof of emptiness of intrinsic nature."
+        },
+        {
+          "sk": "गमन-त्रय-विश्लेषण",
+          "hi": "गति के तीन सम्भावित स्थान — गत मार्ग (traversed), अगत मार्ग (untraversed), गम्यमान मार्ग (being traversed) — में से किसी में भी वास्तविक गमन सिद्ध नहीं होता। इसी प्रकार गन्ता (going one) और अगन्ता (non-going one) में भी गमन असिद्ध है। निष्कर्ष — गति = केवल सापेक्ष व्यवहार, स्वतन्त्र सत्ता नहीं।",
+          "en": "Of the three possible loci of motion — the already-traversed path, the not-yet-traversed path, and the path being traversed — real motion cannot be established in any. Likewise it cannot be established in a mover or a non-mover. Conclusion: motion is only a relative, conventional usage, never an independently existing thing."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति अपनी प्रसन्नपदा में प्रथम अध्याय के प्रथम श्लोक की व्याख्या को ही मध्यमक-पद्धति के विवाद का केन्द्र बनाते हैं। वे बुद्धपालित की <strong>प्रासङ्गिक</strong> पद्धति का बचाव करते हुए कहते हैं — माध्यमिक को स्वतन्त्र अनुमान (स्वतन्त्र-प्रयोग) गढ़ने की आवश्यकता नहीं, क्योंकि माध्यमिक का कोई अपना 'पक्ष' (thesis) नहीं है जिसे सिद्ध करना हो — केवल विरोधी के मत में निहित असंगति दिखाना ही पर्याप्त है। गति के विश्लेषण में भी वे लोक-व्यवहार को अविश्लेषित स्वीकार करते हुए केवल परमार्थ-दृष्टि से ही स्वभाव-सत्ता का निषेध करते हैं।",
+          "en": "In the Prasannapadā, Candrakīrti makes the commentary on the very first verse the flashpoint of the whole method-debate. Defending Buddhapālita's <strong>prāsaṅgika</strong> approach, he argues the Mādhyamika need not construct independent inferences, since the Mādhyamika holds no thesis of his own to prove — merely exposing the inconsistency latent in the opponent's position suffices. In the analysis of motion too, he accepts worldly convention without analysis, reserving the negation of intrinsic existence strictly for the ultimate standpoint.",
+          "ins": "Candrakīrti's point is subtle but important: he isn't claiming things don't move — he's claiming that motion, examined for an independently real mover or moving-substance, dissolves. Conventionally, motion works perfectly. The refutation targets svabhāva, not function."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित प्रथम अध्याय पर सबसे प्राचीन उपलब्ध टीका के रचयिता हैं। उनकी शैली केवल <strong>प्रसंगापादन</strong> — विरोधी के मत को स्वीकार कर उसमें से आपत्तिजनक परिणाम निकालना — तक सीमित है, वे कोई प्रत्यक्ष प्रतिज्ञा नहीं रखते। जैसे 'स्वतः उत्पत्ति मानने पर उत्पत्ति व्यर्थ हो जाती है, क्योंकि जो पहले से विद्यमान है उसे पुनः उत्पन्न होने की आवश्यकता नहीं' — यह तर्क विरोधी के अपने आधार से निकाला गया प्रसंग है, स्वतन्त्र अनुमान नहीं। गति-परीक्षा में भी वे इसी रीति से गन्ता-गमन के प्रत्येक विकल्प को विरोधी की ही शर्तों पर असंगत सिद्ध करते हैं।",
+          "en": "Buddhapālita authored the earliest surviving commentary on Chapter 1. His method is confined strictly to <strong>prasaṅga</strong> — accepting the opponent's position provisionally and drawing out its absurd consequence — without asserting any independent counter-thesis. For instance: 'if arising from self were accepted, arising would become pointless, since what already exists need not arise again' — this is a consequence drawn from the opponent's own premises, not an independent inference. In the analysis of motion too, he refutes every possible pairing of mover and motion strictly on the opponent's own terms.",
+          "ins": "Buddhapālita's discipline is remarkable: he never says 'here is what's really true.' He only shows 'your own position collapses on its own terms.' This minimalism later becomes the hallmark of the Prāsaṅgika school Candrakīrti champions."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक ने बुद्धपालित की शुद्ध-प्रासङ्गिक पद्धति को अपर्याप्त बताया — उनके अनुसार, केवल विरोधी के मत का खण्डन पर्याप्त नहीं, माध्यमिक को अपना मत सिद्ध करने के लिए भी <strong>स्वतन्त्र त्रैरूप्य अनुमान</strong> (प्रतिज्ञा-हेतु-दृष्टान्त सहित) प्रस्तुत करना चाहिए, जो दिङ्नाग के प्रमाण-शास्त्र की पद्धति पर आधारित हो। जैसे — 'आन्तरिक आयतन परमार्थतः स्वतः उत्पन्न नहीं होते, क्योंकि वे विद्यमान हैं, जैसे चेतना' — यह एक विधिवत् स्वतन्त्र अनुमान है। इसी दृष्टिकोण-भेद ने आगे चलकर स्वातन्त्रिक-प्रासङ्गिक विभाजन को जन्म दिया।",
+          "en": "Bhāviveka judged Buddhapālita's pure prāsaṅgika method inadequate — merely refuting the opponent, he argued, is not enough; the Mādhyamika must also establish his own position through a properly formed <strong>autonomous three-part syllogism</strong> (thesis-reason-example), built on Dignāga's system of valid cognition. For example: 'internal sense-fields do not ultimately arise from themselves, because they exist, like consciousness' — a formal independent inference. This very disagreement over method gave rise to the later Svātantrika-Prāsaṅgika division of Madhyamaka.",
+          "ins": "Bhāviveka wants Madhyamaka to look like respectable logic to outside schools — formal syllogisms anyone trained in Buddhist logic must accept. Candrakīrti will later argue this concedes too much, since a valid syllogism seems to require some shared, established ground the Mādhyamika cannot ultimately grant."
+        }
+      },
+      "refs": "मूलमाध्यमककारिका १.१ ('न स्वतो नापि परतो न द्वाभ्यां नाप्यहेतुतः'), १.३ (चतुःप्रत्यय), २.१ ('गतं न गम्यते तावद्'), २.२५ ('गन्ता न गच्छति'), मंगलाचरण श्लोक (अष्ट-निषेध)"
+    },
+    {
+      "id": "perception_categories",
+      "num": 2,
+      "sk": "स्कन्ध-धातु-रागरक्त-परीक्षा",
+      "ro": "skandha-dhātu-rāgarakta-parīkṣā",
+      "full_sk": "दर्शनादि, स्कन्ध, धातु एवं रागरक्तपरीक्षा",
+      "full_ro": "darśanādi, skandha, dhātu, and rāgarakta-parīkṣā",
+      "title_hi": "अध्याय ३-६ · इन्द्रिय, स्कन्ध, धातु और राग की परीक्षा",
+      "title_en": "Chapters 3-6 · Examination of the Senses, Aggregates, Elements, and Desire",
+      "body_hi": "तीसरा अध्याय — <strong>दर्शनादिपरीक्षा</strong> — इन्द्रियों की परीक्षा करता है, विशेषतः नेत्र और दर्शन (देखना) की। नागार्जुन दिखाते हैं कि नेत्र स्वयं को नहीं देख सकता — फिर वह अन्य वस्तुओं को कैसे देखता है? द्रष्टा, दृश्य और दर्शन — यह त्रय स्वतन्त्र, पृथक् सत्ताओं के रूप में सिद्ध नहीं होता। यह विश्लेषण शेष इन्द्रियों (श्रोत्र, घ्राण, रसना, त्वक्, मन) पर भी समान रूप से लागू होता है।<br><br>चौथा अध्याय — <strong>स्कन्धपरीक्षा</strong> — रूप-स्कन्ध और उसके कारण (रूप-हेतु) के सम्बन्ध की जाँच करता है: रूप न रूप-हेतु से भिन्न है, न अभिन्न — दोनों परस्पराश्रित हैं, जैसे दीपक और प्रकाश। यह तर्क शेष चार स्कन्धों (वेदना, संज्ञा, संस्कार, विज्ञान) पर भी विस्तारित होता है — सभी स्कन्ध अपने कारणों से सापेक्ष रूप से गृहीत, स्वतन्त्र सत्ता-रहित हैं।<br><br>पाँचवाँ अध्याय — <strong>धातुपरीक्षा</strong> — आकाश-धातु के माध्यम से लक्ष्य (लक्षणीय वस्तु) और लक्षण (पहचान-चिह्न) के सम्बन्ध की समस्या उठाता है — लक्षण से पूर्व लक्ष्य नहीं मिलता, लक्षण के बिना भी लक्ष्य नहीं मिलता — यह अनवस्था शेष धातुओं (और वस्तुतः सभी धर्मों) तक फैलती है।<br><br>छठा अध्याय — <strong>रागरक्तपरीक्षा</strong> — राग (आसक्ति) और रक्त (आसक्त पुरुष) के सम्बन्ध की परीक्षा करता है — यदि राग रक्त से पूर्व है तो वह किसमें उत्पन्न हुआ? यदि साथ-साथ है तो दोनों स्वतन्त्र, असम्बद्ध हो जाएँगे। यही विश्लेषण द्वेष-द्विष्ट, मोह-मूढ़ आदि सभी क्लेश-क्लिष्ट सम्बन्धों पर लागू होता है।",
+      "body_en": "Chapter 3, the <strong>Examination of Vision</strong>, examines the sense faculties, especially the eye and seeing. Nāgārjuna shows the eye cannot see itself — so how does it see other things? Seer, seen, and seeing cannot be established as three independent, separate entities. The same analysis extends to the other senses (hearing, smell, taste, touch, mind).<br><br>Chapter 4, the <strong>Examination of Aggregates</strong>, examines the relation between form (rūpa) and its cause: form is neither identical to nor different from its cause — the two are mutually dependent, like a lamp and its light. The same reasoning extends to the remaining four aggregates (sensation, perception, formations, consciousness) — every aggregate is only relatively posited relative to its causes, without independent existence.<br><br>Chapter 5, the <strong>Examination of Elements</strong>, raises the problem of the characterized (lakṣya) and its characteristic (lakṣaṇa) through the example of space: the characterized cannot be found before its characteristic, nor can it be found without one — this infinite regress extends to the remaining elements, and indeed to all phenomena.<br><br>Chapter 6, the <strong>Examination of Desire and the Desirous</strong>, examines the relation between desire (rāga) and the desirous person (rakta): if desire precedes the desirous one, in whom did it arise? If they arise together, they become mutually independent and unrelated. The same analysis applies to every afflicted relation — aversion and the averse, delusion and the deluded.",
+      "sub": [
+        {
+          "sk": "द्रष्टा-दृश्य-दर्शन त्रय",
+          "hi": "नेत्र स्वयं को नहीं देखता, तो पर को कैसे देखेगा? द्रष्टा, दृश्य, दर्शन — इन तीनों में से किसी को भी स्वतन्त्र, स्वयं-सिद्ध सत्ता नहीं मिलती। यह विश्लेषण भावी अध्याय १४ (संसर्गपरीक्षा) की भूमिका भी तैयार करता है।",
+          "en": "The eye cannot see itself — how then would it see something else? None of the three — seer, seen, seeing — can be found to have independent, self-established existence. This analysis also sets the stage for the later Chapter 14 (Examination of Contact)."
+        },
+        {
+          "sk": "रूप और रूप-हेतु",
+          "hi": "रूप और उसका कारण न अभिन्न हैं (तो कारण-कार्य भेद ही समाप्त हो जाएगा), न सर्वथा भिन्न (तो कारण से रूप कभी उत्पन्न ही न होता)। यह सापेक्षता ही सभी स्कन्धों की स्वभाव-शून्यता का प्रमाण है।",
+          "en": "Form and its cause are neither identical (which would erase any cause-effect distinction) nor entirely different (which would mean form could never arise from the cause). This mutual dependency is itself the proof of the emptiness of all the aggregates."
+        },
+        {
+          "sk": "लक्ष्य-लक्षण अनवस्था",
+          "hi": "आकाश (लक्ष्य) को उसके लक्षण (अवकाश-गुण) से पहले नहीं पाया जा सकता; परन्तु लक्षण भी किसी लक्ष्य के बिना अस्तित्व में नहीं आ सकता — यह अनवस्था (infinite regress) दिखाती है कि लक्ष्य-लक्षण सम्बन्ध स्वतः-सिद्ध नहीं, केवल पारस्परिक-आश्रित है।",
+          "en": "Space (the characterized) cannot be found prior to its characteristic (the quality of providing room); yet the characteristic also cannot exist without some characterized thing. This regress shows the relation of characterized-and-characteristic is not self-established but only mutually dependent."
+        },
+        {
+          "sk": "राग-रक्त की पूर्वापर समस्या",
+          "hi": "राग और रक्त पुरुष में से कोई भी दूसरे से पूर्व, पश्चात् या साथ सिद्ध नहीं होता — यही तर्क सभी क्लेश (राग, द्वेष, मोह) और क्लिष्ट पुरुषों के सम्बन्ध पर लागू होता है, यह दिखाते हुए कि क्लेश स्वभावतः विद्यमान नहीं, अपितु सापेक्ष कल्पना मात्र हैं।",
+          "en": "Neither desire nor the desirous person can be established as prior, posterior, or simultaneous with the other — the same logic applies to every affliction (desire, aversion, delusion) and its afflicted subject, showing that afflictions do not exist by nature but are only relative constructs."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति के लिए ये चार अध्याय अभिधर्मिक <strong>सर्वास्तिवाद</strong> की धर्म-स्वलक्षण-वाद की सीधी चुनौती हैं — जिसमें प्रत्येक धर्म (स्कन्ध, धातु, आयतन) को अपना अद्वितीय स्वलक्षण-युक्त, वास्तविक अस्तित्व माना जाता था। चन्द्रकीर्ति दिखाते हैं कि लक्ष्य-लक्षण, रूप-हेतु जैसे हर सम्बन्ध विश्लेषण में सापेक्ष ही सिद्ध होता है — अतः अभिधर्म की सूक्ष्मतम धर्म-सूची भी परमार्थतः स्वभाव-शून्य है, यद्यपि लोक-व्यवहार में उपयोगी बनी रहती है।",
+          "en": "For Candrakīrti, these four chapters directly challenge the Sarvāstivāda Abhidharma's doctrine of dharmas possessing unique defining characteristics (svalakṣaṇa) — where every aggregate, element, and sense-field was held to be really existent with its own essence. Candrakīrti shows that every relation examined — characterized-characteristic, form-and-its-cause — proves only relative, never self-established. Even Abhidharma's finest categorial list is thus empty of intrinsic nature at the ultimate level, though it remains useful conventionally.",
+          "ins": "Candrakīrti isn't attacking Abhidharma psychology as useless — he's attacking the metaphysical upgrade some schools gave it, treating each category as a tiny indestructible atom of reality. Keep the map; drop the claim that the map is made of the same stuff as bedrock reality."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित की टीका इन अध्यायों में भी प्रसंगापादन ही रहती है — जैसे रूप-हेतु के विषय में, वे विरोधी अभिधार्मिक के अपने ही आधार से यह असंगति निकालते हैं कि यदि रूप अपने हेतु से सर्वथा भिन्न मान लिया जाए, तो कारण के बिना भी रूप स्वतन्त्र रूप से मिलना चाहिए — जो अनुभव-विरुद्ध है। इस प्रकार वे विरोधी को अपने ही तर्क-जाल में फँसाते हैं, बिना कोई प्रत्यक्ष सिद्धान्त स्थापित किये।",
+          "en": "Buddhapālita's commentary on these chapters remains equally consequentialist — regarding form and its cause, he draws out the consequence, from the Ābhidharmika's own premises, that if form were entirely different from its cause, form should be found existing independently of any cause — which contradicts experience. He thus entangles the opponent in their own logical net, without ever positing a direct thesis of his own.",
+          "ins": "Notice the discipline again: Buddhapālita never says 'form really is empty in such-and-such way.' He only shows the realist's own commitments don't hold together. It's philosophy as jiu-jitsu — using the opponent's own weight against them."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक इन अध्यायों में अभिधर्म की स्कन्ध-धातु-आयतन वर्गीकरण को <strong>व्यावहारिक स्तर पर, प्रमाण-सिद्ध</strong> मानते हुए चलते हैं — वे इन्हें पूर्णतः निरस्त नहीं करते, अपितु स्वतन्त्र अनुमान द्वारा दिखाते हैं कि ये परमार्थतः स्वभाव-रहित हैं, यद्यपि सम्यक् ज्ञान द्वारा संव्यवहारतः सिद्ध हैं। उनकी शैली अभिधर्मिक शब्दावली को बनाए रखते हुए भी उसे शून्यता की दिशा में मोड़ने की है।",
+          "en": "In these chapters Bhāviveka treats Abhidharma's classification of aggregates, elements, and sense-fields as <strong>conventionally established by valid cognition</strong> — he does not discard them outright, but uses autonomous inference to show they lack intrinsic nature ultimately, even while being conventionally valid. His style retains Abhidharma vocabulary while redirecting it toward emptiness.",
+          "ins": "Bhāviveka is the diplomat of the three — he wants Madhyamaka and Abhidharma logicians to be able to talk to each other using the same rules of inference. This makes his commentary more accessible to outside schools, at the cost (Candrakīrti will say) of conceding too much conventional ground."
+        }
+      },
+      "refs": "मूलमाध्यमककारिका ३.२ ('दर्शनं तर्हि सद्रूपं स्वं आत्मानं न पश्यति'), ४.१-२ (रूप-रूपहेतु सम्बन्ध), ५.१-४ (लक्ष्य-लक्षण), ६.१ ('रागाद्यदि पुरा सिद्धो')"
+    },
+    {
+      "id": "conditioned_existence",
+      "num": 3,
+      "sk": "संस्कृत-कारकपरीक्षा",
+      "ro": "saṃskṛta-kāraka-parīkṣā",
+      "full_sk": "संस्कृत, कर्मकारक एवं पूर्वपरीक्षा",
+      "full_ro": "saṃskṛta, karma-kāraka, and pūrva-parīkṣā",
+      "title_hi": "अध्याय ७-९ · संस्कृत धर्म, कर्ता-कर्म और पूर्व-सत्ता की परीक्षा",
+      "title_en": "Chapters 7-9 · Examination of the Conditioned, Agent-Action, and the Prior Entity",
+      "body_hi": "सातवाँ अध्याय — <strong>संस्कृतपरीक्षा</strong> — ग्रन्थ का सबसे लम्बा प्रारम्भिक अध्याय (३४ श्लोक) है, जो प्रत्येक संस्कृत (संयोगजन्य) धर्म के तीन लक्षणों — उत्पाद, स्थिति और भङ्ग (उत्पत्ति, स्थिरता, विनाश) — की परीक्षा करता है। यदि ये लक्षण स्वयं संस्कृत हैं, तो उनके भी अपने उत्पाद-स्थिति-भङ्ग चाहिए — अनवस्था दोष; यदि असंस्कृत हैं, तो संस्कृत धर्मों के लक्षण कैसे बनेंगे? नागार्जुन संस्कृत जगत् की तुलना <strong>स्वप्न और माया</strong> से करते हैं — जो प्रतीत तो होता है, पर स्वभावतः सिद्ध नहीं।<br><br>आठवाँ अध्याय — <strong>कर्मकारकपरीक्षा</strong> — कर्ता (agent) और कर्म (action) के सम्बन्ध की जाँच करता है: विद्यमान कर्ता को कर्म करने की आवश्यकता नहीं (वह तो पहले से ही 'कर्ता' है), और अविद्यमान कर्ता कर्म कर ही नहीं सकता। तो वास्तविक कर्ता-कर्म सम्बन्ध कैसे सिद्ध हो? उत्तर — यह सम्बन्ध भी केवल परस्पराश्रित प्रज्ञप्ति है, जैसे माया-निर्मित पुरुष माया-निर्मित कर्म करता प्रतीत होता है।<br><br>नौवाँ अध्याय — <strong>पूर्वपरीक्षा</strong> — उस मत का खण्डन करता है जो इन्द्रियों और उनके विषयों से <strong>पूर्व</strong> एक स्थिर द्रष्टा-पुरुष (सांख्य-प्रभावित) मानता है, जो देखने-सुनने आदि का आश्रय हो। नागार्जुन दिखाते हैं — ऐसा कोई पूर्ववर्ती, एकल आत्मा सिद्ध नहीं होता जो इन्द्रियों से स्वतन्त्र रूप से पहले विद्यमान हो।",
+      "body_en": "Chapter 7, the <strong>Examination of the Conditioned</strong>, is the longest early chapter (34 verses), examining the three marks of every conditioned phenomenon — arising, abiding, and ceasing. If these marks are themselves conditioned, they would need their own arising-abiding-ceasing — an infinite regress; if unconditioned, how could they characterize conditioned things? Nāgārjuna compares the conditioned world to a <strong>dream and an illusion</strong> — appearing, yet not established by intrinsic nature.<br><br>Chapter 8, the <strong>Examination of Agent and Action</strong>, examines the relation between agent and action: an already-existing agent has no need to act (being already 'an agent'), while a non-existent agent cannot act at all. So how is a real agent-action relation established? The answer: this relation too is only a mutually dependent designation, like a magically-created person performing a magically-created act.<br><br>Chapter 9, the <strong>Examination of the Prior Entity</strong>, refutes the view (associated with Sāṃkhya) positing a fixed seer-self existing <strong>prior</strong> to the senses and their objects, serving as the ground for seeing, hearing, and so on. Nāgārjuna shows no such prior, unitary self can be established as existing independently before the senses.",
+      "sub": [
+        {
+          "sk": "उत्पाद-स्थिति-भङ्ग की अनवस्था",
+          "hi": "यदि संस्कृत धर्मों के तीन लक्षण स्वयं संस्कृत हैं, तो उनके भी लक्षण चाहिए — अनन्त श्रृंखला; यदि असंस्कृत, तो वे संस्कृत जगत् के लक्षण कैसे हो सकते हैं? यह दुविधा दिखाती है कि 'उत्पत्ति', 'स्थिति', 'नाश' स्वयं स्वभाव-सिद्ध नहीं, केवल सापेक्ष व्यवहार हैं।",
+          "en": "If the three marks of conditioned phenomena are themselves conditioned, they too need their own marks — an infinite regress; if unconditioned, how can they characterize the conditioned world? This dilemma shows 'arising,' 'abiding,' and 'ceasing' are not established by intrinsic nature but only conventional usages."
+        },
+        {
+          "sk": "स्वप्न-माया दृष्टान्त",
+          "hi": "नागार्जुन संस्कृत धर्मों को स्वप्न, माया, गन्धर्वनगर और प्रतिबिम्ब के समान बताते हैं — प्रतीति होती है, कार्य भी होता है, पर स्वभावतः कुछ भी सिद्ध नहीं होता। यह उपमा आगे कई अध्यायों (१७, २२) में पुनः प्रयुक्त होती है।",
+          "en": "Nāgārjuna compares conditioned phenomena to a dream, an illusion, a phantom city, and a reflection — appearance occurs, function occurs, yet nothing is established by intrinsic nature. This simile recurs in several later chapters (17, 22)."
+        },
+        {
+          "sk": "विद्यमान-अविद्यमान कर्ता की दुविधा",
+          "hi": "विद्यमान कर्ता कर्म नहीं करता (वह तो पहले से कर्ता है), अविद्यमान कर्ता कर्म कर ही नहीं सकता (कर्ता के बिना कर्म किसका?)। इस दुविधा से निकलने का एकमात्र मार्ग — कर्ता-कर्म को परस्पराश्रित, सापेक्ष प्रज्ञप्ति मानना।",
+          "en": "An existing agent does not act (already being an agent), a non-existing agent cannot act (whose action would it be, without an agent?). The only way out of this dilemma is to treat agent and action as mutually dependent, relative designations."
+        },
+        {
+          "sk": "पूर्ववर्ती द्रष्टा का निषेध",
+          "hi": "यदि इन्द्रियों और विषयों से पूर्व एक स्थिर द्रष्टा-पुरुष मान लिया जाए, तो प्रश्न उठता है — वह इन्द्रियों के बिना कैसे 'देखने वाला' कहलाएगा? नागार्जुन दिखाते हैं ऐसा कोई पूर्ववर्ती, स्वतन्त्र आत्मा सिद्ध नहीं होता — यह आगे अध्याय १८ (आत्मपरीक्षा) की भूमिका बनाता है।",
+          "en": "If a fixed seer-self is posited as existing prior to the senses and objects, the question arises — how could it be called 'a seer' without the senses? Nāgārjuna shows no such prior, independent self can be established — laying the ground for the later Chapter 18 (Examination of Self)."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति इन तीन अध्यायों को अभिधर्म-सर्वास्तिवाद के 'त्रिकाल-सत्' सिद्धान्त — जिसमें धर्म भूत, वर्तमान, भविष्यत् तीनों कालों में द्रव्यतः विद्यमान माने जाते थे — के विरुद्ध विशेष रूप से प्रयुक्त करते हैं। संस्कृत लक्षणों की अनवस्था दिखाकर वे इस सिद्धान्त की जड़ पर आघात करते हैं, और सांख्य के पूर्ववर्ती पुरुष का खण्डन आगे चलकर उनकी स्वयं की मध्यमकावतार में आत्म-परीक्षा (रथ-दृष्टान्त) की भूमिका तैयार करता है।",
+          "en": "Candrakīrti applies these three chapters especially against the Sarvāstivāda Abhidharma doctrine of 'existence in all three times,' whereby dharmas were held to substantially exist in past, present, and future alike. By showing the regress in the marks of the conditioned, he strikes at the root of that doctrine, and the refutation of the Sāṃkhya prior-self here anticipates the chariot analysis of self he will develop in his own Madhyamakāvatāra.",
+          "ins": "Candrakīrti is playing a long game — chapters like this one seem narrowly technical, but he reads them as demolishing entire rival metaphysical systems (Sarvāstivāda's tri-temporal realism, Sāṃkhya's puruṣa) piece by piece, setting up the fuller self-analysis that comes in Chapter 18."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित संस्कृतपरीक्षा में भी शुद्ध प्रसंग-पद्धति अपनाते हैं — विरोधी के इस मत को स्वीकार कर कि उत्पाद-स्थिति-भङ्ग वास्तविक लक्षण हैं, वे केवल यह दिखाते हैं कि इससे अनवस्था अनिवार्य रूप से उत्पन्न होती है। कर्ता-कर्म परीक्षा में भी वे विरोधी के 'विद्यमान कर्ता' और 'अविद्यमान कर्ता' दोनों विकल्पों को बारी-बारी लेकर उनके अपने ही आन्तरिक विरोधाभास उजागर करते हैं।",
+          "en": "Buddhapālita retains the pure prasaṅga method here too — provisionally granting the opponent's view that arising-abiding-ceasing are real marks, he shows only that infinite regress necessarily follows. In the agent-action examination too, he takes the opponent's 'existing agent' and 'non-existing agent' options in turn, exposing the internal contradiction each harbors on its own terms.",
+          "ins": "Even across very different topics — universal marks of existence, and something as concrete as agency — Buddhapālita applies the exact same tool: grant the premise, follow it to its own breaking point. The consistency of method across such different subject matter is itself an argument for its soundness."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक संस्कृत-लक्षणों की परीक्षा में भी स्वतन्त्र अनुमान गढ़ते हैं — जैसे 'उत्पाद परमार्थतः स्वतःसिद्ध नहीं, क्योंकि वह अन्य दो लक्षणों (स्थिति, भङ्ग) की अपेक्षा रखता है, जैसे दीर्घत्व ह्रस्वत्व की अपेक्षा रखता है।' कर्ता-कर्म-परीक्षा में भी वे संव्यवहारिक स्तर पर कर्ता-कर्म के प्रामाणिक अस्तित्व को स्वीकारते हुए केवल परमार्थ-स्तर पर उसका निषेध करते हैं — उनकी शैली सदैव 'संवृत्या अस्ति, परमार्थतः नास्ति' के ढाँचे में चलती है।",
+          "en": "Bhāviveka again constructs autonomous inferences in the examination of the marks of the conditioned — e.g., 'arising is not ultimately self-established, because it depends on the other two marks (abiding, ceasing), just as length depends on shortness.' In the agent-action chapter too he accepts the conventionally valid existence of agent and action, negating them only at the ultimate level — his style consistently follows the frame 'exists conventionally, does not exist ultimately.'",
+          "ins": "Bhāviveka's two-tier formula — real at the conventional level, empty at the ultimate — is clean and systematic. Candrakīrti will later argue this clean separation is itself suspect: if you need a formal proof for the ultimate negation, are you not smuggling in some independently establishable ground after all?"
+        }
+      },
+      "refs": "मूलमाध्यमककारिका ७.१-३४ (उत्पाद-स्थिति-भङ्ग, स्वप्न-माया-दृष्टान्त ७.३४), ८.१-१३ (कर्तृ-कर्म), ९.१-१२ (पूर्व-सत्ता, इन्द्रिय-पूर्व द्रष्टा)"
+    },
+    {
+      "id": "relational_analysis",
+      "num": 4,
+      "sk": "अग्नि-इन्धन-कोटि-परीक्षा",
+      "ro": "agni-indhana-koṭi-parīkṣā",
+      "full_sk": "अग्निइन्धनपरीक्षा एवं पूर्वापरकोटिपरीक्षा",
+      "full_ro": "agni-indhana-parīkṣā and pūrvāpara-koṭi-parīkṣā",
+      "title_hi": "अध्याय १०-११ · अग्नि-इन्धन और संसार की सीमाओं की परीक्षा",
+      "title_en": "Chapters 10-11 · Examination of Fire-Fuel and the Limits of Saṃsāra",
+      "body_hi": "दसवाँ अध्याय — <strong>अग्निइन्धनपरीक्षा</strong> — ग्रन्थ का सबसे प्रसिद्ध रूपक प्रस्तुत करता है। अग्नि और इन्धन (ईंधन) यदि अभिन्न हों, तो कर्ता (अग्नि, जलाने वाला) और कर्म (इन्धन, जलाया जाने वाला) एक ही हो जाएँगे — जो असंगत है। यदि सर्वथा भिन्न हों, तो इन्धन के बिना भी अग्नि जल सकनी चाहिए — जो अनुभव-विरुद्ध है। यह रूपक केवल अग्नि-इन्धन तक सीमित नहीं — यह <strong>आत्मा और स्कन्ध</strong> (अध्याय १८ में विस्तारित), <strong>कर्ता-कर्म</strong> (अध्याय ८) जैसे प्रत्येक सम्बन्ध का प्रतिनिधि है। निष्कर्ष — ऐसे सम्बन्ध न अभिन्नता से, न भिन्नता से सिद्ध होते, अपितु <strong>उपादाय प्रज्ञप्ति</strong> — सापेक्ष, परस्पराश्रित नामकरण — मात्र हैं।<br><br>ग्यारहवाँ अध्याय — <strong>पूर्वापरकोटिपरीक्षा</strong> — संसार की सीमाओं की खोज करता है: क्या संसार का कोई आदि-बिन्दु मिलता है? नागार्जुन दिखाते हैं — न जन्म जरा-मरण से पूर्व सिद्ध होता है, न पश्चात्, न साथ — इसी प्रकार संसार का कोई प्रथम या अन्तिम बिन्दु तर्कतः नहीं मिलता। संसार अनादि-चक्रीय प्रतीत होता है, परन्तु यह अनादित्व भी स्वभाव-सिद्ध सत्ता का प्रमाण नहीं — यह भी केवल सापेक्ष प्रवाह है।",
+      "body_en": "Chapter 10, the <strong>Examination of Fire and Fuel</strong>, presents the text's most celebrated metaphor. If fire and fuel are identical, then the agent (fire, the burner) and the action (fuel, the burned) collapse into one — which is incoherent. If they are entirely different, fire should be able to burn without fuel — which contradicts experience. This metaphor is not limited to fire and fuel — it stands for <strong>every</strong> relation of this shape: self and aggregates (developed fully in Chapter 18), agent and action (Chapter 8). The conclusion: such relations are established neither through identity nor through difference, but only as <strong>dependent designations</strong> (upādāya prajñapti) — relative, mutually dependent namings.<br><br>Chapter 11, the <strong>Examination of Prior and Posterior Limits</strong>, searches for the boundaries of saṃsāra: is a first point of saṃsāra to be found? Nāgārjuna shows that birth is established neither before old-age-and-death, nor after, nor simultaneously with it — likewise, no first or final point of saṃsāra can be logically found. Saṃsāra appears beginninglessly cyclic, yet even this beginninglessness is no proof of intrinsically established existence — it too is only a relative flow.",
+      "sub": [
+        {
+          "sk": "अभिन्नता का दोष",
+          "hi": "यदि अग्नि और इन्धन अभिन्न मान लिए जाएँ, तो कर्ता और कर्म एक हो जाते हैं — कर्ता स्वयं ही अपना कर्म हो जाएगा, जो असंगत परिणाम है। यह दोष हर उस सिद्धान्त पर लागू होता है जो सम्बद्ध-द्वयों को सर्वथा अभिन्न मानता है।",
+          "en": "If fire and fuel are held identical, then agent and action collapse into one — the agent would itself become its own action, an incoherent result. This flaw applies to any theory that treats related pairs as entirely identical."
+        },
+        {
+          "sk": "भिन्नता का दोष",
+          "hi": "यदि अग्नि और इन्धन सर्वथा भिन्न हों, तो अग्नि को इन्धन की आवश्यकता ही न रहे — वह इन्धन के बिना भी जल सकती। पर ऐसा अनुभव में नहीं होता। अतः पूर्ण भिन्नता भी असंगत है।",
+          "en": "If fire and fuel are entirely different, fire would not need fuel at all — it should burn independently. But this contradicts experience. So complete difference is equally untenable."
+        },
+        {
+          "sk": "उपादाय-प्रज्ञप्ति",
+          "hi": "समाधान — अग्नि, इन्धन के <strong>आश्रय से गृहीत</strong> (उपादाय) कहलाती है — न अभिन्न, न भिन्न, अपितु सापेक्ष नामकरण। यही सिद्धान्त आत्मा-स्कन्ध सम्बन्ध (अध्याय १८) की कुञ्जी बनता है।",
+          "en": "The resolution: fire is designated 'in dependence upon' (upādāya) fuel — neither identical nor different, but a relative naming. This very principle becomes the key to the self-aggregate relation examined later in Chapter 18."
+        },
+        {
+          "sk": "संसार की अनादिता",
+          "hi": "जन्म, जरा-मरण से पूर्व, पश्चात् या साथ सिद्ध नहीं होता — संसार का कोई प्रथम बिन्दु तर्कतः नहीं मिलता। यह अनादित्व संसार को स्वभाव-सिद्ध नहीं बनाती, अपितु उसकी सापेक्ष, प्रवाहमान प्रकृति को ही उजागर करती है।",
+          "en": "Birth cannot be established before, after, or simultaneous with old-age-and-death — no first point of saṃsāra can logically be found. This beginninglessness does not make saṃsāra intrinsically existent; rather, it exposes its relative, ever-flowing nature."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति अग्नि-इन्धन रूपक को अपनी मध्यमकावतार की <strong>रथ-दृष्टान्त</strong> पद्धति से जोड़ते हैं — जैसे रथ न अपने अवयवों से अभिन्न है, न भिन्न, न अवयवों में स्थित, न अवयव उसमें स्थित, वैसे ही आत्मा स्कन्धों से, और अग्नि इन्धन से सम्बद्ध है। वे इस पञ्चकोटि-विश्लेषण को उपादाय-प्रज्ञप्ति की सर्वोत्तम व्याख्या मानते हैं और इसे संव्यवहार में प्रामाणिक ठहराते हैं।",
+          "en": "Candrakīrti links the fire-fuel metaphor to his own <strong>chariot-analysis</strong> method in the Madhyamakāvatāra — just as a chariot is neither identical to nor different from its parts, neither located in its parts nor its parts in it, so the self relates to the aggregates, and fire to fuel. He regards this fivefold analysis as the best explication of dependent designation, valid within conventional usage.",
+          "ins": "Candrakīrti generalizes the fire-fuel puzzle into a five-point checklist (identity, difference, containment either way, mere collection, shape) that he'll apply to the self in Chapter 18's territory. It's a reusable diagnostic for any relation you're tempted to reify."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित अग्नि-इन्धन अध्याय में भी प्रसंग-पद्धति से ही आगे बढ़ते हैं — विरोधी जो भी विकल्प (अभिन्नता या भिन्नता) चुने, वे उसी विकल्प के भीतर से असंगति निकालते हैं, स्वयं कोई तीसरा वैकल्पिक सिद्धान्त प्रस्तुत नहीं करते। संसार-सीमा-परीक्षा में भी वे केवल यह दिखाते हैं कि प्रत्येक सम्भावित आदि-बिन्दु का दावा स्वयं में असंगत सिद्ध होता है।",
+          "en": "Buddhapālita proceeds again purely by consequence in the fire-fuel chapter — whichever option (identity or difference) the opponent chooses, he draws out the inconsistency from within that very option, never proposing a third alternative theory of his own. In the examination of saṃsāra's limits too, he only shows that every possible claim to a starting point proves self-inconsistent.",
+          "ins": "It's worth noting how unglamorous Buddhapālita's method is by design — no bold new metaphysics, just patient dismantling. That restraint is precisely what Candrakīrti will later insist is the correct reading of Nāgārjuna's own intent."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक अग्नि-इन्धन के उपादाय-प्रज्ञप्ति सिद्धान्त को स्वीकारते हुए भी इसे स्वतन्त्र अनुमान के रूप में प्रस्तुत करते हैं — 'अग्नि परमार्थतः इन्धन से न अभिन्न है न भिन्न, क्योंकि दोनों विकल्पों में दोष आता है, जैसे...' — इस प्रकार वे प्रासङ्गिक निष्कर्ष को भी विधिवत् अनुमान के ढाँचे में ढालते हैं, जिससे प्रतिवादी को औपचारिक तर्क-शास्त्र की भाषा में उत्तर देना पड़े।",
+          "en": "While accepting the dependent-designation account of fire and fuel, Bhāviveka still casts it as a formal autonomous inference — 'fire ultimately is neither identical to nor different from fuel, because both alternatives entail faults, as in the case of...' — thereby recasting even a prāsaṅgika-style conclusion into the mold of formal inference, forcing an opponent to respond in the language of formal logic.",
+          "ins": "Bhāviveka's insistence on formal proof even here shows his broader project: he wants Madhyamaka conclusions to be reachable by anyone following valid inference rules, not dependent on first granting the opponent's own premises as Buddhapālita does."
+        }
+      },
+      "refs": "मूलमाध्यमककारिका १०.१ ('यदिन्धनं स एवाग्निः'), १०.१४-१५ (उपादाय प्रज्ञप्ति), ११.१-२ ('पूर्वा प्रज्ञायते कोटिः'), ११.८ (अनादि संसार)"
+    },
+    {
+      "id": "suffering_formations",
+      "num": 5,
+      "sk": "दुःख-संस्कार-संसर्गपरीक्षा",
+      "ro": "duḥkha-saṃskāra-saṃsarga-parīkṣā",
+      "full_sk": "दुःखपरीक्षा, संस्कारपरीक्षा एवं संसर्गपरीक्षा",
+      "full_ro": "duḥkha-parīkṣā, saṃskāra-parīkṣā, and saṃsarga-parīkṣā",
+      "title_hi": "अध्याय १२-१४ · दुःख, संस्कार और संसर्ग की परीक्षा",
+      "title_en": "Chapters 12-14 · Examination of Suffering, Formations, and Contact",
+      "body_hi": "बारहवाँ अध्याय — <strong>दुःखपरीक्षा</strong> — चतुष्कोटि को दुःख के उद्गम पर लागू करता है: दुःख न स्वयं द्वारा निर्मित है (स्वकृत), न पर द्वारा (परकृत), न दोनों द्वारा (उभयकृत), न अकारण (अहेतुक)। यदि दुःख स्वकृत हो तो दुःखी पुरुष ही अपने दुःख का कर्ता और भोक्ता दोनों होगा — जो अनेक असंगतियाँ उत्पन्न करता है। यह विश्लेषण दिखाता है कि दुःख भी, अन्य सभी वस्तुओं की भाँति, प्रतीत्यसमुत्पन्न है, किसी एक निश्चित प्रकार के 'कर्तृत्व' से बद्ध नहीं।<br><br>तेरहवाँ अध्याय — <strong>संस्कारपरीक्षा</strong> — बुद्ध-वचन को आधार बनाता है: 'जो कुछ मृषा-मोष-धर्म (धोखा देने वाला, परिवर्तनशील) है, वही असत्य है' — अतः समस्त संस्कृत वस्तुएँ, जो परिवर्तनशील हैं, स्वभावतः असत्य हैं। यह अध्याय उस मत का भी खण्डन करता है जो 'परिणाम' (अन्यथाभाव) को सिद्ध करने के लिए किसी अपरिवर्तित मूल-द्रव्य को आवश्यक मानता है — यदि वस्तु सचमुच बदलती है तो वह स्वभावतः स्थिर नहीं हो सकती। इसी अध्याय में शून्यता के विषय में प्रसिद्ध चेतावनी आती है — शून्यता समस्त दृष्टियों से मुक्त करने के लिए कही गई है, परन्तु जो शून्यता को ही एक दृष्टि (मत) बना लेता है, उसका रोग असाध्य है।<br><br>चौदहवाँ अध्याय — <strong>संसर्गपरीक्षा</strong> — द्रष्टा, दृश्य, दर्शन (या समान त्रयों) के बीच वास्तविक 'संसर्ग' (सम्पर्क, मेल) की सम्भावना जाँचता है — समान वस्तुओं का परस्पर संसर्ग असम्भव है (क्योंकि संसर्ग के लिए द्वैत चाहिए), और सर्वथा भिन्न वस्तुओं का संसर्ग भी असम्भव है (क्योंकि उनमें कोई साझा आधार नहीं) — दोनों ही स्थितियों में वास्तविक संसर्ग सिद्ध नहीं होता।",
+      "body_en": "Chapter 12, the <strong>Examination of Suffering</strong>, applies the tetralemma to suffering's origin: suffering is not self-made, not made by another, not made by both, and not causeless. If suffering were self-made, the sufferer would be both agent and experiencer of their own suffering — generating numerous inconsistencies. This shows suffering too, like everything else, arises dependently, bound to no single fixed mode of 'agency.'<br><br>Chapter 13, the <strong>Examination of Formations</strong>, builds on the Buddha's own saying: 'whatever is deceptive (mṛṣā-moṣa-dharma), that is false' — hence all conditioned things, being subject to change, are intrinsically unreal. This chapter also refutes the view that requires an unchanging underlying substance to make sense of 'change' (anyathābhāva) — if a thing genuinely changes, it cannot be intrinsically fixed. This chapter also carries the text's famous warning about emptiness itself: emptiness is taught to free one from all views, but for whoever turns emptiness itself into a view, that condition is incurable.<br><br>Chapter 14, the <strong>Examination of Contact</strong>, examines whether real 'contact' (conjunction) is possible between seer, seen, and seeing (or similar triads) — like things cannot really contact each other (contact requires duality), and entirely different things also cannot contact each other (having no shared ground) — in neither case is genuine contact established.",
+      "sub": [
+        {
+          "sk": "चतुष्कोटि और दुःख",
+          "hi": "दुःख न स्वकृत, न परकृत, न उभयकृत, न अहेतुक — इनमें से कोई भी विकल्प तर्क-परीक्षा में टिकता नहीं। दुःख भी प्रतीत्यसमुत्पन्न है — यह चतुष्कोटि पूरे ग्रन्थ में कारण-सम्बन्धों की जाँच का मानक उपकरण है।",
+          "en": "Suffering is neither self-made, other-made, made by both, nor causeless — none of these options survives logical scrutiny. Suffering too arises dependently — this tetralemma is the standard tool used throughout the text to examine causal relations."
+        },
+        {
+          "sk": "मृषा-मोषधर्म",
+          "hi": "बुद्ध का वचन — जो कुछ धोखा देने वाला (मृषा) और परिवर्तनशील (मोषधर्म) है, वही असत्य है। संस्कृत जगत् की प्रत्येक वस्तु परिवर्तनशील है, अतः स्वभावतः असत्य — यह तर्क संस्कारों की स्वभाव-शून्यता का सीधा प्रमाण है।",
+          "en": "The Buddha's saying: whatever is deceptive (mṛṣā) and subject to change (moṣadharma) is false. Every conditioned thing is subject to change, hence intrinsically unreal — this is a direct argument for the emptiness of formations."
+        },
+        {
+          "sk": "शून्यता की चेतावनी",
+          "hi": "'शून्यता समस्त दृष्टियों के निवारण हेतु कही गई है; जो शून्यता को ही दृष्टि बना ले, उसका उपचार असम्भव है' — यह श्लोक (१३.८) चेतावनी देता है कि शून्यता स्वयं एक दार्शनिक सिद्धान्त या पकड़ने योग्य वस्तु नहीं, अपितु सभी पकड़ों को छोड़ने का उपाय मात्र है।",
+          "en": "'Emptiness is taught to release one from all views; whoever grasps emptiness itself as a view becomes incurable' — this verse (13.8) warns that emptiness itself is not a philosophical doctrine or a thing to be grasped, but only a means for releasing every grasp."
+        },
+        {
+          "sk": "सम-विषम संसर्ग असम्भव",
+          "hi": "समान वस्तुओं का परस्पर संसर्ग नहीं हो सकता (द्वैत के अभाव में संसर्ग निरर्थक), भिन्न वस्तुओं का भी संसर्ग नहीं हो सकता (साझा आधार के अभाव में) — यह दिखाता है द्रष्टा-दृश्य-दर्शन जैसे त्रय वास्तविक 'मेल' के रूप में सिद्ध नहीं होते।",
+          "en": "Like things cannot make contact with each other (with no duality, contact is meaningless); different things also cannot make contact (lacking shared ground) — showing that triads like seer-seen-seeing cannot be established as a real 'meeting.'"
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति शून्यता-चेतावनी वाले श्लोक (१३.८) को अपने पूरे भाष्य की कुंजी मानते हैं — यह दिखाने के लिए कि माध्यमिक स्वयं किसी 'शून्यता-दृष्टि' का प्रचार नहीं कर रहा, अपितु सभी दृष्टियों (शाश्वत, उच्छेद, और यहाँ तक कि 'शून्यता' नामक दृष्टि) से मुक्ति सिखा रहा है। यही कारण है कि वे स्वतन्त्र अनुमान द्वारा 'शून्यता' को सिद्ध करने के प्रयास को भी असंगत मानते हैं — क्योंकि ऐसा प्रयास शून्यता को ही एक स्थापनीय पक्ष बना देगा।",
+          "en": "Candrakīrti treats the emptiness-warning verse (13.8) as the key to his entire commentary — showing that the Mādhyamika is not propagating some 'view of emptiness,' but teaching freedom from all views (eternalist, nihilist, and even a view called 'emptiness'). This is why he considers even the attempt to prove emptiness through autonomous inference incoherent — such an attempt would itself turn emptiness into a position to be established.",
+          "ins": "This is Candrakīrti's deepest point about method: if you formally prove 'everything is empty' as your thesis, you've just created a new, subtler thing to cling to. The medicine becomes another disease. Only consequentialist refutation, never asserting a counter-thesis, avoids this trap."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित दुःख-परीक्षा में विरोधी के प्रत्येक विकल्प (स्वकृत, परकृत, उभयकृत, अहेतुक) को स्वीकार कर उसमें अन्तर्निहित असंगति उजागर करते हैं — जैसे स्वकृत मानने पर कर्ता और भोक्ता एक ही हो जाने का असंगत परिणाम। संसर्ग-परीक्षा में भी वे इसी रीति से समान और विषम दोनों विकल्पों को विरोधी की ही शर्तों पर विफल दिखाते हैं।",
+          "en": "In the examination of suffering, Buddhapālita grants each of the opponent's options (self-made, other-made, both, causeless) and exposes the inconsistency inherent within it — such as the incoherent result, on the self-made view, of agent and experiencer collapsing into one. In the contact chapter too, he shows both the 'similar' and 'different' options failing on the opponent's own terms.",
+          "ins": "Even applied to something as existentially weighty as suffering, Buddhapālita's method stays cool and technical — no appeal to compassion or practice, just logic. The emotional force of the conclusion (suffering has no fixed, independent cause) emerges from the argument itself, not from rhetorical framing."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक इन अध्यायों में भी स्वतन्त्र अनुमान प्रस्तुत करते हैं — जैसे 'दुःख परमार्थतः स्वकृत नहीं, क्योंकि इससे कर्तृ-भोक्तृ-एकत्व का अनिष्ट प्रसंग आता है, जैसे...।' शून्यता-चेतावनी श्लोक की व्याख्या में वे इसे 'शून्यता को गलत ढंग से ग्रहण करने के विरुद्ध चेतावनी' मानते हैं, परन्तु साथ ही यह भी मानते हैं कि शून्यता को सम्यक् प्रकार से, विधिवत् अनुमान द्वारा भी सिद्ध किया जा सकता है और करना चाहिए।",
+          "en": "Bhāviveka again offers autonomous inferences here — e.g., 'suffering is not ultimately self-made, because this entails the unwanted consequence of agent-and-experiencer becoming one, as in...' In interpreting the emptiness-warning verse, he reads it as a warning against wrongly grasping emptiness, while still maintaining that emptiness can and should also be properly established through formal inference.",
+          "ins": "Here is the crux of the later split: Bhāviveka reads 13.8 as a warning about misusing emptiness, not as ruling out formal proof of emptiness altogether. Candrakīrti will read the same verse as ruling out formal proof itself. Same text, genuinely different philosophical stakes."
+        }
+      },
+      "refs": "मूलमाध्यमककारिका १२.१-१० (चतुष्कोटि दुःख), १३.१-२ ('मृषामोषधर्म'), १३.८ (शून्यता-चेतावनी — 'शून्यता सर्वदृष्टीनां प्रोक्ता निःसरणं जिनैः'), १४.१-८ (संसर्ग-असम्भव)"
+    },
+    {
+      "id": "svabhava_liberation",
+      "num": 6,
+      "sk": "स्वभाव-बन्धमोक्षपरीक्षा",
+      "ro": "svabhāva-bandhamokṣa-parīkṣā",
+      "full_sk": "स्वभावपरीक्षा एवं बन्धमोक्षपरीक्षा",
+      "full_ro": "svabhāva-parīkṣā and bandha-mokṣa-parīkṣā",
+      "title_hi": "अध्याय १५-१६ · स्वभाव तथा बन्ध-मोक्ष की परीक्षा",
+      "title_en": "Chapters 15-16 · Examination of Intrinsic Nature and of Bondage-Liberation",
+      "body_hi": "पन्द्रहवाँ अध्याय — <strong>स्वभावपरीक्षा</strong> — सम्पूर्ण ग्रन्थ का <strong>हृदय</strong> है। नागार्जुन तर्क देते हैं — स्वभाव (स्वतःसिद्ध, अन्तर्निहित प्रकृति) कभी कारणों और प्रत्ययों से उत्पन्न नहीं हो सकता, क्योंकि 'बना हुआ स्वभाव' अपने में विरोधाभास है — जो कारणों से बना, वह कृत्रिम है, स्वभाव नहीं। जब स्वभाव सिद्ध नहीं होता, तो <strong>परभाव</strong> (दूसरे की अपेक्षा से नामित प्रकृति, जो स्वभाव के सापेक्ष ही परिभाषित होती है) भी सिद्ध नहीं होता। स्वभाव-परभाव दोनों के अभाव में <strong>भाव</strong> (सद्वस्तु) सिद्ध नहीं होता, और भाव के बिना <strong>अभाव</strong> (असद्वस्तु, जो भाव के निषेध या परिवर्तन के रूप में ही समझा जाता है) भी सिद्ध नहीं होता। इस प्रकार यह अध्याय <strong>शाश्वतवाद</strong> (स्थायी, स्वतःसिद्ध सत्ता का आग्रह) और <strong>उच्छेदवाद</strong> (पहले सद्वस्तु मानकर फिर उसे सर्वथा नष्ट मानना) — दोनों अतियों का निषेध करता है, बुद्ध के काश्यप को दिये उपदेश का स्मरण कराते हुए — 'अस्ति' और 'नास्ति' दोनों अन्त हैं, मध्यम मार्ग दोनों से परे है।<br><br>सोलहवाँ अध्याय — <strong>बन्धमोक्षपरीक्षा</strong> — जाँचता है कि क्या संस्कार या कोई सत्त्व वास्तव में संसार में <strong>संक्रमण</strong> (transmigrate) करता है। यदि स्कन्ध नित्य हैं, तो वे बदल नहीं सकते, अतः संक्रमण असम्भव; यदि क्षणिक (अनित्य) हैं, तो भी कुछ भी एक जन्म से दूसरे जन्म तक 'ले जाया' नहीं जा सकता। न कोई सत्त्व बद्ध पाया जाता है, न मुक्त — बन्ध और मोक्ष, संसार और निर्वाण की भाँति, स्वभाव-सिद्ध सत्ता नहीं रखते। मोक्ष का अर्थ किसी विद्यमान 'बद्ध आत्मा' का मुक्त होना नहीं, अपितु ग्रहण (उपादान) की समाप्ति मात्र है।",
+      "body_en": "Chapter 15, the <strong>Examination of Intrinsic Nature</strong>, is the <strong>heart</strong> of the entire text. Nāgārjuna argues that svabhāva — a self-established, inherent nature — can never arise from causes and conditions, because a 'manufactured intrinsic nature' is a contradiction in terms: whatever is made by causes is artificial, not truly intrinsic. When svabhāva cannot be established, <strong>parabhāva</strong> (a nature defined relative to something else, which itself is only meaningful relative to svabhāva) cannot be established either. Without both svabhāva and parabhāva, <strong>bhāva</strong> (an existent entity) cannot be established, and without bhāva, <strong>abhāva</strong> (a non-existent, understood only as the negation or alteration of some prior bhāva) cannot be established either. This chapter thus refutes both <strong>eternalism</strong> (insisting on permanent, self-established existence) and <strong>annihilationism</strong> (first positing real existence, then declaring its utter destruction) — recalling the Buddha's teaching to Kātyāyana that 'it exists' and 'it does not exist' are both extremes; the middle way lies beyond both.<br><br>Chapter 16, the <strong>Examination of Bondage and Liberation</strong>, examines whether formations or any being really <strong>transmigrates</strong> through saṃsāra. If the aggregates are permanent, they cannot change, so transmigration is impossible; if momentary (impermanent), nothing can be 'carried over' from one life to the next either. No being is found to be bound, nor liberated — bondage and liberation, like saṃsāra and nirvāṇa, have no intrinsically established existence. Liberation does not mean some pre-existing 'bound self' becoming free — it is merely the cessation of grasping (upādāna) itself.",
+      "sub": [
+        {
+          "sk": "कृत्रिम स्वभाव का विरोधाभास",
+          "hi": "'स्वभाव' शब्द का अर्थ ही है — जो कृत्रिम न हो, अकारण-सिद्ध हो। यदि स्वभाव को कारणों से उत्पन्न मान लिया जाए, तो वह अपने ही शब्दार्थ का खण्डन कर देता है — 'बना हुआ स्वभाव' असंगत पद है। अतः कोई भी वस्तु स्वभावतः विद्यमान सिद्ध नहीं होती।",
+          "en": "The very meaning of 'svabhāva' is that which is uncontrived, established without cause. If svabhāva is held to arise from causes, it contradicts its own definition — a 'manufactured intrinsic nature' is a self-contradictory term. Hence nothing can be established as existing by intrinsic nature."
+        },
+        {
+          "sk": "काश्यप-उपदेश — उभय अन्त का निषेध",
+          "hi": "बुद्ध के काश्यप को दिये उपदेश (काश्यपपरिवर्त सूत्र) का स्मरण — 'अस्ति' (है) और 'नास्ति' (नहीं है) दोनों अन्तिम अतियाँ हैं। शाश्वतवाद स्वभाव-सत्ता का आग्रह करता है, उच्छेदवाद उसे नष्ट मानता है — दोनों ही स्वभाव को गम्भीरता से लेने की भूल करते हैं। मध्यम मार्ग दोनों अतियों से परे है।",
+          "en": "Recalling the Buddha's teaching to Kātyāyana (Kāśyapaparivarta Sūtra) — both 'it exists' and 'it does not exist' are extremes. Eternalism insists on intrinsically established existence; annihilationism declares its destruction — both mistakenly take svabhāva seriously in the first place. The middle way lies beyond both extremes."
+        },
+        {
+          "sk": "संक्रमण की असम्भवता",
+          "hi": "नित्य स्कन्ध बदल नहीं सकते, अतः संक्रमण असम्भव; क्षणिक स्कन्ध भी अगले जन्म तक कुछ 'ले' नहीं जा सकते। दोनों ही स्थितियों में स्थायी 'संक्रमण करने वाला' सत्त्व सिद्ध नहीं होता — फिर भी कर्म-फल-सातत्य व्यावहारिक रूप से बना रहता है।",
+          "en": "Permanent aggregates cannot change, so transmigration is impossible; momentary aggregates also cannot carry anything into the next life. In neither case can a persisting 'transmigrating being' be established — yet the conventional continuity of karma and its fruit still holds."
+        },
+        {
+          "sk": "मोक्ष = ग्रहण की समाप्ति",
+          "hi": "मोक्ष का अर्थ किसी बद्ध द्रव्य-आत्मा का बन्धन से छूटना नहीं — क्योंकि न कोई ऐसा स्वभाव-सिद्ध आत्मा है, न वास्तविक बन्धन। मोक्ष = केवल उपादान (ग्रहण, आसक्ति) का शमन, जो संसार और निर्वाण दोनों की स्वभाव-शून्यता को समझने से स्वतः घटित होता है।",
+          "en": "Liberation does not mean an intrinsically existing self being freed from a real bondage — since neither such a self nor a real bondage can be established. Liberation is merely the pacification of grasping (upādāna), which occurs naturally through understanding the emptiness of both saṃsāra and nirvāṇa."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति स्वभावपरीक्षा को पूरे ग्रन्थ की धुरी मानते हुए इस पर विशेष विस्तार से लिखते हैं — वे दिखाते हैं कि स्वभाव को स्वतन्त्र अनुमान से 'सिद्ध' करने का कोई भी प्रयास (चाहे शून्यता को सिद्ध करने के लिए ही क्यों न हो) स्वयं स्वभाव-ग्राह को पुनर्जीवित कर देगा। इसीलिए वे काश्यप-उपदेश को शुद्ध प्रासङ्गिक पद्धति के धर्मशास्त्रीय आधार के रूप में उद्धृत करते हैं — बुद्ध ने स्वयं कोई प्रत्यक्ष सिद्धान्त प्रस्तुत नहीं किया, केवल दोनों अतियों को नकारा।",
+          "en": "Candrakīrti treats the Examination of Intrinsic Nature as the pivot of the entire text and writes on it at special length — showing that any attempt to 'establish' svabhāva through autonomous inference (even to prove emptiness) would itself revive the grasping at svabhāva. This is why he cites the Kātyāyana teaching as the scriptural basis for the pure prāsaṅgika method — the Buddha himself presented no direct thesis, only negated both extremes.",
+          "ins": "This chapter is where Candrakīrti's whole methodological stance crystallizes: if even negating svabhāva requires a formal proof built on shared premises, you've implicitly granted svabhāva enough reality to reason about. The only safe move is consequentialist — showing the other view self-destructs, without building anything in its place."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित यहाँ भी विरोधी (जो स्वभाव को कारण-जन्य मानता है) के अपने आधार से यह असंगति निकालते हैं — 'यदि स्वभाव कारण-जन्य है, तो वह कृत्रिम है; कृत्रिम वस्तु स्वभाव नहीं हो सकती, क्योंकि स्वभाव की परिभाषा ही अकृत्रिमता है' — यह विरोधी के अपने शब्दों में निहित असंगति का उद्घाटन मात्र है, कोई नया सिद्धान्त नहीं। बन्ध-मोक्ष परीक्षा में भी वे नित्य-अनित्य दोनों विकल्पों को विरोधी की शर्तों पर विफल दिखाते हैं।",
+          "en": "Here too Buddhapālita draws out the inconsistency from the opponent's own premises (that svabhāva arises from causes) — 'if svabhāva arises from causes, it is manufactured; a manufactured thing cannot be svabhāva, since the very definition of svabhāva is being uncontrived' — this only exposes a contradiction latent in the opponent's own terms, not a new thesis. In the bondage-liberation chapter too, he shows both the permanent and impermanent options failing on the opponent's own terms.",
+          "ins": "Even in the text's most philosophically central chapter, Buddhapālita refuses to upgrade his method into a positive metaphysics of emptiness. The restraint here is almost austere — precisely the discipline Candrakīrti will later insist is the only way to avoid emptiness becoming just another view to cling to."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक इस अध्याय में भी स्वतन्त्र अनुमान द्वारा स्वभाव का निषेध करते हैं — 'आन्तरिक धर्म परमार्थतः स्वभाव-रहित हैं, क्योंकि वे प्रत्ययजन्य हैं, जैसे माया-निर्मित वस्तु।' वे शाश्वत-उच्छेद दोनों अतियों के निषेध को स्वीकारते हैं, परन्तु इसे भी विधिवत् प्रमाण द्वारा सिद्ध करने योग्य मानते हैं — उनके अनुसार बुद्ध का काश्यप-उपदेश भी अन्ततः एक सुसंगत तर्क-संरचना रखता है जिसे औपचारिक भाषा में व्यक्त किया जा सकता है।",
+          "en": "In this chapter too, Bhāviveka negates svabhāva through autonomous inference — 'internal phenomena are ultimately devoid of intrinsic nature, because they arise from conditions, like a magically created object.' He accepts the negation of both eternalism and annihilationism, but holds this too should be established through proper proof — for him, even the Buddha's teaching to Kātyāyana ultimately embodies a coherent logical structure expressible in formal terms.",
+          "ins": "Bhāviveka's confidence that even the Buddha's most anti-metaphysical statements can be reformatted as valid syllogisms is exactly what later Tibetan doxographers flag as the crux of the Svātantrika-Prāsaṅgika split — is formal proof itself compatible with the total absence of any position?"
+        }
+      },
+      "refs": "मूलमाध्यमककारिका १५.१-२ (कृत्रिम स्वभाव का विरोधाभास), १५.७ (काश्यप-उपदेश स्मरण), १५.१०-११ (अस्ति-नास्ति उभय-अन्त), १६.१-५ (संक्रमण-परीक्षा), १६.१० (मोक्ष = उपादान-शमन)"
+    },
+    {
+      "id": "action_self_time",
+      "num": 7,
+      "sk": "कर्मफल-आत्म-कालपरीक्षा",
+      "ro": "karmaphala-ātma-kāla-parīkṣā",
+      "full_sk": "कर्मफलपरीक्षा, आत्मपरीक्षा एवं कालपरीक्षा",
+      "full_ro": "karma-phala-parīkṣā, ātma-parīkṣā, and kāla-parīkṣā",
+      "title_hi": "अध्याय १७-१९ · कर्म-फल, आत्मा और काल की परीक्षा",
+      "title_en": "Chapters 17-19 · Examination of Action-and-Fruit, Self, and Time",
+      "body_hi": "सत्रहवाँ अध्याय — <strong>कर्मफलपरीक्षा</strong> — ग्रन्थ का दूसरा सबसे लम्बा अध्याय (३३ श्लोक) है, जो एक कठिन प्रश्न से जूझता है — यदि सब कुछ शून्य है, तो कर्म अपना फल कैसे देता है? नागार्जुन कुछ अभिधार्मिक स्कूलों के 'अविप्रणाश' (एक प्रकार का अ-नाशवान् प्रमाण-पत्र, जो कर्म-ऋण को फल-काल तक वहन करता है) जैसे सिद्धान्तों की परीक्षा करते हैं, और दिखाते हैं कि कर्म-फल सम्बन्ध — बीज और अंकुर की भाँति, या माया-निर्मित वस्तु द्वारा रचित अन्य माया की भाँति — बिना किसी स्वभाव-सिद्ध वाहक के, केवल प्रतीत्यसमुत्पाद के बल पर कार्य करता है।<br><br>अठारहवाँ अध्याय — <strong>आत्मपरीक्षा</strong> — ग्रन्थ का सबसे महत्त्वपूर्ण अध्यायों में एक है। आत्मा न स्कन्धों से अभिन्न है, न भिन्न (अग्नि-इन्धन रूपक अध्याय १० का सीधा प्रयोग)। जब 'आत्मग्रह' (मैं-भाव) शान्त होता है, तब 'ममकार' (मेरा-भाव) भी शान्त होता है — और यहीं से मुक्ति का द्वार खुलता है। प्रसिद्ध श्लोक (१८.५) कहता है — कर्म और क्लेशों का क्षय <strong>विकल्प</strong> (कल्पना) से होता है, विकल्प <strong>प्रपंच</strong> (वैचारिक विस्तार) से उत्पन्न होता है, और प्रपंच <strong>शून्यता में निरुद्ध</strong> होता है — यह मुक्ति की सम्पूर्ण प्रक्रिया एक श्लोक में। श्लोक (१८.९) तत्त्व (यथार्थ प्रकृति) को परिभाषित करता है — जो पर से नहीं जाना जाता, शान्त है, प्रपंच-रहित है, निर्विकल्प है, अनेकार्थ-रहित है।<br><br>उन्नीसवाँ अध्याय — <strong>कालपरीक्षा</strong> — ग्रन्थ का सबसे संक्षिप्त अध्याय (६ श्लोक) है। वर्तमान और भविष्यत् काल भूत-काल की अपेक्षा से ही परिभाषित होते हैं — परन्तु यदि भूत-काल स्वयं स्वतःसिद्ध नहीं, तो उस पर आश्रित वर्तमान-भविष्यत् भी सिद्ध नहीं। काल कोई वस्तुओं से स्वतन्त्र, पृथक् पात्र (container) नहीं — यह भी वस्तुओं की सापेक्षता से ही गृहीत प्रज्ञप्ति है।",
+      "body_en": "Chapter 17, the <strong>Examination of Action and Its Fruit</strong>, is the text's second-longest chapter (33 verses), grappling with a hard question: if everything is empty, how does action bear fruit? Nāgārjuna examines certain Abhidharma theories, such as 'avipraṇāśa' (a kind of indestructible promissory note that carries the karmic debt forward to the time of fruition), and shows that the action-fruit relation — like a seed and its sprout, or one magical creation producing another — functions on the strength of dependent origination alone, without any intrinsically existent carrier.<br><br>Chapter 18, the <strong>Examination of Self</strong>, is among the text's most consequential chapters. The self is neither identical to nor different from the aggregates (a direct application of the fire-fuel metaphor of Chapter 10). When the grasping at 'I' (ātmagraha) is pacified, the notion of 'mine' (mamakāra) is pacified too — and here the door to liberation opens. The famous verse (18.5) states: the exhaustion of karma and afflictions comes from conceptualization (vikalpa), conceptualization arises from discursive proliferation (prapañca), and prapañca is <strong>halted in emptiness</strong> — the entire process of liberation in a single verse. Verse 18.9 defines suchness (tattva) — the true nature of things — as: not known through another, peaceful, free of discursive proliferation, non-conceptual, without multiplicity.<br><br>Chapter 19, the <strong>Examination of Time</strong>, is the text's briefest chapter (6 verses). Present and future are defined only relative to the past — yet if the past is not itself self-established, then present and future, which depend on it, cannot be established either. Time is no independent container separate from things — it too is only a designation posited relative to things.",
+      "sub": [
+        {
+          "sk": "अविप्रणाश और कर्म-फल",
+          "hi": "कुछ अभिधार्मिकों ने कर्म-फल की व्याख्या हेतु 'अविप्रणाश' नामक एक अ-नाशवान् तत्त्व माना, जो प्रतिज्ञा-पत्र की भाँति कर्म-ऋण को फल-काल तक वहन करता है। नागार्जुन दिखाते हैं यह उपाय भी अन्ततः स्वभाव-वाद में फँस जाता है — असली उत्तर यह है कि कर्म-फल सम्बन्ध बिना किसी स्थायी वाहक के, केवल प्रतीत्यसमुत्पाद से कार्य करता है।",
+          "en": "Some Abhidharma schools explained action-fruit through 'avipraṇāśa,' an indestructible entity that, like a promissory note, carries the karmic debt forward to the time of fruition. Nāgārjuna shows this device too ultimately entangles itself in essentialism — the real answer is that the action-fruit relation functions purely through dependent origination, without any persisting carrier."
+        },
+        {
+          "sk": "आत्मग्रह और ममकार का शमन",
+          "hi": "जब यह ग्रहण किया जाता है कि 'मैं' नामक कोई स्वभाव-सिद्ध सत्ता नहीं, तब स्वतः 'यह मेरा है' का ग्रहण भी शान्त होता है। यही आत्मपरीक्षा का व्यावहारिक फल है — मुक्ति किसी सुदूर लक्ष्य की प्राप्ति नहीं, अपितु ग्रहण के शमन का सहज परिणाम है।",
+          "en": "When it is understood that no self-established entity called 'I' exists, the grasping at 'this is mine' is naturally pacified too. This is the practical fruit of the examination of self — liberation is not the attainment of some distant goal but the natural result of the cessation of grasping."
+        },
+        {
+          "sk": "तत्त्व का लक्षण (१८.९)",
+          "hi": "यथार्थ प्रकृति (तत्त्व) की परिभाषा — पर से न जानी जाने वाली (स्वयं अनुभूत), शान्त, वैचारिक विस्तार से रहित, निर्विकल्प, अनेकार्थ-रहित। यह वर्णन दिखाता है कि परम सत्य शब्दों और अवधारणाओं की पकड़ से परे है, स्वयं ही अनुभव करने योग्य है।",
+          "en": "The definition of suchness (tattva) — not known through another (directly experienced), peaceful, free of discursive elaboration, non-conceptual, without multiplicity. This description shows that ultimate truth lies beyond the grasp of words and concepts, to be experienced directly."
+        },
+        {
+          "sk": "काल की सापेक्षता",
+          "hi": "वर्तमान-भविष्यत्, भूत की अपेक्षा से ही सिद्ध होते हैं; भूत स्वयं भी अन्य कालों की अपेक्षा से गृहीत है। कोई भी काल स्वतन्त्र, वस्तुओं-रहित पात्र के रूप में सिद्ध नहीं होता — काल भी केवल सापेक्ष प्रज्ञप्ति है।",
+          "en": "Present and future are established only relative to the past; the past itself is posited only relative to the other times. No time can be established as an independent container devoid of things — time too is only a relative designation."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति आत्मपरीक्षा (अध्याय १८) को अपनी मध्यमकावतार में रथ-दृष्टान्त के माध्यम से विस्तार से विकसित करते हैं — आत्मा न स्कन्धों से अभिन्न, न भिन्न, न स्कन्धों में स्थित, न स्कन्ध उसमें, न स्कन्धों का समुदाय मात्र, न कोई विशेष आकृति — यह पञ्चकोटि विश्लेषण अग्नि-इन्धन रूपक (अध्याय १०) का पूर्ण विकास है। कर्मफल-परीक्षा में भी वे अविप्रणाश जैसी किसी भी 'वाहक' परिकल्पना को अस्वीकार कर शुद्ध प्रतीत्यसमुत्पाद पर बल देते हैं।",
+          "en": "Candrakīrti develops the Examination of Self (Chapter 18) at length through the chariot analysis in his Madhyamakāvatāra — the self is neither identical to nor different from the aggregates, neither located in them nor they in it, neither their mere collection nor some special shape — this fivefold analysis is the full development of the fire-fuel metaphor of Chapter 10. In the action-fruit chapter too, he rejects any 'carrier' hypothesis like avipraṇāśa, insisting on pure dependent origination alone.",
+          "ins": "Candrakīrti's chariot analogy has become the single most famous illustration of Madhyamaka reasoning about the self — precisely because it makes the fire-fuel logic of Chapter 10 vivid and intuitive, applied to the question everyone actually cares about: what am 'I'?"
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित आत्मपरीक्षा में भी शुद्ध प्रसंग-पद्धति अपनाते हैं — विरोधी चाहे आत्मा को स्कन्ध-अभिन्न माने या स्कन्ध-भिन्न, दोनों ही स्थितियों में उसके अपने आधार से असंगति निकाली जाती है। कालपरीक्षा में भी वे यही दिखाते हैं — विरोधी काल को स्वतन्त्र मानकर आगे बढ़े या वस्तु-सापेक्ष, दोनों दृष्टियाँ अपने भीतर से ही टूट जाती हैं।",
+          "en": "Buddhapālita retains the pure prasaṅga method in the Examination of Self too — whether the opponent holds the self identical to or different from the aggregates, inconsistency is drawn from their own premises in either case. In the time chapter too, he shows the same: whether the opponent takes time as independent or as relative to things, both views collapse from within.",
+          "ins": "Even in the chapter most people consider the philosophical climax of the text, Buddhapālita's commentary stays true to form — patient consequence-drawing, never asserting what the self 'really' is, only what it cannot be shown to be."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक आत्म-परीक्षा में स्वतन्त्र अनुमान से आत्मा के स्वभाव-सिद्ध अस्तित्व का निषेध करते हैं, परन्तु साथ ही एक 'प्रज्ञप्ति-सत् आत्मा' (संव्यवहार-सिद्ध, स्कन्ध-सन्तति पर आधारित) को कर्म-फल सातत्य और स्मृति की व्याख्या के लिए आवश्यक मानते हैं। कर्मफल-परीक्षा में भी वे इसी प्रज्ञप्ति-सत् ढाँचे में अविप्रणाश जैसे सिद्धान्तों की समीक्षा करते हैं, उन्हें पूर्णतः निरस्त करने के बजाय संव्यवहार-स्तर पर उनकी सीमित उपयोगिता स्वीकारते हैं।",
+          "en": "In the Examination of Self, Bhāviveka negates the intrinsically established existence of the self through autonomous inference, but still holds that a 'conventionally existent self' (based on the continuum of aggregates) is necessary to explain the continuity of karma and memory. In the action-fruit chapter too, he reviews theories like avipraṇāśa within this same conventional-existence framework, acknowledging their limited conventional usefulness rather than discarding them outright.",
+          "ins": "Bhāviveka's willingness to retain a 'conventionally real self' for explanatory purposes is exactly the kind of move Candrakīrti will later view with suspicion — doesn't positing even a conventionally established self as an explanatory posit start to smuggle svabhāva back in through the side door?"
+        }
+      },
+      "refs": "मूलमाध्यमककारिका १७.१-३३ (कर्मफल, अविप्रणाश-समीक्षा), १८.१-२ (आत्मा-स्कन्ध सम्बन्ध), १८.५ (कर्मक्लेशक्षयान् मोक्षः), १८.९ (तत्त्व-लक्षण), १९.१-६ (काल-सापेक्षता)"
+    },
+    {
+      "id": "causation_revisited_tathagata",
+      "num": 8,
+      "sk": "सामग्री-सम्भव-तथागतपरीक्षा",
+      "ro": "sāmagrī-sambhava-tathāgata-parīkṣā",
+      "full_sk": "सामग्रीपरीक्षा, सम्भवविभवपरीक्षा एवं तथागतपरीक्षा",
+      "full_ro": "sāmagrī-parīkṣā, sambhava-vibhava-parīkṣā, and tathāgata-parīkṣā",
+      "title_hi": "अध्याय २०-२२ · कारण-समवाय, उत्पत्ति-विनाश और तथागत की परीक्षा",
+      "title_en": "Chapters 20-22 · Examination of the Assemblage of Causes, Arising-Perishing, and the Tathāgata",
+      "body_hi": "बीसवाँ अध्याय — <strong>सामग्रीपरीक्षा</strong> — कारण-कार्य सम्बन्ध को पुनः एक नए कोण से जाँचता है: क्या कार्य कारणों और प्रत्ययों के <strong>समवाय</strong> (सम्मिलित समूह) से उत्पन्न होता है? यदि कार्य समवाय में पहले से विद्यमान है, तो उसे उत्पन्न होने की आवश्यकता नहीं (सत्कार्यवाद का दोष); यदि विद्यमान नहीं, तो समवाय कार्य को उत्पन्न करने में असमर्थ प्रतीत होगा (असत्कार्यवाद का दोष) — दोनों ही पक्षों में कारण-कार्य का वास्तविक, स्वभाव-सिद्ध सम्बन्ध सिद्ध नहीं होता।<br><br>इक्कीसवाँ अध्याय — <strong>सम्भवविभवपरीक्षा</strong> — उत्पत्ति (सम्भव) और विनाश (विभव) की परीक्षा करता है, विशेषतः संसार के सन्दर्भ में। उत्पत्ति और विनाश न साथ-साथ सम्भव हैं (परस्पर-विरोधी), न पृथक्-पृथक् स्वभाव-सिद्ध — संसार का न कोई स्वभाव-सिद्ध आरम्भ है, न अन्त।<br><br>बाईसवाँ अध्याय — <strong>तथागतपरीक्षा</strong> — अध्याय १० के अग्नि-इन्धन रूपक और अध्याय १८ के आत्म-विश्लेषण को स्वयं <strong>बुद्ध</strong> पर लागू करता है! तथागत न स्कन्धों से अभिन्न हैं, न भिन्न, न स्कन्धों को धारण करते हैं, न स्कन्ध उनमें स्थित, न वे स्कन्धों में स्थित — तथागत स्वयं स्वभाव-शून्य हैं। प्रसिद्ध निष्कर्ष (२२.१६) — 'तथागत का स्वभाव ही जगत् का स्वभाव है' — जो प्रतीत्यसमुत्पाद को देखता है, वही यथार्थतः तथागत को देखता है।",
+      "body_en": "Chapter 20, the <strong>Examination of the Assemblage of Causes</strong>, re-examines the cause-effect relation from a new angle: does the effect arise from the <strong>assemblage</strong> (samagrī) of its causes and conditions? If the effect already exists within the assemblage, it need not arise (the fault of satkāryavāda, pre-existent effect); if it does not exist, the assemblage seems incapable of producing it (the fault of asatkāryavāda) — in neither case is a real, intrinsically established cause-effect relation established.<br><br>Chapter 21, the <strong>Examination of Arising and Perishing</strong>, examines coming-into-being (sambhava) and ceasing (vibhava), especially in relation to saṃsāra. Arising and perishing can neither occur together (being mutually contradictory) nor be established separately with intrinsic nature — saṃsāra has neither an intrinsically established beginning nor end.<br><br>Chapter 22, the <strong>Examination of the Tathāgata</strong>, applies the fire-fuel metaphor of Chapter 10 and the self-analysis of Chapter 18 to the <strong>Buddha</strong> himself! The Tathāgata is neither identical to the aggregates nor different from them, neither possesses them, nor are they located in him, nor is he located in them — the Tathāgata himself is empty of intrinsic nature. The famous conclusion (22.16): 'the intrinsic nature of the Tathāgata is the very nature of the world' — whoever sees dependent origination truly sees the Tathāgata.",
+      "sub": [
+        {
+          "sk": "सत्कार्य-असत्कार्य दुविधा",
+          "hi": "यदि कार्य समवाय में पहले से विद्यमान है, तो उत्पत्ति निरर्थक (सत्कार्यवाद); यदि पूर्णतः अविद्यमान है, तो समवाय उसे उत्पन्न कैसे करेगा (असत्कार्यवाद)? यह दुविधा सांख्य और अन्य कारण-सिद्धान्तों की चुनौती है, जिसे कारण-कार्य की स्वभाव-शून्यता ही हल करती है।",
+          "en": "If the effect already exists in the assemblage, its arising becomes pointless (satkāryavāda); if it does not exist at all, how would the assemblage produce it (asatkāryavāda)? This dilemma challenges Sāṃkhya and other causal theories — resolved only by recognizing the emptiness of intrinsic nature in both cause and effect."
+        },
+        {
+          "sk": "उत्पत्ति-विनाश की परस्पर-विरोधिता",
+          "hi": "उत्पत्ति और विनाश साथ नहीं हो सकते (विरोधी अवस्थाएँ), और पृथक्-पृथक् स्वभाव-सिद्ध भी नहीं — संसार का कोई स्वभाव-सिद्ध आदि या अन्त नहीं मिलता, फिर भी वह सापेक्ष प्रवाह के रूप में कार्य करता रहता है।",
+          "en": "Arising and perishing cannot occur together (being contradictory states), nor can either be established separately with intrinsic nature — saṃsāra has no intrinsically established beginning or end, yet it continues to function as a relative flow."
+        },
+        {
+          "sk": "तथागत की पञ्चकोटि परीक्षा",
+          "hi": "तथागत स्कन्धों से अभिन्न नहीं, भिन्न नहीं, स्कन्धों को धारण नहीं करते, स्कन्ध उनमें स्थित नहीं, वे स्कन्धों में स्थित नहीं — यही रथ-विश्लेषण अध्याय १८ के आत्म-विश्लेषण से लिया गया है, अब स्वयं बुद्ध पर प्रयुक्त।",
+          "en": "The Tathāgata is not identical to the aggregates, not different, does not possess them, they are not located in him, he is not located in them — this is the same fivefold chariot-style analysis from Chapter 18's examination of self, now applied to the Buddha himself."
+        },
+        {
+          "sk": "तथागत = जगत् का स्वभाव",
+          "hi": "श्लोक २२.१६ — 'तथागत का स्वभाव ही जगत् का स्वभाव है।' जो प्रतीत्यसमुत्पाद को यथार्थतः देखता है, वही तथागत को यथार्थतः देखता है — यह श्लोक शून्यता और बुद्धत्व की गहनतम एकता को व्यक्त करता है।",
+          "en": "Verse 22.16: 'the intrinsic nature of the Tathāgata is the very nature of the world.' Whoever truly sees dependent origination truly sees the Tathāgata — this verse expresses the deepest unity of emptiness and buddhahood."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति तथागत-परीक्षा को आत्म-परीक्षा (अध्याय १८) के साथ अन्तरंग रूप से जोड़ते हैं — यदि सामान्य सत्त्व का 'मैं' स्कन्धों में न पाया जाए, तो स्वयं बुद्ध भी इसी नियम से मुक्त नहीं। यह दिखाना विशेष रूप से महत्त्वपूर्ण है क्योंकि इससे यह भ्रम दूर होता है कि शून्यता केवल साधारण वस्तुओं पर लागू होती है, बुद्ध जैसी 'विशेष' सत्ता पर नहीं — शून्यता सार्वभौमिक है, बुद्ध सहित।",
+          "en": "Candrakīrti closely links the Examination of the Tathāgata to the Examination of Self (Chapter 18) — if the ordinary being's 'I' cannot be found among the aggregates, the Buddha himself is not exempt from this same rule. Making this point explicitly matters, since it dispels the illusion that emptiness applies only to ordinary things, not to a 'special' entity like the Buddha — emptiness is universal, the Buddha included.",
+          "ins": "This is one of the most radical moves in the whole text: not even the Buddha gets an exemption from emptiness analysis. If anything, this heightens rather than diminishes the Buddha's significance — his teaching of dependent origination applies even to himself, with no special pleading."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित सामग्री-परीक्षा में सत्कार्य और असत्कार्य दोनों पक्षों को बारी-बारी विरोधी की शर्तों पर विफल दिखाते हैं। तथागत-परीक्षा में भी वे इसी प्रसंग-पद्धति से आगे बढ़ते हैं — विरोधी चाहे तथागत को स्कन्ध-अभिन्न माने या भिन्न, प्रत्येक विकल्प में असंगति उजागर करते हैं, बिना यह दावा किये कि 'तथागत वास्तव में क्या हैं'।",
+          "en": "Buddhapālita, in the assemblage chapter, shows both the satkārya and asatkārya positions failing in turn on the opponent's own terms. In the Tathāgata chapter too, he proceeds by the same prasaṅga method — whether the opponent holds the Tathāgata identical to or different from the aggregates, he exposes inconsistency in each option, without ever claiming to state 'what the Tathāgata really is.'",
+          "ins": "Notice that even applied to the Buddha, Buddhapālita's restraint holds: he never offers a positive account of what the Tathāgata 'truly' is. The silence itself is the point — any positive characterization would just reintroduce the svabhāva-grasping the whole text is dismantling."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक सामग्री-परीक्षा में स्वतन्त्र अनुमान द्वारा सत्कार्य और असत्कार्य दोनों सिद्धान्तों का खण्डन करते हैं। तथागत-परीक्षा में वे यह भी जोड़ते हैं कि बुद्ध की परमार्थ-काय (धर्मकाय) — यद्यपि स्वभाव-रहित — फिर भी संव्यवहार-स्तर पर रूपकाय के रूप में सत्त्वों के कल्याणार्थ प्रकट होती है, इस प्रकार बौद्ध कायत्रय-सिद्धान्त को अपनी दो-सत्य पद्धति में समाहित करते हैं।",
+          "en": "Bhāviveka, in the assemblage chapter, refutes both satkārya and asatkārya theories through autonomous inference. In the Tathāgata chapter, he adds that the Buddha's ultimate body (dharmakāya) — though empty of intrinsic nature — still manifests conventionally as the form-body (rūpakāya) for the welfare of beings, thereby integrating the Buddhist doctrine of the three bodies into his two-truths framework.",
+          "ins": "Bhāviveka's integration of the trikāya doctrine here shows his broader synthesizing instinct — he wants Madhyamaka emptiness to sit comfortably alongside the devotional and cosmological apparatus of developed Mahāyāna Buddhism, not simply negate it."
+        }
+      },
+      "refs": "मूलमाध्यमककारिका २०.१-२४ (सत्कार्य-असत्कार्य), २१.१-२१ (उत्पत्ति-विनाश), २२.१-१६ (तथागत पञ्चकोटि परीक्षा, अन्तिम श्लोक — 'तथागतो यत्स्वभावस्तत्स्वभावमिदं जगत्')"
+    },
+    {
+      "id": "noble_truths_nirvana",
+      "num": 9,
+      "sk": "विपर्यास-आर्यसत्य-निर्वाणपरीक्षा",
+      "ro": "viparyāsa-āryasatya-nirvāṇa-parīkṣā",
+      "full_sk": "विपर्यासपरीक्षा, आर्यसत्यपरीक्षा एवं निर्वाणपरीक्षा",
+      "full_ro": "viparyāsa-parīkṣā, āryasatya-parīkṣā, and nirvāṇa-parīkṣā",
+      "title_hi": "अध्याय २३-२५ · विपर्यास, आर्यसत्य और निर्वाण की परीक्षा",
+      "title_en": "Chapters 23-25 · Examination of Error, the Noble Truths, and Nirvāṇa",
+      "body_hi": "तेईसवाँ अध्याय — <strong>विपर्यासपरीक्षा</strong> — चार विपर्यासों (अशुचि को शुचि, दुःख को सुख, अनित्य को नित्य, अनात्मा को आत्मा मानना) की जड़ की खोज करता है। ये विपर्यास क्लेशों (राग, द्वेष, मोह) से उत्पन्न होते हैं — परन्तु स्वयं क्लेश भी स्वभाव-सिद्ध नहीं, वे भी विकल्प (गलत कल्पना) से ही उत्पन्न होते हैं। यदि क्लेश स्वभावतः विद्यमान होते, तो कभी दूर न किये जा सकते — परन्तु चूँकि वे शून्य हैं (माया या प्रतिबिम्ब की भाँति, केवल गलत दृष्टि से वास्तविक प्रतीत), सम्यक्-दृष्टि से उनका निवारण सम्भव है।<br><br>चौबीसवाँ अध्याय — <strong>आर्यसत्यपरीक्षा</strong> — सम्पूर्ण ग्रन्थ का <strong>केन्द्रीय अध्याय</strong> है (४० श्लोक)। विरोधी की आपत्ति यह है — यदि सब कुछ शून्य है, तो न उत्पत्ति है, न निरोध, न चार आर्यसत्य, न मार्ग, न फल, न त्रिरत्न — शून्यता तो सब कुछ नष्ट कर देती है! नागार्जुन का उत्तर ठीक विपरीत है — <strong>ठीक इसीलिए</strong> कि वस्तुएँ शून्य (अर्थात् प्रतीत्यसमुत्पन्न) हैं, समस्त कार्य-व्यापार, परिवर्तन, उत्पत्ति-निरोध और सम्पूर्ण चार-आर्यसत्य-ढाँचा सम्भव है — यदि वस्तुओं का स्वभाव स्थिर होता, तो वे कभी बदल न सकतीं, न उत्पन्न हो सकतीं, न निरुद्ध हो सकतीं, और सम्पूर्ण मार्ग असम्भव हो जाता। यहीं <strong>द्विसत्य-सिद्धान्त</strong> (संवृति-सत्य और परमार्थ-सत्य) प्रस्तुत होता है — संवृति-सत्य के आश्रय बिना परमार्थ की शिक्षा असम्भव है, और परमार्थ को समझे बिना मुक्ति असम्भव। ग्रन्थ का सर्वाधिक प्रसिद्ध श्लोक (२४.१८) यहीं आता है — <strong>'जो प्रतीत्यसमुत्पाद है, उसी को हम शून्यता कहते हैं; वह उपादाय-प्रज्ञप्ति है; वही मध्यम प्रतिपत्ति (मध्यम मार्ग) है'</strong> — प्रतीत्यसमुत्पाद, शून्यता, उपादाय-प्रज्ञप्ति और मध्यम मार्ग — ये चारों एक ही सत्य के चार नाम हैं।<br><br>पच्चीसवाँ अध्याय — <strong>निर्वाणपरीक्षा</strong> — जिस प्रकार संसार का कोई स्वभाव-सिद्ध अस्तित्व नहीं, उसी प्रकार निर्वाण भी सत्, असत्, उभय या अनुभय — किसी भी रूप में स्वभाव-सिद्ध सिद्ध नहीं होता (चतुष्कोटि पुनः लागू)। निर्वाण कोई नई प्राप्त की जाने वाली या त्यागी जाने वाली वस्तु नहीं। ग्रन्थ का दूसरा अत्यन्त प्रसिद्ध श्लोक-युग्म (२५.१९-२०) घोषणा करता है — <strong>'संसार और निर्वाण की सीमा में तनिक भी भेद नहीं है'</strong> — मुक्ति कहीं 'अन्यत्र' जाना नहीं, अपितु प्रपंच (वैचारिक विस्तार) के शमन से इसी अभेद को पहचानना है।",
+      "body_en": "Chapter 23, the <strong>Examination of Error</strong>, traces the root of the four inversions (viparyāsa) — mistaking the impure for pure, suffering for pleasure, the impermanent for permanent, and non-self for self. These inversions arise from the afflictions (rāga, dveṣa, moha) — but the afflictions themselves are not intrinsically established either; they too arise only from conceptual misconstruction (vikalpa). If afflictions existed intrinsically, they could never be removed — but since they are empty (like an illusion or a reflection, appearing real only through wrong view), right view can dispel them.<br><br>Chapter 24, the <strong>Examination of the Noble Truths</strong>, is the <strong>central chapter</strong> of the entire text (40 verses). The opponent's objection: if everything is empty, there is no arising, no ceasing, no Four Noble Truths, no path, no fruit, no Three Jewels — emptiness destroys everything! Nāgārjuna's reply is precisely the opposite — it is <strong>exactly because</strong> things are empty (that is, dependently originated) that all activity, change, arising-and-ceasing, and the entire framework of the Four Noble Truths becomes possible; if things had a fixed intrinsic nature, they could never change, arise, or cease, and the entire path would be impossible. Here the doctrine of the <strong>two truths</strong> (conventional and ultimate truth) is introduced — without relying on conventional truth, the ultimate cannot be taught, and without understanding the ultimate, liberation cannot be attained. The text's single most famous verse (24.18) appears here: <strong>'whatever arises dependently, that we call emptiness; it is a dependent designation; that itself is the middle way'</strong> — dependent origination, emptiness, dependent designation, and the middle way are four names for one truth.<br><br>Chapter 25, the <strong>Examination of Nirvāṇa</strong>, shows that just as saṃsāra has no intrinsically established existence, nirvāṇa too cannot be established as existent, non-existent, both, or neither (the tetralemma applied once more). Nirvāṇa is not something newly to be attained or abandoned. The text's second most famous pair of verses (25.19-20) declares: <strong>'there is not the slightest difference between the limits of saṃsāra and nirvāṇa'</strong> — liberation is not going somewhere 'else,' but recognizing this very non-difference through the pacification of discursive proliferation (prapañca).",
+      "sub": [
+        {
+          "sk": "चतुर्विपर्यास और क्लेशों की शून्यता",
+          "hi": "अशुचि-शुचि, दुःख-सुख, अनित्य-नित्य, अनात्मा-आत्मा — इन चार भ्रमों की जड़ में क्लेश हैं। क्लेश स्वभावतः विद्यमान नहीं, अतः शमनीय हैं — यदि क्लेश स्वभाव-सिद्ध होते तो कोई साधना उन्हें कभी दूर न कर पाती।",
+          "en": "Impure-as-pure, suffering-as-pleasure, impermanent-as-permanent, non-self-as-self — the root of these four confusions lies in the afflictions. The afflictions do not exist intrinsically, hence they can be pacified — if they existed intrinsically, no practice could ever remove them."
+        },
+        {
+          "sk": "द्विसत्य सिद्धान्त",
+          "hi": "संवृति-सत्य (लौकिक, व्यावहारिक सत्य) और परमार्थ-सत्य (अन्तिम सत्य) — इन दोनों को भेद किये बिना बुद्ध की गहन शिक्षा समझ में नहीं आती। संवृति के आश्रय बिना परमार्थ की शिक्षा असम्भव, परमार्थ को समझे बिना निर्वाण असम्भव (२४.९-१०)।",
+          "en": "Conventional truth (saṃvṛti-satya) and ultimate truth (paramārtha-satya) — without distinguishing these two, the Buddha's profound teaching cannot be understood. Without relying on the conventional, the ultimate cannot be taught; without understanding the ultimate, nirvāṇa cannot be attained (24.9-10)."
+        },
+        {
+          "sk": "मूल श्लोक — प्रतीत्यसमुत्पाद = शून्यता = मध्यम मार्ग",
+          "hi": "'यः प्रतीत्यसमुत्पादः शून्यतां तां प्रचक्ष्महे। सा प्रज्ञप्तिरुपादाय प्रतिपत्सैव मध्यमा॥' (२४.१८) — यह ग्रन्थ का हृदय-श्लोक है, जो चार शब्दों (प्रतीत्यसमुत्पाद, शून्यता, उपादाय-प्रज्ञप्ति, मध्यम प्रतिपत्ति) को एक अर्थ में एकीकृत करता है।",
+          "en": "'Whatever is dependently originated, that we call emptiness; it is a dependent designation; that itself is the middle way' (24.18) — this is the heart-verse of the text, unifying four terms (dependent origination, emptiness, dependent designation, the middle way) into a single meaning."
+        },
+        {
+          "sk": "संसार-निर्वाण अभेद",
+          "hi": "'न संसारस्य निर्वाणात् किंचिदस्ति विशेषणम्। न निर्वाणस्य संसारात् किंचिदस्ति विशेषणम्॥' (२५.१९-२०) — संसार और निर्वाण की सीमा में तनिक भी भेद नहीं है। मुक्ति = प्रपंच के शमन से इसी सत्य का साक्षात्कार, कहीं अन्यत्र गमन नहीं।",
+          "en": "'There is not the slightest difference between saṃsāra and nirvāṇa; there is not the slightest difference between nirvāṇa and saṃsāra' (25.19-20) — the limits of saṃsāra and nirvāṇa are not even slightly different. Liberation is the direct realization of this truth through the pacification of discursive proliferation, not a journey elsewhere."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति आर्यसत्यपरीक्षा (अध्याय २४) को समस्त प्रासङ्गिक पद्धति की धर्मशास्त्रीय नींव मानते हैं — विरोधी का यह आरोप कि शून्यता नैतिक और धार्मिक जीवन को नष्ट कर देती है, उन्हें अपनी दृष्टि को स्पष्ट करने का अवसर देता है: शून्यता स्वयं किसी सिद्धान्त की प्रतिज्ञा नहीं, अपितु प्रतीत्यसमुत्पाद की सम्यक् समझ है, जो लौकिक व्यवहार को अविश्लेषित स्वीकार करते हुए ही परमार्थ की ओर ले जाती है। संसार-निर्वाण अभेद की व्याख्या में भी वे इसी अविभाज्यता पर बल देते हैं।",
+          "en": "Candrakīrti treats the Examination of the Noble Truths (Chapter 24) as the scriptural foundation for the entire prāsaṅgika method — the opponent's charge that emptiness destroys ethical and religious life gives him the occasion to clarify his position: emptiness is not itself the assertion of a doctrine but the correct understanding of dependent origination, which leads toward the ultimate precisely by accepting worldly convention without further analysis. In explaining the non-difference of saṃsāra and nirvāṇa too, he emphasizes this very inseparability.",
+          "ins": "Candrakīrti's reading turns the opponent's objection on its head: it's not that emptiness threatens ethics and practice despite appearances — rightly understood, emptiness is the only thing that makes ethics, practice, and change possible at all. Fixed essences would freeze the world solid."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित यहाँ भी विरोधी के आक्षेप ('शून्यता सब कुछ नष्ट कर देती है') को स्वीकार कर उसी में से यह असंगति निकालते हैं कि यदि वस्तुएँ स्वभाव-सिद्ध होतीं (जैसा विरोधी चाहता है), तो वे कभी बदल न पातीं, और स्वयं आर्यसत्य-मार्ग भी असम्भव हो जाता — अर्थात् विरोधी का अपना स्वभाव-वाद ही आर्यसत्यों को नष्ट करता है, शून्यता नहीं। निर्वाण-परीक्षा में भी वे चतुष्कोटि के प्रत्येक विकल्प को विरोधी की शर्तों पर विफल दिखाते हैं।",
+          "en": "Here too Buddhapālita grants the opponent's objection ('emptiness destroys everything') and draws out from it the consequence that if things were intrinsically established (as the opponent wants), they could never change, and the very path of the Noble Truths would become impossible — that is, it is the opponent's own essentialism, not emptiness, that destroys the Noble Truths. In the nirvāṇa chapter too, he shows each option of the tetralemma failing on the opponent's own terms.",
+          "ins": "Buddhapālita's jiu-jitsu move here is elegant: rather than defending emptiness directly, he shows the accusation boomerangs — it's essentialism, the very view emptiness opposes, that actually produces the nihilistic paralysis the opponent fears."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक आर्यसत्यपरीक्षा में द्विसत्य-सिद्धान्त को अपने पूरे तन्त्र का आधार बनाते हैं — संवृति-सत्य को प्रमाण-सिद्ध, सुसंगत व्यवस्था मानते हुए, वे स्वतन्त्र अनुमान द्वारा दिखाते हैं कि यही संवृति परमार्थतः स्वभाव-रहित है। यह दृष्टिकोण उन्हें बौद्ध तर्कशास्त्र (दिङ्नाग-परम्परा) और मध्यमक दर्शन के बीच सेतु बनाने में सक्षम बनाता है। निर्वाण-परीक्षा में भी वे निर्वाण के परमार्थ-स्वरूप को स्वतन्त्र अनुमान से स्थापित करने का प्रयास करते हैं।",
+          "en": "Bhāviveka makes the two-truths doctrine the foundation of his entire system in the Examination of the Noble Truths — treating conventional truth as a coherent system validated by valid cognition, he uses autonomous inference to show this very convention is ultimately devoid of intrinsic nature. This approach lets him build a bridge between Buddhist logic (the Dignāga tradition) and Madhyamaka philosophy. In the nirvāṇa chapter too, he attempts to establish the ultimate nature of nirvāṇa through autonomous inference.",
+          "ins": "Bhāviveka's project here is genuinely ambitious: make Madhyamaka's most radical claim — total emptiness, even of the Noble Truths themselves — provable using the same logical toolkit Buddhist epistemologists used to establish anything else. Whether that's possible without contradiction is exactly what later centuries of debate turn on."
+        }
+      },
+      "refs": "मूलमाध्यमककारिका २३.१-२५ (चतुर्विपर्यास, क्लेश-शून्यता), २४.१-६ (विरोधी की आपत्ति), २४.८-१० (द्विसत्य), २४.१८ (हृदय-श्लोक — 'यः प्रतीत्यसमुत्पादः'), २४.४० (शून्यता ही आर्यसत्य सम्भव करती है), २५.१-३ (निर्वाण-चतुष्कोटि), २५.१९-२० (संसार-निर्वाण अभेद)"
+    },
+    {
+      "id": "dependent_origination_views",
+      "num": 10,
+      "sk": "द्वादशाङ्ग-दृष्टिपरीक्षा",
+      "ro": "dvādaśāṅga-dṛṣṭi-parīkṣā",
+      "full_sk": "द्वादशाङ्गपरीक्षा एवं दृष्टिपरीक्षा",
+      "full_ro": "dvādaśāṅga-parīkṣā and dṛṣṭi-parīkṣā",
+      "title_hi": "अध्याय २६-२७ · द्वादश निदान और दृष्टियों की परीक्षा",
+      "title_en": "Chapters 26-27 · Examination of the Twelve Links and of Views",
+      "body_hi": "छब्बीसवाँ अध्याय — <strong>द्वादशाङ्गपरीक्षा</strong> — शैली में शेष ग्रन्थ से भिन्न है। यहाँ नागार्जुन तर्क-वाद-विवाद की भाषा छोड़कर द्वादश निदानों (अविद्या, संस्कार, विज्ञान, नामरूप, षडायतन, स्पर्श, वेदना, तृष्णा, उपादान, भव, जाति, जरामरण) को पारम्परिक, वर्णनात्मक अभिधर्म-शैली में प्रस्तुत करते हैं — अनुलोम क्रम में यह सम्पूर्ण दुःख-स्कन्ध का उत्पत्ति-चक्र है, प्रतिलोम क्रम में (अविद्या-निरोध से संस्कार-निरोध, इत्यादि) यह मुक्ति का मार्ग है। यह अध्याय दिखाता है कि शून्यता की गहनतम दार्शनिक परीक्षा, बुद्ध के मूल प्रतीत्यसमुत्पाद-उपदेश का खण्डन नहीं, अपितु उसकी गहनतम पुष्टि है।<br><br>सत्ताईसवाँ, अन्तिम अध्याय — <strong>दृष्टिपरीक्षा</strong> — आत्मा और जगत् के विषय में विविध अटकल-पूर्ण दृष्टियों की परीक्षा करता है (ब्रह्मजाल-सूत्र में वर्णित सोलह जैसी दृष्टियाँ) — क्या मैं भूत में था? क्या मैं भविष्य में रहूँगा? क्या आत्मा शाश्वत है या उच्छिन्न? क्या जगत् का अन्त है या नहीं? नागार्जुन दिखाते हैं कि प्रत्येक दृष्टि किसी स्वभाव-सिद्ध आत्मा या जगत् की झूठी पूर्व-मान्यता पर टिकी है, जिसे ग्रन्थ पहले ही ध्वस्त कर चुका है — अतः प्रत्येक दृष्टि विश्लेषण में स्वयं ढह जाती है। ग्रन्थ का समापन गौतम बुद्ध की स्तुति से होता है — जिन्होंने करुणा-वश यह सद्धर्म (प्रतीत्यसमुत्पाद और शून्यता) इसलिए उपदेशित किया कि समस्त दृष्टियाँ सर्वथा प्रहीण हो जाएँ।",
+      "body_en": "Chapter 26, the <strong>Examination of the Twelve Links</strong>, differs in style from the rest of the text. Here Nāgārjuna sets aside dialectical argumentation and presents the twelve links (ignorance, formations, consciousness, name-and-form, six sense-fields, contact, sensation, craving, grasping, becoming, birth, old-age-and-death) in a traditional, descriptive Abhidharma style — in forward order, this is the entire cycle by which the mass of suffering arises; in reverse order (with the cessation of ignorance comes the cessation of formations, and so on), this is the path to liberation. This chapter shows that the deepest philosophical examination of emptiness is not a refutation of the Buddha's original teaching of dependent origination but its deepest confirmation.<br><br>Chapter 27, the final chapter, the <strong>Examination of Views</strong>, examines the range of speculative views about self and world (similar to the sixteen views catalogued in the Brahmajāla Sutta) — did I exist in the past? will I exist in the future? is the self eternal or annihilated? does the world have an end or not? Nāgārjuna shows that every such view rests on a false presupposition of an intrinsically established self or world — which the entire text has already dismantled — so each view collapses under analysis on its own. The text closes with homage to Gautama Buddha, who out of compassion taught this true dharma (dependent origination and emptiness) precisely so that all views might be entirely relinquished.",
+      "sub": [
+        {
+          "sk": "अनुलोम — बन्धन का चक्र",
+          "hi": "अविद्या → संस्कार → विज्ञान → नामरूप → षडायतन → स्पर्श → वेदना → तृष्णा → उपादान → भव → जाति → जरामरण — यह अनुलोम क्रम सम्पूर्ण दुःख-स्कन्ध के उत्पन्न होने का चक्र है, जिससे साधारण सत्त्व संसार में बँधा रहता है।",
+          "en": "Ignorance → formations → consciousness → name-and-form → six sense-fields → contact → sensation → craving → grasping → becoming → birth → old-age-and-death — this forward order is the cycle by which the entire mass of suffering arises, binding the ordinary being to saṃsāra."
+        },
+        {
+          "sk": "प्रतिलोम — मुक्ति का मार्ग",
+          "hi": "अविद्या-निरोध से संस्कार-निरोध, संस्कार-निरोध से विज्ञान-निरोध — इसी क्रम में अन्ततः सम्पूर्ण दुःख-स्कन्ध का निरोध होता है। यही द्वादशाङ्ग का प्रतिलोम क्रम = बुद्धत्व का मार्ग।",
+          "en": "With the cessation of ignorance comes the cessation of formations, with the cessation of formations comes the cessation of consciousness — following this order, the entire mass of suffering ultimately ceases. This reverse order of the twelve links is the path to awakening."
+        },
+        {
+          "sk": "षोडश दृष्टि-विकल्प",
+          "hi": "आत्मा और जगत् के भूत-भविष्यत् विषयक सोलह सम्भावित दृष्टियाँ (शाश्वतवाद, उच्छेदवाद, जगत् की सान्तता-असान्तता आदि) — प्रत्येक किसी स्वभाव-सिद्ध आत्मा या जगत् की मिथ्या पूर्व-मान्यता पर टिकी है, जो विश्लेषण में स्वयं ढह जाती है।",
+          "en": "The sixteen possible views about self and world across past and future (eternalism, annihilationism, the world's finitude or infinitude, and so on) — each rests on a false presupposition of an intrinsically established self or world, which collapses under analysis."
+        },
+        {
+          "sk": "गौतम बुद्ध को अन्तिम नमस्कार",
+          "hi": "ग्रन्थ करुणामय गौतम बुद्ध को नमस्कार करते हुए समाप्त होता है, जिन्होंने सद्धर्म (प्रतीत्यसमुत्पाद-शून्यता) का उपदेश समस्त दृष्टियों के सम्पूर्ण प्रहाण हेतु दिया — यह मंगलाचरण के अष्ट-निषेध श्लोक की परिणति है।",
+          "en": "The text ends with homage to the compassionate Gautama Buddha, who taught the true dharma (dependent origination as emptiness) precisely for the complete relinquishing of all views — this is the culmination of the eightfold negation announced in the opening dedication."
+        }
+      ],
+      "cm": {
+        "candrakirti": {
+          "a": "चन्द्रकीर्ति · Candrakīrti (प्रसन्नपदा)",
+          "h": "चन्द्रकीर्ति द्वादशाङ्गपरीक्षा को यह दिखाने के लिए महत्त्वपूर्ण मानते हैं कि माध्यमिक बुद्ध के मूल उपदेश से कहीं दूर नहीं गया — शून्यता, प्रतीत्यसमुत्पाद की ही गहनतम व्याख्या है, कोई पृथक् दर्शन नहीं। दृष्टिपरीक्षा में वे अन्तिम बार दोहराते हैं कि प्रासङ्गिक पद्धति ही एकमात्र उपाय है जो स्वयं किसी नई दृष्टि को जन्म दिये बिना सभी दृष्टियों का प्रहाण कर सकती है — क्योंकि जो स्वयं कोई पक्ष स्थापित नहीं करता, वही 'दृष्टि-रहित' रह सकता है।",
+          "en": "Candrakīrti considers the Examination of the Twelve Links important precisely to show that the Mādhyamika has not strayed from the Buddha's original teaching — emptiness is the deepest explication of dependent origination itself, not a separate philosophy. In the Examination of Views, he reiterates one final time that the prāsaṅgika method alone can relinquish all views without itself generating a new view — because only one who establishes no position of their own can remain truly 'view-free.'",
+          "ins": "The text's final chapters bring Candrakīrti's whole project full circle: the most technical, seemingly nihilistic reasoning of the middle chapters turns out to be in complete service of the most traditional Buddhist goal — freedom from views, in exact fidelity to the Buddha's own teaching."
+        },
+        "buddhapālita": {
+          "a": "बुद्धपालित · Buddhapālita",
+          "h": "बुद्धपालित की टीका द्वादशाङ्गपरीक्षा में अपेक्षाकृत संक्षिप्त हो जाती है, क्योंकि यह अध्याय स्वयं विवादात्मक नहीं, वर्णनात्मक है — यहाँ विशेष प्रसंगापादन की आवश्यकता कम है। दृष्टिपरीक्षा में वे पुनः अपनी प्रिय पद्धति पर लौटते हैं — प्रत्येक दृष्टि (शाश्वत आत्मा, उच्छिन्न आत्मा आदि) को विरोधी की अपनी मान्यताओं पर जाँचकर, प्रत्येक में अन्तर्निहित असंगति उजागर करते हैं, ग्रन्थ को उसी संयमित पद्धति से समाप्त करते हैं जिससे उसने आरम्भ किया था।",
+          "en": "Buddhapālita's commentary becomes relatively brief in the Examination of the Twelve Links, since this chapter is itself descriptive rather than dialectical — less occasion for consequentialist argument is needed here. In the Examination of Views, he returns to his favored method — examining each view (eternal self, annihilated self, and so on) against the opponent's own commitments, exposing the inconsistency inherent in each, closing the text with the same disciplined method with which it began.",
+          "ins": "There's a pleasing symmetry in Buddhapālita's approach bookending the text: Chapter 1 opened by dismantling causation through pure consequence; Chapter 27 closes by dismantling every remaining metaphysical view the same way. The method never changes, only its targets."
+        },
+        "bhavaviveka": {
+          "a": "भाववेक · Bhāviveka (प्रज्ञाप्रदीप)",
+          "h": "भाववेक द्वादशाङ्गपरीक्षा को अभिधर्म और मध्यमक की संगति दिखाने के अवसर के रूप में प्रयुक्त करते हैं — पारम्परिक द्वादश-निदान सिद्धान्त, संव्यवहार-स्तर पर पूर्णतः वैध है, और परमार्थ-स्तर पर स्वतन्त्र अनुमान द्वारा स्वभाव-शून्य सिद्ध होता है। दृष्टिपरीक्षा में भी वे अन्तिम बार अपनी पद्धति दोहराते हैं — प्रत्येक दृष्टि का खण्डन विधिवत् त्रैरूप्य अनुमान से करते हैं, ग्रन्थ को तार्किक निष्पत्ति के रूप में समाप्त करते हुए, जिससे बौद्ध और गैर-बौद्ध तर्कशास्त्री दोनों सहमत हो सकें।",
+          "en": "Bhāviveka uses the Examination of the Twelve Links as an occasion to display the harmony of Abhidharma and Madhyamaka — the traditional twelve-link doctrine is fully valid at the conventional level, and shown empty of intrinsic nature at the ultimate level through autonomous inference. In the Examination of Views too, he repeats his method one final time — refuting each view through a properly formed three-part syllogism, closing the text as a logical conclusion that both Buddhist and non-Buddhist logicians could, in principle, follow.",
+          "ins": "Bhāviveka's closing move fits his whole career: he wants the text's final word to be something a rigorous outside logician could evaluate and accept on its own terms — a fitting bookend to a commentator who spent the whole work trying to make Madhyamaka legible to the wider world of Buddhist logic."
+        }
+      },
+      "refs": "मूलमाध्यमककारिका २६.१-१२ (द्वादश निदान, अनुलोम-प्रतिलोम), २७.१-६ (भूत-भविष्यत् विषयक दृष्टियाँ), २७.१२-२० (शाश्वत-उच्छेद दृष्टि-खण्डन), २७.३० (अन्तिम श्लोक — गौतम बुद्ध को नमस्कार, सर्व-दृष्टि-प्रहाणार्थ सद्धर्मोपदेश)"
+    }
+  ]
+}
