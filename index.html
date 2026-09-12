@@ -486,7 +486,7 @@ async function loadCatalog(){
   UP=catalog.texts.map(t=>({
     id:t.id, name:t.name, en:t.en, icon:t.icon,
     color:t.color, veda:t.veda, desc:t.desc, total:t.total,
-    _files:t.files
+    _files:t.files, _overview:t.overview||null
   }));
   CONCEPTS=(catalog.concepts||[]).map(c=>({
     id:c.id, name:c.name, en:c.en, icon:c.icon,
@@ -724,6 +724,14 @@ function renderList(){
         <button class="toc-btn" onclick="openM(0)">ॐ Start</button>
       </div>
     </div>
+    ${u._overview?`<div class="sec-card" onclick="openTextOverview('${u.id}')" style="margin:8px 0;border:1px solid rgba(212,160,23,0.3);background:rgba(212,160,23,0.06)">
+      <div class="sec-num" style="background:rgba(212,160,23,0.15);color:#D4A017">☸️</div>
+      <div style="flex:1">
+        <div class="sec-name">समग्र सार · Abridged Overview</div>
+        <div class="sec-range">सभी २७ अध्यायों का संक्षिप्त विवरण</div>
+      </div>
+      <div style="color:var(--tf)">›</div>
+    </div>`:''}
     ${secs.length?'<div class="lbl">अध्याय / खंड · SECTIONS</div><div class="sec-list">'+secs.map((s,i)=>{
       const info=secProgressInfo(u,s);
       return`<div class="sec-card" onclick="openSec(${i})">
@@ -1122,6 +1130,25 @@ function renderConceptCards(){
       </div>
       <div class="ca">›</div>
     </div>`}).join('');
+}
+
+async function openTextOverview(uid){
+  const u=UP.find(x=>x.id===uid);
+  if(!u||!u._overview) return;
+  if(!CONCEPT_DATA['_ov_'+uid]){
+    const res=await fetch(CONTENT_BASE+u._overview);
+    CONCEPT_DATA['_ov_'+uid]=await res.json();
+  }
+  const data=CONCEPT_DATA['_ov_'+uid];
+  CCV='_ov_'+uid;CCVD=data;
+  showScr('concept');
+  document.getElementById('cv-icon').textContent=data.icon||u.icon;
+  document.getElementById('cv-title').textContent=data.title||u.name;
+  document.getElementById('cv-sub').textContent=(data.en_title||u.en)+' — '+(data.en_subtitle||'');
+  document.getElementById('cv-resume').innerHTML='';
+  document.getElementById('cv-intro-wrap').innerHTML='';
+  document.getElementById('cv-sections').innerHTML='';
+  renderConceptList(data);
 }
 
 async function loadConceptData(id){
